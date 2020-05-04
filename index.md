@@ -4,23 +4,25 @@ title: GoBusiness
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: 
+notification: For COVID-related government assistance, please click <a href="https://covid.gobusiness.gov.sg/" target="_blank">here</a> to see the listing.
 sections:
     - hero:
-        title: Supporting Our Businesses
-        subtitle: Overcoming Challenges, Emerging Stronger
-        background: /images/hero-banner.jpg
+        title: Successful Businesses in Singapore
+        subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner. 
+        background: \images\govassist-hero-banner.jpg
+        button: Get Recommendations From E-adviser
+        url: https://ea-staging.l1t.molb.gov.sg/#/ 
         key_highlights:
-        - title: General Exemption
-          url: https://go.gov.sg/generalexemption
-          description: Application for your workplace to be allowed to continue operations during the suspension period.</br>or</br>Declaration for companies which provide essential services.</br></br>Click Here
-        - title: Application for Amendment
-          url: https://go.gov.sg/additionalinfo
-          description: </br>Amendment for submitted applications under General Exemption.</br></br></br>Click Here
-        - title: Application for Additional Manpower
-          url: https://go.gov.sg/additionalmanpower
-          description: </br>If you would like to request for additional manpower. (Only for businesses  that have received approval for exemption)</br></br>Click Here
-        - title: Manpower Submission Form
-          url: https://go.gov.sg/timelimitedexemption
-          description: </br>Only for businesses performing essential services and those who have an approval for exemption</br></br></br>Click Here
+        - title: Gobuiness Licensing
+          url: https://www.gobusiness.gov.sg/licences
+          description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
+        - title: E-adviser
+          url: https://gb-assist-staging.netlify.app/growsj/gov-assist/
+          description: Learn about relevant Government assistance for your business needs
+        - title: Productivity Solutions Grant
+          url: https://gb-assist-staging.netlify.app/growsj/psg/
+          description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
+        - title: Gebiz Alerts
+          url: 
+          description: Be informed about the latest Government contracts
 ---
