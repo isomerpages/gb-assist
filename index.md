@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: GoBusiness
+title: GoBusiness Govassist
 description: For Singapore Businesses
 image: /images/
 permalink: /
@@ -13,7 +13,7 @@ sections:
         button: Get Recommendations From E-adviser
         url: https://ea-staging.l1t.molb.gov.sg/#/ 
         key_highlights:
-        - title: Gobuiness Licensing
+        - title: Gobusiness Licensing
           url: https://www.gobusiness.gov.sg/licences
           description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
         - title: E-adviser
