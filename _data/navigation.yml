@@ -4,12 +4,12 @@
 #                                #
 ##################################
 
-logo: /images/isomer-logo.svg
+logo: /images/Gobiz_COVID_logo-01.svg
+
 
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: About This Site
-    url: /about-this-site/
-  - title: Schemes
-    collection: schemes
+  - title: GrowSJ
+    collection: growsj
+  - title: PSG
+    collection: psg
+  - title: FAQ

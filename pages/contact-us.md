@@ -2,31 +2,17 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: Ministry of Trade and Industry Singapore
+#agency_name: Test
 contacts:
-  - title: General Enquiries & Feedback
+  - title: For more enquiries, please contact us at
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
-    content:
-    - email: careers@abc.gov.sg
+#    - phone: Test
+    - phone: +65 6898 1800
+    - other: From Monday-Saturday 8.30am-5.30pm (except public holidays)
+#    - email: Test
+    - email: safedistancing@enterprisesg.gov.sg
+#    - other: Test 
+    - other: <br>We are experiencing a high volume of enquiries and appreciate your understanding and patience. Kindly refrain from submitting duplicate applications to avoid further delays.  
+#    - other: For more enquiries,<br>contact us at +65 6898 1800 or drop us an email at safedistancing@enterprisesg.gov.sg   
 ---

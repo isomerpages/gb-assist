@@ -1,10 +1,18 @@
+faq: /faq/general/
 contact_us: /contact-us/
-show_reach: true
-feedback: 
-faq: /faq/
-social_media:
-    facebook: https://www.facebook.com/YourFBPage
-    twitter: https://www.twitter.com/YourTwitter
-    youtube: https://www.youtube.com/YourYoutube
-    instagram: https://www.instagram.com/your.insta/
-    linkedin: https://www.linkedin.com/company/YourAgency
+copyright_agency: GoBusiness
+privacy_policy: /privacy/
+terms_of_use: /terms-of-use/
+
+navlinks:
+  - title: Products
+  #  url: /
+    sublinks:
+      - title: GoBusiness Licensing
+        url: https://www.gobusiness.gov.sg/licences
+      - title: GoBusiness Gov Assist *Coming Soon!
+      #  url: /some-page-b/
+      #- title: Subitem 3
+      #  url: /some-page-c/
+  - title: List of Essential Services
+    url: /essentialservices/

@@ -4,14 +4,21 @@
 
 @charset "utf-8";
 
-// Agency brand colors
-$primary: {{- site.colors.primary-color -}};
-$secondary: {{- site.colors.secondary-color -}};
+// HLB brand colors
+//$primary: #6031b6;
+$primary: #00838f;
+$secondary: #00838f;
+//$secondary: #4372d6;
+//$secondary: #313840;
 $secondary-hover: lighten($secondary, 10%);
 
-{%- for media-color in site.colors.media-colors -%}
-  ${{- media-color.title -}}: {{- media-color.color -}};
-{%- endfor -%}
+//$media-color-one: #49759a;
+//$media-color-two: #744d9f;
+$media-color-one: #00838f;
+$media-color-two: #00838f;
+$media-color-three: #00838f;
+$media-color-four: #00838f;
+$media-color-five: #00838f;
 
 $gap: 32px !default;
 $desktop: 960px + (2 * $gap) !default;
@@ -39,14 +46,36 @@ $desktop: 960px + (2 * $gap) !default;
     background-color: $secondary !important;
   }
   &-media-color {
-    {%- for media-color in site.colors.media-colors -%}
-      &-{{- forloop.index -}} {
-        background-color: ${{- media-color.title -}};
-        &:hover {
-          background-color: darken(${{- media-color.title -}}, 10%);
-        }
-      }
-    {%- endfor -%}
+  	&-1 {
+  		background-color: $media-color-one;
+  		&:hover {
+  			background-color: darken($media-color-one, 10%);
+		}
+  	}
+  	&-2 {
+  		background-color: $media-color-two;
+  		&:hover {
+  			background-color: darken($media-color-two, 10%);
+		}
+  	}
+  	&-3 {
+  		background-color: $media-color-three;
+  		&:hover {
+  			background-color: darken($media-color-three, 10%);
+		}
+  	}
+  	&-4 {
+  		background-color: $media-color-four;
+  		&:hover {
+  			background-color: darken($media-color-four, 10%);
+		}
+  	}
+  	&-5 {
+  		background-color: $media-color-five;
+  		&:hover {
+  			background-color: darken($media-color-five, 10%);
+		}
+  	}
   }
   &-1{
     //background-color: $primary;
@@ -197,14 +226,18 @@ $desktop: 960px + (2 * $gap) !default;
 
 // Homepage
 #key-highlights{
-	background-color: $primary;
+	//background-color: $primary;
+	background-color: #2664C4;
 	.col {
-		border-left:1px solid darken($primary,10%);
+		//border-left:1px solid darken($primary,10%);
+		border-left:1px solid darken(#2664C4,10%);
 		@include touch(){
-			border-top:1px solid darken($primary,10%);
+			//border-top:1px solid darken($primary,10%);
+			border-left:1px solid darken(#2664C4,10%);
 		}
 		&:hover{
-			background-color: darken($primary,10%);
+			//background-color: darken($primary,10%);
+			background-color: darken(#2664C4,10%);
 		}
 	}
 }
@@ -216,39 +249,47 @@ $desktop: 960px + (2 * $gap) !default;
       a{
         &.active{
           @include touch(){
-            border-bottom:2px solid $secondary;
+            //border-bottom:2px solid $secondary;
+						border-bottom:2px solid #00838f;
           }
         }
       }
     }
   }
   .navbar-link:hover:after {
-    border-bottom: 1px solid $secondary;
-    border-left: 1px solid $secondary;
+    //border-bottom: 1px solid $secondary;
+    //border-left: 1px solid $secondary;
+		border-bottom: 1px solid #00838f;
+    border-left: 1px solid #00838f;
   }
 
   .navbar-item{
     .sub-link.is-active{
-      color:$secondary;
+      //color:$secondary;
+			color:#00838f;
     }
 
     .selector{
       &.active{
-        background-color:$secondary;
+        //background-color:$secondary;
+				background-color:#00838f;
       }
     }
     &.active{
       @include desktop(){
-        border-bottom:1px solid $secondary;
+        //border-bottom:1px solid $secondary;
+				border-bottom:1px solid #00838f;
       }
     }
   }
 .navbar-item:hover {
   a {
-    color:$secondary;
+    //color:$secondary;
+		color:#00838f;
   }
   .selector {
-      background-color:$secondary;
+      //background-color:$secondary;
+			background-color:#00838f;
     }
   }
 }
