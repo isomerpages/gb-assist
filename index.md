@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Successful Businesses in Singapore
         subtitle: Understanding business needs and allowing transactions with all government agencies in a simple, streamlined and speedy manner. 
-        background: \images\govassist-hero-banner.jpg
+        background: /images/govassist-hero-banner.jpg
         button: Get Recommendations From E-adviser
         url: https://ea-staging.l1t.molb.gov.sg/#/ 
         key_highlights:
