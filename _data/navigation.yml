@@ -4,11 +4,11 @@
 #                                #
 ##################################
 
-logo: /images/Gobiz_COVID_logo-01.svg
+logo: /images/Gobiz_GA_logo.svg
 
 
 links:
-  - title: GrowSJ
+  - title: List of Government Assistance
     collection: growsj
   - title: PSG
     collection: psg
