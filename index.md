@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: GoBusiness Govassist
+title: GoBusiness Gov Assist
 description: For Singapore Businesses
 image: /images/
 permalink: /
