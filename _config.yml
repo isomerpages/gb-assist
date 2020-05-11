@@ -3,7 +3,7 @@ url: "https://govassist.gobusiness.gov.sg" # the base hostname & protocol for yo
 logo: /images/Gobiz_GA_logo.jpg
 favicon: /images/Gobiz_favicon.ico
 collections:
-  govassist:
+  gov-assist:
     output: true
   psg:
     output: true
