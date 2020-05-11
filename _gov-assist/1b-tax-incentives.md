@@ -1,7 +1,7 @@
 ---
 title: Tax Incentives
-permalink: /growsj/gov-assist/tax-incentives/
-third_nav_title: Support type
+permalink: /gov-assist/tax-incentives/
+third_nav_title: View by support type
 ---
 
 ## Approved Contract Manufacturer and Trade (ACMT) Scheme

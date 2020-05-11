@@ -1,7 +1,7 @@
 ---
 title: Toolkits/Programs
-permalink: /growsj/gov-assist/toolkits-programs/
-third_nav_title: Support type
+permalink: /gov-assist/toolkits-programs/
+third_nav_title: View by support type
 ---
 
 ## SME Financial Management Toolkit

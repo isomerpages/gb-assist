@@ -1,6 +1,6 @@
 ---
 title: Accounting and Human Resource Management Version 3.0 - Package C (50 Users)
-permalink: /growsj/psg/am-hrms/ahrmv3.0-pkgc-50users/
+permalink: /psg/am-hrms/ahrmv3.0-pkgc-50users/
 third_nav_title: AMHRMS listings
 ---
 

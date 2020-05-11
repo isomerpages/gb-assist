@@ -1,6 +1,6 @@
 ---
 title: Business Grants Portal
-permalink: /growsj/business-grants-portal/
+permalink: /business-grants-portal/
 ---
 
 ## Business Grants Portal

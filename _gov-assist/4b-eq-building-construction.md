@@ -1,6 +1,6 @@
 ---
-title: Agriculture
-permalink: /growsj/psg/eq-agriculture/
+title: Building & Construction
+permalink: /psg/eq-building-consruction/
 third_nav_title: Pre-scoped Equipment
 ---
 

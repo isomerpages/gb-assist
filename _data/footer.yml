@@ -10,9 +10,9 @@ navlinks:
     sublinks:
       - title: GoBusiness Licensing
         url: https://www.gobusiness.gov.sg/licences
-      - title: GoBusiness Gov Assist *Coming Soon!
-      #  url: /some-page-b/
+      - title: GoBusiness COVID
+        url: https://covid.gobusiness.gov.sg/
       #- title: Subitem 3
       #  url: /some-page-c/
-  - title: List of Essential Services
-    url: /essentialservices/
+  - title: List of Government Assistance
+    url: /gov-assist/

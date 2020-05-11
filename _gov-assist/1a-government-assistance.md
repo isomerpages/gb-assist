@@ -1,6 +1,6 @@
 ---
 title: Government Assistance
-permalink: /growsj/gov-assist/
+permalink: /gov-assist/
 ---
 
 <center><h2>Government Assistance</h2>
@@ -20,7 +20,7 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 | Tax Incentives | Loans | Grants | Toolkits/Programs | 
 | :-: | :-: | :-: | :-: |
 |Tax relief initiatives providing tax deductions and exemptions for businesses.|Assisted financing through credit lending and risk sharing with government and participating FIs.|Co-funding for capability building, innovation, and internationalisation projects.|Self-assessments, guides, resources and available programs aimed at capability building.|
-|[Find out more](/growsj/gov-assist/tax-incentives/)|[Find out more](/growsj/gov-assist/loans/)|[Find out more](/growsj/gov-assist/grants/)|[Find out more](/growsj/gov-assist/toolkits-programs/)|
+|[Find out more](/gov-assist/tax-incentives/)|[Find out more](/gov-assist/loans/)|[Find out more](/gov-assist/grants/)|[Find out more](/gov-assist/toolkits-programs/)|
 
 ***
 
@@ -29,9 +29,5 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 |Business Grants Portal| Productivity Solutions Grant|
 |:--- |:--- |
 |The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.|The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions and equipment to improve their productivity.|
-|[Find out more](/growsj/business-grants-portal/)|[Find out more](/growsj/psg/)|
+|[Find out more](/business-grants-portal/)|[Find out more](/psg/)|
 
-<br />
-<div class="bp-youtube">
-  <iframe src="https://www.youtube.com/embed/4OkvnEokNHc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
-</div>

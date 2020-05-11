@@ -1,21 +1,21 @@
 ---
 title: Accounting Management + Human Resource Management System (HRMS)
-permalink: /growsj/psg/am-hrms/
+permalink: /psg/am-hrms/
 ---
 
-### [Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/growsj/psg/am-hrms/ahrmv3.0-pkga-10users/)
+### [Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/psg/am-hrms/ahrmv3.0-pkga-10users/)
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-### [Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/growsj/psg/am-hrms/ahrmv3.0-pkgb-20users/)
+### [Accounting and Human Resource Management Version 3.0 - Package B (20 Users)](/psg/am-hrms/ahrmv3.0-pkgb-20users/)
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-### [Accounting and Human Resource Management Version 3.0 - Package C (50 Users)](/growsj/psg/am-hrms/ahrmv3.0-pkgc-50users/)
+### [Accounting and Human Resource Management Version 3.0 - Package C (50 Users)](/psg/am-hrms/ahrmv3.0-pkgc-50users/)
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-### [Accounting and Human Resource Management Version 3.0 - Package D (Unlimited Users)](/growsj/psg/am-hrms/ahrmv3.0-pkgd-ulusers/)
+### [Accounting and Human Resource Management Version 3.0 - Package D (Unlimited Users)](/psg/am-hrms/ahrmv3.0-pkgd-ulusers/)
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 

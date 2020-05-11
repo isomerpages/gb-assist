@@ -1,6 +1,6 @@
 ---
 title: Accounting and Human Resource Management Version 3.0 - Package A (10 Users)
-permalink: /growsj/psg/am-hrms/ahrmv3.0-pkga-10users/
+permalink: /psg/am-hrms/ahrmv3.0-pkga-10users/
 third_nav_title: AMHRMS listings
 ---
 
