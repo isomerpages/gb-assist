@@ -16,3 +16,13 @@ links:
   - title: FAQ
   - title: Contact Us
     url: /contact-us/
+  - title: Guided Journey
+    url: /some-page-a/
+    sublinks:
+      - title: Registering a business
+        url: /guided-journey/overview/
+      - title: Getting licenses
+        url: /some-page-b/
+      - title: Hiring an employee
+        url: https://www.site.com/url/to/page/
+

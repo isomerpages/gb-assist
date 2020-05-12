@@ -7,6 +7,8 @@ collections:
     output: true
   psg:
     output: true
+  guided-journey:
+    output: true
 resources_name: news
 
 ##################################################################################################################
