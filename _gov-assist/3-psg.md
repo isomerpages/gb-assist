@@ -3,7 +3,9 @@ title: Productivity Solutions Grant
 permalink: /psg/
 ---
 
-#### The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity. Receive up to 80%<sup>1</sup> funding support for eligible costs.
+## Productivity Solutions Grant (PSG)
+
+The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity. Receive up to 80%<sup>1</sup> funding support for eligible costs.
 
 ![PSG](\images\programmes\products-and-services\PSG.png "PSG")
 
@@ -30,7 +32,7 @@ Businesses can choose from a list of pre-scoped solutions.
 
 Use the navigation menu **[Pre-scoped IT Solutions](/psg/it-agriculture/)** or **[Pre-scoped Equipment](/psg/eq-agriculture/)** to select the type of solutions you’re interested to find out about and the respective sector your business belongs to. 
 
-*If you’d like to become a pre-qualified vendor for PSG IT solutions, Click <a target="_blank" href="https://www.imda.gov.sg/icmvendors" >here</a> to find out more.*
+*If you’d like to become a pre-qualified vendor for PSG IT solutions, click <a target="_blank" href="https://www.imda.gov.sg/icmvendors" >here</a> to find out more.*
 
 ***
 

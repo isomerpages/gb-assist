@@ -5,17 +5,15 @@ permalink: /gov-assist/
 
 <center><h2>Government Assistance</h2>
 
-<p>The Singapore Government offers a range of assistances to help businesses grow and succeed. There are over 100 assistances available, from funding support to references and programs for building skills and knowledge.</p>
+<p>Browse the list of available tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.</p> 
 
-<p>The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.</p>
+<p>To view a list of recommended assistance based on your business needs, please use the e-Adviser.</p>
 
 <a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank"><h4>Get recommendation from e-adviser</h4></a></center>
 
 ***
 
-#### Search by support type
-
-Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.
+#### View by support type
 
 | Tax Incentives | Loans | Grants | Toolkits/Programs | 
 | :-: | :-: | :-: | :-: |
@@ -26,8 +24,8 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 
 #### Related content
 
-|Business Grants Portal| Productivity Solutions Grant|
-|:--- |:--- |
-|The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.|The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions and equipment to improve their productivity.|
-|[Find out more](/business-grants-portal/)|[Find out more](/psg/)|
+|Business Grants Portal| Productivity Solutions Grant|GeBIZ Alerts|
+|:--- |:--- |:---|
+|The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.|The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions and equipment to improve their productivity.|Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in to GoBusiness Portal with your CorpPass to receive alerts of Government procurement opportunities posted on the Government Electronic Business (GeBIZ) portal. It’s easy, fast and FREE.|
+|[Find out more](/business-grants-portal/)|[Find out more](/psg/)|[Find out more](/gebiz-alerts/)|
 
