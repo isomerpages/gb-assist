@@ -10,12 +10,12 @@ sections:
         title: Government Assistance for Singapore’s Businesses
         subtitle: The Singapore Government offers a range of assistances to help businesses grow and succeed.<br>There are over a 100 assistances available, from funding support to programmes for building skills and knowledge.<br><br>The e-Adviser for government assistance helps businesses in selecting a relevant assistance based on their business need. 
         background: /images/govassist-hero-banner.jpg
-        button: Click here to get recommendations from e-Adviser
+        button: Get recommendations from e-Adviser
         url: https://ea-staging.l1t.molb.gov.sg/#/ 
         key_highlights:
         - title: Gobusiness Covid
           url: https://covid.gobusiness.gov.sg/
-          description: Supporting Our Businesses, Overcoming Challenges and Emerging Stronger
+          description: Supporting our businesses, overcoming challenges and emerging stronger
         - title: Gebiz Alerts
           url: 
           description: Be informed about the latest Government contracts
