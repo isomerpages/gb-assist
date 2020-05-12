@@ -4,7 +4,7 @@ title: GoBusiness Gov Assist
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: <strong>COVID-19 Government Assistance for businesses:</strong><br>Click <a target="_blank" href="https://covid.gobusiness.gov.sg/govassist/govassist/">here</a> to view the list of government assistance to help businesses tide through COVID-19 
+notification: <strong>COVID-19 Government Assistance for businesses:</strong> Click <a target="_blank" href="https://covid.gobusiness.gov.sg/govassist/govassist/">here</a> to view the list of government assistance to help businesses tide through COVID-19 
 sections:
     - hero:
         title: Government Assistance for Singapore’s Businesses
@@ -20,7 +20,7 @@ sections:
           url: 
           description: Be informed about the latest Government contracts
         - title: Productivity Solutions Grant
-          url: https://gb-assist-staging.netlify.app/growsj/psg/
+          url: /psg/
           description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
         - title: Business Grants Portal
           url: https://www.businessgrants.gov.sg/
