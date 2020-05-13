@@ -19,9 +19,9 @@ The solution is an integrated and cloud based Accounting and Human Resource Mana
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-*This listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share the CorpPass with their vendors to carry out submission of any grant application or claims.*
-
 ***
+
+*This listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share the CorpPass with their vendors to carry out submission of any grant application or claims.*
 
 *From 1 September 2019 onwards, under the Personal Data Protection Act (PDPA), organisations will not be allowed to collect, use or disclose NRIC numbers or copies of the NRIC unless it is:*
 

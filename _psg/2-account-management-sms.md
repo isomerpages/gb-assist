@@ -21,10 +21,9 @@ ABSS premier is an on-premise full fledge and integrated accounting, sales, inve
 
 ABSS premier is an on-premise full fledge and integrated accounting, sales, inventory and multiple-currency management solution.
 
+***
 
 *This listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share the CorpPass with their vendors to carry out submission of any grant application or claims.*
-
-***
 
 *From 1 September 2019 onwards, under the Personal Data Protection Act (PDPA), organisations will not be allowed to collect, use or disclose NRIC numbers or copies of the NRIC unless it is:*
 
