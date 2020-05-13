@@ -4,6 +4,14 @@ permalink: /psg/am-hrms/ahrmv3.0-pkgb-20users/
 third_nav_title: AMHRMS listings
 ---
 
+### Description
+
+The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
+
+### Quotation
+
+<a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank">Click here for the PDF copy of the quotation</a>
+
 ### Eligibility Criteria
 
 Applicants must meet the following eligibility criteria at the point of application:
@@ -16,10 +24,6 @@ e) must not have:
 - Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
 - Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
 
-### Description
-
-The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
-
 ### Mode of Payment
 Direct Purchase
 
@@ -29,14 +33,10 @@ Direct Purchase
 ### Things to Note
 ≥30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-### Quotation
-
-<a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank">Click here for the PDF copy of the quotation</a>
-
 ### Contact Information
 Net Solutions Pte Ltd <br>
 <https://netsolutions.sg/> <br>
 Email: <sales@netsolutions.sg> <br>
-Tel: +65 6475 0319 <br>
+Tel: +65 6475 0319<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.

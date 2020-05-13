@@ -17,7 +17,7 @@ sections:
           url: https://covid.gobusiness.gov.sg/
           description: Supporting our businesses, overcoming challenges and emerging stronger
         - title: Gebiz Alerts
-          url: 
+          url: /gebiz-alerts/
           description: Be informed about the latest Government contracts
         - title: Productivity Solutions Grant
           url: /psg/
