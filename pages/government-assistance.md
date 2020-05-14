@@ -60,7 +60,7 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Business Grants Portal</h1>
       The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
-      <a href="Find out more"><div class="gobizTable-firstTable_table__getstart">Find out more</div></a>
+      <a href="/business-grants-portal/"><div class="gobizTable-firstTable_table__getstart">Find out more</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
