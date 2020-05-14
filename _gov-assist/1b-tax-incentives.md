@@ -4,36 +4,44 @@ permalink: /gov-assist/tax-incentives/
 third_nav_title: View by support type
 ---
 
-## Approved Contract Manufacturer and Trade (ACMT) Scheme
+## Approved Contract Manufacturer and Trade Scheme
 
-Contract manufacturers and traders under this scheme are relieved of the need to account for GST on value added activities supplied to non-GST registered overseas customers or overseas persons who are registered under the Overseas Vendor Registration (OVR) regime as a pay-only person.
-
-The ACMT Scheme is a scheme designed to relieve businesses (e.g. local contract manufacturers) that have substantial business with overseas clients* of the need to account for GST on value added activities performed on the goods of such clients.
-
-*An overseas client refers to an overseas customer who is not GST-registered or if he is GST-registered, the registration is as a pay-only person under the OVR regime.
+Contract manufacturers and traders need not account for GST on value added activities supplied to non-GST registered overseas customers or overseas persons registered under the OVR regime as a pay-only person. 
 
 <a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/" target="_blank">Find out more</a>
 
-## Approved Import GST Suspension Scheme (AISS)
+## Approved Import GST Suspension Scheme
 
 Under AISS, GST-registered businesses in the aerospace industry enjoy added import GST suspension benefits for qualifying aircraft parts.
 
-The Approved Import GST Suspension Scheme (AISS) is designed to alleviate the cash flow of businesses in the aerospace industry.
+<a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Import-GST-Suspension-Scheme--AISS-/" target="_blank">Find out more</a>
 
-These businesses are:
+## Approved Third Party Logistics (3PL) Company Scheme
 
-1. International airlines;
-2. Players in the Maintenance, Repair and Overhaul (MRO) industry;
-3. Original Equipment Manufacturers (OEM); and
-4. Distributors of qualifying aircraft parts.
+Approved logistics companies that provide logistics management services to overseas clients do not need to pay import GST or charge GST on the supplies of their overseas clients' goods under certain circumstances. 
 
-<a href="https://www.iras.gov.sg/IRASHome/Schemes/GST/Approved-Import-GST-Suspension-Scheme--AISS-/" target="_blank">Find out more</a>
+<a href="https://www.iras.gov.sg/IRASHome/Schemes/GST/Approved-Third-Party-Logistics--3PL--Company-Scheme/" target="_blank">Find out more</a>
 
-## Approved Refiner and Consolidator Scheme (ARCS)
+## Automated Double Tax Deduction for Internationalisation Scheme
 
-Under this scheme, Approved Refiners and Approved Consolidators enjoy certain benefits including GST suspension on qualifying imports and additional input tax benefits.
+Companies planning to expand overseas can benefit from automatic DTDi, with a 200% tax deduction on eligible expenses of up to S$150,000, for international market expansion and investment development activities. 
 
-The Approved Refiner and Consolidator Scheme (ARCS) is designed to ease cash flow and compliance of qualifying refiners and consolidators of investment precious metals (IPM) in their payment of GST on import and purchase of raw materials and relieve input tax incurred on refining activities.
+<a href="https://www.iras.gov.sg/irashome/Schemes/Businesses/Double-Tax-Deduction-for-Internationalisation-Scheme/" target="_blank">Find out more</a>
 
-<a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Refiner-and-Consolidator-Scheme--ARCS-/" target="_blank">Find out more</a>
+## Double Tax Deduction for Internationalisation Scheme
 
+Companies planning to expand overseas can benefit from the DTDi, with a 200% tax deduction on eligible expenses for international market expansion and investment development activities.
+
+<a href="https://www.enterprisesg.gov.sg/financial-assistance/tax-incentives/tax-incentives/double-tax-deduction-for-internationlisation" target="_blank">Find out more</a>
+
+## Hand-Carried Exports Scheme 
+
+HCES is applicable if you wish to zero-rate your supplies to overseas customers for goods hand-carried out of Singapore via Changi International Airport. 
+
+<a href="https://www.iras.gov.sg/IRASHome/Schemes/GST/Hand-Carried-Exports-Scheme--HCES-/" target="_blank">Find out more</a>
+
+## Major Exporters' Scheme
+
+Under MES, GST on non-dutiable goods is suspended at the point of import and also when the goods are removed from Zero GST warehouses.
+
+<a href="https://www.iras.gov.sg/irashome/Schemes/GST/Major-Exporter-Scheme--MES-/" target="_blank">Find out more</a>
