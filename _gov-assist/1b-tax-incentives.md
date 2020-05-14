@@ -32,7 +32,7 @@ Companies planning to expand overseas can benefit from automatic DTDi, with a 20
 
 Companies planning to expand overseas can benefit from the DTDi, with a 200% tax deduction on eligible expenses for international market expansion and investment development activities.
 
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/tax-incentives/tax-incentives/double-tax-deduction-for-internationlisation" target="_blank">Find out more</a>
+<a href="https://www.enterprisesg.gov.sg/financial-assistance/tax-incentives/tax-incentives/double-tax-deduction-for-internationalisation" target="_blank">Find out more</a>
 
 ## Hand-Carried Exports Scheme 
 
