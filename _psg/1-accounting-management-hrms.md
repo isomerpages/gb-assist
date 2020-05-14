@@ -1,6 +1,7 @@
 ---
 title: Accounting Management + Human Resource Management System (HRMS)
 permalink: /psg/am-hrms/
+breadcrumbs: /gov-assist/psg/
 ---
 
 ### [Accounting and Human Resource Management Version 3.0 - Package A (10 Users)](/psg/am-hrms/ahrmv3.0-pkga-10users/)
