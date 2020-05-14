@@ -25,11 +25,13 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Loans</h1>
+      Assisted financing through credit lending and risk sharing with government and participating FIs.
       <a href="/gov-assist/loans/"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Tax Incentives</h1>
+      Tax relief initiatives providing tax deductions and exemptions for businesses.
       <a href="/gov-assist/tax-incentives/"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
@@ -39,12 +41,66 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Grants</h1>
+      Co-funding for capability building, innovation, and internationalisation projects.
       <a href="/gov-assist/grants/"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
 
     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Toolkits/Programs</h1>
+      Self-assessments, guides, resources and available programs aimed at capability building.
       <a href="/gov-assist/toolkits-programs/"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+  </ul>
+</div>
+
+<div class="gobizTable">
+  <ul class="gobizTable-firstTable">
+
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">Business Grants Portal</h1>
+      The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
+      <a href="/business-grants-portal/"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+  </ul>
+</div>
+
+
+## **More support based on sector specific...**
+
+<div class="gobizTable">
+  <ul class="gobizTable-firstTable">
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">From Arts & Culture?</h1>
+      <a href="/advisories/covidadvisor/artsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">From F&B?</h1>
+      <a href="/advisories/covidadvisor/fnbsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+  </ul>
+</div>
+
+<div class="gobizTable">
+  <ul class="gobizTable-firstTable">
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">From Hospitality and Tourism?</h1>
+      <a href="/advisories/covidadvisor/aviationsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">From Aviation?</h1>
+      <a href="/advisories/covidadvisor/tourismsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
+    </li>
+  </ul>
+</div>
+
+<div class="gobizTable">
+  <ul class="gobizTable-firstTable">
+
+    <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">From Martime?</h1>
+      <a href="/advisories/covidadvisor/martimesupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
     </li>
   </ul>
 </div>
