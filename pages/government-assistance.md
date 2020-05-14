@@ -16,9 +16,9 @@ permalink: /gov-assist/gov-assist/
   </ul>
 </div>
 
-<h2>Search by support type</h2>
+<center><h2>Search by support type</h2>
 
-<center>Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.</Center>
+Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.</Center>
 
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
