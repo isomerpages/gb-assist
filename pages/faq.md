@@ -1,6 +1,6 @@
 ---
 title: Frequently Asked Questions
-permalink: /faq
+permalink: /faq/
 ---
 
 #### 1. What is Government Assistance e-Adviser?
