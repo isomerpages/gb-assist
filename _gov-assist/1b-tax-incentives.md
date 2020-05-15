@@ -4,13 +4,15 @@ permalink: /gov-assist/tax-incentives/
 third_nav_title: View by support type
 ---
 
-## Approved Contract Manufacturer and Trade Scheme
+## List of Tax Incentives
+
+#### Approved Contract Manufacturer and Trade Scheme
 
 Contract manufacturers and traders need not account for GST on value added activities supplied to non-GST registered overseas customers or overseas persons registered under the OVR regime as a pay-only person. 
 
 <a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/" target="_blank">Find out more</a>
 
-## Approved Import GST Suspension Scheme
+#### Approved Import GST Suspension Scheme
 
 Under AISS, GST-registered businesses in the aerospace industry enjoy added import GST suspension benefits for qualifying aircraft parts.
 
