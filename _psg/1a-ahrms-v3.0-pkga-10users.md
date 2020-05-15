@@ -8,7 +8,7 @@ third_nav_title: AMHRMS listings
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-### Quotation
+### Details of Solution
 
 <a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank">Click here for the PDF copy of the quotation</a>
 
