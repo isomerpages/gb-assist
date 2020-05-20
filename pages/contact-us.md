@@ -6,7 +6,7 @@ agency_name: GoBusiness Gov Assist
 contacts:
   - title: Have questions regarding Gov Assist
     content:
-      - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank"style="color:#037e8a>Go to Helpdesk</a>
+      - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank"style="color:#037e8a">Go to Helpdesk</a>
 
 locations:
   - title: Gov Assist Helpdesk
