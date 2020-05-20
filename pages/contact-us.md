@@ -5,8 +5,11 @@ permalink: /contact-us/
 agency_name: GoBusiness Gov Assist
 contacts:
   - title: Have questions regarding GoBusiness Gov Assist
- # - other:   
-  - operating_hours:
+    content:
+      - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank">Go to Helpdesk</a>
+locations:
+  - title:     
+    operating_hours:
       - days: Monday - Friday
         time: 8.00am - 8.00pm
       - days: Saturday
