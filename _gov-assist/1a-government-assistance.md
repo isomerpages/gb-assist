@@ -9,7 +9,7 @@ permalink: /gov-assist/
 
 <p>To view a list of recommended assistance based on your business needs, please use the e-Adviser.</p>
 
-<a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank"><h4>Get recommendation from e-adviser</h4></a></center>
+<a href="https://ea-uat.l1t.molb.gov.sg/" target="_blank"style="color:#037e8a"><h4>Get recommendation from e-adviser</h4></a></center>
 
 ***
 
