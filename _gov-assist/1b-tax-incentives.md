@@ -10,7 +10,7 @@ third_nav_title: View by support type
 
 Contract manufacturers and traders need not account for GST on value added activities supplied to non-GST registered overseas customers or overseas persons registered under the OVR regime as a pay-only person. 
 
-<a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/" target="_blank">Find out more</a>
+<a href="https://www.iras.gov.sg/irashome/Schemes/GST/Approved-Contract-Manufacturer-and-Trader--ACMT--Scheme/" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Approved Import GST Suspension Scheme
 
