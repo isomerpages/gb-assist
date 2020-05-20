@@ -10,7 +10,7 @@ logo: /images/Gobiz_GA_logo.svg
 links:
   - title: Government Assistance
     url: /gov-assist/gov-assist/
-    collection: gov-assist
+  #  collection: gov-assist
   #- title: PSG
   #  collection: psg
   #- title: Productivity Solutions Grant
