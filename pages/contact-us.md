@@ -2,9 +2,9 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: GoBusiness Government Assistance
+agency_name: GoBusiness Gov Assist
 contacts:
-  - title: Need help? 
+  - title: Have questions regarding GoBusiness Gov Assist
   - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank">Contact Us</a>      
   - operating_hours:
       - days: Monday - Friday
