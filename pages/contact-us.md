@@ -15,5 +15,5 @@ contacts:
   - title: Have questions regarding Gov Assist
     content:
       - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank">Go to Helpdesk</a>
-Image: /images/govassist-hero-banner.jpg
+
 ---
