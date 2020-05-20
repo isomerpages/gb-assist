@@ -14,6 +14,6 @@ locations:
         time: 8.00am - 8.00pm
       - days: Saturday
         time: 8.00am - 2.00pm
-        description: Closed on Sunday and Public Holidays
+      - description: Closed on Sunday and Public Holidays
  
 ---
