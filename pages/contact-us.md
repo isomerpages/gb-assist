@@ -11,7 +11,7 @@ contacts:
 locations:
   - title: Gov Assist Helpdesk
     address: Test
-    operating-hours:
+    operating_hours:
       - days: Monday - Friday
         time: 8.00am - 8.00pm
       - days: Saturday
