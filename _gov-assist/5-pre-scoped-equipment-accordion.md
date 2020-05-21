@@ -11,13 +11,7 @@ accordion:
   - title: Early Childhood
     content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.
   - title: Environmental Services
-    content:
-    1. All Terrain Litter Vacuum
-    2. Anti-Stain Vortex Flushing Water Closet System
-    3. Autonomous Floor Cleaner and Scrubber
-    4. Autonomous robotic vacuum sweeper and cleaner
-    5. Battery operated waste collection equipment
-    6. Battery pack vacuum cleaner
+    content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.
   - title: Finance
     content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.
   - title: Food & Beverage
