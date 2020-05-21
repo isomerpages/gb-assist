@@ -1,5 +1,5 @@
 ---
-title: Pre-scoped Equipment (Accordion)
+title: Pre-scoped Equipment Accordion
 permalink: /psg/pre-scoped-equipment/
 accordion:
   - title: Agriculture
