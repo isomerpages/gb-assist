@@ -8,9 +8,9 @@ permalink: /gov-assist/
     <li class="gobizfinsup1Table-firstTable_table">
       <h1 class="gobizfinsup1Table-firstTable_table__header"><strong>Government Assistance</strong></h1>
       <ul class="gobizfinsup1Table-firstTable_table__options">
-        <div align="justify"><center><p>The Singapore Government offers a range of assistances to help businesses grow and succeed. There are over 100 assistances available, from funding support to references and programs for building skills and knowledge.</p> 
+        <div align="justify"><p>The Singapore Government offers a range of assistances to help businesses grow and succeed. There are over 100 assistances available, from funding support to references and programs for building skills and knowledge.</p> 
 
-<p>The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.</p></center> </div> 
+<p>The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.</p></div> 
       </ul>
       <a href="https://ea-uat.l1t.molb.gov.sg/"><div class="gobizfinsup1Table-firstTable_table__getstart">Get recommendation from e-adviser</div></a>
     </li>
