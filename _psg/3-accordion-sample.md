@@ -1,6 +1,6 @@
 ---
 title: Accordion Sample
-permalink: /accordion-sample
+permalink: /psg/accordion-sample
 accordion:
   - title: Simple
     content: This is a simple one line item
