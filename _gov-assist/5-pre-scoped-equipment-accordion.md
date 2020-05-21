@@ -1,5 +1,5 @@
 ---
-title: Pre-scoped Equipment
+title: Pre-scoped Equipment (Accordion)
 permalink: /psg/pre-scoped-equipment/
 accordion:
   - title: Agriculture
@@ -12,7 +12,7 @@ accordion:
     content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.
   - title: Environmental Services
     content: |
-    1. [All Terrain Litter Vacuum](/psg/am-hrms/)
+    1. All Terrain Litter Vacuum
     
     The equipment is a ride-on outdoor vacuum system that is able to travel on all terrains, climb curbs and navigate slopes.
 
