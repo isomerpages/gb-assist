@@ -1,22 +1,24 @@
 ---
 title: Toolkits/Programs
 permalink: /gov-assist/toolkits-programs/
-third_nav_title: View by support type
+third_nav_title: Government Assistance
 ---
 
-## A*STAR Collaborative Commercialization Marketplace (ACCM)
+## List of Toolkits/Programs
+
+#### A*STAR Collaborative Commercialization Marketplace (ACCM)
 
 With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
 
-<a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank">Find out more</a>
+<a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank"style="color:#037e8a">Find out more</a>
 
-## A*STAR Tech Access
+#### A*STAR Tech Access
 
 Businesses can access a comprehensive suite of A*STAR's advanced manufacturing equipment and biotech/biomedical scientific services, under the guidance of technical experts.
 
-<a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/tech-access" target="_blank">Find out more</a>
+<a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/tech-access" target="_blank"style="color:#037e8a">Find out more</a>
 
-## Accountancy Industry Digital Plan
+#### Accountancy Industry Digital Plan
 
 A guide for local Small and Medium Practices (SMPs) in the Accountancy industry to digitalise your businesses, plug skills gaps and participate in industyr pilot projects. 
 
