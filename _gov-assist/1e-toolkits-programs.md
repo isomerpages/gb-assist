@@ -10,13 +10,13 @@ third_nav_title: Government Assistance
 
 With more than 1000 companies onboard, companies can connect and advance common interests within and beyond their respective industry and markets.
 
-<a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank"style="color:#037e8a">Find out more</a>
+<a href="https://www.a-star.edu.sg/Collaborate/Programmes-for-SMEs/A-STAR-Collaborative-Commerce-Marketplace" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### A*STAR Tech Access
 
 Businesses can access a comprehensive suite of A*STAR's advanced manufacturing equipment and biotech/biomedical scientific services, under the guidance of technical experts.
 
-<a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/tech-access" target="_blank"style="color:#037e8a">Find out more</a>
+<a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/tech-access" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Accountancy Industry Digital Plan
 

@@ -10,19 +10,19 @@ third_nav_title: Government Assistance
 
 Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deploymeent in a fast moving Built Environment.
 
-<a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank"style="color:#037e8a">Find out more</a>
+<a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Accessibility Fund
 
 Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
 
-<a href="https://friendlybuildings.bca.gov.sg/industry-professional-af-about-accessibility-fund.html" target="_blank"style="color:#037e8a">Find out more</a>
+<a href="https://friendlybuildings.bca.gov.sg/industry-professional-af-about-accessibility-fund.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Agriculture Productivity Fund
 
 The APF supports local farmers in their efforts to expand production capability, boost yield and raise productivity. The is available for farms with valid SFA farm licence. 
 
-<a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank"style="color:#037e8a">Find out more</a>
+<a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank" style="color:#037e8a">Find out more</a>
 
 ## Aviation Development Fund
 
