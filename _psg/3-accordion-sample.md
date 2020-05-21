@@ -1,11 +1,6 @@
 ---
 title: Accordion Sample
-permalink: /psg/accordion-sample
-
-# Accordion Sample
-
-This is the line before accordion
-
+permalink: /psg/accordion-sample/
 accordion:
   - title: Simple
     content: This is a simple one line item
@@ -32,6 +27,10 @@ accordion:
       * Item 2
       * Item 3
 ---
+
+# Accordion Sample
+
+This is the line before accordion
 
 {% include accordion.html %}
 
