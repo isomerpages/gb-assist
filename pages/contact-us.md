@@ -14,6 +14,14 @@ contacts:
       - other: <strong>Saturday</strong>
       - other: 8.00am - 2.00pm
       - other: Closed on Sunday and Public Holidays
+  - title: Operating Hours
+    content:
+      - other: <strong><p style="color:#037e8a">Operating Hours</p></strong>
+      - other: <strong>Monday - Friday</strong>
+      - other: 8.00am - 8.00pm
+      - other: <strong>Saturday</strong>
+      - other: 8.00am - 2.00pm
+      - other: Closed on Sunday and Public Holidays
 
 #locations:
 #  - title: Gov Assist Helpdesk
