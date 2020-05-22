@@ -19,7 +19,7 @@ permalink: /gov-assist/
 
 <center><h2>Search by Assistance Type</h2>
 
-Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.</center>
+<div align="justify"><p>Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.</center></div>
 
 
 <div class="gobizTable">
@@ -59,15 +59,15 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
+      <h1 class="gobizTable-firstTable_table__header">GeBIZ Alerts</h1>
+      Give your business that extra edge by subscribing to GeBIZ Alerts. Simply sign in with your CorpPass to GoBusiness Portal to receive alerts of Government procurement opportunities.
+      <a href="/gebiz-alerts/"><div class="gobizTable-firstTable_table__getstart">Find out more</div></a>
+    </li>
+
+     <li class="gobizTable-firstTable_table">
       <h1 class="gobizTable-firstTable_table__header">Business Grants Portal</h1>
       The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
       <a href="/business-grants-portal/"><div class="gobizTable-firstTable_table__getstart">Find out more</div></a>
-    </li>
-
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Productivity Solutions Grant</h1>
-      The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions and equipment to improve their productivity.
-      <a href="/psg/"><div class="gobizTable-firstTable_table__getstart">Find out more</div></a>
     </li>
   </ul>
 </div>
@@ -75,9 +75,9 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">GeBIZ Alerts</h1>
-      Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in to GoBusiness Portal with your CorpPass to receive alerts of Government procurement opportunities posted on the Government Electronic Business (GeBIZ) portal. It’s easy, fast and FREE.
-      <a href="/gebiz-alerts/"><div class="gobizTable-firstTable_table__getstart">Find out more</div></a>
+      <h1 class="gobizTable-firstTable_table__header">Productivity Solutions Grant</h1>
+      The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions and equipment to improve their productivity.
+      <a href="/psg/"><div class="gobizTable-firstTable_table__getstart">Find out more</div></a>
     </li>
   </ul>
 </div>
