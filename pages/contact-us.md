@@ -9,8 +9,8 @@ contacts:
       - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank"style="color:#037e8a">Go to Helpdesk</a>
 
 locations:
-  - title: Gov Assist Helpdesk
-    address: Test
+#  - title: Gov Assist Helpdesk
+#    address: Test
     operating_hours:
       - days: Monday - Friday
         time: 8.00am - 8.00pm
