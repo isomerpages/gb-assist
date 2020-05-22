@@ -9,7 +9,13 @@ Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in 
 
 <a href="https://www.google.com" target="_blank" style="color:#037e8a">Login to GeBIZ Alerts Now!</a>
 
-<a href="https://www.google.com"><div class="gobizTable-firstTable_table__getstart">Login to GeBIZ Alerts Now</a>
+<div class="gobizTable">
+  <ul class="gobizTable-firstTable">
+    <li class="gobizTable-firstTable_table">
+      <a href="/gebiz-alerts/"><div class="gobizTable-firstTable_table__getstart">Login to GeBIZ Alerts Now</div></a>
+    </li>
+   </ul>
+</div>
 
 ### What is GeBIZ Alerts?
 
