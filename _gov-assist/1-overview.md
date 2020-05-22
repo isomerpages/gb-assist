@@ -3,14 +3,15 @@ title: Overview
 permalink: /gov-assist/
 ---
 
+<center><h2>Government Assistance</h2>
+
 <div class="gobizfinsup1Table">
   <ul class="gobizfinsup1Table-firstTable">
     <li class="gobizfinsup1Table-firstTable_table">
-      <h1 class="gobizfinsup1Table-firstTable_table__header"><strong>Government Assistance</strong></h1>
       <ul class="gobizfinsup1Table-firstTable_table__options">
         <div align="justify"><p>The Singapore Government offers a range of assistances to help businesses grow and succeed. There are over 100 assistances available, from funding support to references and programs for building skills and knowledge.</p> 
 
-<p>The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.</p></div> 
+        <p>The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.</p></div> 
       </ul>
       <a href="https://ea-staging.l1t.molb.gov.sg/#/"><div class="gobizfinsup1Table-firstTable_table__getstart">Get recommendation from e-adviser</div></a>
     </li>
@@ -19,7 +20,7 @@ permalink: /gov-assist/
 
 <center><h2>Search by Assistance Type</h2>
 
-<div align="justify"><p>Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.</center></div>
+<div align="justify"><p>Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.</center>
 
 
 <div class="gobizTable">
