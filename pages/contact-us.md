@@ -7,8 +7,8 @@ contacts:
   - title: Have questions regarding Gov Assist
     content:
       - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank"style="color:#037e8a">Contact Helpdesk</a>
-      - other: <br><br>
-      - other: <style="color:#037e8a"><strong>Operating Hours</strong>
+      - other: <br>
+      - other: <strong><p style="color:#037e8a">Operating Hours</p></strong>
       - other: <strong>Monday - Friday</strong>
       - other: 8.00am - 8.00pm
       - other: <strong>Saturday</strong>
