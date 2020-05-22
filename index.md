@@ -11,7 +11,7 @@ sections:
         subtitle: The e-Adviser helps businesses in selecting a relevant assistance based on their business need. 
         background: /images/govassist-hero-banner.jpg
         button: Get started with e-Adviser
-        url: https://ea-uat.l1t.molb.gov.sg/ 
+        url: https://ea-staging.l1t.molb.gov.sg/#/
         key_highlights:
         - title: Gobusiness Covid
           url: https://covid.gobusiness.gov.sg/

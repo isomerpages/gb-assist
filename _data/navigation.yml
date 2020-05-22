@@ -14,9 +14,17 @@ links:
       - title: Overview
         url: /gov-assist/
       - title: e-Adviser for Government Assistance
-        url: https://ea-uat.l1t.molb.gov.sg/
+        url: https://ea-staging.l1t.molb.gov.sg/#/
       - title: List of Government Assistance
+      #  url: /gov-assist/tax-incentives/
+      - title: Tax Incentives
         url: /gov-assist/tax-incentives/
+      - title: Loans
+        url: /gov-assist/loans/
+      - title: Grants
+        url: /gov-assist/grants/
+      - title: Toolkits/Programs
+        url: /gov-assist/toolkits-programs/
   #  collection: gov-assist
   #- title: PSG
   #  collection: psg
