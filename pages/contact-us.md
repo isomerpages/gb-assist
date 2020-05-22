@@ -8,8 +8,7 @@ contacts:
     content:
       - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank"style="color:#037e8a">Go to Helpdesk</a>
 
-  - Title: Operating hours
-    content: 
+      - other: <strong>Operating Hours</strong>
       - other: Monday - Friday
       - other: 8.00am - 8.00pm
       - other: Saturday
@@ -25,7 +24,5 @@ contacts:
 #      - days: Saturday
 #        time: 8.00am - 2.00pm
 #        description: Closed on Sunday and Public Holidays
-
-image-URL: /images/govassist-hero-banner.jpg
 
 ---
