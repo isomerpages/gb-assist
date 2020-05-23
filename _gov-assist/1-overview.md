@@ -15,6 +15,8 @@ Access the e-Adviser here to receive a set of recommended assistance.
 
 <a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank" style="color:#037e8a">Get recommendation from e-Adviser</a>
 
+<button name="button" onclick="https://ea-staging.l1t.molb.gov.sg/#/">Get recommendation from e-Adviser</button>
+
 ***
 
 #### Search by assistance type
