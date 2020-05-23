@@ -13,13 +13,7 @@ The e-Adviser is a free online tool to help businesses in selecting the right as
 
 Access the e-Adviser here to receive a set of recommended assistance.
 
-<div class="gobizTable">
-  <ul class="gobizTable-firstTable">
-    <li class="gobizTable-firstTable_table">
-      <a href="https://ea-staging.l1t.molb.gov.sg/#/"><div class="gobizTable-firstTable_table__getstart">Get recommendation from e-Adviser</div></a>
-    </li>
-   </ul>
-</div>
+<a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank" style="color:#037e8a">Get recommendation from e-Adviser</a>
 
 ***
 
