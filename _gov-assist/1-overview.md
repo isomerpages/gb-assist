@@ -9,7 +9,7 @@ The Singapore Government offers a range of assistances to help businesses grow a
 
 The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.
 
-<a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank" style="color:#037e8a">Get recommendation from e-adviser</a>
+<a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank" style="color:#037e8a">Get recommendation from e-Adviser</a>
 
 ***
 
