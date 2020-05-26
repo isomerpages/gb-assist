@@ -4,7 +4,7 @@ title: GoBusiness Gov Assist
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: <strong>COVID-19 Government Assistance for businesses:</strong> Click <a target="_blank" href="https://covid.gobusiness.gov.sg/govassist/govassist/">here</a> to view the list of government assistance to help businesses tide through COVID-19 
+notification: <strong>COVID-19 Government Assistance for businesses:</strong> Click <a target="_blank" href="https://covid.gobusiness.gov.sg/supportschemes/general">here</a> to view the list of government assistance to help businesses tide through COVID-19 
 sections:
     - hero:
         title: Government Assistance for Businesses
