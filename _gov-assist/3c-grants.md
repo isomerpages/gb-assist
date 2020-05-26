@@ -1,7 +1,7 @@
 ---
 title: Grants
 permalink: /gov-assist/grants/
-third_nav_title: Type of Assistance
+third_nav_title: Types of Assistance
 ---
 
 ## List of Grants

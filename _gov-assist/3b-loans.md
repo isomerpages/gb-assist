@@ -1,7 +1,7 @@
 ---
 title: Loans
 permalink: /gov-assist/loans/
-third_nav_title: Type of Assistance
+third_nav_title: Types of Assistance
 ---
 
 ## List of Loans
