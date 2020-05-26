@@ -14,10 +14,10 @@ contacts:
       - other: <strong>Saturday</strong>
       - other: 8.00am - 2.00pm
       - other: Closed on Sunday and Public Holidays
-  - title: If you wish to speak with a business advisory, you may arrange an appointment with any of our SME Centres
+  - title: Need to speak with a business advisory, 
     content:
-      - other: <a href="https://www.enterprisesg.gov.sg/contact/overview" target="_blank"style="color:#037e8a">Contact SME Centres</a>
-  - title: Helpdesk Operating Hours
+      - other: you may arrange an appointment with any of our <a href="https://www.enterprisesg.gov.sg/contact/overview" target="_blank"style="color:#037e8a">SME Centres</a>
+  - title: Operating Hours
     content:
       - other: <strong>Monday - Friday</strong>
       - other: 9.00am - 5.30pm
