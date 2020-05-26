@@ -1,6 +1,6 @@
 ---
-title: Pre-scoped Equipment (Accordion)
-permalink: /psg/pre-scoped-equipment/
+title: Pre-scoped IT Solutions
+permalink: /psg/pre-scoped-it-solutions/
 accordion:
   - title: Agriculture
     content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.
@@ -46,7 +46,7 @@ accordion:
     content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.   
 ---
 
-## PSG Pre-scoped Equipment
+## PSG Pre-scoped IT Solutions
 
 The Productivity Solutions Grant (PSG) supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity.
 
