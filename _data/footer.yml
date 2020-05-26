@@ -30,6 +30,8 @@ navlinks:
   - title: Productivity Solutions Grant
     url: /psg/
     sublinks:
+      - title: Overview
+        url: /psg/
       - title: Pre-scoped IT Solutions
         url: /psg/pre-scoped-it-solutions/
       - title: Pre-scoped Equipment

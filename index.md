@@ -14,7 +14,7 @@ sections:
         url: https://ea-staging.l1t.molb.gov.sg/#/
         key_highlights:
         - title: Gobusiness Covid
-          url: https://covid.gobusiness.gov.sg/
+          url: https://covid.gobusiness.gov.sg/supportschemes/general
           description: Supporting our businesses, overcoming challenges and emerging stronger
         - title: Gebiz Alerts
           url: /gebiz-alerts/
