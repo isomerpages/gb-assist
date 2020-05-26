@@ -14,7 +14,7 @@ View the list of government assistance available specifically for COVID-19 suppo
 #### 3. Where can I access the list of government assistance?
 You may view the list of government assistance by support type here.
 
- * <a href="../_gov-assist/3a-tax-incentives.md" style="color:#037e8a">Tax Incentives</a>
+ * <a href="/gov-assist/tax-incentives/" style="color:#037e8a">Tax Incentives</a>
  * [Loans](../_gov-assist/3b-loans.md)
  * [Grants](../_gov-assist/3c-grants.md)
  * [Toolkits/Programs](../_gov-assist/3d-toolkits-programs.md)
