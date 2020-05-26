@@ -9,12 +9,12 @@ permalink: /faq/
 The <a href="https://ea-staging.l1t.molb.gov.sg/#/" style="color:#037e8a">e-Adviser for Government Assistance</a> will help you identify which government assistance is your business is eligible for based on your business needs and company profile.
  
 #### 2. What support could I get as a business affected by COVID-19?
-View the list of government assistance available specifically for COVID-19 support and relief [here](https://covid.gobusiness.gov.sg/supportschemes/general).
+View the list of government assistance available specifically for COVID-19 support and relief <a href="https://covid.gobusiness.gov.sg/supportschemes/general" style="color:#037e8a">here</a>.
  
 #### 3. Where can I access the list of government assistance?
 You may view the list of government assistance by support type here.
 
- * [Tax Incentives](../_gov-assist/3a-tax-incentives.md)
+ * <a href="../_gov-assist/3a-tax-incentives.md" style="color:#037e8a">Tax Incentives</a>
  * [Loans](../_gov-assist/3b-loans.md)
  * [Grants](../_gov-assist/3c-grants.md)
  * [Toolkits/Programs](../_gov-assist/3d-toolkits-programs.md)
