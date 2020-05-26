@@ -6,7 +6,7 @@ permalink: /faq/
 ## General
 
 #### 1. What government assistance is my business eligible for?
-The [e-Adviser for Government Assistance](https://ea-staging.l1t.molb.gov.sg/#/) will help you identify which government assistance is your business is eligible for based on your business needs and company profile.
+The [e-Adviser for Government Assistance](style="color:#037e8a"https://ea-staging.l1t.molb.gov.sg/#/) will help you identify which government assistance is your business is eligible for based on your business needs and company profile.
  
 #### 2. What support could I get as a business affected by COVID-19?
 View the list of government assistance available specifically for COVID-19 support and relief [here](https://covid.gobusiness.gov.sg/supportschemes/general).
