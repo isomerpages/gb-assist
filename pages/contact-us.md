@@ -16,7 +16,7 @@ contacts:
       - other: Closed on Sunday and Public Holidays
   - title: Need to speak with a business advisory?
     content:
-      - other: You may arrange an appointment with any of our <a href="https://www.enterprisesg.gov.sg/contact/overview" target="_blank"style="color:#037e8a">SME Centres</a>
+      - other: You may arrange an appointment with <br/>any of our <a href="https://www.enterprisesg.gov.sg/contact/overview" target="_blank"style="color:#037e8a">SME Centres</a>
   - title: Operating Hours
     content:
       - other: <strong>Monday - Friday</strong>
