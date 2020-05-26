@@ -28,8 +28,7 @@ sections:
     - infobar:
         title: List of Government Assistance
         subtitle: 
-        description: The Singapore Government offers a range of assistances to help businesses grow and succeed. <br/>Look for a tax incentive, loan, grant, or program here.
+        description: The Singapore Government offers a range of assistances to help businesses grow and succeed.<br/>Look for a tax incentive, loan, grant, or program here.
         button: View by Assistance Type
         url: /gov-assist/tax-incentives/
-        
 ---
