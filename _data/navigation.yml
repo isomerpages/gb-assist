@@ -15,21 +15,26 @@ links:
         url: /gov-assist/
       - title: e-Adviser for Government Assistance
         url: https://ea-staging.l1t.molb.gov.sg/#/
-      - title: List of Government Assistance
-      #  url: /gov-assist/tax-incentives/
-      - title: Tax Incentives
+      - title: Type of Government Assistance
         url: /gov-assist/tax-incentives/
-      - title: Loans
-        url: /gov-assist/loans/
-      - title: Grants
-        url: /gov-assist/grants/
-      - title: Toolkits/Programs
-        url: /gov-assist/toolkits-programs/
+      - title: Business Grants Portal
+        url: /business-grants-portal/
+      - title: GeBIZ Alerts
+        url: /gebiz-alerts/
+     # - title: Grants
+     #   url: /gov-assist/grants/
+     # - title: Toolkits/Programs
+     #   url: /gov-assist/toolkits-programs/
   #  collection: gov-assist
   #- title: PSG
   #  collection: psg
-  #- title: Productivity Solutions Grant
-  #  url: /psg/
+  - title: Productivity Solutions Grant
+    url: /psg/
+    sublinks:
+      - title: Pre-scoped IT Solutions
+        url: /psg/pre-scoped-it-solutions/
+      - title: Pre-scoped Equipment
+        url: /psg/pre-scoped-equipment/
   - title: FAQ
     url: /faq/
   - title: Contact Us
