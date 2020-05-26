@@ -21,11 +21,11 @@ Access the e-Adviser here to receive a set of recommended assistance.
 
 Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.
 
-| [![](/images/gov-assist/TaxIncentive.png)](/gov-assist/tax-incentives/) | [![](/images/gov-assist/Loans.png)](/gov-assist/loans/) |
-| [![](/images/gov-assist/Grants.png)](/gov-assist/grants/) | [![](/images/gov-assist/toolkits_programs.png)](/gov-assist/toolkits-programs/) |
+| [![](/images/gov-assist/taxIncentives.png)](/gov-assist/tax-incentives/) | [![](/images/gov-assist/loans.png)](/gov-assist/loans/) |
+| [![](/images/gov-assist/grants.png)](/gov-assist/grants/) | [![](/images/gov-assist/toolkits_programs.png)](/gov-assist/toolkits-programs/) |
 
 ***
 
 #### Related content
 
-| [![](/images/gov-assist/bgp.jpg)](/business-grants-portal/) | [![](/images/gov-assist/gebiz_alerts.jpg)](/gebiz-alerts/) | [![](/images/gov-assist/psg.jpg)](/psg/) |
+| [![](/images/gov-assist/bgp.png)](/business-grants-portal/) | [![](/images/gov-assist/gebiz.png)](/gebiz-alerts/) | [![](/images/gov-assist/psg.png)](/psg/) |
