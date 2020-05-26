@@ -23,6 +23,9 @@ Access the e-Adviser here to receive a set of recommended assistance.
 
 Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.
 
+|[![Tax Incentives](/images/gov-assist/tax_Incentives.jpg)](/gov-assist/tax-incentives/)|[![Loans](/images/gov-assist/loans.jpg)](/gov-assist/loans/)|[![Grants](/images/gov-assist/grants.jpg)](/gov-assist/grants/)|[![Toolskits/Programs](/images/gov-assist/toolkits_programs.jpg)](/gov-assist/toolkits-programs/)|
+| :-: | :-: | :-: | :-: |
+
 | Tax Incentives | Loans | Grants | Toolkits/Programs | 
 | :-: | :-: | :-: | :-: |
 |Tax relief initiatives providing tax deductions and exemptions for businesses.|Assisted financing through credit lending and risk sharing with government and participating FIs.|Co-funding for capability building, innovation, and internationalisation projects.|Self-assessments, guides, resources and available programs aimed at capability building.|
