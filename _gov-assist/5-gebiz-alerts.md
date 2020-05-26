@@ -7,13 +7,7 @@ permalink: /gebiz-alerts/
 
 Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in to GoBusiness Portal with your CorpPass to receive alerts of Government procurement opportunities posted on the Government Electronic Business (GeBIZ) portal. It’s easy, fast and FREE.
 
-<div class="gobizTable">
-  <ul class="gobizTable-firstTable">
-    <li class="gobizTable-firstTable_table">
-      <a href="https://saml.corppass.gov.sg/cpauth/login/eservlogin?URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fresponse_type%3Dcode%26scope%3Dopenid%26client_id%3DGT-G2B-SSO%26redirect_uri%3Dhttps%3A%2F%2Fwww.gobusiness.gov.sg%2Fssologin%26nonce%3Dec6ff710-bf0d-4317-873d-be8dba532dc9%26state%3D3m3gwl2wm2n85xbsaqc715_login%26esrvcID%3DGT-G2B-SSO&TAM_OP=login"><div class="gobizTable-firstTable_table__getstart">Login to GeBIZ Alerts Now</div></a>
-    </li>
-   </ul>
-</div>
+[![](/images/gov-assist/gebiz_login.jpg)](https://saml.corppass.gov.sg/cpauth/login/eservlogin?URL=%2Fmga%2Fsps%2Foauth%2Foauth20%2Fauthorize%3Fresponse_type%3Dcode%26scope%3Dopenid%26client_id%3DGT-G2B-SSO%26redirect_uri%3Dhttps%3A%2F%2Fwww.gobusiness.gov.sg%2Fssologin%26nonce%3Dec6ff710-bf0d-4317-873d-be8dba532dc9%26state%3D3m3gwl2wm2n85xbsaqc715_login%26esrvcID%3DGT-G2B-SSO&TAM_OP=login)
 
 ### What is GeBIZ Alerts?
 
