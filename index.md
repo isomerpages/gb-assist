@@ -16,9 +16,9 @@ sections:
         - title: Gobusiness Covid
           url: https://covid.gobusiness.gov.sg/supportschemes/general
           description: Supporting our businesses, overcoming challenges and emerging stronger
-        - title: Gebiz Alerts
-          url: /gebiz-alerts/
-          description: Be informed about the latest Government contracts
+      #  - title: Gebiz Alerts
+      #    url: /gebiz-alerts/
+      #    description: Be informed about the latest Government contracts
         - title: Productivity Solutions Grant
           url: /psg/
           description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
@@ -27,14 +27,9 @@ sections:
           description: Business Grants Portal brings government grants for businesses into one place, so it’s easier to find and apply for the grants you need.
     - infobar:
         title: List of Government Assistance
-        subtitle: The Singapore Government offers a range of assistances to help businesses grow and succeed. 
-        description: Look for a tax incentive, loan, grant, or program here.<br/>View by Assistance Type
-        button: Tax Incentives
+        subtitle: 
+        description: The Singapore Government offers a range of assistances to help businesses grow and succeed. <br/>Look for a tax incentive, loan, grant, or program here.
+        button: View by Assistance Type
         url: /gov-assist/tax-incentives/
-        button: Loans
-        url: /gov-assist/loans/ 
-        button: Grants
-        url: /gov-assist/grants/
-        button: Toolkits/Programs
-        url: /gov-assist/toolkits-programs/
+        
 ---
