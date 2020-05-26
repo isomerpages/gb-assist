@@ -14,5 +14,23 @@ navlinks:
         url: https://covid.gobusiness.gov.sg/
       #- title: Subitem 3
       #  url: /some-page-c/
-  - title: List of Government Assistance
+  - title: Government Assistance
     url: /gov-assist/
+    sublinks:
+      - title: Overview
+        url: /gov-assist/
+      - title: e-Adviser for Government Assistance
+        url: https://ea-staging.l1t.molb.gov.sg/#/
+      - title: Types of Government Assistance
+        url: /gov-assist/tax-incentives/
+      - title: Business Grants Portal
+        url: /business-grants-portal/
+      - title: GeBIZ Alerts
+        url: /gebiz-alerts/
+  - title: Productivity Solutions Grant
+    url: /psg/
+    sublinks:
+      - title: Pre-scoped IT Solutions
+        url: /psg/pre-scoped-it-solutions/
+      - title: Pre-scoped Equipment
+        url: /psg/pre-scoped-equipment/
