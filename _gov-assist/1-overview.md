@@ -15,11 +15,9 @@ Access the e-Adviser here to receive a set of recommended assistance.
 
 <a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank" style="color:#037e8a">Get recommendation from e-Adviser</a>
 
-{% include button.html button_name="Get recommendation from e-Adviser" button_class="outline-primary" url="https://ea-staging.l1t.molb.gov.sg/#/" %}
-
 ***
 
-#### Search by assistance type
+#### Search by Assistance Type
 
 Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.
 

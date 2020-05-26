@@ -1,7 +1,7 @@
 ---
 title: Tax Incentives
 permalink: /gov-assist/tax-incentives/
-third_nav_title: Government Assistance
+third_nav_title: Type of Assistance
 ---
 
 ## List of Tax Incentives
