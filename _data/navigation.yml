@@ -28,15 +28,15 @@ links:
   #  collection: gov-assist
   #- title: PSG
   #  collection: psg
-  - title: Productivity Solutions Grant
-    url: /psg/
-    sublinks:
-      - title: Overview
-        url: /psg/
-      - title: Pre-scoped IT Solutions
-        url: /psg/pre-scoped-it-solutions/
-      - title: Pre-scoped Equipment
-        url: /psg/pre-scoped-equipment/
+  #- title: Productivity Solutions Grant
+  #  url: /psg/
+  #  sublinks:
+  #    - title: Overview
+  #      url: /psg/
+  #    - title: Pre-scoped IT Solutions
+  #      url: /psg/pre-scoped-it-solutions/
+  #    - title: Pre-scoped Equipment
+  #      url: /psg/pre-scoped-equipment/
   - title: FAQ
     url: /faq/
   - title: Contact Us
