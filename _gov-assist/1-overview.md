@@ -27,8 +27,5 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 
 #### Related content
 
-| [![BGP](/images/gov-assist/bgp.png)](/business-grants-portal/) | [![GeBIZ Alerts](/images/gov-assist/gebiz.png)](/gebiz-alerts/) |
-|[![PSG](/images/gov-assist/psg.png)](/psg/)|
+| [![BGP](/images/gov-assist/bgp.png)](/business-grants-portal/) | [![GeBIZ Alerts](/images/gov-assist/gebiz.png)](/gebiz-alerts/) |[![PSG](/images/gov-assist/psg.png)](/psg/)|
 
-
-| [![Tax Incentives](/images/gov-assist/taxIncentives.png)](/gov-assist/tax-incentives/) | [![Loans](/images/gov-assist/loans.png)](/gov-assist/loans/) | [![Grants](/images/gov-assist/grants.png)](/gov-assist/grants/) | [![Toolkits/Programs](/images/gov-assist/toolkits_programs.png)](/gov-assist/toolkits-programs/) |
