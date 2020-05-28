@@ -21,7 +21,6 @@ contacts:
       - other: <strong>Saturday</strong>
       - other: 8.00am - 2.00pm
       - other: Closed on Sunday and Public Holidays
-    
 #locations:
 #  - title: Gov Assist Helpdesk
 #    address: Test
