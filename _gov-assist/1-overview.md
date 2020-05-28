@@ -21,22 +21,11 @@ Access the e-Adviser here to receive a set of recommended assistance.
 
 Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.
 
-| [![Tax Incentives](/images/gov-assist/taxIncentives.png)](/gov-assist/tax-incentives/) | [![Loans](/images/gov-assist/loans.png)](/gov-assist/loans/) |
+| [![Tax Incentives](/images/gov-assist/taxIncentives.png "Tax Incentives")](/gov-assist/tax-incentives/) | [![Loans](/images/gov-assist/loans.png "LOans")](/gov-assist/loans/) |
 
-| [![Grants](/images/gov-assist/grants.png)](/gov-assist/grants/) | [![Toolkits/Programs](/images/gov-assist/toolkits_programs.png)](/gov-assist/toolkits-programs/) |
+| [![Grants](/images/gov-assist/grants.png "Grants")](/gov-assist/grants/) | [![Toolkits/Programs](/images/gov-assist/toolkits_programs.png "Toolkits/Programs")](/gov-assist/toolkits-programs/) |
 
 #### Related content
 
-| [![BGP](/images/gov-assist/bgp.png)](/business-grants-portal/) | [![GeBIZ Alerts](/images/gov-assist/gebiz.png)](/gebiz-alerts/) |
-| [![PSG](/images/gov-assist/psg.png)](/psg/) |
-
-
-
-<img src="/images/gov-assist/taxIncentives.png"
-     alt="Tax Incentives tiles"
-     style="float: left; margin-right: 10px;" />
-
-<a href="/gov-assist/grants/">
-<img src="/images/gov-assist/grants.png" 
-    alt="Grants"
-    style="float: right; margin-right: 5px;"></a>     
+| [![BGP](/images/gov-assist/bgp.png "Business Grants Portal")](/business-grants-portal/) | [![GeBIZ Alerts](/images/gov-assist/gebiz.png "GeBIZ Alerts")](/gebiz-alerts/) |
+| [![PSG](/images/gov-assist/psg.png "Productivity Solutions Grant")](/psg/) |
