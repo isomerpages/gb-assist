@@ -4,7 +4,7 @@
 
 @charset "utf-8";
 
-// HLB brand colors
+// GoBusiness brand colors
 //$primary: #6031b6;
 $primary: #037e8a;
 $secondary: #037e8a;
@@ -312,6 +312,22 @@ $desktop: 960px + (2 * $gap) !default;
 		color: $secondary;
 	}
 }
+
+// Kevin tweak to display table cell as a column in mobile
+table.mobile-block{
+  tbody{
+    border-width: 0;
+  }
+}
+@media screen and (max-width: 600px){
+  table.mobile-block{
+    td{
+      display: block;
+    }
+  }
+}
+// Kevin tweak to display table cell as a column in mobile
+
 
 // Media category buttons - not used now but will be used in the future
 
