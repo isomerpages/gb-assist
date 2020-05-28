@@ -27,12 +27,12 @@ navlinks:
         url: /business-grants-portal/
       - title: GeBIZ Alerts
         url: /gebiz-alerts/
-  - title: Productivity Solutions Grant
-    url: /psg/
-    sublinks:
-      - title: Overview
-        url: /psg/
-      - title: Pre-scoped IT Solutions
-        url: /psg/pre-scoped-it-solutions/
-      - title: Pre-scoped Equipment
-        url: /psg/pre-scoped-equipment/
+#  - title: Productivity Solutions Grant
+#    url: /psg/
+#    sublinks:
+#      - title: Overview
+#        url: /psg/
+#      - title: Pre-scoped IT Solutions
+#        url: /psg/pre-scoped-it-solutions/
+#      - title: Pre-scoped Equipment
+#        url: /psg/pre-scoped-equipment/
