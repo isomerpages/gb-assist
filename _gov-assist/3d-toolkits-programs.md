@@ -22,7 +22,7 @@ Businesses can access a comprehensive suite of A*STAR's advanced manufacturing e
 
 A guide for local Small and Medium Practices (SMPs) in the Accountancy industry to digitalise your businesses, plug skills gaps and participate in industyr pilot projects. 
 
-<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Accountancy-IDP" target="_blank">Find out more</a>
+<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Accountancy-IDP" target="_blank" style="color:#037e8a">Find out more</a>
 
 ####  Accreditation@SGD
 
