@@ -35,3 +35,8 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 <img src="/images/gov-assist/taxIncentives.png"
      alt="Tax Incentives tiles"
      style="float: left; margin-right: 10px;" />
+
+<a href="/gov-assist/grants/">
+<img src="/images/gov-assist/grants.png" 
+    alt="Grants"
+    style="float: right; margin-right: 5px;"></a>     
