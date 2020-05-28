@@ -313,37 +313,6 @@ $desktop: 960px + (2 * $gap) !default;
 	}
 }
 
-// Kevin tweak to use tbody instead of tr for table row
-table{
-  tbody {
-   border-color: #d6d6d6;
-   border-style: solid;
-   border-width: 0 0 2px; 
-  }
-  td{
-    border: 0;
-  }
-}
-
-// End of Kevin tweak to use tbody instead of tr for table row
-
-// Kevin tweak to display table cell as a column in mobile
-  table.mobile-block{
-    tbody{
-      border-width: 0;
-    }
-  }
-  @media screen and (max-width: 600px){
-    table.mobile-block{
-      td{
-        display: block;
-      }
-    }
-  }
-// Kevin tweak to display table cell as a column in mobile
-
-}
-
 // Media category buttons - not used now but will be used in the future
 
 .media-category-button {
@@ -409,7 +378,34 @@ table{
 }
 
 
+// Kevin tweak to use tbody instead of tr for table row
+table{
+  tbody {
+   border-color: #d6d6d6;
+   border-style: solid;
+   border-width: 0 0 2px; 
+  }
+  td{
+    border: 0;
+  }
+}
 
+// End of Kevin tweak to use tbody instead of tr for table row
+
+// Kevin tweak to display table cell as a column in mobile
+  table.mobile-block{
+    tbody{
+      border-width: 0;
+    }
+  }
+  @media screen and (max-width: 600px){
+    table.mobile-block{
+      td{
+        display: block;
+      }
+    }
+  }
+// Kevin tweak to display table cell as a column in mobile
 
 
 
