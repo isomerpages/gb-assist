@@ -2,6 +2,7 @@
 title: Finance
 permalink: /growsj/psg/it-finance/
 third_nav_title: Pre-scoped IT Solutions
+published: false
 ---
 
 ### [Accounting Management + Human Resource Management (HRMS)](/psg/HRMS)

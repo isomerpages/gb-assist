@@ -1,7 +1,7 @@
 ---
 title: ABSS Premier Plus Version 23 - Package (Advanced 3 Users)
 permalink: /psg/am-sms/abssppv23-pkg-adv-3users/
-third_nav_title: List of Solutions
+third_nav_title: List of Solution
 ---
 
 #### Description
