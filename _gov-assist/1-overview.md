@@ -23,7 +23,7 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 
 | [![Tax Incentives](/images/gov-assist/taxIncentives.png "Tax Incentives")](/gov-assist/tax-incentives/) | [![Loans](/images/gov-assist/loans.png "Loans")](/gov-assist/loans/) |
 
-| [![Grants](/images/gov-assist/grants.png "Grants")](/gov-assist/grants/) | [![Toolkits/Programs](/images/gov-assist/toolkits_programs.png "Toolkits/Programs")](/gov-assist/toolkits-programs/) |
+| [![Grants](/images/gov-assist/grants.png "Grants")](/gov-assist/grants/) | [![Toolkits / Programmes](/images/gov-assist/toolkits_programs.png "Toolkits / Programmes")](/gov-assist/toolkits-programmes/) |
 
 #### Related content
 
