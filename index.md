@@ -9,7 +9,7 @@ sections:
     - hero:
         title: Government Assistance for Businesses
         subtitle: The e-Adviser helps businesses in selecting a relevant assistance based on their business need. 
-        background: \images\hero-banner.jpg
+        background: /images/hero-banner.jpg
         button: Get started with e-Adviser
         url: https://ea-staging.l1t.molb.gov.sg/#/
         key_highlights:
