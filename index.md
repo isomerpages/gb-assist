@@ -27,7 +27,7 @@ sections:
       #    description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
         - title: Business Grants Portal
           url: https://www.businessgrants.gov.sg/
-          description: Business Grants Portal brings government grants for businesses into one place, so it’s easier to find and apply for the grants you need.
+          description: Business Grants Portal brings government grants for businesses into one place, so it’s easier to find and apply for the grants you need
     - infobar:
         title: List of Government Assistance
         subtitle: 
