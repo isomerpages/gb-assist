@@ -19,9 +19,12 @@ sections:
       #  - title: Gebiz Alerts
       #    url: /gebiz-alerts/
       #    description: Be informed about the latest Government contracts
-        - title: Productivity Solutions Grant
-          url: /psg/
-          description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
+        - title: GoBusiness Licensing
+          url: https://www.gobusiness.gov.sg/licences
+          description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
+      #  - title: Productivity Solutions Grant
+      #    url: /psg/
+      #    description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
         - title: Business Grants Portal
           url: https://www.businessgrants.gov.sg/
           description: Business Grants Portal brings government grants for businesses into one place, so it’s easier to find and apply for the grants you need.
