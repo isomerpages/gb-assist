@@ -8,9 +8,9 @@ third_nav_title: AMHRMS listings
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-### Quotation
+### Details of Solution
 
-<a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank">Click here for the PDF copy of the quotation</a>
+<a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank" style="color:#037e8a">Click here for the PDF copy of the quotation</a>
 
 ### Eligibility Criteria
 
@@ -39,4 +39,4 @@ Net Solutions Pte Ltd <br>
 Email: <sales@netsolutions.sg> <br>
 Tel: +65 6475 0319<br>
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" style="color:#037e8a" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.
