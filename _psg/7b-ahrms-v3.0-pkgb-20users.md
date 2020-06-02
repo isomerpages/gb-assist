@@ -36,7 +36,7 @@ Direct Purchase
 #### Contact Information
 Net Solutions Pte Ltd <br>
 <a href="https://netsolutions.sg/" style="color:#037e8a">https://netsolutions.sg/</a><br>
-Email: <a href="sales@netsolutions.sg" style="color:#037e8a">sales@netsolutions.sg</a><br>
+Email: <a href="mailto:sales@netsolutions.sg" style="color:#037e8a">sales@netsolutions.sg</a><br>
 Tel: +65 6475 0319<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" style="color:#037e8a" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.
