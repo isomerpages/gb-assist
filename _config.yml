@@ -5,7 +5,7 @@ favicon: /images/Gobiz_favicon.ico
 collections:
   gov-assist:
     output: true
-  psg:
+  productivity-solutions-grant:
     output: true
   guided-journey:
     output: false
