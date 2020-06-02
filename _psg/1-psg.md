@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /psg/
+permalink: /productivity-solutions-grant/
 ---
 
 ## Productivity Solutions Grant (PSG)

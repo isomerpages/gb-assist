@@ -23,7 +23,7 @@ sections:
           url: https://www.gobusiness.gov.sg/licences
           description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
       #  - title: Productivity Solutions Grant
-      #    url: /psg/
+      #    url: /productivity-solutions-grant/
       #    description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
         - title: Business Grants Portal
           url: https://www.businessgrants.gov.sg/

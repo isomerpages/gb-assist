@@ -1,6 +1,6 @@
 ---
 title: Accounting and Human Resource Management Version 3.0 - Package B (20 Users)
-permalink: /psg/am-hrms/ahrmv3.0-pkgb-20users/
+permalink: /productivity-solutions-grant/am-hrms/ahrmv3.0-pkgb-20users/
 third_nav_title: List of Solutions
 ---
 

@@ -1,21 +1,21 @@
 ---
 title: Accounting Management and Sales Management System
-permalink: /psg/am-sms/
+permalink: /productivity-solutions-grant/am-sms/
 ---
 
 ##  Type of Solutions 
 
 ABSS premier is a full fledge and integrated accounting, sales, inventory and multiple-currency management solution. The bundled packages support cloud-based access and backup features.
 
-#### 1. <a href="/psg/am-sms/abssppv23-pkg-adv-3users/" style="color:#037e8a">ABSS Premier Plus Version 23 - Package (Advanced 3 Users)</a>
+#### 1. <a href="/productivity-solutions-grant/am-sms/abssppv23-pkg-adv-3users/" style="color:#037e8a">ABSS Premier Plus Version 23 - Package (Advanced 3 Users)</a>
 
-#### 2. <a href="/psg/am-sms/abssppv23-pkg-bsc-3users/" style="color:#037e8a">ABSS Premier Plus Version 23 - Package (Basic 3 Users)</a>
+#### 2. <a href="/productivity-solutions-grant/am-sms/abssppv23-pkg-bsc-3users/" style="color:#037e8a">ABSS Premier Plus Version 23 - Package (Basic 3 Users)</a>
 
 ABSS premier is an on-premise full fledge and integrated accounting, sales, inventory and multiple-currency management solution.
 
-#### 1. <a href="/psg/AMCIMSMS/" style="color:#037e8a">ABSS Premier Version 21 - Package (1 User - software only)</a>
+#### 1. <a href="/productivity-solutions-grant/AMCIMSMS/" style="color:#037e8a">ABSS Premier Version 21 - Package (1 User - software only)</a>
 
-#### 2. <a href="/psg/AMCIMSMS/" style="color:#037e8a">ABSS Premier Version 21 - Package (3 Users - software only)</a>
+#### 2. <a href="/productivity-solutions-grant/AMCIMSMS/" style="color:#037e8a">ABSS Premier Version 21 - Package (3 Users - software only)</a>
 
 ***
 

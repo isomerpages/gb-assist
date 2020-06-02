@@ -1,6 +1,6 @@
 ---
 title: Pre-scoped Equipment
-permalink: /psg/pre-scoped-equipment/
+permalink: /productivity-solutions-grant/pre-scoped-equipment/
 accordion:
   - title: Agriculture
     content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.

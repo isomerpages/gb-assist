@@ -1,19 +1,19 @@
 ---
 title: Accounting Management + Human Resource Management System (HRMS)
-permalink: /psg/am-hrms/
+permalink: /productivity-solutions-grant/am-hrms/
 ---
 
 ##  Type of Solutions 
 
 The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-#### 1. <a href="/psg/am-hrms/ahrmv3.0-pkga-10users/" style="color:#037e8a">Accounting and Human Resource Management Version 3.0 - Package A (10 Users)</a>
+#### 1. <a href="/productivity-solutions-grant/am-hrms/ahrmv3.0-pkga-10users/" style="color:#037e8a">Accounting and Human Resource Management Version 3.0 - Package A (10 Users)</a>
 
-#### 2. <a href="/psg/am-hrms/ahrmv3.0-pkgb-20users/" style="color:#037e8a">Accounting and Human Resource Management Version 3.0 - Package B (20 Users)</a>
+#### 2. <a href="/productivity-solutions-grant/am-hrms/ahrmv3.0-pkgb-20users/" style="color:#037e8a">Accounting and Human Resource Management Version 3.0 - Package B (20 Users)</a>
 
-#### 3. <a href="/psg/am-hrms/ahrmv3.0-pkgc-50users/" style="color:#037e8a">Accounting and Human Resource Management Version 3.0 - Package C (50 Users)</a>
+#### 3. <a href="/productivity-solutions-grant/am-hrms/ahrmv3.0-pkgc-50users/" style="color:#037e8a">Accounting and Human Resource Management Version 3.0 - Package C (50 Users)</a>
 
-#### 4. <a href="/psg/am-hrms/ahrmv3.0-pkgd-ulusers/" style="color:#037e8a">Accounting and Human Resource Management Version 3.0 - Package D (Unlimited Users)</a>
+#### 4. <a href="/productivity-solutions-grant/am-hrms/ahrmv3.0-pkgd-ulusers/" style="color:#037e8a">Accounting and Human Resource Management Version 3.0 - Package D (Unlimited Users)</a>
 
 ***
 

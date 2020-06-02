@@ -1,9 +1,9 @@
 ---
 title: Pre-scoped IT Solutions
-permalink: /psg/pre-scoped-it-solutions/
+permalink: /productivity-solutions-grant/pre-scoped-it-solutions/
 accordion:
   - title: Agriculture
-    content: <a href="/psg/am-hrms/" style="color:#037e8a">Accounting Management + Human Resource Management (HRMS)</a><br/>An integrated software solution which offers the stated core functions to address business needs.
+    content: <a href="/productivity-solutions-grant/am-hrms/" style="color:#037e8a">Accounting Management + Human Resource Management (HRMS)</a><br/>An integrated software solution which offers the stated core functions to address business needs.
   - title: Building & Construction
     content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.      
   - title: Cleaning Services
