@@ -8,7 +8,7 @@ third_nav_title: Types of Assistance
 
 #### 2-Stage Innovation Grant (iGrant)
 
-Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deploymeent in a fast moving Built Environment.
+Building and construction companies can receive up to 70% support to conduct fast track, Proof-of-Concept (POC) type of R&D projects for subsequent quick deployment in a fast moving Built Environment.
 
 <a href="https://www1.bca.gov.sg/buildsg/buildsg-transformation-fund/2-stage-innovation-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -50,7 +50,7 @@ The BIF provides funding support for tourism companies taking on capability deve
 
 #### Career Support Programme (CSP)
 
-Receive wage support of up to $42,000 for up to 18 months, for companies which hire skilled and experienced PMETs.
+Receive wage support of up to $42,000 for up to 18 months when you hire eligible Singapore Citizen PMETs.
 
 <a href="https://www.wsg.gov.sg/programmes-and-initiatives/wsg-career-support-programme-employers.html" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -62,7 +62,7 @@ Provide cost-free option to companies to assess potential hire's job fit via a s
 
 #### Citrep+
 
-Support the ICT workforce in keeping pace with technology shifts, through the continuous and proactive training of technical skills sets, in order to remain relevant and productive.
+Build ICT technical skills for your employees in areas such as cyber security, data analytics, network and infrastructure and software development. Funding support of up to 90%. 
 
 <a href="https://www.imda.gov.sg/imtalent/programmes/citrep-plus" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -186,25 +186,29 @@ Employers who hire and train mid-career workers aged 40 and above through reskil
 
 <a href="https://www.wsg.gov.sg/hiring-incentive.html?_ga=2.17281913.1350925244.1585126833-1444146672.1584946395" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### iBuildSG Building Specialist Sponsorship (BSS)
+"#### iBuildSG Building Specialist
+Sponsorship (BSS)"
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 80% of the training.  
 
 <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/building-specialist" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### iBuildSG Building Specialist Sponsorship (Crane & Operations)
+"#### iBuildSG Building Specialist
+Sponsorship (Crane & Operations)"
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firm through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 80% of the course fee. 
 
 <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/building-specialist" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### iBuildSG Diploma Scholarship/Sponsorship (full-time)
+"#### iBuildSG Diploma
+Scholarship/Sponsorship (full-time)"
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 70% of the award. 
 
 <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/diploma" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### iBuildSG Diploma Sponsorship (part-time)
+"#### iBuildSG Diploma
+Sponsorship (part-time)"
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor up to 70% of the award. 
 
@@ -228,7 +232,8 @@ Industry firms can co-sponsor suitable candidates with BCA and engage talents to
 
 <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/Part-Time-Sponsorships" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### iBuildSG Undergraduate Scholarship/Sponsorship (full-time)
+"#### iBuildSG Undergraduate
+Scholarship/Sponsorship (full-time)"
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 70% of the award. 
 
@@ -236,7 +241,7 @@ Industry firms can co-sponsor suitable candidates with BCA and engage talents to
 
 #### Industrial Water Solutions Demonstration Fund (IWSDF)
 
-The IWSPF provides funding and technical support to facilitate the execution of approved projects in collaboration with industrial users.
+The IWSPF provides funding and technical support for projects to treat and reclaim fresh water from industrial used water for process reuse.
 
 <a href="https://www.pub.gov.sg/research/industrialwatersolutions/funding" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -246,7 +251,7 @@ With up to 90% funding support, the programme is an 8-week programme that focuse
 
 <a href="https://ihci.sbf.org.sg" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Internationalisation iskills Talent Development Programme
+#### Internationalisation iSkills Talent Development Programme
 
 Internationalisation Skills (iSkills) Talent Development Programme aims to equip internationalisers with skills and capabilities for businesses to venture abroad.
 
@@ -282,11 +287,11 @@ This programme connects SMEs to solution providers, which will help to list and 
 
 <a href="https://www.enterprisesg.gov.sg/non-financial-assistance/for-singapore-companies/new-market-entry-support/multichannel-e-commerce-platform-mep-programme" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### National Centre of Excellence for Workplace Learning  (NACE)
+#### MySkillsFuture.sg "Research & Product Development" courses
 
-NACE aims to help companies build and develop their workplace learning capabilities, solutions and systems through training and consultancy projects.
+This is a catalogue of SkillsFuture approved courses on Research & Product Development.
 
-<a href="https://www.skillsfuture.sg/nace" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.myskillsfuture.sg/content/portal/en/training-exchange/course-directory.html?fq=Course_Supp_Period_To_1%3A%5B2020-05-04T00%3A00%3A00Z%20TO%20*%5D&fq=IsValid%3Atrue&q=*%3A*&cat=fq%3DArea_of_Training_text_exact%3A(%22Research%20%26%20Product%20Development%22)&cattext=Research%20%26%20Product%20Development&cattype=undefined" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### New Talent Feature Grant (NTFG)
 
@@ -299,6 +304,12 @@ The NTFG  helps first and second-time directors to launch their careers by provi
 Development of technology roadmaps to map out priorities that are aligned to businesses' strategies and developmental plans. Eligible SMEs may receive up to 80% funding support. 
 
 <a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/Operation-Technology-Roadmap" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Operations Management Innovation Programme (OMNI)
+
+OMNI aims to train engineers, managers and senior staff to be technology innovators to achieve manufacturing excellence by using operations management techniques and technologies that support a company's strategy.
+
+<a href="https://www.enterprisejobskills.sg/content/upgrade-skills/operations-management-innovation-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### P-Max
 
@@ -326,7 +337,7 @@ Provides funding for productions with original IPs that highlight Singapore tale
 
 #### Productivity Innovation Project
 
-Construction related companies can defray the cost of techology adoption aimed to help reduce site workers or improve site productivity. 
+Construction related companies can defray the cost of technology adoption aimed to help reduce site workers or improve site productivity. 
 
 <a href="https://www.bca.gov.sg/PIP/pip.html" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -338,13 +349,13 @@ The PSG  supports businesses in the adoption of prouductivity solutions. Busines
 
 #### Productivity Solutions Grant
 
-The PSG  supports businesses in the adoption of prouductivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs. 
+The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs. 
 
 <a href="https://www.nea.gov.sg/industry-transformation-map/productivity-solutions-grant-(psg)" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Productivity Solutions Grant
 
-The PSG  supports businesses in the adoption of prouductivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs. 
+The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs. 
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -392,7 +403,7 @@ The SkillsFuture Mid-Career Enhanced Subsidy supports and encourages mid-career 
 
 #### Southeast Asia Co-Production Grant
 
-The SCPG encourages film talent in Singapre and SEA region to jointly produce quality feature files by providing support of up to $250,000 or 50% of qualifying costs. Feature files should be 70 minutes or longer.
+The SCPG encourages film talent in Singapore and SEA region to jointly produce quality feature files by providing support of up to $250,000 or 50% of qualifying costs. Feature files should be 70 minutes or longer.
 
 <a href="https://www.imda.gov.sg/programme-listing/Southeast-Asia-Co-Production-Grant" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -404,7 +415,7 @@ SMEs that are new to using digital technology can take up any 2 digital solution
 
 #### Start up SG Equity
 
-The government will co-invest with qualified 3rd party investors into eligible Singapore-based technlogy startups with IP and global market potential. 
+The government will co-invest with qualified 3rd party investors into eligible Singapore-based technology startups with IP and global market potential. 
 
 <a href="https://www.startupsg.net/programmes/4895/startup-sg-equity" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -428,7 +439,7 @@ Funding support is provided to eligible companies and individuals to encourage t
 
 #### Technology for Enterprise Capability Upgrading (T-Up)
 
-Businesses can get access to talent from A*STAR's Research Institutes and build in-house R&D capabilties.
+Get access to talents from A*STAR's Research Institutes and build in-house R&D capabilities.
 
 <a href="https://www.a-star.edu.sg/Collaborate/programmes-for-smes/Technology-for-Enterprise-Capability-Upgrading" target="_blank" style="color:#037e8a">Find out more</a>
 
