@@ -10,6 +10,7 @@ collections:
   guided-journey:
     output: false
 resources_name: news
+google_analytics: UA-168352617-1
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
