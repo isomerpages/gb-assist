@@ -8,6 +8,15 @@ logo: /images/Gobiz_GA_logo.svg
 
 
 links:
+  - title: Our Products
+  #  url: /gov-assist/
+    sublinks:
+      - title: Government Assistance
+        url: /gov-assist/
+      - title: Licensing
+        url: https://www.gobusiness.gov.sg/licences
+      - title: COVID Related
+        url: https://covid.gobusiness.gov.sg/
   - title: Government Assistance
     url: /gov-assist/
     sublinks:
