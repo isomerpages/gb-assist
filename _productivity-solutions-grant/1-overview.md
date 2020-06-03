@@ -3,11 +3,9 @@ title: Overview
 permalink: /productivity-solutions-grant/
 ---
 
-## Productivity Solutions Grant (PSG)
+## Productivity Solutions Grant
 
 The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity. Receive up to 80%<sup>1</sup> funding support for eligible costs.
-
-![PSG](/images/gov-assist/psgbanners.png)
 
 #### Who can apply?
 
