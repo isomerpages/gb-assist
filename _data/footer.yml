@@ -8,9 +8,11 @@ navlinks:
   - title: Our Products
   #  url: /
     sublinks:
-      - title: GoBusiness Licensing
+      - title: Government Assistance
+        url: /gov-assist/
+      - title: Licensing
         url: https://www.gobusiness.gov.sg/licences
-      - title: GoBusiness COVID
+      - title: COVID-19 Related
         url: https://covid.gobusiness.gov.sg/
       #- title: Subitem 3
       #  url: /some-page-c/
