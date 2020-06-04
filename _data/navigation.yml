@@ -11,9 +11,9 @@ links:
   - title: Our Products
   #  url: /gov-assist/
     sublinks:
-      - title: Government Assistance
-        url: /gov-assist/
-      - title: Licensing
+    #  - title: Government Assistance
+    #    url: /gov-assist/
+      - title: GoBusiness Licensing
         url: https://www.gobusiness.gov.sg/licences
       - title: COVID-19 Related
         url: https://covid.gobusiness.gov.sg/
