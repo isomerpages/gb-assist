@@ -10,7 +10,7 @@ The solution is an integrated and cloud based Accounting and Human Resource Mana
 
 #### Details of Solution
 
-<a href="/images/psg-pdf/EPOS-EnhancedPOSVersion2-Package1.pdf" target="_blank" style="color:#037e8a">Click here for the PDF copy of the quotation</a>
+Click <a href="/images/psg-pdf/Test PSG solution display.xls" style="color:#037e8a">here</a> to download a copy of the quotation.
 
 #### Eligibility Criteria
 
