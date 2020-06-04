@@ -43,7 +43,8 @@ accordion:
   - title: Tourism Wholesale Trade
     content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.
   - title: Others
-    content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.   
+    content: There is currently no equipment available on the Productivity Solutions Grant for the specified sector.
+published: false
 ---
 
 ## PSG Pre-scoped IT Solutions
