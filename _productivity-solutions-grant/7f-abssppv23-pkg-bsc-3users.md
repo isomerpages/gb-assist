@@ -1,7 +1,8 @@
 ---
+layout: simple-page
 title: ABSS Premier Plus Version 23 - Package (Basic 3 Users)
 permalink: /productivity-solutions-grant/am-sms/abssppv23-pkg-bsc-3users/
-third_nav_title: All Solutions
+#third_nav_title: All Solutions
 ---
 
 #### Description
