@@ -1,8 +1,7 @@
 ---
 title: Manufacturing & Engineering
-permalink: /psg/it-manufacturing-engineering/
+permalink: /productivity-solutions-grant/it-manufacturing-engineering/
 third_nav_title: Pre-scoped IT Solutions
-published: false
 ---
 
 ### [Accounting Management + Human Resource Management (HRMS)](/psg/HRMS)

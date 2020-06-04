@@ -1,6 +1,7 @@
 ---
 title: Accounting Management and Sales Management System
 permalink: /productivity-solutions-grant/am-sms/
+published: false
 ---
 
 ##  Type of Solutions 
