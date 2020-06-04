@@ -1,8 +1,7 @@
 ---
-layout: simple-page
 title: Accounting and Human Resource Management Version 3.0 - Package D (Unlimited Users)
 permalink: /productivity-solutions-grant/am-hrms/ahrmv3.0-pkgd-ulusers/
-#third_nav_title: All Solutions
+third_nav_title: All Solutions
 ---
 
 #### Description
