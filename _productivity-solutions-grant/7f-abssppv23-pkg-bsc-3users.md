@@ -10,7 +10,7 @@ ABSS premier is a full fledge and integrated accounting, sales, inventory and mu
 
 #### Details of Solution
 
-<a href="/images/psg-pdf/Test PSG solution display.xls" target="_blank" style="color:#037e8a">Click here for a copy of the quotation</a>
+Click<a href="/images/psg-pdf/Test PSG solution display.xls" target="_blank" style="color:#037e8a">here</a> to download a copy of the quotation.
 
 #### Eligibility Criteria
 
