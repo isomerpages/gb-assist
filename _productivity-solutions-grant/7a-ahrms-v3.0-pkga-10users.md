@@ -10,7 +10,7 @@ The solution is an integrated and cloud based Accounting and Human Resource Mana
 
 #### Details of Solution
 
-Click <a href="/images/psg-pdf/Test PSG solution display.xls" style="color:#037e8a">here</a> to download a copy of the quotation.
+Click <a href="/images/psg/Test PSG solution display.xls" style="color:#037e8a">here</a> to download a copy of the quotation.
 
 #### Eligibility Criteria
 
