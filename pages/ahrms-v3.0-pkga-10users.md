@@ -1,12 +1,11 @@
 ---
-title: ABSS Premier Plus Version 23 - Package (Basic 3 Users)
-permalink: /productivity-solutions-grant/am-sms/abssppv23-pkg-bsc-3users/
-third_nav_title: All Solutions
+title: Accounting and Human Resource Management Version 3.0 - Package A (10 Users)
+permalink: /productivity-solutions-grant/am-hrms/ahrmv3.0-pkga-10users/
 ---
 
 #### Description
 
-ABSS premier is a full fledge and integrated accounting, sales, inventory and multiple-currency management solution. The bundled packages support cloud-based access and backup features.
+The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
 #### Details of Solution
 
@@ -34,9 +33,9 @@ Direct Purchase
 ≥30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Jabez Integrated Solutions Pte Ltd<br>
-<a href="https://www.facebook.com/Jabez-is-Pte-Ltd-110019910337941" style="color:#037e8a">https://www.facebook.com/Jabez-is-Pte-Ltd-110019910337941</a><br>
-Email: <a href="mailto:Eliezerjul14@gmail.com" style="color:#037e8a">Eliezerjul14@gmail.com</a><br>
-Tel: +65 9838 0221 <br>
+Net Solutions Pte Ltd <br>
+<a href="https://netsolutions.sg/" style="color:#037e8a">https://netsolutions.sg/</a><br>
+Email: <a href="mailto:sales@netsolutions.sg" style="color:#037e8a">sales@netsolutions.sg</a><br>
+Tel: +65 6475 0319<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target="_blank" style="color:#037e8a" href="https://www.businessgrants.gov.sg/">Business Grant Portal (BGP)</a>.
