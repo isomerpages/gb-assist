@@ -1,6 +1,6 @@
 ---
 title: Building & Construction
-permalink: /productivity-solutions-grant/it-building-consruction/
+permalink: /productivity-solutions-grant/it-building-construction/
 third_nav_title: Pre-scoped IT Solutions
 accordion:
   - title: Accounting Management + Human Resource Management (HRMS)
