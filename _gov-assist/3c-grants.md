@@ -341,19 +341,7 @@ Construction related companies can defray the cost of technology adoption aimed 
 
 The PSG  supports businesses in the adoption of prouductivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs. 
 
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant" target="_blank" style="color:#037e8a">Find out more</a>
-
-#### Productivity Solutions Grant
-
-The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs. 
-
-<a href="https://www.nea.gov.sg/industry-transformation-map/productivity-solutions-grant-(psg)" target="_blank" style="color:#037e8a">Find out more</a>
-
-#### Productivity Solutions Grant
-
-The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs. 
-
-<a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/productivity-solutions-grant" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="/productivity-solutions-grant/" style="color:#037e8a">Find out more</a>
 
 #### Quieter Construction Innovation Fund
 
