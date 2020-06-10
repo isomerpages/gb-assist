@@ -186,29 +186,25 @@ Employers who hire and train mid-career workers aged 40 and above through reskil
 
 <a href="https://www.wsg.gov.sg/hiring-incentive.html?_ga=2.17281913.1350925244.1585126833-1444146672.1584946395" target="_blank" style="color:#037e8a">Find out more</a>
 
-"#### iBuildSG Building Specialist
-Sponsorship (BSS)"
+#### iBuildSG Building Specialist Sponsorship (BSS)
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 80% of the training.  
 
 <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/building-specialist" target="_blank" style="color:#037e8a">Find out more</a>
 
-"#### iBuildSG Building Specialist
-Sponsorship (Crane & Operations)"
+#### iBuildSG Building Specialist Sponsorship (Crane & Operations)
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firm through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 80% of the course fee. 
 
 <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/building-specialist" target="_blank" style="color:#037e8a">Find out more</a>
 
-"#### iBuildSG Diploma
-Scholarship/Sponsorship (full-time)"
+#### iBuildSG Diploma Scholarship/Sponsorship (full-time)
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 70% of the award. 
 
 <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/diploma" target="_blank" style="color:#037e8a">Find out more</a>
 
-"#### iBuildSG Diploma
-Sponsorship (part-time)"
+#### iBuildSG Diploma Sponsorship (part-time)
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor up to 70% of the award. 
 
