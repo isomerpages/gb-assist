@@ -23,10 +23,10 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 
 | [![Tax Incentives](/images/gov-assist/taxIncentives.png "Tax Incentives")](/gov-assist/tax-incentives/) | [![Loans](/images/gov-assist/loans.png "Loans")](/gov-assist/loans/) |
 
-| [![Grants](/images/gov-assist/grants.png "Grants")](/gov-assist/grants/) | [![Toolkits / Programmes](/images/gov-assist/toolkits_programmes.png "Toolkits / Programmes")](/gov-assist/toolkits-programmes/) 
+| [![Grants](/images/gov-assist/grants.png "Grants")](/gov-assist/grants/) | [![Toolkits / Programmes](/images/gov-assist/toolkits_programmes.png "Toolkits / Programmes")](/gov-assist/toolkits-programmes/) <br/>
 | [![Covid-19 Specific Support](/images/gov-assist/covid_support.png "Covid-19 Specific Support")](/gov-assist/grants/) |
 
 #### Related content
 
-| [![BGP](/images/gov-assist/bgp.png "Business Grants Portal")](/business-grants-portal/) | [![GeBIZ Alerts](/images/gov-assist/gebiz.png "GeBIZ Alerts")](/gebiz-alerts/) 
+| [![BGP](/images/gov-assist/bgp.png "Business Grants Portal")](/business-grants-portal/) | [![GeBIZ Alerts](/images/gov-assist/gebiz.png "GeBIZ Alerts")](/gebiz-alerts/) <br/>
 | [![PSG](/images/gov-assist/psg.png "Productivity Solutions Grant")](/productivity-solutions-grant/) |
