@@ -10,7 +10,7 @@ third_nav_title: Types of Assistance
 
 * <a href="#jobs-support-scheme-jss" style="color:#037e8a">Jobs Support Scheme (JSS)</a>
 * <a href="#enhanced-wage-credit-scheme-wcs" style="color:#037e8a">Enhanced Wage Credit Scheme (WCS)</a>
-* Deferment of Income Tax Payments
+* <a href="#deferment-of-income-tax-payments" style="color:#037e8a">Deferment of Income Tax Payments</a>
 * Property Tax Rebate for 2020
 * Rental Waivers
 * Government Cash Grant for SME tenants in private properties
@@ -50,3 +50,8 @@ Click <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=JSSEmployerE
 * Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
 
 Click <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=EmployerEligibilitySearch" target="_blank" style="color:#037e8a">here</a> to check for eligibility.
+
+## Deferment of Income Tax Payments
+
+* Automatically defer income tax payments for 3 months, for companies and self-employed persons (SEPs)
+  * Companies: tax due from April to June 2020 payable only from July to September 2020
