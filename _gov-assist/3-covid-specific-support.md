@@ -8,6 +8,7 @@ third_nav_title: Types of Assistance
 
 #### Immediate Support
 
+* [Jobs Support Scheme (JSS)](#jobs-support-scheme-jss)
 * Enhanced Wage Credit Scheme (WCS)
 * Deferment of Income Tax Payments
 * Property Tax Rebate for 2020
@@ -30,3 +31,14 @@ third_nav_title: Types of Assistance
 * F&B
 * Hospitality and Tourism
 * Maritime
+
+***
+
+## Jobs Support Scheme (JSS)
+
+* To help employers retain workers, Government will co-fund the first $4,600 of gross monthly wages paid to each local employee for 10 months, with payouts in April, May, July, and October 2020.
+* Firms not allowed to resume operations to get 75% wage support until August 2020 or when allowed to reopen, whichever is earlier
+* For other qualifying months, Government will pay:
+  * 75% for aviation, tourism, built environment, aerospace and MICE organisers sectors
+  * 50% for the food services, retail, arts & entertainment, marine & offshore and land transport sectors
+  * 25% for all other firms
