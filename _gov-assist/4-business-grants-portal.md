@@ -16,7 +16,7 @@ The Business Grants Portal (BGP) is a one-stop portal for businesses to apply fo
 ### STAGE 1: BEFORE APPLICATION
 
 #### 1. Discover the most suitable grant for you
-Use <a href="https://ea-staging.l1t.molb.gov.sg/#/" target="_blank" style="color:#037e8a">e-Adviser for Government Assistance</a> to determine the grant that is most suitable for your business needs.
+Use <a href="https://ea-uat.l1t.molb.gov.sg/" target="_blank" style="color:#037e8a">e-Adviser for Government Assistance</a> to determine the grant that is most suitable for your business needs.
 
 #### 2. Register with CorpPass
 Register an account with <a href="https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login" target="_blank" style="color:#037e8a">CorpPass</a> in order to log into BGP. Approach your CorpPass Admin to assign an appropriate BGP role to you.
