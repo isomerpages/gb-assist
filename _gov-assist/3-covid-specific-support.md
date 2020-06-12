@@ -9,7 +9,7 @@ third_nav_title: Types of Assistance
 #### Immediate Support
 
 * [<span style="color:#037e8a">Jobs Support Scheme (JSS)</span>](#jobs-support-scheme-jss)
-* Enhanced Wage Credit Scheme (WCS)
+* [<span style="color:#037e8a">Enhanced Wage Credit Scheme (WCS)</span>](#enhanced-wage-credit-scheme-wcs)
 * Deferment of Income Tax Payments
 * Property Tax Rebate for 2020
 * Rental Waivers
@@ -42,3 +42,11 @@ third_nav_title: Types of Assistance
   * 75% for aviation, tourism, built environment, aerospace and MICE organisers sectors
   * 50% for the food services, retail, arts & entertainment, marine & offshore and land transport sectors
   * 25% for all other firms
+
+Click <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=JSSEmployerEligibilitySearch" style="color:#037e8a">here</a> to check for eligibility.
+
+## Enhanced Wage Credit Scheme (WCS)
+
+* Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
+
+Click <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=EmployerEligibilitySearch" style="color:#037e8a">here</a> to check for eligibility.
