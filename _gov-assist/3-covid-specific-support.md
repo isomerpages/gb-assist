@@ -8,8 +8,8 @@ third_nav_title: Types of Assistance
 
 #### Immediate Support
 
-* [<span style="color:#037e8a">Jobs Support Scheme (JSS)</span>](#jobs-support-scheme-jss)
-* [<span style="color:#037e8a">Enhanced Wage Credit Scheme (WCS)</span>](#enhanced-wage-credit-scheme-wcs)
+* <a href="#jobs-support-scheme-jss" style="color:#037e8a">Jobs Support Scheme (JSS)</a>
+* <a href="#enhanced-wage-credit-scheme-wcs" style="color:#037e8a">Enhanced Wage Credit Scheme (WCS)</a>
 * Deferment of Income Tax Payments
 * Property Tax Rebate for 2020
 * Rental Waivers
