@@ -43,10 +43,10 @@ third_nav_title: Types of Assistance
   * 50% for the food services, retail, arts & entertainment, marine & offshore and land transport sectors
   * 25% for all other firms
 
-Click <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=JSSEmployerEligibilitySearch" style="color:#037e8a">here</a> to check for eligibility.
+Click <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=JSSEmployerEligibilitySearch" target="_blank" style="color:#037e8a">here</a> to check for eligibility.
 
 ## Enhanced Wage Credit Scheme (WCS)
 
 * Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
 
-Click <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=EmployerEligibilitySearch" style="color:#037e8a">here</a> to check for eligibility.
+Click <a href="https://mytax.iras.gov.sg/ESVWeb/default.aspx?target=EmployerEligibilitySearch" target="_blank" style="color:#037e8a">here</a> to check for eligibility.
