@@ -12,7 +12,7 @@ published: false
 
 <p>The e-adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. Access the e-adviser here to receive a set of recommended assistance.</p></center>
       </ul>
-      <a href="https://ea-uat.l1t.molb.gov.sg/"><div class="gobizfinsup1Table-firstTable_table__getstart">Get recommendation from e-adviser</div></a>
+      <a href="https://ea-staging.l1t.molb.gov.sg/"><div class="gobizfinsup1Table-firstTable_table__getstart">Get recommendation from e-adviser</div></a>
     </li>
   </ul>
 </div>
