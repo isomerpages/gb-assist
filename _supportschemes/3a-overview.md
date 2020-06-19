@@ -21,61 +21,12 @@ permalink: /supportschemes/general
 
 #### Other Government support
 
-<div class="gobizTable">
-  <ul class="gobizTable-firstTable">
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Apply for Grants</h1>
-      <a href="/supportschemes/grantschemes"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-    </li>
+| [![Apply for Financial Schemes](/images/gov-assist/apply_financial_schemes.png)](/supportschemes/financialschemes) | [![Apply for Grants](/images/gov-assist/apply_grants.png)](/supportschemes/grantschemes) |
 
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Apply for Financial Schemes</h1>
-      <a href="/supportschemes/financialschemes"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-    </li>
-  </ul>
-</div>
+| [![Assistance on Digital Support](/images/gov-assist/assistance_digital_support.png)](/supportschemes/digitalsupport) | [![Manpower Support](/images/gov-assist/manpower_support.png)](/supportschemes/manpowersupport) |
 
-<div class="gobizTable">
-  <ul class="gobizTable-firstTable">
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Manpower Support</h1>
-      <a href="/supportschemes/manpowersupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-    </li>
+#### Sector-Specific Support
 
-     <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Assistance on Digital Support</h1>
-      <a href="/supportschemes/digitalsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-    </li>
-  </ul>
-</div>
+| [![F&B](/images/gov-assist/fnb.png)](/supportschemes/fnbsupport) | [![Arts & Culture](/images/gov-assist/arts_culture.png)](/supportschemes/artsupport) |
 
-
-## **Sector-Specific Support**
-
-<div class="gobizTable">
-  <ul class="gobizTable-firstTable">
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Arts & Culture</h1>
-      <a href="/supportschemes/artsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-    </li>
-
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">F&B</h1>
-      <a href="/supportschemes/fnbsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-    </li>
-  </ul>
-</div>
-
-<div class="gobizTable">
-  <ul class="gobizTable-firstTable">
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Hospitality and Tourism</h1>
-      <a href="/supportschemes/tourismsupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-    </li>
-
-    <li class="gobizTable-firstTable_table">
-      <h1 class="gobizTable-firstTable_table__header">Maritime</h1>
-      <a href="/supportschemes/martimesupport"><div class="gobizTable-firstTable_table__getstart">Click Here</div></a>
-    </li>
-  </ul>
-</div>
+| [![Maritime](/images/gov-assist/maritime.png)](/supportschemes/martimesupport) | [![Hospitality and Tourism](/images/gov-assist/hospitality_tourism.png)](/supportschemes/tourismsupport) |
