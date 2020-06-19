@@ -3,30 +3,23 @@ title: Supporting Our Businesses
 permalink: /supportschemes/general
 ---
 
-## **Government Assistance**
+## COVID-19 Support
 
-<div class="gobizfinsup1Table">
-  <ul class="gobizfinsup1Table-firstTable">
-    <li class="gobizfinsup1Table-firstTable_table">
-      <h1 class="gobizfinsup1Table-firstTable_table__header">Immediate Support</h1>
-      <ul class="gobizfinsup1Table-firstTable_table__options">
-        <li>Jobs Support Scheme (JSS)</li>
-        <li>Enhanced Wage Credit Scheme (WCS)</li>
-        <li>Deferment of Income Tax Payments</li>
-        <li>Property Tax Rebate for 2020</li>
-        <li>Rental Waivers</li>
-        <li>Government Cash Grant for SME tenants in private properties</li>
-        <li>Corporate Income Tax Rebate</li>
-        <li>Foreign Worker Levy (FWL) Waiver</li>
-        <li>Deferment of Higher CPF Contribution Rates</li>
-      </ul>
-      <a href="/supportschemes/immediateschemes"><div class="gobizfinsup1Table-firstTable_table__getstart">Click here for more information</div></a>
-    </li>
-  </ul>
-</div>
+#### Immediate Support
 
+* Jobs Support Scheme (JSS)
+* Enhanced Wage Credit Scheme (WCS)
+* Deferment of Income Tax Payments
+* Property Tax Rebate for 2020
+* Rental Waivers
+* Government Cash Grant for SME tenants in private properties
+* Corporate Income Tax Rebate
+* Foreign Worker Levy (FWL) Waiver
+* Deferment of Higher CPF Contribution Rates
 
-## **Other Government support**
+[![click for more info](/images/gov-assist/click_for_more_info.png)](/supportschemes/immediateschemes)
+
+#### Other Government support
 
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
