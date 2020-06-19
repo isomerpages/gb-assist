@@ -17,7 +17,7 @@ permalink: /supportschemes/general
 * Foreign Worker Levy (FWL) Waiver
 * Deferment of Higher CPF Contribution Rates
 
-[![click for more info](/images/gov-assist/click_for_more_info.png)](/supportschemes/immediateschemes)
+Click <a href="/supportschemes/immediateschemes" style="color:#037e8a">here</a> for more information.
 
 #### Other Government support
 
