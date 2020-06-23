@@ -51,6 +51,8 @@ links:
   - title: FAQ
     url: /faq/
     sublinks:
+      - title: FAQ
+        url: /faq/
       - title: 经常问的问题
         url: /faq/chinese/
   - title: Contact Us
