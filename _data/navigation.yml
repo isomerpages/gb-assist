@@ -50,6 +50,9 @@ links:
   #      url: /psg/pre-scoped-equipment/
   - title: FAQ
     url: /faq/
+    sublinks:
+      - title: 经常问的问题
+        url: /faq/chinese/
   - title: Contact Us
     url: /contact-us/
   #- title: Guided Journey
