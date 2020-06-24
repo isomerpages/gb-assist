@@ -92,11 +92,8 @@ Where an Account (as defined in Clause 2.1) is required for the access or use of
 (d)	reproduce, duplicate or copy any part of the Services, including any Content, without our prior written consent, except that you may make reasonable copies of any part of the Services solely for your personal or internal business use;
 
 (e)	remove, circumvent, impair, bypass, disable or otherwise interfere with any feature of the Services, including any feature that prevents or restricts:
-
 : (i)	access to or use of any particular functionalities or features of the Services;
-
 : (ii) access to or use of any Account; or
-
 : (iii) access to, use of or the copying of any Content;
 
 (f)	access, log into, manage or use any Account that is not yours, save where validly authorised to do so;
@@ -106,21 +103,15 @@ Where an Account (as defined in Clause 2.1) is required for the access or use of
 (h)	access or use the Services for any illegal activity, unlawful purpose, or purposes prohibited by these Terms or in breach of these Terms;
 
 (i)	in the course of your access to or use of the Services, use, transmit or upload any device, software, malicious code, exploit or routine, including any viruse, Trojan horse, worm, malware, time bomb, robot, spider, data-mining or data scraping tool and cancel bot that may:
-
 : (i) damage or interfere with the proper operation of the Services;
-
 : (ii) intercept, expropriate or destroy any Content or personal data; or
-
 : (iii) introduce security vulnerabilities to the Services or the Accounts or Devices of any other persons; 
 
 (j)	access or use the Services in any manner that could damage, disrupt, disable, overburden or impair the operation of the Services, interfere with access to or use of the Services by any other person, or impose an unreasonable or disproportionately large load on any system or server used in the provision of the Services; 
 
 (k)	in the course of your access to or use of the Services, upload, submit, store or transmit any Content that:
-
 : (i) is contrary to any law, statute, or subsidiary legislation;
-
 : (ii) is false, offensive, defamatory, inaccurate, misleading or fraudulent; or 
-
 : (iii) violates or infringes the rights of any other person;
 
 (l)	access any Content not intended for you; and
