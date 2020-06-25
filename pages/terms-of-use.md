@@ -92,12 +92,14 @@ Where an Account (as defined in Clause 2.1) is required for the access or use of
 (d)	reproduce, duplicate or copy any part of the Services, including any Content, without our prior written consent, except that you may make reasonable copies of any part of the Services solely for your personal or internal business use;
 
 (e)	remove, circumvent, impair, bypass, disable or otherwise interfere with any feature of the Services, including any feature that prevents or restricts:
-<br />
-: (i) access to or use of any particular functionalities or features of the Services;
 
-: (ii) access to or use of any Account; or
+<ul>
+<li>(i) access to or use of any particular functionalities or features of the Services;</li>
 
-: (iii) access to, use of or the copying of any Content;
+<li>(ii) access to or use of any Account; or</li>
+
+<li>(iii) access to, use of or the copying of any Content;</li>
+</ul>
 
 (f)	access, log into, manage or use any Account that is not yours, save where validly authorised to do so;
 
