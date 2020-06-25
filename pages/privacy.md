@@ -3,7 +3,9 @@ title: Privacy
 permalink: /privacy/
 ---
 
-## Government of Singapore Privacy Statement
+## Privacy Statement
+
+#### GOVERNMENT OF SINGAPORE PRIVACY STATEMENT
 
 1. This privacy statement, as may be amended by us from time to time (this “**Privacy Statement**”) must be read in conjunction with the GoBusiness Gov Assist (“**GBGA**”) Terms of Use, as may be amended by us from time to time (the “**Terms**”) that you must agree to be legally bound by in order to access or use (a) the GBGA website (accessible at <a href="https://govassist.gobusiness.gov.sg" style="color:#037e8a">https://govassist.gobusiness.gov.sg</a> or such other URL as may be specified by us from time to time) (the “**Website**”); (b) the services made available on or provided through the Website by us; and (c) any Content made available or accessible therein (collectively, the “**Services**”). This Privacy Statement forms an integral part of the Terms. All terms referred to in this Privacy Statement shall have the meanings ascribed to them in the Terms, unless otherwise defined herein or the context otherwise requires. 
 
