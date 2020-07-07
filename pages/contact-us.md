@@ -11,7 +11,7 @@ contacts:
   - title: Operating Hours
     content:
       - other: <strong>Monday - Friday</strong>
-      - other: 9.00am - 5.30pm
+      - other: 8.30am - 5.30pm
       - other: Closed on public holidays
   - title: Need to speak with a Business Advisor?
     content:
