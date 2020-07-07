@@ -6,8 +6,8 @@ agency_name: GoBusiness Gov Assist
 contacts:
   - title: Have questions regarding Gov Assist
     content:
-      - phone: +65 6898 1800
-      - other: <a href="mailto:enquiry@enterprisesg.gov.sg" style="color:#037e8a">enquiry@enterprisesg.gov.sg</a>
+      - other: Please call us at <a href="tel:+65 6898 1800" style="color:#037e8a">+65 6898 1800</a>
+      - other: Or email us at <a href="mailto:enquiry@enterprisesg.gov.sg" style="color:#037e8a">enquiry@enterprisesg.gov.sg</a>
   - title: Operating Hours
     content:
       - other: <strong>Monday - Friday</strong>
