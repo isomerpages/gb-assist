@@ -37,17 +37,20 @@ Existing SME Portal members would have received an email from Enterprise Singapo
  
 #### 8. Which browser should I use to view GoBusiness Gov Assist?
 GoBusiness Gov Assist is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your internet browser or <a href="https://licence1.business.gov.sg/web/frontier/contact-us" style="color:#037e8a">contact us</a> for help.
- 
- 
-## Productivity solutions grant (PSG)
 
-#### 1. Where can I access the list of PSG supported IT solutions and equipment?
-Please click <a href="/psg/" style="color:#037e8a">here</a> for a full list of PSG supported solutions.
- 
-#### 2.	Could unlisted IT solutions and equipment be supported under PSG?
-PSG aims to facilitate quick adoption of proven productivity solutions recommended by sector-lead agencies. New productivity solutions are constantly being reviewed and included into the list.
- 
-#### 3. Where can I apply for Productivity Solutions Grant?
-After you have obtained a quotation from your preferred vendor for the supportable solution(s), please log into <a href="https://www.businessgrants.gov.sg/" style="color:#037e8a">Business Grants Portal</a> to submit your application for PSG.
+## GeBIZ Alerts
 
+#### 1. What is GeBIZ Alerts?
+GeBIZ Alerts is a daily email service that proactively alerts subscribers of business opportunities posted on GeBIZ, the Singapore government’s procurement website, via their preferred mailbox and in accordance to their selected notification settings.
+
+#### 2.	How do I sign up for GeBIZ Alerts?
+You will need a CorpPass account to sign up for GeBIZ Alerts. 
+* If you do have a CorpPass account, click <a href="/gebiz-alerts/" style="color:#037e8a">here</a> to sign up now!
+* If you do not have a CorpPass account, click <a href="https://www.corppass.gov.sg/cpauth/login/homepage?TAM_OP=login#" style="color:#037e8a">here</a> to find out more on registration
+
+#### 3.	When will I be notified on business opportunities?
+GeBIZ Alerts will be sent to your preferred email address/mailbox every morning.
+
+#### 4.	I am experiencing issues with my CorpPass account, what should I do? 
+Please contact <a href="https://www.corppass.gov.sg/corppass/common/contactus" style="color:#037e8a">CorpPass</a> for assistance. 
 

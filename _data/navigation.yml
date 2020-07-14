@@ -30,7 +30,9 @@ links:
         url: /supportschemes/general
       - title: Business Grants Portal
         url: /business-grants-portal/
-      - title: GeBIZ Alerts
+     # - title: GeBIZ Alerts
+     #   url: /gebiz-alerts/
+      - title: Opportunities in Government Procurement (Sign up GeBIZ Alerts)
         url: /gebiz-alerts/
      # - title: Grants
      #   url: /gov-assist/grants/
@@ -50,11 +52,11 @@ links:
   #      url: /psg/pre-scoped-equipment/
   - title: FAQ
     url: /faq/
-    sublinks:
-      - title: FAQ
-        url: /faq/
-      - title: 经常问的问题
-        url: /faq/chinese/
+  #  sublinks:
+  #    - title: FAQ
+  #      url: /faq/
+  #    - title: 经常问的问题
+  #      url: /faq/chinese/
   - title: Contact Us
     url: /contact-us/
   #- title: Guided Journey
