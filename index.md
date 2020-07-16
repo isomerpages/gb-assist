@@ -21,7 +21,7 @@ sections:
       #    description: Supporting our businesses, overcoming challenges and emerging stronger
         - title: Gebiz Alerts
           url: /gebiz-alerts/
-          description: Be informed about the latest Government contracts
+          description: Get notifications on the latest Government procurement opportunities
       #  - title: GoBusiness Licensing
       #    url: https://www.gobusiness.gov.sg/licences
       #    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
