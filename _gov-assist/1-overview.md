@@ -17,7 +17,7 @@ Access the e-Adviser here to receive a set of recommended assistance.
 
 ***
 
-#### Search by Assistance Type
+#### Search by Assistance Type {: #search-by-assistance-type }
 
 Look for a tax incentive, loan, grant, or program here. Do keep in mind that you will need to meet certain criteria to be eligible for funding support. What you can apply for largely depends on what sector you are in and the growth stage of your business.
 
