@@ -11,8 +11,6 @@ links:
   - title: Our Services
   #  url: /gov-assist/
     sublinks:
-    #  - title: Government Assistance
-    #    url: /gov-assist/
       - title: GoBusiness Licensing
         url: https://www.gobusiness.gov.sg/licences
       - title: GoBusiness COVID-19
@@ -25,7 +23,8 @@ links:
       - title: e-Adviser for Government Assistance
         url: https://ea-staging.l1t.molb.gov.sg/
       - title: Types of Assistance
-        url: /gov-assist/tax-incentives/
+     #   url: /gov-assist/tax-incentives/
+        url: /gov-assist#search-by-assistance-type/
       - title: COVID-19 Support
         url: /supportschemes/general
       - title: Business Grants Portal
@@ -34,10 +33,6 @@ links:
      #   url: /gebiz-alerts/
       - title: Procurement Opportunities (GeBIZ Alerts)
         url: /gebiz-alerts/
-     # - title: Grants
-     #   url: /gov-assist/grants/
-     # - title: Toolkits/Programs
-     #   url: /gov-assist/toolkits-programs/
   #  collection: gov-assist
   #- title: PSG
   #  collection: psg
