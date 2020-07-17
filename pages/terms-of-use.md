@@ -359,5 +359,5 @@ In such case, there may be terms of use and privacy statements that govern your 
 
 19.5 Any consent given under these Terms may be subject to such conditions as we consider appropriate.
 
-This version of these Terms is dated 22 Jun 2020.
+This version of these Terms is dated 11 Aug 2020.
 

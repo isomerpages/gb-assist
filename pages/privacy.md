@@ -111,4 +111,4 @@ permalink: /privacy/
 
     (b)	need more information on or access to Data which you have provided to us in the past.
 
-This version of this Privacy Statement is dated 22 Jun 2020.
+This version of this Privacy Statement is dated 11 Aug 2020.
