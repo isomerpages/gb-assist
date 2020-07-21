@@ -14,7 +14,6 @@ permalink: /supportschemes/general
 * Rental Waivers
 * Government Cash Grant for SME tenants in private properties
 * Corporate Income Tax Rebate
-* Foreign Worker Levy (FWL) Waiver
 * Deferment of Higher CPF Contribution Rates
 
 [![Click for more info](/images/gov-assist/click_for_more_info.png)](/supportschemes/immediateschemes) 

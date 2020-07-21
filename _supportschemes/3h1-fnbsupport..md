@@ -23,9 +23,3 @@ Click <a href="https://go.gov.sg/fdbp" target="_blank" style="color:#037e8a">her
 * Enterprise Singapore rolls out E-Commerce Booster Package to drive business transformation and diversification of revenue streams among retailers.
 
 Click <a href="https://go.gov.sg/ebp" target="_blank" style="color:#037e8a">here</a> for more information.
-
-#### Funding For Cooked Food Stallholders Who Sign Up For Food Delivery Services
-
-* A one-time funding of S$500 will be given to stallholders who engage food delivery platforms or third-party logistics partners to deliver food to their customers during the period between 7 April and 31 May 2020.
-
-Click <a href="https://go.gov.sg/hawker500delivery" target="_blank" style="color:#037e8a">here</a> for more information.

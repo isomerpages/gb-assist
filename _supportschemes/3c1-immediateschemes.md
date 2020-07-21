@@ -68,12 +68,6 @@ Click <a href="https://go.gov.sg/smecashgrant" target="_blank" style="color:#037
 
 Click <a href="https://go.gov.sg/corporateincometax" target="_blank" style="color:#037e8a">here</a> for more information.
 
-#### Foreign Worker Levy (FWL) Waiver
-
-* Extended by up to 2 months for businesses that are not allowed to resume operations after the circuit breaker
-  * 100% waiver and $750 rebate in June 2020
-  * 50% waiver and $375 rebate in July 2020
-
 #### Deferment of Higher CPF Contribution Rates
 
 * Increase in CPF contribution rates for senior workers deferred by 1 year, from 1 January 2021 to 1 January 2022
