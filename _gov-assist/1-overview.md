@@ -25,10 +25,10 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 
 | [![Grants](/images/gov-assist/grants.png "Grants")](/gov-assist/grants/) | [![Toolkits / Programmes](/images/gov-assist/toolkits_programmes.png "Toolkits / Programmes")](/gov-assist/toolkits-programmes/) |
 
-| [![Covid-19 Specific Support](/images/gov-assist/covid_support.png "Covid-19 Specific Support")](/supportschemes/general) | [![blank tiles](/images/gov-assist/overview_blank_tiles.png "blanktiles")]|
+| [![Covid-19 Specific Support](/images/gov-assist/covid_support.png "Covid-19 Specific Support")](/supportschemes/general) | ![ ](/images/gov-assist/overview_blank_tiles.png)|
 
 #### Related content
 
 | [![BGP](/images/gov-assist/bgp.png "Business Grants Portal")](/business-grants-portal/) | [![GeBIZ Alerts](/images/gov-assist/gebiz.png "GeBIZ Alerts")](/gebiz-alerts/) |
 
-| [![PSG](/images/gov-assist/psg.png "Productivity Solutions Grant")](/productivity-solutions-grant/) | [![blank tiles](/images/gov-assist/overview_blank_tiles.png "blanktiles")]|
+| [![PSG](/images/gov-assist/psg.png "Productivity Solutions Grant")](/productivity-solutions-grant/) | ![](/images/gov-assist/overview_blank_tiles.png)|
