@@ -27,6 +27,6 @@ permalink: /supportschemes/general
 
 #### Sector-Specific Support
 
-| [![F&B](/images/gov-assist/fnb.png)](/supportschemes/fnbsupport) | [![Arts & Culture](/images/gov-assist/arts_culture.png)](/supportschemes/artsupport) |
+| [![F&B](/images/gov-assist/fnb.png)](/supportschemes/fnbsupport) | [![Hospitality and Tourism](/images/gov-assist/hospitality_tourism.png)](/supportschemes/tourismsupport) |
 
-| [![Maritime](/images/gov-assist/maritime.png)](/supportschemes/martimesupport) | [![Hospitality and Tourism](/images/gov-assist/hospitality_tourism.png)](/supportschemes/tourismsupport) |
+| [![Maritime](/images/gov-assist/maritime.png)](/supportschemes/martimesupport) | ![ ](/images/gov-assist/overview_blank_tiles.png)|
