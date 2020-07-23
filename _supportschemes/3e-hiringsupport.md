@@ -13,7 +13,7 @@ This is a concerted effort as part of the Resilience Budget to create more oppor
 
 Whether you are looking to tackle the ongoing economic challenges, attract and retain local manpower, or improve productivity and innovation, WSG has the following programmes to provide you with support and resources customised for your manpower needs.
 
-| [![SGUnited Jobs Initiative](/images/gov-assist/sgunited_jobs_initiative.png)]<a href="https://www.mycareersfuture.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz" target="_blank"> | [![SGUnited Traineeships Programme](/images/gov-assist/sgunited_traineeships_programme.png)](https://www.wsg.gov.sg/SGUnitedTraineeships-HostCompanies.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) |
+| [![SGUnited Jobs Initiative](/images/gov-assist/sgunited_jobs_initiative.png)](https://www.mycareersfuture.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) | [![SGUnited Traineeships Programme](/images/gov-assist/sgunited_traineeships_programme.png)](https://www.wsg.gov.sg/SGUnitedTraineeships-HostCompanies.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) |
 
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
@@ -31,6 +31,8 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
   </ul>
 </div>
 
+| [![Capability Transfer Programme](/images/gov-assist/capability_transfer_programme.png)](https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) | [![Career Support Programme](/images/gov-assist/career_support_programme.png)](https://www.wsg.gov.sg/programmes-and-initiatives/wsg-career-support-programme-employers.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) |
+
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
@@ -46,6 +48,8 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
     </li>
   </ul>
 </div>
+
+| [![Career Trial](/images/gov-assist/career_trial.png)](https://www.wsg.gov.sg/programmes-and-initiatives/career-trial-employers.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) | [![Human Capital Partnership](/images/gov-assist/human_capital_partnership.png)](https://www.tal.sg/tafep/Getting-Started/Exemplary/HCP-Programme?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) |
 
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
@@ -63,6 +67,8 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
   </ul>
 </div>
 
+| [![Job Redesign](/images/gov-assist/job_redesign.png)](https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/index.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) | [![Lean Enterprise Development (LED) Scheme](/images/gov-assist/led_scheme.png)](https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/lean-enterprise-development.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) |
+
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
     <li class="gobizTable-firstTable_table">
@@ -78,6 +84,8 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
     </li>
   </ul>
 </div>
+
+| [![Professional Conversion Programme](/images/gov-assist/professional_conversion_programme.png)](https://conversion.mycareersfuture.sg/Portal/ProgramListing.aspx?source=PCP&utm_source=mti&utm_medium=digital&utm_campaign=gobiz) | [![P-Max](/images/gov-assist/p_max.png)](https://www.wsg.gov.sg/programmes-and-initiatives/p-max-employer.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) |
 
 <div class="gobizTable">
   <ul class="gobizTable-firstTable">
