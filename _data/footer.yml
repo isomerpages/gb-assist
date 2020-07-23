@@ -14,8 +14,6 @@ navlinks:
         url: https://www.gobusiness.gov.sg/licences
       - title: GoBusiness COVID-19
         url: https://covid.gobusiness.gov.sg/
-      #- title: Subitem 3
-      #  url: /some-page-c/
   - title: Government Assistance
     url: /gov-assist/
     sublinks:
@@ -31,12 +29,3 @@ navlinks:
         url: /business-grants-portal/
       - title: Procurement Opportunities (GeBIZ Alerts)
         url: /gebiz-alerts/
-#  - title: Productivity Solutions Grant
-#    url: /psg/
-#    sublinks:
-#      - title: Overview
-#        url: /psg/
-#      - title: Pre-scoped IT Solutions
-#        url: /psg/pre-scoped-it-solutions/
-#      - title: Pre-scoped Equipment
-#        url: /psg/pre-scoped-equipment/
