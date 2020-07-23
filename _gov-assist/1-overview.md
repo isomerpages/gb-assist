@@ -3,17 +3,23 @@ title: Overview
 permalink: /gov-assist/
 ---
 
-## Government Assistance 
+## Overview
 
-The Singapore Government offers a range of assistances to help businesses grow and succeed. There are over 100 assistances available, from funding support to references and programs for building skills and knowledge.
+The Singapore Government offers a range of assistance schemes to support our Singapore businesses in their transformation journey and emerge stronger together. 
+
+With GoBusiness Gov Assist, businesses in Singapore can now find government assistance schemes in one place. There are over 100 assistance schemes available, ranging from funding support to references and programs for building capabilities, skills and knowledge. GoBusiness Gov Assist aims to ease the search for government assistance for businesses.
 
 ***
 
+#### Get started with our e-Adviser
+
 The e-Adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. 
 
-Access the e-Adviser here to receive a set of recommended assistance.
+Answer a few questions to be guided to the relevant assistance schemes based on your business needs and the qualifying criteria of the schemes. Access the e-Adviser here.
 
 [![e-Adviser button](/images/gov-assist/ga_cta_button.png)](https://ea-staging.l1t.molb.gov.sg/)
+
+*Note: The e-Adviser will constantly be improved to provide better assistance recommendations. Your inputs help to identify the gaps in available assistances for your selected business needs and company profile.*
 
 ***
 
