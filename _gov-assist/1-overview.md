@@ -19,7 +19,7 @@ Answer a few questions to be guided to the relevant assistance schemes based on 
 
 [![e-Adviser button](/images/gov-assist/ga_cta_button.png)](https://ea-staging.l1t.molb.gov.sg/)
 
-*Note: The e-Adviser will constantly be improved to provide better assistance recommendations. Your inputs help to identify the gaps in available assistances for your selected business needs and company profile.*
+*Note: The e-Adviser will be improved continuously. Do give us your feedback so that we can better help you in the future.*
 
 ***
 
