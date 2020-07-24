@@ -252,8 +252,7 @@ Industry firms can co-sponsor suitable candidates with BCA and engage talents to
 
 <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/Part-Time-Sponsorships" target="_blank" style="color:#037e8a">Find out more</a>
 
-"#### iBuildSG Undergraduate
- Scholarship/Sponsorship (full-time)"
+#### iBuildSG Undergraduate Scholarship/Sponsorship (full-time)
 
 Industry firms can co-sponsor suitable candidates with BCA and engage talents to join your firms through the iBuildSG Scholarship and Sponsorship Programmes. BCA could co-sponsor approximately 70% of the award.
 
