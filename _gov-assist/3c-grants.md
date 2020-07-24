@@ -365,7 +365,7 @@ Construction related companies can defray the cost of technology adoption aimed 
 
 The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April - 31 Dec 2020.
 
-<a href="https://govassist.gobusiness.gov.sg/productivity-solutions-grant/" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="/productivity-solutions-grant/" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Quieter Construction Innovation Fund (QCIF)
 
