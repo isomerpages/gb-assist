@@ -36,7 +36,7 @@ GoBusiness Gov Assist aims to help businesses centrally access information on go
 Existing SME Portal members would have received an email from Enterprise Singapore to continue receiving these information. To subscribe, please sign up at <a href="https://www.enterprisesg.gov.sg/" style="color:#037e8a">Enterprise Singapore’s website</a>.
  
 #### 8. Which browser should I use to view GoBusiness Gov Assist?
-GoBusiness Gov Assist is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your internet browser or <a href="https://licence1.business.gov.sg/web/frontier/contact-us" style="color:#037e8a">contact us</a> for help.
+GoBusiness Gov Assist is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your internet browser or <a href="/contact-us/" style="color:#037e8a">contact us</a> for help.
 
 ## GeBIZ Alerts
 
