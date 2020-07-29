@@ -11,11 +11,11 @@ The Business Grants Portal (BGP) is a one-stop portal for businesses to apply fo
 
 #### 1.	Discover the most suitable grant for your business need
 Currently on BGP, you can apply for:
-* Market Readiness Assistance 
-* Enterprise Development Grant
-* Business Improvement Fund
-* Aviation Development Fund 
-* Productivity Solutions Grant
+* <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant" target="_blank" style="color:#037e8a">Market Readiness Assistance</a>
+* <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview" target="_blank" style="color:#037e8a">Enterprise Development Grant</a>
+* <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html" target="_blank" style="color:#037e8a">Business Improvement Fund</a>
+* <a href="https://www.caas.gov.sg/who-we-are/areas-of-responsibility/developing-the-industry/aviation-development-fund" target="_blank" style="color:#037e8a">Aviation Development Fund</a> 
+* <a href="/productivity-solutions-grant/" target="_blank" style="color:#037e8a">Productivity Solutions Grant</a>
 
 You may use the e-adviser for government assistance to view suitable grants for your business needs. 
 
