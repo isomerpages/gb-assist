@@ -19,7 +19,7 @@ Currently on BGP, you can apply for:
 
 You may use the e-adviser for government assistance to view suitable grants for your business needs. 
 
-[![e-Adviser button](/images/gov-assist/ga_cta_button.png)](https://ea-staging.l1t.molb.gov.sg/)
+[![e-Adviser button](/images/gov-assist/ga_cta_button.png)](https://gaeadviser.gobusiness.gov.sg/)
 
 Alternatively, businesses simply need to select their sector and business needs on BGP, and the portal will present the most relevant grant form for businesses to apply for. 
 
