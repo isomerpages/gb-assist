@@ -28,7 +28,7 @@ If you wish to speak with a business advisory, you may arrange an appointment wi
 Please contact the respective agency managing the scheme to respond to your query.
  
 #### 6.	I was trying to access SME Portal and got redirected here. Why?
-The SME Portal has ceased as of 1 September 2020. Key information previously on SME Portal such as the list of government assistance schemes, Productivity Solutions Grant pre-scoped solutions and GeBIZ Alerts *(coming soon)* have been ported over here on GoBusiness Gov Assist.
+The SME Portal has ceased as of 1 September 2020. Key information previously on SME Portal such as the list of government assistance schemes, Productivity Solutions Grant pre-scoped solutions and GeBIZ Alerts have been ported over here on GoBusiness Gov Assist.
  
 GoBusiness Gov Assist aims to help businesses centrally access information on government assistance schemes, rather than separately from multiple websites. To enable a better user experience for businesses in future, more assistances will progressively be included.
  
