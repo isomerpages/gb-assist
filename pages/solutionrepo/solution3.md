@@ -23,6 +23,8 @@ e) must not have:
 - Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
 - Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
 
+Please refer to 'Things to Note' for additional requirements.
+
 #### Mode of Payment
 Direct Purchase
 
@@ -30,12 +32,9 @@ Direct Purchase
 80%
 
 #### Things to Note
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-01 BUSINESS SOLUTIONS PTE LTD
-https://www.01businesssolutions.com/psg-grant/
-Email: sales@01businesssolutions.com
-Tel: +65 6220 3306
+01 BUSINESS SOLUTIONS PTE LTD<br>https://www.01businesssolutions.com/psg-grant/<br>Email: sales@01businesssolutions.com<br>Tel: +65 6220 3306
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
