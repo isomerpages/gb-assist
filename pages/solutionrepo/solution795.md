@@ -40,7 +40,7 @@ Direct Purchase
 80%
 
 #### Things to Note
-More than or equal to - Power:  3 Phase AC 380V±15% V50-60 Hz input
+More than or equal to - Power:  3 Phase AC 380V 15% V50-60 Hz input
 - TIG: High frequency, min. 300A/22V rated output, Current adjusting range - 5 to min. 300A
 - MMA: Min. 300A/32V rated output, Current adjusting range - 10 to min. 300A
 - Include TIG/MMA welding set, WP26 air-cooled TIG Torch 8m, Earth cable with clamps/connectors, Wireless control box, software license

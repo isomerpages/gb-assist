@@ -40,7 +40,7 @@ Direct Purchase
 80%
 
 #### Things to Note
-More than or equal to - Power: 3 Phase AC 380V±15% V50-60 Hz input
+More than or equal to - Power: 3 Phase AC 380V 15% V50-60 Hz input
 - GMAW (MIG/MAG) and FCAW
 - Voltage Adjusting Range: 15 to min. 45V
 - Current Adjusting Range: 30-500A
