@@ -40,6 +40,6 @@ Specifications
 Grant cap: Up to S$12,000 per unit
 
 #### Contact Information
-Email: cs.sg@abssasia.com
+Email: cs.sg@abssasia.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
