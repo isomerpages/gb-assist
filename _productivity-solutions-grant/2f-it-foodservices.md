@@ -1,6 +1,6 @@
 ---
 title: Food Services
-permalink: /productivity-solutions-grant/foodservices/
+permalink: /productivity-solutions-grant/IT Solution/foodservices/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Digital/ Online Ordering and Payment

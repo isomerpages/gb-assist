@@ -1,6 +1,6 @@
 ---
 title: Cleaning
-permalink: /productivity-solutions-grant/cleaning/
+permalink: /productivity-solutions-grant/IT Solution/cleaning/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Waste Tonnage Monitoring

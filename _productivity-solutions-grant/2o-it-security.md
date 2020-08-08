@@ -1,6 +1,6 @@
 ---
 title: Security
-permalink: /productivity-solutions-grant/security/
+permalink: /productivity-solutions-grant/IT Solution/security/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Mobile-Enabled Patrol and Incident Management

@@ -1,6 +1,6 @@
 ---
 title: Others
-permalink: /productivity-solutions-grant/others/
+permalink: /productivity-solutions-grant/IT Solution/others/
 third_nav_title: Pre-scoped IT Solution
 accordion:
 ---

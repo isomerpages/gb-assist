@@ -1,6 +1,6 @@
 ---
 title: Food Manufacturing
-permalink: /productivity-solutions-grant/foodmanufacturing/
+permalink: /productivity-solutions-grant/Equipment/foodmanufacturing/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General Food Manufacturing Equipment

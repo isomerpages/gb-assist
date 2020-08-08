@@ -1,6 +1,6 @@
 ---
 title: Advanced Manufacturing
-permalink: /productivity-solutions-grant/advancedmanufacturing/
+permalink: /productivity-solutions-grant/Equipment/advancedmanufacturing/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General Advanced Manufacturing Equipment

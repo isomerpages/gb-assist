@@ -1,6 +1,6 @@
 ---
 title: Travel Agents
-permalink: /productivity-solutions-grant/travelagents/
+permalink: /productivity-solutions-grant/IT Solution/travelagents/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Travel Management System (E-Commerce)

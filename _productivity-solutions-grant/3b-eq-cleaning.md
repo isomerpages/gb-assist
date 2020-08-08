@@ -1,6 +1,6 @@
 ---
 title: Cleaning
-permalink: /productivity-solutions-grant/cleaning/
+permalink: /productivity-solutions-grant/Equipment/cleaning/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General Environmental Services Equipment

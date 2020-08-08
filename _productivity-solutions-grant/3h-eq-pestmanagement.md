@@ -1,6 +1,6 @@
 ---
 title: Pest Management
-permalink: /productivity-solutions-grant/pestmanagement/
+permalink: /productivity-solutions-grant/Equipment/pestmanagement/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General Environmental Services Equipment

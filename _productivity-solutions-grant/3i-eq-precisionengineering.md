@@ -1,6 +1,6 @@
 ---
 title: Precision Engineering
-permalink: /productivity-solutions-grant/precisionengineering/
+permalink: /productivity-solutions-grant/Equipment/precisionengineering/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General Precision Engineering Equipment

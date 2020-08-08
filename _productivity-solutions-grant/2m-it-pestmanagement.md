@@ -1,6 +1,6 @@
 ---
 title: Pest Management
-permalink: /productivity-solutions-grant/pestmanagement/
+permalink: /productivity-solutions-grant/IT Solution/pestmanagement/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Workforce Monitoring & Reporting Management

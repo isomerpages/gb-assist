@@ -1,6 +1,6 @@
 ---
 title: Waste Management
-permalink: /productivity-solutions-grant/wastemanagement/
+permalink: /productivity-solutions-grant/Equipment/wastemanagement/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General Environmental Services Equipment

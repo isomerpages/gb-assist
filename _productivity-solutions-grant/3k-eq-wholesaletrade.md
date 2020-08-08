@@ -1,6 +1,6 @@
 ---
 title: Wholesale Trade
-permalink: /productivity-solutions-grant/wholesaletrade/
+permalink: /productivity-solutions-grant/Equipment/wholesaletrade/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General Wholesale Trade Equipment

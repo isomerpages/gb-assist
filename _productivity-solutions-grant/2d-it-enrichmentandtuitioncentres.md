@@ -1,6 +1,6 @@
 ---
 title: Enrichment and Tuition Centres
-permalink: /productivity-solutions-grant/enrichmentandtuitioncentres/
+permalink: /productivity-solutions-grant/IT Solution/enrichmentandtuitioncentres/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Learning Management System

@@ -1,6 +1,6 @@
 ---
 title: Marine & Offshore
-permalink: /productivity-solutions-grant/marineoffshore/
+permalink: /productivity-solutions-grant/Equipment/marineoffshore/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General M&O Equipment

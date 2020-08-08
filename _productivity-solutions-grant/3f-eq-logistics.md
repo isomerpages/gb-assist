@@ -1,6 +1,6 @@
 ---
 title: Logistics
-permalink: /productivity-solutions-grant/logistics/
+permalink: /productivity-solutions-grant/Equipment/logistics/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General Logistics Equipment

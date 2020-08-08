@@ -1,6 +1,6 @@
 ---
 title: Food Services
-permalink: /productivity-solutions-grant/foodservices/
+permalink: /productivity-solutions-grant/Equipment/foodservices/
 third_nav_title: Pre-scoped Equipment
 accordion:
   - title: General Food Services Equipment
