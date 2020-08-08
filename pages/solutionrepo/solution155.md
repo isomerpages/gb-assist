@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support: RevoPOS 3.0 Queue Management System - Package A (RevoQ Contactless)
+title: COVID-19 Support RevoPOS 3.0 Queue Management System - Package A (RevoQ Contactless)
 permalink: /productivity-solutions-grant/solutionrepo/solution155
 ---
 

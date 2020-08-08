@@ -1,19 +1,16 @@
 ---
-title: COVID-19 Support RevoPOS 3.0 Queue Management System - Package B (RevoQ S)
-permalink: /productivity-solutions-grant/solutionrepo/solution156
+title: AutoCount Accounting - AutoCount Accounting Premium V2.0 ( 1 User)
+permalink: /productivity-solutions-grant/solutionrepo/solution196
 ---
 
 #### Description
 
-RevoPOS 3.0 Queue Management System is a cloud cross platform system that runs on Windows (laptop or embedded system) or on iPad or Android tablet. The solution provides contactless system with automated queue number alerts/reminders and update on queue status.
-
-
-
+Since being established in 1996, AutoCount has grown into the TOP SME brands, serving more than 180,000 SMEs across the region. AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. Flexibility, expandability, and ease-to-use are the features we develop, you can be assured of when your business grows, we able to sustain your development needs.
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Appz_Inc_Queue_Management_Covid_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,12 +30,12 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80%
+8%
 
 #### Things to Note
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Appz Inc Pte Ltd<br>https://getrevopos.com/<br>Email: sales@appzinc.biz<br>Tel: +65 6815 5808
+Autocount (S) Pte Ltd<br>www.autocountsoft.com.sg<br>Email: sales.sg@autocountsoft.com<br>Tel:+65 8321 9689
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

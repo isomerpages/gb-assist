@@ -1,19 +1,15 @@
 ---
-title: COVID-19 Support RevoPOS 3.0 Queue Management System - Package B (RevoQ S)
-permalink: /productivity-solutions-grant/solutionrepo/solution156
+title: COVID-19 Support Queue Management System - Package A
+permalink: /productivity-solutions-grant/solutionrepo/solution198
 ---
 
 #### Description
 
-RevoPOS 3.0 Queue Management System is a cloud cross platform system that runs on Windows (laptop or embedded system) or on iPad or Android tablet. The solution provides contactless system with automated queue number alerts/reminders and update on queue status.
-
-
-
-
+Awebstar Queue Management System is a cloud platform system that enables efficient and productive management of queues.  It is equipped with SMS feature that enables users to get notified in-advance before their queue number is called. 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Appz_Inc_Queue_Management_Covid_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Awebstar_QMS_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -39,6 +35,6 @@ Direct Purchase
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Appz Inc Pte Ltd<br>https://getrevopos.com/<br>Email: sales@appzinc.biz<br>Tel: +65 6815 5808
+Awebstar Technologies Pte Ltd<br>https://awebstar.com.sg/queue-management-system.html<br>Email: Info@Awebstar.com.sg<br>Tel: +65 8317 2205
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support: Aptsys Queue Manangement System on Premise Version 1.0 
+title: COVID-19 Support Aptsys Queue Manangement System on Premise Version 1.0 
 - Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution162
 ---
