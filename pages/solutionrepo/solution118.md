@@ -1,0 +1,53 @@
+---
+title: Secure Locking System for Access Control
+permalink: /productivity-solutions-grant/solutionrepo/solution118
+---
+
+#### Description
+
+The locking system leverages on functional elements of a lockset and the latest technologies to meet enterprise application demands. Solution helps to improve existing solution where reliable and flexible multiple access control is required for the secured spaces. 
+
+The secure element provides tamper-proof security and stores all type of sensitive information. Solution leverages on industry standard encryption technologies.
+
+Grant support: 80% of cost of equipment, up to $16,000 grant
+
+#### Details of Solution
+
+Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Eligibility Criteria
+
+Applicants must meet the following eligibility criteria at the point of application:
+
+a) must be a SME <br>
+b) must be registered in Singapore <br>
+c) must have 30% local shareholding ownership criteria <br>
+d) purchase/lease of the equipment must be used in Singapore <br>
+e) must not have:
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+
+Please refer to 'Things to Note' for additional requirements.
+
+#### Mode of Payment
+Direct Purchase
+
+#### Support Level
+80%
+
+#### Things to Note
+More than or equal to  Automate access request and provisioning
+- Physically secure spaces without the need for power supply to operate 
+- Provide traceability of all access into the secured spaces
+- Installed with Management software to administer access to users
+- Installation cost is supported
+- Maintenance cost is not supported
+
+Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+No change in vendor allowed
+
+#### Contact Information
+
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
