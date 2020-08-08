@@ -1,0 +1,40 @@
+---
+title: Accounts101 - Xero Cloud Accounting Software - Package B (Premium w/ Fixed Asset)
+permalink: /productivity-solutions-grant/solutionrepo/solution66
+---
+
+#### Description
+
+Xero offers a cloud-based accounting software platform for small and medium-sized businesses. Its key features include automatic bank feeds, invoicing, accounts payable, expense claims, fixed asset depreciation, purchase orders, bank reconciliations, and standard business and management reporting. Xero has more than 200 secure connections with banks and financial service partners around the world.
+
+#### Details of Solution
+
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Accounts101_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Eligibility Criteria
+
+Applicants must meet the following eligibility criteria at the point of application:
+
+a) must be a SME <br>
+b) must be registered in Singapore <br>
+c) must have 30% local shareholding ownership criteria <br>
+d) purchase/lease of the equipment must be used in Singapore <br>
+e) must not have:
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+
+Please refer to 'Things to Note' for additional requirements.
+
+#### Mode of Payment
+Direct Purchase
+
+#### Support Level
+80%
+
+#### Things to Note
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+#### Contact Information
+Company Name: Accounts101 Pte Ltd<br>Web URL: https://accounts101.com.sg/<br>Contact Hotline: 91782021<br>Contact Email: Ernest@accounts101.com.sg / Sherman@accounts101.com.sg
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
