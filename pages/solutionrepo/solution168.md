@@ -35,7 +35,7 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 Specifications
 -Cordless Technology (wireless)
 -Covers at least 800sqm/hour 
--Solution tank capacity (>1L)
+-Solution tank capacity (1L)
 
 Grant cap: Up to S$3,000 per unit
 
