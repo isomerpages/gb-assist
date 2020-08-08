@@ -1,5 +1,5 @@
 ---
-title: IdeaPad 3 – Next-Gen Collaboration Solution
+title: IdeaPad 3   Next-Gen Collaboration Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution1009
 ---
 

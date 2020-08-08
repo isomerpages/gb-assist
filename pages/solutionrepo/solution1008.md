@@ -1,5 +1,5 @@
 ---
-title: ThinkBook 14s – Next-Gen Collaboration Solution
+title: ThinkBook 14s   Next-Gen Collaboration Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution1008
 ---
 
