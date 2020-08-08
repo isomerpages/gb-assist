@@ -1,0 +1,17 @@
+---
+title: Healthcare
+permalink: /productivity-solutions-grant/healthcare/
+third_nav_title: Pre-scoped IT Solution
+accordion:
+  - title: Teleconsultation(Video)
+    content: Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). This platform allows the Service provider to perform teleconsultation services in a secured environment, via both app and web applications. Medical notes can be securely stored. Clinics are  able to provide patients with medical documents in-app, and to prescribe medication) through the platform, using their clinic's formulary.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution362' target='_blank' style='color:#037e8a'>COVID-19 Sectorial Support Doctor Anywhere Platform</a><br/><br/><br/>Doctor World is an integrated digital platform connecting patients with a trusted network of medical providers and services. It allows doctors to provide 24/7 teleconsultation services to dispense care via video-call and includes 24/7 islandwide delivery of medication to patients. Doctor World also comes with a digital queue system for physical clinic visits, an appointment-booking system, a health store and home care services.<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution363' target='_blank' style='color:#037e8a'>COVID-19 Sectorial Support Doctor World  Platform Version 2 - Doctor World Basic </a><br/><a href='/productivity-solutions-grant/solutionrepo/solution364' target='_blank' style='color:#037e8a'>COVID-19 Sectorial Support Doctor World  Platform Version 2 - Doctor World Standard</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution365' target='_blank' style='color:#037e8a'>COVID-19 Sectorial Support Doctor World  Platform Version 2 - Doctor World Premium</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution366' target='_blank' style='color:#037e8a'>COVID-19 Sectorial Support Doctor World  Platform Version 2 - Doctor World Pro</a><br/><br/><br/>MyDoc's Telemedicine Solution for providers is a bundled package that providers healthcare providers a ready to implement solution to care for patients virtually. The solution includes patient account management and care coordinator account for medication fulfilment. It provides an end-to-end solution for patients to access a doctor via telemedicine consultation care including triage bot, telemedicine consult, EMR / case note recording, eMC, prescription fulfilment, and referrals. <br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution631' target='_blank' style='color:#037e8a'>COVID-19 Sectorial Support MyDoc Telemedicine Solution - Package 1 (1 Doctor)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution632' target='_blank' style='color:#037e8a'>COVID-19 Sectorial Support MyDoc Telemedicine Solution - Package 2 (2 Doctors)</a><br/><a href='/productivity-solutions-grant/solutionrepo/solution633' target='_blank' style='color:#037e8a'>COVID-19 Sectorial Support MyDoc Telemedicine Solution - Package 3 (3 Doctors)</a><br/>
+---
+
+## Pre-scoped IT Solutions for Healthcare
+
+#### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
+
+{% include accordion.html %}
+
+*If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
+
