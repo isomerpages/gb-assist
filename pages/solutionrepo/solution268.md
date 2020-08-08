@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution268
 
 #### Description
 
-PayAdvisorMobile®@HRM PayAdvisorMobile®, a Mobile Workforce Management Software-As-A-Service on Web and Mobile platforms, which includes Personnel, Time & Attendance, Payroll, Leave, Benefits and Claim and Performance Appraisal Management modules - it is an All - In -One human resource solution.
+PayAdvisorMobile @HRM PayAdvisorMobile , a Mobile Workforce Management Software-As-A-Service on Web and Mobile platforms, which includes Personnel, Time & Attendance, Payroll, Leave, Benefits and Claim and Performance Appraisal Management modules - it is an All - In -One human resource solution.
 
 
 #### Details of Solution
