@@ -1,0 +1,39 @@
+---
+title: HRSS & Payroll Processing with JustLogin - Package (1 - 25 Employees)
+permalink: /productivity-solutions-grant/solutionrepo/solution599
+---
+
+#### Description
+
+Providing customized HR outsourcing services combined with Human Capital Management solutions/SaaS such as Employment Information System, Leave Management, Expense Claims, Time Attendance, Payroll Benefits that includes mobile app.
+
+
+#### Details of Solution
+
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Match_Resources_Payroll_Annex_3_CR_wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Eligibility Criteria
+
+Applicants must meet the following eligibility criteria at the point of application:
+
+a) must be registered in Singapore <br>
+b) purchase/lease of the equipment must be used in Singapore <br>
+c) must not have:
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+
+Please refer to 'Things to Note' for additional requirements.
+
+#### Mode of Payment
+Direct Purchase
+
+#### Support Level
+80%
+
+#### Things to Note
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+#### Contact Information
+Match Resources Pte Ltd<br>www.matchresources.com.sg<br>Email: jobs@matchresources.com.sg<br>Tel: +65 6653 1198
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
