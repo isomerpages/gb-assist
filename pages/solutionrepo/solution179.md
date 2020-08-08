@@ -34,7 +34,7 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 #### Things to Note
 Specifications
 - At least 1400mm of sweeping width
-- Hopper volume (>500L)
+- Hopper volume (More than 500L)
 
 Grant cap: Up to S$320,000 per unit
 
