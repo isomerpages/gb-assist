@@ -34,15 +34,15 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 #### Things to Note
 Specifications:
 The Smart toilet monitoring system must consist of the following components:
-o	consumables tracking
-o	Manpower scheduling system
+- consumables tracking
+- Manpower scheduling system
 
-                    The following add-on items may be supported (optional)
-o	Human Traffic count
-o	Odour sensing 
-o	Odour removal system
-o	Worker attendance wearables
-o	Cubicle usage tracking
+The following add-on items may be supported (optional)
+- Human Traffic count
+- Odour sensing 
+- Odour removal system
+- Worker attendance wearables
+- Cubicle usage tracking
 
 Grant Cap: Up to S$80,000 per unit
 
