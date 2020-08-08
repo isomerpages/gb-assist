@@ -31,9 +31,9 @@ Direct Purchase
 
 #### Things to Note
 More than or equal to 	Able to deliver at least 194NM of torquing range, allow for 360 degrees rotation.
-•	Powered pneumatically or electically through a power unit
-•	Training costs to be supported
-•	Maintenance costs not supported
+ 	Powered pneumatically or electically through a power unit
+ 	Training costs to be supported
+ 	Maintenance costs not supported
 Additional Criteria:
  =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
  No change in vendor allowed
