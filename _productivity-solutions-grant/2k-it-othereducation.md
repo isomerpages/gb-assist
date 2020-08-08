@@ -1,6 +1,6 @@
 ---
 title: Other Education
-permalink: /productivity-solutions-grant/IT Solution/othereducation/
+permalink: /productivity-solutions-grant/ITSolution/othereducation/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Learning Management System

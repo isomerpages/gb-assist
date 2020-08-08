@@ -1,6 +1,6 @@
 ---
 title: Retail
-permalink: /productivity-solutions-grant/IT Solution/retail/
+permalink: /productivity-solutions-grant/ITSolution/retail/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: E-Commerce - Online Shop and Marketplace

@@ -1,6 +1,6 @@
 ---
 title: Training and Adult Education
-permalink: /productivity-solutions-grant/IT Solution/trainingandadulteducation/
+permalink: /productivity-solutions-grant/ITSolution/trainingandadulteducation/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Learning Management System

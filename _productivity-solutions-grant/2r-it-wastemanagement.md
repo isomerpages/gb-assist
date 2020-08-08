@@ -1,6 +1,6 @@
 ---
 title: Waste Management
-permalink: /productivity-solutions-grant/IT Solution/wastemanagement/
+permalink: /productivity-solutions-grant/ITSolution/wastemanagement/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Waste Tonnage Monitoring

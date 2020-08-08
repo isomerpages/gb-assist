@@ -1,6 +1,6 @@
 ---
 title: Building & Construction
-permalink: /productivity-solutions-grant/IT Solution/buildingconstruction/
+permalink: /productivity-solutions-grant/ITSolution/buildingconstruction/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: e-Permit-to-work (e-PTW)

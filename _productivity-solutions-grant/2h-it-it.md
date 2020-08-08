@@ -1,6 +1,6 @@
 ---
 title: IT
-permalink: /productivity-solutions-grant/IT Solution/it/
+permalink: /productivity-solutions-grant/ITSolution/it/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Source Code Review Tool

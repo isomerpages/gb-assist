@@ -1,6 +1,6 @@
 ---
 title: Logistics
-permalink: /productivity-solutions-grant/IT Solution/logistics/
+permalink: /productivity-solutions-grant/ITSolution/logistics/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Transport Management

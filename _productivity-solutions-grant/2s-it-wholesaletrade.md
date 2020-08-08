@@ -1,6 +1,6 @@
 ---
 title: Wholesale Trade
-permalink: /productivity-solutions-grant/IT Solution/wholesaletrade/
+permalink: /productivity-solutions-grant/ITSolution/wholesaletrade/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Sales Management

@@ -1,6 +1,6 @@
 ---
 title: Food Manufacturing
-permalink: /productivity-solutions-grant/IT Solution/foodmanufacturing/
+permalink: /productivity-solutions-grant/ITSolution/foodmanufacturing/
 third_nav_title: Pre-scoped IT Solution
 accordion:
 ---

@@ -1,6 +1,6 @@
 ---
 title: Healthcare
-permalink: /productivity-solutions-grant/IT Solution/healthcare/
+permalink: /productivity-solutions-grant/ITSolution/healthcare/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Teleconsultation(Video)

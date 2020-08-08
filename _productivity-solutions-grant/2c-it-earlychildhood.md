@@ -1,6 +1,6 @@
 ---
 title: Early Childhood
-permalink: /productivity-solutions-grant/IT Solution/earlychildhood/
+permalink: /productivity-solutions-grant/ITSolution/earlychildhood/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Learning Management System

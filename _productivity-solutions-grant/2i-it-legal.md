@@ -1,6 +1,6 @@
 ---
 title: Legal
-permalink: /productivity-solutions-grant/IT Solution/legal/
+permalink: /productivity-solutions-grant/ITSolution/legal/
 third_nav_title: Pre-scoped IT Solution
 accordion:
   - title: Practice Management System
