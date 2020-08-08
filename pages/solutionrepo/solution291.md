@@ -36,7 +36,7 @@ Direct Purchase
 #### Things to Note
 More than or equal to quipment must meet the following specifications:
 - Approx 8 - 12 cartons per minute, depending on carton's size and material
-- Tape width 2° or 3°, depending on customer?s needs (optional)
+- Tape width 2  or 3 , depending on customer?s needs (optional)
 - Cardboard temporary stock, 50 to 70 pc (optional)
 
 Additional criteria:
