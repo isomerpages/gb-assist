@@ -1,6 +1,6 @@
 ---
 title: ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)
-permalink: /productivity-solutions-grant/solution03
+permalink: /productivity-solutions-grant/solution03/
 ---
 
 #### Description
