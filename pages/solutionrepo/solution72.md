@@ -38,7 +38,7 @@ More than or equal to ncludes nozzle, gas hoses (from nozzle to block), main blo
 Pipe diameter: Min. 108mm
 Cutting thickness: 6-50mm
 Cutting speed: 50-750mm/min
-Bevel angle: 0-45°
+Bevel angle: 0-45
 Power: 220/50 AC input 
 Heavy-duty industrial electrical plug
 Maintenance costs not supported
