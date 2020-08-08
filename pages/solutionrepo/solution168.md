@@ -32,7 +32,7 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 60%
 
 #### Things to Note
-"Specifications
+Specifications
 -Cordless Technology (wireless)
 -Covers at least 800sqm/hour 
 -Solution tank capacity (>1L)
