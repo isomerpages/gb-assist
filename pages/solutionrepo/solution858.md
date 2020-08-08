@@ -1,0 +1,40 @@
+---
+title: Times Software HRMS Version 18.0 - Cloud Based Package 3 (up to 100 pax)
+permalink: /productivity-solutions-grant/solutionrepo/solution858
+---
+
+#### Description
+
+TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management. 
+
+#### Details of Solution
+
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Times_Software_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Eligibility Criteria
+
+Applicants must meet the following eligibility criteria at the point of application:
+
+a) must be a SME <br>
+b) must be registered in Singapore <br>
+c) must have 30% local shareholding ownership criteria <br>
+d) purchase/lease of the equipment must be used in Singapore <br>
+e) must not have:
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+
+Please refer to 'Things to Note' for additional requirements.
+
+#### Mode of Payment
+Direct Purchase
+
+#### Support Level
+80%
+
+#### Things to Note
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+#### Contact Information
+Times Software Pte Ltd<br>https://www.timesoftsg.com.sg/<br>Email: sales@timesoftsg.com.sg<br>Tel: +65 6295 1998
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
