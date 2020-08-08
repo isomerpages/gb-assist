@@ -37,7 +37,7 @@ Direct Purchase
 More than or equal to ncludes nozzle, torch, rail, motor for travelling on rail (forward, backward, stop)
 Cutting thickness: max. 50mm
 Cutting speed: 110-1000mm/min
-Bevel angle: 0-45°
+Bevel angle: 0-45
 Power:  110V or 220V input
 Heavy-duty industrial electrical plug
 Maintenance costs not supported
