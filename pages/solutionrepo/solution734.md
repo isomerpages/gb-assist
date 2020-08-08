@@ -1,0 +1,50 @@
+---
+title: Static Parcel Dimension, Weight and Scan Equipment
+permalink: /productivity-solutions-grant/solutionrepo/solution734
+---
+
+#### Description
+
+The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
+
+Grant support: 80% of cost of equipment, up to $17,000 grant
+
+
+#### Details of Solution
+
+Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Eligibility Criteria
+
+Applicants must meet the following eligibility criteria at the point of application:
+
+a) must be a SME <br>
+b) must be registered in Singapore <br>
+c) must have 30% local shareholding ownership criteria <br>
+d) purchase/lease of the equipment must be used in Singapore <br>
+e) must not have:
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+
+#### Mode of Payment
+Direct Purchase
+
+#### Support Level
+80%
+
+#### Things to Note
+Mandatory Specification
+- Parts: Computer; Optical Part (Camera); Weighing Scale; Stereometry (Binocular Camera); Barcode scanner; Frame to hold the equipment together
+- Weigh parcel up to 30kg
+- Weighing accuracy of +/- 10g
+- Stereometry accuracy within +/- 5mm
+- Throughput approx 400/hour
+- Data transmitted to a software/ERP via wireless/LAN connection
+
+Installation costs are supported.
+?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+#### Contact Information
+
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

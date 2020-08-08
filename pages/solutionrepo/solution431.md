@@ -1,0 +1,43 @@
+---
+title: Rodent Monitoring System
+permalink: /productivity-solutions-grant/solutionrepo/solution431
+---
+
+#### Description
+
+The rodent monitoring system is a wireless surveillance system that monitors, analyses and maps rodent activity to provide real time data for pest control operators to conduct targeted pest control measures.   
+
+#### Details of Solution
+
+Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Eligibility Criteria
+
+Applicants must meet the following eligibility criteria at the point of application:
+
+a) must be a SME <br>
+b) must be registered in Singapore <br>
+c) must have 30% local shareholding ownership criteria <br>
+d) purchase/lease of the equipment must be used in Singapore <br>
+e) must not have:
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+
+#### Mode of Payment
+Direct Purchase,Hire Purchase,Subscription / Leasing
+
+#### Support Level
+80%
+
+#### Things to Note
+Specifications
+The system must minimally consist of the following:
+-	Sensors (to detect rodents)
+-	User interface (with real-time data analytics and rodent activity map).
+
+Grant cap: Up to S$350,000 per unit
+
+#### Contact Information
+
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

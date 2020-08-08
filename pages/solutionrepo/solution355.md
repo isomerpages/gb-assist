@@ -1,0 +1,42 @@
+---
+title: COVID-19 Sectorial Support: Doctor World  Platform Version 2 - Doctor World Basic 
+permalink: /productivity-solutions-grant/solutionrepo/solution355
+---
+
+#### Description
+
+Doctor World is an integrated digital platform connecting patients with a trusted network of medical providers and services. It allows doctors to provide 24/7 teleconsultation services to dispense care via video-call and includes 24/7 islandwide delivery of medication to patients. Doctor World also comes with a digital queue system for physical clinic visits, an appointment-booking system, a health store and home care services.
+
+
+#### Details of Solution
+
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Doctor_World_Annex_3_CR_wef_27_April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Eligibility Criteria
+
+Applicants must meet the following eligibility criteria at the point of application:
+
+a) must be a SME <br>
+b) must be registered in Singapore <br>
+c) must have 30% local shareholding ownership criteria <br>
+d) purchase/lease of the equipment must be used in Singapore <br>
+e) must not have:
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+
+#### Mode of Payment
+Direct Purchase
+
+#### Support Level
+80%
+
+#### Things to Note
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+#### Contact Information
+Doctor World Pte Ltd
+www.doctorworld.co
+Email: contact@doctorworld.co
+Tel: +65 9139 2066
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

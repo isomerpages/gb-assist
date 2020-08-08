@@ -1,0 +1,50 @@
+---
+title: Automated Oxygen Scavenger Dispenser
+permalink: /productivity-solutions-grant/solutionrepo/solution295
+---
+
+#### Description
+
+Oxygen scavengers work by absorbing the ambient moisture. These scavengers are put into small packets and inserted alongside the packaged product. 
+
+An oxygen scavenger dispenser works by integrating with a production line and automatically inserting these oxygen scavenger packets with each packaged product.
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
+
+#### Details of Solution
+
+Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Eligibility Criteria
+
+Applicants must meet the following eligibility criteria at the point of application:
+
+a) must be a SME <br>
+b) must be registered in Singapore <br>
+c) must have 30% local shareholding ownership criteria <br>
+d) purchase/lease of the equipment must be used in Singapore <br>
+e) must not have:
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+
+#### Mode of Payment
+Direct Purchase
+
+#### Support Level
+80%
+
+#### Things to Note
+Equipment must meet the following specifications:
+- Minimum loading speed of 150 packets per minute
+- Able to insert oxygen scavenger packets of varied sizes
+
+Additional criteria:
+- =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- The purchase of pre-owned/used equipment is not supportable.
+
+No change in vendor allowed
+
+#### Contact Information
+
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
