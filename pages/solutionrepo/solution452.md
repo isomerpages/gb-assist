@@ -9,7 +9,7 @@ HReasily is a cloud-based HR solution that provides end to end employee data col
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

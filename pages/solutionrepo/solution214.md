@@ -10,7 +10,7 @@ BambooCloud is delivered in SaaS as an ecosystem of features and modules that ca
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

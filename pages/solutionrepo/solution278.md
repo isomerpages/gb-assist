@@ -9,7 +9,7 @@ The industrial steam cleaner comes with powerful steam pressure for continuously
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -39,6 +39,6 @@ The industrial steam cleaner should have at least
 Grant cap: Up to S$6,000 per unit
 
 #### Contact Information
-
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

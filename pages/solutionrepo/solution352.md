@@ -9,7 +9,7 @@ MyRetailer Android POS is a powerful all in one point-of-sale solution with buil
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

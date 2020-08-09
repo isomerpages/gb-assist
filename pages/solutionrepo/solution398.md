@@ -13,7 +13,7 @@ EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, c
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

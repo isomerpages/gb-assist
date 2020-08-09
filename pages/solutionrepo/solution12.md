@@ -10,7 +10,7 @@ Xero is a comprehensive accounting software that provides accounting features li
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

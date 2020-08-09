@@ -9,7 +9,7 @@ SAP Business One is an enterprise resource planning (ERP) software designed for 
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

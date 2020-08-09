@@ -12,7 +12,7 @@ Purchase of pre-owned/used equipment not supportable
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -44,6 +44,6 @@ Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet
 No change in vendor allowed
 
 #### Contact Information
-
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

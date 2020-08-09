@@ -9,7 +9,7 @@ The system is designed to lift and wash the waste bins automatically with only o
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -38,6 +38,6 @@ The system, comprising key components such as
 Grant cap: Up to S$320,000 per unit
 
 #### Contact Information
-
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

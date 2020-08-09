@@ -9,7 +9,7 @@ Rentalworks Mobile Working Laptop Program is a bundle program focusing on enabli
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

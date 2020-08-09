@@ -9,7 +9,7 @@ The equipment (autonomous or one man operated) has the capability to facilitate 
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -33,6 +33,6 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 Grant cap: Up to S$68,000 per unit
 
 #### Contact Information
-
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

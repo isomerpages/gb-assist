@@ -9,7 +9,7 @@ The equipment using sensors to detect and compacts materials automatically to fa
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -40,6 +40,6 @@ The Smart Baler system must be able to:
 Grant cap: Up to S$160,000 per unit
 
 #### Contact Information
-
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

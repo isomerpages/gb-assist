@@ -11,7 +11,7 @@ The Online Ordering & Payment System allows F&B enterprises to enable digital on
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

@@ -13,7 +13,7 @@ Grant support: 80% of cost of equipment, up to $24,000 grant
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -48,6 +48,6 @@ Additional criteria: >30% ordinary shares (ultimate individual ownership) held d
 No change in vendor allowed
 
 #### Contact Information
-
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

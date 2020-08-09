@@ -9,7 +9,7 @@ The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, 
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -40,6 +40,6 @@ Additional Criteria:
  The purchase of pre-owned/used equipment is not supportable
 
 #### Contact Information
-<br>
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

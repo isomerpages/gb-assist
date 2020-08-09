@@ -9,7 +9,7 @@ Moiboo is an automobile business software which helps auto workshops, auto deale
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

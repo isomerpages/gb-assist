@@ -9,7 +9,7 @@ The escalator cleaner can work in either dry or wet mode to clean escalators and
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -38,6 +38,6 @@ The machine must consist of minimally the following:
 Grant cap: Up to S$40,000 per unit
 
 #### Contact Information
-
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

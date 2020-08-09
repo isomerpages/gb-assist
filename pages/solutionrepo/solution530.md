@@ -10,7 +10,7 @@ Dropbox Business is a Document Management System for archiving and collaborative
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

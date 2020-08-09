@@ -10,7 +10,7 @@ M1 Remote Working Suite is a complete all-in-one bundle to enable you to work re
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

@@ -9,7 +9,7 @@ A learning and collaboration platform for delivery of digital content, administe
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

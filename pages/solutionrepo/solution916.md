@@ -9,7 +9,7 @@ NetDocuments is native cloud-based DMS in the legal industry to support of integ
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

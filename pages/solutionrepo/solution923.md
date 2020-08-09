@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution923
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

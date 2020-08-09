@@ -9,7 +9,7 @@ Pallet with load capacity ranging from 1.2 ton to 2.5 ton, that is able to trans
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -36,6 +36,6 @@ Only applicable for licensed cleaning and waste management companies
 Grant cap: Up to S$10,000 per unit
 
 #### Contact Information
-
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

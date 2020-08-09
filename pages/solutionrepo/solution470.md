@@ -9,7 +9,7 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 
 #### Details of Solution
 
-Click <a href='' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 
