@@ -27,10 +27,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80%
+80% for SME
+N.A. for non-SMEs
 
 #### Things to Note
-
+N.A.
 
 #### Contact Information
 Athena Dynamics Pte Ltd<br>https://athenadynamics.com/solution/solar-appscreener<br>Email: kensoh@athenadynamics.com<br>Tel: +65 6210 2354

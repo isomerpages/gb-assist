@@ -29,10 +29,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80%
+80% for SME
+N.A. for non-SMEs
 
 #### Things to Note
-
+N.A.
 
 #### Contact Information
 Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkotech.com<br>Tel: +65 6684 4419

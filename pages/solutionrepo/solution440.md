@@ -27,10 +27,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80%
+80% for SME
+N.A. for non-SMEs
 
 #### Things to Note
-
+N.A.
 
 #### Contact Information
 Glodon International Pte Ltd<br>https://www.glodon.com/en/<br>Email: SG@GLOBAL.GLODON.COM<br>Tel: +65 6567 1648

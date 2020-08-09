@@ -27,10 +27,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80%
+80% for SME
+N.A. for non-SMEs
 
 #### Things to Note
-
+N.A.
 
 #### Contact Information
 Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890

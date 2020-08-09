@@ -27,10 +27,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80%
+80% for SME
+N.A. for non-SMEs
 
 #### Things to Note
-
+N.A.
 
 #### Contact Information
 Lexikon Pte Ltd<br>http://www.lexikon.sg/lexikon_system/konnect_digital/<br>Email: info@lexikon.sg<br>Tel: +65 6909 2737
