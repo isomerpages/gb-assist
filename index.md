@@ -16,21 +16,9 @@ sections:
         - title: E-adviser
           url: https://gaeadviser.gobusiness.gov.sg/
           description: Find relevant Government assistance schemes for your business needs
-      #  - title: Gobusiness Covid
-      #    url: https://covid.gobusiness.gov.sg/supportschemes/general
-      #    description: Supporting our businesses, overcoming challenges and emerging stronger
         - title: Gebiz Alerts
           url: /gebiz-alerts/
           description: Get notifications on the latest Government procurement opportunities
-      #  - title: GoBusiness Licensing
-      #    url: https://www.gobusiness.gov.sg/licences
-      #    description: Freely select and apply for the licences you need with the Guided Journey or Self-Service feature
-      #  - title: Productivity Solutions Grant
-      #    url: /productivity-solutions-grant/
-      #    description: PSG supports companies in the adoption of pre-scoped IT solutions and equipment that enhances productivity
-      #  - title: Business Grants Portal
-      #    url: https://www.businessgrants.gov.sg/
-      #    description: Business Grants Portal brings government grants for businesses into one place, so it’s easier to find and apply for the grants you need
     - infobar:
         title: List of Government Assistance
         subtitle: 
