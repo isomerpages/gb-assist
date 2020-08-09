@@ -32,7 +32,7 @@ Direct Purchase
 
 #### Support Level
 80% for SME
-N.A. for non-SMEs
+N.A. for non-SMEs <br>
 
 #### Things to Note
 More than or equal to nstalled with software for inventory data input.

@@ -30,7 +30,7 @@ Direct Purchase
 
 #### Support Level
 80% for SME
-N.A. for non-SMEs
+N.A. for non-SMEs <br>
 
 #### Things to Note
 More than or equal to ncludes nozzle, gas hoses (from nozzle to block), main block with magnetic wheel and motor for travelling (forward, backward, stop) 

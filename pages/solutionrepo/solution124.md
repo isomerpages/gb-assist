@@ -28,7 +28,7 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
 50% for SME
-N.A. for non-SMEs
+N.A. for non-SMEs <br>
 
 #### Things to Note
 - Integrated with compactor, fill-level sensor(s), weight monitoring  and communication system(s)

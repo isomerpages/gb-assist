@@ -28,7 +28,7 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
 80% for SME
-N.A. for non-SMEs
+N.A. for non-SMEs <br>
 
 #### Things to Note
 Specifications:
