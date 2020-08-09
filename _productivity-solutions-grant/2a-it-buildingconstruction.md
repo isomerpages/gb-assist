@@ -1,5 +1,5 @@
 ---
-title: Building & Construction1
+title: Building & Construction
 permalink: /productivity-solutions-grant/ITSolution/buildingconstruction/
 third_nav_title: Pre-scoped IT Solution
 accordion:
