@@ -1,5 +1,5 @@
 ---
-title: Octopus Food Solution Version 7 - Package A (Single Store Mobile Ordering)
+title: Octopus Food Solution Version 7 - Package B (Bundle of 3 Mobile Ordering)
 permalink: /productivity-solutions-grant/solutionrepo/solution670
 ---
 
@@ -10,7 +10,7 @@ Octopus Food Solutions provides a complete suites of innovative and easy-to-use 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

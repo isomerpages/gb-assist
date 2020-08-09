@@ -1,15 +1,16 @@
 ---
-title: Pytheas Ecommerce (B2C) Version 1.1
+title: Qashier Smart Terminal - Package A (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution727
 ---
 
 #### Description
 
-Pytheas Ecommerce (B2C) provides an end-to-end e-commerce platform which comprises content management function to enable ease of content publish on website, dynamic packing function for bundling of flights and hotels, pricing engine to populate the latest deals from various travel agents and customer relationship management feature to consolidate customers and transaction details for easy retrieval of information across different travel agencies. 
+Qashier provides smart point-of-sale (POS) solutions to help small merchants digitise their businesses. Qashier'ss flagship product is the Qashier Smart Terminal, a connected, multi-purpose device that combines a payments hub, cloud-based POS software, and a proprietary app store in one uniquely designed device. Qashier enables merchants to manage entire stores with just one terminal on the counter.
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Pytheas_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Qashier_20200024_Annex_3_20200625143125_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,18 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to nly licensed travel agents are eligible for support.
-
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR.
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Pytheas Infosys Pte Ltd<br>http://www.pytheas.travel<br>Email: info@pytheas.travel<br>Tel: +65 6635 6592
+Qashier Pte Ltd<br>http://qashier.co<br>Email: hello@qashier.co<br>Tel: +65 8790 7020
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

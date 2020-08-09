@@ -1,11 +1,11 @@
 ---
-title: CoreMatter - Package (12 users)
+title: CoreMatter - Package (18 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution922
 ---
 
 #### Description
 
-CoreMatter is a cloud based, Legal Accounting and Practice Management System, developed on a Client-Matter Workspace structure which empower users to better manage Accounting & Financial Matter, Client Matter, Case Matter to meet the requirement of their clients. In addition, their AML/CFT (Anti Money Laundering Counter Financing Terrorism) module for users to quickly and accurate encode KYC information for their clients, with an approval function from authorised personnel of the firm.
+"CoreMatter is a cloud based, Legal Accounting and Practice Management System, developed on a Client-Matter Workspace structure which empower users to better manage Accounting & Financial Matter, Client Matter, Case Matter to meet the requirement of their clients. In addition, their AML/CFT (Anti Money Laundering Counter Financing Terrorism) module for users to quickly and accurate encode KYC information for their clients, with an approval function from authorised personnel of the firm.
 
 #### Details of Solution
 

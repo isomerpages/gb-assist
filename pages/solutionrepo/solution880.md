@@ -1,15 +1,15 @@
 ---
-title: Times Software HRMS Version 18.0 - Cloud Based Package 1 (up to 25 pax)
+title: Times Software HRMS Version 18.0 - Cloud Based Package 2 (up to 50 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution880
 ---
 
 #### Description
 
-TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management.  
+TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management. 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Times_Software_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Times_Software_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: KNOW Version 5 - Small Package (up to 25 Users)
+title: KNOW Version 5 - Medium Package (up to 50 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution586
 ---
 
@@ -9,7 +9,7 @@ Mobile platform that connects the top-floor to the shop-floor. KNOW is a communi
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

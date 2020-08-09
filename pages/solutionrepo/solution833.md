@@ -1,5 +1,5 @@
 ---
-title: Integrated Back Of House Solution for Restaurant Version 1 - Package C (Large Restaurant (E-waiter for 3 Users, CRM & KDS Lite for 4 Users))
+title: Integrated Back Of House Solution for Restaurant Version 1 - Package D (Small Cafe (E-waiter, CRM & Kitchen Printer for 1 User))
 permalink: /productivity-solutions-grant/solutionrepo/solution833
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution833
 
 The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
 
-
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

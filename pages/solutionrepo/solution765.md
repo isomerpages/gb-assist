@@ -1,5 +1,5 @@
 ---
-title: SecureAPlus Version 6.x - (20 Pax)
+title: SecureAPlus Version 6.x - (100 Pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution765
 ---
 
@@ -10,7 +10,7 @@ SecureAPlus is an endpoint protection solution that uses the right combination o
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

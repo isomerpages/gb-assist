@@ -1,5 +1,5 @@
 ---
-title: Stormshield UTM Firewall - SN210
+title: Stormshield UTM Firewall - SN310
 permalink: /productivity-solutions-grant/solutionrepo/solution525
 ---
 
@@ -12,7 +12,7 @@ Stormshield delivers high-performance, best-of-breed security features, ensuring
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Juss_Solutions_Group_Firewall_Network_20190038_Annex_3_20200625151118_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Juss_Solutions_Group_Firewall_Network_20190038_Annex_3_20200625151118_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

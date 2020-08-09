@@ -1,5 +1,5 @@
 ---
-title: EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (2 Devices)
+title: EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (5 Devices)
 permalink: /productivity-solutions-grant/solutionrepo/solution953
 ---
 
@@ -9,7 +9,7 @@ Winapp EzySalesOrder V 2.0  simplifies your organization, to do day to day opera
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

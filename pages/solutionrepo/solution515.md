@@ -1,5 +1,5 @@
 ---
-title: NinjaOS - Package A (NinjaPro - 3 Outlets and 4 Modules)
+title: NinjaOS - Package B (NinjaEnterprise - 1 Module)
 permalink: /productivity-solutions-grant/solutionrepo/solution515
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution515
 
 We help build online e commerce stores for F&B merchants so that they can grow their brand & business by being able to save on commissions, deliver islandwide, gather and grow a loyal customer base.
 
-
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

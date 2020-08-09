@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Nanyang Tech - Package A (Laptop Bundle - Basic)
+title: COVID-19 Support Nanyang Tech - Package B (Laptop Bundle - Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution637
 ---
 

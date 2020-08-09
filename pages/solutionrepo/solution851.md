@@ -1,5 +1,5 @@
 ---
-title: TessaCloud - Package (Up to 20 users)
+title: TessaCloud - Package (Up to 30 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution851
 ---
 

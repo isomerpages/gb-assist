@@ -1,5 +1,5 @@
 ---
-title: SAP Business One, version for HANA Version 10 - Package D (10 users, Project Costing Solution and PEPPOL e-Invoicing)
+title: SAP Business One, version for HANA Version 10 - Package E (3 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution479
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution479
 
 SAP Business One is a single, integrated ERP solution with flexible licensing and deployment options - subscription, private/public cloud and on-premise. The solution includes mobility applications for managers, sales and service users; in-built Business Intelligence functions; as well as Artificial Intelligence and Machine Learning capabilities. Inecom offers pre-configured packages for trading, distribution, project based industries and service/repair organizations.
 
-
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

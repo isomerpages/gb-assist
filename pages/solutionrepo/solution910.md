@@ -1,5 +1,5 @@
 ---
-title: V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package B
+title: V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package C
 permalink: /productivity-solutions-grant/solutionrepo/solution910
 ---
 
@@ -9,7 +9,7 @@ V3Nity WAM for ES offers an integrated solution to weave field workers and sched
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

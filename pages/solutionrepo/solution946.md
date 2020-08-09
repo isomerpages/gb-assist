@@ -1,18 +1,15 @@
 ---
-title: WhyzeHR Management System Version 12 - Package (200 Standard)
+title: VersaFleet Version 6-W
 permalink: /productivity-solutions-grant/solutionrepo/solution946
 ---
 
 #### Description
 
-WhyzeHR enables SMEs of all size to keep track of their labour force, forecasting labour requirements, facilitate day to day employee management and providing financial reporting to the account department. The solution helps HR to stay compliance and providing cost saving and efficiency through the elimination of paper.
-
-
-
+VersaFleet Transport Management Software (TMS) automates logistics processes for wholesale and distribution operations. Map-based planning with scheduled route optimisation, coupled with auto-tagging of jobs based on geographical locations facilitate and simplify the business operation. Wholesaler are able to have better monitoring and control over the on-going activities through this solution. 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Whyze_Solutions_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Versafleet-WS_Annex3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Dropbox Business - Document management and Collaboration workspace Version 1 - Package C (Dropbox Business Standard License Only - 9 Users)
+title: Dropbox Business - Document management and Collaboration workspace Version 1 - Package D (Dropbox Business Advanced License Only - 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution532
 ---
 

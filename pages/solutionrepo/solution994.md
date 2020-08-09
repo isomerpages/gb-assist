@@ -1,5 +1,5 @@
 ---
-title: iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Medium)
+title: iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Medium + Online Ordering)
 permalink: /productivity-solutions-grant/solutionrepo/solution994
 ---
 
@@ -9,7 +9,7 @@ iCHEF is an integrated digital ordering solution to help small F&B businesses op
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

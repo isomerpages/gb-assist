@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package B (5 Users with PEPPOL unlimited + Field Sales App 3 Users)
+title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package C (3 Perpetual Users with PEPPOL unlimited)
 permalink: /productivity-solutions-grant/solutionrepo/solution621
 ---
 
@@ -9,7 +9,7 @@ Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive a
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/MSC_Consulting_(S)_20200095_Annex_3_20200625145707_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/MSC_Consulting_(S)_20200095_Annex_3_20200625145707_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

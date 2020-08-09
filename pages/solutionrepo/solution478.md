@@ -1,5 +1,5 @@
 ---
-title: SAP Business One, version for HANA Version 10 - Package C (10 users, On-Premise)
+title: SAP Business One, version for HANA Version 10 - Package D (10 users, Project Costing Solution and PEPPOL e-Invoicing)
 permalink: /productivity-solutions-grant/solutionrepo/solution478
 ---
 
@@ -10,7 +10,7 @@ SAP Business One is a single, integrated ERP solution with flexible licensing an
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

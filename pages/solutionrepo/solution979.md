@@ -1,5 +1,5 @@
 ---
-title: Kiosk  & BYOD - Kiosk Package with Hardware
+title: Kiosk  & BYOD - Restaurant Operating System Package (BYOD with Kiosk)
 permalink: /productivity-solutions-grant/solutionrepo/solution979
 ---
 
@@ -9,7 +9,7 @@ Singapore Food & Beverage is running out of manpower. Aigens aspire to bring inn
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_45.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_67.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

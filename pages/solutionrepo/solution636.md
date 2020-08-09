@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Nanyang Tech - Package C (Office 365 Enterprise E3)
+title: COVID-19 Support Nanyang Tech - Package A (Laptop Bundle - Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution636
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication
+Nanyang Tech s laptop bundle includes a Business Enterprise laptop  with the latest Intel Core i5 processor, Microsoft Office 365 Standard, Microsoft Office Apps and Teams for online meeting, Anti-virus software, 1 year Next Business Day Hardware onsite support, HDD retention and complimentary 1 time onsite setup and deployment.
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Nanyang_LaptopBundle_Annex3_CR_wef_24_July_2020(mti)_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

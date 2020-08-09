@@ -1,16 +1,15 @@
 ---
-title: HRSS & Payroll Processing with JustLogin - Package (101- 200 Employees)
+title: MPD E-Commerce SMEs Version - CMS Ecommerce
 permalink: /productivity-solutions-grant/solutionrepo/solution602
 ---
 
 #### Description
 
-Providing customized HR outsourcing services combined with Human Capital Management solutions/SaaS such as Employment Information System, Leave Management, Expense Claims, Time Attendance, Payroll Benefits that includes mobile app.
-
+MPD e-commerce SMEs Version offers SMEs an opportunity to increase their sales online by widening their reach thru the digital platform where users can easily browse, shop and purchase their merchandises/products/services via a few clicks online with minimal manpower required. In addition, the solution allows SMEs to manage their inventory and reporting (e.g. revenue, costs, trends etc.) more efficiently as well as to improve their overall operating cost as compared to a brick and mortar store.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Match_Resources_Payroll_Annex_3_CR_wef4May2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Match Resources Pte Ltd<br>www.matchresources.com.sg<br>Email: jobs@matchresources.com.sg<br>Tel: +65 6653 1198
+MediaPlus Digital Pte Ltd<br>https://mediaplus.com.sg/<br>Email: wow@mediaplus.com.sg<br>Tel: +65 6816 3168
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

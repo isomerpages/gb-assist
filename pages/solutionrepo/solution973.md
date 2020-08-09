@@ -1,15 +1,16 @@
 ---
-title: Xero Cloud Accounting Software Version 10.5 - Premium, Set Up, Training Package
+title: ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - For Single Location)
 permalink: /productivity-solutions-grant/solutionrepo/solution973
 ---
 
 #### Description
 
-Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
+ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order.  For Distributor or Retailers, there are functions that enable them to track their Inventory levels before placing reorder with their suppliers.  This enables them to keep warehousing and storage cost low.
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/YOIO_20200131_Annex_3_20200625150411_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-YOIO PTE LTD<br>www.yoio-sg.com<br>Email: hello@yoio-sg.com<br>Tel: +65 9179 3142
+Zetta Solution Pte Ltd<br>www.zetta-solution.com<br>Email: sales@zetta-solution.com<br>Tel: +65 6745 0866
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

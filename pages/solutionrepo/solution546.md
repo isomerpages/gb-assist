@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support KR AI Temperature Monitoring Access Control Platform - Package C (2 Set)
+title: COVID-19 Support KR AI Temperature Monitoring Access Control Platform - Package D (3 Set)
 permalink: /productivity-solutions-grant/solutionrepo/solution546
 ---
 
@@ -9,7 +9,7 @@ The solution has a built in Heimann Temperature Sensor made in Germany, it can m
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_KentRidge-Annex_3_CR_Class_A_wef_13_August_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_KentRidge-Annex_3_CR_Class_A_wef_13_August_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

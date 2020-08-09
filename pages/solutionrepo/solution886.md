@@ -1,5 +1,5 @@
 ---
-title: Globe3 ERP Version 5.6 - Package (5 Users)
+title: Globe3 ERP Version 5.6 - Package (8 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution886
 ---
 
@@ -10,9 +10,10 @@ Globe3 ERP is a web-based, scalable mid-range multi-company, multi-currency, mul
 
 
 
+
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/TNO_Annex_3_CR_wef_15Nov2019_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/TNO_Annex_3_CR_wef_15Nov2019_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

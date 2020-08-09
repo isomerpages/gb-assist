@@ -1,5 +1,5 @@
 ---
-title: Westlaw Asia -  Package (for up to 10 fee earners)
+title: Westlaw Asia - Option 2 & Practical Law Plus Package (for 5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution875
 ---
 

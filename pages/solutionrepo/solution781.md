@@ -1,5 +1,5 @@
 ---
-title: Shopify Subscription Version 2020 - Shopify
+title: Shopify Subscription Version 2020 - Advanced Shopify
 permalink: /productivity-solutions-grant/solutionrepo/solution781
 ---
 
@@ -9,7 +9,7 @@ Shopify is a leading global commerce company, providing trusted tools to start, 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Shopify_Commerce_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Shopify_Commerce_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

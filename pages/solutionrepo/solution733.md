@@ -1,16 +1,16 @@
 ---
-title: COVID-19 Support Queue Management - Package A (SMS based Queue Joining)
+title: COVID-19 Support Radiance - Microsoft 365 - Package (Business Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution733
 ---
 
 #### Description
 
-Qtech offers an SMS based queue management system for smaller SMEs (hair salon, F&B etc). Customer is able to send "q" to a designated mobile number. This initiates an interactive SMS session with the Merchant, then choose the Service, and a Queue No# shall be issued over SMS.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication.
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/QTech_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Radiance-Office_365_Annex_3_CR_wef_9_June_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Qtech Queueing System Pte Ltd<br>http://www.qtechqueueingsystem.com/queue-management-solutions/queue-management-solutions/190-retailing-queue-management-system-10.html<br>Email: enquiry@qtechqueueingsystem.com<br>Tel: +65 6292 3423 / +65 9171 0101 - Wei Yoog Lim
+Radiance Communications Pte Ltd<br>https://radiancecomms.com.sg<br>Email: enquiries@radiancecomms.com<br>Tel: +65 6395 2000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

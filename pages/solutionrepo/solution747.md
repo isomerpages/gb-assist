@@ -1,15 +1,15 @@
 ---
-title: Rockbell Human Resource Management System Version 3 - Package (1 user - 30 employees)
+title: Rockbell Human Resource Management System Version 3 - Package (1 user - 60 employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution747
 ---
 
 #### Description
 
-The solution streamlines HR processes by integrating with Payroll and is able to add on E-Leave, E-Claim, E-Documentation modules for a holistic system. Automation of personnel tracking enables SMEs to better track and manage staff attendance, which minimises the chance of miscalculation and unnecessary disputes. Its attendance feature enables SMEs to capture real-time work progress efficiently for better management of manpower deployment and utilisation for multiple sites.  
+The solution streamlines HR processes by integrating with Payroll and is able to add on E-Leave, E-Claim, E-Documentation modules for a holistic system. Automation of personnel tracking enables SMEs to better track and manage staff attendance, which minimises the chance of miscalculation and unnecessary disputes. Its attendance feature enables SMEs to capture real-time work progress efficiently for better management of manpower deployment and utilisation for multiple sites.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell_HRS_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell_HRS_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Sage 300 Cloud Version 2019 - Package A1 (Advanced Edition - 3 Users)
+title: Sage 300 Cloud Version 2019 - Package A2 (Advanced Edition - 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution505
 ---
 
@@ -11,10 +11,9 @@ Sage 300 is an ERP solution which automates and connects the various work proces
 
 
 
-
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/IT_Infinity_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/IT_Infinity_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

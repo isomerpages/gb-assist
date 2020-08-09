@@ -1,19 +1,16 @@
 ---
-title: Sage 300 Cloud Version 2019 - Package B2 (Premium Edition - 10 Users)
+title: ABSS Premier Version 23 - Package (Basic 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution509
 ---
 
 #### Description
 
-Sage 300 is an ERP solution which automates and connects the various work processes of a business including financials, operations and inventory, project and vendor management, business intelligence reporting and sales, marketing and customer service for a seamless centralised platform.
-
-
-
+ABSS premier is a full fledge and integrated accounting, sales, inventory and multiple-currency management solution.  The bundled packages support cloud-based access and backup features.
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/IT_Infinity_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Jabez_Annex_3_CR_wef_13April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,9 +32,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-IT Infinity Pte Ltd<br>www.it8.com.sg<br>Email: sales@it8.com.sg<br>Tel: +65 6346 1511
+Jabez Integrated Solutions Pte Ltd<br>https://www.facebook.com/Jabez-is-Pte-Ltd-110019910337941<br>Email: Eliezerjul14@gmail.com<br>Tel: +65 9838 0221
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

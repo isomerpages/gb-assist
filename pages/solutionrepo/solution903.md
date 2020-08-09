@@ -1,16 +1,15 @@
 ---
-title: EZ Accounting and Inventory Premier Plus SG Version 9.9 - Package (5 Users)
+title: V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution903
 ---
 
 #### Description
 
-EZ Accounting and Inventory Premier Plus SG is a cloud based accounting solution listed on IRAS Accounting Software Register (ASR) and provide all the necessary features for accounting and sales management. 
-
+V3Nity WAM for ES offers an integrated solution to weave field workers and schedules into a tightly-functioning and optimized taskforce for day-to-day operations. WAM is a quality management tool for the assignment of daily work routines of environmental services which assist to automate the daily field workers' operational tasks, monitoring of job status, records and reports on work done within the space of internal resources optimization, governmental regulations and compliances requirements.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/User_Basic_Software_Annex_3_CR_wef13April2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-User Basic Software Pte Ltd<br>www.userbasicsoftware.com<br>Email: info@ubs-alliance.com<br>Tel: +65 6227 1797 / +65 6746 2613
+V3 Smart Technologies Pte Ltd<br>http://www.v3smarttech.com<br>Email: sales@v3smarttech.com<br>Tel: +65 6488 4176
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

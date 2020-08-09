@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Sectorial Support MyDoc Telemedicine Solution - Package 1 (1 Doctor)
+title: COVID-19 Sectorial Support MyDoc Telemedicine Solution - Package 2 (2 Doctors)
 permalink: /productivity-solutions-grant/solutionrepo/solution631
 ---
 
@@ -10,7 +10,7 @@ MyDoc's Telemedicine Solution for providers is a bundled package that providers 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/MyDoc_Annex_3_CR_wef_27_April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/MyDoc_Annex_3_CR_wef_27_April2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

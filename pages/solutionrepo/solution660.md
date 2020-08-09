@@ -1,5 +1,5 @@
 ---
-title: OCi Sales & Accounting Management System (SAM) Version 11 - Package (1 Concurrent User)
+title: OCi Sales & Accounting Management System (SAM) Version 11 - Package (2 Concurrent Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution660
 ---
 

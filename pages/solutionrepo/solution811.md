@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Singtel Business Laptop Bundle - Package 5 (Microsoft 365 Business Basic)
+title: COVID-19 Support Skywave Temperature Screening Solution Version 1.0
 permalink: /productivity-solutions-grant/solutionrepo/solution811
 ---
 
 #### Description
 
-Singtel Business Laptop Bundle provide for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely.
+A contactless temperature measurement and facial recognition-integrated terminal, it leverages on latest facial recognition and deep learning algorithms to accurately and effectively associate the detected body temperature with the corresponding profile. Skywave Facekey temperature and facial scanners can identify human face with / without mask and measure the temperature accurately
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Singtel-Business_Laptop_Bundle_Annex_3_CR_wef_21_July_2020(mti)_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Skywave_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/business/info/psg<br>Contact Hotline: 1800-763-1111<br>Contact Email: g-segmentict@singtel.com
+Skywave Pte Ltd<br>https://www.covidsafeentry.com<br>https://www.skywave.com.sg<br>Email: sales@skywave.com.sg<br>Tel: +65 6474 7375 / +65 9838 8078
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

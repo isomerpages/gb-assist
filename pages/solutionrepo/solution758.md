@@ -1,16 +1,16 @@
 ---
-title: Million Accounting and Stock Control System Version 3 - Package (5 Users with Peppol Ready Mobile Application Access)
+title: COVID-19 Support Rubify Online Collaboration Software - Lark Enterprise Package
 permalink: /productivity-solutions-grant/solutionrepo/solution758
 ---
 
 #### Description
 
-Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports. Million Accounting supports Multi-Company and Multi-Currency and has four modules : Accounting, Stock, Invoicing and Payroll.
+Rubify Technology Pte. Ltd.'s Lark Collaboration offering includes features such as calendar, file sharing, video conferencing, instant messaging, app integrations and digital workflow management.
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell-Million_Annex_3_CR_wef_13April_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rubify_Remote Working_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Rockbell International Software Pte Ltd<br>www.rockbell.sg<br>Email: sales@rockbell.com.sg<br>Tel: +65 6469 7720
+Rubify Technology Pte Ltd<br>https://rubify.com/home/smegodigital<br>Email: nicholas@rubify.com<br>Tel: +65 9002 5517
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

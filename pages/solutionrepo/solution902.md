@@ -1,5 +1,5 @@
 ---
-title: EZ Accounting and Inventory Premier Plus SG Version 9.9 - Package (3 Users)
+title: EZ Accounting and Inventory Premier Plus SG Version 9.9 - Package (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution902
 ---
 
@@ -7,9 +7,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution902
 
 EZ Accounting and Inventory Premier Plus SG is a cloud based accounting solution listed on IRAS Accounting Software Register (ASR) and provide all the necessary features for accounting and sales management. 
 
+
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/User_Basic_Software_Annex_3_CR_wef13April2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/User_Basic_Software_Annex_3_CR_wef13April2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

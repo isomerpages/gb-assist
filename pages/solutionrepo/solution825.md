@@ -1,15 +1,16 @@
 ---
-title: SoloTracking3G for ES Sector Version 2 - Package (with 3G)
+title: COVID-19 Support Starhub - Microsoft 365 - Package (Business Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution825
 ---
 
 #### Description
 
-SoloTracking3G offers advanced fleet management through mobilization to daily operations. The solution's features include real-time tracking of location of fleet, fuel & mileage consumption, dynamic routing and planning, notification alert with geo-fencing in placed to ensure vehicles are within defined areas and over speed detection of vehicles in event of speeding. Its interoperability capability with 3rd party smart bin/compactor related solutions is provided in the software for ES Sector.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication.
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Solo_Pte_Ltd-ES_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/StarHub-Office365_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +32,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Solo Pte Ltd<br>www.solo.com.sg<br>Email: sales@solo.com.sg<br>Tel: +65 9829 7360
+StarHub Ltd<br>www.starhub.com/microsoftBCP / www.starhub.com/PSG<br>Email: business@starhub.com<br>Tel: 1800 888 8888
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

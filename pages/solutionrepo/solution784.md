@@ -1,5 +1,5 @@
 ---
-title: Shopmatic Pro Concierge - Version 1
+title: Shopmatic Pro Concierge - Version 2
 permalink: /productivity-solutions-grant/solutionrepo/solution784
 ---
 

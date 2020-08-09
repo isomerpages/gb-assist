@@ -1,15 +1,16 @@
 ---
-title: COVID-19 Support Advance Visitor Management Temperature Screening, Facial recognition + Safe Entry Version 14.8.7 - Package 2 (Remote Access)
+title: COVID-19 Support PointStar Remote Workplace Solution Version 1.0 - Basic (Google G Suite)
 permalink: /productivity-solutions-grant/solutionrepo/solution718
 ---
 
 #### Description
 
-Pixie Tech s temperature screening solution for staff and visitors management include facial recognition with and without mask and integration to door access. It will sound an alarm on site and send an email if temperature detected above threshold. 
+Google G Suite is a cloud-enabled solution that enables remote collaboration between parties and teams. Features include business email, video conferencing, cloud storage and file sharing.   
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/DDesensitised_Pixie_Pitch_Annex_3_CR_wef_30_July_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_PointStar_Remote_Working_Annex3_CR_wef_24_July_2020(mti)_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Pixie Pitch Pte Ltd<br>Web URL: Www.pixiepitch.com<br>Contact Hotline: +65 9244 8138<br>Contact Email: Janice@pixiepitch.com
+PointStar Pte Ltd<br>https://www.point-star.com/<br>Email: covidoffer@point-star.com<br>Tel: +65 7773 0987
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

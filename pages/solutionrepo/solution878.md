@@ -1,5 +1,5 @@
 ---
-title: Westlaw Asia - Package (for sole proprietorship only)
+title: Westlaw Asia - Package (for up to 5 fee earners)
 permalink: /productivity-solutions-grant/solutionrepo/solution878
 ---
 

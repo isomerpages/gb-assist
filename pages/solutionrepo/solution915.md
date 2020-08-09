@@ -1,11 +1,11 @@
 ---
-title: CoreMatter - Package (3 users)
+title: NetDocuments - Package (3 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution915
 ---
 
 #### Description
 
-CoreMatter is a cloud based, Legal Accounting and Practice Management System, developed on a Client-Matter Workspace structure which empower users to better manage Accounting & Financial Matter, Client Matter, Case Matter to meet the requirement of their clients. In addition, their AML/CFT (Anti Money Laundering Counter Financing Terrorism) module for users to quickly and accurate encode KYC information for their clients, with an approval function from authorised personnel of the firm. 
+NetDocuments is native cloud-based DMS in the legal industry to support of integrations and partnerships. All third-party integrations are written to the single instance NetDocuments service and API integration is provided to support any advanced and custom integrations should they be needed. Furthermore, NetDocuments has a strategic partnership with Microsoft to natively integrate with their Office 365 Web Applications without the use of OneDrive. 
 
 #### Details of Solution
 
@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 SLPs who have enjoyed subsidy under Tech Start for Law for Practice Management Systems and Document Management Systems will not be eligible to apply for PSG under the same solution category. 
 

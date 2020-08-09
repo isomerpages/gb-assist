@@ -1,5 +1,5 @@
 ---
-title: EndPoint Protection Platform - 10 Licenses
+title: EndPoint Protection Platform - 25 licenses
 permalink: /productivity-solutions-grant/solutionrepo/solution520
 ---
 
@@ -7,9 +7,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution520
 
 Bitdefender GZ Advanced Business Security -- Guard against all threats and attack vectors with proven machine learning, behavioural analysis, advanced anti-exploit, continuous monitoring of running processes and risk assessment capabilities. The software blends machine learning and heuristics with signatures and other techniques to offer protection against all types of malware, plus threats such as phishing, ransomware.
 
+
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Juss_Solutions_Group_Endpoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Juss_Solutions_Group_Endpoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

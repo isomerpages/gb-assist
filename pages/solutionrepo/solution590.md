@@ -1,15 +1,15 @@
 ---
-title: KNOW Version 5 - Ultimate Package (up to 300 Users)
+title: COVID-19 Support VirtuaQ Cloud Version 5.1 - Online QMS only
 permalink: /productivity-solutions-grant/solutionrepo/solution590
 ---
 
 #### Description
 
-Mobile platform that connects the top-floor to the shop-floor. KNOW is a communication, operations and productivity solution for managing the frontline workforce. KNOW gets rid of noisy public chat apps, messy paper-based information sharing, and having zero visibility on what's happening on the ground. KNOW works on even the most basic smartphone, and within minutes can completely transform the organization. 
+The VirtuaQ Queue Management System is a cloud platform system that can notify customers via browser-based alerts or SMS.  The solution facilitates contactless and automated queue number alerts/reminders and updates on queue status. 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Lucep-VirtuaQ_Cloud_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-KNOW (Loctoc Pte Ltd)<br>www.getknowapp.com<br>Email: hello@getknowapp.com<br>Tel: +65 9137 1392
+Lucep Pte Ltd<br>https://virtuaq.com/singapore-queue-management-system<br>Email: kaiesh@lucep.com<br>Tel: +65 8484 7793
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: REACH MOIBOO Version 1.8 - Plan A
+title: REACH MOIBOO Version 1.8 - Plan B
 permalink: /productivity-solutions-grant/solutionrepo/solution739
 ---
 

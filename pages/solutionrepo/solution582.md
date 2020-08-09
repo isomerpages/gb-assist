@@ -1,5 +1,5 @@
 ---
-title: Lexis Advance   - Package B
+title: Lexis Advance   - Package C
 permalink: /productivity-solutions-grant/solutionrepo/solution582
 ---
 

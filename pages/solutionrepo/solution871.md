@@ -1,5 +1,5 @@
 ---
-title: Sage 300 - Package (Advance Edition - 2 Users)
+title: Sage 300 - Package (Peppol Ready Advance Edition - 3 Users) 
 permalink: /productivity-solutions-grant/solutionrepo/solution871
 ---
 
@@ -9,7 +9,7 @@ Sage300 is a powerful accounting and financial management solution that allows S
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/The_World_Management-SAGE_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/The_World_Management-SAGE_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

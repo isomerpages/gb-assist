@@ -1,5 +1,5 @@
 ---
-title: Dining Butler system - Dining Butler API
+title: Dining Butler system - Dining Butler multi
 permalink: /productivity-solutions-grant/solutionrepo/solution998
 ---
 
@@ -17,7 +17,7 @@ Dining Butler provides an end to end solution for F&B that covers the following 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_SG_Dining_Butler_20200107_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_SG_Dining_Butler_20200107_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

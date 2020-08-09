@@ -1,16 +1,15 @@
 ---
-title: Lexis Advance   - Package E
+title: KNOW Version 5 - Small Package (up to 25 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution585
 ---
 
 #### Description
 
-Lexis Advance has a powerful and optimised search engine that utilise both natural language and Boolean queries, to search legal content. Coupled with Practical Guidance which provide step by step guidance to facilitate daily legal matters and also as a knowledge management platform to enhance efficiency of business operation.
-
+Mobile platform that connects the top-floor to the shop-floor. KNOW is a communication, operations and productivity solution for managing the frontline workforce. KNOW gets rid of noisy public chat apps, messy paper-based information sharing, and having zero visibility on what's happening on the ground. KNOW works on even the most basic smartphone, and within minutes can completely transform the organization. 
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Loctoc_Annex_3_wef_23_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-LexisNexis<br>www.lexisnexis.com.sg<br>Email: myLN@lexisnexis.com<br>Tel: +65 6349 0110
+KNOW (Loctoc Pte Ltd)<br>www.getknowapp.com<br>Email: hello@getknowapp.com<br>Tel: +65 9137 1392
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

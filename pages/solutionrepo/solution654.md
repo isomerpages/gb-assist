@@ -1,16 +1,15 @@
 ---
-title: NMTODOO - ERP  - Package Premium
+title: RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Accounting
 permalink: /productivity-solutions-grant/solutionrepo/solution654
 ---
 
 #### Description
 
-NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Management System. Registered on the IRAS Accounting Software Register (ASR), the solution provides the essential features for Small to Medium Enterprise to manage sales, customer relations, and financial accounting.
-
+RavenPOS offers standard to full scale business enterprise software automation solution covering all major business trades with integration to our cloud based HQ system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level plus full cloud based accounting suite to assist business owners to gain holistic view of company financial health.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Neu_Media_Technology_LLP_20200127_Annex_3_20200625143944_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Neu Media Technology LLP<br>www.neumediatechnology.com<br>Email: info@neumediatechnology.com<br>Tel: +65 6679 5787
+Nspire Group Pte Ltd<br>https://www.RavenPOS.com<br>Email: ravenpos@gmail.com<br>Tel: +65 6100 2628
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

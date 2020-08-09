@@ -1,5 +1,5 @@
 ---
-title: MuRho Inventory Management & Sales Management System - STARTER PACK A - SAAS WITH HARDWARE
+title: MuRho Inventory Management & Sales Management System - STARTER PACK B - PERPETUAL LICENSE ON CLOUD WITH HARDWARE
 permalink: /productivity-solutions-grant/solutionrepo/solution626
 ---
 
@@ -8,13 +8,13 @@ permalink: /productivity-solutions-grant/solutionrepo/solution626
 The MuRho Inventory Management & Sales Management System includes:
 -	Store N Track (Inventory & Asset Management System)
 -	Manufacture N Track (Inventory & Manufacturing Work In Progress Management System)
--	Sell N Track (Inventory & Sales Order Management System) 
+-	Sell N Track (Inventory & Sales Order Management System)
 -	Order N Track (Inventory & Online B2B / Mobile Sales Order Management System)
--	Connect N Track (API connector to link to 3rd party Marketplace / Software System)
+-	Connect N Track (API connector to link to 3rd party Marketplace / Software System) 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (1 License)
+title: SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (2 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution618
 ---
 
@@ -9,7 +9,7 @@ SAP Business One is an ERP solution with built-in advanced analytical processing
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Nanyang_LaptopBundle_Annex3_CR_wef_24_July_2020(mti)_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

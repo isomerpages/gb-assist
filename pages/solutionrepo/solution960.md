@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central- Package D (PEPPOL e-invoicing-15 Subscription Licence)
+title: Microsoft Dynamics 365 Business Central for Wholesale - Package A (7 Perpetual Licenses) with  PEPPOL e-invoicing
 permalink: /productivity-solutions-grant/solutionrepo/solution960
 ---
 
 #### Description
 
-Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, manufacturing, project, service and inventory management.
+An easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, inventory management, include pre-defined workflows and processes  for the wholesale sector.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Winspire_ERP_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Winspire_WS_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

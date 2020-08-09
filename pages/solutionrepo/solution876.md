@@ -1,5 +1,5 @@
 ---
-title: Westlaw Asia - Option 2 & Practical Law Plus Package (for 5 users)
+title: Westlaw Asia - Option 3 & Practical Law Plus Package (for 10 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution876
 ---
 

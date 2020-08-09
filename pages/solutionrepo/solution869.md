@@ -1,15 +1,15 @@
 ---
-title: SAP Business One Version 9.3 - Package (5 subscription users Hana on cloud)
+title: Sage 300 - Package (Advance Edition - Single User)
 permalink: /productivity-solutions-grant/solutionrepo/solution869
 ---
 
 #### Description
 
-SAP Business One is an integrated business management application which offers a complete set of core functions, including financials, customer relationship management, inventory management, sales, purchasing, operations, and logistics to address various business requirements. 
+Sage300 is a powerful accounting and financial management solution that allows SMEs to maximise operational efficiencies, enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/The_World_Management-SAP_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/The_World_Management-SAGE_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 The World Management Pte Ltd<br>www.twm.com.sg<br>Email: sales@twm.com.sg<br>Tel: +65 6741 9198

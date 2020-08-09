@@ -1,5 +1,5 @@
 ---
-title: OpensoftHR Version 2019 - Package B (50 pax)
+title: OpensoftHR Version 2019 - Package C (100 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution679
 ---
 
@@ -12,10 +12,9 @@ OpensoftHR is a comprehensive HRM solution that is designed to reduce time consu
 
 
 
-
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Opensoft_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Opensoft_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

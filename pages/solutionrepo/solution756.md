@@ -1,20 +1,16 @@
 ---
-title: Smart Cabinet
+title: Million Accounting and Stock Control System Version 3 - Package (5 Users with Peppol Ready Web-based Access)
 permalink: /productivity-solutions-grant/solutionrepo/solution756
 ---
 
 #### Description
 
-The Smart Cabinet provides continuous stock monitoring and access control to the inventory stored in the Smart Cabinet. User information and usage can be retrieved for tracking and monitoring purpose. The storage system is ideal for storing of consumables and high value items.
-
-Grant Support: 
-Direct Purchase: 80% of cost of equipment, up to $21,000 grant 
-Subscription/Leasing: 80% of cost of equipment, up to $8,000/unit/year
+Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports. Million Accounting supports Multi-Company and Multi-Currency and has four modules : Accounting, Stock, Invoicing and Payroll.
 
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell-Million_Annex_3_CR_wef_13April_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -29,22 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to andatory Specification
-- Access controlled and tracked with RFID or other relevant technology
-- Equipped with the necessary sensor to track the essential inventory information stored in the cabinet: Item Description, Stock Quantity
-- Hardware must be linked with a software/ERP system to access the logs and inventory information
-
-Installation and maintenance fee are not supportable.
-?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Rockbell International Software Pte Ltd<br>www.rockbell.sg<br>Email: sales@rockbell.com.sg<br>Tel: +65 6469 7720
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: CoreMatter - Package (6 users)
+title: CoreMatter - Package (12 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution921
 ---
 

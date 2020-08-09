@@ -1,5 +1,5 @@
 ---
-title: Qashier Smart Terminal - Package B (Pro)
+title: Qashier Smart Terminal - Package C (Basic + Visa/Mastercard Enabled)
 permalink: /productivity-solutions-grant/solutionrepo/solution730
 ---
 
@@ -10,7 +10,7 @@ Qashier provides smart point-of-sale (POS) solutions to help small merchants dig
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Qashier_20200024_Annex_3_20200625143125_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Qashier_20200024_Annex_3_20200625143125_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

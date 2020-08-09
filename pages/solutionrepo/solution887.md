@@ -1,19 +1,15 @@
 ---
-title: Globe3 ERP Version 5.6 - Package (8 Users)
+title: COVID-19 Support Trakomatic OTrack Footfall Tracking Software (1 Sensor)
 permalink: /productivity-solutions-grant/solutionrepo/solution887
 ---
 
 #### Description
 
-Globe3 ERP is a web-based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising finance, supply chain, projects, CRM, and production, which improves organization processes immediately with the enhancements and streamlining of key business processes and reduction in informational and operational bottlenecks. 
-
-
-
-
+Trakomatic's Real-time occupancy solution automatically captures highly accurate bi-directional footfall or crowd density measurement to determine the occupancy rate within client's physical location in real-time. Clients can configure a desired occupancy threshold limit by location or by zones within locations and get notified automatically via real-time alerts through web dashboard or Mobile App.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/TNO_Annex_3_CR_wef_15Nov2019_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Trakomatic_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -38,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-TNO Systems Pte Ltd<br>www.sg.globe3.com<br>Email: sales@globe3.com<br>Tel: +65 6749 8823
+Trakomatic Pte Ltd<br>www.trakomatic.com<br>Email: andrechew@trakomatic.com<br>Tel: +65 6681 5617
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

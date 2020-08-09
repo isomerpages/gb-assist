@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Trakomatic OTrack Footfall Tracking Software (1 Sensor)
+title: COVID-19 Support Trakomatic OTrack Footfall Tracking Software (2 Sensors)
 permalink: /productivity-solutions-grant/solutionrepo/solution888
 ---
 
@@ -9,7 +9,7 @@ Trakomatic's Real-time occupancy solution automatically captures highly accurate
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Trakomatic_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Trakomatic_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support VirtuaQ Cloud Version 5.1 - Online QMS only
+title: COVID-19 Support VirtuaQ Cloud Version 5.1 - Online QMS with 30k SMS bundle
 permalink: /productivity-solutions-grant/solutionrepo/solution591
 ---
 
@@ -9,7 +9,7 @@ The VirtuaQ Queue Management System is a cloud platform system that can notify c
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Lucep-VirtuaQ_Cloud_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Lucep-VirtuaQ_Cloud_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,15 +1,16 @@
 ---
-title: Konnect Digital Software
+title: Lexis Advance  - Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution580
 ---
 
 #### Description
 
-Konnect Digital Software is a workforce management system which comprises of following modules: CRM, Sales, Operational (Job Order) via desktop & mobile application and HRM, launched since 2018 with the objective to facilitate and streamline the operational and administrative process in the industry.
+Lexis Advance has a powerful and optimised search engine that utilise both natural language and Boolean queries, to search legal content. Coupled with Practical Guidance which provide step by step guidance to facilitate daily legal matters and also as a knowledge management platform to enhance efficiency of business operation.
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Lexikon_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -31,9 +32,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Lexikon Pte Ltd<br>http://www.lexikon.sg/lexikon_system/konnect_digital/<br>Email: info@lexikon.sg<br>Tel: +65 6909 2737
+LexisNexis<br>www.lexisnexis.com.sg<br>Email: myLN@lexisnexis.com<br>Tel: +65 6349 0110
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

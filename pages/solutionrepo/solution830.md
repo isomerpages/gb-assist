@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support StarHub - Microsoft 365 - Package (Business Basic)
+title: Integrated Back Of House Solution for Restaurant Version 1 - Package A (Small Cafe (E-waiter for 1 User, CRM & KDS Lite for 1 User))
 permalink: /productivity-solutions-grant/solutionrepo/solution830
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication.
+The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-StarHub Ltd<br>www.starhub.com/microsoftBCP / www.starhub.com/PSG<br>Email: business@starhub.com<br>Tel: 1800 888 8888
+Supply Ellie Pte Ltd<br>www.supplyellie.com<br>Email: davidang@supplyellie.com<br>Tel: +65 9120 0059
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

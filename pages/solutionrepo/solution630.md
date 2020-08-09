@@ -1,18 +1,16 @@
 ---
-title: MuRho Inventory Management System - MuRho Inventory Management System - Perpetual license on cloud software only starter pack
+title: COVID-19 Sectorial Support MyDoc Telemedicine Solution - Package 1 (1 Doctor)
 permalink: /productivity-solutions-grant/solutionrepo/solution630
 ---
 
 #### Description
 
-MuRho Inventory Management System includes:
-- Store N Track (inventory & asset management)
-- Sell N Track (inventory & sales order management)
-- Manufacture N Track (inventory & manufacturing work in progress management) 
+MyDoc's Telemedicine Solution for providers is a bundled package that providers healthcare providers a ready to implement solution to care for patients virtually. The solution includes patient account management and care coordinator account for medication fulfilment. It provides an end-to-end solution for patients to access a doctor via telemedicine consultation care including triage bot, telemedicine consult, EMR / case note recording, eMC, prescription fulfilment, and referrals. 
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/MuRho_Inventory_20200003_Annex_3_20200625142512_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/MyDoc_Annex_3_CR_wef_27_April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -37,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-MuRho Pte Ltd <br>www.murho.com.sg<br>Email:sales@murho.com.sg<br>Tel:+65 6289 3802
+MyDoc Private Limited<br>www.my-doc.com<br>Email: Zoe.bergin@my-doc.com<br>Tel: +65 8309 2948
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

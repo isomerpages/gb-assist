@@ -1,11 +1,11 @@
 ---
-title: COVID-19 Support M1 - Microsoft 365 - Package (Business Standard)
+title: COVID-19 Support M1 Remote Working Laptop Suite (Microsoft 365 Business Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution594
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication.
+M1 Remote Working Suite is a complete all-in-one bundle to enable you to work remotely and still collaborate actively with both your colleagues and customers. This is an all-in-one bundle that comprises of laptop, security software, collaboration tool, office applications and IT support (from initial setup to technical assistance) to provide you with a fuss free experience as you focus in driving your business.
 
 
 #### Details of Solution

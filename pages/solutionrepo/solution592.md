@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support VirtuaQ Cloud Version 5.1 - Online QMS with 30k SMS bundle
+title: COVID-19 Support M1 Cisco Webex Meeting Service
 permalink: /productivity-solutions-grant/solutionrepo/solution592
 ---
 
 #### Description
 
-The VirtuaQ Queue Management System is a cloud platform system that can notify customers via browser-based alerts or SMS.  The solution facilitates contactless and automated queue number alerts/reminders and updates on queue status. 
+Cisco Webex Meeting is a feature-rich solution that allows for collaborative meetings and supports multiple mobile devices, including iPhone, iPad, Apple Watch, Android and Android wearables. Meetings can be recorded, edited and playback. Webex has started trials in Mar 2020 to use AI to provide for a digital in-meeting assistant that handles transcripts, note taking and highlights, freeing the participants to fully focus on the meeting.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Lucep-VirtuaQ_Cloud_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/M1-CiscoWebex_Annex_3_CR_Wef_21_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Lucep Pte Ltd<br>https://virtuaq.com/singapore-queue-management-system<br>Email: kaiesh@lucep.com<br>Tel: +65 8484 7793
+M1 Net Limited<br>https://www.m1.com.sg/Business/business-continuity-package<br>Email: business@m1.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

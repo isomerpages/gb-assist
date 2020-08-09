@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support StarHub - Office 365 - Package (Enterprise E1)
+title: COVID-19 Support StarHub - Microsoft 365 - Package (Business Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution829
 ---
 

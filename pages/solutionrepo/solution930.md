@@ -1,5 +1,5 @@
 ---
-title: XERO CLOUD ACCOUNTING SOFTWARE - Xero Premier Package
+title: XERO CLOUD ACCOUNTING SOFTWARE - Xero Subscription Only
 permalink: /productivity-solutions-grant/solutionrepo/solution930
 ---
 

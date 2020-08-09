@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Sectorial Support Pencil Learning Platform Version 2.6.0 - Package (30 to 50 Users)
+title: COVID-19 Sectorial Support Pencil Learning Platform Version 2.6.0 - Package (51 to 100 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution552
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution552
 
 A learning and collaboration platform for delivery of digital content, administering courses, discussions and assessment. It is built on a responsive front-end design framework providing an optimal viewing experience across different types of devices.
 
-
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Kydon_LMS_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Kydon_LMS_Covid_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
