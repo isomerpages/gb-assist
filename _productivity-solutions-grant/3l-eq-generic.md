@@ -1,11 +1,11 @@
 ---
-title: Others
-permalink: /productivity-solutions-grant/ITSolution/others/
-third_nav_title: Pre-scoped IT Solution
+title: Generic
+permalink: /productivity-solutions-grant/Equipment/generic/
+third_nav_title: Pre-scoped Equipment
 accordion:
 ---
 
-## Pre-scoped IT Solutions for Others
+## Pre-scoped IT Solutions for Generic
 
 #### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
