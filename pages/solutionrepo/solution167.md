@@ -29,8 +29,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Subscription / Leasing
 
 #### Support Level
-80% for SME
-N.A. for non-SMEs <br>
+80% for SME <br>
+N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to Unit Height: 205cm to 716cm 

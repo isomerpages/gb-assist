@@ -29,8 +29,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80% for SME
-N.A. for non-SMEs <br>
+80% for SME <br>
+N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to ncludes automatic rotating nozzle via motor, torch, nozzle arm and gas tubings

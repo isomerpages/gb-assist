@@ -29,8 +29,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80% for SME
-N.A. for non-SMEs <br>
+80% for SME <br>
+N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to ncludes nozzle, gas hoses (from nozzle to block), main block with magnetic wheel and motor for travelling (forward, backward, stop) 
