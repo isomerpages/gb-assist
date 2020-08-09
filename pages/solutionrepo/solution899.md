@@ -28,10 +28,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80%
+80% for SME
+N.A. for non-SMEs
 
 #### Things to Note
-
+N.A.
 
 #### Contact Information
 TUV SUD PSB Pte Ltd<br>https://www.tuvsud.com/en-sg/services/cyber-security/smes-go-digital---pre-approved-cyber-security-solutions<br>Email: info.sg@tuvsud.com<br>Tel: +65 8812 6194
