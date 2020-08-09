@@ -1,17 +1,15 @@
 ---
-title: Vertical Form Fill Seal Machine
+title: COVID-19 Support Concorde Automated Temperature Screening Solution - Package A (1 Unit)
 permalink: /productivity-solutions-grant/solutionrepo/solution308
 ---
 
 #### Description
 
-The vertical form fill seal machine automates the packaging process. The product (e.g. noodles, flour) is placed at the top of the machine. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line.
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+A tablet based automated self-help temperature-scanning system that allows temperature checks and employee attendance to be conducted without the involvement of any personnel. 
 
 #### Details of Solution
 
-N.A.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -33,18 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to quipment must meet the following specifications:
-- Touch panel interface for easy operation (optional)
-- Temperature and speed control
-- Integrated printer for product information (optional)
-
-Additional criteria:
-- =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
-
-No change in vendor allowed
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name: Concorde Security Pte Ltd<br>Web URL: www.concordesecurity.com<br>Contact Hotline: 62960808<br>Contact Email: imelda.a@concorde.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

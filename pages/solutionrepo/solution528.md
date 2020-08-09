@@ -1,18 +1,16 @@
 ---
-title: Stormshield UTM Firewall - SN710 (Twin Pack)
+title: Dropbox Business - Document management and Collaboration workspace Version 1 - Package A (Dropbox Business Standard License Only - 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution528
 ---
 
 #### Description
 
-"Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
-
-Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network."
+Dropbox Business is a Document Management System for archiving and collaborative work on a massive number of documents. With the digitization of documents being stored onto Dropbox. Law firms significantly reduces their storage costs with mobile access of digital files has also eased the way lawyers find and reference documents in court. 
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Juss_Solutions_Group_Firewall_Network_20190038_Annex_3_20200625151118_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -37,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Juss Solutions Group Pte Ltd<br>www.jussolve.com<br>Email: sales@jussolve.com<br>Tel: +65 6659 1811
+JUST IT Solutions Pte Ltd<br>www.justit.com.sg<br>Email: info@justit.com.sg<br>Tel: +65 9695 9997
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

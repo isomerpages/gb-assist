@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Trakomatic OTrack Crowd Density Tracking Software (Up to 3 CCTV Streams)
+title: COVID-19 Support Trakomatic OTrack Occupancy & Crowd Density Tracking Software (1 Footfall Sensor + 1 Camera)
 permalink: /productivity-solutions-grant/solutionrepo/solution890
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution890
 
 Trakomatic's Real-time occupancy solution automatically captures highly accurate bi-directional footfall or crowd density measurement to determine the occupancy rate within client's physical location in real-time. Clients can configure a desired occupancy threshold limit by location or by zones within locations and get notified automatically via real-time alerts through web dashboard or Mobile App.
 
-
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Trakomatic_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Trakomatic_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

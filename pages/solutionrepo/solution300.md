@@ -1,13 +1,13 @@
 ---
-title: Turntable Automated Pallet Cling Wrap Machine
+title: Automated Cake Slicer
 permalink: /productivity-solutions-grant/solutionrepo/solution300
 ---
 
 #### Description
 
-Turntable automatic pallet cling wrap machine require no operator. Pallet loads will be automatically stretch wrapped according to pre-programmed parameters. The only operator intervention required is changing of stretch film when the roll is empty. 
+Automated cake slicer is capable of cutting a variety of cakes. The machine features product holders and fully automatic product positioning, indexing, and divider insert feeding. Portions will all be of consistent size no matter who operates the machine. 
 
-Grant support: 80% of cost of equipment, up to $8,000 grant 
+Grant support: 80% of cost of equipment, up to $24,000 grant
 
 #### Details of Solution
 
@@ -34,11 +34,11 @@ N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to quipment must meet the following specifications:
-- Automatic cutting of the film at the end of the cycle
-- Rotational speed: 3 rpm to 15 rpm
-- Speed adjustment (optional)
-- Integrated weighing system (optional)
-
+- Blade cutting or ultrasonic cutting
+- 2 to 24 portions per product
+- Speed: up to 360 cakes per hour
+- Touch panel with memory setup (optional)
+- Easily changed bottom plate (optional)
 
 Additional criteria:
 - =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

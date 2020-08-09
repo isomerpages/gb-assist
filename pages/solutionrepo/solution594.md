@@ -1,16 +1,16 @@
 ---
-title: COVID-19 Support M1 Remote Working Laptop Suite (Microsoft 365 Business Standard)
+title: COVID-19 Support M1 Thermal Facial Recognition Solution with mask detection
 permalink: /productivity-solutions-grant/solutionrepo/solution594
 ---
 
 #### Description
 
-M1 Remote Working Suite is a complete all-in-one bundle to enable you to work remotely and still collaborate actively with both your colleagues and customers. This is an all-in-one bundle that comprises of laptop, security software, collaboration tool, office applications and IT support (from initial setup to technical assistance) to provide you with a fuss free experience as you focus in driving your business.
+M1 Thermal Sensor and Facial Recognition Solution is a solution combining temperature taking, facial recognition and door access integration  to automate the employees' access into the premise. The employee's attendance and temperature is captured into the system, and alert is triggered when high temperature is detected. The solution also works with mask on, and can alert if the employee being screened is not wearing a mask.
 
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/M1-Temp_Screening_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,15 +1,15 @@
 ---
-title: Shopify Subscription Version 2020 - Shopify Plus
+title: Shopmatic Pro Concierge - Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution782
 ---
 
 #### Description
 
-Shopify is a leading global commerce company, providing trusted tools to start, grow, market, and manage a retail business of any size. Shopify makes commerce better for everyone with a platform and services that are engineered for reliability, while delivering a better shopping experience for consumers everywhere. 
+Shopmatic is a SaaS solution that offers an integrated business solutions for SMEs to take their business online and providing full accessibility to the business owner to operate their e-commerce presence.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Shopify_Commerce_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription or Leasing 
+Direct Purchase
 
 #### Support Level
 80% for SME <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Shopify Commerce Singapore Pte Ltd<br>Web URL: shopify.com.sg<br>Contact Hotline: +658008526699<br>Contact Email:PSG_Shopify_Support@shopify.com
+Company Name:Shopmatic Pte Ltd <br>Web URL: www.goshopmatic.com <br>Contact Hotline: 69569202 <br>Contact Email: shopsupportsg@goshopmatic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

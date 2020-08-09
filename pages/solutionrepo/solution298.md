@@ -1,16 +1,17 @@
 ---
-title: COVID-19 Support Cloud Comrade Remote Workplace Solution Version 1.0 - Enterprise (Google G Suite)
+title: Automated Carton Erector System
 permalink: /productivity-solutions-grant/solutionrepo/solution298
 ---
 
 #### Description
 
-Google G Suite is a cloud-enabled solution that enables remote collaboration between parties and teams. Features include business email, video conferencing, cloud storage and file sharing.   
+Automatic carton sealers are case equipment that seals the top or bottom of a case with tape or glue. Typically, the minor corrugated flaps are kicked and plowed closed as the cases are transferred. As the cases enter the compression section, the major flaps of the carton are closed and a hot-melt adhesive is applied. 
 
+Grant support: 80% of cost of equipment, up to $30,000 grant 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Cloud_Comrade_Remote_Working_Covid_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -32,9 +33,18 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to quipment must meet the following specifications:
+- Approx 8 - 12 cartons per minute, depending on carton's size and material
+- Tape width 2  or 3 , depending on customer?s needs (optional)
+- Cardboard temporary stock, 50 to 70 pc (optional)
+
+Additional criteria:
+- =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- The purchase of pre-owned/used equipment is not supportable.
+
+No change in vendor allowed
 
 #### Contact Information
-Cloud Comrade Pte Ltd<br>www.cloudcomrade.info/gsuite<br>Email: timothy@cloudcomrade.com<br>Tel: +65 9154 3288
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

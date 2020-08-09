@@ -1,19 +1,19 @@
 ---
-title: Digital Welding Equipment for Pipe Welding - Tungsten Inert Gas (TIG) and Manual Metal Arc (MMA) 
+title: Digital Welding Equipment for Steel Plates - Metal Gas Metal Arc Welding (GMAW) and Flux-cored Arc Welding (FCAW)
 permalink: /productivity-solutions-grant/solutionrepo/solution817
 ---
 
 #### Description
 
 Complete set consists of digital welding machine and production management software:
-- Perform TIG and MMA welding
+- Perform GMAW and FCAW welding
 - Compute real-time output of voltage, reducing manual recording and computing
-- Monitor multiple weld stations to ensure compliance
+- Monitor multiple weld stations to ensure compliance 
 - Data logging to track welders' performance/productivity
 - Monitor power consumption and consumables
 - User can pre-set welding parameters and optimise voltage applied
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Grant support: 80% of cost of equipment, up to $30,000 grant"
 
 #### Details of Solution
 
@@ -39,14 +39,17 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to - Power:  3 Phase AC 380V 15% V50-60 Hz input
-- TIG: High frequency, min. 300A/22V rated output, Current adjusting range - 5 to min. 300A
-- MMA: Min. 300A/32V rated output, Current adjusting range - 10 to min. 300A
-- Include TIG/MMA welding set, WP26 air-cooled TIG Torch 8m, Earth cable with clamps/connectors, Wireless control box, software license
+More than or equal to - Power: 3 Phase AC 380V 15% V50-60 Hz input
+- GMAW (MIG/MAG) and FCAW
+- Voltage Adjusting Range: 15 to min. 45V
+- Current Adjusting Range: 30-500A
+- Wire Feed Speed: 2-25m/min
+- Include GMAW/FCAW welding set, Air-cooled MIG/MAG torch 3m, Earth cable with clamps/connectors, 10m welding harness, Wireless control box, Wire feeder, software license
 - Min. IP21S
 
 =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 No change in vendor allowed"
+
 
 #### Contact Information
 N.A.

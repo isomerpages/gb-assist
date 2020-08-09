@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Data Connect - Office 365 - Package (Enterprise E3)
+title: COVID-19 Support Data Connect - Office 365 - Package (Enterprise E5)
 permalink: /productivity-solutions-grant/solutionrepo/solution340
 ---
 
@@ -10,7 +10,7 @@ Microsoft Office 365 is a suite of cloud-based productivity and collaboration ap
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Data_Connect_Office_365_Annex 3_CR_wef12 May_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Data_Connect_Office_365_Annex 3_CR_wef12 May_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

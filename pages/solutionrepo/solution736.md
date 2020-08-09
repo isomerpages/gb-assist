@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Radiance - Office 365 - Package (Enterprise E5)
+title: COVID-19 Support Radiance - Microsoft 365 - Package (Enterprise E3)
 permalink: /productivity-solutions-grant/solutionrepo/solution736
 ---
 
@@ -10,7 +10,7 @@ Microsoft Office 365 is a suite of cloud-based productivity and collaboration ap
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Radiance-Office_365_Annex_3_CR_wef_9_June_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Radiance-Office_365_Annex_3_CR_wef_9_June_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

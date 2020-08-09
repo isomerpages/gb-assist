@@ -1,5 +1,5 @@
 ---
-title: InSight QSE - Insight  QSE Safety PTW System (Premium)
+title: InSight QSE - Insight QSE Safety PTW System (Enterprise)
 permalink: /productivity-solutions-grant/solutionrepo/solution280
 ---
 
@@ -9,7 +9,7 @@ Insight QSE Safety PTW System alleviates the current paper-based method of routi
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

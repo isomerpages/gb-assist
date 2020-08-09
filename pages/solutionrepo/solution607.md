@@ -1,15 +1,16 @@
 ---
-title: PLUS Mobile Digital Ordering Solution - Package (Subscription for unlimited users)
+title: MEVO DMS 8.3 - MEVO Sales (5 Users Bundle)
 permalink: /productivity-solutions-grant/solutionrepo/solution607
 ---
 
 #### Description
 
-PLUS Mobile Digital Ordering Solution is a menu ordering solution which engage customers digitally, empower staffs to focus on the quality of services and analyse data to drive strategic business decision. 
+A specialized solution for wholesalers to optimize their order fulfilment to customers in both Lower and Upper Trade. The solution helps wholesalers streamline the process from customers' order taking (for both Lower and Upper Trade) to delivery.
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Megasafe_Food_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/MEVO_20200130_Annex_3_20200625145056_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Megasafe Technology Pte Ltd<br>www.megapos.com.sg<br>Email: psg@megasafe.com.sg<br>Tel: +65 6224 5788
+MEVO Pte Ltd<br>www.mevo.com.sg<br>Email: enquiries@mevo.com.sg<br>Tel: +65 6773 9048
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

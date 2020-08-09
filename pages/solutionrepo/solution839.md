@@ -1,15 +1,15 @@
 ---
-title: SYNERGIX E1 Version TH6 - Package C  HRMS Standard with Staff Appraisal , Training and Recruitment
+title: SmartKiosk Version 1 - Package (1 Kiosk License W/O HW)
 permalink: /productivity-solutions-grant/solutionrepo/solution839
 ---
 
 #### Description
 
-Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
+TabSquare's SmartKiosk Version1 is a Hybrid Digital Ordering and Payment solution that drives self-ordering, payment and customer engagements which improves customer experience and increase productivity of F&B operators. 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/TabSquare_SmartKiosk_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synergixtech.com<br>Tel: +65 6664 3030
+Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel: +65 9763 0707
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

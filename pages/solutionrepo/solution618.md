@@ -1,15 +1,15 @@
 ---
-title: SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (2 Licenses)
+title: Microsoft Dynamics 365 Business Central (ERP for Sales & Distribution) - Package A (5 Users with PEPPOL unlimited)
 permalink: /productivity-solutions-grant/solutionrepo/solution618
 ---
 
 #### Description
 
-SAP Business One is an ERP solution with built-in advanced analytical processing capabilities that includes predictive and graph analysis for the business users. With the SAP HANA data platform where both transactions and analytics are processed in memory, large volumes of data is able to be analyzed in real time and with speed. MPS Solutions is offering Accounting, Inventory, CRM & Sales Management on the SAP Business One platform, enhanced with Peppol E-Invoice integration.
+Microsoft Dynamics 365 Business Central is a flexible, scalable, comprehensive all-in-one business management solution integrated with ERP capabilities into applications that work seamlessly together with Office 365 across sales, operations, field service and financials for small and medium-sized businesses. The application helps your business transform and streamlines work processes to achieve the productivity of your work, reduce manual efforts and go paperless.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Nanyang_LaptopBundle_Annex3_CR_wef_24_July_2020(mti)_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/MSC_Consulting_(S)_20200095_Annex_3_20200625145707_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:MPS Solutions Pte Ltd <br>Web URL:www.mpssolutions.com.sg <br>Contact Hotline:68469109 <br>Contact Email:kelvin@mclinkgroup.com <br>
+MSC Consulting (S) Pte Ltd<br>www.msc-consulting.com.sg<br>Email: alex.goh@msc-consulting.com.sg<br>Tel: +65 9631 4881
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

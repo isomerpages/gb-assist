@@ -1,15 +1,15 @@
 ---
-title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub - CRM (Service/E-commerce Package) - Hubspot
+title: Advanced Ecommerce Solution by I Concept Version 1.0 - Advanced Ecommerce Solution by I Concept (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution469
 ---
 
 #### Description
 
-The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationship Management & Reporting, Sales Management, Marketing Automation, Content Management and Customer Service Management software which function together to help businesses acquire and manage customers.
+Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful ecommerce store to sell their products online and receive payment via online payment gateway, QR Code payment, PayNow or PayLah.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_HUBSPOT_20200137_Annex_3_20200707122712_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Hubspot Asia Pte. Ltd. <br>Web URL: https://www.hubspot.com/products/get-started <br>Contact Hotline: 31583395 <br>Contact Email: jgilbert@hubspot.com <br>
+Company Name:I Concept Innovation Pte Ltd <br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

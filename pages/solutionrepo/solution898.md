@@ -1,16 +1,16 @@
 ---
-title: Cyber Security Advisory Services Version 1 - Security Architecture Review with TRA (Large System)
+title: EZ Accounting and Inventory Premier Plus SG Version 9.9 - Package (Unlimited Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution898
 ---
 
 #### Description
 
-TUV SUD's Security Advisory services for SMEs' solutions and IT infrastructure helps to facilitate and guide SMEs in the consideration of threats, security requirements and potential constraints of functionality and integration based on defence in-depth and established security design principles. 
+EZ Accounting and Inventory Premier Plus SG is a cloud based accounting solution listed on IRAS Accounting Software Register (ASR) and provide all the necessary features for accounting and sales management. 
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/TUV_SUD_Cyber_Security_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/User_Basic_Software_Annex_3_CR_wef13April2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -32,9 +32,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-TUV SUD PSB Pte Ltd<br>https://www.tuvsud.com/en-sg/services/cyber-security/smes-go-digital---pre-approved-cyber-security-solutions<br>Email: info.sg@tuvsud.com<br>Tel: +65 8812 6194
+User Basic Software Pte Ltd<br>www.userbasicsoftware.com<br>Email: info@ubs-alliance.com<br>Tel: +65 6227 1797 / +65 6746 2613
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

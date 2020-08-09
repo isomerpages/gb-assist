@@ -1,11 +1,17 @@
 ---
-title: Augmented Reality Welding Training Solution
+title: Digital Welding Equipment for Pipe Welding - Tungsten Inert Gas (TIG) and Manual Metal Arc (MMA) 
 permalink: /productivity-solutions-grant/solutionrepo/solution269
 ---
 
 #### Description
 
-This solution uses AR technology to simulate welding processes on test pieces. The learning management and student analysis software provides structured curriculum with stimulated exercises and lab practices while tracking trainees' progress. This solution enables more practice with less time spent in workshop, thus reducing material usage, training preparation time/cost, and exposure to safety/health hazards.
+Complete set consists of digital welding machine and production management software:
+- Perform TIG and MMA welding
+- Compute real-time output of voltage, reducing manual recording and computing
+- Monitor multiple weld stations to ensure compliance
+- Data logging to track welders' performance/productivity
+- Monitor power consumption and consumables
+- User can pre-set welding parameters and optimise voltage applied
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -33,14 +39,13 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to  Power: 240V, Single Phase, AC input
-- AR welding mask
-- SMAW/MMA Electrode Holder, FCAW/GMAW/MIG/MAG/GTAW/TIG Torch
-- Lifetime carbon steel base material license
-- V-Butt 6? Pipe, Overlapped/T-Angled/V-Butt Plate, T-Angled 6? Pipe to Plate
-- Includes accessories (Fillet/groove work stand, welding glove, AR electrode, AR TIG rod) and training software
+More than or equal to  Power:  3 Phase AC 380V?15% V50-60 Hz input
+-TIG: High frequency, min. 300A/22V rated output, Current adjusting range ? 5 to min. 300A
+- MMA: Min. 300A/32V rated output, Current adjusting range ? 10 to min. 300A
+-Include TIG/MMA welding set, WP26 air-cooled TIG Torch 8m, Earth cable with clamps/connectors, Wireless control box, software license
+- Min. IP21S
 
-Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 No change in vendor allowed
 
 #### Contact Information

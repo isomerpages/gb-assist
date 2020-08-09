@@ -1,16 +1,15 @@
 ---
-title: Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 5 (5D BIM Takeoff for Architecture & Structure with Rvt Integration)
+title: Rodent Monitoring System
 permalink: /productivity-solutions-grant/solutionrepo/solution444
 ---
 
 #### Description
 
-A Digital costing platform, for the QS fraternity, whereby measurements of element components indicates geometry with attributes and information required by QS. Providing Detailed & Accurate Quantities during quantification of elements through the consideration of Industry Standard Calculation Rules & Settings based on Singapore Measurement Standards. Bringing a Visual Reality of a 2D Plan Drawing to a 3D Visualization Model.
-
+The rodent monitoring system is a wireless surveillance system that monitors, analyses and maps rodent activity to provide real time data for pest control operators to conduct targeted pest control measures.   
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -25,16 +24,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
 80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+Specifications
+The system must minimally consist of the following:
+-	Sensors (to detect rodents)
+-	User interface (with real-time data analytics and rodent activity map).
+
+Grant cap: Up to S$350,000 per unit
 
 #### Contact Information
-Glodon International Pte Ltd<br>https://www.glodon.com/en/<br>Email: SG@GLOBAL.GLODON.COM<br>Tel: +65 6567 1648
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

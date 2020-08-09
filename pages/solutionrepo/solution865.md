@@ -1,15 +1,15 @@
 ---
-title: SAP Business One Version 9.3 - Package (3 subscription users Hana on cloud)
+title: SAP Business One Version 9.3 - Package (5 perpetual users Hana on cloud)
 permalink: /productivity-solutions-grant/solutionrepo/solution865
 ---
 
 #### Description
 
-SAP Business One is an integrated business management application which offers a complete set of core functions, including financials, customer relationship management, inventory management, sales, purchasing, operations, and logistics to address various business requirements. 
+SAP Business One is an integrated business management application which offers a complete set of core functions, including financials, customer relationship management, inventory management, sales, purchasing, operations, and logistics to address various business requirements.   
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/The_World_Management-SAP_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/The_World_Management-SAP_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

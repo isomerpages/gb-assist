@@ -1,18 +1,15 @@
 ---
-title: SAGE 300 Version 2019/2020 - Sage 300 v2019/2020 - Package (PREMIUM Edition - 15 Users)
+title: MyRetailer Android POS - MyRetailer Android Pos Standalone ( Package A)
 permalink: /productivity-solutions-grant/solutionrepo/solution347
 ---
 
 #### Description
 
-Sage 300 accounting software is widely used by small and medium-sized businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing, retail, e-commerce and robust business intelligence tools to provide real-time key performance indicator (KPI) dashboards.
-
-
-
+MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Databit_20190015_Annex_3_20200625142031_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Databit Pte Ltd<br>https://www.databit.com.sg<br>Email: sales@databit.com.sg<br>Tel: +65 9488 4143
+Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+title: Microsoft Dynamics 365 Business Central- Package B (PEPPOL e-invoicing-15 Perpetual Licences)
 permalink: /productivity-solutions-grant/solutionrepo/solution956
 ---
 
 #### Description
 
-The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. Time and manpower is saved during operation.
+Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, manufacturing, project, service and inventory management.
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Winspire_ERP_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,16 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 	Able to deliver at least 194NM of torquing range, allow for 360 degrees rotation.
- 	Powered pneumatically or electically through a power unit
- 	Training costs to be supported
- 	Maintenance costs not supported
-Additional Criteria:
- =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
- No change in vendor allowed
- The purchase of pre-owned/used equipment is not supportable
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Winspire Solutions Pte Ltd<br>www.winspiresolutions.com<br>Email: jkulkarni@winspiresolutions.com<br>Tel: +65 9835 7900 (mobile) / +65 6744 0324
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

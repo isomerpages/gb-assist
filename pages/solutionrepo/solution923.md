@@ -1,15 +1,15 @@
 ---
-title: CoreMatter - Package (30 users)
+title: VersaFleet Version 6-L - Package (Classic Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution923
 ---
 
 #### Description
 
-"CoreMatter is a cloud based, Legal Accounting and Practice Management System, developed on a Client-Matter Workspace structure which empower users to better manage Accounting & Financial Matter, Client Matter, Case Matter to meet the requirement of their clients. In addition, their AML/CFT (Anti Money Laundering Counter Financing Terrorism) module for users to quickly and accurate encode KYC information for their clients, with an approval function from authorised personnel of the firm.
+VersaFleet Transport Management Software (TMS) automates logistics operations to optimise fleet utilization at any point in time through map-based planning with route optimisation, labelling of jobs based on operators' preferred settings, and mobile app for seamless communication for drivers on the go. 
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Versafleet-Log_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Verlata Consulting Pte. Ltd.<br>https://www.verlata.com/<br>Email: singapore@verlata.com<br>OR daniel.chan@verlata.com<br>Tel: +65 9757 3629
+VersaFleet Pte Ltd<br>https://versafleet.co<br>Email: customers@versafleet.co<br>Tel: +65 9800 3527
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Stendard Solution  Version 1.6.1 - Enterprise
+title: ThinkBook 14s   Next-Gen Collaboration Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution1006
 ---
 
 #### Description
 
-Stendard Solution  is a cloud-based document management system that allows you to easily store, maintain, review and sign-off documents electronically. Published documents are automatically maintained with version controlling, enabling access to the latest version of documents at all time. With our workflow module, you can easily create, customise and simply tailor a fool-proof to-do list for your teams and everyone involved in any project. We put quality at the centre of your business.
+Lenovo s Next-Gen Collaboration Solution Laptop Bundle provides  business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Lenovo-Laptop_Bundle-Annex%203_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:YNL 360 Pte Ltd <br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io <br>
+Company Name: Lenovo Singapore Pte Ltd <br>Web URL: https://www.lenovo.com/sg/en <br>Contact Hotline:68271000 <br>Contact Email: rchow1@lenovo.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

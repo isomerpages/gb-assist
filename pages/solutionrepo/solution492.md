@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Innocom Technologies Office 365 Enterprise3
+title: COVID-19 Support Innocom Technologies Laptop Bundle Microsoft 365 Business Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution492
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication
+Innocom Technologies laptop bundle includes a Business Enterprise laptop  with the latest Intel Core i5 processor, Microsoft Office 365 Standard, Microsoft Office Apps and Teams for online meeting, Anti-virus software, 1 year Next Business Day Hardware onsite support and HDD retention.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_INNOCOM_Microsoft_365_Annex_3_CR_wef_7_August_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_INNOCOM_Microsoft_365_Annex_3_CR_wef_7_August_2020' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

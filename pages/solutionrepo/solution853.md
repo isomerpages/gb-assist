@@ -1,11 +1,11 @@
 ---
-title: TessaCloud - Package (Up to 5 users)
+title: Tessaract.io - Package (Up to 12 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution853
 ---
 
 #### Description
 
-TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
+Tessaract.io is an AI empowered Practice Management System designed for the modern law firm. It ensures that there is no duplication between teams and clients and provide real-time update on the work status for all the stakeholders. OCR capability is automated on every information to ensure the search for information is comprehensive. Its integration with AML Search Database further streamline the user navigation and strength search capability or information within the solution. 
 
 #### Details of Solution
 

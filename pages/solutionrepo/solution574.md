@@ -1,11 +1,11 @@
 ---
-title: Human Resource Shared Services (HRSS) - Basic Package 4 (151 to 200 staff)
+title: RetailPlan Version 4.0 - Package (Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution574
 ---
 
 #### Description
 
-Lee Wenyong & Co. performs HR needs analysis by reviewing the SME client's internal HR processes to determine HR services that can be best outsourced. Besides, they provide HR Administrative support and payroll processing via a HRMS including employee data storage, attendance and leave, payroll and claims modules.
+RetailPlan provides a complete real-time overview of retail operations with centralised control for better connectivity with various business functions. Transactions are captured and analysed on real-time basis to facilitate more informed business decision. 
 
 
 
@@ -13,7 +13,7 @@ Lee Wenyong & Co. performs HR needs analysis by reviewing the SME client's inter
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Lee_Wenyong_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Levelfive_Annex_3_CR_wef_15Nov2019_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -38,6 +38,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Lee Wenyong & Co. Holdings Pte.. Ltd.<br>www.leewenyong.com<br>Email: me@leewenyong.com<br>Tel: +65 6988 6999
+Levelfive Pte Ltd<br>http://lfsolutions.net/<br>Email: shawn@lfSolutions.net<br>Tel: +65 6341 7144 / +65 9222 9272
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

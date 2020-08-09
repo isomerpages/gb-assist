@@ -1,11 +1,11 @@
 ---
-title: Electric reach truck
+title: Engine/Electric- powered forklift
 permalink: /productivity-solutions-grant/solutionrepo/solution274
 ---
 
 #### Description
 
-Reach truck with load capacity ranging from 1.2 ton to 2.5 ton, that is able to reach loads located high up in racks, with only one operator.
+Forklift with load capacity from 1.5 ton to 10 ton, that is able to lift, move and/or stack materials, with only one operator.
 
 #### Details of Solution
 
@@ -31,10 +31,10 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 N.A. for non-SMEs
 
 #### Things to Note
-Specifications:
+Specifications
 Only applicable for licensed cleaning, waste management and pest management companies
 
-Grant cap: Up to S$32,000 per unit
+Grant cap: Up to S$96,000 per unit
 
 #### Contact Information
 N.A.

@@ -1,5 +1,5 @@
 ---
-title: PayAdvisorMobile@HRM Version 3 - Package (Tier 1 - 25 user)
+title: PayAdvisorMobile@HRM Version 3 - Package (Tier 2 - 50 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution264
 ---
 
@@ -10,7 +10,7 @@ PayAdvisorMobile @HRM PayAdvisorMobile , a Mobile Workforce Management Software-
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Capps_Solutions_PayAdvisorMobile_HRM 20200040_Annex_3_20200625143624_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Capps_Solutions_PayAdvisorMobile_HRM 20200040_Annex_3_20200625143624_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

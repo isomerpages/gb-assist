@@ -1,15 +1,21 @@
 ---
-title: CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Multi Edition)
+title: cuteTrac Version 2 - Package (1 Vehicle)
 permalink: /productivity-solutions-grant/solutionrepo/solution328
 ---
 
 #### Description
 
-Cadstudio is a comprehensive enterprise resource planning (ERP) software made up of an integrated suite of business modules, including customer relationship management (CRM), e-commerce, accounting, billing, inventory management, project management, warehouse management, financial management, manufacturing and purchasing. These modules aim to achieve efficiency for enterprise by establishing seamless communication with each other.
+cuteTrac is an advanced vehicle tracking solution that helps to manage fleet operations in an efficient manner. It increases the productivity and results in tremendous cost savings.
+
+
+
+
+
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +30,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SME <br>
@@ -34,6 +40,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Ctrl Alt Del Pte Ltd<br>www.cad.sg<br>Email: business@cad.sg<br>Tel: +65 9859 7714
+Cutech Infocomm Solutions Pte Ltd<br>www.cutechgroup.com/it<br>Email: jnaveen@cutechgroup.com / enquiry@cutechgroup.com<br>Tel: +65 6904 2340 / +65 6665 0187
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,19 @@
 ---
-title: COVID-19 Sectorial Support Pencil Learning Platform Version 2.6.0 - Package (351 to 500 Users)
+title: Human Resource Shared Services (HRSS) - Basic Package 1 (1 to 50 staff)
 permalink: /productivity-solutions-grant/solutionrepo/solution570
 ---
 
 #### Description
 
-A learning and collaboration platform for delivery of digital content, administering courses, discussions and assessment. It is built on a responsive front-end design framework providing an optimal viewing experience across different types of devices.
+Lee Wenyong & Co. performs HR needs analysis by reviewing the SME client's internal HR processes to determine HR services that can be best outsourced. Besides, they provide HR Administrative support and payroll processing via a HRMS including employee data storage, attendance and leave, payroll and claims modules.
+
+
+
+
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Lee_Wenyong_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Kydon Learning Systems Institute Pte Ltd<br>https://onpencil.io/<br>Email: KLSG.sales@kydonlsg.com<br>Tel: +65 6354 4811
+Lee Wenyong & Co. Holdings Pte.. Ltd.<br>www.leewenyong.com<br>Email: me@leewenyong.com<br>Tel: +65 6988 6999
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

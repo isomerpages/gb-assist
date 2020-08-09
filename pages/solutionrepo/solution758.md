@@ -1,16 +1,18 @@
 ---
-title: COVID-19 Support Rubify Online Collaboration Software - Lark Enterprise Package
+title: Infusionsoft CRM - Package (Infusionsoft for SME - Single User)
 permalink: /productivity-solutions-grant/solutionrepo/solution758
 ---
 
 #### Description
 
-Rubify Technology Pte. Ltd.'s Lark Collaboration offering includes features such as calendar, file sharing, video conferencing, instant messaging, app integrations and digital workflow management.
+Infusionsoft CRM is an all-in-one CRM solution that turns a static database into an automated prospect and customer engagement tool. The basic functions also come with mobile responsive in solution email templates and landing page builder. Easily integrate this to company's website and other systems with open API and plugins. It is used by more than 45,000 businesses world-wide, and supported by more than 140 third-party apps. 
+
+
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rubify_Remote Working_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Scale_Up_Marketing_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +27,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SME <br>
@@ -35,6 +37,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Rubify Technology Pte Ltd<br>https://rubify.com/home/smegodigital<br>Email: nicholas@rubify.com<br>Tel: +65 9002 5517
+Scale Up Marketing Pte Ltd<br>https://scaleupmarketing.asia/?utm_source=techdepot<br>Email: brendanyong@scaleupmarketing.asia<br>Tel: +65 9005 6164
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

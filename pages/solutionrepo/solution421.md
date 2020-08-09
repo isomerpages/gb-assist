@@ -1,5 +1,5 @@
 ---
-title: iREP Workforce Management System Version 2 - Package (Comprehensive)
+title: iREP Workforce Management System Version 2 - Package (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution421
 ---
 
@@ -7,9 +7,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution421
 
 iREP Workforce Management System is a mobile reporting, maintenance tracking and monitoring system which allows all the service aspects to be integrated using mobility from planning, development and delivery of services either to the organisation itself or to third parties.  Within the service framework in this application, it allows mobile reporting, maintenance tracking and monitoring work progress to meet quality standards.
 
+
+
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gakotech_ES_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gakotech_ES_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

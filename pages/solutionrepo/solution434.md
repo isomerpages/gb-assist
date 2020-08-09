@@ -1,24 +1,17 @@
 ---
-title: Getz F&B Integrated Instore and Online Transformation Version 2 - Package C (Instore Transformation Only - 2 Mods)
+title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2 - Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)
 permalink: /productivity-solutions-grant/solutionrepo/solution434
 ---
 
 #### Description
 
-"Instant cost savings (up to 80%) and sales growth (up to 50%) platform for all F&Bs (Quick Service, Full Service, Kiosk, Catering) across in-store and out-of-store channels.
+Getz solution is a fully integrated platform that comprehensively resolves F&B s real critical pains in the front-of-house and back-of-house. It is tailored to handle F&B s fast moving, dynamic ordering and fulfilment processes in-store and out-of-store 
 
-Full Integrated solution that can also be used individually without changing POS:
-1) In-store Self-ordering and Reservation
-2) Out-of-store Advance Takeaway
-3) Out-of-store Island-wide Delivery
-4) Integrated Membership Solution (All Channels)
-5) Integrated Payment Solution (All Channels)
-6) Integrated POS System"
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Getz_Group_20200108_Annex_3_20200625144748_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -33,7 +26,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Payment
 
 #### Support Level
 80% for SME <br>
@@ -43,6 +36,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Getz Group Pte Ltd<br>http://www.getz.co/<br>Email: hello@getz.co<br>Tel: +65 9021 5961
+Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: 90215961<br>Contact Email: hello@getz.co
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

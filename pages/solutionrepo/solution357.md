@@ -1,15 +1,16 @@
 ---
-title: Deskera HRMS Version 9.0 - Package E (HRMS - 80 Users)
+title: Deskera ERP Version 9.0/10.1 - Package A (SaaS - 3 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution357
 ---
 
 #### Description
 
-Deskera HRMS is a comprehensive HRMS solution which includes payroll management, performance appraisal, statutory compliance, recruitment management, timesheet management and others. The solution also comes with e-Leave and e-Claim features which allows a complete view of employees' leaves, attendance and claims submission details. 
+Deskera ERP is an easy-to-use software that facilitates the recording and processing of all financial transactions via integrated solution.
+From invoices to books, POS to receipts, customer and vendor management to customizable financial reports, Deskera ERP provides a quick and efficient way to manage companies' accounts processes.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Deskera_HRMS_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SME <br>

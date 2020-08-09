@@ -1,16 +1,18 @@
 ---
-title: Frontier e-HR Version 8 - AutomateHR eFrontierPlus 200 + Learning
+title: iREP Security System Version 3 - Package (Mobile Patrol & Incident Management with 10 Body Worn Camera)
 permalink: /productivity-solutions-grant/solutionrepo/solution412
 ---
 
 #### Description
 
-Frontier e-HR is a user friendly cloud based Human Resource Management System ( HRMS ) with robust functionality, scalable architecture and seamless integration between each module. The system enhances the users experience through an intuitive, simple and effective user interface. Through a single application, single database deployment, users are empowered to perform self-service functions with Frontier e-HR  anytime, anywhere.
+iREP Security is a mobile reporting, maintenance tracking and monitoring system which use GPS trackers and Live Image Captures to enable investigating officers and guards to write incident reports on sites, take attendance of guards and managing visitor visiting the premises.
+
+
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gabkotech_MnP_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +27,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SME <br>
@@ -35,6 +37,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Frontier e-HR Pte Ltd<br>https://www.frontier-ehr.com/<br>Email: enquiry@frontier-ehr.com<br>Tel: +65 6391 0921
+Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkotech.com<br>Tel: +65 6684 4419
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: RetailPlan Version 4.0 - Package (Standard)
+title: RetailPlan Version 4.0 - Package (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution575
 ---
 
@@ -13,7 +13,7 @@ RetailPlan provides a complete real-time overview of retail operations with cent
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Levelfive_Annex_3_CR_wef_15Nov2019_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Levelfive_Annex_3_CR_wef_15Nov2019_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

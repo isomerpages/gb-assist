@@ -1,5 +1,5 @@
 ---
-title: Infusionsoft CRM - Package (Infusionsoft for SME - 3 Users)
+title: Infusionsoft CRM - Package (Infusionsoft for SME - 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution760
 ---
 
@@ -12,7 +12,7 @@ Infusionsoft CRM is an all-in-one CRM solution that turns a static database into
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Scale_Up_Marketing_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Scale_Up_Marketing_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

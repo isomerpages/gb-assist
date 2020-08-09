@@ -1,19 +1,15 @@
 ---
-title: EPOS Enhanced POS Version 2 - Package (Enhanced POS All In 1 with Smart Inventory Management and Accounting Integration)
+title: Eurostop EPOS and E-retail Inventory Management Version 10 - Package A (EPOS and Retail Inventory System)
 permalink: /productivity-solutions-grant/solutionrepo/solution399
 ---
 
 #### Description
 
-EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, customer management, inventory management and provide detailed sales, customer and product data and analysis. It reduces human error and improve accuracy in sales invoicing and stock deduction.
-
-
-
-
+Eurostop Provides a full and complete retail POS solution to enable our retail customers to better manage their day to day retail process workflow to all their outlets and warehouses. The system provides a full set of sales transaction that consists of the sales and payment mode information, and attaches members and sales persons to the transaction. This allows the retailer to view and analyze their customer spending behaviours, product sales performance and stock inventory level.
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Eurostop_Singapore_20190001_Annex_3_20200625150732_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -38,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-EPOS Pte. Ltd.<br>http://www.epos.com.sg<br>Email: sales@epos.com.sg<br>Tel: +65 6871 8833 / +65 8482 1888
+Eurostop Singapore Pte Ltd<br>https://www.eurostop.com/<br>Email: sgsales@eurostop.com<br>Tel: +65 6561 1411
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,16 @@
 ---
-title: Rockbell Human Resource Management System Version 3 - Package (5 users - unlimited employees)
+title: Million Accounting and Stock Control System Version 3 - Package (1 User with Peppol Ready Web-based Access)
 permalink: /productivity-solutions-grant/solutionrepo/solution750
 ---
 
 #### Description
 
-The solution streamlines HR processes by integrating with Payroll and is able to add on E-Leave, E-Claim, E-Documentation modules for a holistic system. Automation of personnel tracking enables SMEs to better track and manage staff attendance, which minimises the chance of miscalculation and unnecessary disputes. Its attendance feature enables SMEs to capture real-time work progress efficiently for better management of manpower deployment and utilisation for multiple sites.   
+Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports. Million Accounting supports Multi-Company and Multi-Currency and has four modules : Accounting, Stock, Invoicing and Payroll.
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell_HRS_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell-Million_Annex_3_CR_wef_13April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

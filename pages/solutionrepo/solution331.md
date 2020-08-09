@@ -1,5 +1,5 @@
 ---
-title: cuteTrac Version 2 - Package (8 Vehicles)
+title: cuteTrac Version 2 - Package (13 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution331
 ---
 
@@ -14,7 +14,7 @@ cuteTrac is an advanced vehicle tracking solution that helps to manage fleet ope
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

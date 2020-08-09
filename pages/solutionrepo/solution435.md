@@ -1,5 +1,5 @@
 ---
-title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2 - Package A (Contactless Dine-in, Pickup, Islandwide Delivery, CRM Transformation - 4 Mods)
+title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2 - Package B (Contactless Pickup, Islandwide Delivery, CRM Transformation - 3 Mods)
 permalink: /productivity-solutions-grant/solutionrepo/solution435
 ---
 

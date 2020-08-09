@@ -1,5 +1,5 @@
 ---
-title: HReasily Version 5 - Package (Face Recognition 20 employees)
+title: HReasily Version 5 - Package (Mix-n-match 20 employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution451
 ---
 

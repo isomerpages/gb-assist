@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Sectorial Support Doctor World  Platform Version 2 - Doctor World Pro
+title: DST RFID Inventory System Version 1.2
 permalink: /productivity-solutions-grant/solutionrepo/solution366
 ---
 
 #### Description
 
-Doctor World is an integrated digital platform connecting patients with a trusted network of medical providers and services. It allows doctors to provide 24/7 teleconsultation services to dispense care via video-call and includes 24/7 islandwide delivery of medication to patients. Doctor World also comes with a digital queue system for physical clinic visits, an appointment-booking system, a health store and home care services.
-
+DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android App) to scan passive RFID tags attached onto Inbound and Outbound items for tracking and inventory stock take. The solution is used mainly for tracking of high value items such as Jewellery, Wines, Furniture, Laptops etc. by Rental, Movers and Event Companies.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Doctor_World_Annex_3_CR_wef_27_April2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/DST_Annex 3_CR_wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Doctor World Pte Ltd<br>www.doctorworld.co<br>Email: contact@doctorworld.co<br>Tel: +65 9139 2066
+DST Advertising (Singapore) Pte Ltd<br>http://DSTadvertising.com<br>Email: Sales@dstadvertising.com<br>Tel: +65 8668 5292
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

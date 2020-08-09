@@ -1,5 +1,5 @@
 ---
-title: ABSS Premier Accounting & Sales Management Software (Support API) Version 23 - Package D with E-Invoicing & Training (3 Users)
+title: ABSS Premier Accounting & Sales Management Software (Support API) Version 23 - Package E with E-Invoicing, Remote Access & Training(3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution371
 ---
 
@@ -10,7 +10,7 @@ ABSS Premier is an Accounting & Sales Management Software that is fully integrat
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/E-Click_Solutions_20200033_Annex_3_20200625144550_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/E-Click_Solutions_20200033_Annex_3_20200625144550_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

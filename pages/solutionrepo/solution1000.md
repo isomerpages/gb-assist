@@ -1,5 +1,5 @@
 ---
-title: Dropbox Business - Dropbox Business 5 Users
+title: Dropbox Business - Dropbox Business 10 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution1000
 ---
 
@@ -9,7 +9,7 @@ Dropbox is a file storage solution known to many individuals, but the business e
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Hubble Safety Management System - Package (Up to 2 Projects)
+title: Hubble Safety Management System - Package (Up to 3 Projects)
 permalink: /productivity-solutions-grant/solutionrepo/solution463
 ---
 
@@ -9,7 +9,7 @@ Hubble Safety Management System helps you manage and monitor the safety of your 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

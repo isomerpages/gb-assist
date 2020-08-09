@@ -1,5 +1,5 @@
 ---
-title: Deskera ERP Version 9.0/10.1 - Package A (SaaS - 3 users)
+title: Deskera ERP Version 9.0/10.1- Package B (SaaS - 5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution358
 ---
 
@@ -10,7 +10,7 @@ From invoices to books, POS to receipts, customer and vendor management to custo
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

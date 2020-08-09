@@ -1,5 +1,5 @@
 ---
-title: SecureAPlus Version 6.x - (60 Pax)
+title: SecureAPlus Version 6.x - (20 Pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution763
 ---
 
@@ -10,7 +10,7 @@ SecureAPlus is an endpoint protection solution that uses the right combination o
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -32,7 +32,7 @@ Subscription / Leasing
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710

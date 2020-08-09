@@ -1,5 +1,5 @@
 ---
-title: Carbonate HR Version 1.0 - Package (Power 50)
+title: Carbonate HR Version 1.0 - Package (Power 100)
 permalink: /productivity-solutions-grant/solutionrepo/solution282
 ---
 
@@ -9,7 +9,7 @@ Carbonate HR is a web and mobile application based HR management system that foc
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Carbonate_Annex 3_CR_wef_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Carbonate_Annex 3_CR_wef_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

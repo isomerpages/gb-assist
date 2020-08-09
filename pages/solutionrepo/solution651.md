@@ -1,5 +1,5 @@
 ---
-title: NMTODOO - ERP  - Package Basic
+title: NMTODOO - ERP  - Package Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution651
 ---
 
@@ -10,7 +10,7 @@ NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Ma
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Neu_Media_Technology_LLP_20200127_Annex_3_20200625143944_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Neu_Media_Technology_LLP_20200127_Annex_3_20200625143944_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

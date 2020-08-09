@@ -1,15 +1,16 @@
 ---
-title: Eurostop EPOS and E-retail Inventory Management Version 10 - Package A (EPOS and Retail Inventory System)
+title: FacilityBot - Small Facilities
 permalink: /productivity-solutions-grant/solutionrepo/solution400
 ---
 
 #### Description
 
-Eurostop Provides a full and complete retail POS solution to enable our retail customers to better manage their day to day retail process workflow to all their outlets and warehouses. The system provides a full set of sales transaction that consists of the sales and payment mode information, and attaches members and sales persons to the transaction. This allows the retailer to view and analyze their customer spending behaviours, product sales performance and stock inventory level.
+FacilityBot is the first-to-market omni-channel AI-powered facilities management chatbot offered as a Software-as-a-Service (SaaS). FacilityBot is friendly, flexible and feature-packed. FacilityBot's features include fault reporting, preventive maintenance, asset tracking, custom service requests, expenditures, response time tracking, data analytics, facilities booking, surveys, broadcasts and automated responses to FAQs. FacilityBot has been deployed in over 500,000 sqm of space in Singapore.
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Eurostop_Singapore_20190001_Annex_3_20200625150732_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,16 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Eurostop Singapore Pte Ltd<br>https://www.eurostop.com/<br>Email: sgsales@eurostop.com<br>Tel: +65 6561 1411
+FacilityBot Pte Ltd<br>http://facilitybot.co<br>Email: sales@facilitybot.co<br>Tel: +65 9748 0484
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

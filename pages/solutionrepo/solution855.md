@@ -1,5 +1,5 @@
 ---
-title: Tessaract.io - Package (Up to 20 users)
+title: Tessaract.io - Package (Up to 30 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution855
 ---
 

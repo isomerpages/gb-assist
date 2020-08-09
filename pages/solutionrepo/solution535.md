@@ -1,5 +1,5 @@
 ---
-title: (SaaS) JustLogin HR Cloud - A (Up to 15 pax)
+title: (SaaS) JustLogin HR Cloud - B (Up to 50 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution535
 ---
 
@@ -7,9 +7,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution535
 
 For happy HR, bosses and employees, you want a platform that can help your team remain productive and focused, while providing excellent employee experiences that impresses and retains talent. JustLogin is the HR employee experience platform that delivers both through a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Bring the employee experience anywhere, with JustLogin mobile application.
 
+
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

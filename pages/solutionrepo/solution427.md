@@ -1,5 +1,5 @@
 ---
-title: VEON@Experience Version 1.0 - Package A (VEON Basic (no hardware))
+title: VEON@Experience Version 1.0 - Package B (VEON Basic (+ hardware))
 permalink: /productivity-solutions-grant/solutionrepo/solution427
 ---
 
@@ -8,9 +8,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution427
 "VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. 
 Designed for the next-generation salons, VEON@Experience is extremely visual and easy-to-use for ordinary people like you and me. You can use it anytime, anywhere, on any internet-enabled touch screen devices on demand."
 
+
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

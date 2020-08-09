@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Nanyang Tech - Package A (Microsoft 365 Business Standard)
+title: COVID-19 Support Nanyang Tech - Package B (Microsoft 365 Business Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution633
 ---
 

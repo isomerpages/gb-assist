@@ -1,16 +1,16 @@
 ---
-title: ONE LOGON - ONE LOGistics Online - Package 4 (iTMS On-Premise)
+title: COVID-19 Sectorial Support Pencil Learning Platform Version 2.6.0 - Package (30 to 50 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution550
 ---
 
 #### Description
 
-ONE LOGON is an integrated Supply Chain & Logistics software solution comprises of Warehouse Management, Transport Management, Freight Management, Container Management modules.
-KEYfields leverages on technology, developing IT solutions that are versatile and cost effective. The solutions can easily integrate into and across other business centric modules. In addition, they can be deployed independently to cater to different business needs.
+A learning and collaboration platform for delivery of digital content, administering courses, discussions and assessment. It is built on a responsive front-end design framework providing an optimal viewing experience across different types of devices.
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/KEYfields_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Kydon_LMS_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-KEYfields Pte. Ltd.<br>www.keyfields.com<br>Email: kenny@keyfields.com<br>Tel: +65 6842 7886
+Kydon Learning Systems Institute Pte Ltd<br>https://onpencil.io/<br>Email: KLSG.sales@kydonlsg.com<br>Tel: +65 6354 4811
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

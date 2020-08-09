@@ -1,16 +1,15 @@
 ---
-title: Flavor CRM Version 1 - Expert Mode 1
+title: SoloTracking3G for ES Sector Version 2 - Package (with 3G)
 permalink: /productivity-solutions-grant/solutionrepo/solution822
 ---
 
 #### Description
 
-Flavor CRM is a robust solution for keeping tracking of leads, conversion and managing experience of your customers. Our platform has been designed EdTech Businesses and can be used by any organisation in training business.
-
+SoloTracking3G offers advanced fleet management through mobilization to daily operations. The solution's features include real-time tracking of location of fleet, fuel & mileage consumption, dynamic routing and planning, notification alert with geo-fencing in placed to ensure vehicles are within defined areas and over speed detection of vehicles in event of speeding. Its interoperability capability with 3rd party smart bin/compactor related solutions is provided in the software for ES Sector.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Sodainmind_20200054_Annex_3_20200625144703_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Solo_Pte_Ltd-ES_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -32,9 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Sodainmind Pte Ltd<br>www.sodainmind.com<br>Email: info@sodainmind.com<br>Tel: +65 6679 1003
+Solo Pte Ltd<br>www.solo.com.sg<br>Email: sales@solo.com.sg<br>Tel: +65 9829 7360
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

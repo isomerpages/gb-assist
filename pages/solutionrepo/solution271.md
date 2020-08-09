@@ -1,19 +1,11 @@
 ---
-title: Digital Welding Equipment for Steel Plates - Metal Gas Metal Arc Welding (GMAW) and Flux-cored Arc Welding (FCAW)
+title: Engine/Electric- powered forklift
 permalink: /productivity-solutions-grant/solutionrepo/solution271
 ---
 
 #### Description
 
-Complete set consists of digital welding machine and production management software:
-- Perform GMAW and FCAW welding
-- Compute real-time output of voltage, reducing manual recording and computing
-- Monitor multiple weld stations to ensure compliance 
-- Data logging to track welders' performance/productivity
-- Monitor power consumption and consumables
-- User can pre-set welding parameters and optimise voltage applied
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Forklift with load capacity from 1.5 ton to 10 ton, that is able to lift, move and/or stack materials, with only one operator.
 
 #### Details of Solution
 
@@ -32,23 +24,17 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
 80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to Power: 3 Phase AC 380V?15% V50-60 Hz input
-- GMAW (MIG/MAG) and FCAW
-- Voltage Adjusting Range: 15 to min. 45V
--Current Adjusting Range: 30-500A
-- Wire Feed Speed: 2-25m/min
-- Include GMAW/FCAW welding set, Air-cooled MIG/MAG torch 3m, Earth cable with clamps/connectors, 10m welding harness, Wireless control box, Wire feeder, software license
-- Min. IP21S
+Specifications
+Only applicable for licensed cleaning, waste management and pest management companies
 
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-No change in vendor allowed
+Grant cap: Up to S$96,000 per unit
 
 #### Contact Information
 N.A.

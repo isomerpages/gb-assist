@@ -1,17 +1,15 @@
 ---
-title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformation Version 2 - Package B (Contactless Pickup, Islandwide Delivery, CRM Transformation - 3 Mods)
+title: Microsoft Dynamics 365 Business Central (NAV) Version 16 - Package A (Ready To Go 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution436
 ---
 
 #### Description
 
-Getz solution is a fully integrated platform that comprehensively resolves F&B s real critical pains in the front-of-house and back-of-house. It is tailored to handle F&B s fast moving, dynamic ordering and fulfilment processes in-store and out-of-store 
-
-
+Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabilities that works together seamlessly across financials, sales, operations and customer service on a cloud platform. As an end-to-end application, this solution connects people and processes and is recommended for small and medium-sized organizations with up to a few hundred users. Business Central is a quick to implement, simple-to-use business solution with the power to support your business ambitions.
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Globalsoft_Solutions_20200096_Annex_3_20200625144321_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -26,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Payment
+Direct Purchase
 
 #### Support Level
 80% for SME <br>
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: 90215961<br>Contact Email: hello@getz.co
+Globalsoft Solutions Pte Ltd<br>www.mng-solutions.com<br>Email: enquiries@mng-solutions.com<br>Tel: +65 6570 5012
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

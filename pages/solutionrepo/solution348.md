@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Android POS - MyRetailer Android Pos Standalone ( Package A)
+title: MyRetailer Android POS - MyRetailer Android Pos with Dashboard ( Package B)
 permalink: /productivity-solutions-grant/solutionrepo/solution348
 ---
 

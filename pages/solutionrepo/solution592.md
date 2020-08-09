@@ -1,15 +1,16 @@
 ---
-title: COVID-19 Support M1 Cisco Webex Meeting Service
+title: COVID-19 Support M1 - Microsoft 365 - Package (Business Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution592
 ---
 
 #### Description
 
-Cisco Webex Meeting is a feature-rich solution that allows for collaborative meetings and supports multiple mobile devices, including iPhone, iPad, Apple Watch, Android and Android wearables. Meetings can be recorded, edited and playback. Webex has started trials in Mar 2020 to use AI to provide for a digital in-meeting assistant that handles transcripts, note taking and highlights, freeing the participants to fully focus on the meeting.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication.
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/M1-CiscoWebex_Annex_3_CR_Wef_21_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

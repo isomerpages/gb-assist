@@ -1,5 +1,5 @@
 ---
-title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)
+title: EPOS Enhanced POS Version 2 - Package (Enhanced POS All In 1 with Smart Inventory Management and Accounting Integration)
 permalink: /productivity-solutions-grant/solutionrepo/solution398
 ---
 

@@ -1,11 +1,11 @@
 ---
-title: Electric reach truck
+title: Industrial Steam Cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution277
 ---
 
 #### Description
 
-Reach truck with load capacity ranging from 1.2 ton to 2.5 ton, that is able to reach loads located high up in racks, with only one operator.
+The industrial steam cleaner comes with powerful steam pressure for continuously cleaning of dirt removal and grease cleaning easily. Besides cleaning, it can performs disinfection such as killing pathogens and bacteria. The equipment is an eco-friendly way of cleaning through steam pressure without any use of chemicals and not harmful to the user or the environment.
 
 #### Details of Solution
 
@@ -27,14 +27,17 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-80% for SME <br>
+60% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Specifications:
-Only applicable for licensed cleaning, waste management and pest management companies
+Specifications
+The industrial steam cleaner should have at least 
+-	Steam pressure > 1 bar/120 degree Celsius
+-	Tank capacity > 1 litre
+ 
 
-Grant cap: Up to S$32,000 per unit
+Grant cap: Up to S$6,000 per unit
 
 #### Contact Information
 N.A.

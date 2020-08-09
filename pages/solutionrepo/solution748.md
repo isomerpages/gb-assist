@@ -1,5 +1,5 @@
 ---
-title: Rockbell Human Resource Management System Version 3 - Package (1 user - unlimited employees)
+title: Rockbell Human Resource Management System Version 3 - Package (3 users - unlimited employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution748
 ---
 
@@ -9,7 +9,7 @@ The solution streamlines HR processes by integrating with Payroll and is able to
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell_HRS_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell_HRS_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

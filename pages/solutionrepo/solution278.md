@@ -1,15 +1,15 @@
 ---
-title: Industrial Steam Cleaner
+title: InSight QSE - Insight  QSE Safety PTW System (Starter)
 permalink: /productivity-solutions-grant/solutionrepo/solution278
 ---
 
 #### Description
 
-The industrial steam cleaner comes with powerful steam pressure for continuously cleaning of dirt removal and grease cleaning easily. Besides cleaning, it can performs disinfection such as killing pathogens and bacteria. The equipment is an eco-friendly way of cleaning through steam pressure without any use of chemicals and not harmful to the user or the environment.
+Insight QSE Safety PTW System alleviates the current paper-based method of routing PTWs for approvals which is time-consuming and an administrative headache to store all paper-based PTWs properly for accountability and checks. The System will help to establish Control, Coordination and Communication for PTW applications among the participating stakeholders through both web and mobile application.
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,22 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Subscription / Leasing
 
 #### Support Level
-60% for SME <br>
+80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Specifications
-The industrial steam cleaner should have at least 
--	Steam pressure > 1 bar/120 degree Celsius
--	Tank capacity > 1 litre
- 
-
-Grant cap: Up to S$6,000 per unit
+N.A.
 
 #### Contact Information
-N.A.
+Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Tel: +65 6509 0309
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

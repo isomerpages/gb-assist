@@ -1,5 +1,5 @@
 ---
-title: VersaFleet Version 6-L - Package (Classic Package)
+title: VersaFleet Version 6-L - Package (Growth Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution924
 ---
 
@@ -9,7 +9,7 @@ VersaFleet Transport Management Software (TMS) automates logistics operations to
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Versafleet-Log_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Versafleet-Log_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

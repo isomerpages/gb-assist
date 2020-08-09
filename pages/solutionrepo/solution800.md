@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Singtel ONEOffice Package (G Suite Basic)
+title: COVID-19 Support Singtel ONEOffice Unlimited Package (G Suite Business)
 permalink: /productivity-solutions-grant/solutionrepo/solution800
 ---
 
@@ -7,12 +7,11 @@ permalink: /productivity-solutions-grant/solutionrepo/solution800
 
 "ONEOffice (powered by Google G-suite)
 ONEOffice is a suite of web-based office solutions that offers  a suite of productivity and collaboration tools. In additional to the standard Google Suites (email, calendar, document, sites & drive, hougouts), ONEOffice include value added services such as; Sending SMS through email box (Pay per use service), Fax through email box (Pay per use service) and customize email signatures across the organisation.
-"
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Singtel-G-Suite_Annex_3_CR_wef21April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Singtel-G-Suite_Annex_3_CR_wef21April2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,15 +1,18 @@
 ---
-title: Autocount Accounting 2.0 - Package (Premium - 3 Users)
+title: Creative Eshop - Package (Lite)
 permalink: /productivity-solutions-grant/solutionrepo/solution318
 ---
 
 #### Description
 
-Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledge of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs.
+Creative eShop is e-commerce platform which enable users to manage their online content, business transaction, marketing outreach to potential customers with optimal shopping experience. Equipped with a user friendly interface, user can easily utilise the platform without much IT knowledge.
+
+
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Creative_eWorld_Autocount_Annex 3_CR_wef26Jun2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Creative_eWorld_Retail_EShop_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

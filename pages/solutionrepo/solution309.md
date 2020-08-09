@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Concorde Automated Temperature Screening Solution - Package A (1 Unit)
+title: COVID-19 Support Concorde Automated Temperature Screening Solution - Package B (2 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution309
 ---
 

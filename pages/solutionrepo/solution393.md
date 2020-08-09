@@ -1,5 +1,5 @@
 ---
-title: Epoint Version 9 - Package (eMenu - Advance+ For Single Outlet)
+title: Epoint Version 9 - Package (eKiosk - Pro For Single Outlet)
 permalink: /productivity-solutions-grant/solutionrepo/solution393
 ---
 
@@ -11,9 +11,10 @@ Epoint mobility ordering POS provides a full spectrum of solutioning for Food an
 
 
 
+
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Epoint_Systems_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Epoint_Systems_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

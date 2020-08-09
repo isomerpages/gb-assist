@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Nanyang Tech - Package B (Microsoft 365 Business Premium)
+title: COVID-19 Support Nanyang Tech - Package C (Office 365 Enterprise E3)
 permalink: /productivity-solutions-grant/solutionrepo/solution634
 ---
 

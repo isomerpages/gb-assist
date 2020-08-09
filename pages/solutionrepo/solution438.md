@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central (NAV) Version 16 - Package B (Level Up 5 Users)
+title: Microsoft Dynamics 365 Business Central (NAV) Version 16 - Package C (Premium 10 Users with Peppol)
 permalink: /productivity-solutions-grant/solutionrepo/solution438
 ---
 
@@ -9,7 +9,7 @@ Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabil
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Globalsoft_Solutions_20200096_Annex_3_20200625144321_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Globalsoft_Solutions_20200096_Annex_3_20200625144321_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

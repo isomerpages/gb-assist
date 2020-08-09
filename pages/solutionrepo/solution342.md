@@ -1,16 +1,18 @@
 ---
-title: COVID-19 Support Data Connect - Microsoft 365 - Package (Enterprise E5)
+title: SAGE 300 Version 2019/2020 - Sage 300 v2019/2020 - Package (Advanced Edition - 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution342
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication.
+Sage 300 accounting software is widely used by small and medium-sized businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing, retail, e-commerce and robust business intelligence tools to provide real-time key performance indicator (KPI) dashboards.
+
+
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Data_Connect_Office_365_Annex 3_CR_wef12 May_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Databit_20190015_Annex_3_20200625142031_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +37,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Data Connect Technologies Pte Ltd<br>https://d-connect.net/covid-19-support-packages/<br>Email: software@d-connect.net<br>Tel: +65 800 101 4209
+Databit Pte Ltd<br>https://www.databit.com.sg<br>Email: sales@databit.com.sg<br>Tel: +65 9488 4143
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

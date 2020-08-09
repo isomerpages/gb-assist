@@ -1,5 +1,5 @@
 ---
-title: BIM 360 DESIGN - 25 Users Pack Subscription
+title: BIM 360 DESIGN - 2 Users Pack Subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution487
 ---
 
@@ -13,7 +13,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution487
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/INNOCOM_TECHNOLOGIES_20200259_Annex_3_20200625152404_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/INNOCOM_TECHNOLOGIES_20200259_Annex_3_20200625152404_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

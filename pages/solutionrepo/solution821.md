@@ -1,5 +1,5 @@
 ---
-title: Flavor CRM Version 1 - Advanced Mode 3
+title: Flavor CRM Version 1 - Expert Mode 1
 permalink: /productivity-solutions-grant/solutionrepo/solution821
 ---
 
@@ -10,7 +10,7 @@ Flavor CRM is a robust solution for keeping tracking of leads, conversion and ma
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Sodainmind_20200054_Annex_3_20200625144703_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Sodainmind_20200054_Annex_3_20200625144703_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

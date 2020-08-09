@@ -1,13 +1,15 @@
 ---
-title: Automated Dough Filler/Depositor
+title: Automated Oxygen Scavenger Dispenser
 permalink: /productivity-solutions-grant/solutionrepo/solution302
 ---
 
 #### Description
 
-An automatic depositor portions dough, fillings and batters onto moving or stationary lines. Portions will all be of consistent size no matter who operates the machine. 
+Oxygen scavengers work by absorbing the ambient moisture. These scavengers are put into small packets and inserted alongside the packaged product. 
 
-Grant support: 80% of cost of equipment, up to $20,000 grant
+An oxygen scavenger dispenser works by integrating with a production line and automatically inserting these oxygen scavenger packets with each packaged product.
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 #### Details of Solution
 
@@ -34,9 +36,8 @@ N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to quipment must meet the following specifications:
-- Volume of hopper (to hold the dough), divided dough weight and dough dividing capacity can be customised to suit company?s requirement. 
-- Divided dough weight: Between 7gm to 60gm
-- Dough dividing capacity: between 1s to 5s per piece
+- Minimum loading speed of 150 packets per minute
+- Able to insert oxygen scavenger packets of varied sizes
 
 Additional criteria:
 - =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

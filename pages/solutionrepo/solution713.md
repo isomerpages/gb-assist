@@ -1,5 +1,5 @@
 ---
-title: PixelCommerce Version 5.2.5 - AI
+title: PixelCommerce Version 5.2.5 - AI Advanced
 permalink: /productivity-solutions-grant/solutionrepo/solution713
 ---
 
@@ -9,7 +9,7 @@ PixelCommerce is a complete e-Store solution that enables SMEs to boost business
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_PIXEL_MECHANICS_20200277_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_PIXEL_MECHANICS_20200277_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

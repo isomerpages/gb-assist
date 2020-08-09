@@ -1,20 +1,15 @@
 ---
-title: Eber - Smart Membership Solution
+title: ABSS Premier Accounting & Sales Management Software (Support API) Version 23 - Package A with E-Invoicing(1 User)
 permalink: /productivity-solutions-grant/solutionrepo/solution368
 ---
 
 #### Description
 
-Eber Smart Member Solution is a smart member system comes with comprehensive loyalty & rewards system, marketing, gift card and analytic tool. Retailers and brands can easily acquire, reward, engage and understand their customers. There is no card to carry, no app to install, no password to remember.
-
-
-
-
-
+ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Eber_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/E-Click_Solutions_20200033_Annex_3_20200625144550_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -29,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SME <br>
@@ -39,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Eber Pte Ltd<br>www.eber.co<br>Email: godigital@eber.co<br>Tel: +65 3159 0888
+E-Click Solutions<br>www.e-clicksolutions.com/abss-accounting<br>Email: evelyn@e-clicksolutions.com<br>Tel: +65 9792 1964
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

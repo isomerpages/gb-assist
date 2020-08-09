@@ -1,5 +1,5 @@
 ---
-title: ThinkBook 14s   Next-Gen Collaboration Solution
+title: IdeaPad 3   Next-Gen Collaboration Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution1007
 ---
 
@@ -9,7 +9,7 @@ Lenovo s Next-Gen Collaboration Solution Laptop Bundle provides  business-grade 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Lenovo-Laptop_Bundle-Annex%203_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Lenovo-Laptop_Bundle-Annex%203_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS Software Package)
+title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1)
 permalink: /productivity-solutions-grant/solutionrepo/solution395
 ---
 
@@ -13,7 +13,7 @@ EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, c
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/EPOS_Pte._Ltd_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/EPOS_Pte._Ltd_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

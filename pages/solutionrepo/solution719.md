@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support PointStar Remote Workplace Solution Version 1.0 - Business (Google G Suite)
+title: COVID-19 Support PointStar Remote Workplace Solution Version 1.0 - Enterprise (Google G Suite)
 permalink: /productivity-solutions-grant/solutionrepo/solution719
 ---
 
@@ -10,7 +10,7 @@ Google G Suite is a cloud-enabled solution that enables remote collaboration bet
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_PointStar_Remote_Working_Annex3_CR_wef_24_July_2020(mti)_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_PointStar_Remote_Working_Annex3_CR_wef_24_July_2020(mti)_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

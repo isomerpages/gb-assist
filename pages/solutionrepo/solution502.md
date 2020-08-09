@@ -1,5 +1,5 @@
 ---
-title: INTELLLEX - Package (4-6 accounts)
+title: INTELLLEX - Package (7-12 accounts)
 permalink: /productivity-solutions-grant/solutionrepo/solution502
 ---
 

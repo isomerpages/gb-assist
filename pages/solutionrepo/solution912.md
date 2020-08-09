@@ -1,15 +1,15 @@
 ---
-title: V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package E
+title: VeriHUB Version 3.5
 permalink: /productivity-solutions-grant/solutionrepo/solution912
 ---
 
 #### Description
 
-V3Nity WAM for ES offers an integrated solution to weave field workers and schedules into a tightly-functioning and optimized taskforce for day-to-day operations. WAM is a quality management tool for the assignment of daily work routines of environmental services which assist to automate the daily field workers' operational tasks, monitoring of job status, records and reports on work done within the space of internal resources optimization, governmental regulations and compliances requirements.
+VeriHUB V3.5 is a One-stop digital platform for merchants to manage export to China, from products consolidation to managing stock movements across borders. 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Veritag_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Subscription / Leasing
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-V3 Smart Technologies Pte Ltd<br>http://www.v3smarttech.com<br>Email: sales@v3smarttech.com<br>Tel: +65 6488 4176
+VeriTag Pte Ltd<br>www.veritag.com<br>Email: Tech@veritag.com<br>Tel: +65 9667 7677
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

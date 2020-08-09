@@ -1,5 +1,5 @@
 ---
-title: ONE LOGON - ONE LOGistics Online - Package 2 (iWMS On-Premise)
+title: ONE LOGON - ONE LOGistics Online - Package 3 (iTMS SaaS)
 permalink: /productivity-solutions-grant/solutionrepo/solution548
 ---
 
@@ -10,7 +10,7 @@ KEYfields leverages on technology, developing IT solutions that are versatile an
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/KEYfields_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/KEYfields_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SME <br>

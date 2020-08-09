@@ -1,13 +1,13 @@
 ---
-title: Automated Cake Slicer
+title: Automated Dough Filler/Depositor
 permalink: /productivity-solutions-grant/solutionrepo/solution301
 ---
 
 #### Description
 
-Automated cake slicer is capable of cutting a variety of cakes. The machine features product holders and fully automatic product positioning, indexing, and divider insert feeding. Portions will all be of consistent size no matter who operates the machine. 
+An automatic depositor portions dough, fillings and batters onto moving or stationary lines. Portions will all be of consistent size no matter who operates the machine. 
 
-Grant support: 80% of cost of equipment, up to $24,000 grant
+Grant support: 80% of cost of equipment, up to $20,000 grant
 
 #### Details of Solution
 
@@ -34,11 +34,9 @@ N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to quipment must meet the following specifications:
-- Blade cutting or ultrasonic cutting
-- 2 to 24 portions per product
-- Speed: up to 360 cakes per hour
-- Touch panel with memory setup (optional)
-- Easily changed bottom plate (optional)
+- Volume of hopper (to hold the dough), divided dough weight and dough dividing capacity can be customised to suit company?s requirement. 
+- Divided dough weight: Between 7gm to 60gm
+- Dough dividing capacity: between 1s to 5s per piece
 
 Additional criteria:
 - =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

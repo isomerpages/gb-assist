@@ -1,15 +1,15 @@
 ---
-title: Haulio Community System Version 2.0 - Professional
+title: HReasily Version 5 - Package (Premium 100 employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution447
 ---
 
 #### Description
 
-Haulio Community Platform (HCP), with Haulio Connectivity System (HCS) is a Software-as-a-Service (SaaS) solution for container haulage companies, to digitise haulage operations. The System offers Fleet Management, Vehicle Routing & Navigation, Port Messaging, electronic Proof-Of Delivery, instant notifications and real-time job status tracking. The Haulio Community Platform (HCP) ecosystem, providing access to job pool and PSA trucking services.
+HReasily is a cloud-based HR solution that provides end to end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management.  
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Haulio_20200180_Annex_3_20200625150921_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/HR_Easily_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SME <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Haulio Pte Ltd<br>www.haulio.io<br>Email: hello@haulio.io<br>Tel: +65 8508 2327
+HR Easily Pte Ltd<br>https://www.hreasily.com/<br>Email: sharon@hreasily.com<br>Tel: +65 6438 3190
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

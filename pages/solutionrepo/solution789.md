@@ -1,15 +1,15 @@
 ---
-title: Fortigate UTM - Package (FG-80E)
+title: Trend Micro - Package (Apex One - 100 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution789
 ---
 
 #### Description
 
-A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure.  
+A cloud-based endpoint solution which secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks. 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Singtel-Fortigate_UTM_Annex_3-CR2_wef13April2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Singtel-Trend_Micro_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/business/info/psg<br>Contact Hotline: 1800-763-1111<br>Contact Email: g-segmentict@singtel.com
+Singapore Telecommunications Limited<br>www.singtel.com/cyberpsg<br>Contact Email: s-cyberpsg@singtel.com<br>Tel: 1800-SME-1111
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

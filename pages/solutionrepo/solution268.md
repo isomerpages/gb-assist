@@ -1,16 +1,17 @@
 ---
-title: PayAdvisorMobile@HRM Version 3 - Package (Tier 5 - 200 users)
+title: Augmented Reality Welding Training Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution268
 ---
 
 #### Description
 
-PayAdvisorMobile @HRM PayAdvisorMobile , a Mobile Workforce Management Software-As-A-Service on Web and Mobile platforms, which includes Personnel, Time & Attendance, Payroll, Leave, Benefits and Claim and Performance Appraisal Management modules - it is an All - In -One human resource solution.
+This solution uses AR technology to simulate welding processes on test pieces. The learning management and student analysis software provides structured curriculum with stimulated exercises and lab practices while tracking trainees' progress. This solution enables more practice with less time spent in workshop, thus reducing material usage, training preparation time/cost, and exposure to safety/health hazards.
 
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Capps_Solutions_PayAdvisorMobile_HRM 20200040_Annex_3_20200625143624_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -25,16 +26,24 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to  Power: 240V, Single Phase, AC input
+- AR welding mask
+- SMAW/MMA Electrode Holder, FCAW/GMAW/MIG/MAG/GTAW/TIG Torch
+- Lifetime carbon steel base material license
+- V-Butt 6? Pipe, Overlapped/T-Angled/V-Butt Plate, T-Angled 6? Pipe to Plate
+- Includes accessories (Fillet/groove work stand, welding glove, AR electrode, AR TIG rod) and training software
+
+Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+No change in vendor allowed
 
 #### Contact Information
-Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Tel: +65 6509 0309
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

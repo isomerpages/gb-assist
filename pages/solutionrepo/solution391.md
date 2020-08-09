@@ -1,13 +1,13 @@
 ---
-title: Dough Sheeter
+title: Blast Freezer
 permalink: /productivity-solutions-grant/solutionrepo/solution391
 ---
 
 #### Description
 
-Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
+Blast freezers chill food from cooking temperatures ~70 C to about -18 C within 240 min. Prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. 
 
-The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+Rapid freezing with blast freezer prevents formation of large ice crystals associated with normal freezers that reduces shelf life, quality and flavour of frozen food. Food frozen with blast freezer can last longer and tastes better. 
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -36,9 +36,14 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to quipment must meet the following:
+- Minimum of 10 trays 
+- Freezer must be able to go below -18?C
+- Ability to load with a trolley (optional)
+
+Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
 No change in vendor allowed
-The purchase of pre-owned/used equipment is not supportable
 
 #### Contact Information
 N.A.

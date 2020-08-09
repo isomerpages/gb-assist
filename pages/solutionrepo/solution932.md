@@ -1,5 +1,5 @@
 ---
-title: Shopcada Ecommerce and POS - Shopcada Premium  Ecommerce Package
+title: Shopcada Ecommerce and POS - Shopcada Standard  Ecommerce with Emerging Mobile Package
 permalink: /productivity-solutions-grant/solutionrepo/solution932
 ---
 
@@ -9,7 +9,7 @@ Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Webcada_20200035_Annex_3_20200625152216_Part_34.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Webcada_20200035_Annex_3_20200625152216_Part_56.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

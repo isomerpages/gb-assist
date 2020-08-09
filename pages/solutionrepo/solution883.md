@@ -1,15 +1,18 @@
 ---
-title: Times Software HRMS Version 18.0 - Cloud Based Package 5 (up to 200 pax)
+title: Globe3 ERP Version 5.6 - Package (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution883
 ---
 
 #### Description
 
-TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management. 
+Globe3 ERP is a web-based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising finance, supply chain, projects, CRM, and production, which improves organization processes immediately with the enhancements and streamlining of key business processes and reduction in informational and operational bottlenecks. 
+
+
+
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Times_Software_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/TNO_Annex_3_CR_wef_15Nov2019_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +37,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Times Software Pte Ltd<br>https://www.timesoftsg.com.sg/<br>Email: sales@timesoftsg.com.sg<br>Tel: +65 6295 1998
+TNO Systems Pte Ltd<br>www.sg.globe3.com<br>Email: sales@globe3.com<br>Tel: +65 6749 8823
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

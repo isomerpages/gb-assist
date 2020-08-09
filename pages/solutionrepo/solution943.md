@@ -1,5 +1,5 @@
 ---
-title: WhyzeHR Management System Version 12 - Package (25 Standard)
+title: WhyzeHR Management System Version 12 - Package (50 Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution943
 ---
 
@@ -12,7 +12,7 @@ WhyzeHR enables SMEs of all size to keep track of their labour force, forecastin
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Whyze_Solutions_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Whyze_Solutions_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

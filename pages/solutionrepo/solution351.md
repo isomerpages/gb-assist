@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Android POS - MyRetailer Android Pos with Dashboard & Unified Payments (Package D)
+title: MyRetailer Android POS - MyRetailer Android Pos with Unified Payments & Web Store (Package E)
 permalink: /productivity-solutions-grant/solutionrepo/solution351
 ---
 

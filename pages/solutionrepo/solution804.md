@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Singtel - BizConference (Advanced)
+title: COVID-19 Support Singtel - BizConference Room
 permalink: /productivity-solutions-grant/solutionrepo/solution804
 ---
 
@@ -10,7 +10,7 @@ Singtel BizConference is a business video conferencing service that enables prod
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Singtel-BizConference_Annex_3_wef21April2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Singtel-BizConference_Annex_3_wef21April2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

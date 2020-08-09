@@ -1,5 +1,5 @@
 ---
-title: Million Accounting and Stock Control System Version 3 - Package (2 Users with Peppol Ready Web-based Access)
+title: Million Accounting and Stock Control System Version 3 - Package (3 Users with Peppol Ready Web-based Access)
 permalink: /productivity-solutions-grant/solutionrepo/solution752
 ---
 
@@ -10,7 +10,7 @@ Million Accounting Software is a full-fledged accounting system with a user-frie
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell-Million_Annex_3_CR_wef_13April_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Rockbell-Million_Annex_3_CR_wef_13April_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

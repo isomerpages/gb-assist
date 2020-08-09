@@ -1,20 +1,19 @@
 ---
-title: Epoint Version 9 - Package (eMenu - Advance For Single Outlet )
+title: Standalone Automated Industrial Utensil Washer
 permalink: /productivity-solutions-grant/solutionrepo/solution387
 ---
 
 #### Description
 
-Epoint mobility ordering POS provides a full spectrum of solutioning for Food and Beverages segment. The mobility solution allows waiter to use a tablet to take order on behalf of the customer directly and send orders to kitchen once the order is confirmed.
+Automated standalone washer for pots, trays and utensils that replaces manual dishwashing. Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water.
 
 
-
-
+Grant support: 80% of cost of equipment, up to $30,000 grant 
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Epoint_Systems_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -29,16 +28,23 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+More than or equal to quipment must meet the following:
+- Automated washing that only requires loading, no need for handwashing. 
+- Wash tank capacity of at least 40 litres.
+- Does not include accessories.
+
+Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+No change in vendor allowed
 
 #### Contact Information
-Epoint Systems Pte Ltd<br>www.Epoint.com.sg<br>Email: sales@epointpos.com<br>Tel: +65 6100 6300 / +65 6100 6610
+N.A.
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

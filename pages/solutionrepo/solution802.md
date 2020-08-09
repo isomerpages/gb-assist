@@ -1,16 +1,16 @@
 ---
-title: COVID-19 Support Singtel ONEOffice Enterprise Package (G Suite Enterprise)
+title: COVID-19 Support Singtel - BizConference (Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution802
 ---
 
 #### Description
 
-"ONEOffice (powered by Google G-suite)
-ONEOffice is a suite of web-based office solutions that offers  a suite of productivity and collaboration tools. In additional to the standard Google Suites (email, calendar, document, sites & drive, hougouts), ONEOffice include value added services such as; Sending SMS through email box (Pay per use service), Fax through email box (Pay per use service) and customize email signatures across the organisation.
+"Singtel BizConference (powered by Zoom)
+Singtel BizConference is a business video conferencing service that enables productive and impactful virtual meetings. Powered by Zoom, it combines innovative cloud and video conferencing technologies, offering an intuitive and versatile solution. It is cloud-hosted with worldwide coverage for consistently excellent business meetings experience via desktop and mobile devices over the Internet.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Singtel-G-Suite_Annex_3_CR_wef21April2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Singtel-BizConference_Annex_3_wef21April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

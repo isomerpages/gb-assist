@@ -1,15 +1,15 @@
 ---
-title: InSight QSE - Insight QSE Safety PTW System (Enterprise)
+title: Carbonate HR Version 1.0 - Package (Power 50)
 permalink: /productivity-solutions-grant/solutionrepo/solution281
 ---
 
 #### Description
 
-Insight QSE Safety PTW System alleviates the current paper-based method of routing PTWs for approvals which is time-consuming and an administrative headache to store all paper-based PTWs properly for accountability and checks. The System will help to establish Control, Coordination and Communication for PTW applications among the participating stakeholders through both web and mobile application.
+Carbonate HR is a web and mobile application based HR management system that focuses on helping SME schedule their employees, track attendance and pay staff quickly.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Carbonate_Annex 3_CR_wef_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SME <br>
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Tel: +65 6509 0309
+Carbonate Pte Ltd<br>https://carbonateapp.com/<br>Email: info@carbonateapp.com<br>Tel: +65 6797 6787
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,19 +1,17 @@
 ---
-title: iREP Security System Version 3 - Package (Mobile Patrol & Incident Management)
+title: iREP Security Visitor Management System Version 3
 permalink: /productivity-solutions-grant/solutionrepo/solution415
 ---
 
 #### Description
 
-iREP Security is a mobile reporting, maintenance tracking and monitoring system which use GPS trackers and Live Image Captures to enable investigating officers and guards to write incident reports on sites, take attendance of guards and managing visitor visiting the premises.
-
-
+iREP Security Visitor Management System is an automated modernise way of recording visitor coming in and out of the building premises.  It plays the critical role of allowing to manage and differentiate between authorized visitors, who should be granted card access and illegitimate visitors who should be denied entry with the blacklist and whitelist functions.
 
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gabkotech_MnP_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gabkotech_VMS_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

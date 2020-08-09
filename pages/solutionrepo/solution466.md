@@ -1,15 +1,15 @@
 ---
-title: Hubble Safety Management System - Package (Up to 1 Project, 2 years)
+title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub - CRM (Growth Package)- Hubspot
 permalink: /productivity-solutions-grant/solutionrepo/solution466
 ---
 
 #### Description
 
-Hubble Safety Management System helps you manage and monitor the safety of your project sites in real-time. The software will streamline and digitise your Permit-to-Work (PTW) and track safety data for your work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites remain safe and compliant at all times.
+The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationship Management & Reporting, Sales Management, Marketing Automation, Content Management and Customer Service Management software which function together to help businesses acquire and manage customers.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_HUBSPOT_20200137_Annex_3_20200707122712_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
+Company Name:Hubspot Asia Pte. Ltd. <br>Web URL: https://www.hubspot.com/products/get-started <br>Contact Hotline: 31583395 <br>Contact Email: jgilbert@hubspot.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

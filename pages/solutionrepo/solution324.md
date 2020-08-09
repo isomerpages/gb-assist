@@ -1,5 +1,5 @@
 ---
-title: Creative Sales & Order Management - Package (Lite)
+title: Creative Sales & Order Management - Package (Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution324
 ---
 
@@ -12,7 +12,7 @@ Creative Sales and Order Management System is a B2B ecommerce platform that faci
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

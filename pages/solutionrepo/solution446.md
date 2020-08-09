@@ -1,5 +1,5 @@
 ---
-title: Haulio Community System Version 2.0 - Lite
+title: Haulio Community System Version 2.0 - Professional
 permalink: /productivity-solutions-grant/solutionrepo/solution446
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution446
 
 Haulio Community Platform (HCP), with Haulio Connectivity System (HCS) is a Software-as-a-Service (SaaS) solution for container haulage companies, to digitise haulage operations. The System offers Fleet Management, Vehicle Routing & Navigation, Port Messaging, electronic Proof-Of Delivery, instant notifications and real-time job status tracking. The Haulio Community Platform (HCP) ecosystem, providing access to job pool and PSA trucking services.
 
-
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Haulio_20200180_Annex_3_20200625150921_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Haulio_20200180_Annex_3_20200625150921_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

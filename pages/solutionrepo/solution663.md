@@ -1,23 +1,16 @@
 ---
-title: OCi Sales & Accounting Management System (SAM) Version 11 - Package (10 Concurrent Users)
+title: Octopus Food Solution Version 7 - Package C (Online Mobile Ordering)
 permalink: /productivity-solutions-grant/solutionrepo/solution663
 ---
 
 #### Description
 
-OCi Sales and Accounting Management system is a straight-forward and comprehensive system in serving the needs in the following:
- 
-         Pre-Sales Management
-         Post-Sales Fulfillment Management
-         Accounts Receivable Management
-         Accounts Payable Management
-         Inventory Management
-         Project Management
-         Management Accounting & Compliance
+Octopus Food Solutions provides a complete suites of innovative and easy-to-use food management solutions, designed to help food businesses be smarter and more personal. Our solutions are suited to various verticals within the food industry including quick service counters, seated restaurant, bars and bistros. From small too large multi store operations. We help food business owners run sales and promotions, track inventory, manage operations and engage customers.
+
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -41,7 +34,8 @@ N.A. for non-SMEs
 #### Things to Note
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
+
 #### Contact Information
-Company Name:OCi System Pte Ltd <br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com <br>
+Octopus Retail Management Pte Ltd<br>https://octopuspos.com<br>Email: solutions@octopuspos.com<br>Tel: +65 6221 6601
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

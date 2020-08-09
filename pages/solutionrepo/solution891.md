@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Trakomatic OTrack Occupancy & Crowd Density Tracking Software (1 Footfall Sensor + 1 Camera)
+title: Cyber Attack Surface Screening and Assessment Services Version 1 - Penetration Testing Web App Grey-Box (Limited Scope)
 permalink: /productivity-solutions-grant/solutionrepo/solution891
 ---
 
 #### Description
 
-Trakomatic's Real-time occupancy solution automatically captures highly accurate bi-directional footfall or crowd density measurement to determine the occupancy rate within client's physical location in real-time. Clients can configure a desired occupancy threshold limit by location or by zones within locations and get notified automatically via real-time alerts through web dashboard or Mobile App.
+TUV SUD's Security Assessment services for SMEs' solutions and IT infrastructure helps to identify cybersecurity flaws within solutions and its infrastructure. This potentially helps to minimize the cyber-attack surface when the solutions are adopted by targeted SMEs. This offering of bite sized cybersecurity assessment services greatly lowers the cost barrier and reduces the inertia for SMEs to embark on a cyber-secure future.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Trakomatic_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/TUV_SUD_Cyber_Attk_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Trakomatic Pte Ltd<br>www.trakomatic.com<br>Email: andrechew@trakomatic.com<br>Tel: +65 6681 5617
+TUV SUD PSB Pte Ltd<br>https://www.tuvsud.com/en-sg/services/cyber-security/smes-go-digital---pre-approved-cyber-security-solutions<br>Email: info.sg@tuvsud.com<br>Tel: +65 8812 6194
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

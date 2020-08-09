@@ -1,5 +1,5 @@
 ---
-title: Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 4 (5D BIM Takeoff for MEP - Full specs)
+title: Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 5 (5D BIM Takeoff for Architecture & Structure with Rvt Integration)
 permalink: /productivity-solutions-grant/solutionrepo/solution443
 ---
 
@@ -7,9 +7,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution443
 
 A Digital costing platform, for the QS fraternity, whereby measurements of element components indicates geometry with attributes and information required by QS. Providing Detailed & Accurate Quantities during quantification of elements through the consideration of Industry Standard Calculation Rules & Settings based on Singapore Measurement Standards. Bringing a Visual Reality of a 2D Plan Drawing to a 3D Visualization Model.
 
+
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

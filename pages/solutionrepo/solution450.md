@@ -1,15 +1,15 @@
 ---
-title: HReasily Version 5 - Package (Premium 50 employees)
+title: HReasily Version 5 - Package (Face Recognition 20 employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution450
 ---
 
 #### Description
 
-HReasily is a cloud-based HR solution that provides end to end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management.  
+HReasily is a cloud-based HR solution that provides end to end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management. 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/HR_Easily_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

@@ -1,15 +1,16 @@
 ---
-title: SmartTab eMenu Version 4 - Package (5 eMenu Licenses)
+title: COVID-19 Support Taidii Fast Fever Screening and Attendance System 
+- Package (VAMS 2.0)
 permalink: /productivity-solutions-grant/solutionrepo/solution845
 ---
 
 #### Description
 
-TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-menu) system that improves customer experience and increase restaurant productivity.
+Coupled with a Health Sciences Authority (HSA) certified device, the solution provide contactless and precise measurement of personnel's forehead temperature with a defined distance for less than 1 second. Temperature will be recorded automatically and synchronised with time of attendance within the solution. Audio notification be configured for the high temperature captured beyond any pre-set threshold which make it very suitable for any environment which require attention on healthcare aspect
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Taidii_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel: +65 9763 0707
+Taidii Pte Ltd<br>http://www.taidii.com/en/VAMS<br>Email: service@taidii.com /<br>ivory@taidii.com /<br>wanzhang@taidii.com<br>Tel: +65 8501 2608 (Kevin) / +65 8269 1614 (Ivory)
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

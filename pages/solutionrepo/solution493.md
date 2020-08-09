@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Innocom Technologies Laptop Bundle Microsoft 365 Business Standard
+title: SAP Business One 9.3 - Package (2 Starter Users on Cloud)
 permalink: /productivity-solutions-grant/solutionrepo/solution493
 ---
 
 #### Description
 
-Innocom Technologies laptop bundle includes a Business Enterprise laptop  with the latest Intel Core i5 processor, Microsoft Office 365 Standard, Microsoft Office Apps and Teams for online meeting, Anti-virus software, 1 year Next Business Day Hardware onsite support and HDD retention.
+The SAP Business One application offers a single, affordable way to manage your entire business - from sales and customer relationships to financials and operations. Designed specifically for small businesses, it helps you streamline processes, act on timely information, and accelerate profitable growth.
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_INNOCOM_Microsoft_365_Annex_3_CR_wef_7_August_2020' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Integrated_System_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com<br>Contact Hotline: 6603 5441<br>Contact Email: CAROYN@INNOCOM.COM.SG 
+Integrated Information Systems Pte Ltd<br>www.integratedinfosystem.com<br>Email: William.lee@integratedinfosystem.com<br>Tel: +65 9171 9828
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

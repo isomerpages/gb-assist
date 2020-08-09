@@ -1,5 +1,5 @@
 ---
-title: VEON@Experience Version 1.0 - Package B (VEON Basic (+ hardware))
+title: VEON@Experience Version 1.0 - Package C (VEON Basic (no hardware) + 5 Stylist, Assistant, Freelancer tool + 2 Software powerpacks)
 permalink: /productivity-solutions-grant/solutionrepo/solution428
 ---
 
@@ -11,7 +11,7 @@ Designed for the next-generation salons, VEON@Experience is extremely visual and
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

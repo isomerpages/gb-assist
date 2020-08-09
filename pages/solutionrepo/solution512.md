@@ -1,5 +1,5 @@
 ---
-title: ABSS Premier Plus Version 23 - Package (Basic 3 Users)
+title: ABSS Premier Plus Version 23 - Package (Advanced 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution512
 ---
 
@@ -10,7 +10,7 @@ ABSS premier is a full fledge and integrated accounting, sales, inventory and mu
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Jabez_Annex_3_CR_wef_13April_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Jabez_Annex_3_CR_wef_13April_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

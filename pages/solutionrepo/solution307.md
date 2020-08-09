@@ -1,13 +1,11 @@
 ---
-title: Vacuum Packaging Machine
+title: Vertical Form Fill Seal Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution307
 ---
 
 #### Description
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products are placed in trays and then loaded into the vacuum chambers, after which a plastic film will be used to seal in the product. 
-
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. 
+The vertical form fill seal machine automates the packaging process. The product (e.g. noodles, flour) is placed at the top of the machine. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line.
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -36,8 +34,9 @@ N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to quipment must meet the following specifications:
-- Able to seal multiple products at a time
-- Digital interface for ease-of-use
+- Touch panel interface for easy operation (optional)
+- Temperature and speed control
+- Integrated printer for product information (optional)
 
 Additional criteria:
 - =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

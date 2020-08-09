@@ -1,5 +1,5 @@
 ---
-title: Asset-info Based Cyber Defense service - ABCD combo for 5 servers and 80 endpoints (for SMEs with 80 employees or more)
+title: Asset-info Based Cyber Defense service - ABCD combo for 10 servers and 15 endpoints (for SMEs with 10 servers and 15 employees or more)
 permalink: /productivity-solutions-grant/solutionrepo/solution288
 ---
 
@@ -9,7 +9,7 @@ Solution which leverages asset information and behavioral analytics to identify,
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_CENTURYLINK_20200076_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_CENTURYLINK_20200076_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,16 +1,23 @@
 ---
-title: VEON@Experience Version 1.0 - Package E (VEON Basic (+ hardware) + 10 Stylist, Assistant, Freelancer tool + 3 Software powerpacks)
+title: Getz F&B Integrated Instore and Online Transformation Version 2 - Package A (Instore and Online Transformation - 4 Mods )
 permalink: /productivity-solutions-grant/solutionrepo/solution431
 ---
 
 #### Description
 
-"VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. 
-Designed for the next-generation salons, VEON@Experience is extremely visual and easy-to-use for ordinary people like you and me. You can use it anytime, anywhere, on any internet-enabled touch screen devices on demand."
+"Instant cost savings (up to 80%) and sales growth (up to 50%) platform for all F&Bs (Quick Service, Full Service, Kiosk, Catering) across in-store and out-of-store channels.
+
+Full Integrated solution that can also be used individually without changing POS:
+1) In-store Self-ordering and Reservation
+2) Out-of-store Advance Takeaway
+3) Out-of-store Island-wide Delivery
+4) Integrated Membership Solution (All Channels)
+5) Integrated Payment Solution (All Channels)
+6) Integrated POS System"
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_67.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Getz_Group_20200108_Annex_3_20200625144748_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +32,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SME <br>
@@ -35,6 +42,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Gamurai Pte Ltd<br>www.gamuraitech.com<br>Email: veon@gamuraitech.com<br>Tel: +65 9761 9340
+Getz Group Pte Ltd<br>http://www.getz.co/<br>Email: hello@getz.co<br>Tel: +65 9021 5961
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

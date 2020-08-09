@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Sectorial Support Pencil Learning Platform Version 2.6.0 - Package (351 to 500 Users)
+title: COVID-19 Sectorial Support Pencil Learning Platform Version 2.6.0 - Package (30 to 50 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution560
 ---
 

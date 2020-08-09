@@ -1,13 +1,13 @@
 ---
-title: Automated Oxygen Scavenger Dispenser
+title: Automated Tray Sealer
 permalink: /productivity-solutions-grant/solutionrepo/solution303
 ---
 
 #### Description
 
-Oxygen scavengers work by absorbing the ambient moisture. These scavengers are put into small packets and inserted alongside the packaged product. 
+The automatic tray sealer only requires employees to fill up trays with the product (e.g. meat, buns, pasta) and it will automatically seal up each batch.
 
-An oxygen scavenger dispenser works by integrating with a production line and automatically inserting these oxygen scavenger packets with each packaged product.
+Typically, these machines can seal several trays at once. 
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -36,8 +36,9 @@ N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to quipment must meet the following specifications:
-- Minimum loading speed of 150 packets per minute
-- Able to insert oxygen scavenger packets of varied sizes
+- Minimum 400 pieces per hour
+- Must be able to seal at least 2 trays at once (optional)
+- Tabletop size (optional)
 
 Additional criteria:
 - =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

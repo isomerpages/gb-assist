@@ -1,5 +1,5 @@
 ---
-title: Getz F&B Integrated Instore and Online Transformation Version 2 - Package A (Instore and Online Transformation - 4 Mods )
+title: Getz F&B Integrated Instore and Online Transformation Version 2 - Package B (Online Transformation Only - 3 Mods)
 permalink: /productivity-solutions-grant/solutionrepo/solution432
 ---
 
@@ -15,9 +15,10 @@ Full Integrated solution that can also be used individually without changing POS
 5) Integrated Payment Solution (All Channels)
 6) Integrated POS System"
 
+
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Getz_Group_20200108_Annex_3_20200625144748_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Getz_Group_20200108_Annex_3_20200625144748_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Singtel Business Laptop Bundle - Package 4 (Microsoft 365 Business Premium)
+title: COVID-19 Support Singtel Business Laptop Bundle - Package 5 (Microsoft 365 Business Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution809
 ---
 
@@ -9,7 +9,7 @@ Singtel Business Laptop Bundle provide for business-grade laptops with collabora
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Singtel-Business_Laptop_Bundle_Annex_3_CR_wef_21_July_2020(mti)_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Singtel-Business_Laptop_Bundle_Annex_3_CR_wef_21_July_2020(mti)_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

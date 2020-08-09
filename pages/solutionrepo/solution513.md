@@ -1,16 +1,16 @@
 ---
-title: ABSS Premier Plus Version 23 - Package (Advanced 3 Users)
+title: NinjaOS - Package A (NinjaPro - 3 Outlets and 4 Modules)
 permalink: /productivity-solutions-grant/solutionrepo/solution513
 ---
 
 #### Description
 
-ABSS premier is a full fledge and integrated accounting, sales, inventory and multiple-currency management solution.  The bundled packages support cloud-based access and backup features.
+We help build online e commerce stores for F&B merchants so that they can grow their brand & business by being able to save on commissions, deliver islandwide, gather and grow a loyal customer base.
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Jabez_Annex_3_CR_wef_13April_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Jabez Integrated Solutions Pte Ltd<br>https://www.facebook.com/Jabez-is-Pte-Ltd-110019910337941<br>Email: Eliezerjul14@gmail.com<br>Tel: +65 9838 0221
+Jankosoft Pte Ltd<br>https://www.jankosoft.com/<br>Email: sales@ninjaos.com<br>Tel: +65 9001 3157
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

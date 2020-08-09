@@ -1,15 +1,15 @@
 ---
-title: Rotary Oven 
+title: Planetary Mixer
 permalink: /productivity-solutions-grant/solutionrepo/solution389
 ---
 
 #### Description
 
-Oven with revolving racks that enables a 'soft' bake because of even heat distribution. Usually used for baked products that has a soft or fluffy texture, such as cakes, muffins, rolls and buns.
+Planetary mixer is a versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces
 
-Able to increase product yield by reducing amount of unevenly baked or burned cakes and muffins.
+Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk.
 
-Ideal for bakeries.
+Ideal for companies dealing with soft food products. 
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -39,11 +39,14 @@ N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to quipment must meet the following:
-- Minimum of 8 trays
-- Racks inside oven must be able to rotate
-- Bigger rotary ovens may also come with a trolley to load (optional)
+? Minimum bowl capacity of 20 liters.
+? Minimally 3 speed options
+? Comes with bowl and minimum of 2 out of 3 tools ? 
+    1) Mixing paddle
+    2) Whisk
+    3) Hook
 
-Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: ?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
 

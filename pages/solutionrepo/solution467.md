@@ -1,5 +1,5 @@
 ---
-title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub - CRM (Growth Package)- Hubspot
+title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub - CRM (Marketers' Package) - Hubspot
 permalink: /productivity-solutions-grant/solutionrepo/solution467
 ---
 
@@ -9,7 +9,7 @@ The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationsh
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_HUBSPOT_20200137_Annex_3_20200707122712_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_HUBSPOT_20200137_Annex_3_20200707122712_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

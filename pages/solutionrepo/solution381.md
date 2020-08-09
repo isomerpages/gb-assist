@@ -1,5 +1,5 @@
 ---
-title: 2020 QuickHR Version 9 - Cloud HRMS - Enhanced 50
+title: 2020 QuickHR Version 9 - Cloud HRMS - Enhanced 100
 permalink: /productivity-solutions-grant/solutionrepo/solution381
 ---
 
@@ -9,7 +9,7 @@ QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of b
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Support Radiance - Microsoft 365 - Package (Enterprise E3)
+title: REACH MOIBOO Version 1.8 - Plan A
 permalink: /productivity-solutions-grant/solutionrepo/solution737
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication.
-
+Moiboo is an automobile business software which helps auto workshops, auto dealers, auto rentals, auto spare parts business and Transporter to automate the entire business end to end
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Radiance-Office_365_Annex_3_CR_wef_9_June_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Radiance Communications Pte Ltd<br>https://radiancecomms.com.sg<br>Email: enquiries@radiancecomms.com<br>Tel: +65 6395 2000
+Company Name:REACH PROCESS OUTSOURCING PTE. LTD. <br>Web URL: www.moiboo.com <br>Contact Hotline: 98951817 <br>Contact Email: babu@moiboo.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

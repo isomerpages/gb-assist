@@ -1,17 +1,17 @@
 ---
-title: iREP Security Visitor Management System Version 3
+title: iREP Workforce Management System Version 2 - Package (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution416
 ---
 
 #### Description
 
-iREP Security Visitor Management System is an automated modernise way of recording visitor coming in and out of the building premises.  It plays the critical role of allowing to manage and differentiate between authorized visitors, who should be granted card access and illegitimate visitors who should be denied entry with the blacklist and whitelist functions.
+iREP Workforce Management System is a mobile reporting, maintenance tracking and monitoring system which allows all the service aspects to be integrated using mobility from planning, development and delivery of services either to the organisation itself or to third parties.  Within the service framework in this application, it allows mobile reporting, maintenance tracking and monitoring work progress to meet quality standards.
 
 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gabkotech_VMS_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gakotech_ES_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,7 +33,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
 Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkotech.com<br>Tel: +65 6684 4419

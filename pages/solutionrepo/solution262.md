@@ -1,5 +1,5 @@
 ---
-title: CalendarOne CRM Solution Ver 2.0 - Standard CRM Package
+title: CalendarOne CRM Solution Ver 2.0 - Enhanced CRM Package (with Peppol E-Invoice)
 permalink: /productivity-solutions-grant/solutionrepo/solution262
 ---
 
@@ -9,7 +9,7 @@ CalendarOne CRM is a cloud based solution that integrates and automates your ent
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/CalendarOne_20200205_Annex_3_20200625145420_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/CalendarOne_20200205_Annex_3_20200625145420_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

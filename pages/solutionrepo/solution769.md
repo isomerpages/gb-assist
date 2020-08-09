@@ -1,5 +1,5 @@
 ---
-title: Sage 300 - Package (Premium Edition - 5 Users)
+title: Sage 300 - Package (Premium Edition - 10 Users with e-Invoicing)
 permalink: /productivity-solutions-grant/solutionrepo/solution769
 ---
 
@@ -9,7 +9,7 @@ Sage 300 is a business accounting software that provides accounting software for
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/SEG_IT_Annex_3_wef_23_April_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://gb-assist-staging.netlify.app/images/psg/SEG_IT_Annex_3_wef_23_April_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

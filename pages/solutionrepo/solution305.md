@@ -1,13 +1,13 @@
 ---
-title: Filing and Seaming Machine
+title: Commercial Inkjet Printer
 permalink: /productivity-solutions-grant/solutionrepo/solution305
 ---
 
 #### Description
 
-The filing and seaming machine automates the filing and seaming of canned beverages. Operators will only need to load the machine with the product. Each can in the production line will be filled to the desired level, checked (by weight or volume), and subsequently heat sealed shut.
+Commercial inkjet printers integrated into the production lines are used to stamp information directly onto the product packaging. They allow the company to print specific information to individual product packets like bar codes, product information, expiry date. 
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Grant support: 80% of cost of equipment, up to $24,000 grant
 
 #### Details of Solution
 
@@ -34,8 +34,9 @@ N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to quipment must meet the following specifications:
-- Digital interface for simple operation (optional)
-- Speed and temperature control
+- Must be able to integrate with production line (optional)
+- Touchscreen interface, able to manually input datecode/expiry date for products
+- Can automatically print unique barcode for each product from the production line
 
 Additional criteria:
 - =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

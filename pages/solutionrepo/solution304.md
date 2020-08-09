@@ -1,13 +1,11 @@
 ---
-title: Automated Tray Sealer
+title: Filing and Seaming Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution304
 ---
 
 #### Description
 
-The automatic tray sealer only requires employees to fill up trays with the product (e.g. meat, buns, pasta) and it will automatically seal up each batch.
-
-Typically, these machines can seal several trays at once. 
+The filing and seaming machine automates the filing and seaming of canned beverages. Operators will only need to load the machine with the product. Each can in the production line will be filled to the desired level, checked (by weight or volume), and subsequently heat sealed shut.
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -36,9 +34,8 @@ N.A. for non-SMEs
 
 #### Things to Note
 More than or equal to quipment must meet the following specifications:
-- Minimum 400 pieces per hour
-- Must be able to seal at least 2 trays at once (optional)
-- Tabletop size (optional)
+- Digital interface for simple operation (optional)
+- Speed and temperature control
 
 Additional criteria:
 - =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

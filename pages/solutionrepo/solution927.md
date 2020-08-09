@@ -1,5 +1,5 @@
 ---
-title: XERO CLOUD ACCOUNTING SOFTWARE - Xero Booming Package
+title: XERO CLOUD ACCOUNTING SOFTWARE - Xero Basic Package
 permalink: /productivity-solutions-grant/solutionrepo/solution927
 ---
 
@@ -8,10 +8,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution927
 "Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
 By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process."
 
-
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/W.L.P_20200092_Annex_3_20200625144237_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 

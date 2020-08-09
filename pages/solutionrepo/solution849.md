@@ -1,11 +1,11 @@
 ---
-title: TessaCloud - Package (Up to 12 users)
+title: TessaCloud - Package (Up to 20 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution849
 ---
 
 #### Description
 
-TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.  
+TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
 
 #### Details of Solution
 
