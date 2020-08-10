@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Bamboo System Technology Pte Ltd<br>http://bamboosys.com/productline.html<br>Email: info@bamboosys.com<br>Tel: +65 6906 1224

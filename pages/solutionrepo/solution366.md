@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 DST Advertising (Singapore) Pte Ltd<br>http://DSTadvertising.com<br>Email: Sales@dstadvertising.com<br>Tel: +65 8668 5292

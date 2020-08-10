@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Kent Ridge Healthcare Singapore Private Limited<br>http://kentridgehealth.com/covid19-support/<br>Email: jenifer.goh@kentridgehealth.com<br>Tel: +65 9022 8129

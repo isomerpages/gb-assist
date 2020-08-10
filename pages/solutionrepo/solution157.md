@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 APSCOM SOLUTIONS<br>www.apscomsolutions.com<br>Email: carol.kok@apscomsolutions.com<br>Tel: +65 9720 6813

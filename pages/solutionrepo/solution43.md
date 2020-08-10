@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 A2000 Solutions Pte Ltd<br>www.a2000erp.com<br>Email: info@a2000.net<br>Tel: +65 6720 2000 / +65 8699 2000

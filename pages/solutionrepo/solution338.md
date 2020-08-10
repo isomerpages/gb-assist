@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Data Connect Technologies Pte Ltd<br>https://d-connect.net/covid-19-support-packages/<br>Email: software@d-connect.net<br>Tel: +65 800 101 4209

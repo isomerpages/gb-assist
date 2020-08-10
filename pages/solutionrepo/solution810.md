@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Skywave Pte Ltd<br>https://www.covidsafeentry.com<br>https://www.skywave.com.sg<br>Email: sales@skywave.com.sg<br>Tel: +65 6474 7375 / +65 9838 8078

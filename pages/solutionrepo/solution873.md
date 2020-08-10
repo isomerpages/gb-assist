@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 SLPs who have enjoyed subsidy under Tech Start for Law for Online Legal Research may be eligible to apply for PSG if the solution is different from that of what was previously adopted, and assessed on a case-by-case basis.
 

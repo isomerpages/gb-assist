@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Accounts101 Pte Ltd<br>Web URL: https://accounts101.com.sg/<br>Contact Hotline: 91782021<br>Contact Email: Ernest@accounts101.com.sg / Sherman@accounts101.com.sg

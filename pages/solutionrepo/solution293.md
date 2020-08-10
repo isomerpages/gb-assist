@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 67219545<br>Contact Email: XERO@CFOSG.SG

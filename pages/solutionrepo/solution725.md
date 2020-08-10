@@ -31,9 +31,9 @@ Direct Purchase
 60% for non-SMEs
 
 #### Things to Note
-More than or equal to ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR.
+Only licensed travel agents are eligible for support.
 
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR.
 
 #### Contact Information
 Pytheas Infosys Pte Ltd<br>http://www.pytheas.travel<br>Email: info@pytheas.travel<br>Tel: +65 6635 6592

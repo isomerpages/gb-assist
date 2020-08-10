@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Pensees Pte Ltd<br>http://www.pensees-systems.com/covid-19-support<br>Email: business@pensees.ai / Grace.ong@pensees.ai<br>Tel: +65 6969 8658

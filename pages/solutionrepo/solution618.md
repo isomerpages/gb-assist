@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 MSC Consulting (S) Pte Ltd<br>www.msc-consulting.com.sg<br>Email: alex.goh@msc-consulting.com.sg<br>Tel: +65 9631 4881

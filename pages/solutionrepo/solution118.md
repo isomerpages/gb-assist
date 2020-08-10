@@ -35,18 +35,18 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to  Automate access request and provisioning
+- Automate access request and provisioning
 - Physically secure spaces without the need for power supply to operate 
 - Provide traceability of all access into the secured spaces
 - Installed with Management software to administer access to users
 - Installation cost is supported
 - Maintenance cost is not supported
 
-Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
 
 #### Contact Information
 N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

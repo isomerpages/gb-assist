@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Awebstar Technologies Pte Ltd<br>https://awebstar.com.sg/queue-management-system.html<br>Email: Info@Awebstar.com.sg<br>Tel: +65 8317 2205

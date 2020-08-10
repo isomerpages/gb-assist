@@ -32,7 +32,7 @@ Subscription / Leasing
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Frontier e-HR Pte Ltd<br>https://www.frontier-ehr.com/<br>Email: enquiry@frontier-ehr.com<br>Tel: +65 6391 0921

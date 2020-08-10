@@ -34,7 +34,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Beaufort Tax Consultants Pte Ltd<br>https://www.xero.beaufort.sg/<br>Email: contact@beaufort.sg<br>Tel: +65 6227 7269

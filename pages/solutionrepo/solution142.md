@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Andre Corporate Pte Ltd<br>https://www.andrecorpl.com/psg-for-abss-premier-software/<br>Email: consultants@andre.com.sg<br>Tel: +65 9225 8858 / +65 6396 0663

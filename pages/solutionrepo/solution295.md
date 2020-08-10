@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Cloud Comrade Pte Ltd<br>www.cloudcomrade.info/gsuite<br>Email: timothy@cloudcomrade.com<br>Tel: +65 9154 3288

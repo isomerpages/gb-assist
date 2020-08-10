@@ -35,7 +35,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 ABSS (formerly known as MYOB)<br>www.abssasia.com<br>Email: cs.sg@abssasia.com<br>Tel: +65 6505 6582

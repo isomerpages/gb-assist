@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 StarHub Ltd<br>www.starhub.com/microsoftBCP / www.starhub.com/PSG<br>Email: business@starhub.com<br>Tel: 1800 888 8888

@@ -33,7 +33,7 @@ Subscription / Leasing
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Appz Inc Pte Ltd<br>https://getrevopos.com/<br>Email: sales@appzinc.biz<br>Tel: +65 6815 5808

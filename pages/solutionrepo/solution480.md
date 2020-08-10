@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Ingenious Business Software Pte Ltd<br>https://www.ingenious.sg/pre-approved-digital-solutions/<br>Email: enquiry@ingenious.sg<br>Tel: +65 6223 4385

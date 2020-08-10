@@ -38,7 +38,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to quipment must meet the following:
+Equipment must meet the following:
 ? Minimum bowl capacity of 20 liters.
 ? Minimally 3 speed options
 ? Comes with bowl and minimum of 2 out of 3 tools ? 
@@ -53,4 +53,4 @@ No change in vendor allowed
 #### Contact Information
 N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
