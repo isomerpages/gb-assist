@@ -15,7 +15,7 @@ contacts:
       - other: Closed on public holidays
   - title: Need to speak with a Business Advisor?
     content:
-      - other: Please <a href="https://www.enterprisesg.gov.sg/contact/overview" target="_blank"style="color:#037e8a">contact</a> or <a href="https://partnersengage.enterprisesg.gov.sg/book-appointment" target="_blank"style="color:#037e8a">book an appointment</a> with any of our SME Centres
+      - other: Please <a href="https://www.enterprisesg.gov.sg/contact/overview" target="_blank" style="color:#037e8a">contact</a> or <a href="https://partnersengage.enterprisesg.gov.sg/book-appointment" target="_blank" style="color:#037e8a">book an appointment</a> with any of our SME Centres
   #- title: Have questions regarding Gov Assist
   #  content:
   #    - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank"style="color:#037e8a">Contact Helpdesk</a>
