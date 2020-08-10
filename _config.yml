@@ -1,27 +1,17 @@
-title: Title
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-favicon: /images/favicon-isomer.ico
-
-# Site colors
-colors:
-  primary-color: '#6031b6'
-  secondary-color: '#4372d6'
-  media-colors:
-    - title: media-color-one
-      color: '#49759a'
-    - title: media-color-two
-      color: '#744d9f'
-    - title: media-color-three
-      color: '#00838f'
-    - title: media-color-four
-      color: '#00838f'
-    - title: media-color-five
-      color: '#00838f'
-
-
+title: GoBusiness Gov Assist
+url: "https://govassist.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/Gobiz_GA_logo.svg
+favicon: /images/Gobiz_favicon.ico
 collections:
-  schemes:
+  gov-assist:
     output: true
+  productivity-solutions-grant:
+    output: true
+  supportschemes:
+    output: true  
+google_analytics: UA-168352617-1
+resources_name: news
+
 
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #

@@ -2,31 +2,39 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: Agency Name
-locations:
-  - title: Main Office
-    address:
-        - 31 Sesame Street
-        - Big Bird Building
-        - Singapore 123456
-    operating_hours:
-      - days: Mon - Fri
-        time: 8.30am - 6.00pm
-        description: Closed on Public Holidays
-      - days: Sat
-        time: 8.30am - 12.00pm
-  - title: Branch Office
-    address:
-        - 109 North Bridge Road
-        - Singapore 179097
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+agency_name: GoBusiness Gov Assist
 contacts:
-  - title: General Enquiries & Feedback
+  - title: Have questions regarding Gov Assist
     content:
-    - phone: +65 6123 4567
-    - email: enquiries@abc.gov.sg
-    - other: Any text here <i>including HTML</i>
-  - title: Careers
+      - other: Please call us at <a href="tel:+65 6898 1800" style="color:#037e8a">+65 6898 1800</a>
+      - other: Or email us at <a href="mailto:enquiry@enterprisesg.gov.sg" style="color:#037e8a">enquiry@enterprisesg.gov.sg</a>
+  - title: Operating Hours
     content:
-    - email: careers@abc.gov.sg
+      - other: <strong>Monday - Friday</strong>
+      - other: 8.30am - 5.30pm
+      - other: Closed on public holidays
+  - title: Need to speak with a Business Advisor?
+    content:
+      - other: You may arrange an appointment with <br/>any of our <a href="https://www.enterprisesg.gov.sg/contact/overview" target="_blank"style="color:#037e8a">SME Centres</a>
+  #- title: Have questions regarding Gov Assist
+  #  content:
+  #    - other: <a href="https://licence1.business.gov.sg/web/frontier/contact-us" target="_blank"style="color:#037e8a">Contact Helpdesk</a>
+  #- title: Helpdesk Operating Hours
+  #  content:
+  #    - other: <strong>Monday - Friday</strong>
+  #    - other: 8.00am - 8.00pm
+  #    - other: <strong>Saturday</strong>
+  #    - other: 8.00am - 2.00pm
+  #    - other: Closed on Sunday and Public Holidays
+
+#locations:
+#  - title: Gov Assist Helpdesk
+#    address: Test
+#    operating_hours:
+#      - days: Monday - Friday
+#        time: 8.00am - 8.00pm
+#      - days: Saturday
+#        time: 8.00am - 2.00pm
+#        description: Closed on Sunday and Public Holidays
+
 ---
