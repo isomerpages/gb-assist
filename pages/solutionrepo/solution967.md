@@ -9,7 +9,7 @@ Xero is a beautiful, intelligent software platform designed to make life better 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/YOIO_20200131_Annex_3_20200625150411_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/YOIO_20200131_Annex_3_20200625150411_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

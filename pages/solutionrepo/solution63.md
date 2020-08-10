@@ -10,7 +10,7 @@ Singapore is one of the key market of Intuit in Asia, and Quickbooks Online is c
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Acc_Pro_(Singapore)_20200275_Annex_3_20200625152440_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Acc_Pro_(Singapore)_20200275_Annex_3_20200625152440_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

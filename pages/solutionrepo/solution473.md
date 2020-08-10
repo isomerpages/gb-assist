@@ -9,7 +9,7 @@ Qornerstone Estate is an off-the-shelf solution to digitalize Property & Managem
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_12.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_12.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

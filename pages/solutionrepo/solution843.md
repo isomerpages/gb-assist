@@ -9,7 +9,7 @@ TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-m
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

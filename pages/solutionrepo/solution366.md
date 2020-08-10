@@ -9,7 +9,7 @@ DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/DST_Annex 3_CR_wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DST_Annex 3_CR_wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

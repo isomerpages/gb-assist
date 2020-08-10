@@ -9,7 +9,7 @@ This solution is Cloud-based, Contact-less, Computer-Vision based Facial Recogni
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Pensees_Annex_3 _CR_wef_27May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Pensees_Annex_3 _CR_wef_27May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

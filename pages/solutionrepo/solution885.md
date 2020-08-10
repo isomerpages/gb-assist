@@ -13,7 +13,7 @@ Globe3 ERP is a web-based, scalable mid-range multi-company, multi-currency, mul
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/TNO_Annex_3_CR_wef_15Nov2019_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/TNO_Annex_3_CR_wef_15Nov2019_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

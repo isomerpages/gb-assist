@@ -9,7 +9,7 @@ Carbonate HR is a web and mobile application based HR management system that foc
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Carbonate_Annex 3_CR_wef_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -10,7 +10,7 @@ QuickBooks Online is a cloud-based accounting software geared towards small to m
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Abundant_Accounting_QB_Annex 3_CR_wef_13April2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Abundant_Accounting_QB_Annex 3_CR_wef_13April2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

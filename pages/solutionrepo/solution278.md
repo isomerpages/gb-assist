@@ -9,7 +9,7 @@ Insight QSE Safety PTW System alleviates the current paper-based method of routi
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -9,7 +9,7 @@ MoneyWorks was built from the ground up for the needs of business, finance and a
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -9,7 +9,7 @@ Providing customized HR outsourcing services combined with Human Capital Managem
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Match_Resources_Payroll_Annex_3_CR_wef4May2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Match_Resources_Payroll_Annex_3_CR_wef4May2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

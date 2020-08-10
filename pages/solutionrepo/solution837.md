@@ -9,7 +9,7 @@ Synergix E1 Human Resource Management System helps your company to properly trac
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

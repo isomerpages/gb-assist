@@ -10,7 +10,7 @@ Synchronize your promotions, customer data, inventory stock level, sales reports
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Bona_Technologies_Systems_BonaERP_20190049_Annex_3_20200625143500_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaERP_20190049_Annex_3_20200625143500_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

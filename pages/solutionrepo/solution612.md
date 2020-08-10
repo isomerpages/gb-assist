@@ -10,7 +10,7 @@ Ministry Of Data Pte Ltd's Smart Q Ordering solution is a cloud platform system 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Ministry_of_Data-Smart_Q_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Ministry_of_Data-Smart_Q_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

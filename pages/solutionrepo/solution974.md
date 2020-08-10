@@ -10,7 +10,7 @@ ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

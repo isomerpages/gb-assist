@@ -9,7 +9,7 @@ TessaCloud DMS is a Document Management System that combines the best features o
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Tessaract_Technologies_20190017_Annex_3_20200625142151_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tessaract_Technologies_20190017_Annex_3_20200625142151_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

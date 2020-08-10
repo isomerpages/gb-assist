@@ -9,7 +9,7 @@ Extend your business online and generate higher sales revenue with our scalable 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

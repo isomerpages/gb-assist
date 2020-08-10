@@ -9,7 +9,7 @@ A Digital costing platform, for the QS fraternity, whereby measurements of eleme
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
