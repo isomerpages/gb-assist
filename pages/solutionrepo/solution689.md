@@ -30,7 +30,7 @@ Please refer to 'Things to Note' for additional requirements.
 Subscription / Leasing
 
 #### Support Level
-80% for SME <br>
+80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note

@@ -27,8 +27,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-70% for SME <br>
-N.A. for non-SMEs
+70% for SMEs <br>
+70% for non-SMEs
 
 #### Things to Note
 Specifications

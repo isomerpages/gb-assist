@@ -27,8 +27,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80% for SME <br>
-N.A. for non-SMEs
+80% for SMEs <br>
+60% for non-SMEs
 
 #### Things to Note
 More than or equal to nly licensed travel agents are eligible for support.

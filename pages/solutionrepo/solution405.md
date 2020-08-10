@@ -29,7 +29,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Payment
 
 #### Support Level
-80% for SME <br>
+80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
