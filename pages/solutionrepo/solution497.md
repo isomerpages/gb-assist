@@ -1,6 +1,5 @@
 ---
-title: SAP Business One 9.3 - Package (11 Professional Users on
-Cloud with Peppol Einvoicing)
+title: SAP Business One 9.3 - Package (11 Professional Users on Cloud with Peppol Einvoicing)
 permalink: /productivity-solutions-grant/solutionrepo/solution497
 ---
 
