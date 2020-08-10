@@ -9,7 +9,7 @@ Xero is a comprehensive accounting software that allows the company to perform a
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/CFO_Accounts_n_Services_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CFO_Accounts_n_Services_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

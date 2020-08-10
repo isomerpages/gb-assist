@@ -9,7 +9,7 @@ SAP Business One is a single, integrated ERP solution with flexible licensing an
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

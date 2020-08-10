@@ -10,7 +10,7 @@ Google G Suite is a cloud-enabled solution that enables remote collaboration bet
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Cloud_Comrade_Remote_Working_Covid_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Cloud_Comrade_Remote_Working_Covid_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

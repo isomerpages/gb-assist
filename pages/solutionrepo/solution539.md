@@ -11,7 +11,7 @@ To Digitize all SME products and services into a single platform, all hardcopy p
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Keep_20190044_Annex_3_20200625143301_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

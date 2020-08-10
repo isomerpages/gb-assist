@@ -12,7 +12,7 @@ Sage 300 accounting software is widely used by small and medium-sized businesses
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Databit_20190015_Annex_3_20200625142031_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Databit_20190015_Annex_3_20200625142031_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

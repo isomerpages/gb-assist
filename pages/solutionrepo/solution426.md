@@ -10,7 +10,7 @@ Designed for the next-generation salons, VEON@Experience is extremely visual and
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

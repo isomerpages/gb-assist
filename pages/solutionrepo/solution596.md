@@ -9,7 +9,7 @@ Match Resources provides services with applicant tracking system that streamline
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Match_Resources_Onboarding_Annex_3_CR wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Match_Resources_Onboarding_Annex_3_CR wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

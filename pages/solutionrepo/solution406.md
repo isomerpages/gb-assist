@@ -9,7 +9,7 @@ Development of an online shopping website with comprehensive functionalities to 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Firstcom_Solutions_Pte_Ltd_20200125_Annex_3_20200625153111_Part_12.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Firstcom_Solutions_Pte_Ltd_20200125_Annex_3_20200625153111_Part_12.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

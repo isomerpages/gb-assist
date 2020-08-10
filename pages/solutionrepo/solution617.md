@@ -9,7 +9,7 @@ SAP Business One is an ERP solution with built-in advanced analytical processing
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Nanyang_LaptopBundle_Annex3_CR_wef_24_July_2020(mti)_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Nanyang_LaptopBundle_Annex3_CR_wef_24_July_2020(mti)_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

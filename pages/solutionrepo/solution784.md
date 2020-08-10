@@ -9,7 +9,7 @@ EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by st
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

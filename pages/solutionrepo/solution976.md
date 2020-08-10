@@ -9,7 +9,7 @@ Singapore Food & Beverage is running out of manpower. Aigens aspire to bring inn
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_23.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_23.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

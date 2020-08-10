@@ -12,7 +12,7 @@ It is built with a user definable workflow driven engine suitable for SMEs to ca
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -10,7 +10,7 @@ Xero is a cloud-based accounting software geared towards small to medium size bu
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Abundant_Accounting_Xero_Annex_3_CR_wef_13April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Abundant_Accounting_Xero_Annex_3_CR_wef_13April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

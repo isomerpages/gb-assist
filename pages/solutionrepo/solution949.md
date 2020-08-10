@@ -10,7 +10,7 @@ Companies in wholesale sector used our fully web based system to manage all the 
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

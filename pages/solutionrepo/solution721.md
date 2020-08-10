@@ -9,7 +9,7 @@ Our company specializes in business software applications ie selling Psoft Accou
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

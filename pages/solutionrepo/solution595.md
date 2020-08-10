@@ -9,7 +9,7 @@ M1 Remote Working Suite is a complete all-in-one bundle to enable you to work re
 
 #### Details of Solution
 
-Click <a href='https://gb-assist-staging.netlify.app/images/psg/M1-Remote_Laptop_Annex 3_CR2_wef12May2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/M1-Remote_Laptop_Annex 3_CR2_wef12May2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
