@@ -24,7 +24,7 @@ Business entities can apply for PSG if they meet the following criteria:
 3.	Submit an application on the <a target="_blank" style="color:#037e8a" href="https://www.businessgrants.gov.sg/" >Business Grants Portal (BGP)</a>.
 <br>You will need to register for a CorpPass account to transact on the portal.
 
-#### Supportable solutions
+<h4 id="supportable-solutions">Supportable solutions</h4>
 
 Businesses can choose from a list of pre-scoped solutions. 
 
