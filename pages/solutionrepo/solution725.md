@@ -31,7 +31,7 @@ Direct Purchase
 60% for non-SMEs
 
 #### Things to Note
-More than or equal to nly licensed travel agents are eligible for support.
+More than or equal to ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR.
 
 =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR.
 
