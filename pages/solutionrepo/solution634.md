@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Nanyang Tech Pte Ltd<br>Web URL: WWW.NANYANGTECHNOLOGY.COM <br>Contact Hotline: 6438 6979 <br>Contact Email: KWANGLEONG@NANYANGTECHNOLOGY.COM 

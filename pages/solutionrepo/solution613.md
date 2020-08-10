@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:MPS Solutions Pte Ltd <br>Web URL:www.mpssolutions.com.sg <br>Contact Hotline:68469109 <br>Contact Email:kelvin@mclinkgroup.com <br>

@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Axiom IT Solutions Pte Ltd<br>https://axiom-hub.com/psg-approved-pkg/<br>Email: psginfo@axiomitsolns.com<br>Tel: +65 6285 7288

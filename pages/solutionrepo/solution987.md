@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:FocusGuard Pte Ltd <br>Web URL: www.focusguard.com <br>Contact Hotline: 67666081 <br>Contact Email: info@focusguard.sg <br>

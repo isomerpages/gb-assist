@@ -32,7 +32,7 @@ Subscription / Leasing
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Qashier Pte Ltd<br>http://qashier.co<br>Email: hello@qashier.co<br>Tel: +65 8790 7020

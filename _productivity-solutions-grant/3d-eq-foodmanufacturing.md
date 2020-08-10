@@ -9,11 +9,9 @@ accordion:
     content: Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.Grant support 80% of cost of equipment, up to $30,000 grant<br/><br/><a href='/productivity-solutions-grant/solutionrepo/solution403' target='_blank' style='color:#037e8a'>Combi Oven</a><br/>
 ---
 
-## Pre-scoped IT Solutions for Food Manufacturing
+## Pre-scoped Equipment for Food Manufacturing
 
 #### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
 {% include accordion.html %}
-
-*If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 

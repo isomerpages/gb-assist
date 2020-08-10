@@ -35,12 +35,12 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to quipment must meet the following specifications:
+Equipment must meet the following specifications:
 - Able to seal multiple products at a time
 - Digital interface for ease-of-use
 
 Additional criteria:
-- =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 - The purchase of pre-owned/used equipment is not supportable.
 
 No change in vendor allowed
@@ -48,4 +48,4 @@ No change in vendor allowed
 #### Contact Information
 N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

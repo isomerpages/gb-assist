@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 E-Click Solutions<br>www.e-clicksolutions.com/abss-accounting<br>Email: evelyn@e-clicksolutions.com<br>Tel: +65 9792 1964

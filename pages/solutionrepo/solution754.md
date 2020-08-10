@@ -36,7 +36,7 @@ Direct Purchase,Subscription / Leasing
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to andatory Specification
+Mandatory Specification
 - Access controlled and tracked with RFID or other relevant technology
 - Equipped with the necessary sensor to track the essential inventory information stored in the cabinet: Item Description, Stock Quantity
 - Hardware must be linked with a software/ERP system to access the logs and inventory information
@@ -47,4 +47,4 @@ Installation and maintenance fee are not supportable.
 #### Contact Information
 N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

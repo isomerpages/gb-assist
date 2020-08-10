@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 ACSOLV CONSULT PTE. LTD.<br>https://www.acsolv.com/<br>Email: acsolv@acsolv.com<br>Tel: +65 6748 9123

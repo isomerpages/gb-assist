@@ -19,6 +19,9 @@ sections:
         - title: Gebiz Alerts
           url: /gebiz-alerts/
           description: Get notifications on the latest Government procurement opportunities
+        - title: Productivity Solutions Grant Listing
+          url: /productivity-solutions-grant/#supportable-solutions
+          description: View the list of Supportable IT solutions and Equipment
     - infobar:
         title: List of Government Assistance
         subtitle: 

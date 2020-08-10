@@ -34,7 +34,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Sequoia Pte Ltd<br>http://www.beaute-soft.com<br>Email: ang@sequoia-asia.com<br>Tel: +65 9695 1383

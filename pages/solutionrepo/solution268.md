@@ -33,17 +33,17 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to  Power: 240V, Single Phase, AC input
+- Power: 240V, Single Phase, AC input
 - AR welding mask
 - SMAW/MMA Electrode Holder, FCAW/GMAW/MIG/MAG/GTAW/TIG Torch
 - Lifetime carbon steel base material license
 - V-Butt 6? Pipe, Overlapped/T-Angled/V-Butt Plate, T-Angled 6? Pipe to Plate
 - Includes accessories (Fillet/groove work stand, welding glove, AR electrode, AR TIG rod) and training software
 
-Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 No change in vendor allowed
 
 #### Contact Information
 N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

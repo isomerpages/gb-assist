@@ -33,7 +33,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Keep Pte Ltd<br>www.keepital.com<br>Email: ask@keepital.com<br>Tel: +65 9623 9126

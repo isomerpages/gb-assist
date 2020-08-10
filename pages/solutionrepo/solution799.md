@@ -34,7 +34,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/business/info/psg<br>Contact Hotline: 1800-763-1111<br>Contact Email: g-segmentict@singtel.com

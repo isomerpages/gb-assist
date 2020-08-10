@@ -35,7 +35,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to nstalled with software for inventory data input.
+Installed with software for inventory data input.
 Withstand rough handling, meet min IP54 standards.
 Configurable to capture inputs via various means e.g. Barcode scanner, RFID.
 Battery with min 3 hrs standby.
@@ -51,4 +51,4 @@ No change in vendor allowed
 #### Contact Information
 N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

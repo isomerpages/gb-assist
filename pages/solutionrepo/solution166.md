@@ -33,7 +33,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to Unit Height: 205cm to 716cm 
+-Unit Height: 205cm to 716cm 
 - Carrier: Width 220 cm to 284 cm
 - Depth: 41cm to 61cm
 - Load Capacities: 175kg to 499kg 
@@ -42,10 +42,10 @@ More than or equal to Unit Height: 205cm to 716cm
 - With software linked to Inventory Management System 
 
 Installation costs are supported. 
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 Purchase of pre-owned/used equipment not supportable
 
 #### Contact Information
 N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

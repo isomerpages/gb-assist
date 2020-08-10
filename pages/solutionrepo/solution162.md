@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Aptsys Technology Solutions Pte Ltd<br>https://aptsys.com.sg/agate-queue-management-system/<br>Email: ernest.lim@aptsys.com.sg<br>Tel: +6 6457 7991/ +65 9457 4484

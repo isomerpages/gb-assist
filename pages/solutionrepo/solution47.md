@@ -33,13 +33,13 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to quipment must meet the following specifications:
+Equipment must meet the following specifications:
 - Minimum capacity of 1,500 pieces per hour
 - Able to manufacture large products 180g (optional)
 - Tabletop size (optional)
 
 Additional criteria:
-- =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 - The purchase of pre-owned/used equipment is not supportable.
 
 No change in vendor allowed
@@ -47,4 +47,4 @@ No change in vendor allowed
 #### Contact Information
 N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

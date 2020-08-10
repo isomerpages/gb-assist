@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Advanced & Best Technologies Pte Ltd<br>https://timecentral.co/Temperature-attendance.html<br>Email: business@timecentral.co / keepsafe@timecentral.co<br>Tel: +65 6908 7959

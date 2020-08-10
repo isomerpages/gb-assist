@@ -33,13 +33,13 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to quipment must meet the following:
+Equipment must meet the following:
 - Unit must be able to fully automate noodle making process, i.e. from raw materials to dried noodles in serving portions ready to be cooked
 - Serving size and noodle thickness should be customizable
-- Flour capacity should be =10kg
+- Flour capacity should be Minimum 10kg
 - Installation and maintenance costs not supported
 
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 Purchase of pre-owned/ used equipment are not supported
 No change in vendor allowed
@@ -47,4 +47,4 @@ No change in vendor allowed
 #### Contact Information
 N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

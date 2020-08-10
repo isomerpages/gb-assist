@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-More than or equal to 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Concorde Security Pte Ltd<br>Web URL: www.concordesecurity.com<br>Contact Hotline: 62960808<br>Contact Email: imelda.a@concorde.com.sg
