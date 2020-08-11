@@ -20,7 +20,7 @@ Mid-sized companies can access up to S$50 million in project financing for local
 
 #### Loan Insurance Scheme (LIS)
 
-The LIS help enterprises secure short-term trade financing loans by supporting 50% of LIS insurance premium. (up to 80% until march 2021)
+The LIS help enterprises secure short-term trade financing loans by supporting 50% of LIS insurance premium. (up to 80% until March 2021)
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/loan-insurance-scheme" target="_blank" style="color:#037e8a">Find out more</a>
 
