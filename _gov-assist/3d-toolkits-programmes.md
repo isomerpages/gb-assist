@@ -36,9 +36,9 @@ Businesses are to implement data privacy policies consistent with the APEC Priva
 
 <a href="https://www.imda.gov.sg/programme-listing/Cross-Border-Privacy-Rules-Certification" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### BizSAFE
+#### bizSAFE
 
-BizSAFE is a 5-step risk management capability building programme for workplace safety, health and security. 
+bizSAFE is a 5-step risk management capability building programme for workplace safety, health and security. 
 
 <a href="https://www.wshc.sg/bizsafe" target="_blank" style="color:#037e8a">Find out more</a>
 
