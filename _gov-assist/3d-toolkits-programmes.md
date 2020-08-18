@@ -262,7 +262,7 @@ This is a catalogue of SSG-supported courses on Tech-Enabled Services.
 
 SIRI comprises a suite of frameworks and tools to help manufacturers - regardless of their size and industry - start, scale and sustain their manufacturing transformation journeys. 
 
-<a href="www.siri.gov.sg" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.siri.gov.sg" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### SME Digital Tech Hub
 
