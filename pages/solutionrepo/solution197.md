@@ -10,7 +10,7 @@ Since being established in 1996, AutoCount has grown into the TOP SME brands, se
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_6.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

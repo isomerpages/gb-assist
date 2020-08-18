@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution921
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_CoreMatter_Annex_3_CR_wef8June2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -11,7 +11,7 @@ Getz solution is a fully integrated platform that comprehensively resolves F&B s
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Getz_Group_Annex_3_20200702223650_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

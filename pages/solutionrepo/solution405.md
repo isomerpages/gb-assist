@@ -11,7 +11,7 @@ The Online Ordering & Payment System allows F&B enterprises to enable digital on
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Firstcom_20200403_Annex_3_Part_12.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -10,7 +10,7 @@ Lexis Advance has a powerful and optimised search engine that utilise both natur
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/LexisNexis_Annex 3_CR_wef_8_June_2020_revised_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

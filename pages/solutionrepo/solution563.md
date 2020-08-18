@@ -9,7 +9,7 @@ A learning and collaboration platform for delivery of digital content, administe
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Kydon_Annex_3_Cleaned_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

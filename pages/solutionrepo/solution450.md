@@ -9,7 +9,7 @@ HReasily is a cloud-based HR solution that provides end to end employee data col
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/HR_Easily_Annex_3_modified_CR_wef_30_June_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
