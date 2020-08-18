@@ -16,7 +16,7 @@ In addition, we provide mobile apps for employees to manage their HR matters on 
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

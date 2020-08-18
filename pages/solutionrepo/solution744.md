@@ -9,7 +9,7 @@ Rentalworks Mobile Working Laptop Program is a bundle program focusing on enabli
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/RentalWorks_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

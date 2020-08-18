@@ -9,7 +9,7 @@ TessaCloud is a Document Management System that combines ease of quick uploading
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tessacloud_Annex_3_CR_wef_8June2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

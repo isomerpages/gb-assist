@@ -9,7 +9,7 @@ Westlaw Asia is a well-known power legal research tool for law firms with its se
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/WestLaw_Asia_Annex_3_Final_ext_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

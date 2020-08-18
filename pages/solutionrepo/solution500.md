@@ -9,7 +9,7 @@ INTELLLEX Enterprise (STACK and  SOURCE)is an AI empowered legal online research
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Intelllex_Annex_3_Final_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

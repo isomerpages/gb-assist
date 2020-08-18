@@ -9,7 +9,7 @@ Nanyang Tech s laptop bundle includes a Business Enterprise laptop  with the lat
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Nanyang_LaptopBundle_Annex3_CR_wef_24_July_2020(mti)_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Densentised_Nanyang_LaptopBundle_Annex3_CR_wef_24_July_2020_(002)_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

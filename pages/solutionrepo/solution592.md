@@ -10,7 +10,7 @@ Microsoft Office 365 is a suite of cloud-based productivity and collaboration ap
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/M1-Office365_Annex_3_CR_wef_21_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
