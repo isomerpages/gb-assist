@@ -10,7 +10,7 @@ third_nav_title: Financial Support
 
 * To help employers retain workers, the Government co-funds between 25% to 75% of the first $4,600 of gross monthly wages paid to each local employee in a 10-month period (up to August 2020). 
 * As announced on 17 August 2020 Ministerial Statement, JSS will be extended by up to 7 months, covering wages paid up to March 2021. 
-* The Government will co-fund between 10% to 50% of the first $4,600 of grows monthly wages paid to each local employee in the subsequent 7-month period (Sep 2020 to Mar 2021). 
+* The Government will co-fund between 10% to 50% of the first $4,600 of gross monthly wages paid to each local employee in the subsequent 7-month period (Sep 2020 to Mar 2021). 
 * Employers will receive 5 main JSS payouts in April, July, October 2020, and in March, and June 2021 (with an additional special payout in May 2020). 
 * For extended qualifying months, Government will pay:
   * 50% for firms in the aerospace, aviation, and tourism sectors
