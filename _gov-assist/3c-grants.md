@@ -474,12 +474,6 @@ BCA co-funds up to 90% of selected training courses and skills assessments for f
 
 <a href="https://www1.bca.gov.sg/public/students/workforce-training-and-upgrading-scheme" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Work-life Grant
-
-WSG provides companies funding support of up to $105,000 per company to implement and sustain flexible work arrangements (FWAs) for all employees, to create work-life harmony at the workplace.
-
-<a href="https://www.wsg.gov.sg/programmes-and-initiatives/wsg-worklife-grant-employers.html" target="_blank" style="color:#037e8a">Find out more</a>
-
 #### Work-Study Programme (WSP)
 
 The WSPs are targeted at fresh graduates and mid-career individuals by providing a head-start in careers related to their discipline of study and opportunities to build on skills and knowledge acquired in school. 
