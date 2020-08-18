@@ -280,7 +280,7 @@ SnapSAFE is a mobile application to report WSH issues. It comprises a public rep
 
 StartSAFE helps SMEs identify WSH risks onsite and recommends good WSH practices. It is a gateway to bizSAFE. 
 
-<a href="www.wshc.sg/startsafe " target="_blank" style="color:#037e8a">Find out more</a>
+<a href="www.wshc.sg/startsafe" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Tech Immersion and Placement Programme (TIPP)
 
