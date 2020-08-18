@@ -60,6 +60,12 @@ Through working with multiple industry stakeholders, DSL co-develops solutions u
 
 <a href="https://www.imda.gov.sg/programme-listing/digital-services-lab" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Directory of Digital Solutions for Safe Reopening 
+
+This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or PSG-supported.
+
+<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening " target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Environmental Services Industry Digital Plan
 
 A step-by-step guide for local SMEs in the Environmental Services industry on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
@@ -269,6 +275,12 @@ The SME Digital Tech Hub is a dedicated hub that provides specialist digital tec
 SnapSAFE is a mobile application to report WSH issues. It comprises a public reporting function where reports are sent to MOM and a corporate reporting function where companies can receive internal WSH reports. 
 
 <a href="https://www.wshc.sg/snapsafe" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### StartSAFE
+
+StartSAFE helps SMEs identify WSH risks onsite and recommends good WSH practices. It is a gateway to bizSAFE. 
+
+<a href="www.wshc.sg/startsafe " target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Tech Immersion and Placement Programme (TIPP)
 

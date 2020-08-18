@@ -24,6 +24,18 @@ The APF supports local farmers in their efforts to expand production capability,
 
 <a href="https://www.sfa.gov.sg/food-farming/funding-schemes/agriculture-productivity-food" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Artificial Intelligence and Data Analytics (AIDA) Grant
+
+The AIDA grant supports projects that demonstrate adoption of AI & DA techniques that achieve business objectives of strategy & decision making with workforce impact, as well as applied research projects in AI and DA for Singapore's financial sector.
+
+<a href="https://www.mas.gov.sg/schemes-and-initiatives/Artificial-Intelligence-and-Data-Analytics-AIDA-Grant" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Asian Financial Leaders Scheme (AFLS)
+
+The AFLS initiative helps Fis defray part of the costs incurred in sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes. 
+
+<a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Aviation Development Fund (ADF)
 
 The Aviation Development Fund (ADF) supports the development and growth of the aviation industry in Singapore, with focus on raising airport productivity, building capabilities, and developing manpower. 
@@ -89,6 +101,18 @@ The CDF supports cruise industry players such as cruise lines, travel agents, ch
 The programme aims to support companies in their business transformation and innovation capabilities. Companies will be trained in the design thinking process with mentoring sessions over the six-month programme. 
 
 <a href="https://www.wsg.gov.sg/programmes-and-initiatives/design-thinking-manpower-lean-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Digital Acceleration Grant (DAG) - Industry Pilot
+
+DAG scheme supports joint projects by multiple Singapore-based FIs to customise an existing solution with a solution provider, to improve productivity, strengthen operational resilience, manage risks better, and serve customers better. 
+
+<a href="https://www.mas.gov.sg/development/fintech/digital-acceleration-grant" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Digital Acceleration Grant (DAG) - Institution Project
+
+DAG scheme supports Singapore-based Fis and Fintech firms adopt digital solutions to improve productivity, strengthen operational resilience, manage risks better, and serve customers better. 
+
+<a href="https://www.mas.gov.sg/development/fintech/digital-acceleration-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Digital Project Management Services
 
@@ -168,6 +192,36 @@ The ESF supports development and enhancement of tourism experiences that increas
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/experience-step-up-fund-esf.html" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Finance Associate Management Scheme (FAMS)
+
+The FAMS helps Fis defray part of the costs incurred in the hiring of Singapore citizen staff who would be trained under their structured management/functional programmes.
+
+<a href="https://www.mas.gov.sg/schemes-and-initiatives/finance-associate-management-scheme-fams" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Financial Sector Technology and Innovation (FSTI) Scheme - FI project track
+
+The FSTI scheme supports Singapore-based Fis to catalyse innovative ideas and market solutions to advance the competitiveness of the financial institution and the sector. 
+
+<a href="https://www.mas.gov.sg/schemes-and-initiatives/fsti-scheme" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Financial Sector Technology and Innovation (FSTI) Scheme - Industry-wide Technological Infrastructure or Utility
+
+The Industry-wide Projects track seeks to build industry-wide technological/utility infrastructure and/or improve efficiency and boost productivity in the financial services sector.
+
+<a href="https://www.mas.gov.sg/schemes-and-initiatives/fsti-scheme" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Financial Specialist Scholarship (FSS)
+
+The FSS will co-fund with FIs to send their promising Singaporean professionals for postgraduate study in: Specialised Finance, Finance, applied finance or financial economics, Risk Management, Actuarial Science, Technology and Data Science.
+
+<a href="https://www.ibf.org.sg/programmes/Pages/FSS_IBF.aspx" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Financial Training Scheme (FTS)
+
+The FTS provides funding for financial sector-specific training programmes which are recognized under FTS, with a grant cap of $2,000 per participant per programme. 
+
+<a href="https://www.ibf.org.sg/programmes/Pages/IBF-FTS.aspx" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Food Delivery Booster Package
 
 The Food Delivery Booster Package supports F&B businesses to make the transition from offline to online sales through food delivery.
@@ -185,6 +239,24 @@ Supports local ICT SMEs to transform traditional software architecture and devel
 GoSecure is designed to increase the cybersecurity capabilities of our local ICT companies and improve their product security posture.
 
 <a href="https://www.imda.gov.sg/programme-listing/gosecure" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Grant for Equity Market Singapore (GEMS) - Listing
+
+GEMS (listing) helps to encourage potential issuers to list on the Singapore Exchange (SGX) by co-funding part of the eligible listing expenses.
+
+<a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Grant for Equity Market Singapore (GEMS) - Research Initiative
+
+The Research Initiative Grant is earmarked to fund crowd-sourced initiatives that will propel the development of Singapore's equity research ecosystem. 
+
+<a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Grant for Equity Market Singapore (GEMS) - Research Talent Development
+
+GEMS (research) encourage FIs based in Sg to hire equity research professionals by co-funding hiring costs of equity research analysts. 
+
+<a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Healthier Dining Grant
 
@@ -269,6 +341,18 @@ The IWSDF provides funding and technical support to local non-domestic large wat
 With up to 90% funding support, the IHCI Enabler is an 8-week programme that focuses on helping companies get started on Industry 4.0 transformation and optimise returns with effective human capital management.
 
 <a href="https://ihci.sbf.org.sg" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Institute of Banking and Finance Standards Training Scheme (IBF-STS)
+
+The IBF-STS provides funding for programmes accredited under the IBF standards, with a grant cap of $7,000 per participant per programme. 
+
+<a href="https://www.ibf.org.sg/programmes/Pages/IBF-STS.aspx" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### International Postings Programme (iPOST)
+
+The iPOST initiative helps Fis defray part of the costs incurred in sending Singapore citizen staff on global and regional attachments or postings.
+
+<a href="https://www.mas.gov.sg/schemes-and-initiatives/international-postings-programme-ipost" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Internationalisation Skills (iSkills) Talent Development Programme
 
@@ -364,7 +448,13 @@ Construction related companies can defray the cost of technology adoption aimed 
 
 The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April - 31 Dec 2020.
 
-<a href="/productivity-solutions-grant/" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://govassist.gobusiness.gov.sg/productivity-solutions-grant/" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Proof-of-Concept (POC) Grant
+
+The POC grant supports up to 50% of qualifying costs for projects which aim to develop a novel concept of resolving industry-wide problems, using technology or business processes. Maximum support of up to $200,000.
+
+<a href="https://www.mas.gov.sg/development/fintech/mas-fsti-proof-of-concept-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Quieter Construction Innovation Fund (QCIF)
 
