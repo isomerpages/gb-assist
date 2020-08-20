@@ -31,7 +31,7 @@ Direct Purchase
 80% for non-SMEs
 
 #### Things to Note
-N.A.
+Only applicable for licensed cleaning, waste management and pest management companies
 
 #### Contact Information
 Lexikon Pte Ltd<br>http://www.lexikon.sg/lexikon_system/konnect_digital/<br>Email: info@lexikon.sg<br>Tel: +65 6909 2737

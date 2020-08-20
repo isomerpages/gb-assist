@@ -1,16 +1,15 @@
 ---
-title: Microsoft 365 Business
-Premium + Dell laptop
+title: Package B (2 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution1059
 ---
 
 #### Description
 
-VGCs package provides for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
+ProLight SPMP is an all-in-one Military Grade Face Recognition with Temperature scanning equipped, industrial-class binocular camera, live face recognition technology and infrared thermal imaging module. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technologies-Bundle_B_(Software%20+%20Laptop)_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EP-Tec_Annex_3_ver2_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: VGC TECHNOLOGY PTE LTD <br>Web URL: https://www.vgctechnology.com <br>Contact Hotline: 63975396<br>Contact Email: vinc@vgctechnology.com  <br>
+Company Name: EP-Tec Solutions Pte Ltd<br>Web URL: www.eptec.com <br>Contact Hotline: 62946505<br>Contact Email: larryyap@ep-asia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

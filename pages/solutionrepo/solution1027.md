@@ -6,9 +6,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1027
 #### Description
 
 BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations.
-BIM 360 Docs  For data management (2D drawing, 3D BIM model and various formats).
-BIM 360 Design  For real time design collaboration, work sharing and change management.
-BIM 360 Build  For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
+BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats).
+BIM 360 Design - For real time design collaboration, work sharing and change management.
+BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
 
 #### Details of Solution
 

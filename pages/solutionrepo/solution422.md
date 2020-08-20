@@ -31,7 +31,7 @@ Direct Purchase
 80% for non-SMEs
 
 #### Things to Note
-N.A.
+Only applicable for licensed cleaning, waste management and pest management companies
 
 #### Contact Information
 Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkotech.com<br>Tel: +65 6684 4419

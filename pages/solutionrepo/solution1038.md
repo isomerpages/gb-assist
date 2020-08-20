@@ -1,15 +1,16 @@
 ---
-title: Microsoft 365 Business Basic
+title: SMART TECHNOLOGY FOR FACILITIES MANAGEMENT Version 1.8 - Package A (2 sets of Toilets)- Complete
 permalink: /productivity-solutions-grant/solutionrepo/solution1038
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Tem as the main communication
+SMART Toilet System uses the unqiue LoRaWAN communication protocol with a state of the art Ai-based neural network to improve the Service Providers(SP)productivity. In AST, we offers an end-to-end solution to building services Service Buyers and SP. 
+We offer various type of sensory modules:1)Odour,Temperature&Humidity Sensor 2) Human traffic counter 3)Individual toilet cubicle detection 4)Toilet paper&Hand towel empty detection 5)Contactless attendance taking 6) Water&Electricity monitoring
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CHASSasia-Software_only_Annex%203_07082020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -24,16 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase 
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-N.A. for non-SMEs
+80% for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Cost in price package does not include optional items and is not indicative of actual project cost.
 
 #### Contact Information
-Company Name: CHASSASIA (SINGAPORE) PTE LTD <br>Web URL: www.chassasia.com <br>Contact Hotline: 6212 9191 <br>Contact Email: serenetan@chassasia.com<br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
