@@ -1,6 +1,5 @@
 ---
-title: Microsoft Office 365 E3 +
-Dell laptop
+title: Microsoft Office 365 E3 + Dell laptop
 permalink: /productivity-solutions-grant/solutionrepo/solution1070
 ---
 

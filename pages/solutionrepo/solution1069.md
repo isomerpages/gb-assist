@@ -1,6 +1,5 @@
 ---
-title: Microsoft 365 Business
-Premium + Dell laptop
+title: Microsoft 365 Business Premium + Dell laptop
 permalink: /productivity-solutions-grant/solutionrepo/solution1069
 ---
 

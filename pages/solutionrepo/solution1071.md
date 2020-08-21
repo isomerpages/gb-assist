@@ -1,6 +1,5 @@
 ---
-title: Microsoft Office 365
-Business Basic + Dell laptop
+title: Microsoft Office 365 Business Basic + Dell laptop
 permalink: /productivity-solutions-grant/solutionrepo/solution1071
 ---
 
