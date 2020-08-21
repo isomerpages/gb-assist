@@ -10,7 +10,7 @@ The solution aims to provide SME the opportunity to create an online presence. I
 
 #### Details of Solution
 
-N.A.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:DODOCA INFORMATION TECHNOLOGY (S) PTE LTD <br>Web URL: DIMMPS SOLUTIONS <br>Contact Hotline: 97363622 <br>Contact Email: MAIN@DODOCA.COM.SG <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -9,7 +9,7 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ Direct Purchase
 Only applicable for licensed cleaning, waste management and pest management companies
 
 #### Contact Information
-N.A.
+Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -9,7 +9,7 @@ Sage 300 takes the complexity out of managing your business finances across bord
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:COMPTRAC SYSTEMS TECHNOLOGY PTE LTD <br>Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: itgrants@comptrac.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

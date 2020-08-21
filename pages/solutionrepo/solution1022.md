@@ -9,7 +9,7 @@ EasyBus is a true all in one platform designed specifically for service industry
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_6.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:TrustyTech Pte Ltd <br>Web URL: https://www.easybus.app/ <br>Contact Hotline: 90999564 <br>Contact Email: business@trustytechgroup.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

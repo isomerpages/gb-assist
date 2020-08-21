@@ -10,7 +10,7 @@ We offer various type of sensory modules:1)Odour,Temperature&Humidity Sensor 2) 
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advancer_20200342_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ Direct Purchase
 Cost in price package does not include optional items and is not indicative of actual project cost.
 
 #### Contact Information
-N.A.
+Company Name:ADVANCER SMART TECHNOLOGY PTE LTD <br>Web URL: www.advastech.com.sg <br>Contact Hotline: 66653855 <br>Contact Email: support@advancer.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

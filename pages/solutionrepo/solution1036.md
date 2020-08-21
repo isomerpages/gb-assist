@@ -9,7 +9,7 @@ Sensorla provides an artificial intelligence workforce management system, that i
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ Direct Purchase
 Cost in price package does not include optional items and is not indicative of actual project cost.
 
 #### Contact Information
-N.A.
+Company Name:Sensorla Pte Ltd <br>Web URL: https://www.sensorla.co/#Products <br>Contact Hotline: 69096483 <br>Contact Email: contactus@sensorla.co <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

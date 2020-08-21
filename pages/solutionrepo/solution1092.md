@@ -13,7 +13,7 @@ INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps pr
 
 #### Details of Solution
 
-N.A.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -38,6 +38,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:Info-Tech Systems Integrators Pte Ltd <br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

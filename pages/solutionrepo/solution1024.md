@@ -12,7 +12,7 @@ BIM 360 Build - For construction project management (RFI, Submittal) and Field m
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_20200262_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -37,6 +37,6 @@ N.A. for non-SMEs
 Nil
 
 #### Contact Information
-N.A.
+Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

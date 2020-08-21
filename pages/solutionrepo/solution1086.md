@@ -9,7 +9,7 @@ Development of an online shopping website with comprehensive functionalities to 
 
 #### Details of Solution
 
-N.A.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:Firstcom Solutions Pte Ltd <br>Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

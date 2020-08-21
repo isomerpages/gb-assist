@@ -9,7 +9,7 @@ FoodZaps Technology is a Singapore company with the most comprehensive and integ
 
 #### Details of Solution
 
-N.A.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 91606815 <br>Contact Email: sales@foodzaps.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
