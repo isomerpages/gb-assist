@@ -1,6 +1,5 @@
 ---
-title: Office 365 Business 
-Premium
+title: Office 365 Business Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution1049
 ---
 
