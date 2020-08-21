@@ -31,7 +31,7 @@ Direct Purchase
 80% for non-SMEs
 
 #### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies
+baron
 
 #### Contact Information
 Beng Hock Mechanical Engineering Pte Ltd<br>https://benghock.com.sg/<br>Email: enquiry@benghock.com.sg<br>Tel: +65 6686 3886

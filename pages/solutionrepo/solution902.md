@@ -31,7 +31,7 @@ Subscription / Leasing
 80% for non-SMEs
 
 #### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies
+N.A.
 
 #### Contact Information
 V3 Smart Technologies Pte Ltd<br>http://www.v3smarttech.com<br>Email: sales@v3smarttech.com<br>Tel: +65 6488 4176

@@ -31,7 +31,7 @@ Subscription / Leasing
 80% for non-SMEs
 
 #### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies.
+N.A.
 
 #### Contact Information
 Smartcomm Electronics Pte Ltd<br>https://www.smartcomm.biz/<br>Email: ask@smartcomm.biz<br>Tel: +65 6513 2389
