@@ -10,7 +10,7 @@ NetDocuments is  native cloud-based DMS in the legal industry to support of inte
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_NetDoc_Annex_3_CR_wef8June2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
