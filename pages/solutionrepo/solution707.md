@@ -31,7 +31,7 @@ Subscription / Leasing
 80% for non-SMEs
 
 #### Things to Note
-N.A.
+Only applicable for licensed cleaning, waste management and pest management companies
 
 #### Contact Information
 Company Name:Pivotal Pte Ltd <br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg <br>

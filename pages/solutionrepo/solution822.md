@@ -31,7 +31,7 @@ Direct Purchase
 80% for non-SMEs
 
 #### Things to Note
-N.A.
+Only applicable for licensed cleaning, waste management and pest management companies
 
 #### Contact Information
 Solo Pte Ltd<br>www.solo.com.sg<br>Email: sales@solo.com.sg<br>Tel: +65 9829 7360
