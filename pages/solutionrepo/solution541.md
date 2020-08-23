@@ -5,8 +5,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution541
 
 #### Description
 
-"Keepital is an online B2B platform that brings together buyers and suppliers which allow business owners to reach out to prospects. Through this platform, business owners can list their products, generate quotation to the buyers.
-To Digitize all SME products and services into a single platform, all hardcopy practices of Wholesale SME will be digitized."
+Keepital is an online B2B platform that brings together buyers and suppliers which allow business owners to reach out to prospects. Through this platform, business owners can list their products, generate quotation to the buyers.
+To Digitize all SME products and services into a single platform, all hardcopy practices of Wholesale SME will be digitized.
 
 
 #### Details of Solution

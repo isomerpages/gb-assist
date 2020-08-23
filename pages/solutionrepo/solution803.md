@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution803
 
 #### Description
 
-"Singtel BizConference (powered by Zoom)
+Singtel BizConference (powered by Zoom)
 Singtel BizConference is a business video conferencing service that enables productive and impactful virtual meetings. Powered by Zoom, it combines innovative cloud and video conferencing technologies, offering an intuitive and versatile solution. It is cloud-hosted with worldwide coverage for consistently excellent business meetings experience via desktop and mobile devices over the Internet.
 
 #### Details of Solution

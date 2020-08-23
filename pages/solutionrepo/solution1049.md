@@ -1,5 +1,5 @@
 ---
-title: Office 365 Business Premium
+title: Office 365 Business  Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution1049
 ---
 
@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: CHASSASIA (SINGAPORE) PTE LTD <br>Web URL: www.chassasia.com <br>Contact Hotline: 6212 9191 <br>Contact Email: serenetan@chassasia.com<br>

@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution432
 
 #### Description
 
-"Instant cost savings (up to 80%) and sales growth (up to 50%) platform for all F&Bs (Quick Service, Full Service, Kiosk, Catering) across in-store and out-of-store channels.
+Instant cost savings (up to 80%) and sales growth (up to 50%) platform for all F&Bs (Quick Service, Full Service, Kiosk, Catering) across in-store and out-of-store channels.
 
 Full Integrated solution that can also be used individually without changing POS:
 1) In-store Self-ordering and Reservation
@@ -13,8 +13,7 @@ Full Integrated solution that can also be used individually without changing POS
 3) Out-of-store Island-wide Delivery
 4) Integrated Membership Solution (All Channels)
 5) Integrated Payment Solution (All Channels)
-6) Integrated POS System"
-
+6) Integrated POS System
 
 #### Details of Solution
 

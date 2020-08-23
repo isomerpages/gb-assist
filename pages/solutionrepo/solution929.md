@@ -5,8 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution929
 
 #### Description
 
-"Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
-By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process."
+Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
+By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
+
 
 #### Details of Solution
 

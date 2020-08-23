@@ -32,7 +32,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:DODOCA INFORMATION TECHNOLOGY (S) PTE LTD <br>Web URL: DIMMPS SOLUTIONS <br>Contact Hotline: 97363622 <br>Contact Email: MAIN@DODOCA.COM.SG <br>

@@ -1,6 +1,5 @@
 ---
-title: COVID-19 Support Aptsys Queue Management System Online Version 1.0 
-- Package B
+title: COVID-19 Support Aptsys Queue Management System Online Version 1.0  - Package B
 permalink: /productivity-solutions-grant/solutionrepo/solution163
 ---
 

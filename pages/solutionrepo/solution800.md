@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution800
 
 #### Description
 
-"ONEOffice (powered by Google G-suite)
+ONEOffice (powered by Google G-suite)
 ONEOffice is a suite of web-based office solutions that offers  a suite of productivity and collaboration tools. In additional to the standard Google Suites (email, calendar, document, sites & drive, hougouts), ONEOffice include value added services such as; Sending SMS through email box (Pay per use service), Fax through email box (Pay per use service) and customize email signatures across the organisation.
 
 

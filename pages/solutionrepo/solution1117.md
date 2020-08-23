@@ -31,7 +31,7 @@ Subscription or Leasing
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:Starvision Information Technology Pte Ltd <br>Web URL: www.starvisionit.com <br>Contact Hotline: 62934828 <br>Contact Email: mwsales@starvisionit.com <br>

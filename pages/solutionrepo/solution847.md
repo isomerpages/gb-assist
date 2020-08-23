@@ -1,6 +1,5 @@
 ---
-title: COVID-19 Support Taidii Fast Fever Screening and Attendance System 
-- Package (VAMS 3S)
+title: COVID-19 Support Taidii Fast Fever Screening and Attendance System  - Package (VAMS 3S)
 permalink: /productivity-solutions-grant/solutionrepo/solution847
 ---
 
