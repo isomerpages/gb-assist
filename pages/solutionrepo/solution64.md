@@ -5,8 +5,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution64
 
 #### Description
 
-"Intuit Quickbooks Online is the number one cloud accounting solution for SMEs in the World developed by USD 75 Billion Listed Company, Intuit.  As at June 2020, it has 4.5 million users around the World. It has presence in 100+ countries and 12 languages.
-Singapore is one of the key market of Intuit in Asia, and Quickbooks Online is customised to the requirements to the Accounting and Tax compliance requirements in Singapore."
+Intuit Quickbooks Online is the number one cloud accounting solution for SMEs in the World developed by USD 75 Billion Listed Company, Intuit.  As at June 2020, it has 4.5 million users around the World. It has presence in 100+ countries and 12 languages.
+Singapore is one of the key market of Intuit in Asia, and Quickbooks Online is customised to the requirements to the Accounting and Tax compliance requirements in Singapore.
 
 #### Details of Solution
 

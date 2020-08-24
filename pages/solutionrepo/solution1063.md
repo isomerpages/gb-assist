@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Interaccion LLP<br>Web URL: http://www.theinteraccion.com <br>Contact Hotline: 66357119<br>Contact Email: steve@theinteraccion.com <br>

@@ -31,13 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Agere Accounting & Advisory Pte Ltd 
-<br>Web URL: www.agere-ca.com 
-<br>Contact Hotline: 63850609 
-<br>Contact Email: elainelim@agere-ca.com 
-<br>
+Company Name:Agere Accounting & Advisory Pte Ltd <br>Web URL: www.agere-ca.com <br>Contact Hotline: 63850609 <br>Contact Email: elainelim@agere-ca.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

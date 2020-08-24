@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com<br>Contact Hotline: 6603 5441<br>Contact Email: CAROYN@INNOCOM.COM.SG 
+Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/<br>Contact Hotline: 6603 5441<br>Contact Email: CAROYN@INNOCOM.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

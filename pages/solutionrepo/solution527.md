@@ -5,9 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution527
 
 #### Description
 
-"Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
+Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
 
-Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network."
+Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
 
 
 #### Details of Solution

@@ -5,8 +5,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution255
 
 #### Description
 
-"eCommerce equipped by WooCommerce and Wordpress. 
-Bona Technologies is a proud partner of Wordpress.com"
+eCommerce equipped by WooCommerce and Wordpress. 
+Bona Technologies is a proud partner of Wordpress.com
 
 
 #### Details of Solution

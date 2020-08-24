@@ -5,9 +5,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution252
 
 #### Description
 
-"BONAERP is an All in One ERP solution integrating Ecommerce Website & Point of Sales and CRM Sales Management.
-Synchronize your promotions, customer data, inventory stock level, sales reports across your Sales Channels including your POS, ecommerce website and daily sales. Now integrated to marketplaces including Lazada & Ebay with payment gateways."
-
+BONAERP is an All in One ERP solution integrating Ecommerce Website & Point of Sales and CRM Sales Management.
+Synchronize your promotions, customer data, inventory stock level, sales reports across your Sales Channels including your POS, ecommerce website and daily sales. Now integrated to marketplaces including Lazada & Ebay with payment gateways.
 
 #### Details of Solution
 

@@ -5,9 +5,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution427
 
 #### Description
 
-"VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. 
-Designed for the next-generation salons, VEON@Experience is extremely visual and easy-to-use for ordinary people like you and me. You can use it anytime, anywhere, on any internet-enabled touch screen devices on demand."
-
+VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. 
+Designed for the next-generation salons, VEON@Experience is extremely visual and easy-to-use for ordinary people like you and me. You can use it anytime, anywhere, on any internet-enabled touch screen devices on demand.
 
 #### Details of Solution
 

@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution486
 
 #### Description
 
-"BIM 360 Design 
+BIM 360 Design 
 - Single platform that connects design and construction processes and project team at one place.
 - BIM 360 Design is the cloud collaboration solution for Revit users.
 - Real-time Revit cloud work sharing and collaboration workflows for Civil 3D and Plant 3D
@@ -38,6 +38,6 @@ N.A. for non-SMEs
 N.A.
 
 #### Contact Information
-Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com<br>Contact Hotline: 6603 5441<br>Contact Email: CAROYN@INNOCOM.COM.SG 
+Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/<br>Contact Hotline: 6603 5441<br>Contact Email: CAROYN@INNOCOM.COM.SG 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
