@@ -9,7 +9,7 @@ FoodZaps Technology is a Singapore company with the most comprehensive and integ
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
