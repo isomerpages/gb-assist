@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Hubspot Asia Pte. Ltd. <br>Web URL: https://www.hubspot.com/products/get-started <br>Contact Hotline: 31583395 <br>Contact Email: jgilbert@hubspot.com <br>
+Company Name:Hubspot Asia Pte. Ltd. <br>Web URL: https://www.hubspot.com/products/get-started <br>Contact Hotline: 31583395 <br>Contact Email: imdagrant@hubspot.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

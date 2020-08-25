@@ -9,7 +9,7 @@ Innocom Technologies laptop bundle includes a Business Enterprise laptop  with t
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_INNOCOM_Microsoft_365_Annex_3_CR_wef_7_August_2020' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised%20INNOCOM%20Laptop%20Bundle%20Annex%203_CR%20wef%207%20August%202020.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/<br>Contact Hotline: 6603 5441<br>Contact Email: CAROYN@INNOCOM.COM.SG 
+Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/<br>Contact Hotline: 6603 5438/ 9070 8578<br>Contact Email: sales@innocom.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

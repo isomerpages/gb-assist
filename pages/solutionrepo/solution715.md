@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution715
 
 #### Description
 
-Pixie Tech s temperature screening solution for staff and visitors management include facial recognition with and without mask and integration to door access. It will sound an alarm on site and send an email if temperature detected above threshold. 
+Pixie Pitch's Health Science Authority (HSA) certified temperature screening solution for staff and visitors management include facial recognition with and without mask and optional integration to door access. It will sound an alarm on site and send an email if temperature detected above threshold. Data storage on Local Network within installed location.
 
 #### Details of Solution
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Pixie Pitch Pte Ltd<br>Web URL: Www.pixiepitch.com<br>Contact Hotline: +65 9244 8138<br>Contact Email: Janice@pixiepitch.com
+Company Name: Pixie Pitch Pte Ltd<br>Web URL: https://pixiepitch.com/face-recognition-temperature-measuring-device/<br>Contact Hotline: +65 9244 8138<br>Contact Email: info@pixiepitch.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
