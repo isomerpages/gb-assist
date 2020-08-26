@@ -9,7 +9,7 @@ A contactless temperature measurement and facial recognition-integrated terminal
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Skywave_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised%20Skywave%20Annex%203%20Class%20A%20License%20CR%20wef%2027%20Aug%202020.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

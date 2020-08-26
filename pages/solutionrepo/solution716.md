@@ -9,7 +9,7 @@ Pixie Pitch's Health Science Authority (HSA) certified temperature screening sol
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DDesensitised_Pixie_Pitch_Annex_3_CR_wef_30_July_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pixie_Pitch_Annex_3_CR_27_Aug_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
