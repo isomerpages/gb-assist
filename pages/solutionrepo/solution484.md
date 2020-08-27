@@ -38,6 +38,6 @@ N.A. for non-SMEs
 N.A.
 
 #### Contact Information
-Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/<br>Contact Hotline: 6603 5438/ 9070 8578<br>Contact Email: sales@innocom.com.sg
+Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/<br>Contact Hotline: 6603 5438<br>Contact Email: sales@innocom.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

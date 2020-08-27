@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Shopify Commerce Singapore Pte Ltd<br>Web URL: shopify.com.sg<br>Contact Hotline: +658008526699<br>Contact Email:PSG_Shopify_Support@shopify.com
+Company Name:Shopify Commerce Singapore Pte Ltd<br>Web URL: shopify.com.sg<br>Contact Hotline: nil<br>Contact Email:PSG_Shopify_Support@shopify.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
