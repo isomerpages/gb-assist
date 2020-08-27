@@ -1,7 +1,6 @@
 ---
 title: GeBIZ Alerts
 permalink: /gebiz-alerts/
-published: false
 ---
 
 ## GeBIZ Alerts
