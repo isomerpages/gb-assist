@@ -32,7 +32,7 @@ The AIDA grant supports projects that demonstrate adoption of AI & DA techniques
 
 #### Asian Financial Leaders Scheme (AFLS)
 
-The AFLS initiative helps Fis defray part of the costs incurred in sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes. 
+The AFLS initiative helps FIs defray part of the costs incurred in sending promising C-1/C-2 Singaporean finance professionals on eligible leadership programmes. 
 
 <a href="https://www.mas.gov.sg/schemes-and-initiatives/asian-financial-leaders-scheme" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -110,7 +110,7 @@ DAG scheme supports joint projects by multiple Singapore-based FIs to customise 
 
 #### Digital Acceleration Grant (DAG) - Institution Project
 
-DAG scheme supports Singapore-based Fis and Fintech firms adopt digital solutions to improve productivity, strengthen operational resilience, manage risks better, and serve customers better. 
+DAG scheme supports Singapore-based FIs and Fintech firms adopt digital solutions to improve productivity, strengthen operational resilience, manage risks better, and serve customers better. 
 
 <a href="https://www.mas.gov.sg/development/fintech/digital-acceleration-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -194,13 +194,13 @@ The ESF supports development and enhancement of tourism experiences that increas
 
 #### Finance Associate Management Scheme (FAMS)
 
-The FAMS helps Fis defray part of the costs incurred in the hiring of Singapore citizen staff who would be trained under their structured management/functional programmes.
+The FAMS helps FIs defray part of the costs incurred in the hiring of Singapore citizen staff who would be trained under their structured management/functional programmes.
 
 <a href="https://www.mas.gov.sg/schemes-and-initiatives/finance-associate-management-scheme-fams" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Financial Sector Technology and Innovation (FSTI) Scheme - FI project track
 
-The FSTI scheme supports Singapore-based Fis to catalyse innovative ideas and market solutions to advance the competitiveness of the financial institution and the sector. 
+The FSTI scheme supports Singapore-based FIs to catalyse innovative ideas and market solutions to advance the competitiveness of the financial institution and the sector. 
 
 <a href="https://www.mas.gov.sg/schemes-and-initiatives/fsti-scheme" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -350,7 +350,7 @@ The IBF-STS provides funding for programmes accredited under the IBF standards, 
 
 #### International Postings Programme (iPOST)
 
-The iPOST initiative helps Fis defray part of the costs incurred in sending Singapore citizen staff on global and regional attachments or postings.
+The iPOST initiative helps FIs defray part of the costs incurred in sending Singapore citizen staff on global and regional attachments or postings.
 
 <a href="https://www.mas.gov.sg/schemes-and-initiatives/international-postings-programme-ipost" target="_blank" style="color:#037e8a">Find out more</a>
 
