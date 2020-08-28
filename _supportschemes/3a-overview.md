@@ -28,6 +28,8 @@ COVID-19 has accelerated into a global pandemic. The global economy has been hit
 
 #### Sector-Specific Support
 
+{% include panels.html panels=site.data.sector_specific_support %}
+
 | [![F&B](/images/gov-assist/fnb.png)](/supportschemes/fnbsupport) | [![Hospitality and Tourism](/images/gov-assist/hospitality_tourism.png)](/supportschemes/tourismsupport) |
 
 | [![Maritime](/images/gov-assist/maritime.png)](/supportschemes/martimesupport) | ![ ](/images/gov-assist/overview_blank_tiles.png)|

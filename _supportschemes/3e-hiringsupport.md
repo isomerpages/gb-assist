@@ -23,6 +23,8 @@ This is a concerted effort as part of the Resilience Budget to create more oppor
 
 Whether you are looking to tackle the ongoing economic challenges, attract and retain local manpower, or improve productivity and innovation, WSG has the following programmes to provide you with support and resources customised for your manpower needs.
 
+{% include panels.html panels=site.data.transform_and_grow %}
+
 | [![SGUnited Jobs Initiative](/images/gov-assist/sgunited_jobs_initiative.png)](https://www.mycareersfuture.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) | [![SGUnited Traineeships Programme](/images/gov-assist/sgunited_traineeships_programme.png)](https://www.wsg.gov.sg/SGUnitedTraineeships-HostCompanies.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) |
 
 | [![Capability Transfer Programme](/images/gov-assist/capability_transfer_programme.png)](https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) | [![Career Trial](/images/gov-assist/career_trial.png)](https://www.wsg.gov.sg/programmes-and-initiatives/career-trial-employers.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz) |

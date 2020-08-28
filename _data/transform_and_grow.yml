@@ -1,19 +1,35 @@
-- title: Tax Incentives
-  description: Tax deductions and exemptions for businesses.
-  link: /gov-assist/tax-incentives/
+- title: SGUnited Jobs Initiative
+  description: Participate in the SGUnited Jobs initiative by adding the hashtag >#SGUnitedJobs after the job title when posting jobs on MyCareersFuture.sg
+  link: https://www.mycareersfuture.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz
 
-- title: Loans
-  description: Assisted financing through credit lending and risk sharing with government and participating financial institutions.
-  link: /gov-assist/loans/
+- title: SGUnited Traineeships Programme
+  description: Register as a host company to gain access to a qualified pool of fresh talent and receive Government funding for training allowance.
+  link: https://www.wsg.gov.sg/SGUnitedTraineeships-HostCompanies.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz
 
-- title: Grants
-  description: Co-funding for capability building, innovation, and internationalisation projects.
-  link: /gov-assist/grants/
+- title: Capability Transfer Programme
+  description: Support transfer of new capabilities from foreign specialists to local workforce.
+  link: https://www.wsg.gov.sg/programmes-and-initiatives/capability-transfer-programme.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz
 
-- title: Toolkits / Programmes
-  description: Self-assessments, guides, resources and other available programmes to build business capabilities.
-  link: /gov-assist/toolkits-programmes/
+- title: Career Trial
+  description: Assess a jobseeker’s fit via a cost-free work stint of up to 3 months.
+  link: https://www.wsg.gov.sg/programmes-and-initiatives/career-trial-employers.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz
 
-- title: COVID-19 Support
-  description: Immediate or enhanced assistance schemes for businesses to tide through the COVID-19 pandemic.
-  link: /supportschemes/general
+- title: Human Capital Partnership
+  description: Enjoy fast lane access to manpower development opportunities, schemes and grants.
+  link: https://www.tal.sg/tafep/Getting-Started/Exemplary/HCP-Programme?utm_source=mti&utm_medium=digital&utm_campaign=gobiz
+
+- title: Job Redesign
+  description: Drive business transformation and streamline job processes.
+  link: https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/index.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz
+
+- title: Lean Enterprise Development (LED) Scheme
+  description: Access funding and transitional manpower support for productivity solutions.
+  link: https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/lean-enterprise-development.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz
+
+- title: Professional Conversion Programme
+  description: Reskill mid-career PMETs with course fee grants and salary support to take on quality jobs.
+  link: https://conversion.mycareersfuture.sg/Portal/ProgramListing.aspx?source=PCP&utm_source=mti&utm_medium=digital&utm_campaign=gobiz
+
+- title: P-Max
+  description: Develop HR capabilities as an SME to better attract, manage and retain PMETs.
+  link: https://www.wsg.gov.sg/programmes-and-initiatives/p-max-employer.html?utm_source=mti&utm_medium=digital&utm_campaign=gobiz
