@@ -18,9 +18,13 @@ COVID-19 has accelerated into a global pandemic. The global economy has been hit
 * Corporate Income Tax Rebate
 * Deferment of Higher CPF Contribution Rates
 
-[![Click for more info](/images/gov-assist/click_for_more_info.png)](/supportschemes/immediateschemes) 
+<p>
+{% include button.html text="Click Here for More Information" src="/supportschemes/immediateschemes" type="primary" %}
+</p>
 
 #### Other Government support
+
+{% include panels.html panels=site.data.other_gov_support %}
 
 | [![Apply for Financial Schemes](/images/gov-assist/apply_financial_schemes.png)](/supportschemes/financialschemes) | [![Apply for Grants](/images/gov-assist/apply_grants.png)](/supportschemes/grantschemes) |
 
