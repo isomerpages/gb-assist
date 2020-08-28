@@ -26,10 +26,6 @@ COVID-19 has accelerated into a global pandemic. The global economy has been hit
 
 {% include panels.html panels=site.data.other_gov_support %}
 
-| [![Apply for Financial Schemes](/images/gov-assist/apply_financial_schemes.png)](/supportschemes/financialschemes) | [![Apply for Grants](/images/gov-assist/apply_grants.png)](/supportschemes/grantschemes) |
-
-| [![Assistance on Digital Support](/images/gov-assist/assistance_digital_support.png)](/supportschemes/digitalsupport) | [![Manpower Support](/images/gov-assist/manpower_support.png)](/supportschemes/manpowersupport) |
-
 #### Sector-Specific Support
 
 | [![F&B](/images/gov-assist/fnb.png)](/supportschemes/fnbsupport) | [![Hospitality and Tourism](/images/gov-assist/hospitality_tourism.png)](/supportschemes/tourismsupport) |
