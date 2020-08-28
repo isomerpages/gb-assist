@@ -33,5 +33,4 @@ Look for a tax incentive, loan, grant, or program here. Do keep in mind that you
 
 #### Related content
 
-{% include panels.html panels=site.data.related_content %}
-
+{% include panels.html panels=site.data.related_content_overview %}

@@ -46,4 +46,4 @@ You will be notified of your application results via email. Log into BGP to acce
 
 #### Related content
 
-| [![PSG](/images/gov-assist/psg.png "Productivity Solutions Grant")](/productivity-solutions-grant/) | ![](/images/gov-assist/overview_blank_tiles.png)|
+{% include panels.html panels=site.data.related_content_bgp %}
