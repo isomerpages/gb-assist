@@ -29,4 +29,3 @@ In order to ensure timeliness of notifications, GeBIZ Alerts actively pushes out
 {% include button.html text="Login to Subscribe for GeBIZ Alerts Now!" src="https://www.gobusiness.gov.sg/gebiz-alerts/sso-login" type="primary" %}
 </p>
 
-[![gebiz button](/images/gov-assist/gebiz_cta_button.png)](https://www.gobusiness.gov.sg/gebiz-alerts/sso-login)
