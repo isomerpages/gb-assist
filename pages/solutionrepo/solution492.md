@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution492
 
 #### Description
 
-Innocom Technologies laptop bundle includes a Business Enterprise laptop  with the latest Intel Core i5 processor, Microsoft Office 365 Standard, Microsoft Office Apps and Teams for online meeting, Anti-virus software, 1 year Next Business Day Hardware onsite support and HDD retention.
+Innocom Technologies laptop bundle includes a Business Enterprise laptop  with the latest Intel Core i5 processor, Microsoft Office 365 Standard, Microsoft Office Apps and Teams for online meeting, Anti-virus software, Next Business Day Hardware onsite support and HDD retention.
 
 #### Details of Solution
 
