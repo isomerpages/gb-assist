@@ -18,7 +18,9 @@ The e-Adviser is a free online tool to help businesses in selecting the right as
 Answer a few questions to be guided to the relevant assistance schemes based on your business needs and the qualifying criteria of the schemes. Access the e-Adviser here.
 
 <p>
-{% include button.html text="Get Started with e-Adviser" src="https://gaeadviser.gobusiness.gov.sg/" type="primary" %}
+{% include button.html text="Get Started with e-Adviser" src="
+https://gaeadviser.gobusiness.gov.sg/?src=govassist_overview
+" type="primary" %}
 </p>
 
 *Note: The e-Adviser will be improved continuously. Do give us your feedback so that we can better help you in the future.*

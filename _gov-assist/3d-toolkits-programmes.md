@@ -220,7 +220,7 @@ A guide for local SMEs in the Retail industry to digitalise your businesses, plu
 
 A guide for local SMEs in the Sea Transport industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
 
-<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/sea-transport-idp" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://go.gov.sg.mpa-idp" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Security Industry Digital Plan
 
@@ -232,7 +232,7 @@ A guide for local SMEs in the Security industry to digitalise your businesses, p
 
 Participate in the SGUnited Jobs Initiative by adding the hashtag #SGUnitedJobs after the job title when posting jobs on MyCareersFuture.sg
 
-<a href="https://www.mycareersfuture.sg" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.mycareersfuture.gov.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### SGUnited Traineeships Programme
 
