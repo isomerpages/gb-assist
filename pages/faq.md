@@ -6,7 +6,7 @@ permalink: /faq/
 ## General
 
 #### 1. What government assistance is my business eligible for?
-The <a href="https://gaeadviser.gobusiness.gov.sg/" target="_blank" style="color:#037e8a">e-Adviser for Government Assistance</a> will help you identify which government assistance is your business is eligible for based on your business needs and company profile.
+The <a href="https://gaeadviser.gobusiness.gov.sg/?src=govassist_faq1" target="_blank" style="color:#037e8a">e-Adviser for Government Assistance</a> will help you identify which government assistance is your business is eligible for based on your business needs and company profile.
  
 #### 2. What support could I get as a business affected by COVID-19?
 View the list of government assistance available specifically for COVID-19 support and relief <a href="/supportschemes/general/" style="color:#037e8a">here</a>.
@@ -20,7 +20,7 @@ You may view the list of government assistance by support type here.
  * <a href="/gov-assist/toolkits-programs/" style="color:#037e8a">Toolkits/Programs</a>
  
 #### 4. Where can I get business advice on which government assistance to apply for?
-To start, you may use the <a href="https://gaeadviser.gobusiness.gov.sg/" target="_blank" style="color:#037e8a">e-Adviser for Government Assistance</a> that will help you identify which government assistance you could apply for based on your business needs.
+To start, you may use the <a href="https://gaeadviser.gobusiness.gov.sg/?src=govassist_faq4" target="_blank" style="color:#037e8a">e-Adviser for Government Assistance</a> that will help you identify which government assistance you could apply for based on your business needs.
 
 If you wish to speak with a business advisory, you may arrange an appointment with any of our SME Centres <a href="https://www.enterprisesg.gov.sg/contact/overview" target="_blank" style="color:#037e8a">here</a>.
  

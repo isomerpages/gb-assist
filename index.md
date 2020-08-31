@@ -11,10 +11,10 @@ sections:
         subtitle: The e-Adviser helps businesses in finding relevant assistance schemes based on their needs.
         background: /images/govassist-hero-banner.jpg/
         button: Get started with e-Adviser
-        url: https://gaeadviser.gobusiness.gov.sg/
+        url: https://gaeadviser.gobusiness.gov.sg/?src=homepage_button
         key_highlights:
         - title: E-adviser
-          url: https://gaeadviser.gobusiness.gov.sg/
+          url: https://gaeadviser.gobusiness.gov.sg/?src=homepage_keyhighlights
           description: Find relevant Government assistance schemes for your business needs
         - title: Gebiz Alerts
           url: /gebiz-alerts/
