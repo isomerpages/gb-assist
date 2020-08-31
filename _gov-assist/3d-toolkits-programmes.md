@@ -232,7 +232,7 @@ A guide for local SMEs in the Security industry to digitalise your businesses, p
 
 Participate in the SGUnited Jobs Initiative by adding the hashtag #SGUnitedJobs after the job title when posting jobs on MyCareersFuture.sg
 
-<a href="https://www.mycareersfuture.sg" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.mycareersfuture.gov.sg/?utm_source=mti&utm_medium=digital&utm_campaign=gobiz" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### SGUnited Traineeships Programme
 
