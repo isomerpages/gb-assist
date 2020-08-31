@@ -220,7 +220,7 @@ A guide for local SMEs in the Retail industry to digitalise your businesses, plu
 
 A guide for local SMEs in the Sea Transport industry to digitalise your businesses, plug skill gaps and participate in industry pilot projects.
 
-<a href="https://go.gov.sg.mpa-idp" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://go.gov.sg/mpa-idp" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Security Industry Digital Plan
 
