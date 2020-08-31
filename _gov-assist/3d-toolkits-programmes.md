@@ -208,7 +208,7 @@ Portable medical benefits are medical benefits that employees can bring with the
 
 Receive training and salary support to hire and reskill job seekers, including mid-career switchers. Receive up to 90% salary support capped at $6,000/month for every eligible new hire.
 
-<a href="https://www.wsg.gov.sg/programmes-and-initiatives/professional-conversion-programmes-employers.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://conversion.mycareersfuture.gov.sg/Portal/ProgramListing.aspx?source=PCP&utm_source=mti&utm_medium=digital&utm_campaign=gobiz" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Retail Industry Digital Plan
 
