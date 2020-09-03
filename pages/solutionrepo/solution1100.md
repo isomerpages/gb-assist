@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1100
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Microlabs_20200231_Annex_3_20200630144142_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

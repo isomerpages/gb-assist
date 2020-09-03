@@ -9,7 +9,7 @@ An intuitive user interface designed for sales. A Dashboard for a better overvie
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

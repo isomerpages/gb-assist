@@ -9,7 +9,7 @@ MecWise HRMS is easy to setup and simple to use. It can be tailored to suit the 
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Starvision_20200213_Annex_3_20200630170003_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

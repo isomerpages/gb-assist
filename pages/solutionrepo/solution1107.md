@@ -9,7 +9,7 @@ AutoCount Accounting stands out as one of the best accounting software for today
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

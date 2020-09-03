@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1059
 
 #### Description
 
-ProLight SPMP is an all-in-one Military Grade Face Recognition with Temperature scanning equipped, industrial-class binocular camera, live face recognition technology and infrared thermal imaging module. 
+ProLight SPMP is an all-in-one military grade face recognition with temperature scanning equipped, industrial-class binocular camera, live face recognition technology and infrared thermal imaging module.
 
 #### Details of Solution
 

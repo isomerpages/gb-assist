@@ -13,7 +13,7 @@ ABSS Premier is an accounting and inventory management system that integrates wi
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Asian_Business_Software_Solutions_Annex 3_ver2_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Annex_3_CR_wef_4th_Sept_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
