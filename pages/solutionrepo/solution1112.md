@@ -12,7 +12,7 @@ Alternatively, SGDATAPOS can integrate with third party system such as e-commerc
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_20200230_Annex_3_20200630144735_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

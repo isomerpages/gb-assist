@@ -1,18 +1,15 @@
 ---
-title: Globe3 ERP Version 5.6 - Package (5 Users)
-permalink: /productivity-solutions-grant/solutionrepo/solution884
+title: COVID-19 Support Aesthetics Marketing Temperature Monitoring Platform - 1 Device
+permalink: /productivity-solutions-grant/solutionrepo/solution1208
 ---
 
 #### Description
 
-Globe3 ERP is a web-based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising finance, supply chain, projects, CRM, and production, which improves organization processes immediately with the enhancements and streamlining of key business processes and reduction in informational and operational bottlenecks. 
-
-
-
+Aesthetics Marketing Temperature Monitoring Platform is a solution that combines non-contact temperature screening, facial recognition and face mask detection with audio and LED light alert. The solution also comes with an attendance management module for staff.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/TNO_Annex_3_CR_wef_15Nov2019_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AestheticsMkt_Temp%20Screening_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-TNO Systems Pte Ltd<br>www.sg.globe3.com<br>Email: sales@globe3.com<br>Tel: +65 6749 8823
+Company Name: Aesthetics Marketing Asia Private Limited<br>Web URL: www.aesthetics.com.sq<br>Contact Hotline:67479808<br>Contact Email: gm@aesthetics.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

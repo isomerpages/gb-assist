@@ -9,7 +9,7 @@ Development of an online shopping website with comprehensive functionalities to 
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised%20Firstcom%2020200125_Annex_3_20200630152443.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

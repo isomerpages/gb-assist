@@ -9,7 +9,7 @@ BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_20200191_Annex_3_20200630143559_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

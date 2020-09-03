@@ -10,7 +10,7 @@ Use of Tablet, Biometric Reader supports fingerprint or face recognition to capt
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_E-scheduling_20200223_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
