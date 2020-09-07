@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:TabSquare Pte Ltd <br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com <br>

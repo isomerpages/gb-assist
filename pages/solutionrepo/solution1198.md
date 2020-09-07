@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: SYNER-G TECHNOLOGIES PTE LTD<br>Web URL: www.synergtech.com <br>Contact Hotline: 6299 4495 <br>Contact Email: roger.siow@synergtech.com <br>
