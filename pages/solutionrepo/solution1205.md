@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Availabilit's Remote Working Solution - Microsoft Office 365 Business Standard
+title: COVID-19 Support Availabilit’s Remote Working Solution - Microsoft Office 365 Business Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1205
 ---
 
@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Availabilit Pte Ltd<br>Web URL: www.avbt.com.sg<br>Contact Hotline: 65139192<br>Contact Email: marcus@avbt.com.sg<br>

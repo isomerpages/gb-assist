@@ -1,5 +1,5 @@
 ---
-title: (eScheduling) QuickHR - Cloud eScheduling - Enhanced 175
+title: (eScheduling) QuickHR - Cloud eScheduling – Enhanced 175
 permalink: /productivity-solutions-grant/solutionrepo/solution1171
 ---
 
@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:Enable Business Pte Ltd <br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co <br>

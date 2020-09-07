@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg <br>
