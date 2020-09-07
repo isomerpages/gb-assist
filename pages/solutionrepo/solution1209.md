@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Aesthetics Marketing Asia Private Limited<br>Web URL: www.aesthetics.com.sq<br>Contact Hotline:67479808<br>Contact Email: gm@aesthetics.com.sg<br>

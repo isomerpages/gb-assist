@@ -9,7 +9,7 @@ The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationsh
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_HUBSPOT_20200137_Annex_3_20200707122712_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

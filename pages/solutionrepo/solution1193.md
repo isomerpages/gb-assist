@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Adventus Singapore Pte Ltd <br>Web URL: https://adventusasia.com/ <br>Contact Hotline:  6100 3310 <br>Contact Email: don.foo@adventusasia.com <br>

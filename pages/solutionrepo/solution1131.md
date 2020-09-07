@@ -1,15 +1,15 @@
 ---
-title: BOTG Version 1.0 - Booking On The Go (Standard)
+title: BOTG Version.1 (Booking On The Go) Version 1.0 - Booking On The Go (Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution1131
 ---
 
 #### Description
 
-Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible
+Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex_3_CR_wef_7_Sept_2020.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_20200064_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
