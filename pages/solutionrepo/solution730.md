@@ -10,7 +10,7 @@ Qashier provides smart point-of-sale (POS) solutions to help small merchants dig
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Qashier_20200024_Annex_3_20200625143125_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Revised_Annex_3_ver3_CR_wef_10_Sept_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Getz F&B Integrated Instore and Online Transformation Version 2 - Package C (Instore Transformation Only - 2 Mods)
+title: Getz F&B Integrated Instore Transformation Version 2 - Package C (Instore Transformation Only - 2 Mods)
 permalink: /productivity-solutions-grant/solutionrepo/solution433
 ---
 
@@ -17,7 +17,7 @@ Full Integrated solution that can also be used individually without changing POS
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Getz_Group_20200108_Annex_3_20200625144748_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Getz_Group_Annex_3-CR_wef_10_Sept_2020.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -42,6 +42,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Getz Group Pte Ltd<br>http://www.getz.co/<br>Email: hello@getz.co<br>Tel: +65 9021 5961
+Company Name:Getz Group Pte Ltd <br>Web URL:http://www.getz.co/ <br>Contact Hotline:90215961 <br>Contact Email:hello@getz.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
