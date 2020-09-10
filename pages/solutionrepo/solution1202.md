@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: NTC Integration Pte Ltd<br>Web URL: www.ntc.com.sg<br>Contact Hotline: 62762823<br>Contact Email: marketing@ntc.com.sg <br>
