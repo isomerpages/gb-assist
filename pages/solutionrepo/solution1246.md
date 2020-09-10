@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: ZOOM VISUAL PTE LTD<br>Web URL: WWW.ZOOMVISUAL.COM.SG<br>Contact Hotline:  62822508 <br>Contact Email: LILI.LEE@ZOOMVISUAL.COM.SG <br>

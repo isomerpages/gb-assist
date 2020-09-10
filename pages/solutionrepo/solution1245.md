@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: Solo Pte. Ltd. <br>Web URL:www.solo.com.sg<br>Contact Hotline:  65158803<br>Contact Email: ryan@solo.com.sg  <br>

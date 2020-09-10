@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:TNO Systems Pte Ltd <br>Web URL: www.globe3.com <br>Contact Hotline: 67498823 <br>Contact Email: sales@globe3.com <br>
