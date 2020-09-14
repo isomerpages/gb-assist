@@ -1,5 +1,5 @@
 ---
-title: IdeaPad 3   Next-Gen Collaboration Solution
+title: COVID-19 Support Lenovo s Next-Gen Collaboration Solution (Laptop + Microsoft 365 only) - IdeaPad 3 Next-Gen Collaboration Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution1007
 ---
 
@@ -9,7 +9,7 @@ Lenovo s Next-Gen Collaboration Solution Laptop Bundle provides  business-grade 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Lenovo-Laptop_Bundle-Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Lenovo-Business_Laptop_Bundle-Annex_3_CR_wef_15_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

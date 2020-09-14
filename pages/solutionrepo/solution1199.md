@@ -9,7 +9,7 @@ SYNERG Online Collaboration Tool with Laptop is a solution that allows the busin
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Synergtech-LaptopBundle_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Synergtech-LaptopBundle_Annex_3_v2-Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
