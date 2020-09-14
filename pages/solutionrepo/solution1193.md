@@ -16,10 +16,10 @@ Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adven
 Applicants must meet the following eligibility criteria at the point of application:
 
 a) must be registered in Singapore <br>
-b) purchase/lease of the equipment must be used in Singapore <br>
+b) purchase/lease of the IT solution or equipment must be used in Singapore <br>
 c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment
 
 Please refer to 'Things to Note' for additional requirements.
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Adventus Singapore Pte Ltd <br>Web URL: https://adventusasia.com/ <br>Contact Hotline:  6100 3310 <br>Contact Email: don.foo@adventusasia.com <br>
+Company Name: Adventus Singapore Pte Ltd <br>Web URL: https://adventusasia.com/ <br>Contact Hotline:  6100 3310 <br>Contact Email: info@adventusasia.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

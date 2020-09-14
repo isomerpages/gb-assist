@@ -17,10 +17,10 @@ Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Match_Resources_Pa
 Applicants must meet the following eligibility criteria at the point of application:
 
 a) must be registered in Singapore <br>
-b) purchase/lease of the equipment must be used in Singapore <br>
+b) purchase/lease of the IT solution or equipment must be used in Singapore <br>
 c) must not have:
-- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the equipment
-- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the equipment
+- Made any payment to a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment
+- Signed any contract with a supplier, vendor or third party in relation to the purchase/lease of the IT solution or equipment
 
 Please refer to 'Things to Note' for additional requirements.
 
