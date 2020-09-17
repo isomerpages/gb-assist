@@ -1,15 +1,20 @@
 ---
-title: Xero Cloud Accounting Software Version 10.5 - Premium, Set Up Package
-permalink: /productivity-solutions-grant/solutionrepo/solution969
+title: Digital Welding Equipment 
+permalink: /productivity-solutions-grant/solutionrepo/solution1286
 ---
 
 #### Description
 
-Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
+Consists of digital welding machines (hardware) and management software:
+- Compute actual real-time output of voltage, reducing manual recording and computing
+- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
+- Provide data logging to track welders' performance/ productivity
+- Monitor power consumption and consumables
+- User can pre-set/control welding parameters and optimise voltage applied
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/YOIO_20200131_Annex_3_20200625150411_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -31,9 +36,13 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Current adjusting range: minimally +/- 150A
+Digital function: digitally compute actual real-time output of voltage, provide data logging
+Safety: minimally IP21S
+Includes: welding set, earth cable with clamps and connectors, welding harness, welding monitoring software license
+Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
 
 #### Contact Information
-YOIO PTE LTD<br>www.yoio-sg.com<br>Email: hanz@yoio-sg.com<br>Tel: +65 9179 3142
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
