@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:V3 Smart Technologies Pte Ltd <br>Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com <br>
+Company Name:V3 Smart Technologies Pte Ltd <br>Web URL: http://www.v3smarttech.com/solutions/workforce-assignment-mobility-wam/ <br>Contact Hotline: 64884176 <br>Contact Email: sales@v3smarttech.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
