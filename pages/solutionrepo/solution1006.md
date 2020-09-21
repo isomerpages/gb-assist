@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Lenovo Singapore Pte Ltd <br>Web URL: https://www.lenovo.com/sg/en <br>Contact Hotline:68271000 <br>Contact Email: rchow1@lenovo.com 
+Company Name: Lenovo Singapore Pte Ltd <br>Web URL: https://www.lenovo.com/sg/en <br>Contact Hotline:68271000 <br>Contact Email: psglenovo@lenovo.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
