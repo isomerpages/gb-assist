@@ -23,6 +23,15 @@ sections:
           url: /productivity-solutions-grant/#supportable-solutions
           description: View the list of Supportable IT solutions and Equipment
     - infobar:
+        title: e-Adviser Feedback
+        subtitle: 
+        description: We welcome your views on the e-Adviser! Kindly fill up the feedback form to share your experience in using the e-Adviser.<br/>To help us improve, do furnish us with as much detail as possible. We appreciate your time and feedback.
+        button: Share Feedback on e-Adviser
+        url: https://go.gov.sg/8qhbco
+        description: Have not tried the e-Adviser? Get Started here.<br/>The e-Adviser is a free online tool to help businesses in finding relevant assistance schemes via a series of questions.
+        button: Get Started with e-Adviser
+        url: https://gaeadviser.gobusiness.gov.sg/?src=homepage_feedback
+    - infobar:
         title: List of Government Assistance
         subtitle: 
         description: The Singapore Government offers a range of assistance schemes to help businesses grow and succeed.<br/>Look for a tax incentive, loan, grant, or programme here.
