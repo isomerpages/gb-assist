@@ -25,7 +25,7 @@ sections:
     - infobar:
         title: e-Adviser Feedback
         subtitle: 
-        description: We welcome your views on the e-Adviser! Kindly fill up the feedback form to share your experience in using the e-Adviser.<br/>To help us improve, do furnish us with as much detail as possible. We appreciate your time and feedback!<br/><a href="https://go.gov.sg/8qhbco" rel="noreferrer" target="_blank" class="bp-sec-button margin--top padding--bottom"><u> Share Feedback on e-Adviser</u> <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></a><br/> Have not tried the e-Adviser? Get Started here.<br/>The e-Adviser is a free online tool to help businesses in finding relevant assistance schemes via a series of questions.
+        description: We welcome your views on the e-Adviser! Kindly fill up the feedback form to share your experience in using the e-Adviser.<br/>To help us improve, do furnish us with as much detail as possible. We appreciate your time and feedback!<br/><a href="https://go.gov.sg/8qhbco" rel="noreferrer" target="_blank" class="bp-sec-button margin--top padding--bottom"><u> Share Feedback on e-Adviser</u> <i class="sgds-icon sgds-icon-arrow-right is-size-4" aria-hidden="true"></i></a><br/><p style="color:#037e8a;">Have not tried the e-Adviser? Get Started here.</p>The e-Adviser is a free online tool to help businesses in finding relevant assistance schemes via a series of questions.
         button: Get Started with e-Adviser
         url: https://gaeadviser.gobusiness.gov.sg/?src=homepage_feedback
     - infobar:
