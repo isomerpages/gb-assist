@@ -1,15 +1,15 @@
 ---
-title: CSG - Autodesk AEC Collection - Single User Annual Subscription
-permalink: /productivity-solutions-grant/solutionrepo/solution1215
+title: SMEPAYROLL HRMS Version 11 - Professional 200
+permalink: /productivity-solutions-grant/solutionrepo/solution1292
 ---
 
 #### Description
 
-The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and AutoCAD, enabling designers, engineers, and contractors to efficiently deliver high quality building and infrastructure projects. With the AEC Collection, teams can create in new ways, explore what's possible, and build with confidence.
+SMEPayroll is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_20200236_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_20200326_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,12 +28,12 @@ Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-NA% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Nil
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+Company Name:ADVANCED & BEST TECHNOLOGIES PTE LTD <br>Web URL: www.smepayroll.com <br>Contact Hotline: 68372336 <br>Contact Email: business@smepayroll.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

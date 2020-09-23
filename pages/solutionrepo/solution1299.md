@@ -1,15 +1,15 @@
 ---
-title: CSG - Autodesk AEC Collection - Single User Annual Subscription
-permalink: /productivity-solutions-grant/solutionrepo/solution1215
+title: ACE e-commerce solution - Ace Online Ordering System
+permalink: /productivity-solutions-grant/solutionrepo/solution1299
 ---
 
 #### Description
 
-The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and AutoCAD, enabling designers, engineers, and contractors to efficiently deliver high quality building and infrastructure projects. With the AEC Collection, teams can create in new ways, explore what's possible, and build with confidence.
+Sleekest e-commerce system, integrated with delivery partners, that has helped our clients reduced manpower by up to 50% and increased profits by minimally 10,000 a month. No commission fees and integrated with online delivery partners.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_20200236_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_C_O_Enterprise_20200416_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,12 +28,12 @@ Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-NA% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Nil
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+Company Name:C.O Enterprise Pte Ltd <br>Web URL: co-enterprise.com.sg <br>Contact Hotline: 97663115 <br>Contact Email: marketing@co-enterprise.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -14,7 +14,7 @@ Consists of digital welding machines (hardware) and management software:
 
 #### Details of Solution
 
-N.A.
+Coming soon.
 
 #### Eligibility Criteria
 
@@ -43,6 +43,6 @@ Includes: welding set, earth cable with clamps and connectors, welding harness, 
 Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
 
 #### Contact Information
-N.A.
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

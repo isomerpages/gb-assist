@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact Hotline: 82286833 <br>Contact Email: info@botg.com.sg<br>
+Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
