@@ -34,6 +34,6 @@ N.A. for non-SMEs
 N.A.
 
 #### Contact Information
-IBASE Technology Pte Ltd<br>www.ibase.com.sg / www.qornerstone.com<br>Email: sales@qornerstone.com<br>Tel: +65 6557 2516
+IBASE Technology Pte Ltd<br>www.ibase.com.sg / www.qornerstone.com<br>Email: sales@qornerstone.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
