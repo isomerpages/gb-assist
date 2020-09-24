@@ -13,9 +13,8 @@ With GoBusiness Gov Assist, businesses in Singapore can now find government assi
 
 #### Get started with our e-Adviser
 
-<br />
 <div class="bp-youtube">
-  <iframe src="https://youtu.be/9-U_83QxBBc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe src="https://www.youtube.com/embed/9-U_83QxBBc" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 
 The e-Adviser is a free online tool to help businesses in selecting the right assistance schemes based on their business needs. 
