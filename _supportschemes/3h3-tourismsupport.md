@@ -1,10 +1,10 @@
 ---
-title: Hospitality and Tourism 
+title: Hospitality & Tourism 
 permalink: /supportschemes/tourismsupport/
 third_nav_title: Sector-Specific Support
 ---
 
-## Hospitality and Tourism
+## Hospitality & Tourism
 
 #### Tourism Development Fund
 
