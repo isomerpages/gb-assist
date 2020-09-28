@@ -1,15 +1,15 @@
 ---
-title: Wireless Tour Guide System 
+title: SUNTOYO POS SOLUTION Version 8.1 - PACKAGE (ENTERPRISE PLUS)
 permalink: /productivity-solutions-grant/solutionrepo/solution1123
 ---
 
 #### Description
 
-Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
+Our POS solution is customizable to use in multiple business sectors, which are Retail, F&B and SPA business models. We have almost developed most of the commonly used functionalities which are using in the above-mentioned areas. We do have a prominent in-house development and support team to full fill our client requirements.
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_20200184_Annex_3_20200630145216_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,12 +28,12 @@ Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-60% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Operating time of >15 hours and talk range of 100-200 meters. Example vendor: Kenwah System
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:SUNTOYO TECHNOLOGY PTE LTD <br>Web URL: WWW.SUNTOYO.COM.SG <br>Contact Hotline: 65533855 <br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

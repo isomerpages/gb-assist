@@ -1,5 +1,5 @@
 ---
-title: FoodZaps Version 4.0 - Package E(eMenu with Customer QR/Online Self Ordering Contactless Ordering Solution)
+title: FoodZaps Version 4.0 - Package D(eMenu, eWaiter, Customer QR/Online Self Ordering and Digital Payment all-in-one solution)
 permalink: /productivity-solutions-grant/solutionrepo/solution1125
 ---
 
@@ -9,7 +9,7 @@ FoodZaps Technology is a Singapore company with the most comprehensive and integ
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_67.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_45.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Novade - Package 3 Novade Safety (1 Project, up to 3 years)
+title: Novade - Package 2 Novade Safety (1 Project, up to 2 years)
 permalink: /productivity-solutions-grant/solutionrepo/solution1152
 ---
 
@@ -9,7 +9,7 @@ Novade provides an enterprise platform for site operations. Novade leverages mob
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: MecWise People Version 5 - Package C (60 pax)
+title: MecWise People Version 5 - Package B (30 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution1115
 ---
 
@@ -9,7 +9,7 @@ MecWise HRMS is easy to setup and simple to use. It can be tailored to suit the 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Starvision_20200213_Annex_3_20200630170003_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Starvision_20200213_Annex_3_20200630170003_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

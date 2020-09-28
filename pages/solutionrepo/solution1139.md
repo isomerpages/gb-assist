@@ -1,5 +1,5 @@
 ---
-title: LFSuite Version 6.0 - Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)
+title: LFSuite Version 6.0 - Package C [Complete]  - (3x Digital Ordering + KDS + Analytics)
 permalink: /productivity-solutions-grant/solutionrepo/solution1139
 ---
 
@@ -9,7 +9,7 @@ Optimize your F&B business productivity and operational efficiency with DinePlan
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_20200321_Annex_3_Part_45.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_20200321_Annex_3_Part_23.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

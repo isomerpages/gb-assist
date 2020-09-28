@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Facial Biometric Thermometer Version 2.0-Package A (Per Bundle x 2)
+title: COVID-19 Support Facial Biometric Thermometer Version 2.0-Package A (Per Bundle x 1)
 permalink: /productivity-solutions-grant/solutionrepo/solution1247
 ---
 
@@ -9,7 +9,7 @@ Zoom Visual's Facial Biometric Thermometer Solution is a solution integrates wit
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Zoom_Visual_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Zoom_Visual_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

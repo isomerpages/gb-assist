@@ -1,15 +1,15 @@
 ---
-title: BOTG Version 1.0 - Standard
+title: COVID-19 Support AI Face Recognition Temperature Screening Attendance and Visitor Management System Version 2.0 Package B (Per Bundle x 2)
 permalink: /productivity-solutions-grant/solutionrepo/solution1131
 ---
 
 #### Description
 
-Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
+The solution is an innovative access control system with in-built high-end facial recognition and non-contact temperature detection technology. It can be used to track attendance and manage visitors, or door access or standalone for temperature tracking with alarm when abnormal temperature detected.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_20200064_Annex_3_Revised_CR_wef_7_Sept_2020v2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
+Company Name: Vue Tech Pte Ltd<br>Web URL:  https://vuetechsg.com <br>Contact Hotline: +65 8733 7266 / +65 6902 8316<br>Contact Email: godigital@vuetechsg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

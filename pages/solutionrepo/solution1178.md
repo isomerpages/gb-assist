@@ -1,5 +1,5 @@
 ---
-title: Madsoft Solutions IAF Version 320 - Package C (Madsoft Enterprise 3 users with RFID Hardware)
+title: Madsoft Solutions IAF Version 320 - Package B (Madsoft Business 5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1178
 ---
 
@@ -9,7 +9,7 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

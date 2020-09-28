@@ -1,5 +1,5 @@
 ---
-title: CoreMatter - Package (12 users)
+title: CoreMatter - Package (6 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution920
 ---
 
@@ -9,7 +9,7 @@ CoreMatter is a cloud based, Legal Accounting and Practice Management System, de
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_CoreMatter_Annex_3_CR_wef8June2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_CoreMatter_Annex_3_CR_wef8June2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

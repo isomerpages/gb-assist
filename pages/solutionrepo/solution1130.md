@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support AI Face Recognition Temperature Screening Attendance and Visitor Management System Version 2.0 Package B (Per Bundle x 2)
+title: COVID-19 Support AI Face Recognition Temperature Screening Attendance and Visitor Management System Version 2.0 Package A (Per Bundle x 1)
 permalink: /productivity-solutions-grant/solutionrepo/solution1130
 ---
 
@@ -9,7 +9,7 @@ The solution is an innovative access control system with in-built high-end facia
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

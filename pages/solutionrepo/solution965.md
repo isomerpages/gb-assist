@@ -1,16 +1,18 @@
 ---
-title: COVID-19 Support Xjera Labs Video Analytics for Crowd Management - Package A (License for 1 Camera)
+title: Xintesys Sales and Inventory Management Solution Version V30DC_01-001 - Basic Pack (10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution965
 ---
 
 #### Description
 
-Xjera video analytics solution provides robust, accurate and quick-to-install solutions for the business owners. Using deep learning algorithms the solution is able to provide crowd monitoring and management and social distancing. Optional features include perimeter defence, tripwire detection, footfall counting, people counting, illegal parking, queue monitoring and dashboard. 
-The solution can be deployed on-premise or on the cloud depending on the customer's preference. 
+"Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
+
+It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements."
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Xjeralabs_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +27,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -35,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Xjera Labs Pte Ltd<br>www.xjeralabs.com<br>Email: enquiry@xjeralabs.com<br>Tel: +65 9111 9025
+Xintesys Consultancy Pte Ltd<br>www.xintesys.com<br>Email: solutions@xintesys.com<br>Tel: +65 9011 5595
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

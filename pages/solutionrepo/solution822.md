@@ -1,17 +1,16 @@
 ---
-title: XERO CLOUD ACCOUNTING SOFTWARE - Xero Start-up Package
-permalink: /productivity-solutions-grant/solutionrepo/solution925
+title: Flavor CRM Version 1 - Expert Mode 1
+permalink: /productivity-solutions-grant/solutionrepo/solution822
 ---
 
 #### Description
 
-Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
-By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
+Flavor CRM is a robust solution for keeping tracking of leads, conversion and managing experience of your customers. Our platform has been designed EdTech Businesses and can be used by any organisation in training business.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/W.L.P_20200092_Annex_3_20200625144237_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Sodainmind_20200054_Annex_3_20200625144703_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -26,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -36,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-W.L.P PTE LTD<br>https://www.wlp.com.sg/<br>Email: info@wlp.com.sg<br>Tel: +65 6493 2970
+Sodainmind Pte Ltd<br>www.sodainmind.com<br>Email: info@sodainmind.com<br>Tel: +65 6679 1003
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

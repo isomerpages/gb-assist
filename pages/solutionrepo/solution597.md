@@ -1,16 +1,15 @@
 ---
-title: HRSS & Payroll Processing with JustLogin - Package (1 - 25 Employees)
+title: HRSS Recruitment / On-Boarding via Zoho Recruit - Package (Annual)
 permalink: /productivity-solutions-grant/solutionrepo/solution597
 ---
 
 #### Description
 
-Providing customized HR outsourcing services combined with Human Capital Management solutions/SaaS such as Employment Information System, Leave Management, Expense Claims, Time Attendance, Payroll Benefits that includes mobile app.
-
+Match Resources provides services with applicant tracking system that streamlines hiring process, to help source best talent faster, track resumes and interviews efficiently. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Match_Resources_Payroll_Annex_3_CR_wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Match_Resources_Onboarding_Annex_3_CR wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

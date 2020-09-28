@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support JY-Hikvision Package C (3 Units)
+title: COVID-19 Support JY-Hikvision Package B (2 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution1128
 ---
 
@@ -9,7 +9,7 @@ JY Cloud VMS with Hikvision facial recognition & fever screening solution enable
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_JYComm_Annex_3_ver2_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_JYComm_Annex_3_ver2_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

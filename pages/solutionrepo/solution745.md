@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Support Rubify Online Collaboration Software - Lark Enterprise Package
-permalink: /productivity-solutions-grant/solutionrepo/solution757
+title: COVID-19 Support Rentalworks Mobile Working Laptop Program (Microsoft 365 Business Standard)
+permalink: /productivity-solutions-grant/solutionrepo/solution745
 ---
 
 #### Description
 
-Rubify Technology Pte. Ltd.'s Lark Collaboration offering includes features such as calendar, file sharing, video conferencing, instant messaging, app integrations and digital workflow management.
-
+Rentalworks Mobile Working Laptop Program is a bundle program focusing on enabling businesses to empower mobile working and active online collaboration amongst its employees. The program bundle includes a business class laptop, office productivity applications, online collaboration tool, security software and tech support to get the laptop all setup during deployment as well as assistance during its 1st year lifecycle.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Rubify_Remote Working_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_RentalWorks_Annex_3_CR_wef_4th_Sept_2020.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Rubify Technology Pte Ltd<br>https://rubify.com/home/smegodigital<br>Email: nicholas@rubify.com<br>Tel: +65 9002 5517
+Rentalworks (SG) Pte Ltd<br>www.rentalworks.com.sg<br>Email: Chloe.le@rentalworks.com.sg<br>Tel: +65 9611 9602
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

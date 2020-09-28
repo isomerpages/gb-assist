@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support SYNERG Online Collaboration Too - Gsuite
+title: Gen Collaboration Solution - Microsoft 365 Business Standard + Dell laptop
 permalink: /productivity-solutions-grant/solutionrepo/solution1194
 ---
 
 #### Description
 
-SYNERG Online Collaboration Tool offers businesses with either the Microsoft 365 or G Suite option. Both options offer an integrated enterprise suite of office productivity and collaboration tools developed by Microsoft and Google respectively. The cloud-based platforms provide for an easy to use remote working solution that comes with business email, virtual meeting/video conferencing tools, and secure cloud storage.
+The Adventus Business Laptop Bundle provide for business-grade laptop with collaborative tools and endpoint protection for SME to work remotely and securely. Adventus is providing Software + Laptop bundle - one package (Microsoft Business Standard + Dell Latitude 3410).
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Synergtech-OnlineCollab_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adventus-Remote_Collaboration-Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: SYNER-G TECHNOLOGIES PTE LTD<br>Web URL: www.synergtech.com <br>Contact Hotline: 6299 4495 <br>Contact Email: roger.siow@synergtech.com <br>
+Company Name: Adventus Singapore Pte Ltd <br>Web URL: https://adventusasia.com/ <br>Contact Hotline:  6100 3310 <br>Contact Email: info@adventusasia.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

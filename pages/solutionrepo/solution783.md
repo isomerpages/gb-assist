@@ -1,17 +1,15 @@
 ---
-title: Million Accounting and Stock Control System Version 3 - Package C (3 Users)
-permalink: /productivity-solutions-grant/solutionrepo/solution1148
+title: Shopmatic Pro Concierge
+permalink: /productivity-solutions-grant/solutionrepo/solution783
 ---
 
 #### Description
 
-Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports.
-
-Million Accounting supports Multi-Company and Multi-Currency and has four modules - Accounting, Stock, Invoicing and Payroll.
+Shopmatic is a SaaS solution that offers an integrated business solutions for SMEs to take their business online and providing full accessibility to the business owner to operate their e-commerce presence.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200199_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Annex_3_CR_wef_18_Aug_2020.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -36,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Rockbell International Software Pte Ltd <br>Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
+Company Name:Shopmatic Pte Ltd <br>Web URL: www.goshopmatic.com <br>Contact Hotline: 69569202 <br>Contact Email: shopsupportsg@goshopmatic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

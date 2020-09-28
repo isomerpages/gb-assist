@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support SYNERG Online Collaboration Too- Prem (Gsuite)
+title: COVID-19 Support SYNERG Online Collaboration Too - Microsoft 365
 permalink: /productivity-solutions-grant/solutionrepo/solution1196
 ---
 
 #### Description
 
-SYNERG Online Collaboration Tool with Laptop is a solution that allows the business users to adopt remote working. The solution bundle includes a business class laptop with endpoint protection and collaborative cloud-based office productivity tools to facilitate the remote working, online collaboration and online meeting.
+SYNERG Online Collaboration Tool offers businesses with either the Microsoft 365 or G Suite option. Both options offer an integrated enterprise suite of office productivity and collaboration tools developed by Microsoft and Google respectively. The cloud-based platforms provide for an easy to use remote working solution that comes with business email, virtual meeting/video conferencing tools, and secure cloud storage.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Synergtech-LaptopBundle_Annex_3_v2-Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Synergtech-OnlineCollab_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

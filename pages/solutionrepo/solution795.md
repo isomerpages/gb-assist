@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Singtel - Office 365 - Package (E3)
+title: COVID-19 Support Singtel - Microsoft 365 - Package (Business Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution795
 ---
 
@@ -10,7 +10,7 @@ Microsoft Office 365 is a suite of cloud-based productivity and collaboration ap
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel-Office_365_Annex_3_CR_wef_21_July_20209(mti)_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel-Office_365_Annex_3_CR_wef_21_July_20209(mti)_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

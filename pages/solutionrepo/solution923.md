@@ -1,15 +1,15 @@
 ---
-title: CoreMatter - Package (3 users)
-permalink: /productivity-solutions-grant/solutionrepo/solution913
+title: CoreMatter - Package (30 users)
+permalink: /productivity-solutions-grant/solutionrepo/solution923
 ---
 
 #### Description
 
-CoreMatter is a cloud based, Legal Accounting and Practice Management System, developed on a Client-Matter Workspace structure which empower users to better manage Accounting & Financial Matter, Client Matter, Case Matter to meet the requirement of their clients. In addition, their AML/CFT (Anti Money Laundering Counter Financing Terrorism) module for users to quickly and accurate encode KYC information for their clients, with an approval function from authorised personnel of the firm. 
+CoreMatter is a cloud based, Legal Accounting and Practice Management System, developed on a Client-Matter Workspace structure which empower users to better manage Accounting & Financial Matter, Client Matter, Case Matter to meet the requirement of their clients. In addition, their AML/CFT (Anti Money Laundering Counter Financing Terrorism) module for users to quickly and accurate encode KYC information for their clients, with an approval function from authorised personnel of the firm.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_CoreMatter_Annex_3_CR_wef8June2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_CoreMatter_Annex_3_CR_wef8June2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-SLPs who have enjoyed subsidy under Tech Start for Law for Practice Management Systems and Document Management Systems will not be eligible to apply for PSG under the same solution category. 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Verlata Consulting Pte. Ltd.<br>https://www.verlata.com/<br>Email: singapore@verlata.com<br>OR daniel.chan@verlata.com<br>Tel: +65 9757 3629

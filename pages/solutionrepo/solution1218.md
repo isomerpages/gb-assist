@@ -1,5 +1,5 @@
 ---
-title: INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 3 Years
+title: INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 1 Year
 permalink: /productivity-solutions-grant/solutionrepo/solution1218
 ---
 
@@ -9,7 +9,7 @@ AEC Collection consists of a set of BIM and CAD tools that support projects from
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_INNOCOM_20200257_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_INNOCOM_20200257_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

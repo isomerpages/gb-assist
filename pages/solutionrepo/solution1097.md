@@ -1,5 +1,5 @@
 ---
-title: INFO-TECH E-Scheduling System Version 3.0 - Package (Facial)
+title: INFO-TECH E-Scheduling System Version 3.0 - Package (Fingerprint)
 permalink: /productivity-solutions-grant/solutionrepo/solution1097
 ---
 
@@ -10,7 +10,7 @@ Use of Tablet, Biometric Reader supports fingerprint or face recognition to capt
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_E-scheduling_20200223_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_E-scheduling_20200223_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Singtel ONEOffice Unlimited Package (G Suite Business)
+title: COVID-19 Support Singtel ONEOffice Package (G Suite Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution800
 ---
 
@@ -11,7 +11,7 @@ ONEOffice is a suite of web-based office solutions that offers  a suite of produ
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-G-Suite_Annex_3_CR_wef21April2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-G-Suite_Annex_3_CR_wef21April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

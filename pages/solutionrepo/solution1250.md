@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Cloud Comrade Remote Workplace Solution Version 1.2 Google G Suite Business (Multi Year)
+title: COVID-19 Support Cloud Comrade Remote Workplace Solution Version 1.2 Google G Suite Basic (Multi Year)
 permalink: /productivity-solutions-grant/solutionrepo/solution1250
 ---
 
@@ -9,7 +9,7 @@ Google G Suite is a cloud-enabled solution that enables remote collaboration bet
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Cloud_Comrade_Remote_Working_Annex_3_CR_wef_15_Sept_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Cloud_Comrade_Remote_Working_Annex_3_CR_wef_15_Sept_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

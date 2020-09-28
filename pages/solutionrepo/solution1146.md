@@ -1,5 +1,5 @@
 ---
-title: Million Accounting and Stock Control System Version 3 - Package B (2 Users)
+title: Million Accounting and Stock Control System Version 3 - Package A (1 User)
 permalink: /productivity-solutions-grant/solutionrepo/solution1146
 ---
 
@@ -11,7 +11,7 @@ Million Accounting supports Multi-Company and Multi-Currency and has four module
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200199_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200199_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

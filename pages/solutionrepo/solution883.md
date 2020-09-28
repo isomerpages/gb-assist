@@ -1,15 +1,15 @@
 ---
-title: Ezyprocure Version 2.0 - Package 1
-permalink: /productivity-solutions-grant/solutionrepo/solution784
+title: Times Software HRMS Version 18.0 - Cloud Based Package 5 (up to 200 pax)
+permalink: /productivity-solutions-grant/solutionrepo/solution883
 ---
 
 #### Description
 
-EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by stream lining their current manual ordering to supply processes. This has significantly improves the organization's productivity and profitability by offering significant time-consuming manual supply chain processes.
+TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Times_Software_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Singapore E-business Pte Ltd<br>www.sgebiz.com<br>Email: info@sgebiz.com<br>Tel: +65 6200 8021
+Times Software Pte Ltd<br>https://www.timesoftsg.com.sg/<br>Email: sales@timesoftsg.com.sg<br>Tel: +65 6295 1998
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

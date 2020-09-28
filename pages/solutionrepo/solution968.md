@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software Version 10.5 - Standard, Set Up Package
+title: Xero Cloud Accounting Software Version 10.5 - Standard Package
 permalink: /productivity-solutions-grant/solutionrepo/solution968
 ---
 
@@ -9,7 +9,7 @@ Xero is a beautiful, intelligent software platform designed to make life better 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/YOIO_20200131_Annex_3_20200625150411_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/YOIO_20200131_Annex_3_20200625150411_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

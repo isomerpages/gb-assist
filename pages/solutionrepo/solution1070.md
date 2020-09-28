@@ -1,5 +1,5 @@
 ---
-title: Microsoft Office 365 E3 + Dell laptop
+title: Microsoft 365 Business Premium + Dell laptop
 permalink: /productivity-solutions-grant/solutionrepo/solution1070
 ---
 
@@ -9,7 +9,7 @@ VGC's package provides for business-grade laptops with collaborative tools and e
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technologies-Bundle_B_(Software%20+%20Laptop)_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technologies-Bundle_B_(Software%20+%20Laptop)_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

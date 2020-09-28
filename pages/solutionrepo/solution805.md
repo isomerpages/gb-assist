@@ -1,15 +1,16 @@
 ---
-title: COVID-19 Support Singtel Business Laptop Bundle - Package 1 (Microsoft 365 Business Standard)
+title: COVID-19 Support Singtel - BizConference Room
 permalink: /productivity-solutions-grant/solutionrepo/solution805
 ---
 
 #### Description
 
-Singtel Business Laptop Bundle provide for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely.
+Singtel BizConference (powered by Zoom)
+Singtel BizConference is a business video conferencing service that enables productive and impactful virtual meetings. Powered by Zoom, it combines innovative cloud and video conferencing technologies, offering an intuitive and versatile solution. It is cloud-hosted with worldwide coverage for consistently excellent business meetings experience via desktop and mobile devices over the Internet.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Business_Laptop_Bundle_Annex_3_CR_wef_15_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-BizConference_Annex_3_wef21April2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

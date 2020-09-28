@@ -1,5 +1,5 @@
 ---
-title: Vehicle Service System - VSS Package with ADAS DSM
+title: Vehicle Service System - Basic VSS Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1032
 ---
 
