@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Advance Visitor Management Temperature Screening, Facial recognition + Safe Entry Version 14.8.7 - Package 2 (Remote Access)
+title: COVID-19 Support Advance Visitor Management Temperature Screening, Facial recognition + Safe Entry Version 14.8.7 - Package 1 (Lan)
 permalink: /productivity-solutions-grant/solutionrepo/solution716
 ---
 
 #### Description
 
-Pixie Pitch's Health Science Authority (HSA) certified temperature screening solution for staff and visitors management include facial recognition with and without mask and optional integration to door access. It will sound an alarm on site and send an email if temperature detected above threshold. Data storage on SME's own cloud network on Amazon Web Service (AWS). Recorded data is accessible anywhere, anytime.
+Pixie Pitch's Health Science Authority (HSA) certified temperature screening solution for staff and visitors management include facial recognition with and without mask and optional integration to door access. It will sound an alarm on site and send an email if temperature detected above threshold. Data storage on Local Network within installed location.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pixie_Pitch_Annex_3_CR_27_Aug_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pixie_Pitch_Annex_3_CR_27_Aug_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

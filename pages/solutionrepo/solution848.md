@@ -1,15 +1,15 @@
 ---
-title: TessaCloud - Package (Up to 12 users)
+title: COVID-19 Support Taidii Fast Fever Screening and Attendance System  - Package (VAMS 3S)
 permalink: /productivity-solutions-grant/solutionrepo/solution848
 ---
 
 #### Description
 
-TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.  
+Coupled with a Health Sciences Authority (HSA) certified device, the solution provide contactless and precise measurement of personnel's forehead temperature with a defined distance for less than 1 second. Temperature will be recorded automatically and synchronised with time of attendance within the solution. Audio notification be configured for the high temperature captured beyond any pre-set threshold which make it very suitable for any environment which require attention on healthcare aspect
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tessacloud_Annex_3_CR_wef_8June2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Taidii_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,9 +33,7 @@ N.A. for non-SMEs
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-SLPs who have enjoyed subsidy under Tech Start for Law for Practice Management Systems and Document Management Systems will not be eligible to apply for PSG under the same solution category. 
-
 #### Contact Information
-Tessaract Technologies Private Limited<br>https://tessaract.io/<br>Email: sales@tessaract.io<br>Tel: +65 9831 3983
+Taidii Pte Ltd<br>http://www.taidii.com/en/VAMS<br>Email: service@taidii.com /<br>ivory@taidii.com /<br>wanzhang@taidii.com<br>Tel: +65 8501 2608 (Kevin) / +65 8269 1614 (Ivory)
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

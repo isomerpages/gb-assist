@@ -1,5 +1,5 @@
 ---
-title: Package B (2 Units)
+title: Package A (1 Unit)
 permalink: /productivity-solutions-grant/solutionrepo/solution1059
 ---
 
@@ -9,7 +9,7 @@ ProLight SPMP is an all-in-one military grade face recognition with temperature 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EP-Tec_Annex_3_ver2_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EP-Tec_Annex_3_ver2_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

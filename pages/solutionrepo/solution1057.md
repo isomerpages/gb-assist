@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business Premium + Lenovo ThinkPad L13
+title: Microsoft O365 E3 + Lenovo ThinkPad L13
 permalink: /productivity-solutions-grant/solutionrepo/solution1057
 ---
 
@@ -10,7 +10,7 @@ The Chassasia Business Laptop Bundle provides  business-grade laptops with colla
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CHASSasia-Software_plus_Laptop_Annex_3_CR_wef_15_Sept_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CHASSasia-Software_plus_Laptop_Annex_3_CR_wef_15_Sept_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

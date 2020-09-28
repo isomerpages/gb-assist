@@ -1,5 +1,5 @@
 ---
-title: Shortcuts Version 8 - Shortcuts Fusion + ConnectMe with POS
+title: Shortcuts Version 8 - Shortcuts Fusion + Network Client with POS
 permalink: /productivity-solutions-grant/solutionrepo/solution1188
 ---
 
@@ -9,7 +9,7 @@ Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and re
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Serixx_20200501_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Serixx_20200501_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

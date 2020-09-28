@@ -1,5 +1,5 @@
 ---
-title: SMART TECHNOLOGY FOR FACILITIES MANAGEMENT Version 1.8 - Package C (10 sets of Toilets)-Complete
+title: SMART TECHNOLOGY FOR FACILITIES MANAGEMENT Version 1.8 - Package B (4 sets of Toilets)- Complete
 permalink: /productivity-solutions-grant/solutionrepo/solution1040
 ---
 
@@ -10,7 +10,7 @@ We offer various type of sensory modules:1)Odour,Temperature&Humidity Sensor 2) 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advancer_20200342_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advancer_20200342_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

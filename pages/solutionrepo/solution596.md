@@ -1,15 +1,15 @@
 ---
-title: HRSS Recruitment / On-Boarding via Zoho Recruit - Package (Annual)
+title: COVID-19 Support M1 Remote Working Laptop (MacBook Pro) Suite (with Microsoft 365 Business Standard) - Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution596
 ---
 
 #### Description
 
-Match Resources provides services with applicant tracking system that streamlines hiring process, to help source best talent faster, track resumes and interviews efficiently. 
+M1 Remote Working Suite is a complete all-in-one bundle to enable you to work remotely and still collaborate actively with both your colleagues and customers. This is an all-in-one bundle that comprises of laptop, security software, collaboration tool, office applications and IT support (from initial setup to technical assistance) to provide you with a fuss free experience as you focus in driving your business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Match_Resources_Onboarding_Annex_3_CR wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_M1-Remote_Laptop_Annex_3_CR_wef_15_Sept_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Match Resources Pte Ltd<br>www.matchresources.com.sg<br>Email: jobs@matchresources.com.sg<br>Tel: +65 6653 1198
+Company Name: M1 Net Limited<br>Web URL: https://www.m1.com.sg/Business/business-continuity-package<br>Contact Email: business@m1.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

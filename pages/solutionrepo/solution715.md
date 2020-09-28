@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Advance Visitor Management Temperature Screening, Facial recognition + Safe Entry Version 14.8.7 - Package 1 (Lan)
+title: PixelCommerce Version 5.2.5 - Ultimate
 permalink: /productivity-solutions-grant/solutionrepo/solution715
 ---
 
 #### Description
 
-Pixie Pitch's Health Science Authority (HSA) certified temperature screening solution for staff and visitors management include facial recognition with and without mask and optional integration to door access. It will sound an alarm on site and send an email if temperature detected above threshold. Data storage on Local Network within installed location.
+PixelCommerce is a complete e-Store solution that enables SMEs to boost business presence, enhance customer experience, influence purchase decisions, and ultimately increasing productivity and revenue.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pixie_Pitch_Annex_3_CR_27_Aug_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_PIXEL_MECHANICS_20200277_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Pixie Pitch Pte Ltd<br>Web URL: https://pixiepitch.com/face-recognition-temperature-measuring-device/<br>Contact Hotline: +65 9244 8138<br>Contact Email: info@pixiepitch.com 
+Company Name:PIXEL MECHANICS PTE LTD <br>Web URL: https://pixelmechanics.com.sg/psg-ecommerce-grant <br>Contact Hotline: 68029677 <br>Contact Email: info@pixelmechanics.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

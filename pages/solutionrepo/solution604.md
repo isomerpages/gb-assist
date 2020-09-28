@@ -1,15 +1,15 @@
 ---
-title: UTM+ Managed Security Services Version 5.5 - Package (UTM+ S5)
-permalink: /productivity-solutions-grant/solutionrepo/solution649
+title: MPD E-Commerce SMEs Version - Elite
+permalink: /productivity-solutions-grant/solutionrepo/solution604
 ---
 
 #### Description
 
-Networkbox's UTM solution provides remote monitoring, manages and protects company's network from cyber threats 24/7, allowing businesses to concentrate on running their day to day operations. 
+MPD e-commerce SMEs Version offers SMEs an opportunity to increase their sales online by widening their reach thru the digital platform where users can easily browse, shop and purchase their merchandises/products/services via a few clicks online with minimal manpower required. In addition, the solution allows SMEs to manage their inventory and reporting (e.g. revenue, costs, trends etc.) more efficiently as well as to improve their overall operating cost as compared to a brick and mortar store.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Network_Box_(SIN)_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Network Box (SIN) Pte Ltd<br>www.network-box.sg<br>Email: enquiry@network-box.sg<br>Tel: +65 6339 5900
+MediaPlus Digital Pte Ltd<br>https://mediaplus.com.sg/<br>Email: wow@mediaplus.com.sg<br>Tel: +65 6816 3168
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

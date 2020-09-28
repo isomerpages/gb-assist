@@ -1,5 +1,5 @@
 ---
-title: Tessaract.io - Package (Up to 30 users)
+title: Tessaract.io - Package (Up to 20 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution855
 ---
 
@@ -9,7 +9,7 @@ Tessaract.io is an AI empowered Practice Management System designed for the mode
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tessaract_io_Annex_3_CR_wef_8June2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tessaract_io_Annex_3_CR_wef_8June2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

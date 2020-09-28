@@ -1,15 +1,16 @@
 ---
-title: COVID-19 Support Nanyang Tech - Package A (Microsoft 365 Business Standard)
+title: COVID-19 Sectorial Support MyDoc Telemedicine Solution - Package 3 (3 Doctors)
 permalink: /productivity-solutions-grant/solutionrepo/solution632
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
+MyDoc's Telemedicine Solution for providers is a bundled package that providers healthcare providers a ready to implement solution to care for patients virtually. The solution includes patient account management and care coordinator account for medication fulfilment. It provides an end-to-end solution for patients to access a doctor via telemedicine consultation care including triage bot, telemedicine consult, EMR / case note recording, eMC, prescription fulfilment, and referrals. 
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_NanyangTech_MSOffice_Annex3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/MyDoc_Annex_3_CR_wef_27_April2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Nanyang Tech Pte Ltd<br>Web URL: WWW.NANYANGTECHNOLOGY.COM <br>Contact Hotline: 6438 6979 <br>Contact Email: KWANGLEONG@NANYANGTECHNOLOGY.COM 
+MyDoc Private Limited<br>www.my-doc.com<br>Email: Zoe.bergin@my-doc.com<br>Tel: +65 8309 2948
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

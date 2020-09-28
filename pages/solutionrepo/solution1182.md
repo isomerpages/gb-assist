@@ -1,5 +1,5 @@
 ---
-title: MEGAPOS - MEGAPOS Standard+
+title: MEGAPOS - MEGAPOS Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1182
 ---
 
@@ -9,7 +9,7 @@ A cost-effective POS solution that comes with sleek hardware, feature-rich softw
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

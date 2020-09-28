@@ -1,5 +1,5 @@
 ---
-title: BIMAGE - Autodesk AEC Collection - 3 Year AEC (Advance - 3 Days training)
+title: BIMAGE - Autodesk AEC Collection - 3 Year AEC (3 Days training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1214
 ---
 
@@ -9,7 +9,7 @@ Autodesk's AEC collection equips the Industry to design & construct high quality
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_20200241_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_20200241_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

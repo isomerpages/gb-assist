@@ -1,16 +1,16 @@
 ---
-title: NMTODOO - ERP  - Package Basic
-permalink: /productivity-solutions-grant/solutionrepo/solution650
+title: Cyber Security Advisory Services Version 1 - Security Architecture Review with TRA (Large System)
+permalink: /productivity-solutions-grant/solutionrepo/solution898
 ---
 
 #### Description
 
-NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Management System. Registered on the IRAS Accounting Software Register (ASR), the solution provides the essential features for Small to Medium Enterprise to manage sales, customer relations, and financial accounting.
+TUV SUD's Security Advisory services for SMEs' solutions and IT infrastructure helps to facilitate and guide SMEs in the consideration of threats, security requirements and potential constraints of functionality and integration based on defence in-depth and established security design principles. 
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Neu_Media_Technology_LLP_20200127_Annex_3_20200625143944_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/TUV_SUD_Cyber_Security_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -32,9 +32,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Neu Media Technology LLP<br>www.neumediatechnology.com<br>Email: info@neumediatechnology.com<br>Tel: +65 6679 5787
+TUV SUD PSB Pte Ltd<br>https://www.tuvsud.com/en-sg/services/cyber-security/smes-go-digital---pre-approved-cyber-security-solutions<br>Email: info.sg@tuvsud.com<br>Tel: +65 8812 6194
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

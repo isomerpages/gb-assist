@@ -1,16 +1,16 @@
 ---
-title: COVID-19 Support Rubify Online Collaboration Software - Lark Enterprise Package
-permalink: /productivity-solutions-grant/solutionrepo/solution757
+title: Flavor CRM Version 1 - Basic Mode
+permalink: /productivity-solutions-grant/solutionrepo/solution816
 ---
 
 #### Description
 
-Rubify Technology Pte. Ltd.'s Lark Collaboration offering includes features such as calendar, file sharing, video conferencing, instant messaging, app integrations and digital workflow management.
+Flavor CRM is a robust solution for keeping tracking of leads, conversion and managing experience of your customers. Our platform has been designed EdTech Businesses and can be used by any organisation in training business.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Rubify_Remote Working_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Sodainmind_20200054_Annex_3_20200625144703_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Rubify Technology Pte Ltd<br>https://rubify.com/home/smegodigital<br>Email: nicholas@rubify.com<br>Tel: +65 9002 5517
+Sodainmind Pte Ltd<br>www.sodainmind.com<br>Email: info@sodainmind.com<br>Tel: +65 6679 1003
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

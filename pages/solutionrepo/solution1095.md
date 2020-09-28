@@ -1,16 +1,19 @@
 ---
-title: INFO-TECH E-Scheduling System Version 3.0 - Package (Mobile)
+title: (A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 200)
 permalink: /productivity-solutions-grant/solutionrepo/solution1095
 ---
 
 #### Description
 
-Mobile Attendance APP allows tracking of employee's attendance at respective job-site as per scheduled. The system also can consolidate total OT & lateness done for the month based on attendance data collected. It will link with TMS and Payroll for salary calculation.
-Use of Tablet, Biometric Reader supports fingerprint or face recognition to capture staff attendance for calculating of working hours, OT & lateness. Employee database available in TMS integrated with Payroll & Leave software.
+INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
+- Transforming HR Software to Cloud
+- Integrated Software enables overall view of the workforce & productivity, performance & efficiency
+- Help HR handle company's compliance challenges and better manage resources.
+- Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_E-scheduling_20200223_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_HRMS_20200222_Annex_3_20200826091546_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

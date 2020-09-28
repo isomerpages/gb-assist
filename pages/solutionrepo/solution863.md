@@ -1,15 +1,15 @@
 ---
-title: HReasily Version 5 - Package (Premium 200 employees)
-permalink: /productivity-solutions-grant/solutionrepo/solution448
+title: Tessaract.io - Package (Up to 40 users)
+permalink: /productivity-solutions-grant/solutionrepo/solution863
 ---
 
 #### Description
 
-HReasily is a cloud-based HR solution that provides end to end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management.  
+Tessaract.io is an AI empowered Practice Management System designed for the modern law firm. It ensures that there is no duplication between teams and clients and provide real-time update on the work status for all the stakeholders. OCR capability is automated on every information to ensure the search for information is comprehensive. Its integration with AML Search Database further streamline the user navigation and strength search capability or information within the solution.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/HR_Easily_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tessaract_io_Annex_3_CR_wef_8June2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-HR Easily Pte Ltd<br>https://www.hreasily.com/<br>Email: sharon@hreasily.com<br>Tel: +65 6438 3190
+Tessaract Technologies Private Limited<br>https://tessaract.io/<br>Email: sales@tessaract.io<br>Tel: +65 9831 3983
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

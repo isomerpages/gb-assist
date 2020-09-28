@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Aesthetics Marketing Temperature Monitoring Platform - 2 Devices
+title: COVID-19 Support Aesthetics Marketing Temperature Monitoring Platform - 1 Device
 permalink: /productivity-solutions-grant/solutionrepo/solution1209
 ---
 
@@ -9,7 +9,7 @@ Aesthetics Marketing Temperature Monitoring Platform is a solution that combines
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AestheticsMkt_Temp%20Screening_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AestheticsMkt_Temp%20Screening_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

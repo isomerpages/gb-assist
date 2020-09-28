@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Rentalworks Mobile Working Laptop Program (Microsoft 365 Business Standard)
+title: WESS - Wellness Management Software Version 2.0 - WESS Professional - All in one
 permalink: /productivity-solutions-grant/solutionrepo/solution744
 ---
 
 #### Description
 
-Rentalworks Mobile Working Laptop Program is a bundle program focusing on enabling businesses to empower mobile working and active online collaboration amongst its employees. The program bundle includes a business class laptop, office productivity applications, online collaboration tool, security software and tech support to get the laptop all setup during deployment as well as assistance during its 1st year lifecycle.
+WESS, a leading professional cloud management software made easy for the Beauty, Hair, Nail, Spa & Wellness businesses in Singapore & Asia.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_RentalWorks_Annex_3_CR_wef_4th_Sept_2020.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Rentalworks (SG) Pte Ltd<br>www.rentalworks.com.sg<br>Email: Chloe.le@rentalworks.com.sg<br>Tel: +65 9611 9602
+Company Name:Refine Solutions Pte Ltd <br>Web URL: www.wessconnect.com <br>Contact Hotline: 66028212 <br>Contact Email: contactus@wessconnect.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

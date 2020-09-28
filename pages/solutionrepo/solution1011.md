@@ -1,5 +1,5 @@
 ---
-title: Quickbooks Online - QuickBooks Online Accounting Solution - Enterprise
+title: Quickbooks Online - QuickBooks Online Accounting Solution - Inventory
 permalink: /productivity-solutions-grant/solutionrepo/solution1011
 ---
 
@@ -9,7 +9,7 @@ As system implementation consultant and accounting firm, we explore and assist c
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

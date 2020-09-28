@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Availabilit's Remote Working Solution - Microsoft Office 365 Enterprise E3
+title: COVID-19 Support Availabilit's Remote Working Solution- Microsoft Office 365 Business Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution1207
 ---
 
@@ -9,7 +9,7 @@ Microsoft Office 365 is a suite of cloud-based productivity and collaboration ap
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AVBT_Remote_Working_Solution_Software_only_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AVBT_Remote_Working_Solution_Software_only_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

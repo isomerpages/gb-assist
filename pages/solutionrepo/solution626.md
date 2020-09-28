@@ -1,5 +1,5 @@
 ---
-title: MuRho Inventory Management & Sales Management System - STARTER PACK C - PERPETUAL LICENSE ON CLOUD WITH HARDWARE
+title: MuRho Inventory Management & Sales Management System - STARTER PACK B - PERPETUAL LICENSE ON CLOUD WITH HARDWARE
 permalink: /productivity-solutions-grant/solutionrepo/solution626
 ---
 
@@ -14,7 +14,7 @@ The MuRho Inventory Management & Sales Management System includes:
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/MuRho_Inventory_Management_and_Sales_Management_System_20200031_Annex_3_20200625142600_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: CSG - Autodesk AEC Collection - Single User 3-year Subscription
+title: CSG - Autodesk AEC Collection - Single User Annual Subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution1216
 ---
 
@@ -9,7 +9,7 @@ The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_20200236_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_20200236_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

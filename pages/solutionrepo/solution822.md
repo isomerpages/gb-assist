@@ -1,15 +1,16 @@
 ---
-title: UTM+ Managed Security Services Version 5.5 - Package (UTM+ S10)
-permalink: /productivity-solutions-grant/solutionrepo/solution648
+title: Flavor CRM Version 1 - Expert Mode 1
+permalink: /productivity-solutions-grant/solutionrepo/solution822
 ---
 
 #### Description
 
-Networkbox's UTM solution provides remote monitoring, manages and protects company's network from cyber threats 24/7, allowing businesses to concentrate on running their day to day operations. 
+Flavor CRM is a robust solution for keeping tracking of leads, conversion and managing experience of your customers. Our platform has been designed EdTech Businesses and can be used by any organisation in training business.
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Network_Box_(SIN)_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Sodainmind_20200054_Annex_3_20200625144703_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Network Box (SIN) Pte Ltd<br>www.network-box.sg<br>Email: enquiry@network-box.sg<br>Tel: +65 6339 5900
+Sodainmind Pte Ltd<br>www.sodainmind.com<br>Email: info@sodainmind.com<br>Tel: +65 6679 1003
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

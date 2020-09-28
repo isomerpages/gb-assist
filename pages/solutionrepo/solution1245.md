@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support SafePass Facial Recognition Access Control, Fever Screening & Attendance System-Package B (Two Sets)
+title: COVID-19 Support SafePass Facial Recognition Access Control, Fever Screening & Attendance System-Package A (One Set)
 permalink: /productivity-solutions-grant/solutionrepo/solution1245
 ---
 
@@ -9,7 +9,7 @@ SafePass helps to reduce the manual effort needed for temperature screening, ens
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Solo_Temp_Screening_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Solo_Temp_Screening_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

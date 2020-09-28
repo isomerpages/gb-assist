@@ -1,5 +1,5 @@
 ---
-title: HRSS & Payroll Processing with JustLogin - Package (101- 200 Employees)
+title: HRSS & Payroll Processing with JustLogin - Package (51- 100 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution600
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution600
 
 Providing customized HR outsourcing services combined with Human Capital Management solutions/SaaS such as Employment Information System, Leave Management, Expense Claims, Time Attendance, Payroll Benefits that includes mobile app.
 
-
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Match_Resources_Payroll_Annex_3_CR_wef4May2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Match_Resources_Payroll_Annex_3_CR_wef4May2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

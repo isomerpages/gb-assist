@@ -1,5 +1,5 @@
 ---
-title: Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Emerald)
+title: Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Sapphire)
 permalink: /productivity-solutions-grant/solutionrepo/solution1242
 ---
 
@@ -9,7 +9,7 @@ Verz Design is one of the key and leading players when it comes to providing Mag
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

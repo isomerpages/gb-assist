@@ -1,15 +1,15 @@
 ---
-title: Sage 300 - Package (Peppol Ready Advance Edition - 7 Users) 
+title: Sage 300 - Package (Peppol Ready Advance Edition - 5 Users) 
 permalink: /productivity-solutions-grant/solutionrepo/solution872
 ---
 
 #### Description
 
-Sage300 is a powerful accounting and financial management solution that allows SMEs to maximise operational efficiencies, enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business. 
+Sage300 is a powerful accounting and financial management solution that allows SMEs to maximise operational efficiencies, enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/The_World_Management-SAGE_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/The_World_Management-SAGE_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Office 365 Business Basic + Acer laptop
+title: Microsoft Office 365 Business Standard + Acer laptop
 permalink: /productivity-solutions-grant/solutionrepo/solution1063
 ---
 
@@ -9,7 +9,7 @@ The solution provides for business-grade laptops with collaborative tools and en
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Interaccion-Laptop_Bundle-Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Interaccion-Laptop_Bundle-Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

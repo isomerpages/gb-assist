@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Intelligent Facial Recognition Access Control System with Temperature Monitoring Version 1.0 - Package B (2 Units)
+title: COVID-19 Support Intelligent Facial Recognition Access Control System with Temperature Monitoring Version 1.0 - Package A (1 Unit)
 permalink: /productivity-solutions-grant/solutionrepo/solution692
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution692
 
 This solution is Cloud-based, Contact-less, Computer-Vision based Facial Recognition and Body Temperature Measuring Solution. Solution also supports visitor management and attendance management with temperature statistics. It uses Computer Vision, Artificial Intelligence and IoT Sensors to offer access control and temperature measurement functionality. A back-end dashboard offers real-time monitoring and alert features to administrator/security guards.
 
-
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pensees_Systems_Pte_Ltd-Annex3_CR_wef_27_August_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pensees_Systems_Pte_Ltd-Annex3_CR_wef_27_August_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

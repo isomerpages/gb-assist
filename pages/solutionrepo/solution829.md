@@ -1,15 +1,15 @@
 ---
-title: Integrated Back Of House Solution for Restaurant Version 1 - Package A (Small Cafe (E-waiter for 1 User, CRM & KDS Lite for 1 User))
+title: COVID-19 Support StarHub - Microsoft 365 - Package (Business Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution829
 ---
 
 #### Description
 
-The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/StarHub-Office365_Annex_3_CR_wef_9_July_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Supply Ellie Pte Ltd<br>www.supplyellie.com<br>Email: davidang@supplyellie.com<br>Tel: +65 9120 0059
+StarHub Ltd<br>www.starhub.com/microsoftBCP / www.starhub.com/PSG<br>Email: business@starhub.com<br>Tel: 1800 888 8888
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: W.R.I.S.T Version 2 - W.R.I.S.T Standard (One Time Purchase for the Sensors)
+title: W.R.I.S.T Version 2 - W.R.I.S.T Lite (One Time Purchase for the Sensors)
 permalink: /productivity-solutions-grant/solutionrepo/solution1034
 ---
 
@@ -9,7 +9,7 @@ Sensorla provides an artificial intelligence workforce management system, that i
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

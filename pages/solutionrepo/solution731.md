@@ -1,16 +1,16 @@
 ---
-title: COVID-19 Support Queue Management - Package A (SMS based Queue Joining)
+title: Qashier Smart Terminal - Package D (Pro + Visa/Mastercard Enabled)
 permalink: /productivity-solutions-grant/solutionrepo/solution731
 ---
 
 #### Description
 
-Qtech offers an SMS based queue management system for smaller SMEs (hair salon, F&B etc). Customer is able to send "q" to a designated mobile number. This initiates an interactive SMS session with the Merchant, then choose the Service, and a Queue No# shall be issued over SMS.
+Qashier provides smart point-of-sale (POS) solutions to help small merchants digitise their businesses. Qashier'ss flagship product is the Qashier Smart Terminal, a connected, multi-purpose device that combines a payments hub, cloud-based POS software, and a proprietary app store in one uniquely designed device. Qashier enables merchants to manage entire stores with just one terminal on the counter.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/QTech_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Revised_Annex_3_ver3_CR_wef_10_Sept_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Qtech Queueing System Pte Ltd<br>http://www.qtechqueueingsystem.com/queue-management-solutions/queue-management-solutions/190-retailing-queue-management-system-10.html<br>Email: enquiry@qtechqueueingsystem.com<br>Tel: +65 6292 3423 / +65 9171 0101 - Wei Yoog Lim
+Qashier Pte Ltd<br>http://qashier.co<br>Email: hello@qashier.co<br>Tel: +65 8790 7020
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
