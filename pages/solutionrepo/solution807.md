@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Singtel Business Laptop Bundle - Package 3 (Microsoft 365 - Package (Business Standard))
+title: COVID-19 Support Singtel Business MacBook Bundle - Package 3 (Microsoft 365 - Package (Business Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution807
 ---
 
