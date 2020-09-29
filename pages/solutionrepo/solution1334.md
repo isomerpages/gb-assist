@@ -1,15 +1,15 @@
 ---
-title: Sage 300 - Package (Premium Edition - 10 Users with e-Invoicing)
-permalink: /productivity-solutions-grant/solutionrepo/solution770
+title: COVID-19 Support BCAT Contactless Attendance & Temperature System Version 1.0 Package D (BCAT200/801 - 1 unit each)
+permalink: /productivity-solutions-grant/solutionrepo/solution1334
 ---
 
 #### Description
 
-Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management. 
+A standard workflow automation solution with digital attendance, temperature checks and facial recognition.  It comes as a standalone  tablet device that is easy to setup and deploy.  It can manage your staff or visitors entering your premises to ensure that they adhere to safety requirements. Integration to existing HR/ERP systems, door access can be discussed as additional items outside the package. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SEG_IT_Annex_3_wef_23_April_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ADERA_GLOBAL_SMART_TECH_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Seg IT Services Pte Ltd<br>www.segit.com.sg<br>Email: sales@segit.com.sg<br>Tel: +65 6483 0950
+Company Name: ADERA Global Smart Tech Pte Ltd<br>Web URL: www.aderaglobal.com<br>Contact Hotline: 6775 2555 <br>Contact Email: Kevin.lim@aderaglobal.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

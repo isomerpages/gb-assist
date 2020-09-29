@@ -1,15 +1,15 @@
 ---
-title: Sage 300 - Package (Premium Edition - 10 Users with e-Invoicing)
-permalink: /productivity-solutions-grant/solutionrepo/solution770
+title: UTM+ Managed Security Services Version 5.5 - Package (UTM+ S10)
+permalink: /productivity-solutions-grant/solutionrepo/solution649
 ---
 
 #### Description
 
-Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management. 
+Networkbox's UTM solution provides remote monitoring, manages and protects company's network from cyber threats 24/7, allowing businesses to concentrate on running their day to day operations. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SEG_IT_Annex_3_wef_23_April_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Network_Box_(SIN)_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Seg IT Services Pte Ltd<br>www.segit.com.sg<br>Email: sales@segit.com.sg<br>Tel: +65 6483 0950
+Network Box (SIN) Pte Ltd<br>www.network-box.sg<br>Email: enquiry@network-box.sg<br>Tel: +65 6339 5900
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Sage 300 - Package (Premium Edition - 10 Users with e-Invoicing)
-permalink: /productivity-solutions-grant/solutionrepo/solution770
+title: DST Inventory System Version 1.3 Package B (QR Code)
+permalink: /productivity-solutions-grant/solutionrepo/solution1337
 ---
 
 #### Description
 
-Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management. 
+DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android App) to scan passive RFID tags attached onto Inbound and Outbound items for tracking and inventory stock take. The solution is used mainly for tracking of high value items such as Jewellery, Wines, Furniture, Laptops etc. by Rental, Movers and Event Companies.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SEG_IT_Annex_3_wef_23_April_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_DST_Annex_3_CR_wef_30_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80% for SMEs <br>
+70% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Seg IT Services Pte Ltd<br>www.segit.com.sg<br>Email: sales@segit.com.sg<br>Tel: +65 6483 0950
+Company Name: DST Advertising (Singapore) Pte Ltd<br>Web URL: DSTadvertising.com<br>Contact Hotline: 8668 5292<br>Contact Email: Sales@dstadvertising.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
