@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: ADERA Global Smart Tech Pte Ltd<br>Web URL: www.aderaglobal.com<br>Contact Hotline: 6775 2555 <br>Contact Email: Kevin.lim@aderaglobal.com
+Company Name: ADERA Global Smart Tech Pte Ltd<br>Web URL: www.aderaglobal.com<br>Contact Hotline: 6775 2555 <br>Contact Email: yeojin.lee@aderaglobal.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
