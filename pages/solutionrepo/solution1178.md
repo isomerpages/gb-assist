@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Madsoft Solutions Pte Ltd <br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 62969919 <br>Contact Email: sales@madsoft.com.sg <br>
+Company Name:Madsoft Solutions Pte Ltd <br>Web URL: www.madsoft.com.sg <br>Contact Hotline: 6296 9919/ 9858 9768 <br>Contact Email: sales@madsoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
