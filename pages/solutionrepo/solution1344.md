@@ -9,7 +9,7 @@ Security testing tool is designed to identify vulnerabilities in web application
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psgDesensitised_Singtel_Tessa_Annex3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Tessa_Annex3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

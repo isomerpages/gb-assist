@@ -9,7 +9,7 @@ TRUEBLU CRM is a Customer Relationship Management (CRM) tool with Social Media I
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/Desensitised_Active_Interactions_20200392_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Active_Interactions_20200392_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
