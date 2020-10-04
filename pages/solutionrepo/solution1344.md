@@ -9,7 +9,7 @@ Security testing tool is designed to identify vulnerabilities in web application
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psgDesensitised_Singtel_Tessa_Annex3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Tessa_Annex3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 N.A.
 
 #### Contact Information
-Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com <br>Contact Hotline: 8668 8848 <br>Contact Email: joelyap@singtel.com<br>
+Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com <br>Contact Hotline: 1800-763-1111<br>Contact Email: s-cyberpsg@singtel.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

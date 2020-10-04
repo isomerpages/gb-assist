@@ -9,7 +9,7 @@ Administrator manage the company's HR requirements, payroll, schedule, Leave and
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/Desensitised_Avelogic_20190043_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

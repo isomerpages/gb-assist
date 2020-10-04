@@ -1,5 +1,5 @@
 ---
-title: EquipPos Wholesale Solutions Version 3 - Package (Basic)
+title: Equip Wholesale Solutions Version 3 - Package (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution1222
 ---
 
@@ -11,7 +11,7 @@ With the advancement of technology, Edgeworks Solutions is able to now use the b
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_20200315_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
