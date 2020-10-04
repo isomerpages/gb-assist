@@ -1,5 +1,5 @@
 ---
-title: Sage 300 Cloud Version 2020 - Package A3 (Advanced Edition - 10 Users)
+title: Sage 300 Cloud Version 2020 - Package A1 (Advanced Edition - 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution505
 ---
 
@@ -11,9 +11,10 @@ Sage 300 is an ERP solution which automates and connects the various work proces
 
 
 
+
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Price_Annex_3_CRwef_4th_Sept_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Price_Annex_3_CRwef_4th_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

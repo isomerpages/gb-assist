@@ -1,15 +1,15 @@
 ---
-title: Ezyprocure Version 2.0 - Package 1
+title: Shopmatic Pro Concierge
 permalink: /productivity-solutions-grant/solutionrepo/solution785
 ---
 
 #### Description
 
-EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by stream lining their current manual ordering to supply processes. This has significantly improves the organization's productivity and profitability by offering significant time-consuming manual supply chain processes.
+Shopmatic is a SaaS solution that offers an integrated business solutions for SMEs to take their business online and providing full accessibility to the business owner to operate their e-commerce presence.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Annex_3_CR_wef_18_Aug_2020.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Singapore E-business Pte Ltd<br>www.sgebiz.com<br>Email: info@sgebiz.com<br>Tel: +65 6200 8021
+Company Name:Shopmatic Pte Ltd <br>Web URL: www.goshopmatic.com <br>Contact Hotline: 69569202 <br>Contact Email: shopsupportsg@goshopmatic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

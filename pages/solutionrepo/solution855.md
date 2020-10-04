@@ -1,15 +1,15 @@
 ---
-title: Tessaract.io - Package (Up to 20 users)
+title: TessaCloud - Package (Up to 5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution855
 ---
 
 #### Description
 
-Tessaract.io is an AI empowered Practice Management System designed for the modern law firm. It ensures that there is no duplication between teams and clients and provide real-time update on the work status for all the stakeholders. OCR capability is automated on every information to ensure the search for information is comprehensive. Its integration with AML Search Database further streamline the user navigation and strength search capability or information within the solution. 
+TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tessaract_io_Annex_3_CR_wef_8June2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tessacloud_Annex_3_CR_wef_8June2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

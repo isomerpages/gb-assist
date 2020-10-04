@@ -1,5 +1,5 @@
 ---
-title: INTELLLEX - Package (4-6 accounts)
+title: INTELLLEX - Package (13-24 accounts)
 permalink: /productivity-solutions-grant/solutionrepo/solution501
 ---
 
@@ -9,7 +9,7 @@ INTELLLEX Enterprise (STACK and  SOURCE)is an AI empowered legal online research
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Intelllex_Annex_3_Final_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Intelllex_Annex_3_Final_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

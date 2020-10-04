@@ -1,15 +1,15 @@
 ---
-title: Microsoft 365 Business Standard
+title: Microsoft Office 365 Business Standard + Acer laptop
 permalink: /productivity-solutions-grant/solutionrepo/solution1065
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
+The solution provides for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technology-Bundle_A_(Software)_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Interaccion-Laptop_Bundle-Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: VGC TECHNOLOGY PTE LTD <br>Web URL: https://www.vgctechnology.com <br>Contact Hotline: 63975396<br>Contact Email: vinc@vgctechnology.com  <br>
+Company Name: Interaccion LLP<br>Web URL: http://www.theinteraccion.com <br>Contact Hotline: 66357119<br>Contact Email: steve@theinteraccion.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

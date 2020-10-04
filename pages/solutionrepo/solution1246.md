@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support SafePass Facial Recognition Access Control, Fever Screening & Attendance System-Package B (Two Sets)
+title: Magento and WooCommerce Solutions for Retail - Advanced WooCommerce Ecommerce by Verz Design (Amber)
 permalink: /productivity-solutions-grant/solutionrepo/solution1246
 ---
 
 #### Description
 
-SafePass helps to reduce the manual effort needed for temperature screening, ensuring mask-on compliance, attendance taking and visitor logging. It is  an all-in-one system to take care of temperature screening, access control, leave management and payroll. 
+Verz Design is one of the key and leading players when it comes to providing Magento/WooCommerce eCommerce solutions. Magento/WooCommerce offers a comprehensive backend with customisable plug-ins for your business. Highly suitable for companies with complex operations, Magento/WooCommerce is a robust application that showcases incredible functionality and is the most scalable among the three solutions.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Solo_Temp_Screening_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Solo Pte. Ltd. <br>Web URL:www.solo.com.sg<br>Contact Hotline:  65158803<br>Contact Email: ryan@solo.com.sg  <br>
+Company Name:Verz Design Pte Ltd <br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

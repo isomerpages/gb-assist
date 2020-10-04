@@ -1,5 +1,5 @@
 ---
-title: BIM 360 DESIGN - 25 Users Pack Subscription
+title: BIM 360 DESIGN - 5 Users Pack Subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution486
 ---
 
@@ -13,7 +13,7 @@ BIM 360 Design
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/INNOCOM_TECHNOLOGIES_20200259_Annex_3_20200625152404_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/INNOCOM_TECHNOLOGIES_20200259_Annex_3_20200625152404_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

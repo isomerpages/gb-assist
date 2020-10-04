@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support BCAT Contactless Attendance & Temperature System Version 1.0 Package C (BCAT200/800 - 1 unit each)
+title: COVID-19 Support BCAT Contactless Attendance & Temperature System Version 1.0 Package A (BCAT800 - 1 unit)
 permalink: /productivity-solutions-grant/solutionrepo/solution1333
 ---
 
@@ -9,7 +9,7 @@ A standard workflow automation solution with digital attendance, temperature che
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ADERA_GLOBAL_SMART_TECH_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ADERA_GLOBAL_SMART_TECH_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Office 365 Business Basic
+title: Microsoft 365 Business Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution1068
 ---
 
@@ -9,7 +9,7 @@ Microsoft Office 365 is a suite of cloud-based productivity and collaboration ap
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technology-Bundle_A_(Software)_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technology-Bundle_A_(Software)_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

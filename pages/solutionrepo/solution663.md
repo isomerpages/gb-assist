@@ -1,5 +1,5 @@
 ---
-title: OCi Sales & Accounting Management System (SAM) Version 11 - Package (10 Concurrent Users)
+title: OCi Sales & Accounting Management System (SAM) Version 11 - Package (3 Concurrent Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution663
 ---
 
@@ -17,7 +17,7 @@ OCi Sales and Accounting Management system is a straight-forward and comprehensi
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_OCi_SYSTEMS_20200267_Annex_3_20200707122945_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_OCi_SYSTEMS_20200267_Annex_3_20200707122945_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

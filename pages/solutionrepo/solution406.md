@@ -1,15 +1,19 @@
 ---
-title: Ecommerce Development+Online Inventory Management Version 0.9 - Ecommerce Development & Online Inventory Management (OpenCart/WooCommerce)
+title: Combi Oven
 permalink: /productivity-solutions-grant/solutionrepo/solution406
 ---
 
 #### Description
 
-Development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, managing of client orders and data, track statistics of product sales performance, online marketing of products and provision of consultancy to explore connections with external platforms to expand the outreach digitally to seamlessly move Offline selling to Online selling.
+Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
+
+Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Firstcom_Solutions_Pte_Ltd_20200125_Annex_3_20200625153111_Part_12.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -31,9 +35,14 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Equipment must meet the following:
+-Have a minimum capacity of 5GN
+
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+No change in vendor allowed
 
 #### Contact Information
-Company Name:Firstcom Solutions Pte Ltd <br>Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

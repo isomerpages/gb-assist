@@ -1,15 +1,15 @@
 ---
-title: KYBIO Version 3.0.9.3 - Package (Basic + Inventory Management)
+title: Shopcada Ecommerce and POS - Shopcada POS+ Package
 permalink: /productivity-solutions-grant/solutionrepo/solution937
 ---
 
 #### Description
 
-Cloud-Based POS System with product management, inventory management, promotion management and sales analytics module. Designed for Retail, F&B, QSR chains and the Service line.
+Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, POS for Retail Shops, Mobile Application as well as is integrated with Online Marketplaces such as Shopee, Lazada and Zalora. With Shopcada, business owners manage their business that spans across the different channels within a single dashboard. With GMV processed in 2019 exceeding SGD50M, Shopcada has already proven itself as a reliable and user friendly platform for sellers.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Weebo_20200141_Annex_3_20200625151603_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Webcada_20200035_Annex_3_20200625152216_Part_8.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Weebo Pte Ltd<br>https://www.weebo.com.sg/shop/<br>Email: admin@weebo.com.sg<br>Tel: +65 6850 5177
+Webcada Pte. Ltd.<br>https://www.shopcada.com<br>Email: sales@webcada.com<br>Tel: +65 6334 3168
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

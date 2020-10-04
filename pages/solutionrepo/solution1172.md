@@ -1,5 +1,5 @@
 ---
-title: (eScheduling) QuickHR - Cloud eScheduling - Enhanced 175
+title: (eScheduling) QuickHR - Cloud eScheduling - Essential 25
 permalink: /productivity-solutions-grant/solutionrepo/solution1172
 ---
 
@@ -9,7 +9,7 @@ QuickHR eScheduling offers cutting-edge cloud-based Automated Scheduling & Workf
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: UTM+ Managed Security Services Version 5.5 - Package (UTM+ for Max 600)
+title: UTM+ Managed Security Services Version 5.5 - Package (UTM+ for Max 200)
 permalink: /productivity-solutions-grant/solutionrepo/solution648
 ---
 
@@ -9,7 +9,7 @@ Networkbox's UTM solution provides remote monitoring, manages and protects compa
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Network_Box_(SIN)_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Network_Box_(SIN)_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

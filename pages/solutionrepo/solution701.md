@@ -1,15 +1,15 @@
 ---
-title: iTrack Fleet Management Version 2.8.8 - Package (iTrack Personal)
+title: iTrack Fleet Management Version 2.8.8 - iTrack Fleet Management Package D (9 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution701
 ---
 
 #### Description
 
-iTrack Fleet Management System offers GPS Tracking features to track location of vehicles, automate and monitor route taken with optimisation to improve efficiency of the delivery services. It helps companies to better plan and control the fleet journey, reducing cost, improve fleet utilization through its real-time map visualisation.
+USA Fleet Solutions offers top fleet management hardware and software products to improve vehicle and asset tracking. GPS fleet tracking devices work with businesses and government entities that have fleets of vehicles and other mobile assets.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,14 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:Pivotal Pte Ltd <br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg <br>

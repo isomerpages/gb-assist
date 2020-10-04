@@ -1,5 +1,5 @@
 ---
-title: Moneyworks Version 8 - Datacentre (3 users with integration and automation)
+title: Moneyworks Version 8 - Now (3 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution685
 ---
 
@@ -9,7 +9,7 @@ Moneyworks by Cognito Software provides a powerful, feature rich platform that u
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Ostendo_20190036_Annex_3_20200625152002_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

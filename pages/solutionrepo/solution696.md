@@ -1,15 +1,15 @@
 ---
-title: iTrack Fleet Management Version 2.8.8 - iTrack Fleet Management Package A (1 Vehicle)
+title: COVID-19 Support Intelligent Facial Recognition Access Control System with Temperature Monitoring Version 1.0 - Package C (3 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution696
 ---
 
 #### Description
 
-USA Fleet Solutions offers top fleet management hardware and software products to improve vehicle and asset tracking. GPS fleet tracking devices work with businesses and government entities that have fleets of vehicles and other mobile assets.
+This solution is Cloud-based, Contact-less, Computer-Vision based Facial Recognition and Body Temperature Measuring Solution. Solution also supports visitor management and attendance management with temperature statistics. It uses Computer Vision, Artificial Intelligence and IoT Sensors to offer access control and temperature measurement functionality. A back-end dashboard offers real-time monitoring and alert features to administrator/security guards.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pensees_Systems_Pte_Ltd-Annex3_CR_wef_27_August_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Pivotal Pte Ltd <br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg <br>
+Pensees Pte Ltd<br>http://www.pensees-systems.com/covid-19-support<br>Email: business@pensees.ai / Grace.ong@pensees.ai<br>Tel: +65 6969 8658
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

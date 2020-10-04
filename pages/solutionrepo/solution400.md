@@ -1,16 +1,19 @@
 ---
-title: FacilityBot - Small Facilities
+title: EPOS Enhanced POS Version 2 - Package (Enhanced POS All In 1 with Smart Inventory Management and Accounting Integration)
 permalink: /productivity-solutions-grant/solutionrepo/solution400
 ---
 
 #### Description
 
-FacilityBot is the first-to-market omni-channel AI-powered facilities management chatbot offered as a Software-as-a-Service (SaaS). FacilityBot is friendly, flexible and feature-packed. FacilityBot's features include fault reporting, preventive maintenance, asset tracking, custom service requests, expenditures, response time tracking, data analytics, facilities booking, surveys, broadcasts and automated responses to FAQs. FacilityBot has been deployed in over 500,000 sqm of space in Singapore.
+EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, customer management, inventory management and provide detailed sales, customer and product data and analysis. It reduces human error and improve accuracy in sales invoicing and stock deduction.
+
+
+
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/EPOS_Pte._Ltd_Annex_3_Part_67.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,16 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-FacilityBot Pte Ltd<br>http://facilitybot.co<br>Email: sales@facilitybot.co<br>Tel: +65 9748 0484
+EPOS Pte. Ltd.<br>http://www.epos.com.sg<br>Email: sales@epos.com.sg<br>Tel: +65 6871 8833 / +65 8482 1888
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: Dropbox Business - Document management and Collaboration workspace Version 1 - Package E (Dropbox Business Advanced License Only - 6 Users)
+title: Dropbox Business - Document management and Collaboration workspace Version 1 - Package C (Dropbox Business Standard License Only - 9 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution532
 ---
 
@@ -10,7 +10,7 @@ Dropbox Business is a Document Management System for archiving and collaborative
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/JustIT_Dropbox_Annex_3_CR_wef_8June2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/JustIT_Dropbox_Annex_3_CR_wef_8June2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

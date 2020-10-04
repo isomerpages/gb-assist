@@ -1,5 +1,5 @@
 ---
-title: SAP Business One 9.3 - Package (8 Professional Users on Cloud with Peppol Einvoicing)
+title: SAP Business One 9.3 -  Package (5 Starter Users on Cloud)
 permalink: /productivity-solutions-grant/solutionrepo/solution496
 ---
 
@@ -9,7 +9,7 @@ The SAP Business One application offers a single, affordable way to manage your 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Integrated_System_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Integrated_System_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

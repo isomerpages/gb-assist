@@ -1,15 +1,15 @@
 ---
-title: Gen Collaboration Solution - Microsoft 365 Business Standard + Dell laptop
+title: SmartWeb V3 Version V3 - Smartweb V3 (License Only)
 permalink: /productivity-solutions-grant/solutionrepo/solution1194
 ---
 
 #### Description
 
-The Adventus Business Laptop Bundle provide for business-grade laptop with collaborative tools and endpoint protection for SME to work remotely and securely. Adventus is providing Software + Laptop bundle - one package (Microsoft Business Standard + Dell Latitude 3410).
+SmartWeb is one of the unique solutions in the market which allows online ordering and payments for all order types like Dine-in, Take Away, Delivery on one single platform. Powered by AI engine Aiden it leverages on Data Analytics and Machine Learning /AI models to provide a unique personalised ordering experience to the restaurants' diners with a beautiful interface, personalised menus, personalised recommendations and even personalised promotions.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adventus-Remote_Collaboration-Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Adventus Singapore Pte Ltd <br>Web URL: https://adventusasia.com/ <br>Contact Hotline:  6100 3310 <br>Contact Email: info@adventusasia.com<br>
+Company Name:TabSquare Pte Ltd <br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

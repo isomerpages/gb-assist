@@ -1,15 +1,15 @@
 ---
-title: iTrack Fleet Management Version 2.8.8 - Package (iTrack Personal - Smartphone)
+title: iTrack Fleet Management Version 2.8.8 - Package (iTrack Vision)
 permalink: /productivity-solutions-grant/solutionrepo/solution707
 ---
 
 #### Description
 
-iTrack Fleet Management System offers GPS Tracking features to track location of vehicles, automate and monitor route taken with optimisation to improve efficiency of the delivery services. It helps companies to better plan and control the fleet journey, reducing cost, improve fleet utilization through its real-time map visualisation.
+iTrack Fleet Management System offers GPS Tracking features to track location of vehicles, automate and monitor route taken with optimisation to improve efficiency of the delivery services. It helps companies to better plan and control the fleet journey, reducing cost, improve fleet utilization through its real-time map visualisation.  
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

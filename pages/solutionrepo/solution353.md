@@ -1,15 +1,15 @@
 ---
-title: Deskera HRMS Version 9.0 - Package A (Enterprise Package for unlimited users)
+title: MyRetailer Android POS - Package E with Unified Payments & Web Store
 permalink: /productivity-solutions-grant/solutionrepo/solution353
 ---
 
 #### Description
 
-Deskera HRMS is a comprehensive HRMS solution which includes payroll management, performance appraisal, statutory compliance, recruitment management, timesheet management and others. The solution also comes with e-Leave and e-Claim features which allows a complete view of employees' leaves, attendance and claims submission details. 
+MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Deskera_HRMS_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_DCS_CR_wef_4_Sept_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Deskera Singapore Pte Ltd<br>https://www.deskera.com/<br>Email: hello@deskera.com<br>Tel: +65 6202 1350
+Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

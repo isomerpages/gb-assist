@@ -1,15 +1,15 @@
 ---
-title: UTM+ Managed Security Services Version 5.5 - Package (UTM+ for Max 40)
+title: Netiquette Cloud Business Suite - Package D (Saas for 25 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution647
 ---
 
 #### Description
 
-Networkbox's UTM solution provides remote monitoring, manages and protects company's network from cyber threats 24/7, allowing businesses to concentrate on running their day to day operations. 
+Netiquette Software is a complete cloud business solution that comprises Accounting, Inventory and Billing, Customer Relationship Management, Payroll modules and Point of Sales System as well as customized cloud solutions for SMEs to manage core key business operations with real time data reports. It has a user-friendly interface with role-specific functionality. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Network_Box_(SIN)_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Network Box (SIN) Pte Ltd<br>www.network-box.sg<br>Email: enquiry@network-box.sg<br>Tel: +65 6339 5900
+Netiquette Software Pte Ltd<br>www.netiquette.com.sg<br>Email: enquiry@netiquette.com.sg<br>Tel: +65 6223 1157
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

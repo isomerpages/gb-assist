@@ -1,5 +1,5 @@
 ---
-title: Dynamics 365 Business Central with E-invoicing Version 15 - Dynamics 365 BC Essential 10 Users
+title: Dynamics 365 Business Central with E-invoicing Version 15 - Dynamics 365 BC Essential 3 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution1102
 ---
 
@@ -11,7 +11,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1102
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Microlabs_20200231_Annex_3_20200630144142_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Microlabs_20200231_Annex_3_20200630144142_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

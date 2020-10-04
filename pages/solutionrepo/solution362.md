@@ -1,16 +1,16 @@
 ---
-title: COVID-19 Sectorial Support Doctor World  Platform Version 2 - Doctor World Basic 
+title: Deskera ERP Version 9.0/10.1 - Package D (Direct Purchase Enterprise Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution362
 ---
 
 #### Description
 
-Doctor World is an integrated digital platform connecting patients with a trusted network of medical providers and services. It allows doctors to provide 24/7 teleconsultation services to dispense care via video-call and includes 24/7 islandwide delivery of medication to patients. Doctor World also comes with a digital queue system for physical clinic visits, an appointment-booking system, a health store and home care services.
-
+Deskera ERP is an easy-to-use software that facilitates the recording and processing of all financial transactions via integrated solution.
+From invoices to books, POS to receipts, customer and vendor management to customizable financial reports, Deskera ERP provides a quick and efficient way to manage companies' accounts processes.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Doctor_World_Annex_3_CR_wef_27_April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Doctor World Pte Ltd<br>www.doctorworld.co<br>Email: contact@doctorworld.co<br>Tel: +65 9139 2066
+Deskera Singapore Pte Ltd<br>https://www.deskera.com/<br>Email: hello@deskera.com<br>Tel: +65 6202 1350
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

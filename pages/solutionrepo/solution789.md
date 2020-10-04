@@ -1,5 +1,5 @@
 ---
-title: Fortigate UTM - Package (FG-80E)
+title: Fortigate UTM - Package (FG-200E)
 permalink: /productivity-solutions-grant/solutionrepo/solution789
 ---
 
@@ -9,7 +9,7 @@ A network appliance that consolidates multiple security and networking functions
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-Fortigate_UTM_Annex_3-CR2_wef13April2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-Fortigate_UTM_Annex_3-CR2_wef13April2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

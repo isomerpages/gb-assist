@@ -1,5 +1,5 @@
 ---
-title: Westlaw Asia - Package (for up to 5 fee earners)
+title: Westlaw Asia - Option 3 & Practical Law Plus Package (for 10 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution878
 ---
 
@@ -9,7 +9,7 @@ Westlaw Asia is a well-known power legal research tool for law firms with its se
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/WestLaw_Asia_Annex_3_Final_ext_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/WestLaw_Asia_Annex_3_Final_ext_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

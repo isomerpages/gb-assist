@@ -1,17 +1,15 @@
 ---
-title: Million Accounting and Stock Control System Version 3 - Package B (2 Users)
+title: Auto Welding Carriage for T-beam/ Stiffener Multiple Welds
 permalink: /productivity-solutions-grant/solutionrepo/solution1147
 ---
 
 #### Description
 
-Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports.
-
-Million Accounting supports Multi-Company and Multi-Currency and has four modules - Accounting, Stock, Invoicing and Payroll.
+Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200199_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -33,9 +31,18 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+MIG and FCAW welding
+Magnet mounting, wireless communication
+Speed, Direction, Weld Selection, Start, Stop controls
+2 travel directions, speed of 0 - 163 cm/min
+DC Motor 24V, 4 rubber wheels, chain and motor drive
+Arm Torch: 40mm Up/down angle and front/back distance, 40-50- welding angle adjuster, 90- travel angle adjuster
+Input Power: AC 220V, 50/60 Hz
+Includes Carriage, Power and torch switch cables 
+
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 #### Contact Information
-Company Name:Rockbell International Software Pte Ltd <br>Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

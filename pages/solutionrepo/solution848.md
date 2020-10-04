@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Taidii Fast Fever Screening and Attendance System  - Package (VAMS 3S)
+title: COVID-19 Support Taidii Fast Fever Screening and Attendance System  - Package (VAMS 2.0)
 permalink: /productivity-solutions-grant/solutionrepo/solution848
 ---
 
@@ -9,7 +9,7 @@ Coupled with a Health Sciences Authority (HSA) certified device, the solution pr
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Taidii_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Taidii_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

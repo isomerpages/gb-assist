@@ -1,5 +1,5 @@
 ---
-title: Creative Eshop - Package (Standard)
+title: Creative Eshop - Package (Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution321
 ---
 
@@ -13,7 +13,7 @@ Creative eShop is e-commerce platform which enable users to manage their online 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Creative_eWorld_Retail_EShop_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Creative_eWorld_Retail_EShop_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

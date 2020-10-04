@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support M1 Remote Working Laptop Suite (Microsoft 365 Business Standard) - Basic
+title: COVID-19 Support M1 Remote Working Laptop Suite (Microsoft 365 Business Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution595
 ---
 
@@ -7,9 +7,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution595
 
 M1 Remote Working Suite is a complete all-in-one bundle to enable you to work remotely and still collaborate actively with both your colleagues and customers. This is an all-in-one bundle that comprises of laptop, security software, collaboration tool, office applications and IT support (from initial setup to technical assistance) to provide you with a fuss free experience as you focus in driving your business.
 
+
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_M1-Remote_Laptop_Annex_3_CR_wef_15_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_M1-Remote_Laptop_Annex_3_CR_wef_15_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

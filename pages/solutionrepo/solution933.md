@@ -1,5 +1,5 @@
 ---
-title: Shopcada Ecommerce and POS - Shopcada Standard  Ecommerce with Emerging Mobile Package
+title: Shopcada Ecommerce and POS - Shopcada Premium Ecommerce with Grow Mobile Package
 permalink: /productivity-solutions-grant/solutionrepo/solution933
 ---
 
@@ -9,7 +9,7 @@ Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Webcada_20200035_Annex_3_20200625152216_Part_56.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Webcada_20200035_Annex_3_20200625152216_Part_12.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

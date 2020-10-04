@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support JY-Hikvision Package B (2 Units)
+title: FoodZaps Version 4.0 - Package E(eMenu with Customer QR/Online Self Ordering Contactless Ordering Solution)
 permalink: /productivity-solutions-grant/solutionrepo/solution1128
 ---
 
 #### Description
 
-JY Cloud VMS with Hikvision facial recognition & fever screening solution enables automation of these processes with uncompromising security features. With this solution, building management can grant access to tenants, staffs and all visitors while keeping track of entry records.
+FoodZaps Technology is a Singapore company with the most comprehensive and integrated F&B system. Streamlines Customer Self-ordering, for Both online and on-premise, dine-in, takeaway and delivery, all integrated to FoodZaps. Includes cashier, ewaiter, payment processes and optimises operations, orders sent to the kitchen, cloud analytics portal providing insights on sales and product performance. Designed to increase productivity and build successful F&B business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_JYComm_Annex_3_ver2_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_67.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: JYComm Pte Ltd<br>Web URL: WWW.JY-COMM.COM<br>Contact Hotline: 62899909 <br>Contact Email: SALES@JY-COMM.COM<br>
+Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 91606815 <br>Contact Email: sales@foodzaps.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

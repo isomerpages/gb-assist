@@ -1,19 +1,20 @@
 ---
-title: Epoint Version 9 - Package (eMenu - Advance+ For Single Outlet)
+title: Dough Sheeter
 permalink: /productivity-solutions-grant/solutionrepo/solution392
 ---
 
 #### Description
 
-Epoint mobility ordering POS provides a full spectrum of solutioning for Food and Beverages segment. The mobility solution allows waiter to use a tablet to take order on behalf of the customer directly and send orders to kitchen once the order is confirmed.
+Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
 
+The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
 
-
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Epoint_Systems_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -28,7 +29,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -36,8 +37,10 @@ N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+No change in vendor allowed
+The purchase of pre-owned/used equipment is not supportable
 
 #### Contact Information
-Epoint Systems Pte Ltd<br>www.Epoint.com.sg<br>Email: sales@epointpos.com<br>Tel: +65 6100 6300 / +65 6100 6610
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

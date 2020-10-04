@@ -1,5 +1,5 @@
 ---
-title: Hubble Workforce Management System Version 2.0 - Package (Up to 250 Users)
+title: Hubble Workforce Management System Version 2.0 - Package (Up to 100 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution460
 ---
 
@@ -9,7 +9,7 @@ Hubble Workforce Management System is a cloud solution on both web and mobile, t
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

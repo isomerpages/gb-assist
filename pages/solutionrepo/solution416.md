@@ -1,17 +1,19 @@
 ---
-title: iREP Workforce Management System Version 2 - Package (Basic)
+title: iREP Security System Version 3 - Package (Mobile Patrol & Incident Management)
 permalink: /productivity-solutions-grant/solutionrepo/solution416
 ---
 
 #### Description
 
-iREP Workforce Management System is a mobile reporting, maintenance tracking and monitoring system which allows all the service aspects to be integrated using mobility from planning, development and delivery of services either to the organisation itself or to third parties.  Within the service framework in this application, it allows mobile reporting, maintenance tracking and monitoring work progress to meet quality standards.
+iREP Security is a mobile reporting, maintenance tracking and monitoring system which use GPS trackers and Live Image Captures to enable investigating officers and guards to write incident reports on sites, take attendance of guards and managing visitor visiting the premises.
+
+
 
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Gabkotech_MnP_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -30,10 +32,10 @@ Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkotech.com<br>Tel: +65 6684 4419

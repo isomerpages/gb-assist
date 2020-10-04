@@ -1,17 +1,15 @@
 ---
-title: EquipPos Wholesale Solutions Version 3 - Package (Basic)
+title: VRcollab LITE - BIM VDC VR FULL BUNDLE
 permalink: /productivity-solutions-grant/solutionrepo/solution1222
 ---
 
 #### Description
 
-EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. 
-The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. 
-With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
+VRcollab is a next generation VDC software solution for the construction industry which provides BIM interrogation, Stakeholder collaboration and use of Virtual Reality in BIM coordination sessions. BIM interrogation capabilities includes Full BIM Meta Data Inspection and Precise Model Measurements. The software also allows the users to annotate and comment directly on VR models for the purpose of issue creation, tracking, and coordination reporting.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_20200315_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -30,12 +28,12 @@ Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-N.A. for non-SMEs
+NA% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Nil
 
 #### Contact Information
-Company Name:Edgeworks Solutions Pte Ltd <br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg <br>
+Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/lite/ <br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

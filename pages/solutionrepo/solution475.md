@@ -1,16 +1,15 @@
 ---
-title: SAP Business One, version for HANA Version 10 - Package B (10 users, Cloud Hosting)
+title: Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Packages for Property Management Companies (MA)
 permalink: /productivity-solutions-grant/solutionrepo/solution475
 ---
 
 #### Description
 
-SAP Business One is a single, integrated ERP solution with flexible licensing and deployment options - subscription, private/public cloud and on-premise. The solution includes mobility applications for managers, sales and service users; in-built Business Intelligence functions; as well as Artificial Intelligence and Machine Learning capabilities. Inecom offers pre-configured packages for trading, distribution, project based industries and service/repair organizations.
-
+Qornerstone Estate is an off-the-shelf solution to digitalize Property & Management (PM) operations. For property managers and single building owners looking to streamline operations and raise productivity levels, or who may wish to scale up but find themselves constrained by the escalating cost of manpower, the Qornerstone Estate is an end-to-end property, leasing, and facilities management platform to leverage on.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_12.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Inecom Pte Ltd<br>www.inecom.com.sg<br>Email: enquiries@inecomworld.com<br>Tel:+65 6225 9255
+IBASE Technology Pte Ltd<br>www.ibase.com.sg / www.qornerstone.com<br>Email: sales@qornerstone.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

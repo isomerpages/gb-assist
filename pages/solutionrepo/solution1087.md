@@ -1,15 +1,15 @@
 ---
-title: Ecommerce Web Software Development - Ecommerce Web Software Development (Opencart/Woocommerce)
+title: BIZ POS Version 3.0 - BIZ POS VER 3.0 LAPTOP
 permalink: /productivity-solutions-grant/solutionrepo/solution1087
 ---
 
 #### Description
 
-Development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, managing of client orders and data, track statistics of product sales performance, online marketing of products and provision of consultancy to explore connections with external platforms to expand the outreach digitally to seamlessly move Offline selling to Online selling.
+BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer/inventory management. Daily sales operation are equipped with many promotions/discount setup abilities, this software also bundles with membership features to monitor customers spending, rewards and redemption. The inventory features will track each stocks in and out of the store and report balance of the stock quantities.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised%20Firstcom%2020200125_Annex_3_20200630152443.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_20200191_Annex_3_20200630143559_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Firstcom Solutions Pte Ltd <br>Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
+Company Name:Coobiz IT Solutions Pte Ltd <br>Web URL: www.coobizit.com <br>Contact Hotline: +6592709558 <br>Contact Email: admin@COOBIZIT.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

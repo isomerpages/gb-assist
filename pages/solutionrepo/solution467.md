@@ -1,15 +1,15 @@
 ---
-title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub - CRM (Marketers' Package) - Hubspot
+title: Hubble Safety Management System - Package (Up to 1 Project, 2 years)
 permalink: /productivity-solutions-grant/solutionrepo/solution467
 ---
 
 #### Description
 
-The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationship Management & Reporting, Sales Management, Marketing Automation, Content Management and Customer Service Management software which function together to help businesses acquire and manage customers.
+Hubble Safety Management System helps you manage and monitor the safety of your project sites in real-time. The software will streamline and digitise your Permit-to-Work (PTW) and track safety data for your work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites remain safe and compliant at all times.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Company Name:Hubspot Asia Pte. Ltd. <br>Web URL: https://www.hubspot.com/products/get-started <br>Contact Hotline: 31583395 <br>Contact Email:imdagrant@hubspot.com<br>
+Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

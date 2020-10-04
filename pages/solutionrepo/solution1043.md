@@ -1,15 +1,16 @@
 ---
-title: Vehicle Service System - VSS Package with ADAS DSM
+title: SMART TECHNOLOGY FOR FACILITIES MANAGEMENT Version 1.8 - Package C (10 sets of Toilets)-Complete
 permalink: /productivity-solutions-grant/solutionrepo/solution1043
 ---
 
 #### Description
 
-VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning systems, GSM Communication network and expertise in developing and integrating solutions for Vehicle Tracking System, Road Safety and Driver Behavior Management systems, In-vehicle Mobile DVRs that stream live location with video and much more.
+SMART Toilet System uses the unqiue LoRaWAN communication protocol with a state of the art Ai-based neural network to improve the Service Providers(SP)productivity. In AST, we offers an end-to-end solution to building services Service Buyers and SP. 
+We offer various type of sensory modules:1)Odour,Temperature&Humidity Sensor 2) Human traffic counter 3)Individual toilet cubicle detection 4)Toilet paper&Hand towel empty detection 5)Contactless attendance taking 6) Water&Electricity monitoring
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advancer_20200342_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +32,9 @@ Direct Purchase
 80% for non-SMEs
 
 #### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies
+Cost in price package does not include optional items and is not indicative of actual project cost.
 
 #### Contact Information
-Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
+Company Name:ADVANCER SMART TECHNOLOGY PTE LTD <br>Web URL: www.advastech.com.sg <br>Contact Hotline: 66653855 <br>Contact Email: support@advancer.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

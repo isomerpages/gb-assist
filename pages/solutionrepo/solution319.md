@@ -1,19 +1,15 @@
 ---
-title: Creative Eshop - Package (Premium)
+title: Autocount Accounting 2.0 - Package (Premium - 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution319
 ---
 
 #### Description
 
-Creative eShop is e-commerce platform which enable users to manage their online content, business transaction, marketing outreach to potential customers with optimal shopping experience. Equipped with a user friendly interface, user can easily utilise the platform without much IT knowledge.
-
-
-
-
+Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledge of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Creative_eWorld_Retail_EShop_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Creative_eWorld_Autocount_Annex 3_CR_wef26Jun2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Android POS - Package E with Unified Payments & Web Store
+title: MyRetailer Android POS - Package C with Unified Payments
 permalink: /productivity-solutions-grant/solutionrepo/solution351
 ---
 
@@ -9,7 +9,7 @@ MyRetailer Android POS is a powerful all in one point-of-sale solution with buil
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_DCS_CR_wef_4_Sept_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_DCS_CR_wef_4_Sept_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

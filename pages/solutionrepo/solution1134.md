@@ -1,15 +1,15 @@
 ---
-title: Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App with CRM) - Package B	
+title: BOTG Version 1.0 - Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1134
 ---
 
 #### Description
 
-Aptsys Customer Mobile Self Ordering with online payment and Delivery  is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
+Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Tech_20200042_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_20200064_Annex_3_Revised_CR_wef_7_Sept_2020v2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 64577991 <br>Contact Email: sales.demo@aptsys.com.sg <br>
+Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

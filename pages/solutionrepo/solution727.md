@@ -1,16 +1,15 @@
 ---
-title: Qashier Smart Terminal - Package A (Basic)
+title: Psoft Accounting Systems - Package (Web-Based Three Users with PEPPOL)
 permalink: /productivity-solutions-grant/solutionrepo/solution727
 ---
 
 #### Description
 
-Qashier provides smart point-of-sale (POS) solutions to help small merchants digitise their businesses. Qashier'ss flagship product is the Qashier Smart Terminal, a connected, multi-purpose device that combines a payments hub, cloud-based POS software, and a proprietary app store in one uniquely designed device. Qashier enables merchants to manage entire stores with just one terminal on the counter.
-
+Our company specializes in business software applications ie selling Psoft Accounting software for SME in Singapore to help them keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Our software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow. All these to help SME company to perform better.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Revised_Annex_3_ver3_CR_wef_10_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Qashier Pte Ltd<br>http://qashier.co<br>Email: hello@qashier.co<br>Tel: +65 8790 7020
+Psoft Pte. Ltd.<br>http://www.psoftaccounting.com<br>Email: psoft@singnet.com.sg<br>Tel: +65 6295 3292
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

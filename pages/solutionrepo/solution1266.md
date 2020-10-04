@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Plus Version 4 - Package D with Cloud Dashboard
+title: MyRetailer Plus Version 4 - Package B with Second Monitor
 permalink: /productivity-solutions-grant/solutionrepo/solution1266
 ---
 
@@ -9,7 +9,7 @@ MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-us
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200208_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

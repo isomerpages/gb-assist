@@ -1,5 +1,5 @@
 ---
-title: Xero accounting software - ASL Advisory - Xero setup, subscription, training, migration of past year data
+title: Xero accounting software - ASL Advisory - Xero setup, subscription & training
 permalink: /productivity-solutions-grant/solutionrepo/solution1165
 ---
 
@@ -9,7 +9,7 @@ Xero is an accounting software for small business that lives in the cloud and wo
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

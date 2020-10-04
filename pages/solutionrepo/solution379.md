@@ -1,15 +1,16 @@
 ---
-title: 2020 QuickHR Version 9 - Cloud HRMS - Essential 25
+title: EquipPOS Retail Solutions Version 3 - Package E (Basic + Inventory Manager APP Without Hardware)
 permalink: /productivity-solutions-grant/solutionrepo/solution379
 ---
 
 #### Description
 
-QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of Human Asset Management, Workforce Management and Human Strategic Development. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
+EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-based system by synchronising data to cloud in real-time yet working without internet at the same time. Operations will not be hindered even when it's offline and  data can be viewed in real-time from our cloud-based EquipWeb backend once internet is available. Edgeworks POS solutions give you the performance and the stability that you need.
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Edgeworks_Solutions_20200018_Annex_3_20200625142917_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Enable Business Pte Ltd<br>www.quickhr.co<br>Email: business@quickhr.co<br>Tel: +65 6908 8158
+Edgeworks Solutions Pte Ltd<br>www.edgeworks.com.sg<br>Email: sales@edgeworks.com.sg<br>Tel: +65 6750 4498 / +65 9837 6071
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

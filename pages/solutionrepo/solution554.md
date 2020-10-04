@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Sectorial Support Pencil Learning Platform Version 2.6.0 - Package (351 to 500 Users)
+title: COVID-19 Sectorial Support Pencil Learning Platform Version 2.6.0 - Package (101 to 250 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution554
 ---
 
@@ -7,9 +7,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution554
 
 A learning and collaboration platform for delivery of digital content, administering courses, discussions and assessment. It is built on a responsive front-end design framework providing an optimal viewing experience across different types of devices.
 
+
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Kydon_Annex_3_Cleaned_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Kydon_Annex_3_Cleaned_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

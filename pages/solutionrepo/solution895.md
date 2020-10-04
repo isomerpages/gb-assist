@@ -1,5 +1,5 @@
 ---
-title: Cyber Attack Surface Screening and Assessment Services Version 1 - Security Configuration Review
+title: Cyber Attack Surface Screening and Assessment Services Version 1 - Penetration Testing Web App Grey-Box (Full Scope)
 permalink: /productivity-solutions-grant/solutionrepo/solution895
 ---
 
@@ -9,7 +9,7 @@ TUV SUD's Security Assessment services for SMEs' solutions and IT infrastructure
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/TUV_SUD_Cyber_Attk_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/TUV_SUD_Cyber_Attk_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
