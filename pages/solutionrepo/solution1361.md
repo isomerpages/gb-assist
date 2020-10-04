@@ -1,15 +1,15 @@
 ---
-title: EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 3 USERS
+title: Autocount Accounting Software Version 2.0 - Premium Version 2.0 ( 10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1361
 ---
 
 #### Description
 
-EZ Accounting and Inventory Management System started since 1999 developed by EZ Accounting based in Singapore. It is able to generate all accounting reporting such as Profit and Loss, GST report, project reporting and also full set of Inventory Management System to compute stock costing and location stock details.
+Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledged of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_I_SOFT_20200352_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:USER BASIC SOFTWARE PTE LTD <br>Web URL: www.userbasicsoftware.com <br>Contact Hotline: 62271797 <br>Contact Email: info@userbasicsoftware.com <br>
+Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD <br>Web URL: http://isoft.my/products <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

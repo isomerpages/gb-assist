@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support NTC's Remote Working Solution - Microsoft 365 Business Premium + HP ProBook 430
+title: COVID-19 Support NTC's Remote Working Solution- Microsoft 365 Business Standard + HP ProBook 430
 permalink: /productivity-solutions-grant/solutionrepo/solution1204
 ---
 
@@ -9,7 +9,7 @@ The NTC Remote Working Solution provide for business-grade laptops with collabor
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_NTC_Remote_Working_Solution_Software_Laptop_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_NTC_Remote_Working_Solution_Software_Laptop_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

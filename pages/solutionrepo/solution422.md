@@ -1,5 +1,5 @@
 ---
-title: iREP Workforce Management System Version 2 - Package (Essential)
+title: iREP Workforce Management System Version 2 - Package (Comprehensive)
 permalink: /productivity-solutions-grant/solutionrepo/solution422
 ---
 
@@ -9,7 +9,7 @@ iREP Workforce Management System is a mobile reporting, maintenance tracking and
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

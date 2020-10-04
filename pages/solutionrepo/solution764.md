@@ -1,16 +1,18 @@
 ---
-title: SecureAPlus Version 6.x - (20 Pax)
+title: Infusionsoft CRM - Package (Infusionsoft for larger SME- 11 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution764
 ---
 
 #### Description
 
-SecureAPlus is an endpoint protection solution that uses the right combination of security layers to prevent the most advanced cyber threats of today & tomorrow from causing harm to your PC.
+Infusionsoft CRM is an all-in-one CRM solution that turns a static database into an automated prospect and customer engagement tool. The basic functions also come with mobile responsive in solution email templates and landing page builder. Easily integrate this to company's website and other systems with open API and plugins. It is used by more than 45,000 businesses world-wide, and supported by more than 140 third-party apps. 
+
+
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Scale_Up_Marketing_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710
+Scale Up Marketing Pte Ltd<br>https://scaleupmarketing.asia/?utm_source=techdepot<br>Email: brendanyong@scaleupmarketing.asia<br>Tel: +65 9005 6164
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

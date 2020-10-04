@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Aesthetics Marketing Temperature Monitoring Platform - 1 Device
+title: COVID-19 Support Availabilit's Remote Working Solution- Microsoft Office 365 Business Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution1209
 ---
 
 #### Description
 
-Aesthetics Marketing Temperature Monitoring Platform is a solution that combines non-contact temperature screening, facial recognition and face mask detection with audio and LED light alert. The solution also comes with an attendance management module for staff.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AestheticsMkt_Temp%20Screening_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AVBT_Remote_Working_Solution_Software_only_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Aesthetics Marketing Asia Private Limited<br>Web URL: www.aesthetics.com.sq<br>Contact Hotline:67479808<br>Contact Email: gm@aesthetics.com.sg<br>
+Company Name: Availabilit Pte Ltd<br>Web URL: www.avbt.com.sg<br>Contact Hotline: 65139192<br>Contact Email: marcus@avbt.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

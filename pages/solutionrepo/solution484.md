@@ -1,19 +1,15 @@
 ---
-title: BIM 360 DESIGN - 5 Users Pack Subscription
+title: AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 5 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution484
 ---
 
 #### Description
 
-BIM 360 Design 
-- Single platform that connects design and construction processes and project team at one place.
-- BIM 360 Design is the cloud collaboration solution for Revit users.
-- Real-time Revit cloud work sharing and collaboration workflows for Civil 3D and Plant 3D
-- Securely co-author Revit models and access Civil 3D and Plant 3D files, across one firm or multiple firms"
+Characterized by its easy-to-use, fast operated speed, complete business logic coverage, and accurate information provided; AutoCount system stands out as one of the best accounting software for today business requirements. With minimal of accounting knowledge, user can start using AutoCount system.With its advanced technology such as Microsoft .Net Framework, SQL Server 2012,AutoCount system able to operate in ultra-fast speed and provides strong and stable database for every type of business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/INNOCOM_TECHNOLOGIES_20200259_Annex_3_20200625152404_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Ingenious_Business_Software_20200149_Annex_3_20200625150811_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,9 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/<br>Contact Hotline: 6603 5438<br>Contact Email: sales@innocom.com.sg
+Ingenious Business Software Pte Ltd<br>https://www.ingenious.sg/pre-approved-digital-solutions/<br>Email: enquiry@ingenious.sg<br>Tel: +65 6223 4385
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

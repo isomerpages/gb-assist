@@ -1,5 +1,5 @@
 ---
-title: LFSUITE Version 6.0 - Package Online2Offline
+title: LFSUITE Version 6.0 - Package Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1270
 ---
 
@@ -9,7 +9,7 @@ Optimize your retail business productivity and efficiency with RetailPlan, our i
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_LEVELFIVE_20200261_Annex_3_Part_45.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

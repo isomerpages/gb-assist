@@ -1,5 +1,5 @@
 ---
-title: EquipPOS Retail Solutions Version 3 - Package C (Basic + Inventory Manager APP)
+title: EquipPOS Retail Solutions Version 3 - Package A (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution375
 ---
 
@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution375
 
 EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-based system by synchronising data to cloud in real-time yet working without internet at the same time. Operations will not be hindered even when it's offline and  data can be viewed in real-time from our cloud-based EquipWeb backend once internet is available. Edgeworks POS solutions give you the performance and the stability that you need.
 
-
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Edgeworks_Solutions_20200018_Annex_3_20200625142917_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Edgeworks_Solutions_20200018_Annex_3_20200625142917_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

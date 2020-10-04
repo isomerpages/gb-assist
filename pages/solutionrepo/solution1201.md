@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support NTC's Remote Working Solution - Microsoft 365 Business Basic + HP ProBook 430
+title: COVID-19 Support SYNERG Online Collaboration Too - Super Prem (Gsuite)
 permalink: /productivity-solutions-grant/solutionrepo/solution1201
 ---
 
 #### Description
 
-The NTC Remote Working Solution provide for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely.
+SYNERG Online Collaboration Tool with Laptop is a solution that allows the business users to adopt remote working. The solution bundle includes a business class laptop with endpoint protection and collaborative cloud-based office productivity tools to facilitate the remote working, online collaboration and online meeting.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_NTC_Remote_Working_Solution_Software_Laptop_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Synergtech-LaptopBundle_Annex_3_v2-Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: NTC Integration Pte Ltd<br>Web URL: www.ntc.com.sg<br>Contact Hotline: 62762823<br>Contact Email: marketing@ntc.com.sg <br>
+Company Name: SYNER-G TECHNOLOGIES PTE LTD<br>Web URL: www.synergtech.com <br>Contact Hotline: 6299 4495 <br>Contact Email: roger.siow@synergtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

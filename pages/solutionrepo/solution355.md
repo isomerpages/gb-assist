@@ -1,5 +1,5 @@
 ---
-title: Deskera HRMS Version 9.0 - Package C (HRMS - 30 Users)
+title: Deskera HRMS Version 9.0 - Package A (Enterprise Package for unlimited users)
 permalink: /productivity-solutions-grant/solutionrepo/solution355
 ---
 
@@ -9,7 +9,7 @@ Deskera HRMS is a comprehensive HRMS solution which includes payroll management,
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Deskera_HRMS_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Deskera_HRMS_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

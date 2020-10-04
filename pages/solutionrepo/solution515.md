@@ -1,5 +1,5 @@
 ---
-title: NinjaOS - Package C (NinjaEnterprise - 2 Modules)
+title: NinjaOS - Package A (NinjaPro - 3 Outlets and 4 Modules)
 permalink: /productivity-solutions-grant/solutionrepo/solution515
 ---
 
@@ -10,7 +10,7 @@ We help build online e commerce stores for F&B merchants so that they can grow t
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Lenovo s Next-Gen Collaboration Solution (Laptop + Microsoft 365 only) - IdeaPad 3 Next-Gen Collaboration Solution
+title: Stendard Solution  Version 1.6.1 - Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution1008
 ---
 
 #### Description
 
-Lenovo s Next-Gen Collaboration Solution Laptop Bundle provides  business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
+Stendard Solution  is a cloud-based document management system that allows you to easily store, maintain, review and sign-off documents electronically. Published documents are automatically maintained with version controlling, enabling access to the latest version of documents at all time. With our workflow module, you can easily create, customise and simply tailor a fool-proof to-do list for your teams and everyone involved in any project. We put quality at the centre of your business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Lenovo-Business_Laptop_Bundle-Annex_3_CR_wef_15_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Lenovo Singapore Pte Ltd <br>Web URL: https://www.lenovo.com/sg/en <br>Contact Hotline:68271000 <br>Contact Email: psglenovo@lenovo.com 
+Company Name:YNL 360 Pte Ltd <br>Web URL: www.stendard.io/features <br>Contact Hotline: 87671969 <br>Contact Email: contact@stendard.io <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

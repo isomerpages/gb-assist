@@ -1,5 +1,5 @@
 ---
-title: Autocount Accounting 2.0 - Package (Premium - 3 Users)
+title: Autocount Accounting 2.0 - Package (Pro - 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution317
 ---
 
@@ -9,7 +9,7 @@ Autocount is an integrated Accounting and Inventory Management System. It covers
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Creative_eWorld_Autocount_Annex 3_CR_wef26Jun2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Creative_eWorld_Autocount_Annex 3_CR_wef26Jun2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

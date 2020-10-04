@@ -1,16 +1,15 @@
 ---
-title: Cyber Security Advisory Services Version 1 - Security Architecture Review (Small System)
+title: Cyber Attack Surface Screening and Assessment Services Version 1 - Penetration Testing Endpoint Black-Box
 permalink: /productivity-solutions-grant/solutionrepo/solution896
 ---
 
 #### Description
 
-TUV SUD's Security Advisory services for SMEs' solutions and IT infrastructure helps to facilitate and guide SMEs in the consideration of threats, security requirements and potential constraints of functionality and integration based on defence in-depth and established security design principles. 
-
+TUV SUD's Security Assessment services for SMEs' solutions and IT infrastructure helps to identify cybersecurity flaws within solutions and its infrastructure. This potentially helps to minimize the cyber-attack surface when the solutions are adopted by targeted SMEs. This offering of bite sized cybersecurity assessment services greatly lowers the cost barrier and reduces the inertia for SMEs to embark on a cyber-secure future.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/TUV_SUD_Cyber_Security_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/TUV_SUD_Cyber_Attk_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

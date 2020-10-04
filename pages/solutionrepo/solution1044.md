@@ -1,15 +1,15 @@
 ---
-title: W.R.I.S.T Version 2 - W.R.I.S.T Lite (One Time Purchase for the Sensors)
+title: Vehicle Service System - Basic VSS Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1044
 ---
 
 #### Description
 
-Sensorla provides an artificial intelligence workforce management system, that is activated by sensors and wearables, to optimise the workforce in the areas of Facilities Management and Environmental Services. It is a platform for the labour-intensive industries such as cleaning, security and hospitality. Through industrial Internet of Things (IIoT), Sensorla introduces devices, technologies, processes to improve productivity of these companies, helping them to save time and manpower effort.
+VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning systems, GSM Communication network and expertise in developing and integrating solutions for Vehicle Tracking System, Road Safety and Driver Behavior Management systems, In-vehicle Mobile DVRs that stream live location with video and much more.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Direct Purchase
 80% for non-SMEs
 
 #### Things to Note
-Cost in price package does not include optional items and is not indicative of actual project cost.
+Only applicable for licensed cleaning, waste management and pest management companies
 
 #### Contact Information
-Company Name:Sensorla Pte Ltd <br>Web URL: https://www.sensorla.co/#Products <br>Contact Hotline: 69096483 <br>Contact Email: contactus@sensorla.co <br>
+Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

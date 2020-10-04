@@ -1,5 +1,5 @@
 ---
-title: EquipPOS Retail Solutions Version 3 - Package E (Basic + Inventory Manager APP Without Hardware)
+title: EquipPOS Retail Solutions Version 3 - Package C (Basic + Inventory Manager APP)
 permalink: /productivity-solutions-grant/solutionrepo/solution377
 ---
 
@@ -10,7 +10,7 @@ EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-ba
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Edgeworks_Solutions_20200018_Annex_3_20200625142917_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Edgeworks_Solutions_20200018_Annex_3_20200625142917_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

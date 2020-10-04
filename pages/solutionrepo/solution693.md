@@ -1,16 +1,18 @@
 ---
-title: COVID-19 Support Intelligent Facial Recognition Access Control System with Temperature Monitoring Version 1.0 - Package B (2 Units)
+title: Absolute Payboy HRMS Version 1.0 - Package B (45 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution693
 ---
 
 #### Description
 
-This solution is Cloud-based, Contact-less, Computer-Vision based Facial Recognition and Body Temperature Measuring Solution. Solution also supports visitor management and attendance management with temperature statistics. It uses Computer Vision, Artificial Intelligence and IoT Sensors to offer access control and temperature measurement functionality. A back-end dashboard offers real-time monitoring and alert features to administrator/security guards.
+Absolute Payboy is a cloud-based human resource management system that offers one-stop solution to SME's HR needs such as payroll processing, leave management, time tracking, scheduling and more.    The solution include mobile apps that allow SMEs to manage their employees anytime and anywhere from their mobile devices.
+
+
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pensees_Systems_Pte_Ltd-Annex3_CR_wef_27_August_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Payboy_Annex_3_wef4May2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +27,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -35,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Pensees Pte Ltd<br>http://www.pensees-systems.com/covid-19-support<br>Email: business@pensees.ai / Grace.ong@pensees.ai<br>Tel: +65 6969 8658
+Payboy Pte. Ltd.<br>www.Payboy.biz<br>Email: nigel.lim@payboy.biz<br>Tel: +65 9187 6425
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

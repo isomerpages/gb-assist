@@ -1,5 +1,5 @@
 ---
-title: Cyber Security Advisory Services Version 1 - Security Architecture Review with TRA (Large System)
+title: Cyber Security Advisory Services Version 1 - Security Architecture Review (Small System)
 permalink: /productivity-solutions-grant/solutionrepo/solution898
 ---
 
@@ -10,7 +10,7 @@ TUV SUD's Security Advisory services for SMEs' solutions and IT infrastructure h
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/TUV_SUD_Cyber_Security_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/TUV_SUD_Cyber_Security_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support BCAT Contactless Attendance & Temperature System Version 1.0 Package A (BCAT800 - 1 unit)
+title: COVID-19 Support FR-19 Pro Package A (1 Unit)
 permalink: /productivity-solutions-grant/solutionrepo/solution1331
 ---
 
 #### Description
 
-A standard workflow automation solution with digital attendance, temperature checks and facial recognition.  It comes as a standalone  tablet device that is easy to setup and deploy.  It can manage your staff or visitors entering your premises to ensure that they adhere to safety requirements. Integration to existing HR/ERP systems, door access can be discussed as additional items outside the package. 
+This is a true contactless thermal scanner with face recognition tablet programmed for SMEs to combat the coronavirus without the need for additional manpower that drives the operational cost. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ADERA_GLOBAL_SMART_TECH_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EDviston_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: ADERA Global Smart Tech Pte Ltd<br>Web URL: www.aderaglobal.com<br>Contact Hotline: 6775 2555 <br>Contact Email: yeojin.lee@aderaglobal.com
+Company Name: ED Viston Pte Ltd<br>Web URL: www.edviston.com<br>Contact Hotline: 6680 6084 <br>Contact Email: Darren.tee@edviston.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

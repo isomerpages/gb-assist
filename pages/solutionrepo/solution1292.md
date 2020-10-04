@@ -1,5 +1,5 @@
 ---
-title: SMEPAYROLL HRMS Version 11 - Professional 200
+title: SMEPAYROLL HRMS Version 11 - Professional 100
 permalink: /productivity-solutions-grant/solutionrepo/solution1292
 ---
 
@@ -9,7 +9,7 @@ SMEPayroll is a comprehensive HRMS Solution. All-in-one platform empowering Huma
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_20200326_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_20200326_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

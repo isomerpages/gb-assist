@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Support M1 Thermal Facial Recognition Solution with mask detection
+title: COVID-19 Support M1 - Microsoft 365 - Package (Business Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution594
 ---
 
 #### Description
 
-M1 Thermal Sensor and Facial Recognition Solution is a solution combining temperature taking, facial recognition and door access integration  to automate the employees' access into the premise. The employee's attendance and temperature is captured into the system, and alert is triggered when high temperature is detected. The solution also works with mask on, and can alert if the employee being screened is not wearing a mask.
-
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/M1-Temp_Screening_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/M1-Office365_Annex_3_CR_wef_21_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

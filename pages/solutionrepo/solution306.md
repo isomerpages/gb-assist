@@ -1,13 +1,11 @@
 ---
-title: Vacuum Packaging Machine
+title: Filing and Seaming Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution306
 ---
 
 #### Description
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products are placed in trays and then loaded into the vacuum chambers, after which a plastic film will be used to seal in the product. 
-
-The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. 
+The filing and seaming machine automates the filing and seaming of canned beverages. Operators will only need to load the machine with the product. Each can in the production line will be filled to the desired level, checked (by weight or volume), and subsequently heat sealed shut.
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -36,8 +34,8 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following specifications:
-- Able to seal multiple products at a time
-- Digital interface for ease-of-use
+- Digital interface for simple operation (optional)
+- Speed and temperature control
 
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

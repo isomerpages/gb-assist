@@ -1,17 +1,16 @@
 ---
-title: EPSProfessional V1.7
+title: EquipPOS Retail Solutions Version 3 - Package D (Basic + Inventory Manager APP with Tablet)
 permalink: /productivity-solutions-grant/solutionrepo/solution378
 ---
 
 #### Description
 
-ePSProfessional is a feature-rich ecommerce online shop solution based on open source system (Prestashop 1.7x) which allows store owners to run easily on their existing web hosting. It includes an online catalogue which saves customer service effort. The online ordering and payment capabilities help to increase productivity by eliminating paper invoicing and PO faxing. The search-engine-optimized system and training create a digital marketing advantage for the merchants over their competitors.
-
+EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-based system by synchronising data to cloud in real-time yet working without internet at the same time. Operations will not be hindered even when it's offline and  data can be viewed in real-time from our cloud-based EquipWeb backend once internet is available. Edgeworks POS solutions give you the performance and the stability that you need.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Efusion_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Edgeworks_Solutions_20200018_Annex_3_20200625142917_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -36,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Efusion Technology Pte Ltd<br>www.efusiontech.com<br>Email: contact@efusiontech.com<br>Tel: +65 6292 3086 / +65 6291 3382
+Edgeworks Solutions Pte Ltd<br>www.edgeworks.com.sg<br>Email: sales@edgeworks.com.sg<br>Tel: +65 6750 4498 / +65 9837 6071
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

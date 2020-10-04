@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Intelligent Facial Recognition Access Control System with Temperature Monitoring Version 1.0 - Package C (3 Units)
+title: COVID-19 Support Intelligent Facial Recognition Access Control System with Temperature Monitoring Version 1.0 - Package A (1 Unit)
 permalink: /productivity-solutions-grant/solutionrepo/solution694
 ---
 
@@ -9,7 +9,7 @@ This solution is Cloud-based, Contact-less, Computer-Vision based Facial Recogni
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pensees_Systems_Pte_Ltd-Annex3_CR_wef_27_August_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pensees_Systems_Pte_Ltd-Annex3_CR_wef_27_August_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

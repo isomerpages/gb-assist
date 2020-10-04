@@ -1,5 +1,5 @@
 ---
-title: CB Defense - CB Defense - 100 endpoints (100 pax)
+title: CB Defense - CB Defense - 10 endpoints (10 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution1273
 ---
 
@@ -9,7 +9,7 @@ Relying on signatures alone to detect today's threats is insufficient; Zero-day 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_LGA_CB_Defense_20200027_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_LGA_CB_Defense_20200027_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

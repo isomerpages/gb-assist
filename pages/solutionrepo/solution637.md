@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Nanyang Tech - Package B (Laptop Bundle - Premium)
+title: COVID-19 Support Nanyang Tech - Package C (Office 365 Enterprise E3)
 permalink: /productivity-solutions-grant/solutionrepo/solution637
 ---
 
 #### Description
 
-Nanyang Tech s laptop bundle includes a Business Enterprise laptop  with the latest Intel Core i5 processor, Microsoft Office 365 Standard, Microsoft Office Apps and Teams for online meeting, Anti-virus software, 1 year Next Business Day Hardware onsite support, HDD retention and complimentary 1 time onsite setup and deployment.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Nanyang_LaptopBundle_Annex3_CR_wef_27_Aug_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_NanyangTech_MSOffice_Annex3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

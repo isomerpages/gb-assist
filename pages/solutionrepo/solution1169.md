@@ -1,5 +1,5 @@
 ---
-title: Carddio Version 1 - Enterprise Package
+title: Carddio Version 1 - Plus Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1169
 ---
 
@@ -9,7 +9,7 @@ The One Stop Mobile App for Business Contact Data Storage & Salesman Management 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

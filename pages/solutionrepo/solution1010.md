@@ -1,15 +1,15 @@
 ---
-title: Quickbooks Online - Aba QuickBooks Online Accounting Solution - Essential
+title: COVID-19 Support Lenovo s Next-Gen Collaboration Solution (Laptop + Microsoft 365 only) - IdeaPad 3 Next-Gen Collaboration Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution1010
 ---
 
 #### Description
 
-As system implementation consultant and accounting firm, we explore and assist clients to digitalise their operation processes from the purchase order, sales quotation, invoices, inventory tracking to accounting and GST reporting using a digital solution like Quickbooks Online. We have encountered SMEs who spent significant time and effort to prepare manual sales invoices, store client database in excel or word documents.
+Lenovo s Next-Gen Collaboration Solution Laptop Bundle provides  business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Lenovo-Business_Laptop_Bundle-Annex_3_CR_wef_15_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg <br>
+Company Name: Lenovo Singapore Pte Ltd <br>Web URL: https://www.lenovo.com/sg/en <br>Contact Hotline:68271000 <br>Contact Email: psglenovo@lenovo.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

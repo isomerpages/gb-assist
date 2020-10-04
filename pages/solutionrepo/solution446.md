@@ -1,15 +1,15 @@
 ---
-title: Haulio Community System Version 2.0 - Professional
+title: Rodent Monitoring System
 permalink: /productivity-solutions-grant/solutionrepo/solution446
 ---
 
 #### Description
 
-Haulio Community Platform (HCP), with Haulio Connectivity System (HCS) is a Software-as-a-Service (SaaS) solution for container haulage companies, to digitise haulage operations. The System offers Fleet Management, Vehicle Routing & Navigation, Port Messaging, electronic Proof-Of Delivery, instant notifications and real-time job status tracking. The Haulio Community Platform (HCP) ecosystem, providing access to job pool and PSA trucking services.
+The rodent monitoring system is a wireless surveillance system that monitors, analyses and maps rodent activity to provide real time data for pest control operators to conduct targeted pest control measures.   
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Haulio_20200180_Annex_3_20200625150921_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -24,16 +24,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
-N.A. for non-SMEs
+80% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Specifications
+The system must minimally consist of the following:
+-	Sensors (to detect rodents)
+-	User interface (with real-time data analytics and rodent activity map).
+
+Grant cap: Up to S$350,000 per unit
 
 #### Contact Information
-Haulio Pte Ltd<br>www.haulio.io<br>Email: hello@haulio.io<br>Tel: +65 8508 2327
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

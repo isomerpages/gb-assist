@@ -1,5 +1,5 @@
 ---
-title: Singtel Security Assessment Services Mobile App Penetration Testing (Financial)
+title: Singtel Security Assessment Services Web Penetration Testing (Financial)
 permalink: /productivity-solutions-grant/solutionrepo/solution1342
 ---
 
@@ -9,7 +9,7 @@ Security Assessment Services provide a comprehensive valuation of technology env
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Security_Assessment_Annex3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Security_Assessment_Annex3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -27,7 +27,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase 
 
 #### Support Level
-0.8% for SMEs <br>
+80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note

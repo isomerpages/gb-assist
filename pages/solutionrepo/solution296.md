@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Support Cloud Comrade Remote Workplace Solution Version 1.0 - Business (Google G Suite)
+title: CFOsg Xero Cloud Accounting Solution E
 permalink: /productivity-solutions-grant/solutionrepo/solution296
 ---
 
 #### Description
 
-Google G Suite is a cloud-enabled solution that enables remote collaboration between parties and teams. Features include business email, video conferencing, cloud storage and file sharing.   
-
+Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Cloud_Comrade_Remote_Working_Annex_3_CR_wef_15_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Cloud Comrade Pte Ltd<br>www.cloudcomrade.info/gsuite<br>Email: timothy@cloudcomrade.com<br>Tel: +65 9154 3288
+Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 67219545<br>Contact Email: XERO@CFOSG.SG
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

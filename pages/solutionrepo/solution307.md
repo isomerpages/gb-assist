@@ -1,13 +1,13 @@
 ---
-title: Vertical Form Fill Seal Machine
+title: Commercial Inkjet Printer
 permalink: /productivity-solutions-grant/solutionrepo/solution307
 ---
 
 #### Description
 
-The vertical form fill seal machine automates the packaging process. The product (e.g. noodles, flour) is placed at the top of the machine. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line.
+Commercial inkjet printers integrated into the production lines are used to stamp information directly onto the product packaging. They allow the company to print specific information to individual product packets like bar codes, product information, expiry date. 
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Grant support: 80% of cost of equipment, up to $24,000 grant
 
 #### Details of Solution
 
@@ -34,9 +34,9 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following specifications:
-- Touch panel interface for easy operation (optional)
-- Temperature and speed control
-- Integrated printer for product information (optional)
+- Must be able to integrate with production line (optional)
+- Touchscreen interface, able to manually input datecode/expiry date for products
+- Can automatically print unique barcode for each product from the production line
 
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
