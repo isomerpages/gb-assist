@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1411
 
 #### Description
 
-StaffAny? ?is? ?a? ?software-as-a-service? ?that? ?helps? ?business? ?owners? ?reduce? ?work? ?dedicated? ?to? ?scheduling? ?and? ?time-tracking,? ?as? ?well? ?as? ?reduce? ?the? ?cost? ?of? ?operations? ?by? ?minimising? ?time? ?theft? ?and? ?overtime? ?spend.? ? 
+StaffAny is a software-as-a-service that helps business owners reduce work dedicated to scheduling and time-tracking, as well as reduce the cost of operations by minimising time theft and overtime spend.
 
 #### Details of Solution
 
