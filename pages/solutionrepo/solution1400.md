@@ -5,16 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1400
 
 #### Description
 
-Microsoft Dynamics 365 Business Central delivers integrated functionality to provide support for:
-
-Financial management
-Supply chain management
-Relationship management
-Human resource management
-Project & Resource management
-Warehouse management
-Service Order Management
-Manufacturing
+Microsoft Dynamics 365 Business Central delivers integrated functionality to provide support for: Financial management Supply chain management Relationship management Human resource management Project & Resource management Warehouse management Service Order Management Manufacturing
 
 #### Details of Solution
 
