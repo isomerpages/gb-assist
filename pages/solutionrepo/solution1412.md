@@ -36,14 +36,14 @@ N.A. for non-SMEs
 
 #### Things to Note
 Specifications:
-- Rechargeable battery powered. Min. recommended battery voltage - 24V and rated capacity - 10Ah
+- Rechargeable battery powered. Min. recommended battery voltage -24V and rated capacity -10Ah
 - Rated loading capacity approx. 1000 - 1500kg
 - 1 worker/electric pallet truck
 - Min. gradeability w/o load - 5%, w load - 3%
 - Safety features incl. (e.g. emergency stop switch)
 - Charging accessories & 1 spare battery per unit may be supported
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 N.A.
