@@ -1,15 +1,15 @@
 ---
-title: MyRetailer Android POS - Package E with Unified Payments & Web Store
-permalink: /productivity-solutions-grant/solutionrepo/solution353
+title: Simplr Warehouse Management and Simplr Sales Management Version 6-On Premise (5 Users)
+permalink: /productivity-solutions-grant/solutionrepo/solution1423
 ---
 
 #### Description
 
-MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
+Simplr is an easy-to-use, intuitive mobility solution for distribution management, distributor management and warehouse management. The comprehensive field sales-force automation solution optimises productivity, efficiency and provide management with real-time information and visibility in the sales distribution. The solution integrates your distribution network with data capture at every node to optimise resource utilization and provide a macro view of the supply chain.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz <br>
+Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Contact Email: ram@simplr.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
