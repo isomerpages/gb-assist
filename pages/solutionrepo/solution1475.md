@@ -1,15 +1,15 @@
 ---
-title: Haulio Community System Version 2.0 - Professional
-permalink: /productivity-solutions-grant/solutionrepo/solution448
+title: COVID-19 Support VGC Laptop + Online Collaboration Tool-Microsoft 365 Business Premium + DELL 3410 i7 laptop
+permalink: /productivity-solutions-grant/solutionrepo/solution1475
 ---
 
 #### Description
 
-Haulio Community Platform (HCP), with Haulio Connectivity System (HCS) is a Software-as-a-Service (SaaS) solution for container haulage companies, to digitise haulage operations. The System offers Fleet Management, Vehicle Routing & Navigation, Port Messaging, electronic Proof-Of Delivery, instant notifications and real-time job status tracking. The Haulio Community Platform (HCP) ecosystem, providing access to job pool and PSA trucking services.
+VGC's package provides for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Haulio_20200180_Annex_3_20200625150921_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technologies-Bundle_B_(Software_Laptop)_Annex_3_CR_wef_22_Oct_20_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase 
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Haulio Pte Ltd<br>www.haulio.io<br>Email: hello@haulio.io<br>Tel: +65 8508 2327
+Company Name: VGC TECHNOLOGY PTE LTD <br>Web URL: https://www.vgctechnology.com <br>Contact Hotline: 63975396<br>Contact Email: vinc@vgctechnology.com  <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
