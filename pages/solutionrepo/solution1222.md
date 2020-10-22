@@ -1,15 +1,15 @@
 ---
-title: VRcollab LITE - BIM VDC VR FULL BUNDLE
+title: BIMAGE - Autodesk AEC Collection - 3 Year AEC (Advance - 3 Days training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1222
 ---
 
 #### Description
 
-VRcollab is a next generation VDC software solution for the construction industry which provides BIM interrogation, Stakeholder collaboration and use of Virtual Reality in BIM coordination sessions. BIM interrogation capabilities includes Full BIM Meta Data Inspection and Precise Model Measurements. The software also allows the users to annotate and comment directly on VR models for the purpose of issue creation, tracking, and coordination reporting.
+Autodesk's AEC collection equips the Industry to design & construct high quality, data-rich & sustainable solutions for the building industry. It is an extensive & flexible software solution that encompasses all the building & infrastructure typologies development.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_20200241_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ NA% for non-SMEs
 Nil
 
 #### Contact Information
-Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/lite/ <br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
+Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

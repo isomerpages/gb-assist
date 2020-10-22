@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support StarHub - Microsoft 365 - Package (Business Basic)
+title: COVID-19 Support Starhub - Microsoft 365 - Package (Business Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution831
 ---
 
@@ -7,9 +7,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution831
 
 Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
+
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/StarHub-Office365_Annex_3_CR_wef_9_July_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/StarHub-Office365_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

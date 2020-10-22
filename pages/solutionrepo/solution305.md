@@ -1,15 +1,13 @@
 ---
-title: Automated Tray Sealer
+title: Automated Dough Filler/Depositor
 permalink: /productivity-solutions-grant/solutionrepo/solution305
 ---
 
 #### Description
 
-The automatic tray sealer only requires employees to fill up trays with the product (e.g. meat, buns, pasta) and it will automatically seal up each batch.
+An automatic depositor portions dough, fillings and batters onto moving or stationary lines. Portions will all be of consistent size no matter who operates the machine. 
 
-Typically, these machines can seal several trays at once. 
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Grant support: 80% of cost of equipment, up to $20,000 grant
 
 #### Details of Solution
 
@@ -36,9 +34,9 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following specifications:
-- Minimum 400 pieces per hour
-- Must be able to seal at least 2 trays at once (optional)
-- Tabletop size (optional)
+- Volume of hopper (to hold the dough), divided dough weight and dough dividing capacity can be customised to suit company?s requirement. 
+- Divided dough weight: Between 7gm to 60gm
+- Dough dividing capacity: between 1s to 5s per piece
 
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

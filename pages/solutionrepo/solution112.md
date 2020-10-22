@@ -1,5 +1,5 @@
 ---
-title: Advocado Cloud Loyalty CRM Software - Package (Enterprise B.I.)
+title: Advocado Cloud Loyalty CRM Software - Package (Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution112
 ---
 
@@ -9,7 +9,7 @@ Advocado Cloud Loyalty Customer Relationship Management software empowers SMEs t
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

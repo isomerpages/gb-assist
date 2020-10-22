@@ -1,15 +1,15 @@
 ---
-title: UNIPRO RETAILPOS STANDARD VER 14.01 Version-OUTLET 
+title: Simplr Warehouse Management and Simplr Sales Management Version 6-On Premise (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1428
 ---
 
 #### Description
 
-Unipro's RetailPOS Standard Ver .14.01  is an effective end to end web based Retail Management Solution. The suite of applications provides retailers with a real time view of their operations, and centralised control enables effective and faster decision-making.In-Store transactions are replicated to the Head Office, allowing quick decision making without any delays in day to day operations. Data is stored in a cloud hosting and report generation form cloud storage. 
+Simplr is an easy-to-use, intuitive mobility solution for distribution management, distributor management and warehouse management. The comprehensive field sales-force automation solution optimises productivity, efficiency and provide management with real-time information and visibility in the sales distribution. The solution integrates your distribution network with data capture at every node to optimise resource utilization and provide a macro view of the supply chain.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_UNIPRO_20190004_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.unipro.com.sg <br>Contact Hotline: 68443777 <br>Contact Email: aleem@unipro.com.sg <br>
+Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Contact Email: ram@simplr.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

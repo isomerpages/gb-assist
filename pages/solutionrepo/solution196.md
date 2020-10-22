@@ -1,5 +1,5 @@
 ---
-title: AutoCount Accounting - AutoCount Accounting Premium V2.0 ( 1 User)
+title: AutoCount Accounting - AutoCount Accounting Basic V2.0 ( 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution196
 ---
 
@@ -10,7 +10,7 @@ Since being established in 1996, AutoCount has grown into the TOP SME brands, se
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,7 +28,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-8% for SMEs <br>
+80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note

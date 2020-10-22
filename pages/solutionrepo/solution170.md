@@ -1,15 +1,15 @@
 ---
-title: STUDIO MANAGER Version 7 - Package B (Professional)
+title: Walk behind cleaner/scrubber
 permalink: /productivity-solutions-grant/solutionrepo/solution170
 ---
 
 #### Description
 
-Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. The software evolved since 2002 has targeted beauty operators like spa, aesthetic clinic and salons. It is a proven solution for small to large chains in malls.
+The equipment is operated by 1 operator to provide consistent cleaning performance.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -24,16 +24,21 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-80% for SMEs <br>
-N.A. for non-SMEs
+60% for SMEs <br>
+60% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+"Specifications
+-Cordless Technology (wireless)
+-Covers at least 800sqm/hour 
+-Solution tank capacity (>1L)
+
+Grant cap: Up to S$3,000 per unit
 
 #### Contact Information
-Archer Logic (S) Pte Ltd<br>https://www.archerlogic.com/studio-manager/<br>Email: sales_marketing@archerlogic.com<br>Tel: +65 6785 9007
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

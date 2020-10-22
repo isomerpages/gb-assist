@@ -1,16 +1,18 @@
 ---
-title: Solar AppScreener Version 3.4.0 - Single-Day Unlimited SaaS
+title: ABSS PremierPlus Version 23 - Package (3 Users with E-Invoicing)
 permalink: /productivity-solutions-grant/solutionrepo/solution190
 ---
 
 #### Description
 
-SMEs & enterprises procure 3rd-party applications frequently. Unfortunately, source code is not available as applications come with just run-time binaries. This is risky for purchaser with internet fronting applications. AppScreener provides means to check undocumented features, back doors, bad programming practices, OWASP Top 10, CVE, CWE by scanning the binaries. 
+ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+
+
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AthenaDynamics_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Annex_3_CR_wef_4th_Sept_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -32,9 +34,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Athena Dynamics Pte Ltd<br>https://athenadynamics.com/solution/solar-appscreener<br>Email: kensoh@athenadynamics.com<br>Tel: +65 6210 2354
+ABSS (formerly known as MYOB)<br>www.abssasia.com<br>Email: cs.sg@abssasia.com<br>Tel: +65 6505 6582
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Nanyang Tech - Package C (Office 365 Enterprise E3)
+title: COVID-19 Support Nanyang Tech - Package A (Microsoft 365 Business Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution637
 ---
 
@@ -9,7 +9,7 @@ Microsoft Office 365 is a suite of cloud-based productivity and collaboration ap
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_NanyangTech_MSOffice_Annex3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_NanyangTech_MSOffice_Annex3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

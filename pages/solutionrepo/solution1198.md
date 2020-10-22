@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support SYNERG Online Collaboration Too - Microsoft 365
+title: Shortcuts Version 8 - Shortcuts Fusion + Network Client
 permalink: /productivity-solutions-grant/solutionrepo/solution1198
 ---
 
 #### Description
 
-SYNERG Online Collaboration Tool offers businesses with either the Microsoft 365 or G Suite option. Both options offer an integrated enterprise suite of office productivity and collaboration tools developed by Microsoft and Google respectively. The cloud-based platforms provide for an easy to use remote working solution that comes with business email, virtual meeting/video conferencing tools, and secure cloud storage.
+Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and retail businesses. The solution includes functions from appointment booking to point of sales to clients management to inventory to marketing to report and more. Functions can be both online and offline.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Synergtech-OnlineCollab_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Serixx_20200501_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: SYNER-G TECHNOLOGIES PTE LTD<br>Web URL: www.synergtech.com <br>Contact Hotline: 6299 4495 <br>Contact Email: roger.siow@synergtech.com <br>
+Company Name:Serixx Business Solutions <br>Web URL: www.serixx.com <br>Contact Hotline: 91092480 <br>Contact Email: info@serixx.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

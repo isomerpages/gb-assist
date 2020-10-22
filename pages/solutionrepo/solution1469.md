@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Advance Visitor Management HSA Certified Temperature Screening, Facial Recognition + Safe Entry-Package 3 (2 units Lan)
+title: Automotive Tracking System-Package E (60 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1469
 ---
 
 #### Description
 
-Pixie Tech's temperature screening solution for staff and visitors management include facial recognition with and without mask and integration to door access. It will sound an alarm on site and send an email if temperature detected above threshold. 
+Track 365 Automotive Tracking System is a cloud based telematics solution. Due to the dynamic and scalability of our software, we are able to integrate more than 100 different brands of GPS trackers available in the market with our software. The benefits of being able to use different types of hardware enable us to offer more choices to our customers and also enable us to select the most suitable application for the customers based on their requirements and budgets.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pixie_Pitch_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Pixie Pitch Pte Ltd<br>Web URL: Www.pixiepitch.com<br>Contact Hotline: +65 9244 8138<br>Contact Email: Janice@pixiepitch.com
+Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

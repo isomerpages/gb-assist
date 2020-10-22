@@ -1,16 +1,16 @@
 ---
-title: COVID-19 Support Axiom IT Solutions - Microsoft 365 - Package (Business Standard)
+title: AutoCount Accounting - AutoCount Accounting Premium V2.0 ( 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution199
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
+Since being established in 1996, AutoCount has grown into the TOP SME brands, serving more than 180,000 SMEs across the region. AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. Flexibility, expandability, and ease-to-use are the features we develop, you can be assured of when your business grows, we able to sustain your development needs.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Axiom_-_Office_365_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_6.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Axiom IT Solutions Pte Ltd<br>https://axiom-hub.com/psg-approved-pkg/<br>Email: psginfo@axiomitsolns.com<br>Tel: +65 6285 7288
+Autocount (S) Pte Ltd<br>www.autocountsoft.com.sg<br>Email: sales.sg@autocountsoft.com<br>Tel:+65 8321 9689
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

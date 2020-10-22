@@ -1,11 +1,11 @@
 ---
-title: Plastic Recycling System
+title: Warehousing system - pallet transporter/stacker
 permalink: /productivity-solutions-grant/solutionrepo/solution184
 ---
 
 #### Description
 
-The plastics waste recycling system with the provision of automated sorting, friction cleaning, and extrusion technology is able to process polymer streams  (i.e. PET, LDPE , HDPE  or PP ) into high quality recycled plastic compounds such as processed pellets or flakes.
+Pallet with load capacity ranging from 1.2 ton to 2.5 ton, that is able to transport or stack the pallets, with only one operator.
 
 #### Details of Solution
 
@@ -27,19 +27,14 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-80% for SMEs <br>
-80% for non-SMEs
+70% for SMEs <br>
+70% for non-SMEs
 
 #### Things to Note
 Specifications
-System must comprise of: 
-- Shredder
-- Extruder 
-- Silo
-- Gravity Separator (optional)
-- NIR polymer separator (optional)
-Grant cap: Up to S$400,000 per unit
+Only applicable for licensed cleaning and waste management companies
 
+Grant cap: Up to S$10,000 per unit
 
 #### Contact Information
 N.A.

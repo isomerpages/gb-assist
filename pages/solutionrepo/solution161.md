@@ -1,5 +1,5 @@
 ---
-title: ABSS Premier Version 23 - Package E Advanced with E-Invoicing (5-Users)
+title: ABSS Premier Version 23 - Package C with E-Invoicing (3-Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution161
 ---
 
@@ -9,7 +9,7 @@ Formerly known as MYOB, ABSS Premier is designed to help SMEs take care of your 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

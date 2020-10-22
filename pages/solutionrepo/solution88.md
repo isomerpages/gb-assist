@@ -1,17 +1,15 @@
 ---
-title: Portable Straight Line Automatic Cutting Machine
+title: COVID-19 Support TimeCentral Version 5.0-BIOTEMP Perpetual
 permalink: /productivity-solutions-grant/solutionrepo/solution88
 ---
 
 #### Description
 
-Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
-
-Grant support: 80% of cost of equipment, up to $5,000 grant
+Advanced & Best Technologies Pte Ltd's TimeCentral solution is a cloud platform system that is able to perform non-contract temperature measurement of staff/workers/visitors. It is equipped with a facial recognition system to verify the identity of the individual and includes alerts & alarm to administrators for personnel with temperature reading above a certain temperature level.
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_Time_Central_Version_5.0_Covid_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,19 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Includes nozzle, torch, rail, motor for travelling on rail (forward, backward, stop)
-Cutting thickness: max. 50mm
-Cutting speed: 110-1000mm/min
-Bevel angle: 0-45 
-Power:  110V or 220V input
-Heavy-duty industrial electrical plug
-Maintenance costs not supported
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name: Advanced & Best Technologies Pte Ltd<br>Web URL: http://anbgroup.com/<br>Contact Hotline: 9456 7396<br>Contact Email: aakash@anbgroup.com
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

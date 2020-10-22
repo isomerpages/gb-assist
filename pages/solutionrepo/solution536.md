@@ -1,15 +1,16 @@
 ---
-title: (SaaS) JustLogin HR Cloud - A (Up to 15 pax)
+title: Dropbox Business - Document management and Collaboration workspace Version 1 - Package E (Dropbox Business Advanced License Only - 6 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution536
 ---
 
 #### Description
 
-For happy HR, bosses and employees, you want a platform that can help your team remain productive and focused, while providing excellent employee experiences that impresses and retains talent. JustLogin is the HR employee experience platform that delivers both through a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Bring the employee experience anywhere, with JustLogin mobile application.
+Dropbox Business is a Document Management System for archiving and collaborative work on a massive number of documents. With the digitization of documents being stored onto Dropbox. Law firms significantly reduces their storage costs with mobile access of digital files has also eased the way lawyers find and reference documents in court. 
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/JustIT_Dropbox_Annex_3_CR_wef_8June2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-JustLogin Pte Ltd<br>https://justlogin.com<br>Email: info@justlogin.com<br>Contact Hotline: +65 6909 9217
+JUST IT Solutions Pte Ltd<br>www.justit.com.sg<br>Email: info@justit.com.sg<br>Tel: +65 9695 9997
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

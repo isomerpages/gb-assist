@@ -1,11 +1,13 @@
 ---
-title: Walk behind cleaner/scrubber
+title: Vertical Carousel
 permalink: /productivity-solutions-grant/solutionrepo/solution168
 ---
 
 #### Description
 
-The equipment is operated by 1 operator to provide consistent cleaning performance.
+Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 #### Details of Solution
 
@@ -24,19 +26,24 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Direct Purchase
 
 #### Support Level
-60% for SMEs <br>
-60% for non-SMEs
+80% for SMEs <br>
+N.A. for non-SMEs
 
 #### Things to Note
-"Specifications
--Cordless Technology (wireless)
--Covers at least 800sqm/hour 
--Solution tank capacity (>1L)
+-Unit Height: 205cm to 716cm 
+- Carrier: Width 220 cm to 284 cm
+- Depth: 41cm to 61cm
+- Load Capacities: 175kg to 499kg 
+- Net Unit Load Capacity: 1270kg to 5443kg
+- With operator Interface (Console)
+- With software linked to Inventory Management System 
 
-Grant cap: Up to S$3,000 per unit
+Installation costs are supported. 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Purchase of pre-owned/used equipment not supportable
 
 #### Contact Information
 N.A.

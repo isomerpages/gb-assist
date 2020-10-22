@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Availabilit's Remote Working Solution - Microsoft Office 365 Basic
+title: COVID-19 Support SYNERG Online Collaboration Too - Super Prem (Microsoft 365)
 permalink: /productivity-solutions-grant/solutionrepo/solution1207
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
+SYNERG Online Collaboration Tool with Laptop is a solution that allows the business users to adopt remote working. The solution bundle includes a business class laptop with endpoint protection and collaborative cloud-based office productivity tools to facilitate the remote working, online collaboration and online meeting.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AVBT_Remote_Working_Solution_Software_only_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Synergtech-LaptopBundle_Annex_3_v2-Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Availabilit Pte Ltd<br>Web URL: www.avbt.com.sg<br>Contact Hotline: 65139192<br>Contact Email: marcus@avbt.com.sg<br>
+Company Name: SYNER-G TECHNOLOGIES PTE LTD<br>Web URL: www.synergtech.com <br>Contact Hotline: 6299 4495 <br>Contact Email: roger.siow@synergtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

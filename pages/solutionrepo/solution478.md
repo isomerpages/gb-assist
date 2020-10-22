@@ -1,5 +1,5 @@
 ---
-title: SAP Business One, version for HANA Version 10 - Package C (10 users, On-Premise)
+title: SAP Business One, version for HANA Version 10 - Package A (8 Subscription users)
 permalink: /productivity-solutions-grant/solutionrepo/solution478
 ---
 
@@ -10,7 +10,7 @@ SAP Business One is a single, integrated ERP solution with flexible licensing an
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

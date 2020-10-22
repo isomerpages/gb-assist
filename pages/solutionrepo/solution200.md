@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Support Axiom IT Solutions - Office 365 - Package (Enterprise E3)
+title: COVID-19 Support Queue Management System - Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution200
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
-
+Awebstar Queue Management System is a cloud platform system that enables efficient and productive management of queues.  It is equipped with SMS feature that enables users to get notified in-advance before their queue number is called. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Axiom_-_Office_365_Covid_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Awebstar_QMS_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Axiom IT Solutions Pte Ltd<br>https://axiom-hub.com/psg-approved-pkg/<br>Email: psginfo@axiomitsolns.com<br>Tel: +65 6285 7288
+Awebstar Technologies Pte Ltd<br>https://awebstar.com.sg/queue-management-system.html<br>Email: Info@Awebstar.com.sg<br>Tel: +65 8317 2205
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

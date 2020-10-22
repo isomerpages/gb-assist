@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Sectorial Support BambooCloud Online Learning Platform Version 4.66 - Package (101 to 300 Users)
+title: AZ Digital POS Solution - Package (POSWORKS Premium Plus)
 permalink: /productivity-solutions-grant/solutionrepo/solution215
 ---
 
 #### Description
 
-BambooCloud is delivered in SaaS as an ecosystem of features and modules that can be customized per customer requirements. Its extendable and flexible with the modular design architecture. It manages, delivers and tracks Blended Learning activities, project based learning and many other user/course centric learning methods.
-
+AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sales entry, maintain customer relations, upkeep inventory and provide sales report and analysis for both stand-alone and multi-outlets operations. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Bamboo_Annex_3_Cleaned_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AZ_Digital_Annex_3_CR_wef_8May2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Bamboo System Technology Pte Ltd<br>http://bamboosys.com/productline.html<br>Email: info@bamboosys.com<br>Tel: +65 6906 1224
+AZ Digital Pte Ltd<br>http://www.azdigital.net<br>Email: andrewteo@azdigital.net<br>Tel: +65 9685 9169 / +65 6745 1147 (Andrew Teo)
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

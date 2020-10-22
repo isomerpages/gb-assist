@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version Cloud - HANA Cloud (PEPPOL) - 12 Subscription Users
+title: SAP Business One Version Cloud - HANA Cloud - 7 Subscription Users
 permalink: /productivity-solutions-grant/solutionrepo/solution130
 ---
 
@@ -9,7 +9,7 @@ SAP Business One is an enterprise resource planning (ERP) software designed for 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

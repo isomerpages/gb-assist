@@ -1,5 +1,5 @@
 ---
-title: Hubble Safety Management System - Package (Up to 1 Project, 2 years)
+title: Hubble Safety Management System - Package (Up to 3 Projects)
 permalink: /productivity-solutions-grant/solutionrepo/solution467
 ---
 
@@ -9,7 +9,7 @@ Hubble Safety Management System helps you manage and monitor the safety of your 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

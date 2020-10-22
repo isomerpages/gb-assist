@@ -1,11 +1,11 @@
 ---
-title: Smart Waste Oil Collection System
+title: Smart static compactor in bin centre
 permalink: /productivity-solutions-grant/solutionrepo/solution126
 ---
 
 #### Description
 
-The Smart Waste Oil Collection System, which is equipped with diagnostics, fill-level sensors and data management system, transports waste oil from the fryer to the waste oil containment tank with minimal human intervention. 
+Waste-handling system integrated with compactor, fill-level sensor(s), weight monitoring and communication system(s) to enable on-demand waste collection.
 
 #### Details of Solution
 
@@ -27,17 +27,14 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-80% for SMEs <br>
-80% for non-SMEs
+50% for SMEs <br>
+50% for non-SMEs
 
 #### Things to Note
-Specifications
-- Oil must be transferred directly from fryer to waste oil containment tank without an intermediate caddy
- 
-- Containment tank must be equipped with fill-level sensors, data management system and diagnostics functions
-
-
-Grant cap: Up to S$72,000 per unit
+- Integrated with compactor, fill-level sensor(s), weight monitoring  and communication system(s)
+- Minimum Compaction Ratio:  3
+- Minimum Container Volume: 4 cubic metres  
+- Grant cap: Up to $60,000 per unit
 
 #### Contact Information
 N.A.

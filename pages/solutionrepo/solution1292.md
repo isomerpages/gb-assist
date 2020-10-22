@@ -1,15 +1,15 @@
 ---
-title: SMEPAYROLL HRMS Version 11 - Professional 100
+title: Venue management software Version 2.0 - Regular
 permalink: /productivity-solutions-grant/solutionrepo/solution1292
 ---
 
 #### Description
 
-SMEPayroll is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
+Venuerific was founded in Singapore in 2013 with the goal of helping venue owners market and grow their business through the events industry. What we discovered soon after was that most venues did not have the proper tools & systems to effectively manage this business. Hence in 2015, Venuerific pivoted to developing a one-stop system that allows the venues to operate optimally and efficiently through relevant data and in return increase revenue & profitability of the business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_20200326_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VENUERIFIC_20200420_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:ADVANCED & BEST TECHNOLOGIES PTE LTD <br>Web URL: www.smepayroll.com <br>Contact Hotline: 68372336 <br>Contact Email: business@smepayroll.com <br>
+Company Name:VENUERIFIC PTE. LTD. <br>Web URL: www.venuerific.com <br>Contact Hotline: 84489750 <br>Contact Email: support.sg@venuerific.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

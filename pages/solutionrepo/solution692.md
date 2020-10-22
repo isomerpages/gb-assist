@@ -1,5 +1,5 @@
 ---
-title: Absolute Payboy HRMS Version 1.0 - Package A (20 Employees)
+title: Absolute Payboy HRMS Version 1.0 - Package D (120 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution692
 ---
 
@@ -12,7 +12,7 @@ Absolute Payboy is a cloud-based human resource management system that offers on
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Payboy_Annex_3_wef4May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Payboy_Annex_3_wef4May2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

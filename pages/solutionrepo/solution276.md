@@ -1,11 +1,11 @@
 ---
-title: Engine/Electric- powered forklift
+title: Electric pallet transporter/stacker
 permalink: /productivity-solutions-grant/solutionrepo/solution276
 ---
 
 #### Description
 
-Forklift with load capacity from 1.5 ton to 10 ton, that is able to lift, move and/or stack materials, with only one operator.
+Pallet with load capacity ranging from 1.2 ton to 2.5 ton, that is able to transport or stack the pallets, with only one operator.
 
 #### Details of Solution
 
@@ -33,8 +33,7 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 #### Things to Note
 Specifications
 Only applicable for licensed cleaning, waste management and pest management companies
-
-Grant cap: Up to S$96,000 per unit
+Grant cap: Up to S$16,000 per unit
 
 #### Contact Information
 N.A.

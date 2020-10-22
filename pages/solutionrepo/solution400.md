@@ -1,5 +1,5 @@
 ---
-title: EPOS Enhanced POS Version 2 - Package (Enhanced POS All In 1 with Smart Inventory Management and Accounting Integration)
+title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 - Tablet)
 permalink: /productivity-solutions-grant/solutionrepo/solution400
 ---
 
@@ -13,7 +13,7 @@ EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, c
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/EPOS_Pte._Ltd_Annex_3_Part_67.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/EPOS_Pte._Ltd_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

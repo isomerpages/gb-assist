@@ -1,5 +1,5 @@
 ---
-title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package D Moneyworks Datacentre (3 User)
+title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package B Moneyworks Gold - 1 User
 permalink: /productivity-solutions-grant/solutionrepo/solution97
 ---
 
@@ -9,7 +9,7 @@ MoneyWorks was built from the ground up for the needs of business, finance and a
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

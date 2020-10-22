@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Axiom Microsoft Laptop 3 bundle - Microsoft Office 365 Enterprise E5
+title: COVID-19 Support Axiom Microsoft Laptop 3 bundle - M365 Business Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution207
 ---
 
@@ -10,7 +10,7 @@ The Microsoft Laptop bundle solution includes a Microsoft surface Laptop  and Mi
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Axiom_-_Laptop_Bundle_Covid_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Axiom_-_Laptop_Bundle_Covid_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

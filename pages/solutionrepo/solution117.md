@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version Cloud - Premium with PEPPOL - 10 Users
+title: Microsoft Dynamics 365 Business Central Version Cloud - Essential with PEPPOL - 5 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution117
 ---
 
@@ -9,7 +9,7 @@ Microsoft Dynamics 365 Business Central is a cloud-based, comprehensive all-in-o
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

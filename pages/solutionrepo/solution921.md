@@ -1,5 +1,5 @@
 ---
-title: NetDocuments - Package (30 users)
+title: NetDocuments - Package (3 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution921
 ---
 
@@ -10,7 +10,7 @@ NetDocuments is  native cloud-based DMS in the legal industry to support of inte
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_NetDoc_Annex_3_CR_wef8June2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_NetDoc_Annex_3_CR_wef8June2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,6 +33,8 @@ N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
+SLPs who have enjoyed subsidy under Tech Start for Law for Practice Management Systems and Document Management Systems will not be eligible to apply for PSG under the same solution category. 
 
 #### Contact Information
 Verlata Consulting Pte. Ltd.<br>https://www.verlata.com/<br>Email: singapore@verlata.com<br>OR daniel.chan@verlata.com<br>Tel: +65 9757 3629

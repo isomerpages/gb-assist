@@ -1,11 +1,11 @@
 ---
-title: Smart litter bin with compactor function
+title: Side-loader waste collection system
 permalink: /productivity-solutions-grant/solutionrepo/solution122
 ---
 
 #### Description
 
-The equipment should allow Users to monitor bin fill levels with multiple fill level settings, send notifications to collectors when bins are reaching capacity and preferably with software to allow Users to gather data for trend analytics.
+The side loader system, which comprises of a side loading compactor body mounted onto a vehicle chassis and the use of compatible collection bins, allows the driver to remotely operate the collection process in the cabin. The collection vehicle must be fitted with an on board camera system for ease of visibility of remote side loading operation and safety, a tonnage monitoring system for the tracking of tonnage of waste/recyclables collected in each premises.
 
 #### Details of Solution
 
@@ -27,15 +27,17 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-60% for SMEs <br>
-60% for non-SMEs
+80% for SMEs <br>
+80% for non-SMEs
 
 #### Things to Note
 Specifications
-- Integrated with fill- level sensor(s) and communication system(s)
--Minimum Bin Capacity: 120 litres 
+- Minimum Compaction Ratio:  3
+-Minimum Compactor Volume: 15 cubic metres
+- The compatible bins must be compliance to EN 12574 or equivalent with a minimum bin capacity of 1800L.
+? Cost of chassis is not supported
 
-Grant cap: Up to S$4,800 per unit
+Grant cap: Up to S$192,000 per unit
 
 
 #### Contact Information

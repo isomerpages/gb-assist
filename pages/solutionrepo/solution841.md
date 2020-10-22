@@ -1,15 +1,15 @@
 ---
-title: SYNERGIX E1 Version TH6 - Package C  HRMS Standard with Staff Appraisal , Training and Recruitment
+title: Synergix E1 Sales & Accounting - Package (10 users) - TH6
 permalink: /productivity-solutions-grant/solutionrepo/solution841
 ---
 
 #### Description
 
-Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
+Synergix E1 is a comprehensive ERP solution that helps to integrate and link up sales, billing and inventory warehouse functions. All information relating to sales order are centralized within a single platform, making it easier for traceability right from quotation to delivery order and invoicing phase and payment status with credit limit checking. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,16 +1,18 @@
 ---
-title: WhyzeHR Workforce Management System Version 12 - Package B (100 Entry Package)
+title: WhyzeHR Management System Version 12 - Package (50 Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution950
 ---
 
 #### Description
 
-Companies in wholesale sector used our fully web based system to manage all the movement of their staffs from office, warehouse to delivery of the goods to their distributors / retailers. They planned schedules of their staff using our system, check the attendance of each staff and their respective locations. Their employees' working hours, OT and attendance allowances will be sent over to payroll for payroll computation, assisting them to analyse on the full labour costing reports.
+WhyzeHR enables SMEs of all size to keep track of their labour force, forecasting labour requirements, facilitate day to day employee management and providing financial reporting to the account department. The solution helps HR to stay compliance and providing cost saving and efficiency through the elimination of paper.
+
+
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Whyze_Solutions_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,15 +1,16 @@
 ---
-title: AZ Digital POS Solution - Package (VIVIPOS Basic)
+title: COVID-19 Support Axiom Microsoft Laptop 3 bundle - Microsoft Office 365 Enterprise E5
 permalink: /productivity-solutions-grant/solutionrepo/solution209
 ---
 
 #### Description
 
-AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sales entry, maintain customer relations, upkeep inventory and provide sales report and analysis for both stand-alone and multi-outlets operations. 
+The Microsoft Laptop bundle solution includes a Microsoft surface Laptop  and Microsoft 365 including Microsoft Teams. Microsoft Teams is a full collaboration service that supports offsite telecommuting, work from home, virtual file sharing, online collaboration, individual & group chats, video conferencing and calling features.
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AZ_Digital_Annex_3_CR_wef_8May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Axiom_-_Laptop_Bundle_Covid_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-AZ Digital Pte Ltd<br>http://www.azdigital.net<br>Email: andrewteo@azdigital.net<br>Tel: +65 9685 9169 / +65 6745 1147 (Andrew Teo)
+Axiom IT Solutions Pte Ltd<br>https://axiom-hub.com/psg-approved-pkg/<br>Email: psginfo@axiomitsolns.com<br>Tel: +65 6285 7288
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

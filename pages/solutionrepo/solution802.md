@@ -1,17 +1,16 @@
 ---
-title: COVID-19 Support Singtel ONEOffice Package (G Suite Basic)
+title: COVID-19 Support Singtel - Office 365 - Package (E3)
 permalink: /productivity-solutions-grant/solutionrepo/solution802
 ---
 
 #### Description
 
-ONEOffice (powered by Google G-suite)
-ONEOffice is a suite of web-based office solutions that offers  a suite of productivity and collaboration tools. In additional to the standard Google Suites (email, calendar, document, sites & drive, hougouts), ONEOffice include value added services such as; Sending SMS through email box (Pay per use service), Fax through email box (Pay per use service) and customize email signatures across the organisation.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-G-Suite_Annex_3_CR_wef21April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel-Office_365_Annex_3_CR_wef_21_July_20209(mti)_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

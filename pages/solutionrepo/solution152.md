@@ -1,17 +1,15 @@
 ---
-title: RevoPOS 3.0 - Package (10 eMenu with HW)
+title: Treated Water Generator for Cleaning Purposes
 permalink: /productivity-solutions-grant/solutionrepo/solution152
 ---
 
 #### Description
 
-RevoPOS 3.0 Digital Ordering Systems eMenu and eWaiter enable customers to place orders themselves(eMenu) or for staff to send orders(eWaiter) directly to the Kitchen Ordering System. Data can be managed within the outlet or on the cloud. The CRM and Loyalty come with features such as Rewards Points, Credit Storage, Member Auto Discounts, and SMART SMS promoting. All RevoPOS data can be synced on the cloud for all outlets and generate data insights and managed on the backend and the frontend.
-
-
+A unique set of equipment which produced treated water/ solution that is 100% chemical free and biodegradable. The treated water/solution must not contain any types of chloramine, no colour compounds and not producing any odours/ smell. The treated water/ solution must be safe to use for general cleaning purposes. The equipment is to be used in industrial or commercial premises. Equipment should not produce any residue and the use of the treated water should be rinse-free.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Appz_Inc_-_FS_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -26,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
-N.A. for non-SMEs
+80% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Grant Cap: Up to S$40,000 per unit
 
 #### Contact Information
-Appz Inc Pte Ltd<br>https://getrevopos.com/<br>Email: sales@appzinc.biz<br>Tel: +65 6815 5808
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

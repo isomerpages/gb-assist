@@ -1,15 +1,15 @@
 ---
-title: Fleet Safety & Management System Version 1 - Package (Standard)
+title: iTrack Fleet Management Version 2.8.8 - Package (iTrack Personal)
 permalink: /productivity-solutions-grant/solutionrepo/solution1259
 ---
 
 #### Description
 
-Fleet Safety & Management System Version 1 is a powerful tool that provides real-time video and GPS information for time and motion study to increase productivity and lower operating costs. Built on analytics in the backend, it is capable of generating useful reports for fleet managers and decision makers. Coupled with Telematics Sensors ranging from temperature, driver identification, RFID, water flow, ultrasonic, weight and video, it helps companies to fulfil their fleet management needs. 
+iTrack Fleet Management System offers GPS Tracking features to track location of vehicles, automate and monitor route taken with optimisation to improve efficiency of the delivery services. It helps companies to better plan and control the fleet journey, reducing cost, improve fleet utilization through its real-time map visualisation.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Smartcomm-ES_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +31,9 @@ Subscription / Leasing
 80% for non-SMEs
 
 #### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies.
+Only applicable for licensed cleaning, waste management and pest management companies
 
 #### Contact Information
-Smartcomm Electronics Pte Ltd<br>https://www.smartcomm.biz/<br>Email: ask@smartcomm.biz<br>Tel: +65 6513 2389
+Company Name:Pivotal Pte Ltd <br>Web URL: www.itrack.com.sg <br>Contact Hotline: 67276060 <br>Contact Email: sales@itrack.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,5 +1,5 @@
 ---
-title: HRSS with WhyzeHR - Package ( 51 - 100 Employees )
+title: HRSS with WhyzeHR - Package ( 16 - 30 Employees )
 permalink: /productivity-solutions-grant/solutionrepo/solution176
 ---
 
@@ -9,7 +9,7 @@ Business Process Review of HR process, outsourcing of HR administrative support 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Ark_Services_Pte_Ltd_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Ark_Services_Pte_Ltd_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: AppPOS (BYOD) Version 4 - Package (PLUS - QR ordering - 3 Outlets)
+title: AppPOS (BYOD) Version 4 - Package (PLUS - QR ordering - Single Outlet)
 permalink: /productivity-solutions-grant/solutionrepo/solution148
 ---
 
@@ -12,7 +12,7 @@ AppPOS Solution is a highly scalable omni-channel ordering system that fits the 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AppsPOS_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AppsPOS_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Advanced Ecommerce Solution by I Concept Version 1.0 - Advanced Ecommerce Solution by I Concept (Comprehensive)
+title: Advanced Ecommerce Solution by I Concept Version 1.0 - Advanced Ecommerce Solution by I Concept (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution473
 ---
 
@@ -9,7 +9,7 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_REVISED_I_CONCEPT_20200288_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_REVISED_I_CONCEPT_20200288_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

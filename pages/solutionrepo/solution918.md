@@ -1,16 +1,15 @@
 ---
-title: NetDocuments - Package (6 users)
+title: V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package E
 permalink: /productivity-solutions-grant/solutionrepo/solution918
 ---
 
 #### Description
 
-NetDocuments is  native cloud-based DMS in the legal industry to support of integrations and partnerships. All third-party integrations are written to the single instance NetDocuments service and API integration is provided to support any advanced and custom integrations should they be needed. Furthermore, NetDocuments has a strategic partnership with Microsoft to natively integrate with their Office 365 Web Applications without the use of OneDrive.
-
+V3Nity WAM for ES offers an integrated solution to weave field workers and schedules into a tightly-functioning and optimized taskforce for day-to-day operations. WAM is a quality management tool for the assignment of daily work routines of environmental services which assist to automate the daily field workers' operational tasks, monitoring of job status, records and reports on work done within the space of internal resources optimization, governmental regulations and compliances requirements.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_NetDoc_Annex_3_CR_wef8June2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
-N.A. for non-SMEs
+80% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Only applicable for licensed cleaning, waste management and pest management companies
 
 #### Contact Information
-Verlata Consulting Pte. Ltd.<br>https://www.verlata.com/<br>Email: singapore@verlata.com<br>OR daniel.chan@verlata.com<br>Tel: +65 9757 3629
+V3 Smart Technologies Pte Ltd<br>http://www.v3smarttech.com<br>Email: sales@v3smarttech.com<br>Tel: +65 6488 4176
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

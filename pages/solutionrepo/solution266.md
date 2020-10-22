@@ -1,16 +1,15 @@
 ---
-title: PayAdvisorMobile@HRM Version 3 - Package (Tier 2 - 50 users)
+title: CalendarOne CRM Solution Ver 2.0 Enhanced CRM Package (with Peppol E- Invoice) - 10 Users Licence
 permalink: /productivity-solutions-grant/solutionrepo/solution266
 ---
 
 #### Description
 
-PayAdvisorMobile @HRM PayAdvisorMobile , a Mobile Workforce Management Software-As-A-Service on Web and Mobile platforms, which includes Personnel, Time & Attendance, Payroll, Leave, Benefits and Claim and Performance Appraisal Management modules - it is an All - In -One human resource solution.
-
+CalendarOne CRM is a cloud based solution that integrates and automates your entire customer-related business process. It's a centralize platform that enable you to share, track, administer and manage your clients' engagement and experience. From tracking your leads to managing your transactions with clients, it consolidate and share information that enables you to gain deeper insight into your clients info thus helping you identify critical trends, retain clients and increase sales.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Capps_Solutions_PayAdvisorMobile_HRM 20200040_Annex_3_20200625143624_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CalendarOne_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Tel: +65 6509 0309
+Company Name:CalendarOne Pte Ltd <br>Web URL:www.calendarone.com <br>Contact Hotline:92485655 <br>Contact Email:francis@calendarone.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

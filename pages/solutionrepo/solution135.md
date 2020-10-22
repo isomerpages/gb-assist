@@ -1,15 +1,22 @@
 ---
-title: Telescopic system for high ceiling cleaning
+title: AGHRM - AGHRM 100
 permalink: /productivity-solutions-grant/solutionrepo/solution135
 ---
 
 #### Description
 
-Extendable rods that can reach at least 2m to do cleaning of walls, ledges, piping, etc. and equipped with camera system to inspect/check cleanliness levels.
+AGHRM provides an integrated suite of cloud based Human Resource Management Solutions
+a.	Personnel
+b.	Leave
+c.	Claims
+d.	Attendance & Rostering
+e.	Payroll Singapore. 
+f.	Performance Management
+In addition, we provide mobile apps for employees to manage their HR matters on the go
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,19 +31,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Direct Purchase
 
 #### Support Level
-60% for SMEs <br>
-60% for non-SMEs
+80% for SMEs <br>
+N.A. for non-SMEs
 
 #### Things to Note
-Specifications
-- At least 2m reach; 
-- A RO/DI pure water system generator and pump (optional)
-Grant cap: Up to S$3,000 per unit
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:AG Net Pte Ltd <br>Web URL: https://web.aghrm.com/index.php/solutions/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

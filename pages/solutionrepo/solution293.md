@@ -1,15 +1,15 @@
 ---
-title: CFOsg Xero Cloud Accounting Solution B
+title: Xero Cloud Accounting Software Version 10.5 - Package (Xero Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution293
 ---
 
 #### Description
 
-Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
+Xero is a comprehensive accounting software that allows the company to perform accounting work e.g.  invoicing, entry of purchase invoices, bank reconciliation, and provides full management report and unaudited financial statements for reporting purpose.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CFO_Accounts_n_Services_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 67219545<br>Contact Email: XERO@CFOSG.SG
+CFO Accounts & Services Pte Ltd<br>www.cfoacc.com.sg<br>Email: marketing@cfoacc.com.sg<br>Tel: +65 6636 9366
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

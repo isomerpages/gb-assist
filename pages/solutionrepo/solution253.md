@@ -1,5 +1,5 @@
 ---
-title: BonaERP - Package (For Ecommerce)
+title: BonaERP - Package (For Sales & Supply Chain)
 permalink: /productivity-solutions-grant/solutionrepo/solution253
 ---
 
@@ -10,7 +10,7 @@ Synchronize your promotions, customer data, inventory stock level, sales reports
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaERP_20190049_Annex_3_20200625143500_Part_8.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaERP_20190049_Annex_3_20200625143500_Part_45.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

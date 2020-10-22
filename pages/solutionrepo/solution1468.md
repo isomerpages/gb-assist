@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support TimeCentral Version 5.0-BIOTEMP Perpetual2
+title: Automotive Tracking System-Package D (12 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1468
 ---
 
 #### Description
 
-Advanced & Best Technologies Pte Ltd's TimeCentral solution is a cloud platform system that is able to perform non-contract temperature measurement of staff/workers/visitors. It is equipped with a facial recognition system to verify the identity of the individual and includes alerts & alarm to administrators for personnel with temperature reading above a certain temperature level.
+Track 365 Automotive Tracking System is a cloud based telematics solution. Due to the dynamic and scalability of our software, we are able to integrate more than 100 different brands of GPS trackers available in the market with our software. The benefits of being able to use different types of hardware enable us to offer more choices to our customers and also enable us to select the most suitable application for the customers based on their requirements and budgets.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_Time_Central_Version_5.0_Covid_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Advanced & Best Technologies Pte Ltd<br>Web URL: http://anbgroup.com/<br>Contact Hotline: 9456 7396<br>Contact Email: aakash@anbgroup.com
+Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

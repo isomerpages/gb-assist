@@ -1,15 +1,20 @@
 ---
-title: Moneyworks Version 8 - Now (3 users)
+title: OpensoftHR Version 2019 - Package E (200 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution685
 ---
 
 #### Description
 
-Moneyworks by Cognito Software provides a powerful, feature rich platform that unlocks company's accounting data to help run a better business. MoneyWorks is fully supported, regularly updated and flexible enough to fit within workflow and integrate with your existing business software. MoneyWorks is an accounting and ERP software that has versions for Mac & PC, as well as a cloud-based platform. It offers solutions for general ledger, invoicing, inventory management, and sales management.
+OpensoftHR is a comprehensive HRM solution that is designed to reduce time consuming administrative work and improve HR efficiency for SMEs.
+
+
+
+
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Opensoft_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +39,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Ostendo Pte Ltd<br>www.ostendoasia.com<br>Email: info.sg@ostendoasia.com<br>Tel: +65 6850 5150
+Opensoft Pte. Ltd.<br>http://www.opensofthr.com<br>Email: sales@opensofthr.com<br>Tel: +65 6346 1511
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

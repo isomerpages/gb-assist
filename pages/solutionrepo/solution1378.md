@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support i-FTEMP Detector-Time Attendance & SafeEntry
+title: COVID-19 Support Intelli-Temperature Attendance System Version 1.0.3-Package B (On-Premise - 2 units)
 permalink: /productivity-solutions-grant/solutionrepo/solution1378
 ---
 
 #### Description
 
-The i-FTemp Detector is a facial recognition device featuring an industrial-grade camera and liveness detection technology. It is equipped with a contactless thermal infrared sensor for abnormal human body temperature detection and works with face mask usage. The i-FTemp Detector can be deployed for automated temperature screening, access control, visitor management, time-attendance and SafeEntry logging. It is integrated with a barcode reader to scan identification cards.
+Intelli-Temperature Attendance System is a solution that combines non-contact temperature screening, facial recogntion and face mask detection. The solution can optionally be integrated with a door access system (Integration is not within scope). It also integrates with SafeEntry for companies to automatically submit "check-ins" for their employees upon going to work.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Assimilated_Technologies_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Systems_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: ASSIMILATED TECHNOLOGIES (S) PTE LTD<br>Web URL: https://www.assimilated.com.sg/<br>Contact Hotline: 68120470<br>Contact Email: boyilow@assimilated.com.sg
+Company Name: Anewtech Systems Pte Ltd<br>Web URL: https://www.anewtech.net/<br>Contact Hotline: 62920801<br>Contact Email: terence@anewtech.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

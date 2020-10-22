@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Lenovo s Next-Gen Collaboration Solution (Laptop + Microsoft 365 only) - ThinkBook Next-Gen Collaboration Solution
+title: Dropbox Business - Dropbox Business 20 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution1009
 ---
 
 #### Description
 
-Lenovo s Next-Gen Collaboration Solution Laptop Bundle provides  business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
+Dropbox is a file storage solution known to many individuals, but the business edition enables companies with more control. Dropbox Business has unlimited storage capacity that allows you to store your files securely in the cloud, shares easily with external parties, and collaborate conveniently with your team members. It is also effective for organization management & control. With Web Imp as your vendor, you get an additional advantage with an established tech firm providing local support.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Lenovo-Business_Laptop_Bundle-Annex_3_CR_wef_15_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Lenovo Singapore Pte Ltd <br>Web URL: https://www.lenovo.com/sg/en <br>Contact Hotline:68271000 <br>Contact Email: psglenovo@lenovo.com
+Company Name:WEB IMP PTE LTD <br>Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 93689672 <br>Contact Email: wilson@webimp.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

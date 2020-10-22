@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version SAAS-Small Business Basic
+title: Artemis-500 searches for 1 year
 permalink: /productivity-solutions-grant/solutionrepo/solution1401
 ---
 
 #### Description
 
-Microsoft Dynamics 365 Business Central delivers integrated functionality to provide support for: Financial management Supply chain management Relationship management Human resource management Project & Resource management Warehouse management Service Order Management Manufacturing
+Artemis is the simple, cost-effective one-stop automation of a complex regulatory requirement on Know-Your-Customer (KYC)/Anti-Money Laundering (AML)/Counter-Terrorism Financing (CTF). Artemis is built specifically to address the ever-changing AML/CTF requirements prescribed by regulators in Singapore and elsewhere. Intended for both Financial and non-Financial sectors, it helps regulated businesses to better comply with regulatory requirements on KYC, risk assessment, record keeping, screening and on-going due diligence obligations.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Illum_20200074_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sales@9itgroup.com <br>
+Web URL: www.cynopsis.co <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

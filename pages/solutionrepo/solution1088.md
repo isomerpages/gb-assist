@@ -1,16 +1,15 @@
 ---
-title: DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3 - DIMMPS
+title: OdooCRM - Alitec Enterprise (10 Users, Odoo Hosted CRM + Website Apps with Professional Services & Training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1088
 ---
 
 #### Description
 
-DIMMPS is a marketing software platform based on the WeChat mobile app.
-The solution aims to provide SME the opportunity to create an online presence. It helps the SME to create more convenience for their customers, influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
+An intuitive user interface designed for sales. A Dashboard for a better overview of the sales activities. Useful tips and best practices to configure and deploy your CRM and much more. Odoo CRM is part of Odoo, the #1 suite of business applications dedicated to SMEs. The strength of Odoo is its modularity and scalability. Start with CRM to track all your sales pipeline, and as your business grows, add the sales, inventory or the accounting module, all integrated, same data and easy to use.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Dodoca_20200240_Annex_3_20200630143800_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Alitec_20200004_Annex_3_20200630143425_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:DODOCA INFORMATION TECHNOLOGY (S) PTE LTD <br>Web URL: DIMMPS SOLUTIONS <br>Contact Hotline: 97363622 <br>Contact Email: MAIN@DODOCA.COM.SG <br>
+Company Name:Alitec Pte Ltd <br>Web URL: alitec.sg <br>Contact Hotline: 62622001 <br>Contact Email: sales@alitec.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

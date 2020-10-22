@@ -1,15 +1,15 @@
 ---
-title: Corsiva Lab - E-Commerce Website Development Version 1.0 - Express E-Commerce Website Development Package
+title: COVID-19 Support Concorde Automated Temperature Screening Solution - Package A (1 Unit)
 permalink: /productivity-solutions-grant/solutionrepo/solution312
 ---
 
 #### Description
 
-Extend your business online and generate higher sales revenue with our scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
+A tablet based automated self-help temperature-scanning system that allows temperature checks and employee attendance to be conducted without the involvement of any personnel. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Concorde_Annex_3_CR_wef_15_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Corsiva Lab Pte Ltd <br>Web URL: www.corsivalab.com <br>Contact Hotline: +6581127835 <br>Contact Email: contact@corsivalab.com <br>
+Company Name: Concorde Security Pte Ltd<br>Web URL: www.concordesecurity.com<br>Contact Hotline: 62960808<br>Contact Email: imelda.a@concorde.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,16 +1,18 @@
 ---
-title: Dropbox Business- Document management and Collaboration workspace Version 1 - Package B (Dropbox Business Standard License Only - 6 Users)
+title: Stormshield UTM Firewall - SN710 (Twin Pack)
 permalink: /productivity-solutions-grant/solutionrepo/solution531
 ---
 
 #### Description
 
-Dropbox Business is a Document Management System for archiving and collaborative work on a massive number of documents. With the digitization of documents being stored onto Dropbox. Law firms significantly reduces their storage costs with mobile access of digital files has also eased the way lawyers find and reference documents in court. 
+Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
+
+Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/JustIT_Dropbox_Annex_3_CR_wef_8June2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_Firewall_Network_20190038_Annex_3_20200625151118_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-JUST IT Solutions Pte Ltd<br>www.justit.com.sg<br>Email: info@justit.com.sg<br>Tel: +65 9695 9997
+Juss Solutions Group Pte Ltd<br>www.jussolve.com<br>Email: sales@jussolve.com<br>Tel: +65 6659 1811
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

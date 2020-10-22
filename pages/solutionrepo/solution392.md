@@ -1,13 +1,15 @@
 ---
-title: Dough Sheeter
+title: Rotary Oven 
 permalink: /productivity-solutions-grant/solutionrepo/solution392
 ---
 
 #### Description
 
-Dough sheeter allows the sheeting and stretching of a variety of dough/products into different thickness. Examples of doughs/products include puff pastry, danish bread, croissant, pie, cookie, strudel, marzipan, pizza, fondant.
+Oven with revolving racks that enables a 'soft' bake because of even heat distribution. Usually used for baked products that has a soft or fluffy texture, such as cakes, muffins, rolls and buns.
 
-The dough sheeter will allow pastry chefs to roll out dough to a specific thickness consistently in a short period of time. 
+Able to increase product yield by reducing amount of unevenly baked or burned cakes and muffins.
+
+Ideal for bakeries.
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -36,9 +38,14 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Equipment must meet the following:
+- Minimum of 8 trays
+- Racks inside oven must be able to rotate
+- Bigger rotary ovens may also come with a trolley to load (optional)
+
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
 No change in vendor allowed
-The purchase of pre-owned/used equipment is not supportable
 
 #### Contact Information
 N.A.

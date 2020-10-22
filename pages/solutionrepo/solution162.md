@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Aptsys Queue Manangement System on Premise Version 1.0  - Package A
+title: ABSS Premier Version 23 - Package D Advanced with E-Invoicing (3-Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution162
 ---
 
 #### Description
 
-Aptsys Queue Management System is a cloud platform system that enables efficient and productive management of queues.  It provides both browser-based and SMS alert features that enable users to get notified in-advance before their queue number is called. 
+Formerly known as MYOB, ABSS Premier is designed to help SMEs take care of your transactions and business in a simple and easy way. Besides AR, AP, GL, Inventory, Banking & GST all seamlessly integrated, ABSS Premier also integrates with local bank, IRAS GST portal & PEPPOL e-invoicing network. ABSS Premier features multi-currencies, project & departmental costing, multi-warehouses dedicated to making your business work and access to updates about your accounting and business operation with ease
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Aptsys_QMS_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Aptsys Technology Solutions Pte Ltd<br>https://aptsys.com.sg/agate-queue-management-system/<br>Email: ernest.lim@aptsys.com.sg<br>Tel: +6 6457 7991/ +65 9457 4484
+APSCOM SOLUTIONS<br>www.apscomsolutions.com<br>Email: carol.kok@apscomsolutions.com<br>Tel: +65 9720 6813
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

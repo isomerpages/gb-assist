@@ -1,5 +1,5 @@
 ---
-title: RevoPOS 3.0 - Package (3 eMenu with HW)
+title: RevoPOS 3.0 - Package (Digital Ordering System)
 permalink: /productivity-solutions-grant/solutionrepo/solution151
 ---
 
@@ -11,7 +11,7 @@ RevoPOS 3.0 Digital Ordering Systems eMenu and eWaiter enable customers to place
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Appz_Inc_-_FS_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Appz_Inc_-_FS_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

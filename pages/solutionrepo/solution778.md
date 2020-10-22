@@ -1,15 +1,15 @@
 ---
-title: Shell Telematics - Shell Telematics (20 vehicles)
+title: Sage 300 - Package (Advanced Edition - 10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution778
 ---
 
 #### Description
 
-Shell Telematics is designed to help business owners get the best performance from their fleet, no matter its size.  We use the latest vehicle tracking technology and integrate with Shell Cards to gather a wealth of performance and transaction data from the fleet. Then we turn it into clear, actionable fleet intelligence that helps businesses improve their efficiency, productivity, safety and security.
+Sage 300 is a business accounting software that provides accounting software for small to large sized companies with a customizable, cost-efficient, and highly adaptable enterprise resource planning solution for finance and operations. It connects the most important aspects of companies' growing business, including financials, operations and inventory, project and vendor management. 
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SEG_IT_Annex_3_wef_23_April_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:SHELL EASTERN PETROLEUM (PTE) LTD <br>Web URL: https://www.shell.com.sg/business-customers/shell-fuel-card/shell-telematics-get-started.html <br>Contact Hotline: 6562615322 <br>Contact Email: generalcardrequests-sg@shell.com <br>
+Seg IT Services Pte Ltd<br>www.segit.com.sg<br>Email: sales@segit.com.sg<br>Tel: +65 6483 0950
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

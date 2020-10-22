@@ -1,17 +1,16 @@
 ---
-title: Dynamics 365 Business Central with E-invoicing Version 15 - Dynamics 365 BC Premium 6 Users
+title: INFO-TECH E-Scheduling System Version 3.0 - Package (Facial)
 permalink: /productivity-solutions-grant/solutionrepo/solution1105
 ---
 
 #### Description
 
--	Dynamics 365 Business Central is an ERP Solution designed to automate the majority of their transactions from CRM to Quoting, Ordering, producing, shipping and Invoicing on the sales side, to Purchasing, Receiving, Paying and Inventorying on the supply side.
--	Assembly function are also available to cater to their mini-manufacturing needs 
--	This would eliminate redundant processes and tasks and give the management a better perspective of the current state of affairs in the company.
+Mobile Attendance APP allows tracking of employee's attendance at respective job-site as per scheduled. The system also can consolidate total OT & lateness done for the month based on attendance data collected. It will link with TMS and Payroll for salary calculation.
+Use of Tablet, Biometric Reader supports fingerprint or face recognition to capture staff attendance for calculating of working hours, OT & lateness. Employee database available in TMS integrated with Payroll & Leave software.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Microlabs_20200231_Annex_3_20200630144142_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_E-scheduling_20200223_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -26,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -36,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Microlabs Pte Ltd <br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg <br>
+Company Name:Info-Tech Systems Integrators Pte Ltd <br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

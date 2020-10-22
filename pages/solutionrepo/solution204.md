@@ -1,16 +1,16 @@
 ---
-title: COVID-19 Support Axiom Microsoft Laptop 3 bundle - M365 Business Standard
+title: COVID-19 Support Axiom IT Solutions - Microsoft 365 - Package (Enterprise E3)
 permalink: /productivity-solutions-grant/solutionrepo/solution204
 ---
 
 #### Description
 
-The Microsoft Laptop bundle solution includes a Microsoft surface Laptop  and Microsoft 365 including Microsoft Teams. Microsoft Teams is a full collaboration service that supports offsite telecommuting, work from home, virtual file sharing, online collaboration, individual & group chats, video conferencing and calling features.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Axiom_-_Laptop_Bundle_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Axiom_-_Office_365_Covid_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
