@@ -1,15 +1,15 @@
 ---
-title: Kiosk  & BYOD - Digital Order Channel Package Lite
+title: Xero Cloud Accounting Software Version 10.5 - Premium, Set Up, Training Package
 permalink: /productivity-solutions-grant/solutionrepo/solution978
 ---
 
 #### Description
 
-Singapore Food & Beverage is running out of manpower. Aigens aspire to bring innovation to the traditional Food & Beverage (F&B) industry, which lags behind in adopting technology. In the food service industry, convenience is king. Customers want to experience quick, efficient service with no obstacles. This is even more important for quick service and casual dining restaurants. With Aigens, you can implement innovative solutions that will see your customers returning time and time again.
+Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/YOIO_20200131_Annex_3_20200625150411_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Aigens Technology (Singapore) Pte. Ltd.  <br>https://www.aigens.com/ <br>96953417 <br>hans.paul@aigens.com <br>
+YOIO PTE LTD<br>www.yoio-sg.com<br>Email: hanz@yoio-sg.com<br>Tel: +65 9179 3142
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

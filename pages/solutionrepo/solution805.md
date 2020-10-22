@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Support Singtel - BizConference (Standard)
+title: COVID-19 Support Singtel - Microsoft 365 - Package (Business Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution805
 ---
 
 #### Description
 
-Singtel BizConference (powered by Zoom)
-Singtel BizConference is a business video conferencing service that enables productive and impactful virtual meetings. Powered by Zoom, it combines innovative cloud and video conferencing technologies, offering an intuitive and versatile solution. It is cloud-hosted with worldwide coverage for consistently excellent business meetings experience via desktop and mobile devices over the Internet.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-BizConference_Annex_3_wef21April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel-Office_365_Annex_3_CR_wef_21_July_20209(mti)_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

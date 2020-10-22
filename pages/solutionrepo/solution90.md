@@ -1,18 +1,13 @@
 ---
-title: Probing System
+title: Portable Straight Line Automatic Cutting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution90
 ---
 
 #### Description
 
-A probing system consists of the following attached to CNC machining center:
+Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
 
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-Grant support: 80% of cost of probing system, up to $30,000 grant cap
+Grant support: 80% of cost of equipment, up to $5,000 grant
 
 #### Details of Solution
 
@@ -38,14 +33,13 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following specifications: 
-1. Work Piece & Tool Setting Probe:
-- Approach Directions: +/-x, +/-y, -z
-- Repeatability: <=1um 2sigma
-
-2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts
-
-3. Implementation: Probe and software configuration and training
+Includes nozzle, torch, rail, motor for travelling on rail (forward, backward, stop)
+Cutting thickness: max. 50mm
+Cutting speed: 110-1000mm/min
+Bevel angle: 0-45 
+Power:  110V or 220V input
+Heavy-duty industrial electrical plug
+Maintenance costs not supported
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 

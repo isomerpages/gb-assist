@@ -1,15 +1,19 @@
 ---
-title: COVID-19 Support Innocom Technologies Microsoft 365 Business Standard
+title: BIM 360 DESIGN - 2 Users Pack Subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution491
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
+BIM 360 Design 
+- Single platform that connects design and construction processes and project team at one place.
+- BIM 360 Design is the cloud collaboration solution for Revit users.
+- Real-time Revit cloud work sharing and collaboration workflows for Civil 3D and Plant 3D
+- Securely co-author Revit models and access Civil 3D and Plant 3D files, across one firm or multiple firms"
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_INNOCOM_Microsoft_365_Annex_3_CR_wef_7_August_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/INNOCOM_TECHNOLOGIES_20200259_Annex_3_20200625152404_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,7 +35,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
 Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/<br>Contact Hotline: 6603 5438<br>Contact Email: sales@innocom.com.sg

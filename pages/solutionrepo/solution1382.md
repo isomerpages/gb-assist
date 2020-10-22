@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support HRM Labs Temperature Screening System Version 1.0-Package (8 inch screen with Employee and Visitor Management)
+title: COVID-19 Support i-FTEMP Detector-SafeEntry
 permalink: /productivity-solutions-grant/solutionrepo/solution1382
 ---
 
 #### Description
 
-HRM Labs Temperature Screening System is a contactless temperature screening solution integrated with an automatic attendance system for employees, students and visitors. When a person with fever is detected, the entry will be denied and real-time notifications will be sent. The system is equipped with smart facial recognition that also works with face mask on.
+The i-FTemp Detector is a facial recognition device featuring an industrial-grade camera and liveness detection technology. It is equipped with a contactless thermal infrared sensor for abnormal human body temperature detection and works with face mask usage. The i-FTemp Detector can be deployed for automated temperature screening, access control, visitor management, time-attendance and SafeEntry logging. It is integrated with a barcode reader to scan identification cards.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_HRMLabs_Temp_Screening_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Assimilated_Technologies_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: HRM Labs Pte Ltd<br>Web URL: www.hrmlabs.com<br>Contact Hotline: 6926 3286<br>Contact Email: kason@hrmlabs.com 
+Company Name: ASSIMILATED TECHNOLOGIES (S) PTE LTD<br>Web URL: https://www.assimilated.com.sg/<br>Contact Hotline: 68120470<br>Contact Email: boyilow@assimilated.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,20 +1,16 @@
 ---
-title: Eber - Smart Membership Solution
+title: COVID-19 Sectorial Support Doctor World  Platform Version 2 - Doctor World Pro
 permalink: /productivity-solutions-grant/solutionrepo/solution369
 ---
 
 #### Description
 
-Eber Smart Member Solution is a smart member system comes with comprehensive loyalty & rewards system, marketing, gift card and analytic tool. Retailers and brands can easily acquire, reward, engage and understand their customers. There is no card to carry, no app to install, no password to remember.
-
-
-
-
+Doctor World is an integrated digital platform connecting patients with a trusted network of medical providers and services. It allows doctors to provide 24/7 teleconsultation services to dispense care via video-call and includes 24/7 islandwide delivery of medication to patients. Doctor World also comes with a digital queue system for physical clinic visits, an appointment-booking system, a health store and home care services.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Eber_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Doctor_World_Annex_3_CR_wef_27_April2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -29,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -39,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Eber Pte Ltd<br>www.eber.co<br>Email: godigital@eber.co<br>Tel: +65 3159 0888
+Doctor World Pte Ltd<br>www.doctorworld.co<br>Email: contact@doctorworld.co<br>Tel: +65 9139 2066
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

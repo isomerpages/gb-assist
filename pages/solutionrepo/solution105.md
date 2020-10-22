@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Version 10.5 - Advante Package C (Xero Premium Full Package)
+title: Xero Cloud Accounting Version 10.5 - Advante Package A (Xero Standard Full Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution105
 ---
 
@@ -9,7 +9,7 @@ Xero is a cloud-based accounting software platform for small and medium-sized bu
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advante_Consulting_Annex3_CR_wef_6_August_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advante_Consulting_Annex3_CR_wef_6_August_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

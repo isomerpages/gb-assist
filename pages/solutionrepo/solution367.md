@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Sectorial Support Doctor World  Platform Version 2 - Doctor World Pro
+title: COVID-19 Sectorial Support Doctor World  Platform Version 2 - Doctor World Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution367
 ---
 
@@ -10,7 +10,7 @@ Doctor World is an integrated digital platform connecting patients with a truste
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Doctor_World_Annex_3_CR_wef_27_April2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Doctor_World_Annex_3_CR_wef_27_April2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

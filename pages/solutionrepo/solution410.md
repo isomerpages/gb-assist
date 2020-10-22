@@ -1,16 +1,15 @@
 ---
-title: Frontier e-HR Version 8 - AutomateHR eFrontier 50
+title: Ecommerce Development+Online Inventory Management Version 0.9 - Ecommerce Development & Online Inventory Management (OpenCart/WooCommerce)
 permalink: /productivity-solutions-grant/solutionrepo/solution410
 ---
 
 #### Description
 
-Frontier e-HR is a user friendly cloud based Human Resource Management System ( HRMS ) with robust functionality, scalable architecture and seamless integration between each module. The system enhances the users experience through an intuitive, simple and effective user interface. Through a single application, single database deployment, users are empowered to perform self-service functions with Frontier e-HR  anytime, anywhere.
-
+Development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, managing of client orders and data, track statistics of product sales performance, online marketing of products and provision of consultancy to explore connections with external platforms to expand the outreach digitally to seamlessly move Offline selling to Online selling.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Firstcom_Solutions_Pte_Ltd_20200125_Annex_3_20200625153111_Part_12.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Frontier e-HR Pte Ltd<br>https://www.frontier-ehr.com/<br>Email: enquiry@frontier-ehr.com<br>Tel: +65 6391 0921
+Company Name:Firstcom Solutions Pte Ltd <br>Web URL: www.firstcom.com.sg <br>Contact Hotline: 68484984 <br>Contact Email: sales@firstcom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

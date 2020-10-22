@@ -1,5 +1,5 @@
 ---
-title: Netiquette Cloud Business Suite - Package D (Saas for 25 Users)
+title: Netiquette Cloud Business Suite - Package B (Saas for 10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution647
 ---
 
@@ -9,7 +9,7 @@ Netiquette Software is a complete cloud business solution that comprises Account
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

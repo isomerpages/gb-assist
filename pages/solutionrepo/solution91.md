@@ -1,18 +1,13 @@
 ---
-title: Probing System
+title: Power Jack for Steel Plates Adjustment (Perpendicular)
 permalink: /productivity-solutions-grant/solutionrepo/solution91
 ---
 
 #### Description
 
-A probing system consists of the following attached to CNC machining center:
+The power jack provides easy adjustment and fitting of steel pieces into perpendicular arrangement during the construction process in workshop or shipyard. This replaces manual adjustments of hammering process, resulting in lesser time and effort required to prepare the steel plates for the welding process. 
 
-Work Piece Touch Probe: Work piece measurement/referencing 
-Tool Setting Probe: Tool setting, length, radius, breakage detection
-Software: Creates measurement program for probes on standard geometries and free-form surfaces, generates QC alerts and reports
-Implementation: Equipment configuration, training
-
-Grant support: 80% of cost of probing system, up to $30,000 grant cap
+Grant support: 80% of cost of equipment, up to $15,000 grant
 
 #### Details of Solution
 
@@ -38,16 +33,11 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following specifications: 
-1. Work Piece & Tool Setting Probe:
-- Approach Directions: +/-x, +/-y, -z
-- Repeatability: <=1um 2sigma
+Hydraulic capacity: Min. 5 tonnes
+Essential components: Supporting jack block, pump, hydraulic hose
+Maintenance costs not supported
 
-2. Software: Program probe measurement pathway, provide reports, generate QC issue alerts
-
-3. Implementation: Probe and software configuration and training
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria:Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
 

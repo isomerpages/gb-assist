@@ -1,15 +1,15 @@
 ---
-title: Microsoft 365 Business Basic
+title: W.R.I.S.T Version 2 - W.R.I.S.T Standard (One Time Purchase for the Sensors)
 permalink: /productivity-solutions-grant/solutionrepo/solution1051
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
+Sensorla provides an artificial intelligence workforce management system, that is activated by sensors and wearables, to optimise the workforce in the areas of Facilities Management and Environmental Services. It is a platform for the labour-intensive industries such as cleaning, security and hospitality. Through industrial Internet of Things (IIoT), Sensorla introduces devices, technologies, processes to improve productivity of these companies, helping them to save time and manpower effort.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CHASSasia-Software_only_Annex_3_CR_wef_15_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase 
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-N.A. for non-SMEs
+80% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Cost in price package does not include optional items and is not indicative of actual project cost.
 
 #### Contact Information
-Company Name: CHASSASIA (SINGAPORE) PTE LTD <br>Web URL: www.chassasia.com <br>Contact Hotline: 6212 9191 <br>Contact Email: serenetan@chassasia.com<br>
+Company Name:Sensorla Pte Ltd <br>Web URL: https://www.sensorla.co/#Products <br>Contact Hotline: 69096483 <br>Contact Email: contactus@sensorla.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

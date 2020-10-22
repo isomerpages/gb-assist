@@ -1,11 +1,11 @@
 ---
-title: Smart static compactor in bin centre
+title: Smart litter bin with compactor function
 permalink: /productivity-solutions-grant/solutionrepo/solution124
 ---
 
 #### Description
 
-Waste-handling system integrated with compactor, fill-level sensor(s), weight monitoring and communication system(s) to enable on-demand waste collection.
+The equipment should allow Users to monitor bin fill levels with multiple fill level settings, send notifications to collectors when bins are reaching capacity and preferably with software to allow Users to gather data for trend analytics.
 
 #### Details of Solution
 
@@ -27,14 +27,16 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-50% for SMEs <br>
-50% for non-SMEs
+60% for SMEs <br>
+60% for non-SMEs
 
 #### Things to Note
-- Integrated with compactor, fill-level sensor(s), weight monitoring  and communication system(s)
-- Minimum Compaction Ratio:  3
-- Minimum Container Volume: 4 cubic metres  
-- Grant cap: Up to $60,000 per unit
+Specifications
+- Integrated with fill- level sensor(s) and communication system(s)
+-Minimum Bin Capacity: 120 litres 
+
+Grant cap: Up to S$4,800 per unit
+
 
 #### Contact Information
 N.A.

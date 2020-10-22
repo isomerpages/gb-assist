@@ -1,15 +1,15 @@
 ---
-title: Asset-info Based Cyber Defense service - ABCD Lite for 150 endpoints (for SMEs with 150 employees or more)
+title: Carbonate HR Version 1.0- Package (Power 200)
 permalink: /productivity-solutions-grant/solutionrepo/solution288
 ---
 
 #### Description
 
-Solution which leverages asset information and behavioral analytics to identify, protect, detect and respond to cyberthreats.
+Carbonate HR is a web and mobile application based HR management system that focuses on helping SME schedule their employees, track attendance and pay staff quickly.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CENTURYLINK_20200076_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:CenturyLink Technology Singapore Pte Ltd <br>Web URL: www.centurylink.com.sg <br>Contact Hotline: 67688000 <br>Contact Email: waikit.cheah@centurylink.com <br>
+Carbonate Pte Ltd<br>https://carbonateapp.com/<br>Email: info@carbonateapp.com<br>Tel: +65 6797 6787
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

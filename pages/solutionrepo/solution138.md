@@ -1,15 +1,22 @@
 ---
-title: Digital Retail eCommerce Solution Version 1
+title: AGHRM - AGHRM 250
 permalink: /productivity-solutions-grant/solutionrepo/solution138
 ---
 
 #### Description
 
-Digital Retail eCommerce Solution enable users to enhance their online presence through mobile responsive  e-Commerce website with content management, online leads analysis and online transaction management capabilities. 
+AGHRM provides an integrated suite of cloud based Human Resource Management Solutions
+a.	Personnel
+b.	Leave
+c.	Claims
+d.	Attendance & Rostering
+e.	Payroll Singapore. 
+f.	Performance Management
+In addition, we provide mobile apps for employees to manage their HR matters on the go
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Amobee_Asia_Annex 3_CR_wef_8May2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +41,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Amobee Asia Pte Ltd<br>https://amobeedigital.com/web-solutions/<br>Email: ADS@amobee.com<br>Tel: +65 6323 9448
+Company Name:AG Net Pte Ltd <br>Web URL: https://web.aghrm.com/index.php/solutions/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

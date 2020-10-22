@@ -1,17 +1,15 @@
 ---
-title: Vertical Carousel
+title: COVID-19 Support Aptsys Queue Manangement System on Premise Version 1.0  - Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution164
 ---
 
 #### Description
 
-Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Aptsys Queue Management System is a cloud platform system that enables efficient and productive management of queues.  It provides both browser-based and SMS alert features that enable users to get notified in-advance before their queue number is called. 
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Aptsys_QMS_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,19 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
--Unit Height: 205cm to 716cm 
-- Carrier: Width 220 cm to 284 cm
-- Depth: 41cm to 61cm
-- Load Capacities: 175kg to 499kg 
-- Net Unit Load Capacity: 1270kg to 5443kg
-- With operator Interface (Console)
-- With software linked to Inventory Management System 
-
-Installation costs are supported. 
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-Purchase of pre-owned/used equipment not supportable
 
 #### Contact Information
-N.A.
+Aptsys Technology Solutions Pte Ltd<br>https://aptsys.com.sg/agate-queue-management-system/<br>Email: ernest.lim@aptsys.com.sg<br>Tel: +6 6457 7991/ +65 9457 4484
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

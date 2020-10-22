@@ -1,5 +1,5 @@
 ---
-title: SAP Business One, version for HANA Version 10 - Package D (10 users, Project Costing Solution and PEPPOL e-Invoicing)
+title: SAP Business One, version for HANA Version 10 - Package B (10 users, Cloud Hosting)
 permalink: /productivity-solutions-grant/solutionrepo/solution479
 ---
 
@@ -10,7 +10,7 @@ SAP Business One is a single, integrated ERP solution with flexible licensing an
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,15 +1,15 @@
 ---
-title: Autocount Accounting Software Version 2.0 - Basic Version 2.0 ( 1 User)
+title: SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE E (150 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution1357
 ---
 
 #### Description
 
-Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledged of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs
+Administrator manage the company's HR requirements, payroll, schedule, Leave and Appraisal. Staff can go online to apply leave, submit claims and view their documents online. Appraisal system allows managers to quick appraise their staff online. Work Schedule module allows management to better manage and plan their manpower and monitor attendance of their staff real time. Update and complies to regulatory requirements.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_I_SOFT_20200352_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD <br>Web URL: http://isoft.my/products <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com <br>
+Company Name:AVELOGIC PTE LTD <br>Web URL: www.avelogic.com <br>Contact Hotline: 63671128 <br>Contact Email: sales@avelogic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

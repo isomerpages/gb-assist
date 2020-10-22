@@ -9,7 +9,7 @@ Advanced & Best Technologies Pte Ltd's TimeCentral solution is a cloud platform 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Advanced_and_Best_TimeCentral_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_Time_Central_Version_5.0_Covid_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

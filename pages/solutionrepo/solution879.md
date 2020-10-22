@@ -1,15 +1,15 @@
 ---
-title: Westlaw Asia - Package (for sole proprietorship only)
+title: Sage 300 - Package (Peppol Ready Advance Edition - 7 Users) 
 permalink: /productivity-solutions-grant/solutionrepo/solution879
 ---
 
 #### Description
 
-Westlaw Asia is a well-known power legal research tool for law firms with its search engine leveraging on natural language and terms & connectors defined within the solution. It allows law firms to easily and quickly find relevant legal literature on both small and large scale searches. 
+Sage300 is a powerful accounting and financial management solution that allows SMEs to maximise operational efficiencies, enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/WestLaw_Asia_Annex_3_Final_ext_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/The_World_Management-SAGE_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,9 +33,7 @@ N.A. for non-SMEs
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-SLPs who have enjoyed subsidy under Tech Start for Law for Online Legal Research may be eligible to apply for PSG if the solution is different from that of what was previously adopted, and assessed on a case-by-case basis.
-
 #### Contact Information
-Thomson Reuters Corporation Pte Ltd<br>https://www.thomsonreuters.com.sg<br>Email: Shay.Delgado@thomsonreuters.com / keith.tan@thomsonreuters.com<br>Tel: +65 6417 4150 / +65 9863 3500
+The World Management Pte Ltd<br>www.twm.com.sg<br>Email: sales@twm.com.sg<br>Tel: +65 6741 9198
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

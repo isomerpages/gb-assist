@@ -1,5 +1,5 @@
 ---
-title: BonaForce - bonaFORCE Events
+title: BonaForce - bonaFORCE SMEs
 permalink: /productivity-solutions-grant/solutionrepo/solution258
 ---
 
@@ -13,7 +13,7 @@ Developed by SMEs, for SMEs. bonaforce is a Singapore-grown solution. #SGUnited
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_34.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

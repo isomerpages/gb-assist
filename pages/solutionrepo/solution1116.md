@@ -1,15 +1,15 @@
 ---
-title: MecWise People Version 5 - Package A (15 pax)
+title: Autocount Accounting System Version 2.0 - Premium (5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1116
 ---
 
 #### Description
 
-MecWise HRMS is easy to setup and simple to use. It can be tailored to suit the way an organization operates and is a user-friendly system for businesses to collate employee and organizational data namely, Employee Information, Payroll , Claims, Leave, Appraisal, Compensation, etc, with ease in a controlled, consistent and compliant way through every stage of the employment lifecycle. The platform is scalable for the organization's growth, regardless of workforce size or composition.
+AutoCount Accounting stands out as one of the best accounting software for today business requirements. Characterized by its easy-to-learn and integrated features, AutoCount Accounting helps to streamline business operation. It provides strong and stable database for every type of business and able to perform all types of account transactions, no matter how complicated it is.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Starvision_20200213_Annex_3_20200630170003_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Starvision Information Technology Pte Ltd <br>Web URL: www.starvisionit.com <br>Contact Hotline: 62934828 <br>Contact Email: mwsales@starvisionit.com <br>
+Company Name:Rockbell International Software Pte Ltd <br>Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

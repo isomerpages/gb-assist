@@ -1,11 +1,13 @@
 ---
-title: Filing and Seaming Machine
+title: Automated Oxygen Scavenger Dispenser
 permalink: /productivity-solutions-grant/solutionrepo/solution306
 ---
 
 #### Description
 
-The filing and seaming machine automates the filing and seaming of canned beverages. Operators will only need to load the machine with the product. Each can in the production line will be filled to the desired level, checked (by weight or volume), and subsequently heat sealed shut.
+Oxygen scavengers work by absorbing the ambient moisture. These scavengers are put into small packets and inserted alongside the packaged product. 
+
+An oxygen scavenger dispenser works by integrating with a production line and automatically inserting these oxygen scavenger packets with each packaged product.
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -34,8 +36,8 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following specifications:
-- Digital interface for simple operation (optional)
-- Speed and temperature control
+- Minimum loading speed of 150 packets per minute
+- Able to insert oxygen scavenger packets of varied sizes
 
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

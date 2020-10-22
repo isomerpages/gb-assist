@@ -1,13 +1,11 @@
 ---
-title: OpensoftHR Version 2019 - Package A (50 pax)
+title: Armfort Security Workforce Version 2 - Package (Enhance Plus)
 permalink: /productivity-solutions-grant/solutionrepo/solution679
 ---
 
 #### Description
 
-OpensoftHR is a comprehensive HRM solution that is designed to reduce time consuming administrative work and improve HR efficiency for SMEs.
-
-
+Armfort Security Workforce, previously known as One Security Suite is a cloud-based mobile and web solution that enables security agencies to manage officers, clients, back office in an integrated platform.
 
 
 
@@ -15,7 +13,7 @@ OpensoftHR is a comprehensive HRM solution that is designed to reduce time consu
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Opensoft_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/One_Third_Technologies_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -30,7 +28,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -40,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Opensoft Pte. Ltd.<br>http://www.opensofthr.com<br>Email: sales@opensofthr.com<br>Tel: +65 6346 1511
+One Third Technologies Pte Ltd<br>http://www.onethird.co<br>Email: hello@onethird.co<br>Tel: +65 9649 7552
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

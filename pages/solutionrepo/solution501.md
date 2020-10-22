@@ -1,15 +1,15 @@
 ---
-title: INTELLLEX - Package (13-24 accounts)
+title: SAP Business One 9.3 - Package (11 Professional Users on Cloud with Peppol Einvoicing)
 permalink: /productivity-solutions-grant/solutionrepo/solution501
 ---
 
 #### Description
 
-INTELLLEX Enterprise (STACK and  SOURCE)is an AI empowered legal online research system which facilitate law firm to better manage their research in an intelligent and organised approach. The search capabilities and hashtag capabilities further enhance usability of the solution, providing ease of information tagging and searching based respective requirements.
+The SAP Business One application offers a single, affordable way to manage your entire business - from sales and customer relationships to financials and operations. Designed specifically for small businesses, it helps you streamline processes, act on timely information, and accelerate profitable growth.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Intelllex_Annex_3_Final_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Integrated_System_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,9 +33,7 @@ N.A. for non-SMEs
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-SLPs who have enjoyed subsidy under Tech Start for Law for Online Legal Research may be eligible to apply for PSG if the solution is different from that of what was previously adopted, and assessed on a case-by-case basis.
-
 #### Contact Information
-Intelllex Holdings Private Limited<br>www.intelllex.com<br>Email: contact@intelllex.com<br>Tel: +65 6920 1400
+Integrated Information Systems Pte Ltd<br>www.integratedinfosystem.com<br>Email: William.lee@integratedinfosystem.com<br>Tel: +65 9171 9828
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

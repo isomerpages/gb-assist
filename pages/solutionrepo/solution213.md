@@ -1,5 +1,5 @@
 ---
-title: AZ Digital POS Solution - Package (POSWORKS Premium Plus)
+title: AZ Digital POS Solution - Package (POSWORKS Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution213
 ---
 
@@ -9,7 +9,7 @@ AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sa
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AZ_Digital_Annex_3_CR_wef_8May2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AZ_Digital_Annex_3_CR_wef_8May2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

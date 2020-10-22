@@ -1,5 +1,5 @@
 ---
-title: Solar AppScreener Version 3.4.0 - 1-Month Unlimited SaaS
+title: Solar AppScreener Version 3.4.0 - Single-Day Unlimited SaaS
 permalink: /productivity-solutions-grant/solutionrepo/solution192
 ---
 
@@ -7,9 +7,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution192
 
 SMEs & enterprises procure 3rd-party applications frequently. Unfortunately, source code is not available as applications come with just run-time binaries. This is risky for purchaser with internet fronting applications. AppScreener provides means to check undocumented features, back doors, bad programming practices, OWASP Top 10, CVE, CWE by scanning the binaries. 
 
+
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AthenaDynamics_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AthenaDynamics_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

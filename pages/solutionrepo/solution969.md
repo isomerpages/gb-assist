@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Support Xjera Labs Video Analytics for Crowd Management - Package B
+title: Microsoft Dynamics 365 Business Central for Wholesale - Package D (15 On-Cloud Licenses) with  PEPPOL e-invoicing
 permalink: /productivity-solutions-grant/solutionrepo/solution969
 ---
 
 #### Description
 
-Xjera video analytics solution provides robust, accurate and quick-to-install solutions for the business owners. Using deep learning algorithms the solution is able to provide crowd monitoring and management and social distancing. Optional features include perimeter defence, tripwire detection, footfall counting, people counting, illegal parking, queue monitoring and dashboard. 
-The solution can be deployed on-premise or on the cloud depending on the customer's preference. 
+An easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, inventory management, include pre-defined workflows and processes  for the wholesale sector.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Xjeralabs_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Xjera Labs Pte Ltd<br>www.xjeralabs.com<br>Email: enquiry@xjeralabs.com<br>Tel: +65 9111 9025
+Winspire Solutions Pte Ltd<br>www.winspiresolutions.com<br>Email: jkulkarni@winspiresolutions.com<br>Tel: +65 9835 7900 (mobile) / +65 6744 0324
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Psoft Accounting Systems - Package (Cloud-Based Single User)
+title: COVID-19 Support Advance Visitor Management HSA Certified Temperature Screening, Facial Recognition + Safe Entry-Package 4  (2 units Remote Access)
 permalink: /productivity-solutions-grant/solutionrepo/solution723
 ---
 
 #### Description
 
-Our company specializes in business software applications ie selling Psoft Accounting software for SME in Singapore to help them keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Our software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow. All these to help SME company to perform better.
+Pixie Tech's temperature screening solution for staff and visitors management include facial recognition with and without mask and integration to door access. It will sound an alarm on site and send an email if temperature detected above threshold. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Pixie_Pitch_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Psoft Pte. Ltd.<br>http://www.psoftaccounting.com<br>Email: psoft@singnet.com.sg<br>Tel: +65 6295 3292
+Company Name: Pixie Pitch Pte Ltd<br>Web URL: Www.pixiepitch.com<br>Contact Hotline: +65 9244 8138<br>Contact Email: Janice@pixiepitch.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

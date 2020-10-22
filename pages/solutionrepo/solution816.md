@@ -1,15 +1,15 @@
 ---
-title: Fleet Safety & Management System Version 1 - Package (Standard)
+title: COVID-19 Support Singtel Business Laptop Bundle - Package 5 (Microsoft 365 Business Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution816
 ---
 
 #### Description
 
-Fleet Safety & Management System Version 1 is a powerful tool that provides real-time video and GPS information for time and motion study to increase productivity and lower operating costs. Built on analytics in the backend, it is capable of generating useful reports for fleet managers and decision makers. Coupled with Telematics Sensors ranging from temperature, driver identification, RFID, water flow, ultrasonic, weight and video, it helps companies to fulfil their fleet management needs. 
+Singtel Business Laptop Bundle provide for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Smartcomm-ES_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Business_Laptop_Bundle_Annex_3_CR_wef_15_Sept_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Smartcomm Electronics Pte Ltd<br>https://www.smartcomm.biz/<br>Email: ask@smartcomm.biz<br>Tel: +65 6513 2389
+Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/business/info/psg<br>Contact Hotline: 1800-763-1111<br>Contact Email: g-segmentict@singtel.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

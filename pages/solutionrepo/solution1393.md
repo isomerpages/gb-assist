@@ -1,16 +1,15 @@
 ---
-title: 3D Omni Commerce Version 1.03-PRO (Shopee Online Marketplace)
+title: COVID-19 Support Adventus' Next-Gen Collaboration Solution-Microsoft 365 Business Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1393
 ---
 
 #### Description
 
-3D Omni Commerce is a complete end-to-end eCommerce solution for companies that want to take their online businesses to the next level. Promote your products to millions of prospective shoppers by leveraging on some of the most popular online marketplaces such as Shopee, Lazada and Qoo10. With features such as Business Intelligence, Inventory Management, Delivery Management, Gift Voucher option, and many more, 3D Omni Commerce is the best decision that any business can invest in.
-
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adventus-Remote_Collaboration_(Software_only)-Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 97112904 <br>Contact Email: hello@3dbrandagency.com <br>
+Company Name: ADVENTUS SINGAPORE PTE LTD<br>Web URL: www.adventusasia.com<br>Contact Hotline: 6868 1210<br>Contact Email:  info@adventusasia.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

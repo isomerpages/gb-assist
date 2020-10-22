@@ -1,18 +1,15 @@
 ---
-title: ABSS Premier Version 23 - Package (3 Users with E-Invoicing)
+title: Warehousing system- reach truck
 permalink: /productivity-solutions-grant/solutionrepo/solution185
 ---
 
 #### Description
 
-ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
-
-
-
+Reach truck with load capacity ranging from 1.2 ton to 2.5 ton, that is able to reach loads located high up in racks, with only one operator. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Annex_3_CR_wef_4th_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -27,16 +24,19 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-80% for SMEs <br>
-N.A. for non-SMEs
+70% for SMEs <br>
+70% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Specifications
+Only applicable for licensed cleaning and waste management companies
+
+Grant cap: Up to S$20,000 per unit
 
 #### Contact Information
-ABSS (formerly known as MYOB)<br>www.abssasia.com<br>Email: cs.sg@abssasia.com<br>Tel: +65 6505 6582
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

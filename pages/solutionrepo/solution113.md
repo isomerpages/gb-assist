@@ -1,15 +1,15 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version Cloud - Essential - 3 Users
+title: Advocado Cloud Loyalty CRM Software - Package (Professional B.I.)
 permalink: /productivity-solutions-grant/solutionrepo/solution113
 ---
 
 #### Description
 
-Microsoft Dynamics 365 Business Central is a cloud-based, comprehensive all-in-one enterprise resource planning (ERP) solution designed for small to midsize businesses. The solution has the functionalities that manages finance, operations, customer service, inventory, procurement, sales and marketing.
+Advocado Cloud Loyalty Customer Relationship Management software empowers SMEs to manage their consumers, grow their customer base and bring them back again and again using marketing automation. Leverage on cloud CRM technology to skyrocket revenue and win more regulars, without the need to issue cards or getting consumers to download apps. Advocado is truly enterprise grade CRM, priced affordably for the SMEs.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:AFON Systems Pte Ltd <br>Web URL: https://www.afon.com.sg/microsoft-dynamics-365-business-central <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
+Advocado Pte Ltd<br>https://www.advocadoapp.com<br>Email: hello@advocado.me<br>Tel: +65 6444 9556
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

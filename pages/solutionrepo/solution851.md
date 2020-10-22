@@ -1,15 +1,15 @@
 ---
-title: TessaCloud - Package (Up to 12 users)
+title: SmartTab eMenu Version 4 - Package (5 eMenu Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution851
 ---
 
 #### Description
 
-TessaCloud is a Document Management System that combines ease of quick uploading and downloading of files, combined with e-signing capabilities. With built in Optical Character Recognition (OCR) and enterprise search functionality, users are able retrieve documents and precedents quickly and accurately.  
+TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-menu) system that improves customer experience and increase restaurant productivity.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tessacloud_Annex_3_CR_wef_8June2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,9 +33,7 @@ N.A. for non-SMEs
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
-SLPs who have enjoyed subsidy under Tech Start for Law for Practice Management Systems and Document Management Systems will not be eligible to apply for PSG under the same solution category. 
-
 #### Contact Information
-Tessaract Technologies Private Limited<br>https://tessaract.io/<br>Email: sales@tessaract.io<br>Tel: +65 9831 3983
+Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel: +65 9763 0707
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

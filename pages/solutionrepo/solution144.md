@@ -1,19 +1,15 @@
 ---
-title: AppsPOS Version 4 - Package ( PLUS - Cloud e-waiter (2 users) with Integrated Hybrid POS)
+title: ABSS Premier Version 23.0 - Package D (Single User Licence product only)
 permalink: /productivity-solutions-grant/solutionrepo/solution144
 ---
 
 #### Description
 
-AppPOS Solution is a highly scalable omni-channel ordering system that fits the purpose of F&B merchants of all concepts/sizes. It allows customers to order food (dine in, takeaway, pre-orders and drive through) via web app and mobile apps for restaurants, quick service restaurants, kiosks/stalls, among many other F&B concepts.
-
-
-
-
+ABSS premier is an on-premise full fledge and integrated accounting, sales, inventory and multiple-currency management solution.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AppsPOS_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -38,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-AppsPOS Pte Ltd<br>www.appspos.com<br>Email: kingsley@appspos.com<br>Tel: +65 9028 8123
+Andre Corporate Pte Ltd<br>https://www.andrecorpl.com/psg-for-abss-premier-software/<br>Email: consultants@andre.com.sg<br>Tel: +65 9225 8858 / +65 6396 0663
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

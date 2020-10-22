@@ -1,15 +1,17 @@
 ---
-title: COVID-19 Support KR AI Temperature Monitoring Access Control Platform - Package B (Leasing)
+title: KEEPITAL Sales Management Business Solution Version 3 - Package (1000 Product Showcase)
 permalink: /productivity-solutions-grant/solutionrepo/solution545
 ---
 
 #### Description
 
-The solution has a built in Heimann Temperature Sensor made in Germany, it can measure forehead and facial skin temperature at the same time accurate to 0.1 degree Celsius at a distance of 60 -100cm. When it detects a person, facial recognition is done and if the person has high fever, there is an audio warning and prevents entering the premises.
+Keepital is an online B2B platform that brings together buyers and suppliers which allow business owners to reach out to prospects. Through this platform, business owners can list their products, generate quotation to the buyers.
+To Digitize all SME products and services into a single platform, all hardcopy practices of Wholesale SME will be digitized.
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_KentRidge-Annex_3_CR_Class_A_wef_13_August_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Kent Ridge Healthcare Singapore Private Limited<br>http://kentridgehealth.com/covid19-support/<br>Email: jenifer.goh@kentridgehealth.com<br>Tel: +65 9022 8129
+Keep Pte Ltd<br>www.keepital.com<br>Email: ask@keepital.com<br>Tel: +65 9623 9126
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Outdoor road sweeper
+title: HRSS with WhyzeHR - Package ( 101 - 150 Employees )
 permalink: /productivity-solutions-grant/solutionrepo/solution179
 ---
 
 #### Description
 
-The outdoor road sweeper that is able to provide efficient cleaning of the public roads, site roads, expressways, etc., with only one operator. 
+Business Process Review of HR process, outsourcing of HR administrative support and outsourcing of payroll processing with Employee Self-Service system.
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Ark_Services_Pte_Ltd_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Specifications
-- At least 1400mm of sweeping width
-- Hopper volume (>500L)
-
-Grant cap: Up to S$320,000 per unit
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Ark Services Pte Ltd<br>http://arkservices.com.sg/<br>Email: enquiry@arkservices.com.sg<br>Tel: +65 6873 0911
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

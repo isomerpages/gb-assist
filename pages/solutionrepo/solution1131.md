@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support JY-Hikvision Package C (3 Units)
+title: Wireless Tour Guide System 
 permalink: /productivity-solutions-grant/solutionrepo/solution1131
 ---
 
 #### Description
 
-JY Cloud VMS with Hikvision facial recognition & fever screening solution enables automation of these processes with uncompromising security features. With this solution, building management can grant access to tenants, staffs and all visitors while keeping track of entry records.
+Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_JYComm_Annex_3_ver2_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -28,12 +28,12 @@ Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-N.A. for non-SMEs
+60% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Operating time of >15 hours and talk range of 100-200 meters. Example vendor: Kenwah System
 
 #### Contact Information
-Company Name: JYComm Pte Ltd<br>Web URL: WWW.JY-COMM.COM<br>Contact Hotline: 62899909 <br>Contact Email: SALES@JY-COMM.COM<br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

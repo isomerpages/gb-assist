@@ -1,5 +1,5 @@
 ---
-title: AppPOS (BYOD) Version 4 - Package (PLUS - QR ordering - 2 Outlets)
+title: AppsPOS Version 4 - Package ( PLUS - Cloud e-waiter (5 users) with Integrated Hybrid POS)
 permalink: /productivity-solutions-grant/solutionrepo/solution147
 ---
 
@@ -10,10 +10,9 @@ AppPOS Solution is a highly scalable omni-channel ordering system that fits the 
 
 
 
-
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AppsPOS_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AppsPOS_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

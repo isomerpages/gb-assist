@@ -1,19 +1,17 @@
 ---
-title: COVID-19 Support RevoPOS 3.0 Queue Management System - Package A (RevoQ Contactless)
+title: RevoPOS 3.0 - Package (20 eMenu w/o HW)
 permalink: /productivity-solutions-grant/solutionrepo/solution155
 ---
 
 #### Description
 
-RevoPOS 3.0 Queue Management System is a cloud cross platform system that runs on Windows (laptop or embedded system) or on iPad or Android tablet. The solution provides contactless system with automated queue number alerts/reminders and update on queue status.
-
-
+RevoPOS 3.0 Digital Ordering Systems eMenu and eWaiter enable customers to place orders themselves(eMenu) or for staff to send orders(eWaiter) directly to the Kitchen Ordering System. Data can be managed within the outlet or on the cloud. The CRM and Loyalty come with features such as Rewards Points, Credit Storage, Member Auto Discounts, and SMART SMS promoting. All RevoPOS data can be synced on the cloud for all outlets and generate data insights and managed on the backend and the frontend.
 
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Appz_Inc_Queue_Management_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Appz_Inc_-_FS_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,7 +26,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>

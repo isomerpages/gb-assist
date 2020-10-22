@@ -1,16 +1,15 @@
 ---
-title: 3D Omni Commerce Version 1.03-STANDARD
+title: COVID-19 Support BAS with thermal facial recognition v8-Package E (BAS Visitor Essential and Productivity Essential - 100 Active Profiles, 2 Devices)
 permalink: /productivity-solutions-grant/solutionrepo/solution1392
 ---
 
 #### Description
 
-3D Omni Commerce is a complete end-to-end eCommerce solution for companies that want to take their online businesses to the next level. Promote your products to millions of prospective shoppers by leveraging on some of the most popular online marketplaces such as Shopee, Lazada and Qoo10. With features such as Business Intelligence, Inventory Management, Delivery Management, Gift Voucher option, and many more, 3D Omni Commerce is the best decision that any business can invest in.
-
+Intercorp BAS with thermal facial recognition solution provides for temperature screening and facial recognition of personnel and visitors.  Integrated with a cloud-based web application, it enables businesses and organizations to manage their  workforce and visitors for attendance taking, tracking of visitor movement, and computation of staff working hours.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Intercorp_Temp_Screening_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 97112904 <br>Contact Email: hello@3dbrandagency.com <br>
+Company Name: Intercorp Solutions Pte Ltd <br>Web URL: https://www.intercorpsolutions.com <br>Contact Hotline: 68441488<br>Contact Email: russell@intercorpsolutions. com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

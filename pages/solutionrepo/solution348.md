@@ -1,5 +1,5 @@
 ---
-title: SAGE 300 Version 2019/2020 - Sage 300 v2019/2020 - Package (PREMIUM Edition - 15 Users)
+title: SAGE 300 Version 2019/2020 - Sage 300 v2019/2020 - Package (Advanced Edition - 7 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution348
 ---
 
@@ -12,7 +12,7 @@ Sage 300 accounting software is widely used by small and medium-sized businesses
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Databit_20190015_Annex_3_20200625142031_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Databit_20190015_Annex_3_20200625142031_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Beautec Version 3 centralized version - Package (Standard with HW - 23.8" Screen)
+title: Beautec Version 3 centralized version - Package (Standard without HW)
 permalink: /productivity-solutions-grant/solutionrepo/solution233
 ---
 
@@ -9,7 +9,7 @@ Beautec system aims to simplify the tedious workflow processes of the highly com
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Beautec_Pte_Ltd_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Beautec_Pte_Ltd_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

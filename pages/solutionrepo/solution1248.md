@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support SafePass Facial Recognition Access Control, Fever Screening & Attendance System-Package B (Two Sets)
+title: Globe3 ERP V5.6 - Package (5 Users with Cloud) (PEPPOL Ready)
 permalink: /productivity-solutions-grant/solutionrepo/solution1248
 ---
 
 #### Description
 
-SafePass helps to reduce the manual effort needed for temperature screening, ensuring mask-on compliance, attendance taking and visitor logging. It is  an all-in-one system to take care of temperature screening, access control, leave management and payroll. 
+Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, multi-language integrated business management solution comprising of finance, supply chain, projects, CRM, service and production capabilities, that will improve an organization processes immediately with the enhancements and streamline of key business processes and reduction in informational and operational bottlenecks. Globe3 ERP is used for multiple countries such as Singapore, Malaysia, Vietnam, China and Hong Kong.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Solo_Temp_Screening_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Solo Pte. Ltd. <br>Web URL:www.solo.com.sg<br>Contact Hotline:  65158803<br>Contact Email: ryan@solo.com.sg  <br>
+Company Name:TNO Systems Pte Ltd <br>Web URL: www.globe3.com <br>Contact Hotline: 67498823 <br>Contact Email: sales@globe3.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

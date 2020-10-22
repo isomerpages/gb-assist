@@ -1,15 +1,15 @@
 ---
-title: INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 3 Years
+title: BIMAGE - Autodesk AEC Collection - 3 Year AEC (3 Days training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1221
 ---
 
 #### Description
 
-AEC Collection consists of a set of BIM and CAD tools that support projects from early-stage design through to construction.
+Autodesk's AEC collection equips the Industry to design & construct high quality, data-rich & sustainable solutions for the building industry. It is an extensive & flexible software solution that encompasses all the building & infrastructure typologies development.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_INNOCOM_20200257_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_20200241_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ NA% for non-SMEs
 Nil
 
 #### Contact Information
-Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
+Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

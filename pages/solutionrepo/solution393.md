@@ -1,13 +1,15 @@
 ---
-title: Blast Freezer
+title: Planetary Mixer
 permalink: /productivity-solutions-grant/solutionrepo/solution393
 ---
 
 #### Description
 
-Blast freezers chill food from cooking temperatures ~70 C to about -18 C within 240 min. Prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. 
+Planetary mixer is a versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces
 
-Rapid freezing with blast freezer prevents formation of large ice crystals associated with normal freezers that reduces shelf life, quality and flavour of frozen food. Food frozen with blast freezer can last longer and tastes better. 
+Available as floor-standing or tabletop model, and typically comes with interchangeable utensils such as a dough hook, mixing paddle and whisk.
+
+Ideal for companies dealing with soft food products. 
 
 Grant support: 80% of cost of equipment, up to $30,000 grant
 
@@ -37,11 +39,14 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following:
-- Minimum of 10 trays 
-- Freezer must be able to go below -18?C
-- Ability to load with a trolley (optional)
+? Minimum bowl capacity of 20 liters.
+? Minimally 3 speed options
+? Comes with bowl and minimum of 2 out of 3 tools ? 
+    1) Mixing paddle
+    2) Whisk
+    3) Hook
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: ?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
 

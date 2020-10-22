@@ -1,13 +1,15 @@
 ---
-title: Commercial Inkjet Printer
+title: Automated Tray Sealer
 permalink: /productivity-solutions-grant/solutionrepo/solution307
 ---
 
 #### Description
 
-Commercial inkjet printers integrated into the production lines are used to stamp information directly onto the product packaging. They allow the company to print specific information to individual product packets like bar codes, product information, expiry date. 
+The automatic tray sealer only requires employees to fill up trays with the product (e.g. meat, buns, pasta) and it will automatically seal up each batch.
 
-Grant support: 80% of cost of equipment, up to $24,000 grant
+Typically, these machines can seal several trays at once. 
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 #### Details of Solution
 
@@ -34,9 +36,9 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following specifications:
-- Must be able to integrate with production line (optional)
-- Touchscreen interface, able to manually input datecode/expiry date for products
-- Can automatically print unique barcode for each product from the production line
+- Minimum 400 pieces per hour
+- Must be able to seal at least 2 trays at once (optional)
+- Tabletop size (optional)
 
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

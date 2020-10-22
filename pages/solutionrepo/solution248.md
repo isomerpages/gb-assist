@@ -1,5 +1,5 @@
 ---
-title: CLIO - Package E 5 Users Clio Manage (Boutique) and Xero
+title: CLIO - Package C 3 Users Clio Manage (Boutique) and Xero
 permalink: /productivity-solutions-grant/solutionrepo/solution248
 ---
 
@@ -10,7 +10,7 @@ Comprehensive cloud based Practice and Case Management solution (Clio Manage) pl
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Bizibody_CLIO_Annex 3_CR wef8June2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Bizibody_CLIO_Annex 3_CR wef8June2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,18 +1,20 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version 15 - Microsoft Dynamics 365 Business Central Essentials - SaaS Subscription with 3 Named Users
+title: cuteTrac Version 2 - Package (8 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution334
 ---
 
 #### Description
 
-Microsoft Dynamics 365 Business Central is a complete business solution that can effectively help companies and organizations to manage their financial and operation processes. The flexibility of the software makes it ideal to be configured to fit different business requirements, improve the company's ability to make decisions, and thereby increase the overall productivity of the company.
+cuteTrac is an advanced vehicle tracking solution that helps to manage fleet operations in an efficient manner. It increases the productivity and results in tremendous cost savings.
+
+
 
 
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Dalstech_20190013_Annex_3_20200625141841_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -37,6 +39,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Dalstech Pte Ltd<br>www.dalstech.com<br>Email: sales@dalstech.com<br>Tel: +65 6909 2088
+Cutech Infocomm Solutions Pte Ltd<br>www.cutechgroup.com/it<br>Email: jnaveen@cutechgroup.com / enquiry@cutechgroup.com<br>Tel: +65 6904 2340 / +65 6665 0187
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,11 +1,11 @@
 ---
-title: Warehousing system - forklift
+title: Outdoor road sweeper
 permalink: /productivity-solutions-grant/solutionrepo/solution181
 ---
 
 #### Description
 
-Forklift with load capacity from 1.5 ton to 10 ton, that is able to lift, move and/or stack materials, with only one operator.
+The outdoor road sweeper that is able to provide efficient cleaning of the public roads, site roads, expressways, etc., with only one operator. 
 
 #### Details of Solution
 
@@ -27,14 +27,16 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-70% for SMEs <br>
-70% for non-SMEs
+80% for SMEs <br>
+80% for non-SMEs
 
 #### Things to Note
 Specifications
-Only applicable for licensed cleaning and waste management companies
+- At least 1400mm of sweeping width
+- Hopper volume (>500L)
 
-Grant cap: Up to S$60,000 per unit
+Grant cap: Up to S$320,000 per unit
+
 
 #### Contact Information
 N.A.

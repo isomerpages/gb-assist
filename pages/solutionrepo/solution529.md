@@ -1,5 +1,5 @@
 ---
-title: Stormshield UTM Firewall - SN710 (Twin Pack)
+title: Stormshield UTM Firewall - SN510
 permalink: /productivity-solutions-grant/solutionrepo/solution529
 ---
 
@@ -12,7 +12,7 @@ Stormshield delivers high-performance, best-of-breed security features, ensuring
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_Firewall_Network_20190038_Annex_3_20200625151118_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_Firewall_Network_20190038_Annex_3_20200625151118_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

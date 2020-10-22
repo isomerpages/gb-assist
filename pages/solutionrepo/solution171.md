@@ -1,5 +1,5 @@
 ---
-title: STUDIO MANAGER Version 7 - Package C (Premium)
+title: STUDIO MANAGER Version 7 - Package A (Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution171
 ---
 
@@ -9,7 +9,7 @@ Studio Manager is an enterprise retail POS and CRM solution that integrates mark
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

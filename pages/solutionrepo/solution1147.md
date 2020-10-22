@@ -1,15 +1,15 @@
 ---
-title: Auto Welding Carriage for T-beam/ Stiffener Multiple Welds
+title: LFSuite Version 6.0 - Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)
 permalink: /productivity-solutions-grant/solutionrepo/solution1147
 ---
 
 #### Description
 
-Welding is usually carried out manually by welders or operators of an auto welding carriage. An auto welding carriage mounted to the side-wall can do multiple welding jobs at once, similar to a panel line system with 1 unit being the Master control while the remaining units (min. 2) follow suit using wireless communication. Production line with either 6 or 12 units will only require 1 to 2 welding operators per shift to operate the Master machine while monitoring the overall welding job.
+Optimize your F&B business productivity and operational efficiency with DinePlan, our integrated suite of solutions offered under LFSuite. Our cloud-hybrid POS encompasses digital ordering, waiter ordering, customer ordering and payment. Additional modules include procurement and inventory management, central kitchen management and catering capabilities. All data and configurations are centrally managed by DineConnect, where we will also provide intuitive sales and analytical reports for you.
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Levelfive_20200321_Annex_3_Part_45.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,18 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-MIG and FCAW welding
-Magnet mounting, wireless communication
-Speed, Direction, Weld Selection, Start, Stop controls
-2 travel directions, speed of 0 - 163 cm/min
-DC Motor 24V, 4 rubber wheels, chain and motor drive
-Arm Torch: 40mm Up/down angle and front/back distance, 40-50- welding angle adjuster, 90- travel angle adjuster
-Input Power: AC 220V, 50/60 Hz
-Includes Carriage, Power and torch switch cables 
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contact Hotline: 63417144 <br>Contact Email: SHAWN@LFSOLUTIONS.NET <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

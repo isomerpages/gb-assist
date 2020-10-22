@@ -1,5 +1,5 @@
 ---
-title: Beaufort-Xero Solutions Version Global version - XERO Premium Global Version Package D (Existing Company need some customisation)
+title: Beaufort-Xero Solutions Version Global version - XERO Premium Global Package B (New Business)
 permalink: /productivity-solutions-grant/solutionrepo/solution229
 ---
 
@@ -12,7 +12,7 @@ Beaufort's Xero Solution provides companies with real-time visibility of their f
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Beaufort_Tax_Consultants_20190006_Annex_3_20200625142303_Part_56.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Beaufort_Tax_Consultants_20190006_Annex_3_20200625142303_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

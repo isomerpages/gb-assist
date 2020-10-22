@@ -1,15 +1,15 @@
 ---
-title: Ride-on carpet extractor
+title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package C Moneyworks NOW (3 User)
 permalink: /productivity-solutions-grant/solutionrepo/solution98
 ---
 
 #### Description
 
-A ride-on carpet cleaning machine provides deep cleaning extraction technologies, with liquid solution to remove embedded dirt and debris for carpet flooring. 
+MoneyWorks was built from the ground up for the needs of business, finance and accounting professionals. A powerful, feature rich platform that unlocks your company's accounting data to help you run a better business. With Integration, Moneyworks connects to your POS, E-commerce and third party solutions to keep your accounting solutions lean yet scalable.
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,21 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Specifications
-- Liquid solution tank with minimum capacity of 100 litres; and 
-- Recovery tank with minimum capacity of 100 litres.
-
-Grant cap: Up to S$24,000 per unit
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Advanced Micro Control Pte Ltd<br>http://www.amc.com.sg<br>Email: Sales@amc.com.sg<br>Tel: +65 6589 8818
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

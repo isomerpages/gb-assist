@@ -1,15 +1,18 @@
 ---
-title: Treated Water Generator for Cleaning Purposes
+title: AppPOS (BYOD) Version 4 - Package (PLUS - QR ordering - 3 Outlets)
 permalink: /productivity-solutions-grant/solutionrepo/solution150
 ---
 
 #### Description
 
-A unique set of equipment which produced treated water/ solution that is 100% chemical free and biodegradable. The treated water/solution must not contain any types of chloramine, no colour compounds and not producing any odours/ smell. The treated water/ solution must be safe to use for general cleaning purposes. The equipment is to be used in industrial or commercial premises. Equipment should not produce any residue and the use of the treated water should be rinse-free.
+AppPOS Solution is a highly scalable omni-channel ordering system that fits the purpose of F&B merchants of all concepts/sizes. It allows customers to order food (dine in, takeaway, pre-orders and drive through) via web app and mobile apps for restaurants, quick service restaurants, kiosks/stalls, among many other F&B concepts.
+
+
+
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AppsPOS_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,16 +27,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
-80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Grant Cap: Up to S$40,000 per unit
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+AppsPOS Pte Ltd<br>www.appspos.com<br>Email: kingsley@appspos.com<br>Tel: +65 9028 8123
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

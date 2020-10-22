@@ -1,15 +1,15 @@
 ---
-title: HRSS with WhyzeHR - Package ( 1 - 15 Employees )
+title: STUDIO MANAGER Version 7 - Package C (Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution173
 ---
 
 #### Description
 
-Business Process Review of HR process, outsourcing of HR administrative support and outsourcing of payroll processing with Employee Self-Service system.
+Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. The software evolved since 2002 has targeted beauty operators like spa, aesthetic clinic and salons. It is a proven solution for small to large chains in malls.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Ark_Services_Pte_Ltd_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Ark Services Pte Ltd<br>http://arkservices.com.sg/<br>Email: enquiry@arkservices.com.sg<br>Tel: +65 6873 0911
+Archer Logic (S) Pte Ltd<br>https://www.archerlogic.com/studio-manager/<br>Email: sales_marketing@archerlogic.com<br>Tel: +65 6785 9007
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

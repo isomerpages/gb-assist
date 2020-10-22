@@ -1,15 +1,15 @@
 ---
-title: CalendarOne CRM Solution Ver 2.0 Standard CRM Package - 10 Users Licence
+title: CalendarOne CRM Solution Ver 2.0 - Standard CRM Package
 permalink: /productivity-solutions-grant/solutionrepo/solution263
 ---
 
 #### Description
 
-CalendarOne CRM is a cloud based solution that integrates and automates your entire customer-related business process. It's a centralize platform that enable you to share, track, administer and manage your clients' engagement and experience. From tracking your leads to managing your transactions with clients, it consolidate and share information that enables you to gain deeper insight into your clients info thus helping you identify critical trends, retain clients and increase sales.
+CalendarOne CRM is a cloud based solution that integrates and automates your entire customer-related business process. It's a centralize platform that enable you to share, track, administer and manage your clients'engagement and experience. From tracking your leads to managing your transactions with clients, it consolidate and share information that enables you to gain deeper insight into your clients info thus helping you identify critical trends, retain clients and increase sales.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CalendarOne_Annex_3_CR_wef_5_Oct_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CalendarOne_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:CalendarOne Pte Ltd <br>Web URL:www.calendarone.com <br>Contact Hotline:92485655 <br>Contact Email:francis@calendarone.com <br>
+CalendarOne Pte Ltd<br>www.calendarone.com<br>Email: francis@calendarone.com<br>Tel: +65 9248 5655
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

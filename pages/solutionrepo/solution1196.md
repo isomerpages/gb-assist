@@ -1,15 +1,15 @@
 ---
-title: Gen Collaboration Solution - Microsoft 365 Business Standard + Dell laptop
+title: Shortcuts Version 8 - Shortcuts Fusion + ConnectMe with POS
 permalink: /productivity-solutions-grant/solutionrepo/solution1196
 ---
 
 #### Description
 
-The Adventus Business Laptop Bundle provide for business-grade laptop with collaborative tools and endpoint protection for SME to work remotely and securely. Adventus is providing Software + Laptop bundle - one package (Microsoft Business Standard + Dell Latitude 3410).
+Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and retail businesses. The solution includes functions from appointment booking to point of sales to clients management to inventory to marketing to report and more. Functions can be both online and offline.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adventus-Remote_Collaboration-Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Serixx_20200501_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Adventus Singapore Pte Ltd <br>Web URL: https://adventusasia.com/ <br>Contact Hotline:  6100 3310 <br>Contact Email: info@adventusasia.com<br>
+Company Name:Serixx Business Solutions <br>Web URL: www.serixx.com <br>Contact Hotline: 91092480 <br>Contact Email: info@serixx.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

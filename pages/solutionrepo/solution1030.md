@@ -1,5 +1,5 @@
 ---
-title: Autodesk BIM 360 - Build (10 User Package)
+title: Autodesk BIM 360 - Docs (10 User Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1030
 ---
 
@@ -12,7 +12,7 @@ BIM 360 Build - For construction project management (RFI, Submittal) and Field m
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_20200262_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_20200262_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

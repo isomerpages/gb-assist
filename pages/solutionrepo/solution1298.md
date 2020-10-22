@@ -1,15 +1,15 @@
 ---
-title: Ascent iSPOT Fleet Management System - iSPOT FMS Tracking and Workflow management - Package C (50 Vehicles)
+title: SMEPAYROLL HRMS Version 11 - Professional 150
 permalink: /productivity-solutions-grant/solutionrepo/solution1298
 ---
 
 #### Description
 
-Ascent's iSPOT FMS enable companies to transform their business with data-driven actions on a simple managed platform from the day that they start their fleet. Ascent's positioning in the market on iSPOT FMS has always been cost leadership, commoditizing our solutions and making it available to all companies operating fleets. Installation, guided adoption walkthrough and business hours support flattens the learning curve and allow SME to exact benefits immediately after signing up with us
+SMEPayroll is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_20200326_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Ascent Solutions Pte Ltd <br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com <br>
+Company Name:ADVANCED & BEST TECHNOLOGIES PTE LTD <br>Web URL: www.smepayroll.com <br>Contact Hotline: 68372336 <br>Contact Email: business@smepayroll.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

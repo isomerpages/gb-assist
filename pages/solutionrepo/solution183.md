@@ -1,11 +1,11 @@
 ---
-title: Warehousing system- reach truck
+title: Warehousing system - forklift
 permalink: /productivity-solutions-grant/solutionrepo/solution183
 ---
 
 #### Description
 
-Reach truck with load capacity ranging from 1.2 ton to 2.5 ton, that is able to reach loads located high up in racks, with only one operator. 
+Forklift with load capacity from 1.5 ton to 10 ton, that is able to lift, move and/or stack materials, with only one operator.
 
 #### Details of Solution
 
@@ -34,7 +34,7 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 Specifications
 Only applicable for licensed cleaning and waste management companies
 
-Grant cap: Up to S$20,000 per unit
+Grant cap: Up to S$60,000 per unit
 
 #### Contact Information
 N.A.

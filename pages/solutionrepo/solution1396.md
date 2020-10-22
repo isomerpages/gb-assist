@@ -1,15 +1,15 @@
 ---
-title: Artemis-500 searches for 1 year
+title: COVID-19 Support Rugged Asia's Remote Working Solution-Microsoft Office 365 Business Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution1396
 ---
 
 #### Description
 
-Artemis is the simple, cost-effective one-stop automation of a complex regulatory requirement on Know-Your-Customer (KYC)/Anti-Money Laundering (AML)/Counter-Terrorism Financing (CTF). Artemis is built specifically to address the ever-changing AML/CTF requirements prescribed by regulators in Singapore and elsewhere. Intended for both Financial and non-Financial sectors, it helps regulated businesses to better comply with regulatory requirements on KYC, risk assessment, record keeping, screening and on-going due diligence obligations.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rugged_Asias_Remote_Working_Solution_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.cynopsis.co <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co <br>
+Company Name: Rugged Asia Pte Ltd<br>Web URL: www.ruggedap.com<br>Contact Hotline: 69080898<br>Contact Email: willy@ruggedap.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

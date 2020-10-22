@@ -1,15 +1,15 @@
 ---
-title: Smart Baler System
+title: SAP Business One Version Cloud - HANA Cloud - 3 Subscription Users
 permalink: /productivity-solutions-grant/solutionrepo/solution121
 ---
 
 #### Description
 
-The equipment using sensors to detect and compacts materials automatically to facilitate the transportation of the materials. 
+SAP Business One is an enterprise resource planning (ERP) software designed for small and medium-sized enterprises, sold by the German company SAP SE. As an ERP solution, it aims to automate key business functions in financials, operations, and human resources. SAP Business One currently has over 60,000 customers worldwide.
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,23 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Specifications
-The Smart Baler system must be able to:
-- handle high volume
-- allow hand-free automatic bailing
-- provide variable bale length control
-- conveyor feed compatible
-
-Grant cap: Up to S$160,000 per unit
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:AFON Technologies Pte Ltd <br>Web URL: https://www.afon.com.sg/erp <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

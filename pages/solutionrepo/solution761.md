@@ -1,18 +1,20 @@
 ---
-title: Infusionsoft CRM - Package (Infusionsoft for SME - Single User)
+title: Smart Cabinet
 permalink: /productivity-solutions-grant/solutionrepo/solution761
 ---
 
 #### Description
 
-Infusionsoft CRM is an all-in-one CRM solution that turns a static database into an automated prospect and customer engagement tool. The basic functions also come with mobile responsive in solution email templates and landing page builder. Easily integrate this to company's website and other systems with open API and plugins. It is used by more than 45,000 businesses world-wide, and supported by more than 140 third-party apps. 
+The Smart Cabinet provides continuous stock monitoring and access control to the inventory stored in the Smart Cabinet. User information and usage can be retrieved for tracking and monitoring purpose. The storage system is ideal for storing of consumables and high value items.
 
-
+Grant Support: 
+Direct Purchase: 80% of cost of equipment, up to $21,000 grant 
+Subscription/Leasing: 80% of cost of equipment, up to $8,000/unit/year
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Scale_Up_Marketing_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -27,16 +29,22 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Direct Purchase,Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Mandatory Specification
+- Access controlled and tracked with RFID or other relevant technology
+- Equipped with the necessary sensor to track the essential inventory information stored in the cabinet: Item Description, Stock Quantity
+- Hardware must be linked with a software/ERP system to access the logs and inventory information
+
+Installation and maintenance fee are not supportable.
+?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Scale Up Marketing Pte Ltd<br>https://scaleupmarketing.asia/?utm_source=techdepot<br>Email: brendanyong@scaleupmarketing.asia<br>Tel: +65 9005 6164
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

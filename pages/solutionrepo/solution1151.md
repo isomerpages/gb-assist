@@ -1,17 +1,17 @@
 ---
-title: Million Accounting and Stock Control System Version 3 - Package D (5 Users)
+title: Laser Geometric Alignment System
 permalink: /productivity-solutions-grant/solutionrepo/solution1151
 ---
 
 #### Description
 
-Million Accounting Software is a full-fledged accounting system with a user-friendly interface that is simple to use and enables easy generation of all necessary financial reports with minimum accounting background required. These reports include Profit & Loss, Trial Balance, Balance Sheet and GST reports.
+In the M&O industry, geometric alignment and measurement are needed in many applications such as shaft alignment, line bore applications, flatness/ straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straightedge or use of dial indicators, which are inaccurate and time consuming.
 
-Million Accounting supports Multi-Company and Multi-Currency and has four modules - Accounting, Stock, Invoicing and Payroll.
+Laser geometric alignment systems are quick and easy to deploy, and accurate results can be consistently obtained with minimal rework.  
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200199_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -33,9 +33,18 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Includes display unit, measurement/detector unit, laser transmitter, wireless unit, cables, battery charger, software, manuals
+Measuring errors: +/- 1%
+Measurement range: up to 20m
+Laser class: safety class II
+Laser output: <1 mW
+Safety: IP class 66/67 (measurement/detector, wireless unit), IP class 65 (display unit)
+Operating temperature: 0-50-C
+Charger: 100-240 V AC
+
+Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 #### Contact Information
-Company Name:Rockbell International Software Pte Ltd <br>Web URL: www.rockbell.sg <br>Contact Hotline: 64697720 <br>Contact Email: sales@rockbell.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

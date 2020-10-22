@@ -1,13 +1,13 @@
 ---
-title: Automated Dough Filler/Depositor
+title: Turntable Automated Pallet Cling Wrap Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution303
 ---
 
 #### Description
 
-An automatic depositor portions dough, fillings and batters onto moving or stationary lines. Portions will all be of consistent size no matter who operates the machine. 
+Turntable automatic pallet cling wrap machine require no operator. Pallet loads will be automatically stretch wrapped according to pre-programmed parameters. The only operator intervention required is changing of stretch film when the roll is empty. 
 
-Grant support: 80% of cost of equipment, up to $20,000 grant
+Grant support: 80% of cost of equipment, up to $8,000 grant 
 
 #### Details of Solution
 
@@ -34,9 +34,11 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following specifications:
-- Volume of hopper (to hold the dough), divided dough weight and dough dividing capacity can be customised to suit company?s requirement. 
-- Divided dough weight: Between 7gm to 60gm
-- Dough dividing capacity: between 1s to 5s per piece
+- Automatic cutting of the film at the end of the cycle
+- Rotational speed: 3 rpm to 15 rpm
+- Speed adjustment (optional)
+- Integrated weighing system (optional)
+
 
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

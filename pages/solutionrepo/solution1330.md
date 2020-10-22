@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Face Recognition & Temperature Measurement Device Package B (2 Units)
+title: SentroWeb - Regular DJ 1000
 permalink: /productivity-solutions-grant/solutionrepo/solution1330
 ---
 
 #### Description
 
-It is a device with facial recognition and temperature screening capabilities which does not require the user to be in contact with the device. It allows for WIFI/Mobile access to the cloud database. The device captures the temperature/access-time of visitors and stores the pass/fail status automatically in database. Solution will trigger notification alert based on predefined configuration rules.
+Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) data from Dow Jones or Acuris with SentroWeb powerful search engine and simple workflow, so that you can take the complexities out of AML/CFT compliance, and get straight to business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EWash_Annex3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Ewash Pte Ltd<br>Web URL: www.ewashsg.com<br>Contact Hotline: 9023 6518<br>Contact Email: Joseph.Sun@ewashsg.com
+Company Name:Ingenique Solutions Pte Ltd <br>Web URL: https://www.ingenique.net/sentroweb-djx/ <br>Contact Hotline: 97374694 <br>Contact Email: martin.lim@ingenique.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

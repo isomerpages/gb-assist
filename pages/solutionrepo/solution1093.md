@@ -1,19 +1,16 @@
 ---
-title: (A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Lite 25)
+title: DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3 - DIMMPS
 permalink: /productivity-solutions-grant/solutionrepo/solution1093
 ---
 
 #### Description
 
-INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
-- Transforming HR Software to Cloud
-- Integrated Software enables overall view of the workforce & productivity, performance & efficiency
-- Help HR handle company's compliance challenges and better manage resources.
-- Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
+DIMMPS is a marketing software platform based on the WeChat mobile app.
+The solution aims to provide SME the opportunity to create an online presence. It helps the SME to create more convenience for their customers, influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_HRMS_20200222_Annex_3_20200826091546_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Dodoca_20200240_Annex_3_20200630143800_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -38,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Info-Tech Systems Integrators Pte Ltd <br>Web URL: www.info-tech.com.sg <br>Contact Hotline: 62973398 <br>Contact Email: sales@info-tech.com.sg <br>
+Company Name:DODOCA INFORMATION TECHNOLOGY (S) PTE LTD <br>Web URL: DIMMPS SOLUTIONS <br>Contact Hotline: 97363622 <br>Contact Email: MAIN@DODOCA.COM.SG <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

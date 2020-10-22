@@ -1,15 +1,15 @@
 ---
-title: BIMAGE - Autodesk AEC Collection - 3 Year AEC (3 Days training)
+title: COVID-19 Support Aesthetics Marketing Temperature Monitoring Platform - 1 Device
 permalink: /productivity-solutions-grant/solutionrepo/solution1216
 ---
 
 #### Description
 
-Autodesk's AEC collection equips the Industry to design & construct high quality, data-rich & sustainable solutions for the building industry. It is an extensive & flexible software solution that encompasses all the building & infrastructure typologies development.
+Aesthetics Marketing Temperature Monitoring Platform is a solution that combines non-contact temperature screening, facial recognition and face mask detection with audio and LED light alert. The solution also comes with an attendance management module for staff.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_20200241_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AestheticsMkt_Temp%20Screening_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,12 +28,12 @@ Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-NA% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Nil
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
+Company Name: Aesthetics Marketing Asia Private Limited<br>Web URL: www.aesthetics.com.sq<br>Contact Hotline:67479808<br>Contact Email: gm@aesthetics.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,16 @@
 ---
-title: CoreMatter - Package (12 users)
+title: NetDocuments - Package (12 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution923
 ---
 
 #### Description
 
-CoreMatter is a cloud based, Legal Accounting and Practice Management System, developed on a Client-Matter Workspace structure which empower users to better manage Accounting & Financial Matter, Client Matter, Case Matter to meet the requirement of their clients. In addition, their AML/CFT (Anti Money Laundering Counter Financing Terrorism) module for users to quickly and accurate encode KYC information for their clients, with an approval function from authorised personnel of the firm.
+NetDocuments is  native cloud-based DMS in the legal industry to support of integrations and partnerships. All third-party integrations are written to the single instance NetDocuments service and API integration is provided to support any advanced and custom integrations should they be needed. Furthermore, NetDocuments has a strategic partnership with Microsoft to natively integrate with their Office 365 Web Applications without the use of OneDrive.
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_CoreMatter_Annex_3_CR_wef8June2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Verlata_NetDoc_Annex_3_CR_wef8June2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

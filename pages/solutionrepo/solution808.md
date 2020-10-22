@@ -1,15 +1,17 @@
 ---
-title: COVID-19 Support Singtel Business Laptop Bundle - Package 1 (Microsoft 365 Business Standard)
+title: COVID-19 Support Singtel ONEOffice Enterprise Package (G Suite Enterprise)
 permalink: /productivity-solutions-grant/solutionrepo/solution808
 ---
 
 #### Description
 
-Singtel Business Laptop Bundle provide for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely.
+ONEOffice (powered by Google G-suite)
+ONEOffice is a suite of web-based office solutions that offers  a suite of productivity and collaboration tools. In additional to the standard Google Suites (email, calendar, document, sites & drive, hougouts), ONEOffice include value added services such as; Sending SMS through email box (Pay per use service), Fax through email box (Pay per use service) and customize email signatures across the organisation.
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Business_Laptop_Bundle_Annex_3_CR_wef_15_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-G-Suite_Annex_3_CR_wef21April2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

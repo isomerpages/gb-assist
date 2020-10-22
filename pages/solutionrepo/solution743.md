@@ -1,15 +1,16 @@
 ---
-title: WESS - Wellness Management Software Version 2.0 - WESS Lite
+title: COVID-19 Support Radiance - Microsoft 365 - Package (Enterprise E3)
 permalink: /productivity-solutions-grant/solutionrepo/solution743
 ---
 
 #### Description
 
-WESS, a leading professional cloud management software made easy for the Beauty, Hair, Nail, Spa & Wellness businesses in Singapore & Asia.
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Radiance-Office_365_Annex_3_CR_wef_9_June_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Refine Solutions Pte Ltd <br>Web URL: www.wessconnect.com <br>Contact Hotline: 66028212 <br>Contact Email: contactus@wessconnect.com <br>
+Radiance Communications Pte Ltd<br>https://radiancecomms.com.sg<br>Email: enquiries@radiancecomms.com<br>Tel: +65 6395 2000
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

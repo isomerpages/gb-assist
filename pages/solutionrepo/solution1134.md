@@ -1,15 +1,15 @@
 ---
-title: BOTG Version 1.0 - Standard
+title: COVID-19 Support JY-Hikvision Package A (1 Unit)
 permalink: /productivity-solutions-grant/solutionrepo/solution1134
 ---
 
 #### Description
 
-Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
+JY Cloud VMS with Hikvision facial recognition & fever screening solution enables automation of these processes with uncompromising security features. With this solution, building management can grant access to tenants, staffs and all visitors while keeping track of entry records.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_20200064_Annex_3_Revised_CR_wef_7_Sept_2020v2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_JYComm_Annex_3_ver2_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
+Company Name: JYComm Pte Ltd<br>Web URL: WWW.JY-COMM.COM<br>Contact Hotline: 62899909 <br>Contact Email: SALES@JY-COMM.COM<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

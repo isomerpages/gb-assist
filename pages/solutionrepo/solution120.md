@@ -1,11 +1,15 @@
 ---
-title: Side-loader waste collection system
+title: Secure Locking System for Access Control
 permalink: /productivity-solutions-grant/solutionrepo/solution120
 ---
 
 #### Description
 
-The side loader system, which comprises of a side loading compactor body mounted onto a vehicle chassis and the use of compatible collection bins, allows the driver to remotely operate the collection process in the cabin. The collection vehicle must be fitted with an on board camera system for ease of visibility of remote side loading operation and safety, a tonnage monitoring system for the tracking of tonnage of waste/recyclables collected in each premises.
+The locking system leverages on functional elements of a lockset and the latest technologies to meet enterprise application demands. Solution helps to improve existing solution where reliable and flexible multiple access control is required for the secured spaces. 
+
+The secure element provides tamper-proof security and stores all type of sensitive information. Solution leverages on industry standard encryption technologies.
+
+Grant support: 80% of cost of equipment, up to $16,000 grant
 
 #### Details of Solution
 
@@ -24,21 +28,23 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Specifications
-- Minimum Compaction Ratio:  3
--Minimum Compactor Volume: 15 cubic metres
-- The compatible bins must be compliance to EN 12574 or equivalent with a minimum bin capacity of 1800L.
-? Cost of chassis is not supported
+- Automate access request and provisioning
+- Physically secure spaces without the need for power supply to operate 
+- Provide traceability of all access into the secured spaces
+- Installed with Management software to administer access to users
+- Installation cost is supported
+- Maintenance cost is not supported
 
-Grant cap: Up to S$192,000 per unit
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
+No change in vendor allowed
 
 #### Contact Information
 N.A.

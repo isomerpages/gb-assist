@@ -1,15 +1,15 @@
 ---
-title: SAP Business One Version Cloud - HANA Cloud - 7 Subscription Users
+title: Smart Waste Oil Collection System
 permalink: /productivity-solutions-grant/solutionrepo/solution128
 ---
 
 #### Description
 
-SAP Business One is an enterprise resource planning (ERP) software designed for small and medium-sized enterprises, sold by the German company SAP SE. As an ERP solution, it aims to automate key business functions in financials, operations, and human resources. SAP Business One currently has over 60,000 customers worldwide.
+The Smart Waste Oil Collection System, which is equipped with diagnostics, fill-level sensors and data management system, transports waste oil from the fryer to the waste oil containment tank with minimal human intervention. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -24,16 +24,22 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
-N.A. for non-SMEs
+80% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Specifications
+- Oil must be transferred directly from fryer to waste oil containment tank without an intermediate caddy
+ 
+- Containment tank must be equipped with fill-level sensors, data management system and diagnostics functions
+
+
+Grant cap: Up to S$72,000 per unit
 
 #### Contact Information
-Company Name:AFON Technologies Pte Ltd <br>Web URL: https://www.afon.com.sg/erp <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,13 +1,13 @@
 ---
-title: Automated Cake Slicer
+title: Automated Carton Erector System
 permalink: /productivity-solutions-grant/solutionrepo/solution302
 ---
 
 #### Description
 
-Automated cake slicer is capable of cutting a variety of cakes. The machine features product holders and fully automatic product positioning, indexing, and divider insert feeding. Portions will all be of consistent size no matter who operates the machine. 
+Automatic carton sealers are case equipment that seals the top or bottom of a case with tape or glue. Typically, the minor corrugated flaps are kicked and plowed closed as the cases are transferred. As the cases enter the compression section, the major flaps of the carton are closed and a hot-melt adhesive is applied. 
 
-Grant support: 80% of cost of equipment, up to $24,000 grant
+Grant support: 80% of cost of equipment, up to $30,000 grant 
 
 #### Details of Solution
 
@@ -34,11 +34,9 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following specifications:
-- Blade cutting or ultrasonic cutting
-- 2 to 24 portions per product
-- Speed: up to 360 cakes per hour
-- Touch panel with memory setup (optional)
-- Easily changed bottom plate (optional)
+- Approx 8 - 12 cartons per minute, depending on carton's size and material
+- Tape width 2  or 3 , depending on customer?s needs (optional)
+- Cardboard temporary stock, 50 to 70 pc (optional)
 
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

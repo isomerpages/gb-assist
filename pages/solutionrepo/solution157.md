@@ -1,15 +1,19 @@
 ---
-title: ABSS Premier Version 23 - Package A with E-Invoicing (1-User)
+title: COVID-19 Support RevoPOS 3.0 Queue Management System - Package A (RevoQ Contactless)
 permalink: /productivity-solutions-grant/solutionrepo/solution157
 ---
 
 #### Description
 
-Formerly known as MYOB, ABSS Premier is designed to help SMEs take care of your transactions and business in a simple and easy way. Besides AR, AP, GL, Inventory, Banking & GST all seamlessly integrated, ABSS Premier also integrates with local bank, IRAS GST portal & PEPPOL e-invoicing network. ABSS Premier features multi-currencies, project & departmental costing, multi-warehouses dedicated to making your business work and access to updates about your accounting and business operation with ease
+RevoPOS 3.0 Queue Management System is a cloud cross platform system that runs on Windows (laptop or embedded system) or on iPad or Android tablet. The solution provides contactless system with automated queue number alerts/reminders and update on queue status.
+
+
+
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Appz_Inc_Queue_Management_Covid_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-APSCOM SOLUTIONS<br>www.apscomsolutions.com<br>Email: carol.kok@apscomsolutions.com<br>Tel: +65 9720 6813
+Appz Inc Pte Ltd<br>https://getrevopos.com/<br>Email: sales@appzinc.biz<br>Tel: +65 6815 5808
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,19 @@
 ---
-title: Walk behind sweeper
+title: ABSS Premier Version 23  -  Package (Single User with E-Invoicing)
 permalink: /productivity-solutions-grant/solutionrepo/solution180
 ---
 
 #### Description
 
-The walk-behind sweeper that is able to provide consistent cleaning sweeping performance, with only one operator.
+ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
+
+
+
+
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Annex_3_CR_wef_4th_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,21 +28,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Direct Purchase
 
 #### Support Level
-60% for SMEs <br>
-60% for non-SMEs
+80% for SMEs <br>
+N.A. for non-SMEs
 
 #### Things to Note
-Specifications
-- Cordless technology (wireless)
-- Covers at least 1000sqm per hour
-- Hopper volume (>30L)
-
-Grant cap: Up to S$12,000 per unit
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+ABSS (formerly known as MYOB)<br>www.abssasia.com<br>Email: cs.sg@abssasia.com<br>Tel: +65 6505 6582
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

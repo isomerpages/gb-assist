@@ -1,11 +1,11 @@
 ---
-title: Warehousing system - pallet transporter/stacker
+title: Walk behind sweeper
 permalink: /productivity-solutions-grant/solutionrepo/solution182
 ---
 
 #### Description
 
-Pallet with load capacity ranging from 1.2 ton to 2.5 ton, that is able to transport or stack the pallets, with only one operator.
+The walk-behind sweeper that is able to provide consistent cleaning sweeping performance, with only one operator.
 
 #### Details of Solution
 
@@ -27,14 +27,16 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-70% for SMEs <br>
-70% for non-SMEs
+60% for SMEs <br>
+60% for non-SMEs
 
 #### Things to Note
 Specifications
-Only applicable for licensed cleaning and waste management companies
+- Cordless technology (wireless)
+- Covers at least 1000sqm per hour
+- Hopper volume (>30L)
 
-Grant cap: Up to S$10,000 per unit
+Grant cap: Up to S$12,000 per unit
 
 #### Contact Information
 N.A.

@@ -1,15 +1,15 @@
 ---
-title: Microsoft Office 365 E3 + Dell laptop
+title: Microsoft Office 365 E3
 permalink: /productivity-solutions-grant/solutionrepo/solution1073
 ---
 
 #### Description
 
-VGC's package provides for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technologies-Bundle_B_(Software%20+%20Laptop)_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technology_Bundle_A_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

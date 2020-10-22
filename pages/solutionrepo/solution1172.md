@@ -1,15 +1,15 @@
 ---
-title: (eScheduling) QuickHR - Cloud eScheduling - Essential 25
+title: Xero accounting software - ASL Advisory - Xero setup, subscription, training, migration of past year data
 permalink: /productivity-solutions-grant/solutionrepo/solution1172
 ---
 
 #### Description
 
-QuickHR eScheduling offers cutting-edge cloud-based Automated Scheduling & Workforce Management solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of eScheduling and Workforce Management. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
+Xero is an accounting software for small business that lives in the cloud and works anywhere you do. This means that you can automate everyday business tasks, get up to date financials and run your business from wherever you are. Xero also connects to the Peppol E-invoicing network launched by IMDA to speed up your invoicing process. It can get you paid faster by your customers and help you maintain healthy cash flow in your business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Enable Business Pte Ltd <br>Web URL: www.quickhr.co <br>Contact Hotline: 69088158 <br>Contact Email: business@quickhr.co <br>
+Company Name:ASL Advisory Pte. Ltd. <br>Web URL: www.asladvisory.com <br>Contact Hotline: 96607769 <br>Contact Email: Contact@asladvisory.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

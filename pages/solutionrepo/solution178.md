@@ -1,19 +1,15 @@
 ---
-title: ABSS Premier Version 23  -  Package (Single User with E-Invoicing)
+title: HRSS with WhyzeHR - Package ( 51 - 100 Employees )
 permalink: /productivity-solutions-grant/solutionrepo/solution178
 ---
 
 #### Description
 
-ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
-
-
-
-
+Business Process Review of HR process, outsourcing of HR administrative support and outsourcing of payroll processing with Employee Self-Service system.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Annex_3_CR_wef_4th_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Ark_Services_Pte_Ltd_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -38,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-ABSS (formerly known as MYOB)<br>www.abssasia.com<br>Email: cs.sg@abssasia.com<br>Tel: +65 6505 6582
+Ark Services Pte Ltd<br>http://arkservices.com.sg/<br>Email: enquiry@arkservices.com.sg<br>Tel: +65 6873 0911
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

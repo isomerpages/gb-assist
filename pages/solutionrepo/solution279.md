@@ -1,11 +1,11 @@
 ---
-title: Industrial Steam Cleaner
+title: Electric pallet transporter/stacker
 permalink: /productivity-solutions-grant/solutionrepo/solution279
 ---
 
 #### Description
 
-The industrial steam cleaner comes with powerful steam pressure for continuously cleaning of dirt removal and grease cleaning easily. Besides cleaning, it can performs disinfection such as killing pathogens and bacteria. The equipment is an eco-friendly way of cleaning through steam pressure without any use of chemicals and not harmful to the user or the environment.
+Pallet with load capacity ranging from 1.2 ton to 2.5 ton, that is able to transport or stack the pallets, with only one operator.
 
 #### Details of Solution
 
@@ -27,17 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-60% for SMEs <br>
-60% for non-SMEs
+80% for SMEs <br>
+80% for non-SMEs
 
 #### Things to Note
 Specifications
-The industrial steam cleaner should have at least 
--	Steam pressure > 1 bar/120 degree Celsius
--	Tank capacity > 1 litre
- 
-
-Grant cap: Up to S$6,000 per unit
+Only applicable for licensed cleaning, waste management and pest management companies
+Grant cap: Up to S$16,000 per unit
 
 #### Contact Information
 N.A.

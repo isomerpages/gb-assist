@@ -1,15 +1,17 @@
 ---
-title: iREP Workforce Management System Version 2 - Package (Essential)
+title: iREP Security Visitor Management System Version 3
 permalink: /productivity-solutions-grant/solutionrepo/solution419
 ---
 
 #### Description
 
-iREP Workforce Management System is a mobile reporting, maintenance tracking and monitoring system which allows all the service aspects to be integrated using mobility from planning, development and delivery of services either to the organisation itself or to third parties.  Within the service framework in this application, it allows mobile reporting, maintenance tracking and monitoring work progress to meet quality standards.
+iREP Security Visitor Management System is an automated modernise way of recording visitor coming in and out of the building premises.  It plays the critical role of allowing to manage and differentiate between authorized visitors, who should be granted card access and illegitimate visitors who should be denied entry with the blacklist and whitelist functions.
+
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Gabkotech_VMS_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,10 +30,10 @@ Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Only applicable for licensed cleaning, waste management and pest management companies
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkotech.com<br>Tel: +65 6684 4419

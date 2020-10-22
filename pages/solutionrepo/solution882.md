@@ -1,15 +1,15 @@
 ---
-title: Times Software HRMS Version 18.0 - Cloud Based Package 2 (up to 50 pax)
+title: Westlaw Asia - Option 3 & Practical Law Plus Package (for 10 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution882
 ---
 
 #### Description
 
-TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management. 
+Westlaw Asia is a well-known power legal research tool for law firms with its search engine leveraging on natural language and terms & connectors defined within the solution. It allows law firms to easily and quickly find relevant legal literature on both small and large scale searches. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Times_Software_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/WestLaw_Asia_Annex_3_Final_ext_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -33,7 +33,9 @@ N.A. for non-SMEs
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
+SLPs who have enjoyed subsidy under Tech Start for Law for Online Legal Research may be eligible to apply for PSG if the solution is different from that of what was previously adopted, and assessed on a case-by-case basis.
+
 #### Contact Information
-Times Software Pte Ltd<br>https://www.timesoftsg.com.sg/<br>Email: sales@timesoftsg.com.sg<br>Tel: +65 6295 1998
+Thomson Reuters Corporation Pte Ltd<br>https://www.thomsonreuters.com.sg<br>Email: Shay.Delgado@thomsonreuters.com / keith.tan@thomsonreuters.com<br>Tel: +65 6417 4150 / +65 9863 3500
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

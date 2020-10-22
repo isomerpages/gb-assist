@@ -1,5 +1,5 @@
 ---
-title: KYBIO Version 3.0.9.3 - Package (Basic - Windows)
+title: KYBIO Version 3.0.9.3 - Package (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution942
 ---
 
@@ -10,7 +10,7 @@ Cloud-Based POS System with product management, inventory management, promotion 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Weebo_20200141_Annex_3_20200625151603_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Weebo_20200141_Annex_3_20200625151603_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: ABSS Premier Version 23.0 - Package C (Three User Licence full package with remote access)
+title: ABSS Premier Version 23.0 - Package A (Single User Licence full package)
 permalink: /productivity-solutions-grant/solutionrepo/solution141
 ---
 
@@ -9,7 +9,7 @@ ABSS premier is an on-premise full fledge and integrated accounting, sales, inve
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,16 +1,15 @@
 ---
-title: ONE LOGON - ONE LOGistics Online - Package 2 (iWMS On-Premise)
+title: COVID-19 Support KR AI Temperature Monitoring Access Control Platform - Package D (3 Set)
 permalink: /productivity-solutions-grant/solutionrepo/solution549
 ---
 
 #### Description
 
-ONE LOGON is an integrated Supply Chain & Logistics software solution comprises of Warehouse Management, Transport Management, Freight Management, Container Management modules.
-KEYfields leverages on technology, developing IT solutions that are versatile and cost effective. The solutions can easily integrate into and across other business centric modules. In addition, they can be deployed independently to cater to different business needs.
+The solution has a built in Heimann Temperature Sensor made in Germany, it can measure forehead and facial skin temperature at the same time accurate to 0.1 degree Celsius at a distance of 60 -100cm. When it detects a person, facial recognition is done and if the person has high fever, there is an audio warning and prevents entering the premises.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/KEYfields_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_KentRidge-Annex_3_CR_Class_A_wef_13_August_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-KEYfields Pte. Ltd.<br>www.keyfields.com<br>Email: kenny@keyfields.com<br>Tel: +65 6842 7886
+Kent Ridge Healthcare Singapore Private Limited<br>http://kentridgehealth.com/covid19-support/<br>Email: jenifer.goh@kentridgehealth.com<br>Tel: +65 9022 8129
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

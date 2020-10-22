@@ -1,11 +1,11 @@
 ---
-title: Ride-on Industrial Sweeper
+title: Ride-on carpet extractor
 permalink: /productivity-solutions-grant/solutionrepo/solution100
 ---
 
 #### Description
 
-Ride-on motorised industrial sweeper machine driven by 1 operator that provides consistent  sweeping for outdoor and indoor use.
+A ride-on carpet cleaning machine provides deep cleaning extraction technologies, with liquid solution to remove embedded dirt and debris for carpet flooring. 
 
 #### Details of Solution
 
@@ -31,7 +31,12 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 80% for non-SMEs
 
 #### Things to Note
-Grant cap: Up to S$112,000 per unit
+Specifications
+- Liquid solution tank with minimum capacity of 100 litres; and 
+- Recovery tank with minimum capacity of 100 litres.
+
+Grant cap: Up to S$24,000 per unit
+
 
 #### Contact Information
 N.A.

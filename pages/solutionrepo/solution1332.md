@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support FR-19 Pro Package B (2 Units)
+title: COVID-19 Support Smart Auto-Temperature Screening SATS solution Version 1 Standard Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1332
 ---
 
 #### Description
 
-This is a true contactless thermal scanner with face recognition tablet programmed for SMEs to combat the coronavirus without the need for additional manpower that drives the operational cost. 
+Machex Smart Auto-Temperature Screening(SATS) Solution is integrated with cloud-based forms linked to the health declaration portal via wireless connectivity. The solution is easy to deploy, and works seamlessly with SafeEntry digital check-in system and COVID-19 Health Declaration platform to identify unhealthy personnel and support critical Contact Tracing functions.  
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EDviston_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Machex_Temp_Screening_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: ED Viston Pte Ltd<br>Web URL: www.edviston.com<br>Contact Hotline: 6680 6084 <br>Contact Email: Darren.tee@edviston.com
+Company Name: MaCh eX PTE LTD<br>Web URL:  https://machex.com.sg/ <br>Contact Hotline: 67473080 <br>Contact Email: ivan@machex.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

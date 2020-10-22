@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Facial Biometric Thermometer Version 2.0-Package A (Per Bundle x 3)
+title: Magento and WooCommerce Solutions for Retail - Advanced WooCommerce Ecommerce by Verz Design (Amber)
 permalink: /productivity-solutions-grant/solutionrepo/solution1251
 ---
 
 #### Description
 
-Zoom Visual's Facial Biometric Thermometer Solution is a solution integrates with contactless body temperature taking, facial recognition and door access to automate visitors and employees' access into the premise. 
+Verz Design is one of the key and leading players when it comes to providing Magento/WooCommerce eCommerce solutions. Magento/WooCommerce offers a comprehensive backend with customisable plug-ins for your business. Highly suitable for companies with complex operations, Magento/WooCommerce is a robust application that showcases incredible functionality and is the most scalable among the three solutions.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Zoom_Visual_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: ZOOM VISUAL PTE LTD<br>Web URL: WWW.ZOOMVISUAL.COM.SG<br>Contact Hotline:  62822508 <br>Contact Email: LILI.LEE@ZOOMVISUAL.COM.SG <br>
+Company Name:Verz Design Pte Ltd <br>Web URL: https://www.verzdesign.com/our-services <br>Contact Hotline: 68411680 <br>Contact Email: enquiry@verzdesign.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

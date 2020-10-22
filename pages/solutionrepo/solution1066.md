@@ -1,15 +1,15 @@
 ---
-title: Microsoft Office 365 Business Basic + Acer laptop
+title: Package B (2 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution1066
 ---
 
 #### Description
 
-The solution provides for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely.
+ProLight SPMP is an all-in-one military grade face recognition with temperature scanning equipped, industrial-class binocular camera, live face recognition technology and infrared thermal imaging module.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Interaccion-Laptop_Bundle-Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EP-Tec_Annex_3_ver2_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Interaccion LLP<br>Web URL: http://www.theinteraccion.com <br>Contact Hotline: 66357119<br>Contact Email: steve@theinteraccion.com <br>
+Company Name: EP-Tec Solutions Pte Ltd<br>Web URL: https://www.eptecstore.com/prolight-face-recognition-with-temperature-scanning<br>Contact Hotline: 62946505<br>Contact Email: larryyap@ep-asia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

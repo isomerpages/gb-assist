@@ -1,19 +1,17 @@
 ---
-title: BonaForce - bonaFORCE Premium
+title: BonaEcom - Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution257
 ---
 
 #### Description
 
-bonaFORCE is a CRM created specially for the SMEs.
+eCommerce equipped by WooCommerce and Wordpress. 
+Bona Technologies is a proud partner of Wordpress.com
 
-Consolidating feedback, issues & suggestions over the past decade as well as with a view to the future and in light of the current economical challenges, Bona Technologies is proud to present bonaFORCE with specialized features to support SMEs in terms of economical marketing, tasks & issues follow up, customer surveys, digital name-card and brochure & more.
-
-Developed by SMEs, for SMEs. bonaforce is a Singapore-grown solution. #SGUnited
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaEcom_20200152_Annex_3_20200625151725_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

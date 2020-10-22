@@ -1,16 +1,15 @@
 ---
-title: AutoCount Accounting - AutoCount Accounting Basic V2.0 ( 3 Users)
+title: Solar AppScreener Version 3.4.0 - 1-Month Unlimited SaaS
 permalink: /productivity-solutions-grant/solutionrepo/solution194
 ---
 
 #### Description
 
-Since being established in 1996, AutoCount has grown into the TOP SME brands, serving more than 180,000 SMEs across the region. AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. Flexibility, expandability, and ease-to-use are the features we develop, you can be assured of when your business grows, we able to sustain your development needs.
-
+SMEs & enterprises procure 3rd-party applications frequently. Unfortunately, source code is not available as applications come with just run-time binaries. This is risky for purchaser with internet fronting applications. AppScreener provides means to check undocumented features, back doors, bad programming practices, OWASP Top 10, CVE, CWE by scanning the binaries. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AthenaDynamics_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -32,9 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Autocount (S) Pte Ltd<br>www.autocountsoft.com.sg<br>Email: sales.sg@autocountsoft.com<br>Tel:+65 8321 9689
+Athena Dynamics Pte Ltd<br>https://athenadynamics.com/solution/solar-appscreener<br>Email: kensoh@athenadynamics.com<br>Tel: +65 6210 2354
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

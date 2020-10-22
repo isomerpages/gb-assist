@@ -1,15 +1,17 @@
 ---
-title: Shopcada Ecommerce and POS - Shopcada Premium  Ecommerce Package
+title: XERO CLOUD ACCOUNTING SOFTWARE - Xero Basic Package
 permalink: /productivity-solutions-grant/solutionrepo/solution934
 ---
 
 #### Description
 
-Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, POS for Retail Shops, Mobile Application as well as is integrated with Online Marketplaces such as Shopee, Lazada and Zalora. With Shopcada, business owners manage their business that spans across the different channels within a single dashboard. With GMV processed in 2019 exceeding SGD50M, Shopcada has already proven itself as a reliable and user friendly platform for sellers.
+Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
+By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Webcada_20200035_Annex_3_20200625152216_Part_34.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/WLP_Xero_Annex_3_CR_wef_30Jun2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +26,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription / Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Webcada Pte. Ltd.<br>https://www.shopcada.com<br>Email: sales@webcada.com<br>Tel: +65 6334 3168
+W.L.P PTE LTD<br>https://www.wlp.com.sg/<br>Email: info@wlp.com.sg<br>Tel: +65 6493 2970
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,16 +1,15 @@
 ---
-title: COVID-19 Support M1 Remote Working Laptop Suite (Microsoft 365 Business Standard)
+title: COVID-19 Support M1 Cisco Webex Meeting Service
 permalink: /productivity-solutions-grant/solutionrepo/solution595
 ---
 
 #### Description
 
-M1 Remote Working Suite is a complete all-in-one bundle to enable you to work remotely and still collaborate actively with both your colleagues and customers. This is an all-in-one bundle that comprises of laptop, security software, collaboration tool, office applications and IT support (from initial setup to technical assistance) to provide you with a fuss free experience as you focus in driving your business.
-
+Cisco Webex Meeting is a feature-rich solution that allows for collaborative meetings and supports multiple mobile devices, including iPhone, iPad, Apple Watch, Android and Android wearables. Meetings can be recorded, edited and playback. Webex has started trials in Mar 2020 to use AI to provide for a digital in-meeting assistant that handles transcripts, note taking and highlights, freeing the participants to fully focus on the meeting.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_M1-Remote_Laptop_Annex_3_CR_wef_15_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/M1-CiscoWebex_Annex_3_CR_Wef_21_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

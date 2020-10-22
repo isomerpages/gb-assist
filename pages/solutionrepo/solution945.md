@@ -1,18 +1,16 @@
 ---
-title: WhyzeHR Management System Version 12 - Package (25 Standard)
+title: KYBIO Version 3.0.9.3 - Package (Basic + Mall Integration)
 permalink: /productivity-solutions-grant/solutionrepo/solution945
 ---
 
 #### Description
 
-WhyzeHR enables SMEs of all size to keep track of their labour force, forecasting labour requirements, facilitate day to day employee management and providing financial reporting to the account department. The solution helps HR to stay compliance and providing cost saving and efficiency through the elimination of paper.
-
-
+Cloud-Based POS System with product management, inventory management, promotion management and sales analytics module. Designed for Retail, F&B, QSR chains and the Service line.
 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Whyze_Solutions_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Weebo_20200141_Annex_3_20200625151603_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -37,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Whyze Solutions Pte Ltd<br>http://www.whyze.com.sg/hrms/<br>Email: enquiry@whyze.com.sg<br>Tel: +65 6838 0161
+Weebo Pte Ltd<br>https://www.weebo.com.sg/shop/<br>Email: admin@weebo.com.sg<br>Tel: +65 6850 5177
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

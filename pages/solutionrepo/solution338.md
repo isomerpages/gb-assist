@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version 15 - Microsoft Dynamics 365 Business Central Essentials - Subscription with 5 Named Users
+title: Microsoft Dynamics 365 Business Central Version 15 - Microsoft Dynamics 365 Business Central Essentials - SaaS Subscription with 10 Named Users
 permalink: /productivity-solutions-grant/solutionrepo/solution338
 ---
 
@@ -12,7 +12,7 @@ Microsoft Dynamics 365 Business Central is a complete business solution that can
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Dalstech_20190013_Annex_3_20200625141841_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Dalstech_20190013_Annex_3_20200625141841_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

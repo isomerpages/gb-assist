@@ -1,17 +1,15 @@
 ---
-title: Equip Wholesale Solutions Version 3 - Package (Basic)
+title: CSG - Autodesk AEC Collection - Single User 3-year Subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution1224
 ---
 
 #### Description
 
-EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. 
-The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. 
-With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
+The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and AutoCAD, enabling designers, engineers, and contractors to efficiently deliver high quality building and infrastructure projects. With the AEC Collection, teams can create in new ways, explore what's possible, and build with confidence.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_20200236_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -30,12 +28,12 @@ Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
-N.A. for non-SMEs
+NA% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Nil
 
 #### Contact Information
-Company Name:Edgeworks Solutions Pte Ltd <br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg <br>
+Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

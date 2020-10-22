@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support M1 - Microsoft 365 - Package (Business Standard)
+title: COVID-19 Support VirtuaQ Cloud Version 5.1 - Online QMS with 30k SMS bundle
 permalink: /productivity-solutions-grant/solutionrepo/solution594
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications (Word, Excel, PowerPoint, OneNote, Outlook, Publisher, Sway, and Access) into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
+The VirtuaQ Queue Management System is a cloud platform system that can notify customers via browser-based alerts or SMS.  The solution facilitates contactless and automated queue number alerts/reminders and updates on queue status. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/M1-Office365_Annex_3_CR_wef_21_April_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Lucep-VirtuaQ_Cloud_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-M1 Net Limited<br>https://www.m1.com.sg/Business/business-continuity-package<br>Email: business@m1.com.sg
+Lucep Pte Ltd<br>https://virtuaq.com/singapore-queue-management-system<br>Email: kaiesh@lucep.com<br>Tel: +65 8484 7793
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

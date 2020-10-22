@@ -1,5 +1,5 @@
 ---
-title: Octopus Food Solution Version 7 - Package D (Bundle of 2 Self-Checkout Kiosk)
+title: Octopus Food Solution Version 7 - Package A (Single Store Mobile Ordering)
 permalink: /productivity-solutions-grant/solutionrepo/solution673
 ---
 
@@ -10,7 +10,7 @@ Octopus Food Solutions provides a complete suites of innovative and easy-to-use 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

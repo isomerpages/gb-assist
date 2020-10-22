@@ -1,15 +1,19 @@
 ---
-title: COVID-19 Support Concorde Automated Temperature Screening Solution - Package A (1 Unit)
+title: Vacuum Packaging Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution310
 ---
 
 #### Description
 
-A tablet based automated self-help temperature-scanning system that allows temperature checks and employee attendance to be conducted without the involvement of any personnel. 
+The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products are placed in trays and then loaded into the vacuum chambers, after which a plastic film will be used to seal in the product. 
+
+The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. 
+
+Grant support: 80% of cost of equipment, up to $30,000 grant
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Concorde_Annex_3_CR_wef_15_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -31,9 +35,17 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Equipment must meet the following specifications:
+- Able to seal multiple products at a time
+- Digital interface for ease-of-use
+
+Additional criteria:
+- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- The purchase of pre-owned/used equipment is not supportable.
+
+No change in vendor allowed
 
 #### Contact Information
-Company Name: Concorde Security Pte Ltd<br>Web URL: www.concordesecurity.com<br>Contact Hotline: 62960808<br>Contact Email: imelda.a@concorde.com.sg
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
