@@ -1,16 +1,11 @@
 ---
-title: Digital Welding Equipment 
-permalink: /productivity-solutions-grant/solutionrepo/solution1294
+title: Flange Spreader
+permalink: /productivity-solutions-grant/solutionrepo/solution1481
 ---
 
 #### Description
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
+The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
 #### Details of Solution
 
@@ -36,11 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Current adjusting range: minimally +/- 150A
-Digital function: digitally compute actual real-time output of voltage, provide data logging
-Safety: minimally IP21S
-Includes: welding set, earth cable with clamps and connectors, welding harness, welding monitoring software license
-Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 N.A.

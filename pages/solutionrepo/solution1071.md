@@ -1,5 +1,5 @@
 ---
-title: Microsoft 365 Business Standard
+title: COVID-19 Support VGC Online Collaboration Tool-Microsoft 365 Business Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1071
 ---
 
