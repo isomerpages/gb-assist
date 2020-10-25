@@ -1,5 +1,5 @@
 ---
-title: SQL Account Version 5-Package A (1 User)
+title: SQL Account Version 5-Package B (Advance - 1 User)
 permalink: /productivity-solutions-grant/solutionrepo/solution1441
 ---
 
@@ -9,7 +9,7 @@ SQL Account includes full range of business features including AR, AP, GL, Inven
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Vehicle Support System - Vehicle Support System (12 Vehicles Package)
+title: Vehicle Support System - Vehicle Support System (14 Vehicles Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1312
 ---
 
@@ -9,7 +9,7 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

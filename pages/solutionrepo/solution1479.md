@@ -1,11 +1,11 @@
 ---
-title: Torque Multiplier
+title: Bristle Blaster / Cup Brush / Power Brush
 permalink: /productivity-solutions-grant/solutionrepo/solution1479
 ---
 
 #### Description
 
-The electrically powered torque multiplier is a compact and lightweight tool that provides repeatable precision when tightening bolts. The torque and angle settings are determined on the display which enables a convenient way of controlling the tool. Time is also saved during operation.
+The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120µm. Time is also saved during operation.
 
 #### Details of Solution
 

@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support VGC Online Collaboration Tool-Microsoft Office 365 Business Basic
+title: Microsoft Office 365 Business Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1074
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: Octopus Retail Solution-Package C (Multi Terminal + CRM)
+title: Octopus Retail Solution-Package D (Multi Terminal + eCommerce)
 permalink: /productivity-solutions-grant/solutionrepo/solution1457
 ---
 
@@ -11,7 +11,7 @@ Our solutions help retail owners run sales and promotions, track inventory, mana
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

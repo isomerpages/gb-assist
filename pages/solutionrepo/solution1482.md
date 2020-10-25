@@ -1,11 +1,11 @@
 ---
-title: Hydraulic Nut Splitter
+title: AxiomSL MAS 610 SaaS version 4-Package (Basic Data Loading)
 permalink: /productivity-solutions-grant/solutionrepo/solution1482
 ---
 
 #### Description
 
-The hydraulic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
+AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
 
 #### Details of Solution
 
@@ -27,11 +27,12 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80% for SMEs <br>
+30% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+For MAS Notice 610 and Notice 1003 Regulatory Reporting.
+Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
 
 #### Contact Information
 N.A.

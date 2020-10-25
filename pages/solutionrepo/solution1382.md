@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support i-FTEMP Detector-SafeEntry
+title: COVID-19 Support i-FTEMP Detector-Time Attendance & SafeEntry
 permalink: /productivity-solutions-grant/solutionrepo/solution1382
 ---
 
@@ -9,7 +9,7 @@ The i-FTemp Detector is a facial recognition device featuring an industrial-grad
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Assimilated_Technologies_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Assimilated_Technologies_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

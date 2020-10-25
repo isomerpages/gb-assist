@@ -1,5 +1,5 @@
 ---
-title: Artemis-100 searches for 1 year
+title: Artemis-500 searches for 1 year
 permalink: /productivity-solutions-grant/solutionrepo/solution1400
 ---
 
@@ -9,7 +9,7 @@ Artemis is the simple, cost-effective one-stop automation of a complex regulator
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.cynopsis.co <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co <br>
+Web URL: www.cynopsis.co <br>Contact Hotline: 68162740 <br>Contact Email: sales@cynopsis.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

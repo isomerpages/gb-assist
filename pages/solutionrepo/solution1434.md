@@ -1,5 +1,5 @@
 ---
-title: UNIPRO RETAILPOS STANDARD VER 14.01 Version-HQ - SOFTWARE ONLY
+title: UNIPRO RETAILPOS STANDARD VER 14.01 Version-OUTLET - SOFTWARE ONLY
 permalink: /productivity-solutions-grant/solutionrepo/solution1434
 ---
 
@@ -9,7 +9,7 @@ Unipro's RetailPOS Standard Ver .14.01  is an effective end to end web based Ret
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_UNIPRO_20190004_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_UNIPRO_20190004_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

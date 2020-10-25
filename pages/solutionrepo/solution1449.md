@@ -1,5 +1,5 @@
 ---
-title: EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Grow)
+title: EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Large)
 permalink: /productivity-solutions-grant/solutionrepo/solution1449
 ---
 
@@ -9,7 +9,7 @@ Eats365 POS System is design for chain restaurants, franchise or MNC. It automat
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

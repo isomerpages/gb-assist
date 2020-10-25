@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Intelli-Temperature Attendance System Version 1.0.3-Package A (On-Premise - 1 unit)
+title: COVID-19 Support Intelli-Temperature Attendance System Version 1.0.3-Package B (On-Premise - 2 units)
 permalink: /productivity-solutions-grant/solutionrepo/solution1377
 ---
 
@@ -9,7 +9,7 @@ Intelli-Temperature Attendance System is a solution that combines non-contact te
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Systems_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Systems_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

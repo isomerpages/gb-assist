@@ -9,7 +9,7 @@ Our POS solution is customizable to use in multiple business sectors, which are 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_20200184_Annex_3_20200630145216_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

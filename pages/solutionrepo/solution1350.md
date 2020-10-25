@@ -1,15 +1,15 @@
 ---
-title: Singtel Security Assessment Services Network Penetration Testing
+title: Singtel Security Testing Tool Annual Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1350
 ---
 
 #### Description
 
-Security Assessment Services provide a comprehensive valuation of technology environment to identify vulnerabilities which may lead to security issues. Singtel offers penetration testing at the application (e.g. web, mobile) and network (e.g. operating systems, databases) layer.
+Security testing tool is designed to identify vulnerabilities in web applications, networks and systems.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Security_Assessment_Annex3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Tessa_Annex3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase 
+Subscription / Leasing 
 
 #### Support Level
 80% for SMEs <br>

@@ -1,5 +1,5 @@
 ---
-title: UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - LITE
+title: UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - PRO
 permalink: /productivity-solutions-grant/solutionrepo/solution1470
 ---
 
@@ -9,7 +9,7 @@ Unipro Ecommerce Online store aims to provide SME the opportunity to create an o
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

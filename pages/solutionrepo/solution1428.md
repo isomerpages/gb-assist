@@ -1,5 +1,5 @@
 ---
-title: Simplr Warehouse Management and Simplr Sales Management Version 6-On Premise (5 Users)
+title: Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1428
 ---
 
@@ -9,7 +9,7 @@ Simplr is an easy-to-use, intuitive mobility solution for distribution managemen
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

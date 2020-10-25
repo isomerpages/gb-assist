@@ -1,5 +1,5 @@
 ---
-title: 3D Omni Commerce Version 1.03-STANDARD
+title: 3D Omni Commerce Version 1.03-PRO (Shopee Online Marketplace)
 permalink: /productivity-solutions-grant/solutionrepo/solution1397
 ---
 
@@ -10,7 +10,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1397
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
