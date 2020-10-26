@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support BAS with thermal facial recognition v8-Package B (BAS Attendance Essential - 200 Active Profiles, 1 Device)
+title: COVID-19 Support BAS with thermal facial recognition v8-Package C (BAS Visitor Essential and Attendance Essential - 200 Active Profiles, 1 Device)
 permalink: /productivity-solutions-grant/solutionrepo/solution1389
 ---
 
@@ -9,7 +9,7 @@ Intercorp BAS with thermal facial recognition solution provides for temperature 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Intercorp_Temp_Screening_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Intercorp_Temp_Screening_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

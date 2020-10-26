@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:AFON Systems Pte Ltd <br>Web URL: https://www.afon.com.sg/microsoft-dynamics-365-business-central <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
+Company Name: AFON Systems Pte Ltd <br>Web URL: https://www.afon.com.sg/microsoft-dynamics-365-business-central <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

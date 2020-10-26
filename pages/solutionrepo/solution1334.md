@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Face Recognition & Temperature Measurement Device Package A (1 Unit)
+title: COVID-19 Support Face Recognition & Temperature Measurement Device Package B (2 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution1334
 ---
 
@@ -9,7 +9,7 @@ It is a device with facial recognition and temperature screening capabilities wh
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EWash_Annex3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EWash_Annex3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

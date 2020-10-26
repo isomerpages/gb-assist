@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support FR-19 Pro Package A (1 Unit)
+title: COVID-19 Support FR-19 Pro Package B (2 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution1336
 ---
 
@@ -9,7 +9,7 @@ This is a true contactless thermal scanner with face recognition tablet programm
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EDviston_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EDviston_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

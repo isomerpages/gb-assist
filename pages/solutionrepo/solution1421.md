@@ -1,5 +1,5 @@
 ---
-title: GenicDocs - Document Management Software-Package D
+title: GenicDocs - Document Management Software-Package E
 permalink: /productivity-solutions-grant/solutionrepo/solution1421
 ---
 
@@ -9,7 +9,7 @@ GenicDocs is a very user-friendly interface and secured Document Management Soft
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

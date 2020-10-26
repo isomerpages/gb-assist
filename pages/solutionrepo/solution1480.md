@@ -1,11 +1,11 @@
 ---
-title: Bristle Blaster / Cup Brush / Power Brush
+title: Flange Spreader
 permalink: /productivity-solutions-grant/solutionrepo/solution1480
 ---
 
 #### Description
 
-The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120m. Time is also saved during operation.
+The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
 
 #### Details of Solution
 

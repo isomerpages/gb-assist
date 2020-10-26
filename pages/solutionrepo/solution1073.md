@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support VGC Online Collaboration Tool-Microsoft Office 365 E3
+title: Microsoft Office 365 E3
 permalink: /productivity-solutions-grant/solutionrepo/solution1073
 ---
 

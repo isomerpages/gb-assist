@@ -1,5 +1,5 @@
 ---
-title: EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE v10.1 - UNLIMITED USERS
+title: EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE PLUS v10.1 - UNLIMITED USERS
 permalink: /productivity-solutions-grant/solutionrepo/solution1370
 ---
 
@@ -9,7 +9,7 @@ EZ Accounting and Inventory Management System started since 1999 developed by EZ
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

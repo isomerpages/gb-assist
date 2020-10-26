@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support HRM Labs Temperature Screening System Version 1.0-Package (8 inch screen with Visitor Management)
+title: COVID-19 Support HRM Labs Temperature Screening System Version 1.0-Package (8 inch screen with Employee and Visitor Management)
 permalink: /productivity-solutions-grant/solutionrepo/solution1386
 ---
 
@@ -9,7 +9,7 @@ HRM Labs Temperature Screening System is a contactless temperature screening sol
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_HRMLabs_Temp_Screening_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_HRMLabs_Temp_Screening_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

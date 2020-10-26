@@ -1,5 +1,5 @@
 ---
-title: WFH Email Security with Cyber Essentials Online Course Package Version 1 - 50 x GR with Cyber Essential Course 1 Year Package
+title: WFH Email Security with Cyber Essentials Online Course Package Version 1 - 100 x GR with Cyber Essential Course 1 Year Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1323
 ---
 
@@ -9,7 +9,7 @@ The GRmail removes the email threats even before it reaches the email server and
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

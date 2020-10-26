@@ -1,5 +1,5 @@
 ---
-title: COVID-19 Support Adventus' Next-Gen Collaboration Solution-Microsoft 365 Business Standard
+title: COVID-19 Support Rugged Asia's Remote Working Solution-Microsoft 365 Business Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1393
 ---
 
@@ -9,7 +9,7 @@ Microsoft Office 365 is a suite of cloud-based productivity and collaboration ap
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adventus-Remote_Collaboration_(Software_only)-Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rugged_Asias_Remote_Working_Solution_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: ADVENTUS SINGAPORE PTE LTD<br>Web URL: www.adventusasia.com<br>Contact Hotline: 6868 1210<br>Contact Email:  info@adventusasia.com<br>
+Company Name: Rugged Asia Pte Ltd<br>Web URL: www.ruggedap.com<br>Contact Hotline: 69080898<br>Contact Email: willy@ruggedap.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

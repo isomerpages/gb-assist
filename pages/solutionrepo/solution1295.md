@@ -1,20 +1,15 @@
 ---
-title: Digital Welding Equipment 
+title: SMEPAYROLL HRMS Version 11 - Professional 50
 permalink: /productivity-solutions-grant/solutionrepo/solution1295
 ---
 
 #### Description
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
+SMEPayroll is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Advanced_and_Best_20200326_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -36,13 +31,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Current adjusting range: minimally +/- 150A
-Digital function: digitally compute actual real-time output of voltage, provide data logging
-Safety: minimally IP21S
-Includes: welding set, earth cable with clamps and connectors, welding harness, welding monitoring software license
-Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Company Name:ADVANCED & BEST TECHNOLOGIES PTE LTD <br>Web URL: www.smepayroll.com <br>Contact Hotline: 68372336 <br>Contact Email: business@smepayroll.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

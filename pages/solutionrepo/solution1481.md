@@ -1,11 +1,11 @@
 ---
-title: Flange Spreader
+title: Hydraulic Nut Splitter
 permalink: /productivity-solutions-grant/solutionrepo/solution1481
 ---
 
 #### Description
 
-The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
+The hydraulic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
 
 #### Details of Solution
 

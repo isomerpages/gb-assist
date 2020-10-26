@@ -1,5 +1,5 @@
 ---
-title: Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package A)
+title: Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package B)
 permalink: /productivity-solutions-grant/solutionrepo/solution1307
 ---
 
@@ -9,7 +9,7 @@ Cartrack Fleet offers companies the visibility of their fleet, enabling better c
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_20200562_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Cartrack_20200562_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
