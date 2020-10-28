@@ -1,15 +1,15 @@
 ---
-title: Trend Micro - Package (Worry Free Protection)
-permalink: /productivity-solutions-grant/solutionrepo/solution800
+title: Trend Micro - Package (Apex One - 150 Licenses)
+permalink: /productivity-solutions-grant/solutionrepo/solution1506
 ---
 
 #### Description
 
-A cloud-based endpoint solution which secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks. 
+A cloud-based endpoint solution which secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-Trend_Micro_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Singapore Telecommunications Limited<br>www.singtel.com/cyberpsg<br>Contact Email: s-cyberpsg@singtel.com<br>Tel: 1800-SME-1111
+Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/cyberpsg<br>Contact Hotline: 1800-SME-1111<br>Contact Email: s-cyberpsg@singtel.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

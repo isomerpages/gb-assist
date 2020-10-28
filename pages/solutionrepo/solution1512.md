@@ -1,15 +1,15 @@
 ---
-title: Trend Micro - Package (Apex One - 51 Licenses)
-permalink: /productivity-solutions-grant/solutionrepo/solution799
+title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1)
+permalink: /productivity-solutions-grant/solutionrepo/solution1512
 ---
 
 #### Description
 
-A cloud-based endpoint solution which secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks. 
+EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, customer management, inventory management and provide detailed sales, customer and product data and analysis. It reduces human error and improve accuracy in sales invoicing and stock deduction.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-Trend_Micro_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Singapore Telecommunications Limited<br>www.singtel.com/cyberpsg<br>Contact Email: s-cyberpsg@singtel.com<br>Tel: 1800-SME-1111
+Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/<br>Contact Hotline: 6871 8833 / 8482 1888<br>Contact Email: sales@epos.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

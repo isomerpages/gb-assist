@@ -1,6 +1,6 @@
 ---
-title: SGDATAPOS Version 5.1 - Package (Basic With Hardware)
-permalink: /productivity-solutions-grant/solutionrepo/solution1117
+title: SGDATAPOS Version 5.1 - Package (Basic Without Hardware)
+permalink: /productivity-solutions-grant/solutionrepo/solution1508
 ---
 
 #### Description
@@ -12,7 +12,7 @@ Alternatively, SGDATAPOS can integrate with third party system such as e-commerc
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singapore_Data_Hub_20200230_Annex_3_20200630144735_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SGDataHub_Annex_3_CR_wef_29_October_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -1,15 +1,15 @@
 ---
-title: Fortigate UTM - Package (FG-200E)
-permalink: /productivity-solutions-grant/solutionrepo/solution793
+title: Singtel-Fortinet-FG-60E inclusive of 1 Year Unified (UTM) Protection
+permalink: /productivity-solutions-grant/solutionrepo/solution1497
 ---
 
 #### Description
 
-A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure.  
+A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-Fortigate_UTM_Annex_3-CR2_wef13April2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Fortigate_UTM_Annex_3_CR_2_wef_29_October_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/business/info/psg<br>Contact Hotline: 1800-763-1111<br>Contact Email: g-segmentict@singtel.com
+Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/cyberpsg<br>Contact Hotline: 1800-SME-1111<br>Contact Email: s-cyberpsg@singtel.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

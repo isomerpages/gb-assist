@@ -1,5 +1,5 @@
 ---
-title: Package (2 Doctors)
+title: COVID-19 Sectorial Support HeartVoice Telehealth Platform - Package (2 Doctors)
 permalink: /productivity-solutions-grant/solutionrepo/solution1068
 ---
 
@@ -9,7 +9,7 @@ The HeartVoice Telehealth Platform provides for teleconsultation services to ena
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_CR_wef_29_October_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

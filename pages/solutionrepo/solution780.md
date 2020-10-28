@@ -9,7 +9,7 @@ Shell Telematics is designed to help business owners get the best performance fr
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

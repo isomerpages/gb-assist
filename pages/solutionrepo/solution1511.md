@@ -1,15 +1,19 @@
 ---
-title: COVID-19 Support VGC Laptop + Online Collaboration Tool-Microsoft 365 Business Premium + Dynabook laptop
-permalink: /productivity-solutions-grant/solutionrepo/solution1476
+title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS Software Package)
+permalink: /productivity-solutions-grant/solutionrepo/solution1511
 ---
 
 #### Description
 
-VGC's package provides for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
+EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, customer management, inventory management and provide detailed sales, customer and product data and analysis. It reduces human error and improve accuracy in sales invoicing and stock deduction.
+
+
+
+
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technologies-Bundle_B_(Software_Laptop)_Annex_3_CR_wef_22_Oct_20_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +28,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase 
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: VGC TECHNOLOGY PTE LTD <br>Web URL: https://www.vgctechnology.com <br>Contact Hotline: 63975396<br>Contact Email: vinc@vgctechnology.com  <br>
+EPOS Pte. Ltd.<br>http://www.epos.com.sg<br>Email: sales@epos.com.sg<br>Tel: +65 6871 8833 / +65 8482 1888
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

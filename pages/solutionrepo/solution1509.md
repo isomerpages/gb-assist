@@ -1,11 +1,14 @@
 ---
-title: Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package C)
-permalink: /productivity-solutions-grant/solutionrepo/solution1308
+title: SGDATAPOS Version 5.1 - Package (With Customer Relationship Management, With Hardware)
+permalink: /productivity-solutions-grant/solutionrepo/solution1509
 ---
 
 #### Description
 
-Cartrack Fleet offers companies the visibility of their fleet, enabling better control and efficiency management in achieving greater productivity. Cartrack Fleet includes provision of a proven in-house developed platform and installation of advanced telematics devices. Cartrack platform provides our customers with real-time actionable business intelligence, based on advanced technology and reliable data.
+SGDATAPOS is designed with simplest interface, yet powerful functions to ease operations.
+Backed with cloud back office, POS configuration such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.
+SGDATAPOS is easily integrate to our other add-on modules such as CRM, e-commerce, kitchen display system & mobile ordering system.
+Alternatively, SGDATAPOS can integrate with third party system such as e-commerce, accounting software, ERP.
 
 #### Details of Solution
 
@@ -24,7 +27,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>

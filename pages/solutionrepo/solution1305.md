@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1305
 
 #### Description
 
-Sleekest e-commerce system, integrated with delivery partners, that has helped our clients reduced manpower by up to 50% and increased profits by minimally 10,000 a month. No commission fees and integrated with online delivery partners.
+This 6-in-1 platform provides each F&B establishment with their exclusive website at zero commission fees. Our unique solution allows takeaway ordering where customers can choose the pickup timeslot, online ordering for delivery of food integrated with island-wide delivery partners, dine-in ordering using QR code, integration with kitchen for food preparation, tracking of sales by outlets and customers, and targeted marketing such as discount codes and up-sell functions!
 
 #### Details of Solution
 

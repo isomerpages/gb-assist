@@ -1,5 +1,5 @@
 ---
-title: Asset-info Based Cyber Defense service - ABCD Lite for 150 endpoints (for SMEs with 150 employees or more)
+title: Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 150 endpoints (for SMEs with 150 employees or more)
 permalink: /productivity-solutions-grant/solutionrepo/solution290
 ---
 
@@ -9,7 +9,7 @@ Solution which leverages asset information and behavioral analytics to identify,
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CENTURYLINK_20200076_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:CenturyLink Technology Singapore Pte Ltd <br>Web URL: www.centurylink.com.sg <br>Contact Hotline: 67688000 <br>Contact Email: waikit.cheah@centurylink.com <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

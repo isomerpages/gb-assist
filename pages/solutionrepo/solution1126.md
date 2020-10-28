@@ -9,7 +9,7 @@ Our POS solution is customizable to use in multiple business sectors, which are 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_20200184_Annex_3_20200630145216_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:SUNTOYO TECHNOLOGY PTE LTD <br>Web URL: WWW.SUNTOYO.COM.SG <br>Contact Hotline: 65533855 <br>Contact Email: SUNTOYO@SUNTOYO.COM.SG <br>
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

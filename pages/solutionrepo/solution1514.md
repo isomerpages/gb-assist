@@ -1,19 +1,15 @@
 ---
-title: EPOS Enhanced POS Version 2 - Package (Enhanced POS All In 1 with Smart Inventory Management and Accounting Integration)
-permalink: /productivity-solutions-grant/solutionrepo/solution402
+title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)
+permalink: /productivity-solutions-grant/solutionrepo/solution1514
 ---
 
 #### Description
 
 EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, customer management, inventory management and provide detailed sales, customer and product data and analysis. It reduces human error and improve accuracy in sales invoicing and stock deduction.
 
-
-
-
-
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/EPOS_Pte._Ltd_Annex_3_Part_67.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -38,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-EPOS Pte. Ltd.<br>http://www.epos.com.sg<br>Email: sales@epos.com.sg<br>Tel: +65 6871 8833 / +65 8482 1888
+Company Name: EPOS Pte. Ltd.<br>Web URL: https://www.epos.com.sg/<br>Contact Hotline: 6871 8833 / 8482 1888<br>Contact Email: sales@epos.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

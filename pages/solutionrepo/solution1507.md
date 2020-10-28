@@ -1,15 +1,18 @@
 ---
-title: Fortigate UTM - Package (FG-100E)
-permalink: /productivity-solutions-grant/solutionrepo/solution792
+title: SGDATAPOS Version 5.1 - Package (Basic With Hardware)
+permalink: /productivity-solutions-grant/solutionrepo/solution1507
 ---
 
 #### Description
 
-A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure.  
+SGDATAPOS is designed with simplest interface, yet powerful functions to ease operations.
+Backed with cloud back office, POS configuration such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.
+SGDATAPOS is easily integrate to our other add-on modules such as CRM, e-commerce, kitchen display system & mobile ordering system.
+Alternatively, SGDATAPOS can integrate with third party system such as e-commerce, accounting software, ERP.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Singtel-Fortigate_UTM_Annex_3-CR2_wef13April2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -34,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/business/info/psg<br>Contact Hotline: 1800-763-1111<br>Contact Email: g-segmentict@singtel.com
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
