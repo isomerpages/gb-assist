@@ -1,18 +1,15 @@
 ---
-title: SGDATAPOS Version 5.1 - Package (Basic With Hardware)
-permalink: /productivity-solutions-grant/solutionrepo/solution1507
+title: SYSFREIGHT Version 8 - Standard 12 User
+permalink: /productivity-solutions-grant/solutionrepo/solution1529
 ---
 
 #### Description
 
-SGDATAPOS is designed with simplest interface, yet powerful functions to ease operations.
-Backed with cloud back office, POS configuration such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.
-SGDATAPOS is easily integrate to our other add-on modules such as CRM, e-commerce, kitchen display system & mobile ordering system.
-Alternatively, SGDATAPOS can integrate with third party system such as e-commerce, accounting software, ERP.
+SysFreight is an advanced TOTAL FREIGHT MANAGEMENT SOLUTION that delivers comprehensive functionality in all critical aspects of freight operations. It is designed by the industrial experts (with more than 30 years' experiences). It aims to computerize and optimizes the operation and management by using of the latest technologies and complemented by our professional services.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SGDataHub_Annex_3_CR_wef_29_October_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SYSMAGIC_20200398_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -27,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 80% for SMEs <br>
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:SINGAPORE DATA HUB PTE LTD <br>Web URL: WWW.SGDATAPOS.COM <br>Contact Hotline: +6566677093 <br>Contact Email: SALES@SGDATAHUB.COM <br>
+Web URL: www.sysfreight.com <br>Contact Hotline: 91097978 <br>Contact Email: lina@sysfreight.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,18 +1,15 @@
 ---
-title: SGDATAPOS Version 5.1 - Package (Basic With Hardware)
-permalink: /productivity-solutions-grant/solutionrepo/solution1507
+title: Zoho One - 3 Users + Free Online Tutorials
+permalink: /productivity-solutions-grant/solutionrepo/solution1532
 ---
 
 #### Description
 
-SGDATAPOS is designed with simplest interface, yet powerful functions to ease operations.
-Backed with cloud back office, POS configuration such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.
-SGDATAPOS is easily integrate to our other add-on modules such as CRM, e-commerce, kitchen display system & mobile ordering system.
-Alternatively, SGDATAPOS can integrate with third party system such as e-commerce, accounting software, ERP.
+With advanced CRM features like workflow management, advanced analytics, territory management, sales and marketing automation, Zoho One helps reduce the time salespeople spend on mundane tasks, have more time to concentrate on customers and unify operations across multiple geographic locations. The CRM system helps companies cover every aspect of their business cycle with an increase in sales and marketing returns, all while helping them reduce operating costs.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SGDataHub_Annex_3_CR_wef_29_October_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Zolution_20200592_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:SINGAPORE DATA HUB PTE LTD <br>Web URL: WWW.SGDATAPOS.COM <br>Contact Hotline: +6566677093 <br>Contact Email: SALES@SGDATAHUB.COM <br>
+Web URL: www.zolution.co <br>Contact Hotline: 31385268 <br>Contact Email: team@zolution.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

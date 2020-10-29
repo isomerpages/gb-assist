@@ -1,18 +1,15 @@
 ---
-title: SGDATAPOS Version 5.1 - Package (Basic With Hardware)
-permalink: /productivity-solutions-grant/solutionrepo/solution1507
+title: Standard
+permalink: /productivity-solutions-grant/solutionrepo/solution1531
 ---
 
 #### Description
 
-SGDATAPOS is designed with simplest interface, yet powerful functions to ease operations.
-Backed with cloud back office, POS configuration such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.
-SGDATAPOS is easily integrate to our other add-on modules such as CRM, e-commerce, kitchen display system & mobile ordering system.
-Alternatively, SGDATAPOS can integrate with third party system such as e-commerce, accounting software, ERP.
+Web Imp is an award winning SG tech firm with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. Their strong ties with reputable tech companies enable seamless integration with solutions such as B2C Loyalty CRM, payment gateways, and multi-channel marketplace. They ensure scalability and continuity of your digitalization with their Client Support team and digital marketing capabilities.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SGDataHub_Annex_3_CR_wef_29_October_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_Pte_Ltd_20200527_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -37,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:SINGAPORE DATA HUB PTE LTD <br>Web URL: WWW.SGDATAPOS.COM <br>Contact Hotline: +6566677093 <br>Contact Email: SALES@SGDATAHUB.COM <br>
+Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact Email: sales@webimp.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

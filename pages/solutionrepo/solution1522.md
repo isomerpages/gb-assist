@@ -1,18 +1,16 @@
 ---
-title: SGDATAPOS Version 5.1 - Package (Basic With Hardware)
-permalink: /productivity-solutions-grant/solutionrepo/solution1507
+title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 2 - (Up to 3 concurrent users)
+permalink: /productivity-solutions-grant/solutionrepo/solution1522
 ---
 
 #### Description
 
-SGDATAPOS is designed with simplest interface, yet powerful functions to ease operations.
-Backed with cloud back office, POS configuration such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.
-SGDATAPOS is easily integrate to our other add-on modules such as CRM, e-commerce, kitchen display system & mobile ordering system.
-Alternatively, SGDATAPOS can integrate with third party system such as e-commerce, accounting software, ERP.
+Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.   
+Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_SGDataHub_Annex_3_CR_wef_29_October_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Highnix_20200493_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -37,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:SINGAPORE DATA HUB PTE LTD <br>Web URL: WWW.SGDATAPOS.COM <br>Contact Hotline: +6566677093 <br>Contact Email: SALES@SGDATAHUB.COM <br>
+Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 <br>Contact Email: sales@highnix.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

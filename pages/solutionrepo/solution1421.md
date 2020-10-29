@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: https://www.bthrust.com/field-service-management-software-solution.html <br>Contact Hotline: 68343026 <br>Contact Email: rana@bthrust.com <br>
+Web URL: https://www.bthrust.com/document-management-software.html<br>Contact Hotline: 68343026 <br>Contact Email: sales@bthrust.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
