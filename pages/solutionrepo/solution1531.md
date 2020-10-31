@@ -1,5 +1,5 @@
 ---
-title: Standard
+title: Mobile Responsive E-Commerce Version 1 - Standard
 permalink: /productivity-solutions-grant/solutionrepo/solution1531
 ---
 
