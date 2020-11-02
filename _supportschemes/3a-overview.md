@@ -17,6 +17,7 @@ COVID-19 has accelerated into a global pandemic. The global economy has been hit
 * Government Cash Grant for SME tenants in private properties
 * Corporate Income Tax Rebate
 * Deferment of Higher CPF Contribution Rates
+* Season Parking Waiver for Private Bus Season Parking Holders
 
 <p>
 {% include button.html text="Click Here for More Information" src="/supportschemes/immediateschemes" type="primary" %}

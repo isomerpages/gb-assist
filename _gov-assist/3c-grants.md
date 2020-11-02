@@ -258,6 +258,12 @@ GEMS (research) encourage FIs based in Sg to hire equity research professionals 
 
 <a href="https://www.mas.gov.sg/schemes-and-initiatives/grant-for-equity-market-singapore-scheme" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Grow Digital
+
+SMEs that are ready to sell overseas can receive funding support when they participate in pre-approved Business-to-Business (B2B) and Business-to-Consumer (B2C) e-commerce platforms with global or regional reach.
+
+<a href="https://www.imda.gov.sg/GrowDigital" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Healthier Dining Grant
 
 The Healthier Dining Grant is a funding scheme which empowers Healthier Dining Programme Partners to promote healthier menu options.
@@ -557,6 +563,12 @@ The TPDF supports the creation, development of new tourism products and/or major
 TIP-iT supports tourism companies in employee upgrading and talent and leadership development.
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/training-industry-professionals-in-tourism-tip-it.html" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Water Efficiency Fund (WEF)
+
+The WEF provides funding to local non-domestic water users to enable them to improve water efficiency in their premises. These projects include water efficiency assessment, pilot study, recycling and adoption of water efficient equipment.
+
+<a href="https://www.pub.gov.sg/savewater/atwork/efficiencymeasures" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Workforce Training and Upgrading
 

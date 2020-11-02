@@ -75,3 +75,12 @@ Click <a href="https://go.gov.sg/corporateincometax" target="_blank" style="colo
 #### Deferment of Higher CPF Contribution Rates
 
 * Increase in CPF contribution rates for senior workers deferred by 1 year, from 1 January 2021 to 1 January 2022
+
+#### Season Parking Waiver for Private Bus Season Parking Holders
+
+* On 26 March 2020, the government announced the Private Bus Support Package (PBSP). As part of the PBSP, private bus (including coach) season parking pass holders at all Government-owned car parks received a 6-month waiver of season parking fees from 1 May to 31 October 2020. 
+* With effect from 31 October 2020, this season parking waiver will be extended till 31 March 2021.
+
+Click <a href="/images/govassist/MR08420_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank" style="color:#037e8a">here</a> for more information.
+
+Click <a href="/images/govassist/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank" style="color:#037e8a">here</a> for FAQs.
