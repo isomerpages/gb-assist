@@ -16,7 +16,7 @@ Building and construction companies can receive up to 70% support to conduct fas
 
 Building owners can receive up to 80% support for upgrading their existing buildings with essential accessibility features.
 
-<a href="https://friendlybuildings.bca.gov.sg/industry-professional-af-about-accessibility-fund.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www1.bca.gov.sg/buildsg/universal-design/accessibility-fund" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Agriculture Productivity Fund (APF)
 
