@@ -9,7 +9,7 @@ The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_AEC_Collection_CR_wef_22_Oct_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ NA% for non-SMEs
 Nil
 
 #### Contact Information
-N.A.
+Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
