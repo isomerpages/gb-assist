@@ -38,4 +38,4 @@ Solutions supported under the Productivity Solutions Grant are regularly reviewe
 
 ***
 
-<sup>1</sup> As announced under the Resilience Budget, PSG’s maximum support level has been enhanced until 31st December 2020
+<sup>1</sup> As announced under the Resilience Budget, PSG’s maximum support level has been enhanced until 30th September 2021. 
