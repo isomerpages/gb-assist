@@ -9,7 +9,7 @@ The solution provides for business-grade laptops with collaborative tools and en
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Interaccion-Laptop_Bundle-Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Interaccion-Laptop_Bundle-Annex_3_CR_wef_5_Nov_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
