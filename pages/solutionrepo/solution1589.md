@@ -1,19 +1,19 @@
 ---
-title: BIM 360 DESIGN - 25 Users Pack Subscription
-permalink: /productivity-solutions-grant/solutionrepo/solution490
+title: INNOCOM - Autodesk BIM 360 - Design (5 User Pack)
+permalink: /productivity-solutions-grant/solutionrepo/solution1589
 ---
 
 #### Description
 
-BIM 360 Design 
+INNOCOM - Autodesk BIM 360
 - Single platform that connects design and construction processes and project team at one place.
 - BIM 360 Design is the cloud collaboration solution for Revit users.
 - Real-time Revit cloud work sharing and collaboration workflows for Civil 3D and Plant 3D
-- Securely co-author Revit models and access Civil 3D and Plant 3D files, across one firm or multiple firms"
+- Securely co-author Revit models and access Civil 3D and Plant 3D files, across one firm or multiple firms
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/INNOCOM_TECHNOLOGIES_20200259_Annex_3_20200625152404_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Innocom-BIM360Design_Annex_3_CR_wef_12_Nov_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,9 +35,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+Nil
 
 #### Contact Information
-Company Name: INNOCOM TECHNOLOGIES PTE LTD <br>Web URL: https://innocomholding.com/psg-grant/<br>Contact Hotline: 6603 5438<br>Contact Email: sales@innocom.com.sg
+Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL:https://innocomholding.com/psg-grant/  <br>Contact Hotline: 6603 5438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,19 @@
 ---
-title: Sophos Endpoint Protection - Sophos Central Intercept X Advanced with EDR - 100 users
-permalink: /productivity-solutions-grant/solutionrepo/solution1557
+title: INNOCOM - Autodesk BIM 360 - Design (2 User Pack)
+permalink: /productivity-solutions-grant/solutionrepo/solution1592
 ---
 
 #### Description
 
-Sophos InterceptX Advanced Endpoint Protection is a centralized cloud managed platform which stops the widest range of attacks with a unique combination of deep learning malware detection, exploit prevention, anti-ransomware, and more.
+INNOCOM - Autodesk BIM 360
+- Single platform that connects design and construction processes and project team at one place.
+- BIM 360 Design is the cloud collaboration solution for Revit users.
+- Real-time Revit cloud work sharing and collaboration workflows for Civil 3D and Plant 3D
+- Securely co-author Revit models and access Civil 3D and Plant 3D files, across one firm or multiple firms
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Innocom-BIM360Design_Annex_3_CR_wef_12_Nov_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,9 +35,9 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Nil
 
 #### Contact Information
-Web URL: www.rahtech.sg <br>Contact Hotline: 6452 5066 / 8766 5066<br>Contact Email: sales@rahtech.sg 
+Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL:https://innocomholding.com/psg-grant/  <br>Contact Hotline: 6603 5438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

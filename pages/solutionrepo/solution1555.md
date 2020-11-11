@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription or Leasing
+Direct Purchase
 
 #### Support Level
 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.rahtech.sg <br>Contact Hotline: 86995066 <br>Contact Email: sales@rahtech.sg <br>
+Web URL: www.rahtech.sg <br>Contact Hotline: 6452 5066 / 8766 5066<br>Contact Email: sales@rahtech.sg 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

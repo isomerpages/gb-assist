@@ -1,15 +1,15 @@
 ---
-title: Sophos Endpoint Protection - Sophos Central Intercept X Advanced with EDR - 100 users
-permalink: /productivity-solutions-grant/solutionrepo/solution1557
+title: COVID-19 Support PointStar Remote Workplace Solution Version 2.0 - Business Plus (Google Workplace)
+permalink: /productivity-solutions-grant/solutionrepo/solution1597
 ---
 
 #### Description
 
-Sophos InterceptX Advanced Endpoint Protection is a centralized cloud managed platform which stops the widest range of attacks with a unique combination of deep learning malware detection, exploit prevention, anti-ransomware, and more.
+Google G Suite is a cloud-enabled solution that enables remote collaboration between parties and teams. Features include business email, video conferencing, cloud storage and file sharing.   
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_PointStar_Annex_3_CR_wef_12_Nov_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.rahtech.sg <br>Contact Hotline: 6452 5066 / 8766 5066<br>Contact Email: sales@rahtech.sg 
+Company Name: PointStar Pte Ltd<br>Web URL: https://www.point-star.com/<br>Contact Hotline: 9751 5793<br>Contact Email: justin@point-star.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

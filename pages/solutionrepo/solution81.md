@@ -42,7 +42,7 @@ System must comprise of:
  
 Minimum treatment capacity: 100kg per day.
 
-Grant cap: Up to S$400,000 per unit
+Grant cap: Up to S$350,000 per unit
 
 #### Contact Information
 N.A.

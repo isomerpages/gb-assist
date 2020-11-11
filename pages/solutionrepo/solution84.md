@@ -38,7 +38,7 @@ A plastic washing line must include:
 - separation tank
 - drying system 
 Minimum treatment capacity of 1,000kg per hour.
-Grant cap: Up to S$400,000 per unit
+Grant cap: Up to S$350,000 per unit
 
 #### Contact Information
 N.A.
