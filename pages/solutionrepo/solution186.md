@@ -38,7 +38,7 @@ System must comprise of:
 - Silo
 - Gravity Separator (optional)
 - NIR polymer separator (optional)
-Grant cap: Up to S$400,000 per unit
+Grant cap: Up to S$350,000 per unit
 
 
 #### Contact Information

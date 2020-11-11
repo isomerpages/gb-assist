@@ -34,7 +34,7 @@ Direct Purchase,Hire Purchase,Subscription / Leasing
 Specifications
 - At least 1,500L sludge holding capacity
 - Cost of chassis is not supported
-Grant cap: Up to S$400,000 per unit
+Grant cap: Up to S$350,000 per unit
 
 #### Contact Information
 N.A.
