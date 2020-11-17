@@ -336,12 +336,6 @@ Industry firms can co-sponsor suitable candidates with BCA and engage talents to
 
 <a href="https://www.buildingcareers.gov.sg/Programmes-Initiatives/Scholarship-and-Sponsorship-Programmes/undergraduate" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Industrial Water Solutions Demonstration Fund (IWSDF)
-
-The IWSDF provides funding and technical support to local non-domestic large water users to implement projects that treat and reclaim fresh water from industrial used water for process reuse. 
-
-<a href="https://www.pub.gov.sg/research/industrialwatersolutions/funding" target="_blank" style="color:#037e8a">Find out more</a>
-
 #### Industry 4.0 Human Capital Initiative (IHCI) Enabler Programme
 
 With up to 90% funding support, the IHCI Enabler is an 8-week programme that focuses on helping companies get started on Industry 4.0 transformation and optimise returns with effective human capital management.
@@ -566,7 +560,7 @@ TIP-iT supports tourism companies in employee upgrading and talent and leadershi
 
 #### Water Efficiency Fund (WEF)
 
-The WEF provides funding to local non-domestic water users to enable them to improve water efficiency in their premises. These projects include water efficiency assessment, pilot study, recycling and adoption of water efficient equipment.
+WEF provides funding to local non-domestic water users to enable them to improve water efficiency through water efficiency assessment, pilot study, recycling, adoption of water efficient equipment & industrial water solution demonstration projects.
 
 <a href="https://www.pub.gov.sg/savewater/atwork/efficiencymeasures" target="_blank" style="color:#037e8a">Find out more</a>
 
