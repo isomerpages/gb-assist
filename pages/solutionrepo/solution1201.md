@@ -1,11 +1,11 @@
 ---
-title: Gen Collaboration Solution - Microsoft 365 Business Standard + Dell laptop
+title: COVID-19 Support Adventus' Next-Gen Collaboration Solution - Gen Collaboration Solution - Microsoft 365 Business Standard + Dell laptop
 permalink: /productivity-solutions-grant/solutionrepo/solution1201
 ---
 
 #### Description
 
-The Adventus Business Laptop Bundle provide for business-grade laptop with collaborative tools and endpoint protection for SME to work remotely and securely. Adventus is providing Software + Laptop bundle - one package (Microsoft Business Standard + Dell Latitude 3410).
+Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
 
 #### Details of Solution
 

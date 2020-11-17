@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 TUV SUD PSB Pte Ltd<br>https://www.tuvsud.com/en-sg/services/cyber-security/smes-go-digital---pre-approved-cyber-security-solutions<br>Email: info.sg@tuvsud.com<br>Tel: +65 8812 6194
