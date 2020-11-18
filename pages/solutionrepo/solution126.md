@@ -27,8 +27,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-50% for SMEs <br>
-50% for non-SMEs
+Up to 50% for SMEs <br>
+Up to 50% for non-SMEs
 
 #### Things to Note
 - Integrated with compactor, fill-level sensor(s), weight monitoring  and communication system(s)

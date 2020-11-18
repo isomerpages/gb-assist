@@ -28,8 +28,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80% for SMEs <br>
-80% for non-SMEs
+Up to 80% for SMEs <br>
+Up to 80% for non-SMEs
 
 #### Things to Note
 Cost in price package does not include optional items and is not indicative of actual project cost.

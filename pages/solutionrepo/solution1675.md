@@ -1,15 +1,15 @@
 ---
-title: COVID-19 Support Adventus' Next-Gen Collaboration Solution-Microsoft 365 Business Standard
-permalink: /productivity-solutions-grant/solutionrepo/solution1392
+title: THEREFORE Version 2020 - Therefore-in-e-Cloud Package 5 (Up to 30 users)
+permalink: /productivity-solutions-grant/solutionrepo/solution1675
 ---
 
 #### Description
 
-Microsoft Office 365 is a suite of cloud-based productivity and collaboration application that integrates all Microsoft's existing online applications into a cloud service, adding Skype for Business and Microsoft Teams as the main communication.
+Therefore is a scalable Cloud Document Management Solution, that provides a central document repository for companies. It enables users to save, organize, share and access all vital business information instantly. Security is enhanced through simple permission controls and audit trails. Companies can also improve their productivity and optimize their business processes through Therefore's automated workflows. Simply improve security, productivity and traceability with Therefore.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adventus-Remote_Collaboration_(Software_only)-Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -27,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80% for SMEs <br>
+Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: ADVENTUS SINGAPORE PTE LTD<br>Web URL: www.adventusasia.com<br>Contact Hotline: 6868 1210<br>Contact Email:  info@adventusasia.com<br>
+Web URL: https://sg.canon/en/business/therefore-online/product <br>Contact Hotline: 68622666 <br>Contact Email: Documentsolutions@canon.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
