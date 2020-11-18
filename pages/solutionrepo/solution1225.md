@@ -27,8 +27,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-70% (80% from 1 Apr 2020 to 30 Sep 2021)% for SMEs <br>
-NA% for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 30 Sep 2021)% for SMEs <br>
+Up to NA% for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
