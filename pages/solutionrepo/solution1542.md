@@ -31,7 +31,7 @@ Subscription or Leasing
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Web URL: https://www.tekla.com/sg <br>Contact Hotline: 62738775 <br>Contact Email: tekla.sales.sea@trimble.com <br>

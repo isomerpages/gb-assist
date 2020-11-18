@@ -31,7 +31,7 @@ Direct Purchase
 N.A. for non-SMEs
 
 #### Things to Note
-N.A.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Athena Dynamics Pte Ltd<br>https://athenadynamics.com/solution/solar-appscreener<br>Email: kensoh@athenadynamics.com<br>Tel: +65 6210 2354

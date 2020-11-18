@@ -33,6 +33,9 @@ Direct Purchase
 #### Things to Note
 Operating time of >15 hours and talk range of 100-200 meters. Example vendor: Kenwah System
 
+Additional criteria for SMEs: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+
 #### Contact Information
 N.A.
 

@@ -33,7 +33,8 @@ Direct Purchase
 #### Things to Note
 Only licensed travel agents are eligible for support.
 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR.
+Additional criteria for SMEs: 
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Pytheas Infosys Pte Ltd<br>http://www.pytheas.travel<br>Email: info@pytheas.travel<br>Tel: +65 6635 6592

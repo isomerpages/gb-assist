@@ -9,7 +9,7 @@ AEC Collection consists of a set of BIM and CAD tools that support projects from
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_INNOCOM_20200257_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Innocom_-_AEC_Collection_Annex_3_CR_wef_19_Nov_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -27,11 +27,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-80% for SMEs <br>
+70% (80% from 1 Apr 2020 to 30 Sep 2021)% for SMEs <br>
 NA% for non-SMEs
 
 #### Things to Note
-Nil
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>

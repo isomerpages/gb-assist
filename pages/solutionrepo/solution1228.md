@@ -31,7 +31,7 @@ Direct Purchase
 NA% for non-SMEs
 
 #### Things to Note
-Nil
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/lite/ <br>Contact Hotline: +6591008417 <br>Contact Email: INFO@VRCOLLAB.COM <br>
