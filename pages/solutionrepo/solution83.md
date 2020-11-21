@@ -35,11 +35,12 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following:
-- Generate ozonised water concentration of at least 0.4ppm
-- Ozone flow rate with range between 0-3 Litres Per Minute 
-- Be piped directly into incoming water sources
-- Demonstrate the effectiveness of sterilisation and reduce bacteria count by at least 90%
-- Installation and maintenance costs are not supported
+- Use ozonised tech with ozonised water concen.: 0.4-1.5ppm
+- Ozone flow rate: 0-3 Litres/min
+- Piped to water sources
+- Effective sterilisation & lower bacteria amt by 90%
+- Installation & maintenance not supported
+- For sectors (e.g F&B, healthcare) requiring high level of sanitisation. Office spaces not supported.
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 

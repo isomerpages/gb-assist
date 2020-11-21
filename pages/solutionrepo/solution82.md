@@ -34,10 +34,11 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following:
-- Generate active oxygen at an output between 20mg - 1g/hr
-- Coverage area of at least 36.5 m2
-- Demonstrate the effectiveness of sterilisation and reduce bacteria count by at least 90%.
-- Installation and maintenance costs are not supported
+- User ozonised tech generating active oxygen at output between 20mg - 1g/hr
+- Area coverage at least 36.5m²
+- Effective sterilisation & reduce bacteria count by 90%
+- Installation & maintenance costs not supported
+- For sectors (e.g F&B, healthcare) requiring high level of sanitisation. Office spaces not supported.
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
