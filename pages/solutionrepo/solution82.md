@@ -35,7 +35,7 @@ N.A. for non-SMEs
 #### Things to Note
 Equipment must meet the following:
 - User ozonised tech generating active oxygen at output between 20mg - 1g/hr
-- Area coverage at least 36.5mÂ²
+- Area coverage at least 36.5m²
 - Effective sterilisation & reduce bacteria count by 90%
 - Installation & maintenance costs not supported
 - For sectors (e.g F&B, healthcare) requiring high level of sanitisation. Office spaces not supported.

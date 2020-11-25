@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: lp.ifoundries.com/ecommerce-singapore <br>Contact Hotline: 62977751 <br>Contact Email: web-enquiry@ifoundries.com <br>
+Web URL: https://www.ifoundries.com <br>Contact Hotline: 96246245<br>Contact Email: web-enquiry@ifoundries.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

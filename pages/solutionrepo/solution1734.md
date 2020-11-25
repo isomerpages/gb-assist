@@ -1,6 +1,6 @@
 ---
-title: Qashier Smart Terminal-Package A (Pro + Premier Setup + Training)
-permalink: /productivity-solutions-grant/solutionrepo/solution1371
+title: Qashier Smart Terminal - Package E (Pro + Basic Setup)
+permalink: /productivity-solutions-grant/solutionrepo/solution1734
 ---
 
 #### Description
@@ -9,7 +9,7 @@ Qashier provides smart point-of-sale (POS) solutions to help small merchants dig
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
