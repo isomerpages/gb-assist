@@ -1,15 +1,15 @@
 ---
-title: Visual Optical Retail Management System Version 8 Software - Package (Business Starter)
-permalink: /productivity-solutions-grant/solutionrepo/solution1142
+title: Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit
+permalink: /productivity-solutions-grant/solutionrepo/solution1725
 ---
 
 #### Description
 
-Visual Optical RMS is a retail management system specifically designed for an optical retail store business operation. The core components include POS (Point-of-Sales), PMS (Patient Management System), and Inventory management.
+Intelli-Signage solution combine touch screen system, age and gender recognition, content design software, remote management, and data analytics.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Frontwave Software Pte Ltd <br>Web URL: https://www.frontwave.com.sg/frontwave-cloud <br>Contact Hotline: 62899125 <br>Contact Email: info@frontwave.com.sg <br>
+Web URL: https://www.anewtech.net <br>Contact Hotline: +6597512267 <br>Contact Email: sales@anewtech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

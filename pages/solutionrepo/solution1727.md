@@ -1,15 +1,15 @@
 ---
-title: Qashier Smart Terminal-Package D (Pro)
-permalink: /productivity-solutions-grant/solutionrepo/solution1374
+title: SourceSage Online Store - Grow
+permalink: /productivity-solutions-grant/solutionrepo/solution1727
 ---
 
 #### Description
 
-Qashier provides smart point-of-sale (POS) solutions to help small merchants digitise their businesses. Qashier's flagship product is the Qashier Smart Terminal, a connected, multi-purpose device that combines a payments hub, cloud-based POS software, and a proprietary app store in one uniquely designed device. Qashier enables merchants to manage entire stores with just one terminal on the counter.
+Founded in 2015, SourceSage is an award winning global ecommerce platform which makes it easier for you to scale your business online using your own platform. Till date, we have empowered thousands of SMEs and MNCs across different verticals with brand names including DBS Bank, DHL, Mitsui, PwC etc with their own Online Store or Whitelabeled Ecommerce Platform.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Qashier Pte Ltd <br>Web URL:qashier.co <br>Contact Hotline:94555108 <br>Contact Email:hello@qashier.co <br>
+Web URL: https://sourcesage.co <br>Contact Hotline: +6591508236 <br>Contact Email: support@sourcesage.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

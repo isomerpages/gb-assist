@@ -1,5 +1,5 @@
 ---
-title: Visual Optical Retail Management System Version 8 Version 8 - Visual Optical Retail Management System Version 8 Software - Package (Business Enterprise)
+title: Visual Optical Retail Management System Version 8 Software - Package (Business Enterprise)
 permalink: /productivity-solutions-grant/solutionrepo/solution1144
 ---
 

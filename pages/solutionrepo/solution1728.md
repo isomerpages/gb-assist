@@ -1,15 +1,15 @@
 ---
-title: iFoundries E-commerce Jump Start Package Version 1 - Standard
-permalink: /productivity-solutions-grant/solutionrepo/solution1676
+title: BOTG Version 1.0 - Standard
+permalink: /productivity-solutions-grant/solutionrepo/solution1728
 ---
 
 #### Description
 
-The amount of trade conducted electronically in Singapore and globally has already grown tremendously with the wide-spread of Internet usage. Those who have viewed e-commerce as a secondary channel now need to re-orient every aspect of their business towards a e-commerce mindset. There exists an opportunity to double-down on e-commerce, augmenting existing offerings and creating new lines of product with our E-commerce Jump Start solutions.
+Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_iFoundries_20200498_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: https://www.ifoundries.com <br>Contact Hotline: 96246245<br>Contact Email: web-enquiry@ifoundries.com <br>
+Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

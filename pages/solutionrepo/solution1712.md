@@ -1,15 +1,15 @@
 ---
-title: BOTG Version 1.0 - Standard
-permalink: /productivity-solutions-grant/solutionrepo/solution1139
+title: COVID-19 Sectorial Support CommonAcademy LMS Version 7.2 - Package (201 to 300 Users)
+permalink: /productivity-solutions-grant/solutionrepo/solution1712
 ---
 
 #### Description
 
-Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
+CommonAcademy LMS is an online platform that supports collaborative peer-to-peer learning through its interactive tools and effective online learning activities. With CommonAcademy, learning providers can save costs by bringing their lessons online without comprising on quality. It is SaaS-ready, can be hosted in a scalable cloud or an in-house data centre.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_20200064_Annex_3_Revised_CR_wef_7_Sept_2020v2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CommonTown_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact Hotline: 89077790<br>Contact Email: info@botg.com.sg<br>
+Company Name: CommonTown Pte Ltd<br>Web URL: www.commontown.com<br>Contact Hotline: 6848 8900<br>Contact Email:  richard_tan@commontown.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
