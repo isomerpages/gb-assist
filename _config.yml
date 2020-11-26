@@ -38,5 +38,5 @@ plugins:
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: test test
+description: An Isomer site of the Singapore Government
 
