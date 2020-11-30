@@ -34,6 +34,8 @@ This listing is not to be taken as a form of endorsement or recommendation by th
 
 Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
+The support for COVID-19 continuity measures will cease on 31 Dec 2020. Companies interested to apply for COVID-19 support solutions should submit their applications **before** 31 Dec 2020.
+
 *If you’d like to become a pre-qualified vendor for PSG IT solutions, click <a target="_blank" style="color:#037e8a" href="https://www.imda.gov.sg/icmvendors" >here</a> to find out more.*
 
 ***
