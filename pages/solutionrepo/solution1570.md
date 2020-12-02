@@ -1,5 +1,5 @@
 ---
-title: PLUS Mobile Digital Ordering Solution - Mobile Ordering (Direct Purchase) 
+title: iMakan - Mobile Ordering (Direct Purchase) 
 permalink: /productivity-solutions-grant/solutionrepo/solution1570
 ---
 
@@ -10,7 +10,7 @@ iMakan is widely used by new age diners who prefer digital menu and fast pace or
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200314_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

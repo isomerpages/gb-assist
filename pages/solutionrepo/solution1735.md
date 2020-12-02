@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1735
 
 #### Description
 
-The Job Redesign consultancy support was developed by Workforce Singapore (WSG) as part of the existing Productivity Solutions Grant (PSG) to complement and drive both their business and workforce transformation by making job redesign easier.
+Support for Job Redesign under Productivity Solutions Grant (PSG-JR) was developed by Workforce Singapore (WSG) as part of the existing Productivity Solutions Grant (PSG) to complement and drive both their business and workforce transformation by making job redesign easier.
+
+A panel of pre-approved JR consultants has been appointed to help enterprises redesign work processes, tasks and responsibilities and businesses may approach the following pre-approved JR consultants to engage them for quotations and PSG-JR proposals:
 
 #### Details of Solution
 

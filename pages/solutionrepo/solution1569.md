@@ -1,5 +1,5 @@
 ---
-title: PLUS Mobile Digital Ordering Solution - Mobile Ordering (Subscription for 5 users)
+title: iMakan - Mobile Ordering (Subscription for 5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1569
 ---
 
@@ -10,7 +10,7 @@ iMakan is widely used by new age diners who prefer digital menu and fast pace or
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200314_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_Annex_3_CR_wef_3_Dec_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
