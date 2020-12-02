@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central (NAV) Version 16 - Package A (Ready To Go 3 Users)
+title: Microsoft Dynamics 365 Business Central (NAV) Version 17 - Package A (Ready To Go 3 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution440
 ---
 
@@ -9,7 +9,7 @@ Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabil
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Globalsoft_Solutions_20200096_Annex_3_20200625144321_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Globalsoft_Annex3_CR_wef_3_Dec_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

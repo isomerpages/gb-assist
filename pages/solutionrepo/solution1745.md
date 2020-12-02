@@ -1,15 +1,28 @@
 ---
-title: COVID-19 Support HRM Labs Temperature Screening System Version 1.0-Package (4.3 inch screen with Visitor Management)
-permalink: /productivity-solutions-grant/solutionrepo/solution1383
+title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 150
+permalink: /productivity-solutions-grant/solutionrepo/solution1745
 ---
 
 #### Description
 
-HRM Labs Temperature Screening System is a contactless temperature screening solution integrated with an automatic attendance system for employees, students and visitors. When a person with fever is detected, the entry will be denied and real-time notifications will be sent. The system is equipped with smart facial recognition that also works with face mask on.
+HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes
+1. HRSS via Frontier e-HR
+Personnel Management
+Leave Module
+Mobile Attendance Module
+Payroll Module
+Benefit and Claim Module
+2. HR Admin Support & Payroll Processing
+Process Leave encashment & No Pay Leave via Payroll
+Process Claim Reimbursement
+Prepare Payroll reports for approval
+Prepare GIRO bank file for approval
+Prepare CPF file and submit to CPF Website
+One Payroll process run per month
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_HRMLabs_Temp_Screening_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +37,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +47,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: HRM Labs Pte Ltd<br>Web URL: www.hrmlabs.com<br>Contact Hotline: 6926 3286<br>Contact Email: kason@hrmlabs.com 
+Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

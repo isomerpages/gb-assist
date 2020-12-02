@@ -1,15 +1,15 @@
 ---
-title: CFOsg Xero Cloud Accounting Solution A
-permalink: /productivity-solutions-grant/solutionrepo/solution294
+title: COVID-19 Support HRM Labs Temperature Screening System Version 1.0 - Package (4.3 inch screen with Employee and Visitor Management)
+permalink: /productivity-solutions-grant/solutionrepo/solution1755
 ---
 
 #### Description
 
-Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
+HRM Labs Temperature Screening System is a contactless temperature screening solution integrated with an automatic attendance system for employees, students and visitors. When a person with fever is detected, the entry will be denied and real-time notifications will be sent. The system is equipped with smart facial recognition that also works with face mask on.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_HRMLabs_Temp_Screening_Annex 3_CR_wef_3_Dec_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 89210399<br>Contact Email: XERO@CFOSG.SG
+Company Name: HRM Labs Pte Ltd<br>Web URL: www.hrmlabs.com<br>Contact Hotline: 6926 3286<br>Contact Email: kason@hrmlabs.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

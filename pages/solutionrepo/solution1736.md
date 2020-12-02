@@ -1,6 +1,6 @@
 ---
-title: Job Redesign Consultancy - CET Global
-permalink: /productivity-solutions-grant/solutionrepo/solution1735
+title: Job Redesign Consultancy - Eon Consulting & Training
+permalink: /productivity-solutions-grant/solutionrepo/solution1736
 ---
 
 #### Description
@@ -36,5 +36,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Company Name: CET Global Pte Ltd <br>Web Url: https://www.cetglobal.com.sg<br>Contact email: Ms Yeo Li Sung (lisung.yeo@cetglobal.com.sg)<br>Contact number: 6438 8970
+Company Name: Eon Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg | www.eontraining.com.sg <br>Contact email: Mr Ng Boon Pin (ngboonpin@eon.com.sg)<br>Contact number: 6220 4008
 

@@ -1,15 +1,28 @@
 ---
-title: CFOsg Xero Cloud Accounting Solution A
-permalink: /productivity-solutions-grant/solutionrepo/solution294
+title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 25
+permalink: /productivity-solutions-grant/solutionrepo/solution1742
 ---
 
 #### Description
 
-Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
+HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes
+1. HRSS via Frontier e-HR
+Personnel Management
+Leave Module
+Mobile Attendance Module
+Payroll Module
+Benefit and Claim Module
+2. HR Admin Support & Payroll Processing
+Process Leave encashment & No Pay Leave via Payroll
+Process Claim Reimbursement
+Prepare Payroll reports for approval
+Prepare GIRO bank file for approval
+Prepare CPF file and submit to CPF Website
+One Payroll process run per month
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +37,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +47,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 89210399<br>Contact Email: XERO@CFOSG.SG
+Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
