@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1748
 
 #### Description
 
-The platform for pumping up productivity. Creative Cloud for teams comes with 20+ industry-leading apps for outstanding design, photography, video, and web — including Adobe Photoshop, Illustrator, InDesign, Premiere Pro, Spark, and Acrobat Pro. Your team can share assets across apps and devices with Creative Cloud Libraries — and stay in sync. Plus, with 1TB of storage per user and integration with Microsoft Teams, Slack, and other key business tools, you can boost productivity.
+The platform for pumping up productivity. Creative Cloud for teams comes with 20+ industry-leading apps for outstanding design, photography, video, and web - including Adobe Photoshop, Illustrator, InDesign, Premiere Pro, Spark, and Acrobat Pro. Your team can share assets across apps and devices with Creative Cloud Libraries - and stay in sync. Plus, with 1TB of storage per user and integration with Microsoft Teams, Slack, and other key business tools, you can boost productivity.
 
 #### Details of Solution
 
