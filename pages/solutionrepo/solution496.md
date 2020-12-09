@@ -9,7 +9,7 @@ Innocom Technologies laptop bundle includes a Business Enterprise laptop  with t
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_INNOCOM_Laptop_Bundle_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Innocom_Laptop_Bundle_Annex_3_CR_wef_10_Dec_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

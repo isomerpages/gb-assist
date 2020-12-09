@@ -1,16 +1,15 @@
 ---
-title: 3D Omni Commerce Version 1.03-PRO (Shopee Online Marketplace)
-permalink: /productivity-solutions-grant/solutionrepo/solution1397
+title: COVID 19 Support Leenira VMS V1.0 - CTAF _VMS
+permalink: /productivity-solutions-grant/solutionrepo/solution1778
 ---
 
 #### Description
 
-3D Omni Commerce is a complete end-to-end eCommerce solution for companies that want to take their online businesses to the next level. Promote your products to millions of prospective shoppers by leveraging on some of the most popular online marketplaces such as Shopee, Lazada and Qoo10. With features such as Business Intelligence, Inventory Management, Delivery Management, Gift Voucher option, and many more, 3D Omni Commerce is the best decision that any business can invest in.
-
+iOneSoft 's Leenira VMS is a Contactless Temperature And Face Detection solution that automatically record visitors' information including temperature details.  
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ionesoft_Temperature_screening_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
+Company Name: iOneSoft Solutions Pte Ltd<br>Web URL: www.ionesoftsolutions.com<br>Contact Hotline: 6451 1312 / 6692 9021<br>Contact Email:  richard.lim@ionesoftsolutions.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

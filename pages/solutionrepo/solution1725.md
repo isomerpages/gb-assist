@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: https://www.anewtech.net <br>Contact Hotline: +6597512267 <br>Contact Email: sales@anewtech.com.sg <br>
+Web URL: https://www.anewtech.net <br>Contact Hotline: 6292 0801<br>Contact Email: sales@anewtech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

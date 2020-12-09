@@ -1,16 +1,15 @@
 ---
-title: 3D Omni Commerce Version 1.03-PRO (Shopee Online Marketplace)
-permalink: /productivity-solutions-grant/solutionrepo/solution1397
+title: XERO - Accounting Consultancy-Standard Full Package
+permalink: /productivity-solutions-grant/solutionrepo/solution1764
 ---
 
 #### Description
 
-3D Omni Commerce is a complete end-to-end eCommerce solution for companies that want to take their online businesses to the next level. Promote your products to millions of prospective shoppers by leveraging on some of the most popular online marketplaces such as Shopee, Lazada and Qoo10. With features such as Business Intelligence, Inventory Management, Delivery Management, Gift Voucher option, and many more, 3D Omni Commerce is the best decision that any business can invest in.
-
+Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -25,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
+Web URL: https://sg.abssasia.com/ <br>Contact Hotline: 64818101 <br>Contact Email: warrenwong@accountingconsultancy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

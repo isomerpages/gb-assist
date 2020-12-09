@@ -1,16 +1,16 @@
 ---
-title: 3D Omni Commerce Version 1.03-PRO (Shopee Online Marketplace)
-permalink: /productivity-solutions-grant/solutionrepo/solution1397
+title: COVID-19 Support Rockbell Facial Recognition with Temperature and Mask Entry - Version 1 - On Premise License 2 Units
+permalink: /productivity-solutions-grant/solutionrepo/solution1780
 ---
 
 #### Description
 
-3D Omni Commerce is a complete end-to-end eCommerce solution for companies that want to take their online businesses to the next level. Promote your products to millions of prospective shoppers by leveraging on some of the most popular online marketplaces such as Shopee, Lazada and Qoo10. With features such as Business Intelligence, Inventory Management, Delivery Management, Gift Voucher option, and many more, 3D Omni Commerce is the best decision that any business can invest in.
-
+Rockbell Facial Recognition with Temperature and Mask Entry solution helps to detect visitors with high temperature or visitors whom are not wearing masks. 
+The face recognition device also has access control features integrated with the temperature screening function. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_Temperature_Screening_Annex_3_revised_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Contact Email: hello@3dbrandagency.com 
+Company Name:Rockbell International Software Pte Ltd<br>Web URL: www.rockbell.sg<br>Contact Hotline: 6469 7720 <br>Contact Email:  mili@rockbell.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
