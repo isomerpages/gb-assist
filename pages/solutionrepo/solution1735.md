@@ -36,5 +36,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Company Name: CET Global Pte Ltd <br>Web Url: https://www.cetglobal.com.sg<br>Contact email: Ms Yeo Li Sung (lisung.yeo@cetglobal.com.sg)<br>Contact number: 6438 8970
+Company Name: CET Global Pte Ltd <br>Web Url: https://www.cetglobal.com.sg<br>Contact email: Ms Yeo Li Sung (lisung.yeo@cetglobal.com.sg)<br>Contact number: 6438 8970 (Mobile: 96575085)
 
