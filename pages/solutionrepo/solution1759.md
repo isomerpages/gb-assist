@@ -24,11 +24,10 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription or Leasing to Direct Purchase
+Direct Purchase
 
 #### Support Level
-Up to 80% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
