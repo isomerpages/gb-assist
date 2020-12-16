@@ -27,15 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-Up to 80% for SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.inpqs.com 
-<br>Contact Hotline: 62260881 
-<br>Contact Email: sales@inpqs.com 
-<br>
+Web URL: www.inpqs.com <br>Contact Hotline: 62260881 <br>Contact Email: sales@inpqs.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

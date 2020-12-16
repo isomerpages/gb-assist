@@ -28,7 +28,7 @@ Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
-Up to NA% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

@@ -1,15 +1,15 @@
 ---
-title: Autocount Accounting 2.0 - Package (Premium - 1 User)
-permalink: /productivity-solutions-grant/solutionrepo/solution320
+title: COVID-19 Support iThermo Thermal Scanner iTSCAN1 Version 1.0
+permalink: /productivity-solutions-grant/solutionrepo/solution1789
 ---
 
 #### Description
 
-Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledge of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs.
+iThermo Thermal Scanner is an accurate and certified AI-based thermal scanner that is highly portable as it can run on a battery pack without any running wires. The iThermo can do both walk-by and standing temperature scans. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Creative_eWorld_Autocount_Annex 3_CR_wef26Jun2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_KroniKare_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Creative eWorld Pte Ltd<br>www.creaworld.com.sg<br>Email: enquiry@creaworld.com.sg<br>Tel: +65 6392 2857
+Company Name:KroniKare Pte Ltd<br>Web URL: www.kronikare.ai<br>Contact Hotline: 6873 0167 <br>Contact Email:   sigit@kronikare.ai<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

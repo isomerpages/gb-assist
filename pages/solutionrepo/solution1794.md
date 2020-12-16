@@ -1,6 +1,6 @@
 ---
-title: Autocount Accounting 2.0 - Package (Basic - 3 Users)
-permalink: /productivity-solutions-grant/solutionrepo/solution318
+title: Autocount Accounting 2.0 - Package (Premium - 10 Users)
+permalink: /productivity-solutions-grant/solutionrepo/solution1794
 ---
 
 #### Description
@@ -9,7 +9,7 @@ Autocount is an integrated Accounting and Inventory Management System. It covers
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Creative_eWorld_Autocount_Annex 3_CR_wef26Jun2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Creative eWorld Pte Ltd<br>www.creaworld.com.sg<br>Email: enquiry@creaworld.com.sg<br>Tel: +65 6392 2857
+Company Name: Creative eWorld Pte Ltd<br>Web URL: www.creaworld.com.sg<br>Contact Hotline: 6392 2857 <br>Contact Email: enquiry@creaworld.com.sg<br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
