@@ -1,15 +1,19 @@
 ---
-title: Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package B	
-permalink: /productivity-solutions-grant/solutionrepo/solution1141
+title: Xero - Premier with Set-Up and Training 
+permalink: /productivity-solutions-grant/solutionrepo/solution1808
 ---
 
 #### Description
 
-Aptsys Customer Mobile Self Ordering with online payment and Delivery  is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
+Our company has a long history of servicing small and medium enterprises. Two of the main challenges constantly faced when working with SMEs are limited resources in financial and manpower.  
+
+Proposal on changes to accounting processes and accounting solutions are usually met with reluctance due to capital expenditures and manpower to adapt to these new solutions.  
+
+Xero  is Cloud based and beautifully addresses challenging times where working from home or anywhere is the new norm.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Solutions_Annex_3_CR_wef_23_Dec_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +28,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 64577991 <br>Contact Email: sales.demo@aptsys.com.sg <br>
+Web URL: https://centralms.com.sg/ <br>Contact Hotline: 63371295 <br>Contact Email: enquiries@centralms.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package B	
-permalink: /productivity-solutions-grant/solutionrepo/solution1141
+title: Smart Management Tracking System II - Starter Package
+permalink: /productivity-solutions-grant/solutionrepo/solution1818
 ---
 
 #### Description
 
-Aptsys Customer Mobile Self Ordering with online payment and Delivery  is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
+Tunity Smart Management Tracking System II (SMTS II) is a smart inventory management system that uses the RFID technology. With the RFID tag on each item, we are able to give every object its own identity so as to track the item for visibility, traceability, connectivity and accountability.  Users of the SMTS II System can perform their daily operations easily with the handheld scanner and software application and at the same time experience the digitalization of their operation.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Solutions_Annex_3_CR_wef_23_Dec_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Tunity_20200266_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 64577991 <br>Contact Email: sales.demo@aptsys.com.sg <br>
+Web URL: https://www.tunitytech.com <br>Contact Hotline: 66862343 <br>Contact Email: enquiries@tunitytech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,19 @@
 ---
-title: XERO - Accounting Consultancy-Premium Basic Package
-permalink: /productivity-solutions-grant/solutionrepo/solution1767
+title: Xero - Premier All-In
+permalink: /productivity-solutions-grant/solutionrepo/solution1807
 ---
 
 #### Description
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
+Our company has a long history of servicing small and medium enterprises. Two of the main challenges constantly faced when working with SMEs are limited resources in financial and manpower.  
+
+Proposal on changes to accounting processes and accounting solutions are usually met with reluctance due to capital expenditures and manpower to adapt to these new solutions.  
+
+Xero  is Cloud based and beautifully addresses challenging times where working from home or anywhere is the new norm.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.accountingconsultancy.com<br>Contact Hotline: 6388 8378<br>Contact Email: enquiry@accountingconsultancy.com
+Web URL: https://centralms.com.sg/ <br>Contact Hotline: 63371295 <br>Contact Email: enquiries@centralms.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

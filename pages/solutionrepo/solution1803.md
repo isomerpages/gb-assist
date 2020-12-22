@@ -1,15 +1,16 @@
 ---
-title: Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package B	
-permalink: /productivity-solutions-grant/solutionrepo/solution1141
+title: Adventus Managed Firewall - Sophos, Fortinet and Palo Alto - FortiGate-60F 24x7 - 1 Year
+permalink: /productivity-solutions-grant/solutionrepo/solution1803
 ---
 
 #### Description
 
-Aptsys Customer Mobile Self Ordering with online payment and Delivery  is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
+Adventus Managed Firewall leverages on the Fortigate appliance to provide a holistic approach by providing managed service for network perimeter security monitoring on top of the solution.
+With this all-rounded Firewall Network Perimeter Protection, a proper firewall configuration is ensured, and there is also constant monitoring of firewall threats.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Solutions_Annex_3_CR_wef_23_Dec_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adventus_20200536_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 64577991 <br>Contact Email: sales.demo@aptsys.com.sg <br>
+Web URL: https://adventusasia.com/ <br>Contact Hotline: 61003310 <br>Contact Email: service@adventusasia.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

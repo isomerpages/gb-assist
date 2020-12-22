@@ -1,15 +1,19 @@
 ---
-title: COVID-19 Support VGC Laptop + Online Collaboration Tool-Microsoft 365 Business Premium + laptop
-permalink: /productivity-solutions-grant/solutionrepo/solution1473
+title: The RED Cloud Version v1.0 - RED Success Essentials (5 users)
+permalink: /productivity-solutions-grant/solutionrepo/solution1821
 ---
 
 #### Description
 
-VGC's package provides for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
+The RED Cloud, a product of Real Estate Doc, is a smart cloud-based document management platform.
+
+Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. And get real-time data insights on the performance of your business.
+
+Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80%!
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technologies-Bundle_B_(Software_Laptop)_Annex_3_CR_wef_22_Oct_20_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_20200763_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +28,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase 
+Direct Purchase
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: VGC TECHNOLOGY PTE LTD <br>Web URL: https://www.vgctechnology.com <br>Contact Hotline: 63975396<br>Contact Email: vinc@vgctechnology.com  <br>
+Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

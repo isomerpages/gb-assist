@@ -1,15 +1,15 @@
 ---
-title: Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package B	
-permalink: /productivity-solutions-grant/solutionrepo/solution1141
+title: NuCloud NAS File Storage Solution - NuCloud NAS Storage Standard
+permalink: /productivity-solutions-grant/solutionrepo/solution1817
 ---
 
 #### Description
 
-Aptsys Customer Mobile Self Ordering with online payment and Delivery  is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
+Synology NAS pairing with an onsite and offsite cloud backup to ensure that data protection is achieved and to meet compliance in many organisations. The data can be accessed via mapped drives, website portal or via the mobile app. It also sync the documents automatically without hassle via the app on your local computer, similar to One Drive/Google Drive/Dropbox but this is on a private cloud basis.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Solutions_Annex_3_CR_wef_23_Dec_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_Consulting_20200639_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 64577991 <br>Contact Email: sales.demo@aptsys.com.sg <br>
+Web URL: www.nucleoconsulting.com/email-filtering-phishing-protection <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

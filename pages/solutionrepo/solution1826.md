@@ -1,15 +1,15 @@
 ---
-title: XERO - Accounting Consultancy-Premium Basic Package
-permalink: /productivity-solutions-grant/solutionrepo/solution1767
+title: COVID-19 Support VGC Laptop + Online Collaboration Tool - Microsoft 365 Business Standard + laptop
+permalink: /productivity-solutions-grant/solutionrepo/solution1826
 ---
 
 #### Description
 
-Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
+VGC's package provides for business-grade laptops with collaborative tools and endpoint protection for SME to work remotely and securely. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_VGC_Technologies-Bundle_B_(Software_+_Laptop)_Annex_3_CR_23_Dec_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription or Leasing
+Direct Purchase 
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.accountingconsultancy.com<br>Contact Hotline: 6388 8378<br>Contact Email: enquiry@accountingconsultancy.com
+Company Name: VGC TECHNOLOGY PTE LTD <br>Web URL: https://www.vgctechnology.com <br>Contact Hotline: 63975396<br>Contact Email: vinc@vgctechnology.com  <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

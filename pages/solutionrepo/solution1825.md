@@ -1,15 +1,19 @@
 ---
-title: Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package B	
-permalink: /productivity-solutions-grant/solutionrepo/solution1141
+title: The RED Cloud Version v1.0 - RED Success Essentials (40 users)
+permalink: /productivity-solutions-grant/solutionrepo/solution1825
 ---
 
 #### Description
 
-Aptsys Customer Mobile Self Ordering with online payment and Delivery  is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
+The RED Cloud, a product of Real Estate Doc, is a smart cloud-based document management platform.
+
+Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. And get real-time data insights on the performance of your business.
+
+Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80%!
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Solutions_Annex_3_CR_wef_23_Dec_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 64577991 <br>Contact Email: sales.demo@aptsys.com.sg <br>
+Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: admin@realestatedoc.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
