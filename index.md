@@ -20,7 +20,7 @@ sections:
           url: /gebiz-alerts/
           description: Get notifications on the latest Government procurement opportunities
         - title: Productivity Solutions Grant Listing
-          url: /productivity-solutions-grant/#supportable-solutions
+          url: /productivity-solutions-grant/
           description: View the list of Supportable IT solutions and Equipment
     - infobar:
         title: e-Adviser Feedback

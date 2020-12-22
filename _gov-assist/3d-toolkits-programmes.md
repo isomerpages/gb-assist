@@ -124,7 +124,7 @@ The IHRP Corporate Partner Programme supports employers in equipping their HR te
 
 iWorkHealth 1.0 is an online, self-administered psychosocial health assessment tool for companies and their employees to identify common workplace stressors.
 
-<a href="https://www.iworkhealth.sg" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.iworkhealth.gov.sg" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Job Redesign for the Cleaning Sector
 
