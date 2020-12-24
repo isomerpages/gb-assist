@@ -36,5 +36,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg | www.eontraining.com.sg <br>Contact email: Mr Ng Boon Pin (ngboonpin@eon.com.sg)<br>Contact number: 6220 4008
+Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg<br>Contact email: Mr Ng Boon Pin (ngboonpin@eon.com.sg)<br>Contact number: 6220 4008
 

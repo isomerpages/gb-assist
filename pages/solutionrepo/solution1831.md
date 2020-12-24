@@ -36,5 +36,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Full name of Consultancy Entity: Willis Towers Public facing contact name for enquiries related to PSG-JR: Shuchi Tyagi<br>Public facing contact email for enquiries related to PSG-JR: shuchi.tyagi@willistowerswatson.com<br>Public facing contact number for enquiries related to PSG-JR: 9624 5206
+Full name of Consultancy Entity: Willis Towers Watson Consulting (Singapore) Pte Ltd<br>UEN of Consultancy Entity: 198600361K  <br>URL of Consultancy Entity: www.willistowerswatson.com<br>Public facing contact name for enquiries related to PSG-JR: Shuchi Tyagi<br>Public facing contact email for enquiries related to PSG-JR: shuchi.tyagi@willistowerswatson.com<br>Public facing contact number for enquiries related to PSG-JR: 9624 5206
 

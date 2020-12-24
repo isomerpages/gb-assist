@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.nucleoconsulting.com/email-filtering-phishing-protection <br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com <br>
+Web URL: https://www.nucleoconsulting.com/psg-grants-nas-email-security-cyber-training<br>Contact Hotline: 69110533 <br>Contact Email: contact@nucleoconsulting.com 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
