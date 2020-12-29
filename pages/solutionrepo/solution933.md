@@ -8,10 +8,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution933
 Xero is a cloud-based accounting software platform for small and medium sized businesses. It allows users to work in the same set of books regardless of location or operating system.
 By adopting Xero, unlimited users can log onto the system to perform the accounting works simultaneously, thereby speeding up the whole accounting process.
 
-
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/W.L.P_20200092_Annex_3_20200625144237_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_WLPXERO_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -26,7 +25,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -36,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-W.L.P PTE LTD<br>https://www.wlp.com.sg/<br>Email: info@wlp.com.sg<br>Tel: +65 6493 2970
+Company Name:W.L.P PTE LTD <br>Web URL:https://www.wlp.com.sg/ <br>Contact Hotline:64932970 <br>Contact Email:info@wlp.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

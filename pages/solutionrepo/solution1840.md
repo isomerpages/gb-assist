@@ -1,15 +1,19 @@
 ---
-title: Xero Cloud Accounting Software - Premium Package
-permalink: /productivity-solutions-grant/solutionrepo/solution1567
+title: Yumstone F&B Solutions Version 5.0 - Package 4 Qrcode Ordering and CRM
+permalink: /productivity-solutions-grant/solutionrepo/solution1840
 ---
 
 #### Description
 
-Xero Implementation package is designed to help small businesses to improve their back-office productivity, especially in the area of enabling small business owners to keep track of their accounts in a proper and more accurate manner (instead of using Excel which is very prone to error).
+The Essential F&B Management Solutions 
+Major Productivity Solutions:
+1.	Efficient streamlined manpower, cutting down on mistakes.
+2.	Effective audit to prevent loopholes and lock profits.
+3.	Able to generate different type of sales reports to understand the business sales statistics. The analytic data is able to help on business decisions.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Timcole_20200579_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +38,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.timcole.com.sg <br>Contact Hotline: 69245138 <br>Contact Email: enquiry@timcole.com.sg <br>
+Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sales@yumstone.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

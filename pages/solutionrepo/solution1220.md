@@ -9,7 +9,7 @@ Autodesk's AEC collection equips the Industry to design & construct high quality
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_20200241_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -27,7 +27,7 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-Up to 80% for SMEs <br>
+Up to 70% (80% from 1 Apr 2020 to 31 Dec 2020)% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note

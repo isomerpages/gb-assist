@@ -1,5 +1,5 @@
 ---
-title: Job Redesign Consultancy - CET Global
+title: Job Redesign Consultancy - CET Global Pte Ltd 
 permalink: /productivity-solutions-grant/solutionrepo/solution1735
 ---
 

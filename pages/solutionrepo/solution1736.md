@@ -1,5 +1,5 @@
 ---
-title: Job Redesign Consultancy - EON Consulting & Training
+title: Job Redesign Consultancy - EON Consulting & Training Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1736
 ---
 
