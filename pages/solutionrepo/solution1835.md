@@ -1,6 +1,6 @@
 ---
-title: Job Redesign Consultancy - EON Consulting & Training Pte Ltd
-permalink: /productivity-solutions-grant/solutionrepo/solution1736
+title: Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
+permalink: /productivity-solutions-grant/solutionrepo/solution1835
 ---
 
 #### Description
@@ -36,5 +36,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.com.sg<br>Contact email: Mr Ng Boon Pin (ngboonpin@eon.com.sg)<br>Contact number: 6220 4008
+Full name of Consultancy Entity: Ernst & Young Advisory Pte Ltd <br>UEN of Consultancy Entity: 198905395E<br>URL of Consultancy Entity: http://www.ey.com<br>Public facing contact name for enquiries related to PSG-JR: Goh Jia Yong, Partner, EY People Advisory Services<br>Public facing contact email for enquiries related to PSG-JR: ey.psg.jr@sg.ey.com<br>Public facing contact number for enquiries related to PSG-JR: +65 6309 6552
 
