@@ -34,6 +34,6 @@ Up to 80% for non-SMEs
 Cost in price package does not include optional items and is not indicative of actual project cost.
 
 #### Contact Information
-Company Name:Sensorla Pte Ltd <br>Web URL: https://www.sensorla.co/#Products <br>Contact Hotline: 69096483 <br>Contact Email: contactus@sensorla.co <br>
+Company Name:Sensorla Pte Ltd <br>Web URL: https://www.sensorla.co/#Products <br>Contact Hotline: 6974 7883<br>Contact Email: contactus@sensorla.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Aesthetics Marketing Asia Private Limited<br>Web URL: www.aesthetics.com.sq<br>Contact Hotline:67479808<br>Contact Email: gm@aesthetics.com.sg<br>
+Company Name: Aesthetics Marketing Asia Private Limited<br>Web URL: www.aesthetics.com.sg <br>Contact Hotline:67479808<br>Contact Email: sales@aesthetics.com.sg   <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
