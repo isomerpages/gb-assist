@@ -9,7 +9,7 @@ AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting s
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ For MAS Notice 610 and Notice 1003 Regulatory Reporting.
 Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
 
 #### Contact Information
-N.A.
+Company Name: AxiomSL Pte Ltd<br>Web URL: www.axiomsl.com<br>Contact Hotline: 69557660<br>Contact Email: sdatta@axiomsl.com<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
