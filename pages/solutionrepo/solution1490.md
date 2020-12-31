@@ -9,7 +9,7 @@ OneSumX solution is a modular end-to-end solution suite designed on an integrate
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +35,6 @@ For MAS Notice 610 and Notice 1003 Regulatory Reporting.
 Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
 
 #### Contact Information
-N.A.
+Company Name: Wolters Kluwer Financial Services Singapore Pte Ltd<br>Web URL: www.wolterskluwerfs.com<br>Contact Hotline: 63808000<br>Contact Email: Anurag.Seth@wolterskluwer.com<br>
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
