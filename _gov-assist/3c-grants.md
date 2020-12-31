@@ -176,7 +176,7 @@ The ETSP is a time-limited scheme to cover up to 90% course fee funding (for sel
 
 #### Enterprise Development Grant (EDG)
 
-The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas. Receive up to 70% support for eligible costs. (up to 80% from 1 April - 31 Dec 2020)
+The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas. Receive up to 70% support for eligible costs. (up to 80% from 1 April - 30 Sep 2021)
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/enterprise-development-grant/overview" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -446,7 +446,7 @@ Construction related companies can defray the cost of technology adoption aimed 
 
 #### Productivity Solutions Grant (PSG)
 
-The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April - 31 Dec 2020.
+The PSG supports businesses in the adoption of productivity solutions. Businesses can choose from a list of pre-scoped solutions and receive up to 80% funding support for eligible costs from 1 April - 31 Sep 2021.
 
 <a href="https://govassist.gobusiness.gov.sg/productivity-solutions-grant/" target="_blank" style="color:#037e8a">Find out more</a>
 
