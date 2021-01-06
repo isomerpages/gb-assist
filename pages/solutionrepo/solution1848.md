@@ -1,19 +1,15 @@
 ---
-title: ABSS Premier Version 23  -  Package (Single User with E-Invoicing)
-permalink: /productivity-solutions-grant/solutionrepo/solution180
+title: ABSS Premier Version 23 - Package (Single User with InvoiceNow)
+permalink: /productivity-solutions-grant/solutionrepo/solution1848
 ---
 
 #### Description
 
-ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
-
-
-
-
+ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Annex_3_CR_wef_4th_Sept_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Premier_V23_Annex3_CR_wef_7_Jan_2021_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-Up to 80% for SMEs <br>
+Up to 70% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-ABSS (formerly known as MYOB)<br>www.abssasia.com<br>Email: cs.sg@abssasia.com<br>Tel: +65 6505 6582
+Company Name: ABSS (formerly known as MYOB) <br>Web URL: www.abssasia.com<br>Contact Hotline: 6505 6582<br>Contact Email: cs.sg@abssasia.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
