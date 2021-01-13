@@ -31,7 +31,8 @@ Up to 80% for SMEs <br>
 Up to 80% for non-SMEs
 
 #### Things to Note
-Grant cap: Up to S$96,000 per unit
+Grant cap: Up to S$58,600 per unit
+
 
 #### Contact Information
 N.A.

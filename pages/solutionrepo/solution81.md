@@ -5,7 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution81
 
 #### Description
 
-The food waste recycling system with the provision of the in-sink-grinder/ in-feed station is able to convert recycle food waste into organic fertilisers/ compost/ discharge in liquid form. It will reduce the needs for separation, transportation and collection of these food waste for disposal.
+The food waste recycling system with the provision of the in-feed station is able to convert recycle food waste into organic fertilisers/ compost/ discharge in liquid form. It will reduce the needs for separation, transportation and collection of these food waste for disposal.
+
+*All systems are required to be implemented in compliance with all prevailing local regulations.
 
 #### Details of Solution
 
@@ -38,11 +40,13 @@ System must comprise of:
 - conveyance system
 - holding tank (optional)
 - loading cell (optional)
-- in-sink grinder (optional)
+
  
 Minimum treatment capacity: 100kg per day.
 
-Grant cap: Up to S$350,000 per unit
+Grant cap: Up to S$167,700 per unit
+
+
 
 #### Contact Information
 N.A.

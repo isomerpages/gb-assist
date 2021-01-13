@@ -27,11 +27,11 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
-Up to 60% for SMEs <br>
+Up to 30% for SMEs <br>
 Up to 60% for non-SMEs
 
 #### Things to Note
-Grant cap: Up to S$720 per unit
+Grant cap: Up to S$300 per unit
 
 #### Contact Information
 N.A.

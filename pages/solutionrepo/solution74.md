@@ -31,12 +31,13 @@ Up to 80% for SMEs <br>
 Up to 80% for non-SMEs
 
 #### Things to Note
-Specifications:
-The system, comprising key components such as 
+Specifications
+The system, comprising key components such as: 
 - bin lifter
 - An enclosure compartment for washing of bins. 
 
-Grant cap: Up to S$320,000 per unit
+
+Grant cap: Up to S$332,000 per unit
 
 #### Contact Information
 N.A.

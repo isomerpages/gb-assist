@@ -34,8 +34,7 @@ Up to 80% for non-SMEs
 Specifications
 - Treatment capacity of at least 0.5 tonnes/hour
 
-
-Grant cap: Up to S$240,000 per unit
+Grant cap: Up to S$136,600 per unit
 
 #### Contact Information
 N.A.

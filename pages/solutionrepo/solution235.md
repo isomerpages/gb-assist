@@ -1,15 +1,15 @@
 ---
-title: Beautec Version 3 centralized version - Package (Standard with HW - 23.8" Screen)
+title: Beautec Version 3 centralized version - Package (POS Set B100)
 permalink: /productivity-solutions-grant/solutionrepo/solution235
 ---
 
 #### Description
 
-Beautec system aims to simplify the tedious workflow processes of the highly complex beauty spa. It is an online, real-time, multi-branch ERP cum CRM system to solve operational issues.
+Beautec system aims to simplify the tedious workflow processes of the highly complex beauty spa. It is an online, real-time, multi-branch ERP cum CRM system to solve operational issues. 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Beautec_Pte_Ltd_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Beautec_Annex_3_CR_wef_14_Jan_2021_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Beautec Pte Ltd<br>www.beau-tec.com<br>Email: sales@beau-tec.com<br>Tel: +65 6777 2703 ext 202
+Company Name: Beautec Pte Ltd<br>Web URL: www.beau-tec.com<br>Contact Hotline: 67772703 ext 202<br>Contact Email: sales@beau-tec.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

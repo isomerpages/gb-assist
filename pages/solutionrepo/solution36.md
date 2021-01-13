@@ -36,7 +36,7 @@ Specifications
 - Cordless technology
 - Battery pack with carrying frame
 
-Grant cap: Up to S$1,200 per unit
+Grant cap: Up to S$700 per unit
 
 #### Contact Information
 N.A.

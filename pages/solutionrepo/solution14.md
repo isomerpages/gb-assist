@@ -32,9 +32,9 @@ Up to 80% for non-SMEs
 
 #### Things to Note
 Specifications
-- System should have a wide area vacuum head  and an adjustable vacuum hose. 
-- Vehicle must be able to operate in rough terrains such as roads, concrete, turf, mud etc.
-Grant cap: Up to S$56,000 per unit
+Vehicle must be able to operate in rough terrains such as roads, concrete, turf, mud etc.
+
+Grant cap: Up to S$50,000 per unit
 
 #### Contact Information
 N.A.

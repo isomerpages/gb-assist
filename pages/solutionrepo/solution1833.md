@@ -5,9 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1833
 
 #### Description
 
-Support for Job Redesign under Productivity Solutions Grant (PSG-JR) was developed by Workforce Singapore (WSG) as part of the existing Productivity Solutions Grant (PSG) to complement and drive both their business and workforce transformation by making job redesign easier.
+At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value. 
 
-A panel of pre-approved JR consultants has been appointed to help enterprises redesign work processes, tasks and responsibilities and businesses may approach the following pre-approved JR consultants to engage them for quotations and PSG-JR proposals:
+We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
 
 #### Details of Solution
 
@@ -36,5 +36,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Full name of Consultancy Entity: Deloitte Consulting Pte Ltd <br>UEN of Consultancy Entity: 199707499N<br>URL of Consultancy Entity:  https://www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting <br>Public facing contact name for enquiries related to PSG-JR : Adrian Ole<br>Public facing contact email for enquiries related to PSG-JR: aole@deloitte.com<br>Public facing contact number for enquiries related to PSG-JR: +65 62327192
+Company Name: Deloitte Consulting Pte Ltd <br>Web URL: www2.deloitte.com/sg/en/services/consulting.html?icid=top_consulting <br>Contact Email: aole@deloitte.com<br>Contact Number: 6232 7192
 

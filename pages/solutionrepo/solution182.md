@@ -36,7 +36,7 @@ Specifications
 - Covers at least 1000sqm per hour
 - Hopper volume (>30L)
 
-Grant cap: Up to S$12,000 per unit
+Grant cap: Up to S$600 per unit
 
 #### Contact Information
 N.A.

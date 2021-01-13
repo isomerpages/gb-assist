@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution281
 
 #### Description
 
-The industrial steam cleaner comes with powerful steam pressure for continuously cleaning of dirt removal and grease cleaning easily. Besides cleaning, it can performs disinfection such as killing pathogens and bacteria. The equipment is an eco-friendly way of cleaning through steam pressure without any use of chemicals and not harmful to the user or the environment.
+The industrial steam cleaner generates high steam pressures for continuous removal of dirt and grease cleaning. The equipment is to be an eco-friendly by cleaning through steam pressure without any use of chemicals and is not to be harmful to the user or the environment.
 
 #### Details of Solution
 
@@ -33,11 +33,10 @@ Up to 60% for non-SMEs
 #### Things to Note
 Specifications
 The industrial steam cleaner should have at least 
--	Steam pressure > 1 bar/120 degree Celsius
--	Tank capacity > 1 litre
- 
+- Steam pressure > 1 bar/120 degree Celsius
+- Tank capacity > 1 litre
 
-Grant cap: Up to S$6,000 per unit
+Grant cap: Up to S$2,200 per unit
 
 #### Contact Information
 N.A.
