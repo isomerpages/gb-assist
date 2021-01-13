@@ -37,7 +37,7 @@ Specifications
 - Containment tank must be equipped with fill-level sensors, data management system and diagnostics functions
 
 
-Grant cap: Up to S$72,000 per unit
+Grant cap: Up to S$44,500 per unit
 
 #### Contact Information
 N.A.

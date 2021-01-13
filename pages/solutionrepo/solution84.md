@@ -32,13 +32,15 @@ Up to 80% for non-SMEs
 
 #### Things to Note
 Specifications
-A plastic washing line must include:
+- A plastic washing line must include:
 - a shredder or granulator(optional)
 - washer 
 - separation tank
 - drying system 
-Minimum treatment capacity of 1,000kg per hour.
-Grant cap: Up to S$350,000 per unit
+ 
+- Minimum treatment capacity of 1,000kg per hour.
+
+Grant cap: Up to S$280,000 per unit
 
 #### Contact Information
 N.A.

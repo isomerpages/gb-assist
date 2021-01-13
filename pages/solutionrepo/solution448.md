@@ -33,10 +33,10 @@ Up to 80% for non-SMEs
 #### Things to Note
 Specifications
 The system must minimally consist of the following:
--	Sensors (to detect rodents)
--	User interface (with real-time data analytics and rodent activity map).
+- Sensors (to detect rodents)
+- User interface (with real-time data analytics and rodent activity map).
 
-Grant cap: Up to S$350,000 per unit
+Grant cap: Up to S$18,900 per unit
 
 #### Contact Information
 N.A.

@@ -31,10 +31,12 @@ Up to 80% for SMEs <br>
 Up to 80% for non-SMEs
 
 #### Things to Note
-"- Cordless Technology (wireless)
+Specifications
+- Cordless Technology (wireless)
 - Covers at least 800sqm/hour 
 - Solution tank capacity (>1L)
-Grant cap: Up to S$112,000 per unit
+
+Grant cap: Up to S$10,700 per unit
 
 #### Contact Information
 N.A.

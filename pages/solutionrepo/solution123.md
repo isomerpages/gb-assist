@@ -38,7 +38,7 @@ The Smart Baler system must be able to:
 - provide variable bale length control
 - conveyor feed compatible
 
-Grant cap: Up to S$160,000 per unit
+Grant cap: Up to S$80,400 per unit
 
 #### Contact Information
 N.A.

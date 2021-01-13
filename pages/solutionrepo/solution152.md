@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution152
 
 #### Description
 
-A unique set of equipment which produced treated water/ solution that is 100% chemical free and biodegradable. The treated water/solution must not contain any types of chloramine, no colour compounds and not producing any odours/ smell. The treated water/ solution must be safe to use for general cleaning purposes. The equipment is to be used in industrial or commercial premises. Equipment should not produce any residue and the use of the treated water should be rinse-free.
+A unique set of equipment which produces treated water/ solution that is biodegradable. The treated water/solution could contain additives but must have no chloramines, no colour compounds and not produce any odours/ smell. The treated water/ solution must be safe to use for general cleaning purposes. The equipment is to be used in industrial or commercial premises. Equipment should not produce any residue and the use of the treated water should be rinse-free.
 
 #### Details of Solution
 
@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 Up to 80% for non-SMEs
 
 #### Things to Note
-Grant Cap: Up to S$40,000 per unit
+Grant Cap: Up to S$14,800 per unit
 
 #### Contact Information
 N.A.

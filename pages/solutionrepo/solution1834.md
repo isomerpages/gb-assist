@@ -1,5 +1,5 @@
 ---
-title: Job Redesign Consultancy - Aon Hewitt Singapore Pte Ltd
+title: Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1834
 ---
 
@@ -36,5 +36,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Full name of Consultancy Entity: Aon Hewitt Singapore Pte Ltd <br>UEN of Consultancy Entity: 198901141D<br>URL of Consultancy Entity: https://humancapital.aon.com/ <br>Public facing contact name for enquiries related to PSG-JR: Ishita Goel<br>Public facing contact email for enquiries related to PSG-JR: Ishita.goel2@aon.com <br>Public facing contact number for enquiries related to PSG-JR: +65 81657647
+Full name of Consultancy Entity: Aon Solutions Singapore Pte Ltd<br>UEN of Consultancy Entity: 198901141D<br>URL of Consultancy Entity: https://humancapital.aon.com/ <br>Public facing contact name for enquiries related to PSG-JR: Ishita Goel<br>Public facing contact email for enquiries related to PSG-JR: Ishita.goel2@aon.com <br>Public facing contact number for enquiries related to PSG-JR: +65 81657647
 

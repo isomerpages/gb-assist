@@ -35,8 +35,7 @@ Specifications
 - Liquid solution tank with minimum capacity of 100 litres; and 
 - Recovery tank with minimum capacity of 100 litres.
 
-Grant cap: Up to S$24,000 per unit
-
+Grant cap: Up to S$10,100 per unit
 
 #### Contact Information
 N.A.

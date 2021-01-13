@@ -33,10 +33,11 @@ Up to 80% for non-SMEs
 #### Things to Note
 Specifications
 The machine must consist of minimally the following:
--brushing, to remove embedded   
-   dirt in the grooves.
+- Brushing, to remove embedded dirt in the grooves.
 - Vacuuming, for removal of dirt and water.
-Grant cap: Up to S$40,000 per unit
+
+Grant cap: Up to S$5,400 per unit
+
 
 #### Contact Information
 N.A.

@@ -35,8 +35,7 @@ Specifications
 - At least 1400mm of sweeping width
 - Hopper volume (>500L)
 
-Grant cap: Up to S$320,000 per unit
-
+Grant cap: Up to S$159,300 per unit
 
 #### Contact Information
 N.A.

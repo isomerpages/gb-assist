@@ -1,5 +1,5 @@
 ---
-title: Adventus Managed Firewall - Sophos, Fortinet and Palo Alto - FortiGate-60F 24x7 - 1 Year
+title: Adventus Managed Firewall - Fortinet  - FortiGate-60F 24x7 - 1 Year
 permalink: /productivity-solutions-grant/solutionrepo/solution1803
 ---
 
@@ -10,7 +10,7 @@ With this all-rounded Firewall Network Perimeter Protection, a proper firewall c
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adventus_20200536_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

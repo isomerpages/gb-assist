@@ -1,5 +1,5 @@
 ---
-title: Customer Relation Management System (CRM/Loyalty Programme) - Package B
+title: Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package B
 permalink: /productivity-solutions-grant/solutionrepo/solution1269
 ---
 
@@ -9,7 +9,7 @@ Aptsys online CRM, marketing and advertising capabilities will propel businesses
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_APTSYS_20200063_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

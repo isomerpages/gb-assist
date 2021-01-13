@@ -33,8 +33,10 @@ Up to 60% for non-SMEs
 #### Things to Note
 Specifications
 - At least 2m reach; 
+- Camera system
 - A RO/DI pure water system generator and pump (optional)
-Grant cap: Up to S$3,000 per unit
+
+Grant cap: Up to S$2,800 per unit
 
 #### Contact Information
 N.A.
