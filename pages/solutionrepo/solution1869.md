@@ -7,9 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1869
 
 T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.
 
-•Advanced tracking technology providing greater fleet insights to improve business productivity and safety
-•Driver behaviour insights and scoring to instil safe driving culture
-•Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
+- Advanced tracking technology providing greater fleet insights to improve business productivity and safety
+- Driver behaviour insights and scoring to instil safe driving culture
+- Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
 
 #### Details of Solution
 
