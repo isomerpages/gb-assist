@@ -5,9 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1834
 
 #### Description
 
-Support for Job Redesign under Productivity Solutions Grant (PSG-JR) was developed by Workforce Singapore (WSG) as part of the existing Productivity Solutions Grant (PSG) to complement and drive both their business and workforce transformation by making job redesign easier.
-
-A panel of pre-approved JR consultants has been appointed to help enterprises redesign work processes, tasks and responsibilities and businesses may approach the following pre-approved JR consultants to engage them for quotations and PSG-JR proposals:
+Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
 
 #### Details of Solution
 
@@ -36,5 +34,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Full name of Consultancy Entity: Aon Solutions Singapore Pte Ltd<br>UEN of Consultancy Entity: 198901141D<br>URL of Consultancy Entity: https://humancapital.aon.com/ <br>Public facing contact name for enquiries related to PSG-JR: Ishita Goel<br>Public facing contact email for enquiries related to PSG-JR: Ishita.goel2@aon.com <br>Public facing contact number for enquiries related to PSG-JR: +65 81657647
+Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com/ <br>Contact Email: Ishita.goel2@aon.com <br>Contact Number: 8165 7647
 

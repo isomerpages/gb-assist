@@ -5,9 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1835
 
 #### Description
 
-Support for Job Redesign under Productivity Solutions Grant (PSG-JR) was developed by Workforce Singapore (WSG) as part of the existing Productivity Solutions Grant (PSG) to complement and drive both their business and workforce transformation by making job redesign easier.
-
-A panel of pre-approved JR consultants has been appointed to help enterprises redesign work processes, tasks and responsibilities and businesses may approach the following pre-approved JR consultants to engage them for quotations and PSG-JR proposals:
+COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
 
 #### Details of Solution
 
@@ -36,5 +34,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Full name of Consultancy Entity: Ernst & Young Advisory Pte Ltd <br>UEN of Consultancy Entity: 198905395E<br>URL of Consultancy Entity: http://www.ey.com<br>Public facing contact name for enquiries related to PSG-JR: Goh Jia Yong, Partner, EY People Advisory Services<br>Public facing contact email for enquiries related to PSG-JR: ey.psg.jr@sg.ey.com<br>Public facing contact number for enquiries related to PSG-JR: +65 6309 6552
+Company Name: Ernst & Young Advisory Pte Ltd <br>Web URL: www.ey.com<br>Contact Name: Goh Jia Yong, Partner, EY People Advisory Services<br>Contact Email: ey.psg.jr@sg.ey.com<br>Contact Number: 6309 6552
 

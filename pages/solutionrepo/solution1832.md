@@ -5,9 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1832
 
 #### Description
 
-Support for Job Redesign under Productivity Solutions Grant (PSG-JR) was developed by Workforce Singapore (WSG) as part of the existing Productivity Solutions Grant (PSG) to complement and drive both their business and workforce transformation by making job redesign easier.
-
-A panel of pre-approved JR consultants has been appointed to help enterprises redesign work processes, tasks and responsibilities and businesses may approach the following pre-approved JR consultants to engage them for quotations and PSG-JR proposals:
+Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
 
 #### Details of Solution
 
@@ -36,5 +34,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Full name of Consultancy Entity: Mercer (Singapore) Pte Ltd <br>UEN of Consultancy Entity:  197802499E<br>URL of Consultancy Entity: https://www.asean.mercer.com/ <br>Public facing contact name for enquiries related to PSG-JR: Charmaine Thong<br>Public facing contact email for enquiries related to PSG-JR: charmaine.thong@mercer.com<br>Public facing contact number for enquiries related to PSG-JR: +65 82923211
+Company Name: Mercer (Singapore) Pte Ltd <br>Web URL: www.asean.mercer.com/ <br>Contact Email: charmaine.thong@mercer.com<br>Contact Number: 8292 3211
 

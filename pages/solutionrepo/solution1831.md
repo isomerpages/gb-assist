@@ -5,9 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1831
 
 #### Description
 
-Support for Job Redesign under Productivity Solutions Grant (PSG-JR) was developed by Workforce Singapore (WSG) as part of the existing Productivity Solutions Grant (PSG) to complement and drive both their business and workforce transformation by making job redesign easier.
-
-A panel of pre-approved JR consultants has been appointed to help enterprises redesign work processes, tasks and responsibilities and businesses may approach the following pre-approved JR consultants to engage them for quotations and PSG-JR proposals:
+Willis Towers Watson is a global advisory & solutions company. Given recent business and technology trends, Job Redesign is a critical strategy for responding with agility and building talent for the future. Our solutions leverage cutting-edge Artificial Intelligence technologies to identify Job Redesign opportunities, new ways of working and quantify productivity gains. Our experienced consultants will collaborate with you to co-create bespoke solutions that will increase productivity, create meaningful jobs and improve performance.
 
 #### Details of Solution
 
@@ -36,5 +34,5 @@ Up to 70% for non-SMEs
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
 #### Contact Information
-Full name of Consultancy Entity: Willis Towers Watson Consulting (Singapore) Pte Ltd<br>UEN of Consultancy Entity: 198600361K  <br>URL of Consultancy Entity: www.willistowerswatson.com<br>Public facing contact name for enquiries related to PSG-JR: Shuchi Tyagi<br>Public facing contact email for enquiries related to PSG-JR: shuchi.tyagi@willistowerswatson.com<br>Public facing contact number for enquiries related to PSG-JR: 9624 5206
+Company Name: Willis Towers Watson Consulting (Singapore) Pte Ltd<br>Web URL: www.willistowerswatson.com<br>Contact Email: shuchi.tyagi@willistowerswatson.com<br>Contact Number: 9624 5206
 
