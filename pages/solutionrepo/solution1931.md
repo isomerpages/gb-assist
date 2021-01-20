@@ -1,15 +1,15 @@
 ---
-title: FoodZaps Version 4.0 - Package A (eMenu)
-permalink: /productivity-solutions-grant/solutionrepo/solution1095
+title: Simpple Version V1.0 - SIMPPLE ECOSYSTEM - XS
+permalink: /productivity-solutions-grant/solutionrepo/solution1931
 ---
 
 #### Description
 
-FoodZaps Technology is a Singapore company with the most comprehensive and integrated F&B system. Streamlines Customer Self-ordering, for Both online and on-premise, dine-in, takeaway and delivery, all integrated to FoodZaps. Includes cashier, ewaiter, payment processes and optimises operations, orders sent to the kitchen, cloud analytics portal providing insights on sales and product performance. Designed to increase productivity and build successful F&B business.
+The SIMPPLE integrated facilities management ecosystem is focused on service quality for facilities management.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,12 +28,12 @@ Direct Purchase
 
 #### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 91606815 <br>Contact Email: sales@foodzaps.com <br>
+Web URL: www.simpple.com.sg <br>Contact Hotline: 69096936 <br>Contact Email: sales@simpple.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

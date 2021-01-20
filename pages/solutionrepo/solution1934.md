@@ -1,15 +1,15 @@
 ---
-title: VersaFleet Version 6-W
-permalink: /productivity-solutions-grant/solutionrepo/solution952
+title: Simpple Version V1.0 - SIMPPLE ECOSYSTEM - L
+permalink: /productivity-solutions-grant/solutionrepo/solution1934
 ---
 
 #### Description
 
-VersaFleet Transport Management Software (TMS) automates logistics processes for wholesale and distribution operations. Map-based planning with scheduled route optimisation, coupled with auto-tagging of jobs based on geographical locations facilitate and simplify the business operation. Wholesaler are able to have better monitoring and control over the on-going activities through this solution. 
+The SIMPPLE integrated facilities management ecosystem is focused on service quality for facilities management.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Versafleet-WS_Annex3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -28,12 +28,12 @@ Direct Purchase
 
 #### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Website: www.versafleet.co <br>Email: customers@versafleet.co<br>Tel: 69965309 
+Web URL: www.simpple.com.sg <br>Contact Hotline: 69096936 <br>Contact Email: sales@simpple.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

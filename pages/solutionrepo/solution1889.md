@@ -1,15 +1,15 @@
 ---
-title: VersaFleet Version 6-W
-permalink: /productivity-solutions-grant/solutionrepo/solution952
+title: GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - Plus
+permalink: /productivity-solutions-grant/solutionrepo/solution1889
 ---
 
 #### Description
 
-VersaFleet Transport Management Software (TMS) automates logistics processes for wholesale and distribution operations. Map-based planning with scheduled route optimisation, coupled with auto-tagging of jobs based on geographical locations facilitate and simplify the business operation. Wholesaler are able to have better monitoring and control over the on-going activities through this solution. 
+GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collaboration for companies and projects of any size. It works on any network, hardware or software configuration. With the help of its mobile integration through the cloud, all stakeholders of the design build process can actively be connected 24/7.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Versafleet-WS_Annex3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Website: www.versafleet.co <br>Email: customers@versafleet.co<br>Tel: 69965309 
+Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: mail@graphisoft.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

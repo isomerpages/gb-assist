@@ -1,15 +1,15 @@
 ---
-title: FoodZaps Version 4.0 - Package C (Customer QR/Online Self Ordering)
-permalink: /productivity-solutions-grant/solutionrepo/solution1097
+title: arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Basic
+permalink: /productivity-solutions-grant/solutionrepo/solution1899
 ---
 
 #### Description
 
-FoodZaps Technology is a Singapore company with the most comprehensive and integrated F&B system. Streamlines Customer Self-ordering, for Both online and on-premise, dine-in, takeaway and delivery, all integrated to FoodZaps. Includes cashier, ewaiter, payment processes and optimises operations, orders sent to the kitchen, cloud analytics portal providing insights on sales and product performance. Designed to increase productivity and build successful F&B business.
+With Arcstone's Real-Time Production Scheduling and Job Tracking solution, manufacturers gain better control over their process flows ensuring the maximum level of efficiency achieved with minimal chance of delays or potential interruptions occur. Leveraging the toolset, manufacturers are able to stay on top of their production processes through automatic and accurate resources planning, allocation and dynamic (re) scheduling capabilities.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 91606815 <br>Contact Email: sales@foodzaps.com <br>
+Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -1,15 +1,15 @@
 ---
-title: VersaFleet Version 6-W
-permalink: /productivity-solutions-grant/solutionrepo/solution952
+title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Starter Kit - 36mths
+permalink: /productivity-solutions-grant/solutionrepo/solution1907
 ---
 
 #### Description
 
-VersaFleet Transport Management Software (TMS) automates logistics processes for wholesale and distribution operations. Map-based planning with scheduled route optimisation, coupled with auto-tagging of jobs based on geographical locations facilitate and simplify the business operation. Wholesaler are able to have better monitoring and control over the on-going activities through this solution. 
+Auk Industries is a disruptive end-to-end technology provider for Industrial IoT. Analogous to "Fitbit-for- machines", our cost-effective universal IoT devices can be quickly deployed in minutes onto a diverse range of industrial machines to stream vital machine stats to the secured cloud platform in real-time, making ops data available to users anytime on dashboards, computers or mobile devices.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Versafleet-WS_Annex3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AUK_20200866_Desensitised_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Website: www.versafleet.co <br>Email: customers@versafleet.co<br>Tel: 69965309 
+Web URL: https://auk.industries <br>Contact Hotline: 68163655 <br>Contact Email: sales.web@auk.industries <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
