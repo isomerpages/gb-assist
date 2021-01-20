@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Whyze Solutions Pte Ltd<br>http://www.whyze.com.sg/hrms/<br>Email: enquiry@whyze.com.sg<br>Tel: +65 6838 0161
+Website: www.versafleet.co <br>Email: customers@versafleet.co<br>Tel: 69965309 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

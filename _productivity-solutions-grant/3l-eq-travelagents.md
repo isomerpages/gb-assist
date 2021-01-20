@@ -9,6 +9,7 @@ accordion:
 
 ## Pre-scoped Equipment for Travel Agents
 
+
 #### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
 {% include accordion.html %}

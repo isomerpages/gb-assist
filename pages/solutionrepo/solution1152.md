@@ -1,5 +1,5 @@
 ---
-title: Auto Welding Carriage for T-beam/ Stiffener Multiple Welds
+title: Auto Welding Carriage
 permalink: /productivity-solutions-grant/solutionrepo/solution1152
 ---
 
