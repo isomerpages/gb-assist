@@ -9,6 +9,8 @@ accordion:
 
 ## Pre-scoped Equipment for Food Services
 
+#### Please check your company's grant cap on BGP. For grant cap ending 31 Mar 2021, please kindly submit your PSG application by 1st February 2021 to be qualified under this grant cap. Applications submitted after 1st February may tap on the next financial year's grant cap
+
 #### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
 {% include accordion.html %}
