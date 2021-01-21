@@ -19,7 +19,7 @@ Business entities can apply for PSG if they meet the following criteria:
 #### How to apply?
 
 #### 3 steps:
-1.	Access the list of supportable solutions for eligible for your sector and identify relevant solutions that best suit your business needs.
+1.	Access the list of supportable solutions eligible for your sector and identify relevant solutions that best suit your business needs.
 2.	For **IT solutions:** Get a quotation from the pre-approved vendor
 <br>For **Equipment:** Source for the equipment and get a quotation from the vendor
 <br> For **Consultancy Service:** Get a quotation from the pre-approved consultant
