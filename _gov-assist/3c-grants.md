@@ -114,12 +114,6 @@ DAG scheme supports Singapore-based FIs and Fintech firms adopt digital solution
 
 <a href="https://www.mas.gov.sg/development/fintech/digital-acceleration-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Digital Project Management Services
-
-SMEs can tap on a ready pool of skilled digital project manager at a subsidised rate, to help with implementing digital solutions correctly and timely.
-
-<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Project-Management-Services" target="_blank" style="color:#037e8a">Find out more</a>
-
 #### Digital Resilience Bonus
 
 The Digital Resilience Bonus aims to uplift the digital capabilities of a broad-base of enterprises. Eligible Food Services and Retail enterprises can receive up to $10,000 one-time cash payouts when they adopt pre-defined categories of solutions.
