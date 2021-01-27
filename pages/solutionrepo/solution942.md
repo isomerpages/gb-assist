@@ -7,10 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution942
 
 Cloud-Based POS System with product management, inventory management, promotion management and sales analytics module. Designed for Retail, F&B, QSR chains and the Service line.
 
-
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Weebo_20200141_Annex_3_20200625151603_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Weebo Pte Ltd<br>https://www.weebo.com.sg/shop/<br>Email: admin@weebo.com.sg<br>Tel: +65 6850 5177
+Company Name:Weebo Pte Ltd <br>Web URL: https://www.weebo.com.sg/shop/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

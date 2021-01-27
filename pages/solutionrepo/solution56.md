@@ -33,9 +33,12 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
+Mandatory Specification:
+-	Minimum wattage: 2,200W
+
+Additional Criteria:
+-	Min 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+-	The purchase of pre-owned/used equipment is not supportable
 
 #### Contact Information
 N.A.
