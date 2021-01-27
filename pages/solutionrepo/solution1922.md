@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1922
 
 #### Description
 
-Build everlasting customer relationships with the world's favorite CRM
+Build everlasting customer relationships with the world's favorite CRM.
 Zoho CRM empowers a global network of over 150,000 businesses in 180 countries to convert more leads, engage with customers, and grow their revenue. Transform your business with the world's favorite customer relationship management software.
 
 #### Details of Solution
@@ -35,6 +35,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.zoho.com <br>Contact Hotline: 63344486 <br>Contact Email: sale@zohocorp.com <br>
+Web URL: www.zoho.com <br>Contact Hotline: 67231040<br>Contact Email: sales@zohocorp.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
