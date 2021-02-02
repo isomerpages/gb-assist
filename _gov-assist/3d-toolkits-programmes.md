@@ -130,7 +130,7 @@ iWorkHealth 1.0 is an online, self-administered psychosocial health assessment t
 
 Cleaning service providers and buyers can access a list of easy-to-adopt solutions to be improve productivity, attract and retain workers and improve service outcomes.
 
-<a href="https://www.enterprisejobskills.sg/content/redesign-jobs/job-redesign/cleaning/job-redesign-programme-for-environmental-services-cleaning-sector.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.wsg.gov.sg/programmes-and-initiatives/manpower-lean-productivity/environmental-services-cleaning-job-redesign-initiative.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Job Redesign for the Food Services Sector
 
@@ -244,13 +244,13 @@ Register as a host company to gain access to a qualified pool of fresh talent. T
 
 The Skills Frameworks provide useful information on job roles, key tasks expected to be performed by each job role, as well as the skills that an individual should possess for each job role. 
 
-<a href="https://www.enterprisejobskills.sg/content/upgrade-skills/skills-framework/index.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skills-framework/index.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### SkillsFuture for Digital Workplace
 
 Equip your staff the right mindset and skills to welcome emerging technologies and technological changes to the workplace, and to take advantage of new opportunities in the future economy. 
 
-<a href="https://www.enterprisejobskills.sg/content/upgrade-skills/skillsfuture-for-digital-workplace.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/skillsfuture-for-digital-workplace.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### SkillsFuture Series "Tech-enabled Services"
 

@@ -160,7 +160,7 @@ Employers that hire local workers who had gone through eligible reskilling or tr
 
 The ETSS offers higher course fee grant of up to 90% of the course fees and absentee payroll funding of 80% of basic hourly salary at a higher cap of $7.50 per hour for SMEs signing up for SSG-supported courses. 
 
-<a href="https://www.enterprisejobskills.sg/content/upgrade-skills/enhanced-training-support-for-SME.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/enhanced-training-support-for-SME.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Enhanced Training Support Package (ETSP)
 
@@ -352,7 +352,7 @@ The iPOST initiative helps FIs defray part of the costs incurred in sending Sing
 
 (iSkills) Talent Development Programme is customised for both junior and senior internationalisers. Participating businesses can expect overseas immersion and a final project. 
 
-<a href="https://www.enterprisejobskills.sg/content/recruit-talent/internationalisation-skills-talent-development-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/internationalisation-skills-talent-development-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Kickstart Fund (KF)
 
@@ -400,7 +400,7 @@ Development of technology roadmaps to map out priorities that are aligned to bus
 
 OMNI is a joint initiative between SIMTech and SSG to train in-house champions to systematically integrate business, operation management and productivity improvement through the OMNI methodology.
 
-<a href="https://www.enterprisejobskills.sg/content/upgrade-skills/operations-management-innovation-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/operations-management-innovation-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Part-Time Re-employment Grant (PTRG)
 
@@ -568,4 +568,4 @@ BCA co-funds up to 90% of selected training courses and skills assessments for f
 
 The WSPs are targeted at fresh graduates and mid-career individuals by providing a head-start in careers related to their discipline of study and opportunities to build on skills and knowledge acquired in school. 
 
-<a href="https://www.enterprisejobskills.sg/content/recruit-talent/work-study-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/work-study-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
