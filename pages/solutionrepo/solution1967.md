@@ -1,15 +1,15 @@
 ---
-title: Deskera People Version 10.0 - Package E (People - 80 Users)
-permalink: /productivity-solutions-grant/solutionrepo/solution360
+title: Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 10 Licences (1 Year)
+permalink: /productivity-solutions-grant/solutionrepo/solution1967
 ---
 
 #### Description
 
-Deskera HRMS is a comprehensive HRMS solution which includes payroll management, performance appraisal, statutory compliance, recruitment management, timesheet management and others. The solution also comes with e-Leave and e-Claim features which allows a complete view of employees' leaves, attendance and claims submission details.
+Sophos safeguards all users' devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Subscription / Leasing
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name: Deskera Singapore Pte Ltd<br>Web URL: https://www.deskera.com/<br>Contact Hotline: (+65) 62021350<br>Contact Email: hello@deskera.com
+Web URL: www.advancedatan.com <br>Contact Hotline: 65606228 <br>Contact Email: sales@advancedatan.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

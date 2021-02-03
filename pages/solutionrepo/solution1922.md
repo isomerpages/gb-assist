@@ -5,8 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1922
 
 #### Description
 
-Build everlasting customer relationships with the world's favorite CRM.
-Zoho CRM empowers a global network of over 150,000 businesses in 180 countries to convert more leads, engage with customers, and grow their revenue. Transform your business with the world's favorite customer relationship management software.
+Build everlasting customer relationships with the world's favorite CRM. Zoho CRM empowers a global network of over 150,000 businesses in 180 countries to convert more leads, engage with customers, and grow their revenue. Transform your business with the world's favorite customer relationship management software.
 
 #### Details of Solution
 
