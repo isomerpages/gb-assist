@@ -5,7 +5,11 @@ permalink: /productivity-solutions-grant/
 
 ## Productivity Solutions Grant
 
-The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions/equipment/consultancy service that improve productivity. Receive up to 80%<sup>1</sup> funding support for eligible costs.
+The Productivity Solutions Grant (PSG) was launched on April 2018 to assist businesses in their transformation journey. 
+
+PSG supports the adoption of pre-scoped IT solutions, equipment and consultancy services that improves productivity, aligned to the industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). 
+
+The maximum funding support level was raised from 70% to 80% from 1 April 2020 to 30 September 2021 to encourage enterprises to continue their digitalisation and productivity upgrading efforts.
 
 #### Who can apply?
 
@@ -28,6 +32,8 @@ Business entities can apply for PSG if they meet the following criteria:
 
 #### Supportable solutions
 
+PSG covers sector-specific solutions including the Retail, Food, Logistics, Precision Engineering, Wholesale, Building and Construction, Financial Service, and Landscaping industries. PSG also supports businesses’ adoption of broad-based solutions that cut across all industries, such as Customer Relationship Management and Human Resource Management systems.
+
 Businesses can choose from a list of pre-scoped solutions eligible to their sectors.  
 
 Use the navigation menu to access the IT solutions/equipment/consultancy service pre-scoped for your sector.
@@ -44,4 +50,3 @@ The support for COVID-19 continuity measures have ceased on 31 Dec 2020.
 
 ***
 
-<sup>1</sup> As announced under the Resilience Budget, PSG’s maximum support level has been enhanced until 30th September 2021. 
