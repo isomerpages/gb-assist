@@ -40,7 +40,7 @@ Equipment must meet the following:
 - Piped to water sources
 - Effective sterilisation & lower bacteria amt by 90%
 - Installation & maintenance not supported
-- For sectors (e.g F&B, healthcare) requiring high level of sanitisation. Office spaces not supported.
+- For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
