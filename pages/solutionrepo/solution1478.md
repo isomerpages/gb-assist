@@ -36,7 +36,7 @@ N.A. for non-SMEs
 - Training costs can be supported
 - Maintenance costs not supported
 
-Additional criteria: =30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 N.A.
