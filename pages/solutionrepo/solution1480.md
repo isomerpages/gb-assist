@@ -1,5 +1,5 @@
 ---
-title: Flange Spreader
+title: Automatic Flange Spreader
 permalink: /productivity-solutions-grant/solutionrepo/solution1480
 ---
 
@@ -31,6 +31,12 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
+- Min spreading force of 240KN
+- Must be certified intrinsically safe (e.g. ATEX certified)
+- It can be powered by a hydraulic/electric source. 
+- Training costs to be supported
+- Maintenance costs not supported
+
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information

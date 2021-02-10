@@ -31,9 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Rotational or idle speed of at least 3200 rpm
-- Outer belt diameter of at least 110 mm
-- Training costs to be supported
+- Idle speed of at least 3200 rpm
+- Belt diameter of at least 110 mm
+- Training costs can be supported
 - Additional bristle brushes (carbon steel or stainless steel) can be supported.
 - Maintenance costs not supported
 
