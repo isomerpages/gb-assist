@@ -1,11 +1,11 @@
 ---
-title: Hydraulic Nut Splitter
+title: Automatic Nut Splitter
 permalink: /productivity-solutions-grant/solutionrepo/solution1481
 ---
 
 #### Description
 
-The hydraulic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
 
 #### Details of Solution
 
@@ -31,6 +31,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
+- Min Nut size: 12.7mm
+- It can be powered hydraulically, electrically, pneumatically, etc.  
+- Training costs can be supported
+- Maintenance costs not supported
+
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information

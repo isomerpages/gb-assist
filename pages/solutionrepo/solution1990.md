@@ -1,15 +1,17 @@
 ---
-title: Xero Cloud Accounting Software Version 10.5 - YOIO Xero Standard, Set Up Package
-permalink: /productivity-solutions-grant/solutionrepo/solution975
+title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard
+permalink: /productivity-solutions-grant/solutionrepo/solution1990
 ---
 
 #### Description
 
-Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
+Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
+
+The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex 3_CR_wef_11_Feb_2021_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +26,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +36,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: https://www.yoio-sg.com/#ourexpertise <br>Contact Hotline: 91793142 <br>Contact Email: hanz@yoio-sg.com <br>
+Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

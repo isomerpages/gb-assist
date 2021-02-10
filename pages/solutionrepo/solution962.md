@@ -31,14 +31,10 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
- 	Able to deliver at least 194NM of torquing range, allow for 360 degrees rotation.
- 	Powered pneumatically or electically through a power unit
- 	Training costs to be supported
- 	Maintenance costs not supported
-Additional Criteria:
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
- No change in vendor allowed
- The purchase of pre-owned/used equipment is not supportable
+- Able to deliver at least 1000NM of torque
+- It can be powered pneumatically or electically through a power unit  . If it is electrically powered, 1 Power Unit can be supported.
+- Training costs to be supported
+- Maintenance costs not supported
 
 #### Contact Information
 N.A.
