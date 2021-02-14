@@ -10,7 +10,7 @@ third_nav_title: Types of Assistance
 
 The 3R Fund supports companies and organisations registered in Singapore to implement programmes and initiatives to minimise solid waste.
 
-<a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund " target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/3r-fund" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Accessibility Fund
 
