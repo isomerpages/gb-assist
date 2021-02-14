@@ -120,12 +120,6 @@ The Digital Resilience Bonus aims to uplift the digital capabilities of a broad-
 
 <a href="https://www.imda.gov.sg/DRBonus " target="_blank" style="color:#037e8a">Find out more</a>
 
-#### E-invoicing Registration Grant
-
-This grant provides businesses with a one-time grant of $200 per UEN, upon registration on the Nationwide E-Invoicing Network on or before 31 December 2020.
-
-<a href="https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework/E-Invoicing-Registration-Grant" target="_blank" style="color:#037e8a">Find out more</a>
-
 #### Employment Support for Ex-Offenders
 
 This programme supports companies to tap on ex-offenders as an alternative pool of trained and skilled workers.
