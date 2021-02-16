@@ -13,6 +13,9 @@ sections:
         button: Get started with e-Adviser
         url: https://gaeadviser.gobusiness.gov.sg/?src=homepage_button
         key_highlights:
+        - title: Budget 2021
+          url: /budget-2021/
+          description: Find out more about the Budget 2021 measures announced on 16 February 2021
         - title: E-adviser
           url: https://gaeadviser.gobusiness.gov.sg/?src=homepage_keyhighlights
           description: Find relevant Government assistance schemes for your business needs
