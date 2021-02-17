@@ -36,9 +36,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-No change in vendor allowed
-The purchase of pre-owned/used equipment is not supportable
+- Thickness of resulting dough should be adjustable 
+
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.

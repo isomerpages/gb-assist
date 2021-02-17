@@ -33,16 +33,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following specifications:
-- Volume of hopper (to hold the dough), divided dough weight and dough dividing capacity can be customised to suit company?s requirement. 
-- Divided dough weight: Between 7gm to 60gm
-- Dough dividing capacity: between 1s to 5s per piece
+- Volume of hopper (to hold the dough), divided dough weight and dough dividing capacity can be customised to suit company's requirement. 
+- Divided dough weight: Between 7gm to 60gm. (optional)
+- Dough dividing capacity: between 1s to 5s per piece depending on company's requirement. (optional)
 
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
-
-No change in vendor allowed
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.

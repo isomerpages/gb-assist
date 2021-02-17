@@ -35,16 +35,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following specifications:
 - Minimum 400 pieces per hour
 - Must be able to seal at least 2 trays at once (optional)
 - Tabletop size (optional)
 
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
-
-No change in vendor allowed
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.

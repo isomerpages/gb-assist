@@ -33,16 +33,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following specifications:
-- Approx 8 - 12 cartons per minute, depending on carton's size and material
-- Tape width 2  or 3 , depending on customer?s needs (optional)
+- More than 8 cartons per minute
+- Tape width 2inch or 3inch, depending on customer's needs (optional)
 - Cardboard temporary stock, 50 to 70 pc (optional)
 
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
-
-No change in vendor allowed
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.

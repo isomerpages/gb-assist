@@ -33,18 +33,13 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following specifications:
 - Blade cutting or ultrasonic cutting
-- 2 to 24 portions per product
-- Speed: up to 360 cakes per hour
+- 2 or more portions per product
 - Touch panel with memory setup (optional)
 - Easily changed bottom plate (optional)
+- Speed: up to 360 cakes per hour (optional)
 
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
-
-No change in vendor allowed
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.
