@@ -33,18 +33,12 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following specifications:
 - Automatic cutting of the film at the end of the cycle
-- Rotational speed: 3 rpm to 15 rpm
+- Rotational speed: more than 3 rpm
 - Speed adjustment (optional)
 - Integrated weighing system (optional)
 
-
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
-
-No change in vendor allowed
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.

@@ -33,16 +33,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following specifications:
-- Must be able to integrate with production line (optional)
-- Touchscreen interface, able to manually input datecode/expiry date for products
+- Touchscreen interface, able to manually input datecode/ expiry date for products
 - Can automatically print unique barcode for each product from the production line
+- Must be able to integrate with production line (optional)
 
-Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
-
-No change in vendor allowed
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.

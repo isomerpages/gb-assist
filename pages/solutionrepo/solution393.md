@@ -38,17 +38,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following:
-? Minimum bowl capacity of 20 liters.
-? Minimally 3 speed options
-? Comes with bowl and minimum of 2 out of 3 tools ? 
-    1) Mixing paddle
-    2) Whisk
-    3) Hook
+- Minimum bowl capacity of 20 liters.
+- Minimally 3 speed options
+- Comes with bowl and minimum of 2 out of 3 tools - Mixing paddle, Whisk, Hook
 
-Additional criteria: ?30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.
