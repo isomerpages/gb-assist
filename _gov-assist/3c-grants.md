@@ -54,7 +54,7 @@ The BIF aims to encourage technology innovation and adoption, redesign of busine
 
 <a href="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/business-improvement-fund-bif.html" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Capability Transfer Programme![b2021](/images/budget2021/budget_extended.png)
+#### Capability Transfer Programme (CTP)![b2021](/images/budget2021/budget_extended.png)
 
 Get funding support for developing and acquiring new capabilities from foreign specialists.
 
@@ -398,7 +398,7 @@ The NTFG helps first and second-time directors to launch their careers by provid
 
 <a href="https://www.imda.gov.sg/programme-listing/new-talent-feature-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Open Innovation Platform![b2021](/images/budget2021/budget_enhanced.png)
+#### Open Innovation Platform (OIP)![b2021](/images/budget2021/budget_enhanced.png)
 
 The Open Innovation Platform supports companies' development of POC/Prototypes. It provides a structured process to support businesses and Trade Associations & Chambers in identifying possible areas of digital innovation and matching them with solution providers. The platform has been enhanced with new features to enable better matching, testing and development.
 
