@@ -42,17 +42,35 @@ bizSAFE is a 5-step risk management capability building programme for workplace 
 
 <a href="https://www.wshc.sg/bizsafe" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)![b2021](/images/budget2021/budget_new.png)
+
+CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
+
+<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Construction and Facilities Management Industry Digital Plan
 
 A step-by-step guide for local SMEs in the Construction and Facilities Management sector on the digital solutions to adopt and relevant training for your employees at each stage of your growth.
 
 <a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/industry-digital-plans/Construction-and-Facilities-Management-IDP" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Corporate Venture Launchpad (VCL)![b2021](/images/budget2021/budget_new.png)
+
+CVL provides co-funding for corporates to build new ventures through pre-qualified venture studios. More details in due course.
+
+<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### CultureSAFE
 
 CultureSAFE is a programme to help companies understand the state of their workplace safety and health culture and cultivate a progressive WSH culture. 
 
 <a href="https://www.wshc.sg/culturesafe" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Digital Leaders Programme![b2021](/images/budget2021/budget_new.png)
+
+The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
+
+<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Digital Services Lab
 
@@ -64,7 +82,13 @@ Through working with multiple industry stakeholders, DSL co-develops solutions u
 
 This is specially curated to help businesses use digital solutions to implement safe management measures for safe reopening. Listed solutions are either free, subsidised, or PSG-supported.
 
-<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening " target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/Digital-Solutions-For-Safe-Reopening" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Emerging Technology Programme![b2021](/images/budget2021/budget_new.png)
+
+The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
+
+<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Environmental Services Industry Digital Plan
 
