@@ -21,12 +21,10 @@ If you are an Infocomm Media (ICM) vendor with ready digital solutions proven to
 
 #### 5.	It was announced in Budget 2020 on PSG expansion to include job redesign consultancy services. Where can I find out more information on this?
  
-The PSG will be expanded beyond the adoption of IT solutions and equipment, to include consultancy services. Firms will be able to tap on PSG for job redesign consultancy support, funded at up to 70% of qualifying cost, capped at $30,000 per company.
+The PSG will be expanded beyond the adoption of IT solutions and equipment, to include consultancy services. Firms will be able to tap on PSG for job redesign consultancy support, funded at up to 80% of qualifying cost, capped at $30,000 per company.
  
 As part of the enhancement to the existing PSG, job redesign under PSG (PSG-JR) aims to make redesigning jobs easier by providing enterprises with JR consultancy support to complement and drive both their business and workforce transformation.
  
-PSG-JR will be open for application in the second half of 2020. Companies who are interested to apply for PSG-JR consultancy support can submit their application on the Business Grants Portal (BGP) when applications are open. Companies will need to register for a CorpPass account to transact on the portal.
+PSG-JR is open for application since 1 December 2020. Companies who are interested to apply for PSG-JR consultancy support can submit their application on Business Grant portal. Companies will need to register for a CorpPass account to transact on the portal.
  
-More details will be made available by WSG in due course.
-
-
+For more information on PSG-JR, please refer to <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" style="color:#037e8a">https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html</a> or to contact SNEF at psgjr@snef.org.sg or +65 6827 6910.
