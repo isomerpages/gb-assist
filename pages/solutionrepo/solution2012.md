@@ -1,15 +1,17 @@
 ---
-title: CSG - Autodesk AEC Collection - Single User 3-year Subscription
-permalink: /productivity-solutions-grant/solutionrepo/solution1224
+title: Roubler - Roubler 1 - 30 Users 
+permalink: /productivity-solutions-grant/solutionrepo/solution2012
 ---
 
 #### Description
 
-The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and AutoCAD, enabling designers, engineers, and contractors to efficiently deliver high quality building and infrastructure projects. With the AEC Collection, teams can create in new ways, explore what's possible, and build with confidence.
+Roubler's all-in-one cloud-based system combines essential workforce management tasks with a simple, easy-to-use interface to give your employees the power to manage their working lives.
+
+Your team has the freedom to check rosters, accept and decline shifts, request leave, view payslips, and update their personal details, all from the convenience of our employee self-service mobile app.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_Annex_3_CR_wef_25_Feb_2021_Part_2' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Roubler_20200690_Desensitised_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,16 +26,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+Web URL: www.roubler.com <br>Contact Hotline: 31636786 <br>Contact Email: info@roubler.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
