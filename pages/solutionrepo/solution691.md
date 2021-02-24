@@ -12,7 +12,7 @@ Absolute Payboy is a cloud-based human resource management system that offers on
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Payboy_Annex_3_wef4May2020_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Payboy_Annex_3_wef_4_May_2020_Part_3_.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
