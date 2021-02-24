@@ -29,8 +29,8 @@ Hire Purchase
 Subscription/ Leasing 
 
 #### Support Level
-Up to 0.6% for SMEs <br>
-Up to 0.6% for non-SMEs
+Up to 60% for SMEs <br>
+Up to 60% for non-SMEs
 
 #### Things to Note
 Specifications
