@@ -9,7 +9,7 @@ The Productivity Solutions Grant (PSG) was launched on April 2018 to assist busi
 
 PSG supports the adoption of pre-scoped IT solutions, equipment and consultancy services that improves productivity, aligned to the industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). 
 
-The maximum funding support level was raised from 70% to 80% from 1 April 2020 to 30 September 2021 to encourage enterprises to continue their digitalisation and productivity upgrading efforts.
+The maximum funding support level was raised from 70% to 80% from 1 April 2020 to 31 March 2022 to encourage enterprises to continue their digitalisation and productivity upgrading efforts.
 
 #### Who can apply?
 
