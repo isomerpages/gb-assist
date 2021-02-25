@@ -7,7 +7,7 @@ permalink: /budget-2021/
 
 Deputy Prime Minister, Coordinating Minister for Economic Policies and Minister for Finance, Mr Heng Swee Keat, delivered the Budget Statement on Tuesday, 16 February 2021 in Parliament. 
 
-Find out which schemes you may be eligible for, how you can apply for them, and where you can go for more information!
+Find out which schemes you may be eligible for, and how you can apply for them, here in the links below.
 
 Download the Budget 2021 Business Booklet <a href="/images/govassist/Budget 2021 Business Booklet.pdf" target="_blank" style="color:#037e8a">here</a>.
 
