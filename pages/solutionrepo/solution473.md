@@ -1,5 +1,5 @@
 ---
-title: Advanced Ecommerce Solution by I Concept Version 1.0 - Advanced Ecommerce Solution by I Concept (Basic)
+title: Advanced Ecommerce Solution by I Concept Version 1.0  - Advanced Ecommerce Solution by I Concept (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution473
 ---
 
@@ -9,7 +9,7 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_REVISED_I_CONCEPT_20200288_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:I Concept Innovation Pte Ltd <br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg <br>
+Company Name:I Concept Innovation Pte Ltd <br>Web URL: https://i-concept.com.sg/e-commerce-singapore/ <br>Contact Hotline: 69043751 <br>Contact Email: info@i-concept.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

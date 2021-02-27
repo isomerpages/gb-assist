@@ -1,5 +1,5 @@
 ---
-title: Shopmatic Pro Concierge
+title: Shopmatic - Shopmatic Pro Concierge
 permalink: /productivity-solutions-grant/solutionrepo/solution789
 ---
 
@@ -9,7 +9,7 @@ Shopmatic is a SaaS solution that offers an integrated business solutions for SM
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Annex_3_CR_wef_18_Aug_2020.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Modified_Annex_3_wef_1_march_2021.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

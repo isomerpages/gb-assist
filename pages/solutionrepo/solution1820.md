@@ -12,7 +12,7 @@ Vue tech build long term business channel for you!
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Modified_Annex_3_wef_1_March_2021_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -37,6 +37,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 66108495 <br>Contact Email: godigital@vuetechsg.com <br>
+Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266<br>Contact Email: godigital@vuetechsg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
