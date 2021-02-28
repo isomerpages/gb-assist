@@ -1,5 +1,5 @@
 ---
-title: Shopcada Ecommerce and POS - Shopcada Standard  Ecommerce with Emerging Mobile Package
+title: Shopcada Ecommerce and POS - Shopcada Standard Ecommerce Package
 permalink: /productivity-solutions-grant/solutionrepo/solution939
 ---
 
@@ -9,7 +9,7 @@ Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, 
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Webcada_20200035_Annex_3_20200625152216_Part_56.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Webcada_Annex_3_wef_1_March_2021_Part_c.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Webcada Pte. Ltd.<br>https://www.shopcada.com<br>Email: sales@webcada.com<br>Tel: +65 6334 3168
+Company Name:Webcada Pte. Ltd. <br>Web URL: https://www.shopcada.com <br>Contact Hotline: 63343168 <br>Contact Email: sales@webcada.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
