@@ -1,5 +1,5 @@
 ---
-title: PixelCommerce Version 5.2.5 - Extended
+title: PixelCommerce Version 5.2.5 - Advanced
 permalink: /productivity-solutions-grant/solutionrepo/solution716
 ---
 
