@@ -1,5 +1,5 @@
 ---
-title: PixelCommerce Version 5.2.5 - AI Advanced
+title: PixelCommerce Version 5.2.5 - B2B
 permalink: /productivity-solutions-grant/solutionrepo/solution718
 ---
 
