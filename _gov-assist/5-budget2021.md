@@ -13,6 +13,8 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 - Download the Budget 2021 - Budget Navigator (for Businesses) <a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">here</a>.
 
+Visit the <a href="https://www.mof.gov.sg/" target="_blank" style="color:#037e8a">MOF Website</a> for more information on Budget 2021.
+
 #### **List of Government Assistance related schemes:**
 
 #### **Grants**
@@ -104,5 +106,3 @@ The Digital Leaders Programme enables promising, high-potential local companies 
 The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
 
 <a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
-
-Visit the <a href="https://www.mof.gov.sg/" target="_blank" style="color:#037e8a">MOF Website</a> for more information on Budget 2021.
