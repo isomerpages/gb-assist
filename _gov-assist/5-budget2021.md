@@ -13,9 +13,9 @@ Find out which schemes you may be eligible for, and how you can apply for them i
 
 - Download the Budget 2021 - Budget Navigator (for Businesses) <a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">here</a>.
 
-### List of Government Assistance related schemes.
+#### **List of Government Assistance related schemes:**
 
-#### Grants:
+#### **Grants**
 
 #### Capability Transfer Programme (CTP)![b2021](/images/budget2021/budget_extended.png)
 
@@ -79,11 +79,13 @@ No application is required. The government provides co-funding of wage increment
 
 <a href="https://www.iras.gov.sg/irasHome/wcs.aspx" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Toolkits / Programmes:
+#### **Toolkits / Programmes**
 
 #### Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)![b2021](/images/budget2021/budget_new.png)
 
 CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
+
+<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Corporate Venture Launchpad (VCL)![b2021](/images/budget2021/budget_new.png)
 
