@@ -9,7 +9,20 @@ EON was established in 1996 and specialises in providing human capital consultin
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Sector Specialisation
+
+1.Early Childhood Care & Education
+2.Training & Adult Education
+3.Human Resources
+4.Accountancy
+5.Food & Beverage
+6.Healthcare
+7.Retail & Services
+8.Construction
+9.Food Manufacturing
+10.Logistics/Supply Chain
 
 #### Eligibility Criteria
 

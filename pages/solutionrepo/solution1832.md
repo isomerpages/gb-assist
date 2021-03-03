@@ -9,7 +9,16 @@ Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign proje
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Sector Specialisation
+
+1.Accounting
+2.Healthcare
+3.Hotels & Accommodation
+4.Retail
+5.Consumer Goods
+6.Other sectors of strength: Education and Lifesciences
 
 #### Eligibility Criteria
 

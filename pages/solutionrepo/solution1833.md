@@ -11,7 +11,16 @@ We will take 3 practical steps to help you to imagine, design and pilot job rede
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Sector Specialisation
+
+1.Financial Services
+2.Consumer FMCG
+3.Telecommunications
+4.Consumer Food Retail
+5.Consumer - Agricultural Conglomerate
+6.Consumer - Beverage
 
 #### Eligibility Criteria
 

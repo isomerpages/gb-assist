@@ -9,7 +9,11 @@ Aon is a leading global human capital consulting firm offering a broad spectrum 
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Sector Specialisation
+
+All Sectors
 
 #### Eligibility Criteria
 
