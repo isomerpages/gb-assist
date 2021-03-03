@@ -9,7 +9,11 @@ COVID-19 has accelerated the need for companies to embark on digital transformat
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Sector Specialisation
+
+All Sectors
 
 #### Eligibility Criteria
 

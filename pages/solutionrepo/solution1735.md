@@ -7,11 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1735
 
 CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
 
-
-
 #### Details of Solution
 
-N.A.
+Coming soon.
 
 #### Eligibility Criteria
 

@@ -9,7 +9,7 @@ ABSS Premier provides advanced inventory, and business management capabilities t
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_CR%20wef23April2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
