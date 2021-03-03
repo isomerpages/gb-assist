@@ -13,11 +13,11 @@ Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CaseStudiesbyMerce
 
 #### Sector Specialisation
 
-1.Accounting
-2.Healthcare
-3.Hotels & Accommodation
-4.Retail
-5.Consumer Goods
+1.Accounting<br>
+2.Healthcare<br>
+3.Hotels & Accommodation<br>
+4.Retail<br>
+5.Consumer Goods<br>
 6.Other sectors of strength: Education and Lifesciences
 
 #### Eligibility Criteria

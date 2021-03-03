@@ -15,11 +15,11 @@ Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloi
 
 #### Sector Specialisation
 
-1.Financial Services
-2.Consumer FMCG
-3.Telecommunications
-4.Consumer Food Retail
-5.Consumer - Agricultural Conglomerate
+1.Financial Services<br>
+2.Consumer FMCG<br>
+3.Telecommunications<br>
+4.Consumer Food Retail<br>
+5.Consumer - Agricultural Conglomerate<br>
 6.Consumer - Beverage
 
 #### Eligibility Criteria

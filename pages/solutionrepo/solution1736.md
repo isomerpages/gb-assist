@@ -13,15 +13,15 @@ Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CaseStudiesbyEonCo
 
 #### Sector Specialisation
 
-1.Early Childhood Care & Education
-2.Training & Adult Education
-3.Human Resources
-4.Accountancy
-5.Food & Beverage
-6.Healthcare
-7.Retail & Services
-8.Construction
-9.Food Manufacturing
+1.Early Childhood Care & Education<br>
+2.Training & Adult Education<br>
+3.Human Resources<br>
+4.Accountancy<br>
+5.Food & Beverage<br>
+6.Healthcare<br>
+7.Retail & Services<br>
+8.Construction<br>
+9.Food Manufacturing<br>
 10.Logistics/Supply Chain
 
 #### Eligibility Criteria
