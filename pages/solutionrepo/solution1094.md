@@ -1,5 +1,5 @@
 ---
-title: Ecommerce Web Software Development  - Ecommerce Web Software Development (Opencart/Woocommerce)
+title: Ecommerce Web Software Development - Ecommerce Web Software Development (Opencart/Woocommerce)
 permalink: /productivity-solutions-grant/solutionrepo/solution1094
 ---
 

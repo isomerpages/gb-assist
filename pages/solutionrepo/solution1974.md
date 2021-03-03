@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1974
 
 #### Description
 
-Prominds provides support post sales support services via our hotline between the hours of 9am to 5pm from Monday through Friday, excluding public holidays. Issues can also be submitted online via chat services on our webpage or an email can be sent to info@prominds.com.sg.
+One-Stop Document Access is a document management system, accessible via web browser and mobile. Documents are maintained in departmentalized teamsites with following key features - Versioning to track and restore each changed state; Collaboration for users to concurrently edit a document; Meta-Data tags information allowing quick retrieval. The system is also backed up to a secured cloud platform. With Prominds as a vendor, SMEs receive an all-rounded solution readily available for deployment.
 
 #### Details of Solution
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: https://www.modernworkspace.biz/business-continuity-solutions?Collection=PSG%20Grant <br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
+Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotline: 64418406 <br>Contact Email: info@prominds.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
