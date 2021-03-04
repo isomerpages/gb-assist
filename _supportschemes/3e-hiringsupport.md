@@ -7,13 +7,13 @@ permalink: /supportschemes/manpowersupport/
 
 #### Jobs Growth Incentive (JGI)
 
-As announced on 17 August 2020 Ministerial Statement, to support hiring in sectors that are doing well – such as the biomedical sciences, financial services, and ICT sectors – we will launch the Jobs Growth Incentive (JGI).
+- The Jobs Growth Incentive (JGI) supports employers to expand local hiring from September 2020 to September 2021 (inclusive), so as to create good and long-term jobs for locals. 
+- The JGI will support firms in hiring of local workers, with a special focus on our mature workers. 
+    - The Government will co-pay up to 25% of salaries of all new local hires for one year, subject to a cap.
+    - For those aged 40 and above, the co-payment to firms will be up to 50%.
+- Eligible employers will start receiving the first JGI payout from March 2021 onwards.
 
-The JGI will support firms in hiring of local workers, with a special focus on our mature workers. 
-* The Government will co-pay up to 25% of salaries of all new local hires for one year, subject to a cap.
-* For those aged 40 and above, the co-payment to firms will be up to 50%.
-
-More details will be provided in due course.  
+Click <a href="https://www.iras.gov.sg/irashome/Schemes/Businesses/Jobs-Growth-Incentive--JGI-/" target="_blank" style="color:#037e8a">here</a> for more information.
 
 #### Transform and Grow
 
