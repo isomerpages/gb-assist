@@ -1,5 +1,5 @@
 ---
-title: OpenCart E-Commerce Website Deployment-eCommerce Revamp
+title: OpenCart E-Commerce Website Deployment - eCommerce Revamp
 permalink: /productivity-solutions-grant/solutionrepo/solution1453
 ---
 

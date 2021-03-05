@@ -1,5 +1,5 @@
 ---
-title: OpenCart E-Commerce Website Deployment-eCommerce Enterprise
+title: OpenCart E-Commerce Website Deployment - eCommerce Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution1452
 ---
 

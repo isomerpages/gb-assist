@@ -1,16 +1,11 @@
 ---
-title: ALPHA eCommerce Booster Premium
+title: Alpha eCommerce Booster Version Premium - ALPHA eCommerce BoosterPremium
 permalink: /productivity-solutions-grant/solutionrepo/solution2017
 ---
 
 #### Description
 
-Online eStore
-Inventory Management
-Orders & Payments
-Content Management
-CRM & Social Media Integration
-Chatbot & Ai Recommendation
+We build powerful eCommerce Websites, launch creative Marketing Campaigns and generate great impressions for our clients! eCommerce Websites has sprung into popularity when digital globalization became a hot topic a decade ago. The advantages are plenty. An additional source of online revenue opens up for you. As the site is easily maintainable, you can finally focus on things that matter! 
 
 #### Details of Solution
 
