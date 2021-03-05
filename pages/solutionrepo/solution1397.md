@@ -1,5 +1,5 @@
 ---
-title: 3D Omni Commerce Version 1.03-PRO (Shopee Online Marketplace)
+title: 3D Omni Commerce Version 1.03 - PRO (Shopee Online Marketplace)
 permalink: /productivity-solutions-grant/solutionrepo/solution1397
 ---
 

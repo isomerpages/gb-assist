@@ -1,5 +1,5 @@
 ---
-title: 3D Omni Commerce Version 1.03-ENTERPRISE (Shopee, Lazada, Qoo10 Online Marketplaces)
+title: 3D Omni Commerce Version 1.03 - ENTERPRISE (Shopee, Lazada, Qoo10 Online Marketplaces)
 permalink: /productivity-solutions-grant/solutionrepo/solution1398
 ---
 

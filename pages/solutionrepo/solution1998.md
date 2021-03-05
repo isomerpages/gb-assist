@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version 10 - SAP Business One on HANA - Package A (Starter Package) (5 Cloud Subscription Users)
+title: SAP Business One Version 10 - SAP Business One on HANA - Package A Starter Package (5 Cloud Subscription Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1998
 ---
 
