@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1998
 
 #### Description
 
-SAP Business One is specifically designed to meet today's small and mid-size business needs and challenges. It completely removes the problems associated with having disconnected business processes or systems integrating and streamlines all business functions across sales, marketing, customers, financials and operations, all on a single digital platform so your business operates like a seamless one
+SAP Business One is specifically designed to meet today's small and mid-size business needs and challenges. It completely removes the problems associated with having disconnected business processes or systems integrating and streamlines all business functions across sales, marketing, customers, financials and operations, all on a single digital platform so your business operates like a seamless one.
 
 #### Details of Solution
 
