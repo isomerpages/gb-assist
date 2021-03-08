@@ -25,8 +25,8 @@ You may use the e-adviser for government assistance to view suitable grants for 
 
 Alternatively, businesses simply need to select their sector and business needs on BGP, and the portal will present the most relevant grant form for businesses to apply for. 
 
-#### 2. Register with CorpPass
-Register an account with CorpPass in order to log into BGP. Approach your CorpPass Admin to assign an appropriate BGP role to you.
+#### 2. Register with Corppass
+Register an account with Corppass in order to log into BGP. Approach your Corppass Admin to assign an appropriate BGP role to you.
 
 <p>
 {% include button.html text="Login to Business Grants Portal" src="https://www.businessgrants.gov.sg/" type="primary" %}

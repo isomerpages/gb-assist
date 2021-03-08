@@ -257,7 +257,7 @@ In such case, there may be terms of use and privacy statements that govern your 
 
 9.3	You should take appropriate steps to keep your information, software and equipment (for example, Your Content, your personal data and your Device(s)) secure. This includes clearing your internet browser cookies and cache before and after accessing and using the Services.
 
-9.4	Please note that we will not ask you for your user-id(s), passwords or other details associated with your Account, other than as part of your use of the user authentication system (for example, CorpPass or SingPass) for the purpose of accessing the Services or your Account.
+9.4	Please note that we will not ask you for your user-id(s), passwords or other details associated with your Account, other than as part of your use of the user authentication system (for example, Corppass or Singpass) for the purpose of accessing the Services or your Account.
 
 9.5	For more infocomm security tips, please visit <a href="https://www.csa.gov.sg/gosafeonline" style="color:#037e8a">https://www.csa.gov.sg/gosafeonline</a>.  
 
