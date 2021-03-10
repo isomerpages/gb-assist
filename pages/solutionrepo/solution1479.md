@@ -31,13 +31,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Idle speed of at least 3200 rpm
-- Belt diameter of at least 110 mm
-- Training costs can be supported
-- Additional bristle brushes (carbon steel or stainless steel) can be supported.
-- Maintenance costs not supported
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Idle speed of at least 3200 rpm
+Belt diameter of at least 110 mm
+Additional bristle brushes (carbon steel or stainless steel) can be supported.
+Training costs can be supported
+Maintenance costs not supported
 
 #### Contact Information
 N.A.

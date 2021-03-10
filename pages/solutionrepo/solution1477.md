@@ -31,11 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Facing diameter must be >1m
-- Training costs to be supported
-- Maintenance costs not supported
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Facing diameter must be >1m
+Training costs can be supported
+Maintenance costs not supported
 
 #### Contact Information
 N.A.

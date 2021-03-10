@@ -1,15 +1,15 @@
 ---
-title: ADAPTIVE PAY Version 2019/2020 - Package (121 - 200 Employees)
+title: Plastics washing system
 permalink: /productivity-solutions-grant/solutionrepo/solution85
 ---
 
 #### Description
 
-Adaptive Pay is cloud-based HR solution with full-fledged HR capabilities such as payroll management, leave management, claim management, appraisal management and others. Most of the features are available on the mobile app which employees can perform tasks on the go. 
+A plastic washing line is used to wash and convert dirty plastic materials into dry clean plastics suitable for recycling.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Adaptive_Cloud_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+N.A.
 
 #### Eligibility Criteria
 
@@ -24,16 +24,25 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Specifications
+- A plastic washing line must include:
+- a shredder or granulator(optional)
+- washer 
+- separation tank
+- drying system 
+ 
+- Minimum treatment capacity of 1,000kg per hour.
+
+Grant cap: Up to S$280,000 per unit
 
 #### Contact Information
-Adaptive Cloud Systems Pte Ltd<br>www.adaptivepay.com.sg<br>Email: info@adaptivepay.com.sg<br>Tel: +65 6708 9398
+N.A.
 
-Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

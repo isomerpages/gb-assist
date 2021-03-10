@@ -34,12 +34,8 @@ N.A. for non-SMEs
 
 #### Things to Note
 Hydraulic capacity: Min. 5 tonnes
-Essential components: Supporting jack block, pump, hydraulic hose
 Maintenance costs not supported
-
-Additional criteria:Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+Optional components: relevant accessories e.g. pump, hydraulic hose
 
 #### Contact Information
 N.A.

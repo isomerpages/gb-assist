@@ -33,18 +33,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Includes automatic rotating nozzle via motor, torch, nozzle arm and gas tubings
-Cutting thickness: 6-100mm
-Cutting speed: 0.2-0.6 R/P/min
-Diameter of cutting: 30-600mm
-Bevel angle: 0-45?
-Power: 220V AC input 
-Heavy-duty industrial electrical plug
+Automatic rotating nozzle
+Cutting speed: min 0.2 rpm
+Adjustable bevel angle
 Maintenance costs not supported
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+Optional components: relevant accessories e.g.gas hoses, cables
 
 #### Contact Information
 N.A.

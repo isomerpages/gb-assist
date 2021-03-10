@@ -33,13 +33,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment type: Lever handle type OR ratchet handle type
-Min. magnetic force: 800kgf (Lever handle type), 1000kgf (Ratchet handle type)
+Magnetic force: minimum 800kgf
 Maintenance costs not supported
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
 
 #### Contact Information
 N.A.

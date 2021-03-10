@@ -1,5 +1,5 @@
 ---
-title: INNOCOM - Autodesk BIM 360 - Docs (10 User Pack)
+title: INNOCOM - BIM 360 Docs (10 User Pack)
 permalink: /productivity-solutions-grant/solutionrepo/solution1593
 ---
 
@@ -13,7 +13,7 @@ INNOCOM - Autodesk BIM 360
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Innocom-BIM360Design_Annex_3_CR_wef_12_Nov_2020_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedInnocom_Annex_3_BCA_CRwef11Mar21_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -31,8 +31,8 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR

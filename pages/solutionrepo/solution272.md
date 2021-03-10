@@ -33,15 +33,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Power: 240V, Single Phase, AC input
-- AR welding mask
-- SMAW/MMA Electrode Holder, FCAW/GMAW/MIG/MAG/GTAW/TIG Torch
-- Lifetime carbon steel base material license
-- V-Butt 6? Pipe, Overlapped/T-Angled/V-Butt Plate, T-Angled 6? Pipe to Plate
-- Includes accessories (Fillet/groove work stand, welding glove, AR electrode, AR TIG rod) and training software
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-No change in vendor allowed
+This solution uses AR technology to simulate welding processes on different test pieces
+Optional components: accessories e.g. work stand to secure workpiece, cables, material license
 
 #### Contact Information
 N.A.

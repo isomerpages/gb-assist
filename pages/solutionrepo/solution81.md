@@ -1,17 +1,15 @@
 ---
-title: On-site food waste recycling system
+title: ADAPTIVE PAY Version 2019/2020 - Package (121 - 200 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution81
 ---
 
 #### Description
 
-The food waste recycling system with the provision of the in-feed station is able to convert recycle food waste into organic fertilisers/ compost/ discharge in liquid form. It will reduce the needs for separation, transportation and collection of these food waste for disposal.
-
-*All systems are required to be implemented in compliance with all prevailing local regulations.
+Adaptive Pay is cloud-based HR solution with full-fledged HR capabilities such as payroll management, leave management, claim management, appraisal management and others. Most of the features are available on the mobile app which employees can perform tasks on the go. 
 
 #### Details of Solution
 
-N.A.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedAdaptiveCloudAnnex3CRwef11March2021_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -26,29 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase,Hire Purchase,Subscription / Leasing
+Direct Purchase
 
 #### Support Level
 Up to 80% for SMEs <br>
-Up to 80% for non-SMEs
+N.A. for non-SMEs
 
 #### Things to Note
-Specifications
-System must comprise of: 
-- food waste digester
-- In Feed station
-- conveyance system
-- holding tank (optional)
-- loading cell (optional)
-
- 
-Minimum treatment capacity: 100kg per day.
-
-Grant cap: Up to S$167,700 per unit
-
-
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-N.A.
+Adaptive Cloud Systems Pte Ltd<br>www.adaptivepay.com.sg<br>Email: info@adaptivepay.com.sg<br>Tel: +65 6708 9398
 
-Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
+Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

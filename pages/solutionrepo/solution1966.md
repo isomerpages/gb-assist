@@ -31,16 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-MIG and FCAW welding
-Magnet mounting, wireless communication
-Speed, Direction, Weld Selection, Start, Stop controls
-2 travel directions, speed of 0 - 163 cm/min
-DC Motor 24V, 4 rubber wheels, chain and motor drive
-Arm Torch: 40mm Up/down angle and front/back distance, 40-50- welding angle adjuster, 90- travel angle adjuster
-Input Power: AC 220V, 50/60 Hz
-Includes Carriage, Power and torch switch cables 
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+Adjustable arm torch angle
+Maintenance not included
+Communication to link multiple sets (optional)
 
 #### Contact Information
 N.A.
