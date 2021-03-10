@@ -1,5 +1,5 @@
 ---
-title: ADAPTIVE PAY Version 2019/2020 - Package (16 - 35 Employees)
+title: ADAPTIVE PAY Version 2019/2020 - Package (15 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution77
 ---
 
@@ -9,7 +9,7 @@ Adaptive Pay is cloud-based HR solution with full-fledged HR capabilities such a
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Adaptive_Cloud_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedAdaptiveCloudAnnex3CRwef11March2021_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

@@ -33,7 +33,6 @@ Up to 80% for non-SMEs
 #### Things to Note
 Specifications
 Only applicable for licensed cleaning, waste management and pest management companies
-
 Grant cap: Up to S$6,100 per unit
 
 #### Contact Information

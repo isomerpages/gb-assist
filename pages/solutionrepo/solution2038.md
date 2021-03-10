@@ -1,15 +1,15 @@
 ---
-title: Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 200 Licences (1 Year)
-permalink: /productivity-solutions-grant/solutionrepo/solution1971
+title: WarelyPOS Version 1.1 - WarelyPOS Express
+permalink: /productivity-solutions-grant/solutionrepo/solution2038
 ---
 
 #### Description
 
-Sophos safeguards all users' devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
+WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We believe that all F&B vendors should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites would also be developed for our vendors. Deliveries are also made possible when using our software which help vendors to be less reliant on commission-based platforms and gain control over their costings.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.advancedatan.com <br>Contact Hotline: 65606228 <br>Contact Email: sales@advancedatan.com <br>
+Web URL: https://www.p65marketing.com/warelypos/ <br>Contact Hotline: 96681774 <br>Contact Email: Business@p65marketing.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

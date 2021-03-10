@@ -1,15 +1,15 @@
 ---
-title: Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 200 Licences (1 Year)
-permalink: /productivity-solutions-grant/solutionrepo/solution1971
+title: A2000ERP Version 12.X - Package (A) - A2000ERP Wholesale System for 10 Users Annual Subscription
+permalink: /productivity-solutions-grant/solutionrepo/solution2033
 ---
 
 #### Description
 
-Sophos safeguards all users' devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
+A2000 Solutions Pte. Ltd. is an established ERP business software development company in Singapore with more than 24 years of industry experience in its pocket. We provide enterprise solutions that cover financial management, analytics, mobile solutions, sales & distribution, POS, inventory & warehouse system. A2000 Solutions simplifies your business processes, empowers people, and helps SMEs to create dynamic responses to market changes for small and medium-sized industries.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: www.advancedatan.com <br>Contact Hotline: 65606228 <br>Contact Email: sales@advancedatan.com <br>
+Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

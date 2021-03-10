@@ -1,13 +1,13 @@
 ---
-title: Ozonised Air + Surface Sterilization System
+title: On-site food waste recycling system
 permalink: /productivity-solutions-grant/solutionrepo/solution82
 ---
 
 #### Description
 
-An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation.  
+The food waste recycling system with the provision of the in-feed station is able to convert recycle food waste into organic fertilisers/ compost/ discharge in liquid form. It will reduce the needs for separation, transportation and collection of these food waste for disposal.
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
+*All systems are required to be implemented in compliance with all prevailing local regulations.
 
 #### Details of Solution
 
@@ -26,23 +26,27 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Direct Purchase,Hire Purchase,Subscription / Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 80% for non-SMEs
 
 #### Things to Note
-Equipment must meet the following:
-- User ozonised tech generating active oxygen at output between 20mg - 1g/hr
-- Area coverage at least 36.5square meter
-- Effective sterilisation & reduce bacteria count by 90%
-- Installation & maintenance costs not supported
-- For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.
+Specifications
+System must comprise of: 
+- food waste digester
+- In Feed station
+- conveyance system
+- holding tank (optional)
+- loading cell (optional)
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+ 
+Minimum treatment capacity: 100kg per day.
 
-No change in vendor allowed
+Grant cap: Up to S$167,700 per unit
+
+
 
 #### Contact Information
 N.A.
