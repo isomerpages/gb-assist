@@ -36,10 +36,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
+Consists of digital welding machines (hardware) and management software
 Current adjusting range: minimally +/- 150A
-Digital function: digitally compute actual real-time output of voltage, provide data logging
-Safety: minimally IP21S
-Includes: welding set, earth cable with clamps and connectors, welding harness, welding monitoring software license
 Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
 
 #### Contact Information

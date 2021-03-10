@@ -1,5 +1,5 @@
 ---
-title: Portable Straight Line Automatic Cutting Machine
+title: Portable Automatic Gas Cutting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution90
 ---
 
@@ -33,17 +33,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Includes nozzle, torch, rail, motor for travelling on rail (forward, backward, stop)
-Cutting thickness: max. 50mm
-Cutting speed: 110-1000mm/min
-Bevel angle: 0-45 
-Power:  110V or 220V input
-Heavy-duty industrial electrical plug
+Automatic traveling gas cutting operations
+Cutting speed: minimum 110 mm/min
+Adjustable bevel angle
 Maintenance costs not supported
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+Optional components: relevant accessories e.g. gas hoses, cables, rail/track
 
 #### Contact Information
 N.A.

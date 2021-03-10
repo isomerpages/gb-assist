@@ -33,17 +33,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
--Unit Height: 205cm to 716cm 
-- Carrier: Width 220 cm to 284 cm
-- Depth: 41cm to 61cm
-- Load Capacities: 175kg to 499kg 
-- Net Unit Load Capacity: 1270kg to 5443kg
-- With operator Interface (Console)
-- With software linked to Inventory Management System 
-
-Installation costs are supported. 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-Purchase of pre-owned/used equipment not supportable
+Unit height: min. 2.5m
+Carrier tray width: min. 1.3m
+Load capacity per tray: min. 150kg
+With operator Interface (Console)
+With software linked to Inventory Management System
 
 #### Contact Information
 N.A.

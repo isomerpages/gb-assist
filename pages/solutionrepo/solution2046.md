@@ -1,16 +1,21 @@
 ---
-title: Digital Welding Equipment 
-permalink: /productivity-solutions-grant/solutionrepo/solution1294
+title: Automated tools management system
+permalink: /productivity-solutions-grant/solutionrepo/solution2046
 ---
 
 #### Description
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
+Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
+
+1) Smart IM software: 
+Monitors tool inventory, stock level & consumption rate; and 
+With customizable option to link to ERP or supplier online automated ordering process; and; 
+Controls the issuing of tools per user's security access level
+
+2) Tool dispensing hardware
+Hardware can be in the form of a drawer or coil vending system.  
+
+Grant support: 80% of cost of equipment, up to $22,400 grant
 
 #### Details of Solution
 
@@ -36,9 +41,13 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Consists of digital welding machines (hardware) and management software
-Current adjusting range: minimally +/- 150A
-Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
+Unit is expandable, customizable to hold different types of tools, and fully secured. 
+
+Support only hardware and software.
+
+Additional criteria:
+- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.

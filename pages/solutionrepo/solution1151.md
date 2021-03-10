@@ -33,16 +33,10 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Includes display unit, measurement/detector unit, laser transmitter, wireless unit, cables, battery charger, software, manuals
-Measuring errors: +/- 1%
-Measurement range: up to 20m
-Laser class: safety class II
-Laser output: <1 mW
-Safety: IP class 66/67 (measurement/detector, wireless unit), IP class 65 (display unit)
-Operating temperature: 0-50-C
-Charger: 100-240 V AC
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
+The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.
+Measuring errors: minimum +/- 1%
+Maintenance cost not supported
+Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals
 
 #### Contact Information
 N.A.

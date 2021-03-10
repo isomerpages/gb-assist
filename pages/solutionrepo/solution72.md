@@ -1,5 +1,5 @@
 ---
-title: Magnetic Pipe Gas Cutter
+title: Portable Automatic Pipe Gas Cutter
 permalink: /productivity-solutions-grant/solutionrepo/solution72
 ---
 
@@ -33,18 +33,11 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Includes nozzle, gas hoses (from nozzle to block), main block with magnetic wheel and motor for travelling (forward, backward, stop) 
-Pipe diameter: Min. 108mm
-Cutting thickness: 6-50mm
-Cutting speed: 50-750mm/min
-Bevel angle: 0-45 
-Power: 220/50 AC input 
-Heavy-duty industrial electrical plug
+Automatic travelling gas cutting operations
+Cutting speed: minimum 50 mm/min
+Adjustable bevel angle
 Maintenance costs not supported
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-No change in vendor allowed
+Optional components: relevant accessories e.g. gas hoses, cables, rail/track
 
 #### Contact Information
 N.A.

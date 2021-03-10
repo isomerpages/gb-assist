@@ -1,16 +1,11 @@
 ---
-title: Digital Welding Equipment 
-permalink: /productivity-solutions-grant/solutionrepo/solution1294
+title: Automatic Nut Splitter
+permalink: /productivity-solutions-grant/solutionrepo/solution2047
 ---
 
 #### Description
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
+The automatic nut splitter is used to cut through nuts within seconds. It is very useful for removing corroded nuts where a torque tool is unable to loosen the nut. It is also safer to operate as there are no open flames unlike using traditional torching. The risk of the operator injuring his hands is also lower as compared to using hammar and chisel. Time is also saved during operation.
 
 #### Details of Solution
 
@@ -36,9 +31,10 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Consists of digital welding machines (hardware) and management software
-Current adjusting range: minimally +/- 150A
-Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
+Minimum nut size: 12.7mm
+It can be powered hydraulically, electrically, pneumatically etc
+Training costs can be supported
+Maintenance costs not supported
 
 #### Contact Information
 N.A.

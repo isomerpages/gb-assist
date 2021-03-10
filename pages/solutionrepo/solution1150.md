@@ -33,15 +33,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-9-11.7mm Line Rope 
-Ingress Protection: IP54
-Descent method: Gravity feed with manual brake
-Secondary lock out feature (hands free)
-Max Working Load of 400lb
-Battery and charger included
+Ascent speed: minimum 1 ft/s
 Maintenance cost not supported
-
-Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
 
 #### Contact Information
 N.A.
