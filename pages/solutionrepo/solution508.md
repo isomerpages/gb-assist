@@ -1,5 +1,5 @@
 ---
-title: Sage 300 Cloud Version 2020 - Package A2 (Advanced Edition - 5 Users)
+title: Sage 300  - Package A2 (Advanced Edition - 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution508
 ---
 
@@ -7,13 +7,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution508
 
 Sage 300 is an ERP solution which automates and connects the various work processes of a business including financials, operations and inventory, project and vendor management, business intelligence reporting and sales, marketing and customer service for a seamless centralised platform.
 
-
-
-
-
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_IT_Infinity_Price_Annex_3_CRwef_4th_Sept_2020_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -35,9 +31,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-IT Infinity Pte Ltd<br>www.it8.com.sg<br>Email: sales@it8.com.sg<br>Tel: +65 6346 1511
+Company Name: IT Infinity Pte Ltd<br>Web URL: www.it8.com.sg<br>Contact Hotline: 6346-1511<br>Contact Email: sales@it8.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
