@@ -42,11 +42,11 @@ bizSAFE is a 5-step risk management capability building programme for workplace 
 
 <a href="https://www.wshc.sg/bizsafe" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)![b2021](/images/budget2021/budget_new.png)
+#### Chief Technology Officer-as-a-Service (CTOaaS)![b2021](/images/budget2021/budget_new.png)
 
 CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
 
-<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/CTOaaS" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Construction and Facilities Management Industry Digital Plan
 
@@ -70,7 +70,7 @@ CultureSAFE is a programme to help companies understand the state of their workp
 
 The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
 
-<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Digital Services Lab
 

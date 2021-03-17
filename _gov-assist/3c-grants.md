@@ -144,9 +144,9 @@ The ETSS offers higher course fee grant of up to 90% of the course fees and abse
 
 <a href="https://www.enterprisejobskills.gov.sg/content/upgrade-skills/enhanced-training-support-for-SME.html" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Enhanced Training Support Package (ETSP)
+#### Enhanced Training Support Package (ETSP)![b2021](/images/budget2021/budget_extended.png)
 
-The ETSP is a time-limited scheme to cover up to 90% course fee funding (for selected sectors) and up to $10/hr absentee payroll funding for all SSG-supported certifiable courses completed before 31 December 2020. 
+The ETSP is a time-limited scheme to cover up to 90% course fee funding (for selected sectors) and up to $7.50/hr absentee payroll funding for selected sector-specific traning programmes by SSG-appointed training partners for courses starting before 1 Jan 2022.
 
 <a href="https://www.ssg.gov.sg/ETSP_EnhancedAP.html" target="_blank" style="color:#037e8a">Find out more</a>
 
@@ -400,9 +400,9 @@ The NTFG helps first and second-time directors to launch their careers by provid
 
 #### Open Innovation Platform (OIP)![b2021](/images/budget2021/budget_enhanced.png)
 
-The Open Innovation Platform supports companies' development of POC/Prototypes. It provides a structured process to support businesses and Trade Associations & Chambers in identifying possible areas of digital innovation and matching them with solution providers. The platform has been enhanced with new features to enable better matching, testing and development.
+The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
 
-<a href="https://www.openinnovation.sg/about" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.openinnovation.sg" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Operation & Technology Roadmap (OTR)
 
@@ -514,6 +514,12 @@ The SFEC aims to encourage employers to invest in both enterprise and workforce 
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/skillsfuture-enterprise-credit" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### SkillsFuture Work-Study Programmes (WSPs)![b2021](/images/budget2021/budget_enhanced.png)
+
+Businesses can groom and hire fresh talent through Work-Study Programmes across Certificate, Diploma, Post-Diploma, and Degree levels. Businesses will jointly design and deliver with Institutes of Higher Learning (IHLs) and appointed private providers.
+
+<a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/work-study-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Smart Facilities Management Proof-of-Concept Grant (Smart FM POC Grant)
 
 The Smart FM POC Grant is aims to showcase the potential benefits and establish a business case for the next phase of industry transformation towards integrated and aggregated smart FM.
@@ -597,9 +603,3 @@ WEF provides funding to local non-domestic water users to enable them to improve
 BCA co-funds up to 90% of selected training courses and skills assessments for firms in the built environment sector, with the aim of improving the capability of the workforce.
 
 <a href="https://www1.bca.gov.sg/public/students/workforce-training-and-upgrading-scheme" target="_blank" style="color:#037e8a">Find out more</a>
-
-#### Work-Study Programme (WSP)
-
-The WSPs are targeted at fresh graduates and mid-career individuals by providing a head-start in careers related to their discipline of study and opportunities to build on skills and knowledge acquired in school. 
-
-<a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/work-study-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
