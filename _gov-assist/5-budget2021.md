@@ -25,6 +25,10 @@ Get funding support for developing and acquiring new capabilities from foreign s
 
 <a href="https://go.gov.sg/wsg-ctp-enquiry-1" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Enhanced Training Support Package (ETSP)![b2021](/images/budget2021/budget_extended.png)
+
+The ETSP is a time-limited scheme to cover up to 90% course fee funding (for selected sectors) and up to $7.50/hr absentee payroll funding for selected sector-specific traning programmes by SSG-appointed training partners for courses starting before 1 Jan 2022.
+
 #### Enterprise Development Grant (EDG)![b2021](/images/budget2021/budget_enhanced.png)
 
 The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas. Receive up to 70% support for eligible costs. (up to 80% from 1 April - 31 March 2022)
@@ -53,9 +57,9 @@ SMEs looking to take their business overseas can receive up to 70% support for e
 
 #### Open Innovation Platform (OIP)![b2021](/images/budget2021/budget_enhanced.png)
 
-The Open Innovation Platform supports companies' development of POC/Prototypes. It provides a structured process to support businesses and Trade Associations & Chambers in identifying possible areas of digital innovation and matching them with solution providers. The platform has been enhanced with new features to enable better matching, testing and development.
+The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
 
-<a href="https://www.openinnovation.sg/about" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.openinnovation.sg" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Part-Time Re-employment Grant (PTRG)![b2021](/images/budget2021/budget2021.png)
 
@@ -75,6 +79,12 @@ Provides funding support to companies that increase their own retirement and re-
 
 <a href="https://www.mom.gov.sg/employment-practices/schemes-for-employers-and-employees/senior-worker-early-adopter-grant-and-part-time-re-employment-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### SkillsFuture Work-Study Programmes (WSPs)![b2021](/images/budget2021/budget_enhanced.png)
+
+Businesses can groom and hire fresh talent through Work-Study Programmes across Certificate, Diploma, Post-Diploma, and Degree levels. Businesses will jointly design and deliver with Institutes of Higher Learning (IHLs) and appointed private providers.
+
+<a href="https://www.enterprisejobskills.gov.sg/content/recruit-talent/work-study-programme.html" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Wage Credit Scheme![b2021](/images/budget2021/budget_extended.png)
 
 No application is required. The government provides co-funding of wage increments for Singaporean employees earning a gross monthly wage of up to $5,000.
@@ -83,11 +93,11 @@ No application is required. The government provides co-funding of wage increment
 
 #### **Toolkits / Programmes**
 
-#### Chief Technology Officer, or CTO-as-a-Service initiative (CTOaaS)![b2021](/images/budget2021/budget_new.png)
+#### Chief Technology Officer-as-a-Service (CTOaaS)![b2021](/images/budget2021/budget_new.png)
 
 CTOaaS supports SMEs to uncover their digitalisation needs and transform their business operations through professional IT consultancies offering end-to-end digital advice, from digital consultancy tailored to business needs, to downstream project implementation. More details in due course.
 
-<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.imda.gov.sg/programme-listing/smes-go-digital/CTOaaS" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Corporate Venture Launchpad (VCL)![b2021](/images/budget2021/budget_new.png)
 
@@ -99,7 +109,7 @@ CVL provides co-funding for corporates to build new ventures through pre-qualifi
 
 The Digital Leaders Programme enables promising, high-potential local companies to become digital leaders by equipping them with digital capabilities and talent to transform their business models and capture new growth opportunities. More details in due course.
 
-<a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
+<a href="https://www.imda.gov.sg/digitalleadersprogramme" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Emerging Technology Programme![b2021](/images/budget2021/budget_new.png)
 
