@@ -9,7 +9,7 @@ The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_Annex_3_CR_wef_25_Feb_2021_Part_1' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_Annex_3_CR_wef_25_Feb_2021_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -34,6 +34,10 @@ Up to NA% for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+Company Name:CSG Software Pte Ltd 
+<br>Web URL: www.csglobal-group.com 
+<br>Contact Hotline: 65882378 
+<br>Contact Email: marketing@csglobal-group.com 
+<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
