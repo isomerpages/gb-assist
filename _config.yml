@@ -12,6 +12,8 @@ collections:
   other-resources:
     output: true
 google_analytics: UA-168352617-1
+facebook-pixel: 688926055194344
+linkedin-insights: 918155
 resources_name: news
 
 
