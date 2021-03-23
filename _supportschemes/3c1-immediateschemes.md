@@ -17,14 +17,6 @@ Click <a href="https://go.gov.sg/jsseligibility" target="_blank" style="color:#0
 
 Click <a href="https://go.gov.sg/jss" target="_blank" style="color:#037e8a">here</a> for more information.
 
-**<ins>EXCESS PAYMENT IN OCTOBER 2020 JOBS SUPPORT SCHEME PAYOUT</ins>**
-
-This site is for businesses to check if you have been affected by the excess payment in the Jobs Support Scheme (JSS) payouts made in October 2020. All affected businesses have been notified of specific details via letters and emails. You may also login below to view details pertaining to your business.
-
-<p>
-{% include button.html text="Login" src="https://go.gov.sg/jssrecoverylogin" type="primary" %}
-</p>
-
 #### Enhanced Wage Credit Scheme (WCS)
 
 * Additional $500m for employees’ wage increases, on top of $600m disbursed in March 2020
