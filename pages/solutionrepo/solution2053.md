@@ -1,15 +1,13 @@
 ---
-title: Automated Oxygen Scavenger Dispenser
-permalink: /productivity-solutions-grant/solutionrepo/solution306
+title: EQUIP Version 10 - EQUIP S1 - 30 Users
+permalink: /productivity-solutions-grant/solutionrepo/solution2053
 ---
 
 #### Description
 
-Oxygen scavengers work by absorbing the ambient moisture. These scavengers are put into small packets and inserted alongside the packaged product. 
+EQUIP is an easy to use and versatile ERP solution that help companies revolutionize their business into insightful and intelligent enterprises by reducing paperwork, providing in depth business analytics and automating manual labor. 
 
-An oxygen scavenger dispenser works by integrating with a production line and automatically inserting these oxygen scavenger packets with each packaged product.
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, and Accounting. These modern ERP solutions assist companies to win their markets with advanced analytics, data management, real-time processing, and automation.
 
 #### Details of Solution
 
@@ -35,10 +33,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Minimum loading speed of 150 packets per minute
-- Able to insert oxygen scavenger packets of varied sizes
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 N.A.

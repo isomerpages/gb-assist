@@ -1,14 +1,13 @@
 ---
-title: Handheld electric fish scaler
-permalink: /productivity-solutions-grant/solutionrepo/solution54
+title: EQUIP Version 10 - EQUIP S1 - 10 Users
+permalink: /productivity-solutions-grant/solutionrepo/solution2051
 ---
 
 #### Description
 
-The handheld electric fish scaler makes fish scaling effortless. The unit removes the scales from any size fish without damaging the skin.
+EQUIP is an easy to use and versatile ERP solution that help companies revolutionize their business into insightful and intelligent enterprises by reducing paperwork, providing in depth business analytics and automating manual labor. 
 
-Grant support: 80% of cost of equipment, up to $8,000 grant
-
+Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, and Accounting. These modern ERP solutions assist companies to win their markets with advanced analytics, data management, real-time processing, and automation.
 
 #### Details of Solution
 
@@ -34,7 +33,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 N.A.

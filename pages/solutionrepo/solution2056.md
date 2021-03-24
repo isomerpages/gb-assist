@@ -1,13 +1,12 @@
 ---
-title: Turntable Automated Pallet Cling Wrap Machine
-permalink: /productivity-solutions-grant/solutionrepo/solution303
+title: DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3 - DIMMPS
+permalink: /productivity-solutions-grant/solutionrepo/solution2056
 ---
 
 #### Description
 
-Turntable automatic pallet cling wrap machine require no operator. Pallet loads will be automatically stretch wrapped according to pre-programmed parameters. The only operator intervention required is changing of stretch film when the roll is empty. 
-
-Grant support: 80% of cost of equipment, up to $8,000 grant 
+DIMMPS is a marketing software platform based on the WeChat mobile app.
+The solution aims to provide SME the opportunity to create an online presence. It helps the SME to create more convenience for their customers, influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
 
 #### Details of Solution
 
@@ -33,12 +32,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Automatic cutting of the film at the end of the cycle
-- Rotational speed: more than 3 rpm
-- Speed adjustment (optional)
-- Integrated weighing system (optional)
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 N.A.

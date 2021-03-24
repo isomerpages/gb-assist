@@ -5,9 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution305
 
 #### Description
 
-An automatic depositor portions dough, fillings and batters onto moving or stationary lines. Portions will all be of consistent size no matter who operates the machine. 
-
-Grant support: 80% of cost of equipment, up to $20,000 grant
+An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
+Also known as dough portion divider, the machine is made to suit the soft dough texture. 
+As a guide, it is recommended for the Dough Filler to allow a divided dough weight of minimum 7gm and a dough dividing capacity with minimum 5 seconds
 
 #### Details of Solution
 
@@ -33,11 +33,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Volume of hopper (to hold the dough), divided dough weight and dough dividing capacity can be customised to suit company's requirement. 
-- Divided dough weight: Between 7gm to 60gm. (optional)
-- Dough dividing capacity: between 1s to 5s per piece depending on company's requirement. (optional)
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
+Vendor must be able to offer several options of hoppers with different volumes
+Equipment must allow company to be able to change desired dough weight (Mandatory)
 
 #### Contact Information
 N.A.

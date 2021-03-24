@@ -5,11 +5,8 @@ permalink: /productivity-solutions-grant/solutionrepo/solution391
 
 #### Description
 
-Automated standalone washer for pots, trays and utensils that replaces manual dishwashing. Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water.
-
-
-Grant support: 80% of cost of equipment, up to $30,000 grant 
-
+Automated standalone washer for pots, trays and utensils that replaces manual dishawashing. 
+Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water
 
 #### Details of Solution
 
@@ -35,11 +32,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Automated washing that only requires loading, no need for handwashing. 
-- Wash tank capacity of at least 40 litres.
-- Does not include accessories.
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
+Automated washing that only requires loading, no need for handwashing. 
+Wash tank capacity of at least 15 litres.
+Does not include accessories
 
 #### Contact Information
 N.A.

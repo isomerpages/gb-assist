@@ -33,13 +33,15 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Equipment must meet the following:
-- Unit must be able to fully automate noodle making process, i.e. from raw materials to dried noodles in serving portions ready to be cooked
-- Serving size and noodle thickness should be customizable
-- Flour capacity should be Minimum 10kg
+Min Specifications: 
+- Unit must be able to fully automate the noodle making process, i.e. from raw materials (primarily flour and water) to dried noodles in serving portions which are ready to be cooked
+- Serving size and noodle thickness should be customisable
+- Time taken to make one serving of noodles should not exceed 40s
+
+- Flour capacity should be =10kg
 - Installation and maintenance costs not supported
 
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 Purchase of pre-owned/ used equipment are not supported
 No change in vendor allowed
