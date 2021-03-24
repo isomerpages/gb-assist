@@ -10,3 +10,21 @@ This site is for businesses to check if you have been affected by the excess pay
 <p>
 {% include button.html text="Login" src="https://go.gov.sg/jssrecoverylogin" type="primary" %}
 </p>
+
+<style>
+.navbar>.bp-container{
+display: none
+}
+
+.bp-footer.top-section{
+display: none
+}
+
+.bp-footer{
+display: none
+}
+
+.bp-breadcrumb{
+display: none
+}
+</style>
