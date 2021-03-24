@@ -6,8 +6,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution109
 #### Description
 
 Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accomodate scalability
 
 #### Details of Solution
 
@@ -33,11 +32,9 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Automatic cleaning and heating function
-- Able to rotate in both directions - clockwise and counter-clockwise (optional)
-- Load capacity of 20L (optional)
+Automatic cleaning and heating function
+Time and heating presetting function. Eg. 15 minutes cooking time, like a microwave
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information
 N.A.

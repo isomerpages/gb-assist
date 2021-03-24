@@ -5,12 +5,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution395
 
 #### Description
 
-Blast freezers chill food from cooking temperatures ~70 C to about -18 C within 240 min. Prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing. 
-
-Rapid freezing with blast freezer prevents formation of large ice crystals associated with normal freezers that reduces shelf life, quality and flavour of frozen food. Food frozen with blast freezer can last longer and tastes better. 
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
-
+Blast freezers chill food from cooking temperatures ~70?C to about -18?C within 240 min. Prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing.
+Rapid freezing with blast freezer prevents formation of large ice crystals associated with normal freezers that reduces shelf life, quality and flavour of frozen food.
+It is recommended for the blast freezer to be able to be loaded with a trolley for ease of operation
 
 #### Details of Solution
 
@@ -36,11 +33,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Minimum of 10 trays 
-- Freezer must be able to reach -18?C
-- Ability to load with a trolley (optional)
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
+Minimum of 10 trays
+Freezer must be able to reach -18?C
 
 #### Contact Information
 N.A.

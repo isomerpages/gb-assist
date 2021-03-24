@@ -1,13 +1,14 @@
 ---
-title: Vertical Form Fill Seal Machine
+title: Form Fill Seal Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution311
 ---
 
 #### Description
 
-The vertical form fill seal machine automates the packaging process. The product (e.g. noodles, flour) is placed at the top of the machine. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line.
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+The form fill seal machine automates the packaging process. 
+The product (e.g. noodles, flour) is placed at the top of the machine hopper. It will funnel the product into the plastic packaging and heat seal the pack. 
+The machine allows for quick and accurate filling in a manufacturing line.
+It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation
 
 #### Details of Solution
 
@@ -33,11 +34,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Temperature and speed control
-- Touch panel interface for easy operation (optional)
-- Integrated printer for product information (optional)
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
+Temperature and speed control
 
 #### Contact Information
 N.A.

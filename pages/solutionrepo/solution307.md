@@ -6,10 +6,9 @@ permalink: /productivity-solutions-grant/solutionrepo/solution307
 #### Description
 
 The automatic tray sealer only requires employees to fill up trays with the product (e.g. meat, buns, pasta) and it will automatically seal up each batch.
-
 Typically, these machines can seal several trays at once. 
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
+The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material
 
 #### Details of Solution
 
@@ -35,11 +34,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Minimum 400 pieces per hour
-- Must be able to seal at least 2 trays at once (optional)
-- Tabletop size (optional)
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
+Minimum 400 trys per hour
 
 #### Contact Information
 N.A.

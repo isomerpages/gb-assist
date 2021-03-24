@@ -1,15 +1,15 @@
 ---
-title: HRSS with WhyzeHR - Package ( 101 - 150 Employees )
-permalink: /productivity-solutions-grant/solutionrepo/solution179
+title: 2. Human Resource Strategy Formulation Level 4-Establish Human Resource Needs of a Small to Medium Enterprise
+permalink: /productivity-solutions-grant/solutionrepo/solution2305
 ---
 
 #### Description
 
-Business Process Review of HR process, outsourcing of HR administrative support and outsourcing of payroll processing with Employee Self-Service system.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Ark_Services_Pte_Ltd_Annex_3_Part_5.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200903531C-01-CRS-Q-0035793-HRS' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,16 +24,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+
 
 #### Support Level
-Up to 80% for SMEs <br>
+Up to % for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+N.A.
 
 #### Contact Information
-Ark Services Pte Ltd<br>http://arkservices.com.sg/<br>Email: enquiry@arkservices.com.sg<br>Tel: +65 6873 0911
+
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

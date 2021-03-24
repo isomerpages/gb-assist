@@ -1,15 +1,13 @@
 ---
-title: Vacuum Packaging Machine
+title: Vacuum Packing and Sealing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution310
 ---
 
 #### Description
 
-The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products are placed in trays and then loaded into the vacuum chambers, after which a plastic film will be used to seal in the product. 
-
+The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap loaded into the vacuum chambers, the product will be vacuum sealed
 The alternative to this machine is for workers to manually seal products with cling packaging, without guarantees of a strong vacuum seal. 
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+It is recommended for the equipment to have a digital interface for ease of use
 
 #### Details of Solution
 
@@ -35,10 +33,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-- Able to seal multiple products at a time
-- Digital interface for ease-of-use
-
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR. The purchase of pre-owned/used equipment is not supportable.
+Minimum vacuum chamber of 2184cm2
 
 #### Contact Information
 N.A.
