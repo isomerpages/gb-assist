@@ -27,4 +27,12 @@ display: none
 .bp-breadcrumb{
 display: none
 }
+
+.float-buttons{
+    display: none
+}
+
+.wog--tabbed-button-bottom-left{
+    display: none
+}
 </style>
