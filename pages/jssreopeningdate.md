@@ -32,7 +32,7 @@ display: none
     display: none
 }
 
-.wog--tabbed-button-bottom-left{
+.wog--tabbed-button{
     display: none
 }
 </style>
