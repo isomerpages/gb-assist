@@ -37,13 +37,10 @@ Min Specifications:
 - Unit must be able to fully automate the noodle making process, i.e. from raw materials (primarily flour and water) to dried noodles in serving portions which are ready to be cooked
 - Serving size and noodle thickness should be customisable
 - Time taken to make one serving of noodles should not exceed 40s
-
-- Flour capacity should be =10kg
 - Installation and maintenance costs not supported
 
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Purchase of pre-owned/ used equipment are not supported 
 
-Purchase of pre-owned/ used equipment are not supported
 No change in vendor allowed
 
 #### Contact Information

@@ -33,7 +33,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Minimum capacity of 1000 pcs per hour
+Minimum capacity of 1,000 pcs per hour
 
 
 #### Contact Information

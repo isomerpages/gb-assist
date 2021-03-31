@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution395
 
 #### Description
 
-Blast freezers chill food from cooking temperatures ~70?C to about -18?C within 240 min. Prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing.
+Blast freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. Prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing.
 Rapid freezing with blast freezer prevents formation of large ice crystals associated with normal freezers that reduces shelf life, quality and flavour of frozen food.
 It is recommended for the blast freezer to be able to be loaded with a trolley for ease of operation
 

@@ -31,7 +31,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-=30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 Company Name: IT Infinity Pte Ltd<br>Web URL: www.it8.com.sg<br>Contact Hotline: 6346-1511<br>Contact Email: sales@it8.com.sg
