@@ -32,8 +32,8 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Automatic cleaning and heating function
-Time and heating presetting function. Eg. 15 minutes cooking time, like a microwave
+Automatic cleaning
+-Time and heating presetting function. Eg. 15 minutes cooking time, like a microwave
 
 
 #### Contact Information

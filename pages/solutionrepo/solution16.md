@@ -39,13 +39,7 @@ N.A. for non-SMEs
 
 #### Things to Note
 Additional criteria:
-- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
-
-The automated dishwasher can be:
-- A hood-type machine come with a vertical lift hood 
-- Front opening dishwasher is equipped for installation in freestanding or under
-counter-type operations
+Min tank capacity of 15 litres
 
 #### Contact Information
 N.A.

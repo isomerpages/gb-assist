@@ -9,7 +9,11 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 
 #### Details of Solution
 
-Coming soon.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' style='color:#037e8a'>here</a> to view details of solution.
+
+#### Sector Specialisation
+
+All sectors
 
 #### Eligibility Criteria
 
