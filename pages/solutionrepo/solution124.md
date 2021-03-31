@@ -33,7 +33,7 @@ Up to 60% for non-SMEs
 #### Things to Note
 Specifications
 - Integrated with fill- level sensor(s) and communication system(s)
--Minimum  Bin Capacity: 120 litres 
+- Minimum Bin Capacity: 120 litres 
 
 Grant cap: Up to S$4,100 per unit
 

@@ -34,7 +34,7 @@ N.A. for non-SMEs
 
 #### Things to Note
 The setup consists of one or multiple laser beam emitting units and their detectors for geometric alignment and measurement.
-Measuring errors:Minimum  +/- 1%
+Measuring errors: minimum +/- 1%
 Maintenance cost not supported
 Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals
 

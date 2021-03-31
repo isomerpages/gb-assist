@@ -38,7 +38,7 @@ Specifications
 - separation tank
 - drying system 
  
--Minimum  treatment capacity of 1,000kg per hour.
+- Minimum treatment capacity of 1,000kg per hour.
 
 Grant cap: Up to S$280,000 per unit
 

@@ -47,7 +47,7 @@ Equipment must meet the following specifications:
 
 3. Implementation: Probe and software configuration and training
 
-Additional criteria:Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
 

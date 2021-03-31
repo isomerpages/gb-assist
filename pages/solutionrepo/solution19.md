@@ -36,7 +36,7 @@ N.A. for non-SMEs
 
 #### Things to Note
 Additional criteria:
--Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 - The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information

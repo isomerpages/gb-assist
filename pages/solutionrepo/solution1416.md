@@ -43,7 +43,7 @@ Specifications:
 - Safety features incl. (e.g. emergency stop switch)
 - Charging accessories & 1 spare battery per unit may be supported
 
-Additional criteria:Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 N.A.

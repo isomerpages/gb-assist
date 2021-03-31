@@ -34,7 +34,7 @@ N.A. for non-SMEs
 
 #### Things to Note
 Automatic travelling gas cutting operations
-Cutting speed:Minimum  50 mm/min
+Cutting speed: minimum 50 mm/min
 Adjustable bevel angle
 Maintenance costs not supported
 Optional components: relevant accessories e.g. gas hoses, cables, rail/track

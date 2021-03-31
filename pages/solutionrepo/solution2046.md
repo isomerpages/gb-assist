@@ -46,7 +46,7 @@ Unit is expandable, customizable to hold different types of tools, and fully sec
 Support only hardware and software.
 
 Additional criteria:
--Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 - The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information

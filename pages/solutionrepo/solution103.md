@@ -39,7 +39,7 @@ N.A. for non-SMEs
 Support excludes end-effectors, sensors, programming and integration cost
 
 Additional criteria:
--Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+- Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 - The purchase of pre-owned/used equipment is not supportable.
 
 #### Contact Information

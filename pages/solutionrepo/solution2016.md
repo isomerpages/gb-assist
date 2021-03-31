@@ -34,7 +34,7 @@ Up to 60% for non-SMEs
 
 #### Things to Note
 Specifications
--Usage time:Minimum  3 hours
+-Usage time: minimum 3 hours
 -Cordless Technology (wireless) 
 -Able to provide real time data for pest control operators for analysis onsite.
 -The detector must minimally consist of at least a thermal sensor or CO2 sensor.

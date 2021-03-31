@@ -42,7 +42,7 @@ Equipment must meet the following:
 - Installation & maintenance not supported
 - For sectors (e.g F&B) requiring high level of sanitisation. Office spaces not supported.
 
-Additional criteria:Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
 
