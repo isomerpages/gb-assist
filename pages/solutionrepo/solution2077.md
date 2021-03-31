@@ -1,11 +1,11 @@
 ---
-title: Wireless Tour Guide System 
-permalink: /productivity-solutions-grant/solutionrepo/solution1131
+title: CSG - Autodesk BIM Collaborate Pro - 10 Users Pack
+permalink: /productivity-solutions-grant/solutionrepo/solution2077
 ---
 
 #### Description
 
-Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
+Autodesk BIM360 Design is a design collaboration software providing a platform for real-time cloud worksharing and collaboration workflows. It helps to improve productivity, reduce rework, and accelerate project delivery.
 
 #### Details of Solution
 
@@ -24,16 +24,13 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
-Up to 80% for SMEs <br>
-Up to 60% for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 #### Things to Note
-Operating time of >15 hours and talk range of 100-200 meters. Example vendor: Kenwah System
-
-Additional criteria for SMEs: 
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information

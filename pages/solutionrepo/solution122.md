@@ -32,9 +32,9 @@ Up to 80% for non-SMEs
 
 #### Things to Note
 Specifications
-- Minimum Compaction Ratio:  3
-- Minimum Compactor Volume: 15 cubic metres
-- The compatible bins must be compliance to EN 12574 or equivalent with a minimum bin capacity of 1800L.
+-Minimum  Compaction Ratio:  3
+-Minimum  Compactor Volume: 15 cubic metres
+- The compatible bins must be compliance to EN 12574 or equivalent with aMinimum  bin capacity of 1800L.
 - Cost of chassis is not supported
 
 Grant cap: Up to S$199,900 per unit

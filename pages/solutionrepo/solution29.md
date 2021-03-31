@@ -33,7 +33,7 @@ Up to 80% for non-SMEs
 #### Things to Note
 Specifications
 - Cordless Technology (wireless)
-- Operating time: minimum 2 hours
+- Operating time:Minimum  2 hours
 - Vacuum bag /dust receiver capacity: at least 4 litres
 
 Grant cap: Up to S$28,400 per unit

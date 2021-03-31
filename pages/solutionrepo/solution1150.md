@@ -33,7 +33,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Ascent speed: minimum 1 ft/s
+Ascent speed:Minimum  1 ft/s
 Maintenance cost not supported
 
 #### Contact Information

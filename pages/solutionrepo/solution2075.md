@@ -1,16 +1,11 @@
 ---
-title: Robotic arms
-permalink: /productivity-solutions-grant/solutionrepo/solution103
+title: CSG - Autodesk BIM Collaborate Pro - 2 User Pack
+permalink: /productivity-solutions-grant/solutionrepo/solution2075
 ---
 
 #### Description
 
-Robotic arms that are:
-- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
-- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
-- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
+Autodesk BIM360 Design is a design collaboration software providing a platform for real-time cloud worksharing and collaboration workflows. It helps to improve productivity, reduce rework, and accelerate project delivery.
 
 #### Details of Solution
 
@@ -29,18 +24,14 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
-Up to 80% for SMEs <br>
-N.A. for non-SMEs
+Up to 70% (80% from 1 Apr 2020 to 31 Mar 2022)% for SMEs <br>
+Up to NA% for non-SMEs
 
 #### Things to Note
-Support excludes end-effectors, sensors, programming and integration cost
-
-Additional criteria:
--Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-- The purchase of pre-owned/used equipment is not supportable.
+Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
 N.A.

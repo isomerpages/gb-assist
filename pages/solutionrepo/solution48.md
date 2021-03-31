@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution48
 
 #### Description
 
-The escalator cleaner can work in either dry or wet mode to clean escalators and travellators.
+
 
 #### Details of Solution
 

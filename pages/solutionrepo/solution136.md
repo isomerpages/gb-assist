@@ -33,7 +33,7 @@ Up to 80% for SMEs <br>
 N.A. for non-SMEs
 
 #### Things to Note
-Magnetic force: minimum 800kgf
+Magnetic force:Minimum  800kgf
 Maintenance costs not supported
 
 #### Contact Information

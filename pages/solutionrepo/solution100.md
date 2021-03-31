@@ -32,8 +32,8 @@ Up to 80% for non-SMEs
 
 #### Things to Note
 Specifications
-- Liquid solution tank with minimum capacity of 100 litres; and 
-- Recovery tank with minimum capacity of 100 litres.
+- Liquid solution tank withMinimum  capacity of 100 litres; and 
+- Recovery tank withMinimum  capacity of 100 litres.
 
 Grant cap: Up to S$10,100 per unit
 

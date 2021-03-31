@@ -42,7 +42,7 @@ N.A. for non-SMEs
 - Installation cost is supported
 - Maintenance cost is not supported
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria:Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
 

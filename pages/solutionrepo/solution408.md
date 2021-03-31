@@ -36,9 +36,9 @@ N.A. for non-SMEs
 
 #### Things to Note
 Equipment must meet the following:
--Have a minimum capacity of 5GN
+-Have aMinimum  capacity of 5GN
 
-Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
+Additional criteria:Minimum  30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
 
