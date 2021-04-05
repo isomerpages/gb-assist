@@ -3,6 +3,8 @@ title: GeBIZ Alerts
 permalink: /gebiz-alerts/
 ---
 
+**Announcement:** Please note that from 11 April 2021, you will be required to login to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit go.gov.sg/corporate-login
+
 ## GeBIZ Alerts
 
 Give your business that extra edge by subscribing to GeBIZ Alerts. Just sign in to GoBusiness with your Corppass to receive alerts of Government procurement opportunities posted on the Government Electronic Business (GeBIZ). It’s easy, fast and FREE.
