@@ -9,7 +9,7 @@ Autocount is an integrated Accounting and Inventory Management System. It covers
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_I_SOFT_20200352_Annex_3_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedISOFTBUSINESSSOLUTIONSPTELTD_Annex_3CRwef8April2021(002)_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
