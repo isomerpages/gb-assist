@@ -61,7 +61,6 @@ accordion:
 
 ## Pre-scoped IT Solutions for Pest Management
 
-
 #### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
 {% include accordion.html %}
