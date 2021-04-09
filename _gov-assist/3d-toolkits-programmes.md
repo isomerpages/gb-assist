@@ -210,6 +210,12 @@ The nationwide E-invoicing network helps businesses improve efficiency, reduce c
 
 <a href="https://www.imda.gov.sg/programme-listing/nationwide-e-invoicing-framework" target="_blank" style="color:#037e8a">Find out more</a>
 
+#### Open Innovation Platform (OIP)![b2021](/images/budget2021/budget_enhanced.png)
+
+The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
+
+<a href="https://www.openinnovation.sg" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Overseas Market Workshops
 
 Provides a deeper understanding of country-specific laws/regulations in areas such as financing and manpower. Firm can nominate employees interested in training for opportunities in international job roles.

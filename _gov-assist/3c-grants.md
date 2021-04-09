@@ -398,12 +398,6 @@ The NTFG helps first and second-time directors to launch their careers by provid
 
 <a href="https://www.imda.gov.sg/programme-listing/new-talent-feature-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Open Innovation Platform (OIP)![b2021](/images/budget2021/budget_enhanced.png)
-
-The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
-
-<a href="https://www.openinnovation.sg" target="_blank" style="color:#037e8a">Find out more</a>
-
 #### Operation & Technology Roadmap (OTR)
 
 Development of technology roadmaps to map out priorities that are aligned to businesses' strategies and developmental plans. Eligible SMEs may receive up to 70% funding support.
