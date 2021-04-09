@@ -3,7 +3,7 @@ title:
 permalink: /jssreopeningdate/
 ---
 
-**System Maintenance:** Corppass is undergoing scheduled maintenance from 10 April 0000hrs to 11 April 0800hrs. Please note that starting from 11 April 2021, users will be required to login via Singpass to access government digital services, instead of Corppass. Find out more: <a href="https://go.gov.sg/corporate-login" target="_blank">https://go.gov.sg/corporate-login</a>
+**System Maintenance:** Corppass is undergoing scheduled maintenance from 10 April 0000hrs to 11 April 0800hrs. </br>Please note that starting from 11 April 2021, users will be required to login via Singpass to access government digital services, instead of Corppass. Find out more: <a href="https://go.gov.sg/corporate-login" target="_blank">https://go.gov.sg/corporate-login</a></br>
 
 
 
