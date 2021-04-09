@@ -3,8 +3,8 @@ title:
 permalink: /jssreopeningdate/
 ---
 
-**System Maintenance:** CorpPass will be unavailable for GoBusiness guided journey due to scheduled maintenance from Friday, 09 April 2021 11:50PM to Sunday, 11 April 2021 08:00AM. We apologise for the inconvenience caused.
-**Announcement:** Please note that from 11 April 2021, you will be required to login to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit go.gov.sg/corporate-login
+**System Maintenance:** Corppass is undergoing scheduled maintenance from 10 April 0000hrs to 11 April 0800hrs. Please note that starting from 11 April 2021, users will be required to login via Singpass to access government digital services, instead of Corppass. Find out more: <a href="https://go.gov.sg/corporate-login" target="_blank">https://go.gov.sg/corporate-login</a>
+
 
 
 CORRECTION OF REOPENING DATES AFFECTING JOBS SUPPORT SCHEME PAYOUTS AND FOREIGN WORKER LEVY WAIVERS/REBATES
