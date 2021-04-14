@@ -1,18 +1,15 @@
 ---
-title: Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
-permalink: /productivity-solutions-grant/solutionrepo/solution1032
+title: eCommerce Masterplan Version 1.0 - Basic
+permalink: /productivity-solutions-grant/solutionrepo/solution2098
 ---
 
 #### Description
 
-BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations.
-BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats).
-BIM 360 Design - For real time design collaboration, work sharing and change management.
-BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
+Our Ecommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can allow their customers to shop via online 24/7 to generate higher sales revenue. Integrated with 3rd party marketplaces, allowing their products & services to be exposed to a larger group of audience both locally and globally. With our marketing & engagement tools, higher customer retention rates are increased.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedBimageConsulting_Annex_3_CRwef15April2021_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AksTech20200820_Desensitised_Annex_3_Part_2.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -30,13 +27,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Dec 2020)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
+Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Contact Email: Info@akstech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

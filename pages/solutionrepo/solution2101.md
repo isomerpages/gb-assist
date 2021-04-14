@@ -1,18 +1,16 @@
 ---
-title: Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
-permalink: /productivity-solutions-grant/solutionrepo/solution1032
+title: Xero Accounting Software - PREMIUM 3
+permalink: /productivity-solutions-grant/solutionrepo/solution2101
 ---
 
 #### Description
 
-BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations.
-BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats).
-BIM 360 Design - For real time design collaboration, work sharing and change management.
-BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
+Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
+Xero's online accounting platform provides the foundation on which businesses can build a complete business solution. It connects businesses with their bank, accounting tools, their accountant, payment services and third-party apps, so everything is securely available at any time, on any device.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedBimageConsulting_Annex_3_CRwef15April2021_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/AuraPartners20190050_Desensitised_Annex_3_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -27,16 +25,16 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Dec 2020)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
+Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62211768 <br>Contact Email: APSmarketing@aura.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

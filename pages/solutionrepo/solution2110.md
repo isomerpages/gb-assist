@@ -1,18 +1,17 @@
 ---
-title: Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
-permalink: /productivity-solutions-grant/solutionrepo/solution1032
+title: E-Commerce Portal Development (WooCommerce) - Basic Package
+permalink: /productivity-solutions-grant/solutionrepo/solution2110
 ---
 
 #### Description
 
-BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations.
-BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats).
-BIM 360 Design - For real time design collaboration, work sharing and change management.
-BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
+WooCommerce is an open-source, completely customizable eCommerce platform developed in the Wordpress CMS. It's estimated that WooCommerce is used by around 3.9 million websites worldwide.
+
+WooCommerce is friendly to new eCommerce retailers. It is flexible in core features management, e.g. product & inventory, CRM, payments, marketing features, reporting and shipping integration. Apart from physical products, it allows us to sell digital products, subscriptions, appointments, and much more.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedBimageConsulting_Annex_3_CRwef15April2021_Part_3.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_1-.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -30,13 +29,13 @@ Please refer to 'Things to Note' for additional requirements.
 Direct Purchase
 
 #### Support Level
-Up to 70% (80% from 1 Apr 2020 to 31 Dec 2020)% for SMEs <br>
-Up to NA% for non-SMEs
+Up to 80% for SMEs <br>
+N.A. for non-SMEs
 
 #### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
+Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br>Contact Hotline: 69147727 <br>Contact Email: admin@iprodezign.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
