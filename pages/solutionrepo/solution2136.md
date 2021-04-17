@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2136
 
 #### Description
 
-Dehullers (or “shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
 #### Details of Solution
 

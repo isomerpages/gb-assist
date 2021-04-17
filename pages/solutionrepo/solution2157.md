@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2157
 
 #### Description
 
-A machine that mix and fill substrate bags with various nutrients that’s necessary for growing of crops.
+A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
 #### Details of Solution
 
