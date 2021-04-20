@@ -2,15 +2,6 @@ title: GoBusiness Gov Assist
 url: "https://govassist.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
 logo: /images/Gobiz_GA_logo.svg
 favicon: /images/Gobiz_favicon.ico
-collections:
-  gov-assist:
-    output: true
-  productivity-solutions-grant:
-    output: true
-  supportschemes:
-    output: true
-  other-resources:
-    output: true
 google_analytics: UA-168352617-1
 facebook-pixel: 688926055194344
 linkedin-insights: 918155
@@ -35,10 +26,13 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
+description: An Isomer site of the Singapore Government
+
+staging: https://staging.d2cfy9fu5b8mxm.amplifyapp.com
+prod: https://gb-assist-prod.netlify.app
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
-description: An Isomer site of the Singapore Government
-
+  - jekyll-remote-theme
