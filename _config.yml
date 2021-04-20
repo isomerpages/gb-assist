@@ -28,7 +28,7 @@ remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: An Isomer site of the Singapore Government
 
-staging: https://staging.d2cfy9fu5b8mxm.amplifyapp.com
+staging: https://gb-assist-staging.netlify.app
 prod: https://gb-assist-prod.netlify.app
 plugins:
   - jekyll-feed
