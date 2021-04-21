@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: penghong@wlp.com.sg <br>
+Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

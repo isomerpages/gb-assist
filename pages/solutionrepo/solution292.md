@@ -1,5 +1,5 @@
 ---
-title: Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 10 servers and 15 endpoints (for SMEs with 10 servers and 15 employees or more)
+title: Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 10 servers and 15 EndPoints (for SMEs with 10 servers and 15 employees or more)
 permalink: /productivity-solutions-grant/solutionrepo/solution292
 ---
 

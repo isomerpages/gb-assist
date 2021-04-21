@@ -1,5 +1,5 @@
 ---
-title: Sophos Central Endpoint Protection - Sophos Central Intercept X Advanced - 12 months (25 users)
+title: Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (25 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2113
 ---
 

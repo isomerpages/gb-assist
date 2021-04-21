@@ -1,15 +1,15 @@
 ---
-title: Endpoint Standard - 200 endpoints
-permalink: /productivity-solutions-grant/solutionrepo/solution1281
+title: EndPoint Standard - 10 EndPoints
+permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 
 #### Description
 
-Relying on signatures alone to detect today's threats is insufficient; Zero-day protection can defeat unknown malware that easily evade traditional security measures like firewalls. LGA's Endpoint Detection and Response (EDR) solution powered by Carbon Black gives you complete visibility to evasive malware and responds swiftly before data breaches occur. LGA's provides 24x7 security monitoring, alerting and response, and timely incident reports to provide greater insights and attack mitigation.
+Relying on signatures alone to detect today's threats is insufficient; Zero-day protection can defeat unknown malware that easily evade traditional security measures like firewalls. LGA's EndPoint Detection and Response (EDR) solution powered by Carbon Black gives you complete visibility to evasive malware and responds swiftly before data breaches occur. LGA's provides 24x7 security monitoring, alerting and response, and timely incident reports to provide greater insights and attack mitigation.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_LGA_Endpoint_Annex_3_CR_wef_3_Dec_2020_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 

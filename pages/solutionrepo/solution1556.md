@@ -1,11 +1,11 @@
 ---
-title: Sophos Endpoint Protection - Sophos Central Intercept X Advanced with EDR - 60 users
+title: Sophos EndPoint Protection - Sophos Central Intercept X Advanced with EDR - 60 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1556
 ---
 
 #### Description
 
-Sophos InterceptX Advanced Endpoint Protection is a centralized cloud managed platform which stops the widest range of attacks with a unique combination of deep learning malware detection, exploit prevention, anti-ransomware, and more.
+Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed platform which stops the widest range of attacks with a unique combination of deep learning malware detection, exploit prevention, anti-ransomware, and more.
 
 #### Details of Solution
 

@@ -9,7 +9,7 @@ Aptsys Customer Mobile Self Ordering with online payment and Delivery  is an O2O
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Solutions_Annex_3_CR_wef_23_Dec_2020_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedAptsysAnnex3CRwef22April2021_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
