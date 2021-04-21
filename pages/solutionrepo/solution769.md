@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution769
 
 #### Description
 
-SecureAPlus is an endpoint protection solution that uses the right combination of security layers to prevent the most advanced cyber threats of today & tomorrow from causing harm to your PC.
+SecureAPlus is an EndPoint protection solution that uses the right combination of security layers to prevent the most advanced cyber threats of today & tomorrow from causing harm to your PC.
 
 
 #### Details of Solution

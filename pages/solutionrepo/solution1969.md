@@ -1,5 +1,5 @@
 ---
-title: Sophos Endpoint - Sophos Central Intercept X Advanced with EDR - 50 Licences (1 Year)
+title: Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 50 Licences (1 Year)
 permalink: /productivity-solutions-grant/solutionrepo/solution1969
 ---
 

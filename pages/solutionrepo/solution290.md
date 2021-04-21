@@ -1,5 +1,5 @@
 ---
-title: Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 150 endpoints (for SMEs with 150 employees or more)
+title: Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 150 EndPoints (for SMEs with 150 employees or more)
 permalink: /productivity-solutions-grant/solutionrepo/solution290
 ---
 

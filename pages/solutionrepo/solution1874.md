@@ -7,7 +7,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1874
 
 TOFFS MSSP for ABCD provides 24 x7 outsourced monitoring & management of security devices & systems. Services include acting as the SME's inhouse IT security department to monitor & assess the IT security posture
 
-We provide endpoint protection, vulnerability assessment, network threat hunting & AI-based anomaly, network & system behavioural analytics to detect malware, data infiltration, data extradition and remediate in real-time any malware attacks that is threatening the organisation.
+We provide EndPoint protection, vulnerability assessment, network threat hunting & AI-based anomaly, network & system behavioural analytics to detect malware, data infiltration, data extradition and remediate in real-time any malware attacks that is threatening the organisation.
 
 #### Details of Solution
 

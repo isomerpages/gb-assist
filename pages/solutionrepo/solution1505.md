@@ -5,7 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution1505
 
 #### Description
 
-A cloud-based endpoint solution which secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks.
+A cloud-based EndPoint solution which secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks.
 
 #### Details of Solution
 

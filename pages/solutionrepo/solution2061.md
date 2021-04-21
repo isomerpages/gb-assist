@@ -1,12 +1,12 @@
 ---
-title: Adventus Managed Endpoint Protection - Sophos Central Intercept X Advanced (50 Units)
+title: Adventus Managed EndPoint Protection - Sophos Central Intercept X Advanced (50 Units)
 permalink: /productivity-solutions-grant/solutionrepo/solution2061
 ---
 
 #### Description
 
-Adventus Managed Endpoint Protection leverages on the Sophos Central Intercept X Advanced to provide a holistic Endpoint Protection by providing managed service on top of the solution.
-With this all-rounded Endpoint Protection, threats are disrupted, contained, and neutralized. As a result, customers can rest assured that their servers and endpoints are constantly being monitored by Adventus while they focus on their business needs and daily business operations.
+Adventus Managed EndPoint Protection leverages on the Sophos Central Intercept X Advanced to provide a holistic EndPoint Protection by providing managed service on top of the solution.
+With this all-rounded EndPoint Protection, threats are disrupted, contained, and neutralized. As a result, customers can rest assured that their servers and EndPoints are constantly being monitored by Adventus while they focus on their business needs and daily business operations.
 
 #### Details of Solution
 

@@ -5,9 +5,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution409
 
 #### Description
 
-The Online Ordering & Payment System allows F&B enterprises to enable digital online ordering and comprehensive functionalities to automate and perform online sales transactions. It enables F&B outlets to allow their customers to order on-site, takeout or delivery on an online platform.
-
- 
+Firstcom Solutions is a leading web development agency with more than 10 years of experience. Our solution covers the development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, manage online orders and data, track statistics of product sales performance, online marketing of products and provision of integration with external platforms to provide better automation and data analytics. 
 
 #### Details of Solution
 

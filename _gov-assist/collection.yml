@@ -1,0 +1,12 @@
+collections:
+  gov-assist:
+    output: true
+    order:
+      - overview.md
+      - types-of-assistance/.keep
+      - types-of-assistance/tax-incentives.md
+      - types-of-assistance/loans.md
+      - types-of-assistance/grants.md
+      - types-of-assistance/toolkits-programmes.md
+      - business-grants-portal.md
+      - budget-2021.md
