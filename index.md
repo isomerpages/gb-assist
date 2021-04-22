@@ -4,7 +4,7 @@ title: GoBusiness Gov Assist
 description: For Singapore Businesses
 image: /images/
 permalink: /
-notification: <strong>Announcement:</strong> On 30 April 2021, GoBusiness Gov Assist will be upgraded with more services and features for a better experience.<br><strong>COVID-19 Government Assistance for Businesses:</strong> Click <a href="/supportschemes/general">here</a> to view the list of government assistance to help businesses tide through COVID-19 
+notification: <strong>Announcement:</strong> On 30 April 2021, GoBusiness Gov Assist will be upgraded with more services and features for a better experience.<br/><strong>COVID-19 Government Assistance for Businesses:</strong> Click <a href="/supportschemes/general">here</a> to view the list of government assistance to help businesses tide through COVID-19 
 sections:
     - hero:
         title: Government Assistance for Businesses
