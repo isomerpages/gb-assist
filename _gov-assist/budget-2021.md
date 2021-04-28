@@ -29,6 +29,8 @@ Get funding support for developing and acquiring new capabilities from foreign s
 
 The ETSP is a time-limited scheme to cover up to 90% course fee funding (for selected sectors) and up to $7.50/hr absentee payroll funding for selected sector-specific traning programmes by SSG-appointed training partners for courses starting before 1 Jan 2022.
 
+<a href="https://www.ssg.gov.sg/ETSP_EnhancedAP.html" target="_blank" style="color:#037e8a">Find out more</a>
+
 #### Enterprise Development Grant (EDG)![b2021](/images/budget2021/budget_enhanced.png)
 
 The EDG helps Singapore companies grow and transform. This grant supports projects that help you upgrade your business, innovate or venture overseas. Receive up to 70% support for eligible costs. (up to 80% from 1 April - 31 March 2022)
@@ -54,12 +56,6 @@ No application is required. Receive 25% to 75% of the first $4,600 of gross mont
 SMEs looking to take their business overseas can receive up to 70% support for eligible costs with the MRA grant from 1 April 2020 - 31 March 2023. (up to 80% from 1 April - 31 March 2022).
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/grants/for-local-companies/market-readiness-assistance-grant" target="_blank" style="color:#037e8a">Find out more</a>
-
-#### Open Innovation Platform (OIP)![b2021](/images/budget2021/budget_enhanced.png)
-
-The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
-
-<a href="https://www.openinnovation.sg" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Part-Time Re-employment Grant (PTRG)![b2021](/images/budget2021/budget2021.png)
 
@@ -116,3 +112,9 @@ The Digital Leaders Programme enables promising, high-potential local companies 
 The Emerging Technology Programme co-funds the costs of trials and adoption of frontier technologies like 5G, aritificial intelligence, and trust technologies. More details in due course.
 
 <a href="/images/govassist/Budget 2021 Navigator (businesses).pdf" target="_blank" style="color:#037e8a">Find out more</a>
+
+#### Open Innovation Platform (OIP)![b2021](/images/budget2021/budget_enhanced.png)
+
+The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
+
+<a href="https://www.openinnovation.sg" target="_blank" style="color:#037e8a">Find out more</a>
