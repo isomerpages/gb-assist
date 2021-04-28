@@ -1,15 +1,15 @@
 ---
-title: Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package
-permalink: /productivity-solutions-grant/solutionrepo/solution2072
+title: BlueMeg Console - Package D (500 Entities)
+permalink: /productivity-solutions-grant/solutionrepo/solution2176
 ---
 
 #### Description
 
-Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations. For each transformation solutions development,  SCS provides Transformation Consultation, Integration Recommendations, Project Management, Implementation as well as Onsite Training and Technical Support.
+The BlueMeg Console is a cloud-based entity management and document management software as a service solution. It is a collaborative tool that enables the secure sharing of company information and documents with authorised company stakeholders. The BlueMeg Console enables users to interact and transact digitally, adding a new degree of efficiency, enforcement, and governance - all while decreasing the cost of doing business.
 
 #### Details of Solution
 
-Click <a href='https://govassist.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' style='color:#037e8a'>here</a> to view details of solution.
+Click <a href='https://govassist.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_4.pdf' style='color:#037e8a'>here</a> to view details of solution.
 
 #### Eligibility Criteria
 
@@ -24,7 +24,7 @@ c) must not have:
 Please refer to 'Things to Note' for additional requirements.
 
 #### Mode of Payment
-Direct Purchase
+Subscription or Leasing
 
 #### Support Level
 Up to 80% for SMEs <br>
@@ -34,6 +34,6 @@ N.A. for non-SMEs
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 #### Contact Information
-Web URL: https://scs-cpa.com/ <br>Contact Hotline: 69141114 <br>Contact Email: enquiry@scs-cpa.com <br>
+Web URL: www.bluemeg.com <br>Contact Hotline: 69316733 <br>Contact Email: whitelabel@bluemeg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' style='color:#037e8a' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
