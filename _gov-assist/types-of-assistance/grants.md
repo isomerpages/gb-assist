@@ -466,12 +466,6 @@ The POC grant supports up to 50% of qualifying costs for projects which aim to d
 
 <a href="https://www.mas.gov.sg/development/fintech/mas-fsti-proof-of-concept-grant" target="_blank" style="color:#037e8a">Find out more</a>
 
-#### Quieter Construction Innovation Fund (QCIF)
-
-The QCIF aims to promote adoption of quieter construction equipment and innovate methods, in order to mitigate construction noise impact to the public so as to achieve a liveable environment for all.
-
-<a href="https://www.nea.gov.sg/programmes-grants/grants-and-awards/quieter-construction-innovation-fund" target="_blank" style="color:#037e8a">Find out more</a>
-
 #### Resource Efficiency Grant for Energy
 
 REG(E) encourages companies in the Industry sector to implement projects that lead to meaningful carbon abatement outcomes.
@@ -555,12 +549,6 @@ Startup SG Founder provides mentorship and startup capital grant of S$30,000 to 
 Startup SG Tech supports Proof-of-Concept (POC) and Proof-of-Value (POV) for commercialisation of innovative technologies.
 
 <a href="https://www.startupsg.net/programmes/4897/startup-sg-tech" target="_blank" style="color:#037e8a">Find out more</a>
-
-#### Talent Assistance
-
-Funding support is provided to eligible companies and individuals to encourage them to acquire deeper skills and competencies through a list of pre-approved media courses.
-
-<a href="https://www.imda.gov.sg/programme-listing/Media-Manpower-Plan/Talent-Assistance-T-Assist" target="_blank" style="color:#037e8a">Find out more</a>
 
 #### Technology for Enterprise Capability Upgrading (T-Up)
 
