@@ -36,5 +36,6 @@ contacts:
 #      - days: Saturday
 #        time: 8.00am - 2.00pm
 #        description: Closed on Sunday and Public Holidays
-Published: false
 ---
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/contact-us/">
