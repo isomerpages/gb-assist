@@ -50,3 +50,4 @@ The support for COVID-19 continuity measures have ceased on 31 Dec 2020.
 
 ***
 
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/productivity-solutions-grant/">

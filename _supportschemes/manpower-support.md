@@ -24,3 +24,5 @@ This is a concerted effort as part of the Resilience Budget to create more oppor
 Whether you are looking to tackle the ongoing economic challenges, attract and retain local manpower, or improve productivity and innovation, WSG has the following programmes to provide you with support and resources customised for your manpower needs.
 
 {% include panels.html panels=site.data.transform_and_grow %}
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/supportschemes/manpowersupport/">

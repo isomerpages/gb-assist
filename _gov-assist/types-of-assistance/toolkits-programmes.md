@@ -347,3 +347,6 @@ Businesses and venue owners who want to provide free Wi-Fi to their patrons are 
 The WSH Advocate Programme helps companies to create inhouse supporting network for WSH across all levels. 
 
 <a href="https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=CL2014081201195&tabId=C-2014090901062 " target="_blank" style="color:#037e8a">Find out more</a>
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/gov-assist/toolkits-programmes/">

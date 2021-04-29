@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: /gebiz-alerts/faq/
+published: false
 ---
 
 ## GeBIZ Alerts

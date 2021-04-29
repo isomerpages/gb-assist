@@ -47,3 +47,6 @@ You will be notified of your application results via email. Log into BGP to acce
 #### Related content
 
 {% include panels.html panels=site.data.related_content_bgp %}
+
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/business-grants-portal/">

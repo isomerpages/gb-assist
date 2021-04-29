@@ -42,3 +42,5 @@ display: none
     display: none
 }
 </style>
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/jssreopeningdate/">

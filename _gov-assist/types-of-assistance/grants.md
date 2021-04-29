@@ -585,3 +585,5 @@ WEF provides funding to local non-domestic water users to enable them to improve
 BCA co-funds up to 90% of selected training courses and skills assessments for firms in the built environment sector, with the aim of improving the capability of the workforce.
 
 <a href="https://www1.bca.gov.sg/public/students/workforce-training-and-upgrading-scheme" target="_blank" style="color:#037e8a">Find out more</a>
+
+<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/gov-assist/grants/">
