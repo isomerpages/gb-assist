@@ -31,4 +31,4 @@ In order to ensure timeliness of notifications, GeBIZ Alerts actively pushes out
 {% include button.html text="Login to Subscribe for GeBIZ Alerts Now!" src="https://foodservices.gobusiness.gov.sg/gebiz-alerts/ssologin" type="primary" %}
 </p>
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/gebiz-alerts/">
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gebiz-alerts/">

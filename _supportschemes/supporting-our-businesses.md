@@ -31,4 +31,4 @@ COVID-19 has accelerated into a global pandemic. The global economy has been hit
 
 {% include panels.html panels=site.data.sector_specific_support %}
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/supportschemes/immediateschemes">
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/immediateschemes">

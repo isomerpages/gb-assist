@@ -81,4 +81,4 @@ Click <a href="/images/govassist/MR08420_Extension of Season Parking Waiver for 
 
 Click <a href="/images/govassist/FAQs_Extension of Season Parking Waiver for Private Bus Season Parking Holders.pdf" target="_blank" style="color:#037e8a">here</a> for FAQs.
 
-<meta http-equiv="REFRESH" content="0;url=https://govtech-gobusiness-main-staging.netlify.app/supportschemes/immediateschemes">
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/immediateschemes">
