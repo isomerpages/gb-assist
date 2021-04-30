@@ -59,3 +59,4 @@ accordion:
 
 *If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more.*
 
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/productivity-solutions-grant/">

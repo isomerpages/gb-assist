@@ -35,3 +35,5 @@ Click <a href="https://go.gov.sg/lis" target="_blank" style="color:#037e8a">here
 * Eligible enterprises may borrow up to $5 million under the TBLP, with the interest rate capped at 5% p.a., from Participating Financial Institutions (PFI). The Government will provide 90% risk-share on these loans for new applications submitted from 8 April 2020 to 31 March 2021.
 
 Click <a href="https://go.gov.sg/tblp" target="_blank" style="color:#037e8a">here</a> to apply.
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/financialschemes">

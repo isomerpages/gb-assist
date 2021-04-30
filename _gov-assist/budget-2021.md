@@ -118,3 +118,6 @@ The Emerging Technology Programme co-funds the costs of trials and adoption of f
 The Open Innovation Platform supports companies in getting quality and multi-disciplinary solutions to meet their digital innovation and business needs; enhanced with new features to increase scale and speed.
 
 <a href="https://www.openinnovation.sg" target="_blank" style="color:#037e8a">Find out more</a>
+
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gov-assist/budget-2021/">

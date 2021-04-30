@@ -1,5 +1,5 @@
 ---
-layout: contact_us
+layout: redirection-contact-us
 title: Contact Us
 permalink: /contact-us/
 agency_name: GoBusiness Gov Assist
@@ -36,5 +36,4 @@ contacts:
 #      - days: Saturday
 #        time: 8.00am - 2.00pm
 #        description: Closed on Sunday and Public Holidays
-
 ---

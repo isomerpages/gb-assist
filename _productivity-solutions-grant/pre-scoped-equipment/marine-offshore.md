@@ -13,3 +13,5 @@ accordion:
 
 {% include accordion.html %}
 
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/productivity-solutions-grant/">
+

@@ -47,3 +47,5 @@ Click <a href="https://go.gov.sg/elt" target="_blank" style="color:#037e8a">here
 * The SFEC encourages employers to invest in enterprise transformation and capabilities of their employees. Eligible employers will receive a one-off S$10,000 credit to cover up to 90% of out-of-pocket expenses on qualifying costs for supportable initiatives, over and above the support levels of existing schemes.
 
 Click <a href="https://go.gov.sg/sfec" target="_blank" style="color:#037e8a">here</a> to apply.
+
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/grantschemes">

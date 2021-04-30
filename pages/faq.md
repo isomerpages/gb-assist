@@ -1,6 +1,7 @@
 ---
 title: Frequently Asked Questions
 permalink: /faq/
+published: false
 ---
 
 ## General

@@ -361,3 +361,4 @@ In such case, there may be terms of use and privacy statements that govern your 
 
 This version of these Terms is dated 11 Aug 2020.
 
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/terms-of-use/">
