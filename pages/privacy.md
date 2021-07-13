@@ -113,4 +113,4 @@ permalink: /privacy/
 
 This version of this Privacy Statement is dated 11 Aug 2020.
 
-<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/privacy/">
+<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/privacy/"> -->

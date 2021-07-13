@@ -349,4 +349,4 @@ The WSH Advocate Programme helps companies to create inhouse supporting network 
 <a href="https://www.wshc.sg/wps/portal/wshc/cms?action=cmsPublicView&cmsId=CL2014081201195&tabId=C-2014090901062 " target="_blank" style="color:#037e8a">Find out more</a>
 
 
-<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gov-assist/toolkits-programmes/">
+<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gov-assist/toolkits-programmes/"> -->

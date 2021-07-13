@@ -25,4 +25,4 @@ Whether you are looking to tackle the ongoing economic challenges, attract and r
 
 {% include panels.html panels=site.data.transform_and_grow %}
 
-<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/manpowersupport/">
+<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/manpowersupport/"> -->

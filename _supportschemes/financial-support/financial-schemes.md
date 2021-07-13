@@ -36,4 +36,4 @@ Click <a href="https://go.gov.sg/lis" target="_blank" style="color:#037e8a">here
 
 Click <a href="https://go.gov.sg/tblp" target="_blank" style="color:#037e8a">here</a> to apply.
 
-<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/financialschemes">
+<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/financialschemes"> -->
