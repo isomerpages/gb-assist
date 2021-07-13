@@ -2,7 +2,7 @@
 title: Claims
 permalink: /business-grants-faqs/claims/
 third_nav_title: Post-Application
-published: false
+published: true
 ---
 
 ### Claims

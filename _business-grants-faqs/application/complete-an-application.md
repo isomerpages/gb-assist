@@ -2,7 +2,7 @@
 title: Complete an Application
 permalink: /business-grants-faqs/complete-an-application/
 third_nav_title: Application
-published: false
+published: true
 ---
 
 ### Complete an Application
