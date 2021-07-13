@@ -30,4 +30,4 @@ PSG-JR is open for application since 1 December 2020. Companies who are interest
 For more information on PSG-JR, please refer to <a href="https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html" target="_blank" style="color:#037e8a">https://www.wsg.gov.sg/productivity-solutions-grant-job-redesign.html</a> or to contact SNEF at psgjr@snef.org.sg or +65 6827 6910.
 
 
-<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/productivity-solutions-grant/faq/"> -->
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/productivity-solutions-grant/faq/">

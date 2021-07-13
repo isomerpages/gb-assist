@@ -12,4 +12,4 @@ third_nav_title: Sector-Specific Support
 
 Click <a href="https://go.gov.sg/martimesupport" target="_blank" style="color:#037e8a">here</a> for more information.
 
-<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/martimesupport/"> -->
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/martimesupport/">

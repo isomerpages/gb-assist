@@ -586,4 +586,4 @@ BCA co-funds up to 90% of selected training courses and skills assessments for f
 
 <a href="https://www1.bca.gov.sg/public/students/workforce-training-and-upgrading-scheme" target="_blank" style="color:#037e8a">Find out more</a>
 
-<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gov-assist/grants/"> -->
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gov-assist/grants/">

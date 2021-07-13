@@ -12,4 +12,4 @@ third_nav_title: Sector-Specific Support
 
 Click <a href="/images/govassist/Circular - MP Support Package 25 Sep 2020.pdf" target="_blank" style="color:#037e8a">here</a> for more information.
 
-<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/marinesupport/"> -->
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/supportschemes/marinesupport/">

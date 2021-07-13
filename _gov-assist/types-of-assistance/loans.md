@@ -24,4 +24,4 @@ The TBLP provides access to working capital for business needs, at a maximum sup
 
 <a href="https://www.enterprisesg.gov.sg/financial-assistance/loans-and-insurance/loans-and-insurance/temporary-bridging-loan-programme/overview" target="_blank" style="color:#037e8a">Find out more</a>
 
-<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gov-assist/loans/"> -->
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gov-assist/loans/">

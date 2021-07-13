@@ -120,4 +120,4 @@ The Open Innovation Platform supports companies in getting quality and multi-dis
 <a href="https://www.openinnovation.sg" target="_blank" style="color:#037e8a">Find out more</a>
 
 
-<!-- <meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gov-assist/budget-2021/"> -->
+<meta http-equiv="REFRESH" content="0;url=https://www.gobusiness.gov.sg/gov-assist/budget-2021/">
