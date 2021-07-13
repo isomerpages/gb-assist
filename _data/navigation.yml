@@ -4,39 +4,72 @@
 #                                #
 ##################################
 
-logo: /images/Gobiz_GA_logo.svg
-
+logo: /images/Gobiz_logo_SG.svg
 
 links:
-  - title: Our Services
-  #  url: /gov-assist/
-    sublinks:
-      - title: GoBusiness Licensing
-        url: https://www.gobusiness.gov.sg/licences
-      - title: GoBusiness COVID-19
-        url: https://covid.gobusiness.gov.sg/
-  - title: Government Assistance
-    url: /gov-assist/
+  - title: Start a Business
+    url: /start-a-business/
     sublinks:
       - title: Overview
+        url: /start-a-business/
+      - title: Key Steps to Start a Business
+        url: /start-a-business/choose-a-business-structure/
+      - title: Next Steps to Consider
+        url: /start-a-business/hire-employees/
+      - title: FAQ
+        url: /start-a-business/faqs/
+  - title: Run and Grow a Business
+    url: /run-and-grow/
+    sublinks:
+      - title: Overview
+        url: /run-and-grow/
+      - title: Government Assistance
         url: /gov-assist/
-      - title: e-Adviser for Government Assistance
-        url: https://gaeadviser.gobusiness.gov.sg/?src=govassist_nav
-      - title: Types of Assistance
-     #   url: /gov-assist/tax-incentives/
-        url: /gov-assist/#search-by-assistance-type
-      - title: COVID-19 Support
-        url: /supportschemes/general
       - title: Business Grants Portal
         url: /business-grants-portal/
-      - title: Budget 2021
-        url: /budget-2021/  
-  - title: Other Resources
-  #  url: 
-    sublinks:
-      - title: Procurement Opportunities (GeBIZ Alerts)
+      - title: Licences and Permits
+        url: /licences/
+      - title: Taxes, GST and Customs
+        url: /run-and-grow/taxes-and-gst/
+      - title: GeBIZ Alerts
         url: /gebiz-alerts/
-  - title: FAQ
-    url: /faq/
-  - title: Contact Us
-    url: /contact-us/
+  - title: Covid-19
+    url: /covid/
+    sublinks:
+      - title: Overview
+        url: /covid/
+      - title: Permitted Services
+        url: /permittedlist/
+      - title: Safe Management Requirements
+        url: /safemanagement/general/
+      - title: Sector-specific Requirements
+        url: /safemanagement/sector/
+      - title: Digital Solutions for Safe Management
+        url: /safemanagement/safedigital/
+      - title: Guides
+        url: /guides/
+      - title: Financial Support
+        url: /supportschemes/immediateschemes
+      - title: Manpower Support
+        url: /supportschemes/manpowersupport/
+      - title: Digital Support
+        url: /supportschemes/digitalsupport/
+      - title: Sector-Specific Support
+        url: /supportschemes/fnbsupport/
+      - title: FAQ
+        url: /covid-faqs/
+  - title: E-Services
+    url: /e-services/
+  - title: Who We Are
+    url: /about-us/
+    sublinks:
+      - title: About Us
+        url: /about-us/
+      - title: News and Media
+        url: /news-and-media/
+      - title: Contact Us
+        url: /contact-us/
+      - title: FAQ
+        url: /faqs/popular/
+  - title: <div class="login-btn"></div>
+    url: /login/?src=top_nav

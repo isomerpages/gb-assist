@@ -1,6 +1,0 @@
-collections:
-  other-resources:
-    output: true
-    order:
-      - gebiz-alerts.md
-      - frequently-asked-questions.md

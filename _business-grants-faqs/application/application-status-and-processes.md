@@ -1,0 +1,12 @@
+---
+title: Application Status and Processes
+permalink: /business-grants-faqs/application-status-and-processes/
+third_nav_title: Application
+published: false
+---
+
+### Application Status and Processes
+
+{% include accordion.html accordions=site.data.acc001-application-status-and-processes.accordion %}
+
+[Back to Business Grants Overview](/business-grants-portal/)
