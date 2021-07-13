@@ -1,5 +1,5 @@
 ---
-# layout: redirection
+layout: redirection
 title: GoBusiness Gov Assist
 description: For Singapore Businesses
 image: /images/
