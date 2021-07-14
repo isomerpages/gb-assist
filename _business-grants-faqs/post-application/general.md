@@ -2,7 +2,7 @@
 title: General
 permalink: /business-grants-faqs/general/
 third_nav_title: Post-Application
-published: false
+published: true
 ---
 
 ### General

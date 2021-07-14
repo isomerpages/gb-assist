@@ -2,7 +2,7 @@
 title: General
 permalink: /business-grants-faqs/psg-general/
 third_nav_title: Productivity Solutions Grant (PSG)
-published: false
+published: true
 ---
 
 ### General
