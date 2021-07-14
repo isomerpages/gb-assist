@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Launch of GoBusiness
-permalink: /news-and-updates/updates/gobusiness-portal
+permalink: /news-and-media/news/gobusiness-portal
 published: true
 ---
 
