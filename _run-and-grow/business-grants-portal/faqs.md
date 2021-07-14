@@ -1,6 +1,6 @@
 ---
 title: FAQs
-permalink: /business-grants-faqs/
+permalink: /business-grants-faqs/about
 third_nav_title: Business Grants Portal
 published: true
 ---
