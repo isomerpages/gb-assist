@@ -1,6 +1,7 @@
 ---
-title: Business Grants Portal
-permalink: /business-grants-portal/how-to-apply
+title: About Business Grants Portal
+permalink: /business-grants-portal/about-business-grant-portal
+third_nav_title: Business Grants Portal
 ---
 
 ## Business Grants Portal
