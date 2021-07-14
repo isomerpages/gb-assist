@@ -5,6 +5,6 @@ permalink: /safemanagement/sector/
 
 ## Sector-Specific Requirements
 
-Testing123 Businesses must adhere to sector-specific requirements as stipulated below, in addition to the [general requirements](/safemanagement/general/).
+Businesses must adhere to sector-specific requirements as stipulated below, in addition to the [general requirements](/safemanagement/general/).
 
 {% include accordion.html accordions=site.data.acc019-sector-specific-requirements.accordion %}
