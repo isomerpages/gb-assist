@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: /business-grants-faqs/
+permalink: /business-grants-faqs/about
 third_nav_title: General
 published: true
 ---
