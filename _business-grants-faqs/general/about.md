@@ -2,7 +2,7 @@
 title: About
 permalink: /business-grants-faqs/
 third_nav_title: General
-published: true
+published: false
 ---
 
 ### About Business Grants FAQ

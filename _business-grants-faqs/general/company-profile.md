@@ -2,7 +2,7 @@
 title: Company Profile
 permalink: /business-grants-faqs/company-profile/
 third_nav_title: General
-published: true
+published: false
 ---
 
 ### Company Profile
