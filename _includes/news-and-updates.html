@@ -64,9 +64,9 @@
     <a href="{{post.url}}">
       <div
         class="media-card-plain 
-        {% if post.categories[1] == uniq_cats[1] %}
+        {% if post.categories[1] == uniq_cats[0] %}
         bg-media-color-2
-        {% elsif post.categories[1] == uniq_cats[0] %}
+        {% elsif post.categories[1] == uniq_cats[1] %}
         bg-media-color-3
         {% elsif post.categories[1] == uniq_cats[2] %}
         bg-media-color-4
