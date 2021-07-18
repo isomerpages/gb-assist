@@ -1,6 +1,6 @@
 ---
 title: About Business Grants Portal
-permalink: /business-grants-portal/about-business-grant-portal
+permalink: /business-grants-portal/
 third_nav_title: Business Grants Portal
 ---
 
