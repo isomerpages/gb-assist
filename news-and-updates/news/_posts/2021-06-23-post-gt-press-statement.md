@@ -5,7 +5,7 @@ permalink: /news-and-updates/news/gt-press-statement
 published: true
 ---
 
-## GoBusiness in the News
+<!-- ## GoBusiness in the News -->
 
 ![media feature](/images/news/News_Media Feature.jpg)
 
