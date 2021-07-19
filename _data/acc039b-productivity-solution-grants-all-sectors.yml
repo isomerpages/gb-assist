@@ -5,20 +5,20 @@
 
 - image: <img src="/images/grow/HR.svg">
   title: Human Resources Solutions
-  url: /human-resources-solutions/
+  url: /human-resources-solutions.md
   text: View solutions
 
 - image: <img src="/images/grow/E-Commerce.svg">
   title: E-Commerce
-  url: /e-commerce/
+  url: /e-commerce.md
   text: View solutions
 
 - image: <img src="/images/grow/CyberSecurity.svg">
   title: Cyber Security
-  url: /cyber-security/
+  url: /cyber-security.md
   text: View solutions
 
 - image: <img src="/images/grow/Fleet Document Management.svg">
   title: Fleet & Document Management
-  url: /fleet-n-document-management/
+  url: /fleet-n-document-management.md
   text: View solutions
