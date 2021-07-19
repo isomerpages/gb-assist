@@ -817,6 +817,6 @@ hr {
   height: 1px;
 }
 
-img[alt=DBS]{ width: 82px; }
-img[alt=OCBC]{ width: 120px; }
-img[alt=UOB]{ width: 120px; } 
+img[alt=DBS]{ width: 82px; align: left; word-wrap: none;}
+img[alt=OCBC]{ width: 120px; align: left; word-wrap: none;}
+img[alt=UOB]{ width: 120px; align: left; word-wrap: none;} 
