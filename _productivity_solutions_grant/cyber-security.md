@@ -1,7 +1,6 @@
 ---
 title: Cyber Security
-permalink: /productivity-solutions-grant/
-third_nav_title: Cyber Security
+permalink: /productivity-solutions-grant/cyber-security
 ---
 
 ## Pre-scoped Equipment for Food Manufacturing
