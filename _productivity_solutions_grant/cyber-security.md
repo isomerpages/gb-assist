@@ -1,6 +1,6 @@
 ---
 title: Cyber Security
-permalink: /productivity-solutions-grant/cyber-security/
+permalink: /productivity-solutions-grant/
 third_nav_title: Cyber Security
 ---
 
