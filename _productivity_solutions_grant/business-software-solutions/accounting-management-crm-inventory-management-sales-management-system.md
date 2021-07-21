@@ -1,7 +1,7 @@
 ---
-title: Cleaning
-permalink: /productivity-solutions-grant/Equipment/cleaning/
-third_nav_title: Pre-scoped Equipment
+title: Accounting Management, CRM Investory Management, Sales Management System
+permalink: /productivity-solutions-grant/business-software-grant/accounting-management-crm-inventory-management-sales-management-system/
+third_nav_title: Accounting Management, CRM Investory Management, Sales Management System
 ---
 
 ## Pre-scoped Equipment for Cleaning

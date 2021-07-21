@@ -1,7 +1,6 @@
 ---
-title: Food Services
-permalink: /productivity-solutions-grant/Equipment/foodservices/
-third_nav_title: Pre-scoped Equipment
+title: Fleet & Document Management
+permalink: /productivity-solutions-grant/fleet-n-document-management
 ---
 
 ## Pre-scoped Equipment for Food Services

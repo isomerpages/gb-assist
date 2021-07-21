@@ -1,7 +1,6 @@
 ---
-title: Cleaning
-permalink: /productivity-solutions-grant/Equipment/cleaning/
-third_nav_title: Pre-scoped Equipment
+title: E-Commerce
+permalink: /productivity-solutions-grant/e-commerce/
 ---
 
 ## Pre-scoped Equipment for Cleaning

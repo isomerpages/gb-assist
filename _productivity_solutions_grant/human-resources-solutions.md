@@ -1,7 +1,6 @@
 ---
-title: Advanced Manufacturing
-permalink: /productivity-solutions-grant/Equipment/advancedmanufacturing/
-third_nav_title: Pre-scoped Equipment
+title: Human Resources Solutions
+permalink: /productivity-solutions-grant/human-resources-solutions/
 ---
 
 ## Pre-scoped Equipment for Advanced Manufacturing
