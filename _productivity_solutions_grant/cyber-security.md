@@ -1,7 +1,7 @@
 ---
-title: Food Manufacturing
-permalink: /productivity-solutions-grant/Equipment/foodmanufacturing/
-third_nav_title: Pre-scoped Equipment
+title: Cyber Security
+permalink: /productivity-solutions-grant/cyber-security/
+third_nav_title: Cyber Security
 ---
 
 ## Pre-scoped Equipment for Food Manufacturing
