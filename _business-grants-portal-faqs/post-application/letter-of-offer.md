@@ -1,6 +1,6 @@
 ---
 title: Letter Of Offer
-permalink: /business-grants-faqs/letter-of-offer/
+permalink: /business-grants-portal-faqs/letter-of-offer/
 third_nav_title: Post-Application
 published: true
 ---

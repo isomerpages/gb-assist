@@ -1,6 +1,6 @@
 ---
 title: Get a Grant
-permalink: /business-grants-faqs/get-a-grant/
+permalink: /business-grants-portal-faqs/get-a-grant/
 third_nav_title: Application
 published: true
 ---

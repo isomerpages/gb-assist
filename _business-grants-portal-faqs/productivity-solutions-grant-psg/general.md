@@ -1,6 +1,6 @@
 ---
 title: General
-permalink: /business-grants-faqs/psg-general/
+permalink: /business-grants-portal-faqs/psg-general/
 third_nav_title: Productivity Solutions Grant (PSG)
 published: true
 ---

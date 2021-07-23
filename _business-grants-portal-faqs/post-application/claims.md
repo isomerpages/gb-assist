@@ -1,6 +1,6 @@
 ---
 title: Claims
-permalink: /business-grants-faqs/claims/
+permalink: /business-grants-portal-faqs/claims/
 third_nav_title: Post-Application
 published: true
 ---

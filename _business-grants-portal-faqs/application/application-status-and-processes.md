@@ -1,6 +1,6 @@
 ---
 title: Application Status and Processes
-permalink: /business-grants-faqs/application-status-and-processes/
+permalink: /business-grants-portal-faqs/application-status-and-processes/
 third_nav_title: Application
 published: true
 ---

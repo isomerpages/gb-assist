@@ -1,6 +1,6 @@
 ---
 title: Complete an Application
-permalink: /business-grants-faqs/complete-an-application/
+permalink: /business-grants-portal-faqs/complete-an-application/
 third_nav_title: Application
 published: true
 ---
