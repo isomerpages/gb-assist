@@ -9,4 +9,4 @@ published: true
 
 {% include accordion.html accordions=site.data.acc003-get-a-grant.accordion %}
 
-[Back to Business Grants Overview](/business-grants-portal/)
+[Back to  About Business Grants Portal](/business-grants-portal/)
