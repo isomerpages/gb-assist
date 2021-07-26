@@ -1,39 +1,26 @@
 ---
-layout: skeleton
+layout: default
 title: 404 Error
 permalink: /404.html
 ---
 
 <style type="text/css" media="screen">
   .container {
-    margin: 40px auto 60px;
+    margin: 10px auto;
     max-width: 600px;
     text-align: center;
   }
-
-  h4 {
-    color: #037E8A !important;
-    margin: 60px auto 16px;
-  }
-
-  p {
-    margin-bottom: 24px;
-    line-height: 27px !important;
-  }
-
-  .primary-btn {
-    height: 48px !important;
-  }
-
-  .primary-btn>a {
-    font-size: 16px !important;
-    line-height: 24px !important;
+  h1 {
+    margin: 30px 0;
+    font-size: 4em;
+    line-height: 1;
+    letter-spacing: -1px;
   }
 </style>
 
 <div class="container">
-  <img src="/images/404.svg" />
-  <h4>Page not found :(</h4>
+  <h1>404</h1>
+
+  <p><strong>Page not found :(</strong></p>
   <p>The requested page could not be found.</p>
-  {% include primary-btn.html href="/" text="Go to Home Page" %}
 </div>
