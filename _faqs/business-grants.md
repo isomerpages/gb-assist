@@ -1,5 +1,5 @@
 ---
-title: Business Grants
+title: Business Grants Portal
 permalink: /faqs/business-grants-portal-faqs/
 published: true
 ---
