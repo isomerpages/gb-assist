@@ -1,13 +1,29 @@
-title: GoBusiness Gov Assist
-url: "https://govassist.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
-logo: /images/Gobiz_GA_logo.svg
+title: GoBusiness Singapore
+url: "https://www.gobusiness.gov.sg" # the base hostname & protocol for your site, e.g. http://example.com
+logo: /images/Gobiz_logo_SG.svg
 favicon: /images/Gobiz_favicon.ico
-google_analytics: UA-168352617-1
-facebook-pixel: 688926055194344
+google_analytics: UA-186826212-1
+facebook-pixel: 199274315251589
 linkedin-insights: 918155
-resources_name: news
+vica: true
+resources_name: news-and-updates
 
+colors:
+  primary-color: '#037e8a'
+  secondary-color: '#037e8a'
+  media-colors:
+    - title: media-color-one
+      color: '#009980'
+    - title: media-color-two
+      color: '#2AACA5'
+    - title: media-color-three
+      color: '#006699'
+    - title: media-color-four
+      color: '#1E3D67'
+    - title: media-color-five
+      color: '#3AB488'
 
+      
 ##################################################################################################################
 # Everything below this line is Isomer-specific configuration. There should not be a need to edit these settings #
 ##################################################################################################################
@@ -26,28 +42,12 @@ custom_print_css_path: "/assets/css/print.css"
 paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
-description: An Isomer site of the Singapore Government
-
-staging: https://gb-assist-staging.netlify.app
-prod: https://gb-assist-prod.netlify.app
+description: test test
+staging: https://gb-assist-staging.netlify.app/
+prod: https://gb-assist-staging.netlify.app/
 plugins:
   - jekyll-feed
   - jekyll-assets
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-remote-theme
-
-colors:
-  primary-color: '#037e8a'
-  secondary-color: '#037e8a'
-  media-colors:
-    - title: media-color-one
-      color: '#037e8a'
-    - title: media-color-two
-      color: '#037e8a'
-    - title: media-color-three
-      color: '#037e8a'
-    - title: media-color-four
-      color: '#037e8a'
-    - title: media-color-five
-      color: '#037e8a'

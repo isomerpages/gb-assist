@@ -1,0 +1,12 @@
+---
+title: Letter Of Offer
+permalink: /business-grants-portal-faqs/letter-of-offer/
+third_nav_title: Post-Application
+published: true
+---
+
+### Letter Of Offer
+
+{% include accordion.html accordions=site.data.acc010-letter-of-offer.accordion %}
+
+[Back to Business Grants Overview](/business-grants-portal/)

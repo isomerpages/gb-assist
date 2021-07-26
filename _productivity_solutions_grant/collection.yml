@@ -1,0 +1,37 @@
+collections:
+  productivity_solutions_grant:
+    output: true
+    order:
+      - overview.md
+      - business-software-solutions/.keep
+      - business-software-solutions/accounting-management-sales-management-system.md
+      - business-software-solutions/accounting-management-crm-sales-management-system.md
+      - business-software-solutions/accounting-management-crm-inventory-management-sales-management-system.md
+      - business-software-solutions/accounting-management-inventory-management-sales-management-system.md
+      - business-software-solutions/crm-sales-management-system.md
+      - business-software-solutions/inventory-management-sales-management-system.md
+      - human-resources-solutions.md
+      - e-commerce.md
+      - cyber-security.md
+      - fleet-n-document-management.md
+      - sector-specific-solutions/.keep
+      - sector-specific-solutions/advanced-manufacturing.md
+      - sector-specific-solutions/banks.md
+      - sector-specific-solutions/building-construction.md
+      - sector-specific-solutions/cleaning.md
+      - sector-specific-solutions/early-childhood.md
+      - sector-specific-solutions/estate-agency.md
+      - sector-specific-solutions/food-manufacturing.md
+      - sector-specific-solutions/food-services.md
+      - sector-specific-solutions/healthcare.md
+      - sector-specific-solutions/legal.md
+      - sector-specific-solutions/logistics.md
+      - sector-specific-solutions/marine-offshore.md
+      - sector-specific-solutions/pest-management.md
+      - sector-specific-solutions/precision-engineering.md
+      - sector-specific-solutions/retail.md
+      - sector-specific-solutions/security.md
+      - sector-specific-solutions/travel-agents.md
+      - sector-specific-solutions/waste-management.md
+      - sector-specific-solutions/wholesale-trade.md
+      - frequently-asked-questions.md
