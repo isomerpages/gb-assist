@@ -1,7 +1,7 @@
 ---
 title: FAQs
 permalink: /business-grants-portal/faqs/
-third_nav_title: Business Grants Portal
+third_nav_title: Business Grants Portal FAQ
 published: true
 ---
 <meta http-equiv="REFRESH" content="0;url=/business-grants-portal-faqs/">
