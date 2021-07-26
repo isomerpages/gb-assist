@@ -1,5 +1,5 @@
 ---
-title: About Business Grants Portal
+title: About
 permalink: /business-grants-portal/
 third_nav_title: Business Grants Portal
 ---
