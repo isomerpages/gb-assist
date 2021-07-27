@@ -26,9 +26,7 @@ accordion:
       3. Type “bgp” in the search bar to the right (next to ‘filter’)
       
       4. Tick the box on the left of “BGP”, then press ‘Next’
-
         - If there is no checkbox to tick, you may skip ahead to Step 7 below.
-      
       5. Press ‘Next’ and ‘Submit’
       
       6. Press ‘Return to Homepage’.
@@ -42,11 +40,9 @@ accordion:
       9. Type “bgp” in the search bar to the right (next to ‘filter’)
       
       10. Tick the box on the left of “BGP”, then press ‘Next’
-
         - Select the “Acceptor” role.
         - “Authorization Effective Date” can be today.
         - “Authorization Expiry Date” can be left blank.
-      
       11. Press ‘Next’ and ‘Submit’
       
       If you are unsure of who your Admin is, you may use your SingPass to check on the identity of your entity’s CorpPass Admins and Sub-Admins:
