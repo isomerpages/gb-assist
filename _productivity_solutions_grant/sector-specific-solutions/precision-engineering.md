@@ -1,7 +1,7 @@
 ---
 title: Precision Engineering
-permalink: /productivity-solutions-grant/Equipment/precisionengineering/
-third_nav_title: Pre-scoped Equipment
+permalink: /productivity-solutions-grant/sector-specific-solutions/precisionengineering/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped Equipment for Precision Engineering

@@ -1,7 +1,7 @@
 ---
 title: Engineering Services
-permalink: /productivity-solutions-grant/Equipment/engineeringservices/
-third_nav_title: Pre-scoped Equipment
+permalink: /productivity-solutions-grant/sector-specific-solutions/engineeringservices/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped Equipment for Engineering Services

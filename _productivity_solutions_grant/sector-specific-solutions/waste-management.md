@@ -1,7 +1,7 @@
 ---
 title: Waste Management
-permalink: /productivity-solutions-grant/ITSolution/wastemanagement/
-third_nav_title: Pre-scoped IT Solution
+permalink: /productivity-solutions-grant/sector-specific-solutions/wastemanagement/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped IT Solutions for Waste Management

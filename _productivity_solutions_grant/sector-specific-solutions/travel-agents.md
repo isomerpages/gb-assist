@@ -1,7 +1,7 @@
 ---
 title: Travel Agents
-permalink: /productivity-solutions-grant/ITSolution/travelagents/
-third_nav_title: Pre-scoped IT Solution
+permalink: /productivity-solutions-grant/sector-specific-solutions/travelagents/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped IT Solutions for Travel Agents

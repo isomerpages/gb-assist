@@ -1,10 +1,10 @@
 ---
-title: Engineering Services
-permalink: /productivity-solutions-grant/Equipment/engineeringservices/
-third_nav_title: Pre-scoped Equipment
+title: Accounting Management, Inventory Management, Sales Management System
+permalink: /productivity-solutions-grant/business-software-solutions/accounting-management-inventory-management-sales-management-system/
+third_nav_title: Business Software Solutions
 ---
 
-## Pre-scoped Equipment for Engineering Services
+## Accounting Management, Inventory Management, Sales Management System
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 

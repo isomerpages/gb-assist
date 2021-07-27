@@ -1,10 +1,10 @@
 ---
-title: Food Manufacturing
-permalink: /productivity-solutions-grant/Equipment/foodmanufacturing/
-third_nav_title: Pre-scoped Equipment
+title: CRM, Sales Management System
+permalink: /productivity-solutions-grant/business-software-solutions/crm-sales-management-system/
+third_nav_title: Business Software Solutions
 ---
 
-## Pre-scoped Equipment for Food Manufacturing
+## CRM, Sales Management System
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 

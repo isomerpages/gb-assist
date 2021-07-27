@@ -1,7 +1,7 @@
 ---
 title: Retail
-permalink: /productivity-solutions-grant/ITSolution/retail/
-third_nav_title: Pre-scoped IT Solution
+permalink: /productivity-solutions-grant/sector-specific-solutions/retail/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped IT Solutions for Retail

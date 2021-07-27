@@ -1,10 +1,10 @@
 ---
-title: Advanced Manufacturing
+title: Accounting Management, CRM, Sales Management System
 permalink: /productivity-solutions-grant/Equipment/advancedmanufacturing/
-third_nav_title: Pre-scoped Equipment
+third_nav_title: Business Software Solutions
 ---
 
-## Pre-scoped Equipment for Advanced Manufacturing
+## Accounting Management, CRM, Sales Management System
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 

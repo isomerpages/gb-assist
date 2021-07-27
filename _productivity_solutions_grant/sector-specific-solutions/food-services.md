@@ -1,7 +1,7 @@
 ---
 title: Food Services
-permalink: /productivity-solutions-grant/ITSolution/foodservices/
-third_nav_title: Pre-scoped IT Solution
+permalink: /productivity-solutions-grant/sector-specific-solutions/foodservices/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped IT Solutions for Food Services

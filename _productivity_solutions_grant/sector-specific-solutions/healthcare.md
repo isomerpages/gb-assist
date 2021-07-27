@@ -1,7 +1,7 @@
 ---
 title: Healthcare
-permalink: /productivity-solutions-grant/ITSolution/healthcare/
-third_nav_title: Pre-scoped IT Solution
+permalink: /productivity-solutions-grant/sector-specific-solutions/healthcare/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped IT Solutions for Healthcare

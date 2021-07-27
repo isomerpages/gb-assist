@@ -1,7 +1,7 @@
 ---
 title: Security
-permalink: /productivity-solutions-grant/ITSolution/security/
-third_nav_title: Pre-scoped IT Solution
+permalink: /productivity-solutions-grant/sector-specific-solutions/security/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped IT Solutions for Security

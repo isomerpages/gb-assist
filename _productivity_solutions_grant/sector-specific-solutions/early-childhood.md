@@ -1,7 +1,7 @@
 ---
 title: Early Childhood
-permalink: /productivity-solutions-grant/ITSolution/earlychildhood/
-third_nav_title: Pre-scoped IT Solution
+permalink: /productivity-solutions-grant/sector-specific-solutions/earlychildhood/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped IT Solutions for Early Childhood

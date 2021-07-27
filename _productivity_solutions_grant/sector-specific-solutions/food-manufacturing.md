@@ -1,7 +1,7 @@
 ---
 title: Food Manufacturing
-permalink: /productivity-solutions-grant/ITSolution/foodmanufacturing/
-third_nav_title: Pre-scoped IT Solution
+permalink: /productivity-solutions-grant/sector-specific-solutions/foodmanufacturing/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped IT Solutions for Food Manufacturing

@@ -1,10 +1,10 @@
 ---
-title: Food Services
-permalink: /productivity-solutions-grant/Equipment/foodservices/
-third_nav_title: Pre-scoped Equipment
+title: Inventory Management, Sales Management System
+permalink: /productivity-solutions-grant/business-software-solutions/inventory-management-sales-management-system/
+third_nav_title: Business Software Solutions
 ---
 
-## Pre-scoped Equipment for Food Services
+## Inventory Management, Sales Management System
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 

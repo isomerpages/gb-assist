@@ -1,7 +1,7 @@
 ---
 title: Marine & Offshore
-permalink: /productivity-solutions-grant/ITSolution/marineoffshore/
-third_nav_title: Pre-scoped IT Solution
+permalink: /productivity-solutions-grant/sector-specific-solutions/marineoffshore/
+third_nav_title: Sector Specific Solutions
 ---
 
 ## Pre-scoped IT Solutions for Marine & Offshore
