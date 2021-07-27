@@ -1,6 +1,6 @@
 ---
 title: General
-permalink: /business-grants-portal-faqs/general/
+permalink: /business-grants-portal-faq/general/
 third_nav_title: Post-Application
 published: true
 ---

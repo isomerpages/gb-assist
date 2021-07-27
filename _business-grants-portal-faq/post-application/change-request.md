@@ -1,6 +1,6 @@
 ---
 title: Change Request
-permalink: /business-grants-portal-faqs/change-request/
+permalink: /business-grants-portal-faq/change-request/
 third_nav_title: Post-Application
 published: true
 ---

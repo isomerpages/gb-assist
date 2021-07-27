@@ -1,6 +1,6 @@
 ---
 title: Login via Corppass
-permalink: /business-grants-portal-faqs/login/
+permalink: /business-grants-portal-faq/login/
 third_nav_title: General
 published: true
 ---

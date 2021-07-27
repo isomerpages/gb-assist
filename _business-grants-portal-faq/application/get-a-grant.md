@@ -1,6 +1,6 @@
 ---
 title: Get a Grant
-permalink: /business-grants-portal-faqs/get-a-grant/
+permalink: /business-grants-portal-faq/get-a-grant/
 third_nav_title: Application
 published: true
 ---
@@ -9,4 +9,4 @@ published: true
 
 {% include accordion.html accordions=site.data.acc003-get-a-grant.accordion %}
 
-[Back to  About Business Grants Portal](/business-grants-portal/)
+[Back to Business Grants Portal Overview](/business-grants-portal/)

@@ -1,6 +1,6 @@
 ---
 title: Company Profile
-permalink: /business-grants-portal-faqs/company-profile/
+permalink: /business-grants-portal-faq/company-profile/
 third_nav_title: General
 published: true
 ---
