@@ -2,7 +2,6 @@
 title: Application Status and Processes
 permalink: /business-grants-portal-faq/application-status-and-processes/
 third_nav_title: Application
-published: true
 ---
 
 ### Application Status and Processes
