@@ -1,11 +1,11 @@
 ---
-title: Accounting Management, Customer Relationship
+title: Inventory Management
 permalink: /productivity-solutions-grant/business-software-solutions/
-third_nav_title: Business Software Solutions
+third_nav_title: Enterprise Resource Planning (ERP) & Standalone Solutions
 ---
 
-## Accounting Management, Customer Relationship
+## Inventory Management
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
-{% include accordion.html accordions=site.data.acc044-food.accordion %}
+{% include accordion.html accordions=site.data.acc043-food-services.accordion %}

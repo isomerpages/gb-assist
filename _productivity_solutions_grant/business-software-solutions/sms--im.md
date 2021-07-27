@@ -1,10 +1,10 @@
 ---
-title: Accounting Management, Inventory Management, Sales Management System
+title: Sales Management System, Inventory Management
 permalink: /productivity-solutions-grant/business-software-solutions/
-third_nav_title: Business Software Solutions
+third_nav_title: Enterprise Resource Planning (ERP) & Standalone Solutions
 ---
 
-## Accounting Management, Inventory Management, Sales Management System
+## Sales Management System, Inventory Management
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 

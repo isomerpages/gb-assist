@@ -4,12 +4,13 @@ collections:
     order:
       - overview.md
       - business-software-solutions/.keep
-      - business-software-solutions/accounting-management-sales-management-system.md
-      - business-software-solutions/accounting-management-crm-sales-management-system.md
-      - business-software-solutions/accounting-management-crm-inventory-management-sales-management-system.md
-      - business-software-solutions/accounting-management-inventory-management-sales-management-system.md
-      - business-software-solutions/crm-sales-management-system.md
-      - business-software-solutions/inventory-management-sales-management-system.md
+      - business-software-solutions/sms-am-im-crm.md
+      - business-software-solutions/sms-am--crm.md
+      - business-software-solutions/sms-am.md
+      - business-software-solutions/sms--im.md
+      - business-software-solutions/sms---crm.md
+      - business-software-solutions/crm.md
+      - business-software-solutions/im.md
       - human-resources-solutions.md
       - e-commerce.md
       - cyber-security.md
