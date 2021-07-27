@@ -1,6 +1,6 @@
 ---
 title: Customer Relationship Management (CRM)
-permalink: /productivity-solutions-grant/business-software-solutions/
+permalink: /productivity-solutions-grant/business-software-solutions/crm
 third_nav_title: Enterprise Resource Planning (ERP) & Standalone Solutions
 ---
 
