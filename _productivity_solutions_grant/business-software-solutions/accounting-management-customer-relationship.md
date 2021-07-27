@@ -1,6 +1,6 @@
 ---
 title: Accounting Management, Customer Relationship
-permalink: /productivity-solutions-grant/business-software-solutions/accounting-management-customer-relationship/
+permalink: /productivity-solutions-grant/business-software-solutions/
 third_nav_title: Business Software Solutions
 ---
 

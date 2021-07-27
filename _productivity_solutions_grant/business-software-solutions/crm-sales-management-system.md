@@ -1,6 +1,6 @@
 ---
 title: CRM, Sales Management System
-permalink: /productivity-solutions-grant/business-software-solutions/crm-sales-management-system/
+permalink: /productivity-solutions-grant/business-software-solutions/
 third_nav_title: Business Software Solutions
 ---
 

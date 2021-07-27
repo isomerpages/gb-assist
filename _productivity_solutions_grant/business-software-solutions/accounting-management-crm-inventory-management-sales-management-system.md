@@ -1,6 +1,6 @@
 ---
 title: Accounting Management, CRM, Inventory Management, Sales Management System
-permalink: /productivity-solutions-grant/business-software-solutions/accounting-management-crm-sales-management-system/
+permalink: /productivity-solutions-grant/business-software-solutions/
 third_nav_title: Business Software Solutions
 ---
 

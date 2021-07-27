@@ -1,6 +1,6 @@
 ---
 title: Accounting Management, CRM, Sales Management System
-permalink: /productivity-solutions-grant/Equipment/advancedmanufacturing/
+permalink: /productivity-solutions-grant/business-software-solutions/
 third_nav_title: Business Software Solutions
 ---
 

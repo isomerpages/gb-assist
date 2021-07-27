@@ -1,6 +1,6 @@
 ---
 title: Inventory Management, Sales Management System
-permalink: /productivity-solutions-grant/business-software-solutions/inventory-management-sales-management-system/
+permalink: /productivity-solutions-grant/business-software-solutions/
 third_nav_title: Business Software Solutions
 ---
 
