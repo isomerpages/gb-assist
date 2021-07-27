@@ -25,9 +25,8 @@ accordion:
       
       3. Type “bgp” in the search bar to the right (next to ‘filter’)
       
-      4. Tick the box on the left of “BGP”, then press ‘Next’
-
-        a. If there is no checkbox to tick, you may skip ahead to Step 7 below.
+      4. Tick the box on the left of “BGP”, then press ‘Next’<br>
+      a. If there is no checkbox to tick, you may skip ahead to Step 7 below.
 
       5. Press ‘Next’ and ‘Submit’
       
@@ -41,11 +40,10 @@ accordion:
       
       9. Type “bgp” in the search bar to the right (next to ‘filter’)
       
-      10. Tick the box on the left of “BGP”, then press ‘Next’
-
-        a. Select the “Acceptor” role.<br>
-        b. “Authorization Effective Date” can be today.<br>
-        c. “Authorization Expiry Date” can be left blank.
+      10. Tick the box on the left of “BGP”, then press ‘Next’<br>
+      a. Select the “Acceptor” role.<br>
+      b. “Authorization Effective Date” can be today.<br>
+      c. “Authorization Expiry Date” can be left blank.
 
       11. Press ‘Next’ and ‘Submit’
       
