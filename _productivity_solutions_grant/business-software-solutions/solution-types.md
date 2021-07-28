@@ -24,26 +24,26 @@ Please note that each business entity may not only be supported for one applicat
 
 |--|--|--|--|--|
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-| v | v | v | v |{% include secondary-btn.html href="/contact-us/" text="View" %}|
-| v | v | v |   |{% include secondary-btn.html href="/contact-us/" text="View" %}|
-| v | v |   | v |{% include secondary-btn.html href="/contact-us/" text="View" %}|
-| v | v |   |   |{% include secondary-btn.html href="/contact-us/" text="View" %}|
-| v |   | v |   |{% include secondary-btn.html href="/contact-us/" text="View" %}|
-| v |   |   | v |{% include secondary-btn.html href="/contact-us/" text="View" %}|
+| v | v | v | v |button|
+| v | v | v |   |button|
+| v | v |   | v |button|
+| v | v |   |   |button|
+| v |   | v |   |button|
+| v |   |   | v |button|
 
 
 ### Standalone Solutions
 
 |--|--|--|--|--|
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-|   |   |   | v |{% include secondary-btn.html href="/contact-us/" text="View" %}|
-|   |   | v |   |{% include secondary-btn.html href="/contact-us/" text="View" %}|
+|   |   |   | v |button|
+|   |   | v |   |button|
 
 ### Recommended courses
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved sources to start with
 1. [Apply Knowledge of Accounting Related Concepts](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0036758-BM){:target="_blank"}
 2. [Introduction to Accounting Data and Analytics](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-200000267Z-01-CRS-N-0048575){:target="_blank"}
-3. [Develop and Establish Financial Budget and Plans](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0028425-BM){:target="blank"}
+3. [Develop and Establish Financial Budget and Plans](https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0028425-BM){:target="_blank"}
 
 
 ---
