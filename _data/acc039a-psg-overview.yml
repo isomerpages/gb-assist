@@ -25,9 +25,4 @@ accordion:
 
         4. Submit your grant claim on the BGP before your claim due date
 
-# - accordion:
-#   letter: b
-#   data:
-#     - title: new accordian
-#       content: |
-#         accordian data
+        - accordion:
