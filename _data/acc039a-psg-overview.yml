@@ -1,6 +1,6 @@
 accordion:
   - title: Who can apply?
-    content: |
+    content:  |
       Business entities can apply for PSG if they meet the following criteria:
 
       * Registered and operating in Singapore
@@ -9,7 +9,7 @@ accordion:
       * (**For consultancy service solutions only**) Have at least three local employees at the point of application
 
   - title: How to apply?
-    content: |
+    content:  |
       3 steps:
 
       1. Access the list of supportable solutions eligible for your sector and identify relevant solutions that best suit your business needs.
