@@ -4,7 +4,7 @@ permalink: /productivity-solutions-grant/sector-specific-solutions/cleaning/
 third_nav_title: Sector Specific Solutions
 ---
 
-## Pre-scoped IT Solutions for Cleaning
+## Cleaning Sector Specific Solutions
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
