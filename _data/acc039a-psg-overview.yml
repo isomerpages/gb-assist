@@ -1,6 +1,4 @@
 accordion:
-  letter: a
-  data:
     - title: Who can apply?
       content: |
         Business entities can apply for PSG if they meet the following criteria:
