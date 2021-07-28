@@ -16,7 +16,7 @@ The following list of solution categories have been re-grouped to the new soluti
 - Customer Relationship Management (CRM) and Sales Management System
 - Inventory Management and Sales Management System
 
-## IT Solutions
+## (image) IT Solutions
 
 ### Enterprise Resource Planning (ERP)
 
@@ -27,5 +27,15 @@ Please note that each business entity may not only be supported for one applicat
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
 |![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|button|
 
+
+### Standalone Solutions
+
+
+
+### Recommended courses
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved sources to start with
+1. solution 1
+2. solution 2
+3. solution 3
 
 
