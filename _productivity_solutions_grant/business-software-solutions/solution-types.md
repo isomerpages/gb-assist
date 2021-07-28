@@ -24,13 +24,14 @@ Please note that each business entity may not only be supported for one applicat
 
 |--|--|--|--|--|
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-| v | v | v | v |button|
+| v | v | v | v |[View](/productivity-solutions-grant/business-software-solutions/sms-am-im-crm)|
 | v | v | v |   |button|
 | v | v |   | v |button|
 | v | v |   |   |button|
 | v |   | v |   |button|
 | v |   |   | v |button|
 
+<!-- {% include secondary-btn.html href="/contact-us/" text="View" %} -->
 
 ### Standalone Solutions
 
