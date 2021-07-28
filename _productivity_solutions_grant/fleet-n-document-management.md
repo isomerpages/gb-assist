@@ -17,6 +17,6 @@ View solutions accordian
 View solutions accordian
 
 ---
-## Related Links
 
-{% include panels.html panels=site.data.acc041a-fleet-n-document-mgmt-links %}
+### Related Links
+
