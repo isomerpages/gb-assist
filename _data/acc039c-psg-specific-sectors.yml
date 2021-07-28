@@ -1,20 +1,71 @@
-# - title: Exemptions
-#   description: Apply for your business to resume operating or to have temporary operations. You can also check your exemption application/business resumption status and appeal rejected or partially approved applications.
-#   url: go.gov.sg/covidbusinessresumptions
-#   url-new-tab: true
-#   protocol: https
-#   text: Find Out More
+- title: Advanced Manufacturing
+  url: /productivity-solutions-grant/sector-specific-solutions/advancedmanufacturing/
+  text: View solutions
 
-# - title: Manpower
-#   description: Submit your manpower details here or apply for additional manpower (only for businesses that have received approval for exemption).
-#   url: go.gov.sg/covidbusinessresumptions
-#   url-new-tab: true
-#   protocol: https
-#   text: Find Out More
+- title: Banks
+  url: /productivity-solutions-grant/sector-specific-solutions/banks/
+  text: View solutions
 
-# - title: General Exemption Appeal
-#   description: Appeal your rejected or partially approved General Exemption applications.
-#   url: go.gov.sg/covidbusinessresumptions
-#   url-new-tab: true
-#   protocol: https
-#   text: Find Out More
+- title: Building & Construction
+  url: /productivity-solutions-grant/sector-specific-solutions/buildingconstruction/
+  text: View solutions
+
+- title: Cleaning
+  url: /productivity-solutions-grant/sector-specific-solutions/cleaning/
+  text: View solutions
+
+- title: Engineering Services
+  url: /productivity-solutions-grant/sector-specific-solutions/engineeringservices/
+  text: View solutions
+
+- title: Estate Agency
+  url: /productivity-solutions-grant/sector-specific-solutions/estateagency/
+  text: View solutions
+
+- title: Food Manufacturing
+  url: /productivity-solutions-grant/sector-specific-solutions/foodmanufacturing/
+  text: View solutions
+
+- title: Food Services
+  url: /productivity-solutions-grant/sector-specific-solutions/foodservices/
+  text: View solutions
+
+- title: Healthcare
+  url: /productivity-solutions-grant/sector-specific-solutions/healthcare/
+  text: View solutions
+
+- title: Logistics
+  url: /productivity-solutions-grant/sector-specific-solutions/logistics/
+  text: View solutions
+
+- title: Marine & Offshore
+  url: /productivity-solutions-grant/sector-specific-solutions/marineoffshore/
+  text: View solutions
+
+- title: Pest Management
+  url: /productivity-solutions-grant/sector-specific-solutions/pestmanagement/
+  text: View solutions
+
+- title: Precision Engineering
+  url: /productivity-solutions-grant/sector-specific-solutions/precisionengineering/
+  text: View solutions
+
+- title: Retail
+  url: /productivity-solutions-grant/sector-specific-solutions/retail/
+  text: View solutions
+
+- title: Security
+  url: /productivity-solutions-grant/sector-specific-solutions/security/
+  text: View solutions
+
+- title: Travel Agents
+  url: /productivity-solutions-grant/sector-specific-solutions/travelagents/
+  text: View solutions
+
+- title: Waste Management
+  url: /productivity-solutions-grant/sector-specific-solutions/wastemanagement/
+  text: View solutions
+
+- title: Wholesale Trade
+  url: /productivity-solutions-grant/sector-specific-solutions/wholesaletrade/
+  text: View solutions
