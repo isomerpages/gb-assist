@@ -3,8 +3,20 @@ title: Fleet & Document Management
 permalink: /productivity-solutions-grant/fleet-n-document-management/
 ---
 
-## Pre-scoped Equipment for Food Services
+## Fleet & Document Management
 
-### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
+**Note:**
+Please check your company's grant cap on BGP. For grant cap ending 31 Mar 2021, please kindly submit your PSG application by 1st February 2021 to be qualified under this grant cap. Applications submitted after 1st Februrary may tap on the next financial year's grant cap.
 
-{% include accordion.html accordions=site.data.acc043-food-services.accordion %}
+## (image) IT Solutions
+
+### Document Management
+View solutions accordian
+
+### Fleet MAangement
+View solutions accordian
+
+---
+## Related Links
+
+{% include panels.html panels=site.data.acc041a-fleet-n-document-mgmt-links %}
