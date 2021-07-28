@@ -25,7 +25,7 @@ Please note that each business entity may not only be supported for one applicat
 
 |--|--|--|--|--|
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|button|
+|![tick](/images/grow/psg/tick.png | width=20 )|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|button|
 
 
 ### Standalone Solutions
