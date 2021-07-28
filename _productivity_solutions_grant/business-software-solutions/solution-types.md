@@ -24,12 +24,20 @@ Please note that each business entity may not only be supported for one applicat
 
 |--|--|--|--|--|
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|![tick](/images/grow/psg/tick.png)|{% include secondary-btn.html href="/contact-us/" text="View" %}|
+| v | v | v | v |{% include secondary-btn.html href="/contact-us/" text="View" %}|
+| v | v | v |   |{% include secondary-btn.html href="/contact-us/" text="View" %}|
+| v | v |   | v |{% include secondary-btn.html href="/contact-us/" text="View" %}|
+| v | v |   |   |{% include secondary-btn.html href="/contact-us/" text="View" %}|
+| v |   | v |   |{% include secondary-btn.html href="/contact-us/" text="View" %}|
+| v |   |   | v |{% include secondary-btn.html href="/contact-us/" text="View" %}|
 
 
 ### Standalone Solutions
 
-
+|--|--|--|--|--|
+|**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
+|   |   |   | v |{% include secondary-btn.html href="/contact-us/" text="View" %}|
+|   |   | v |   |{% include secondary-btn.html href="/contact-us/" text="View" %}|
 
 ### Recommended courses
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved sources to start with
