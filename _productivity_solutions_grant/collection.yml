@@ -4,6 +4,7 @@ collections:
     order:
       - overview.md
       - business-software-solutions/.keep
+      - business-software-solutions/solution-types.md
       - business-software-solutions/sms-am-im-crm.md
       - business-software-solutions/sms-am--crm.md
       - business-software-solutions/sms-am.md
