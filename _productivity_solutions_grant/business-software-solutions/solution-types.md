@@ -1,9 +1,10 @@
 ---
-title: Fleet & Document Management
-permalink: /productivity-solutions-grant/fleet-n-document-management/
+title: Solution Types
+permalink: /productivity-solutions-grant/business-software-solutions/solution-types
+third_nav_title: Enterprise Resource Planning (ERP) & Standalone Solutions
 ---
 
-## Pre-scoped Equipment for Food Services
+## Solution Types
 
 ### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
 
