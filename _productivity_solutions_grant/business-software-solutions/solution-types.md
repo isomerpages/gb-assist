@@ -4,8 +4,16 @@ permalink: /productivity-solutions-grant/business-software-solutions/solution-ty
 third_nav_title: Enterprise Resource Planning (ERP) & Standalone Solutions
 ---
 
-## Solution Types
+## Enterprise Resource Planning (ERP) & Standalone Solutions
 
-### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
+**Note:**
+The following list of solution categories have been re-grouped to the new solution category 'Enterprise Resource Planning (ERP) System':
 
-{% include accordion.html accordions=site.data.acc043-food-services.accordion %}
+* Accounting Management and Sales Management System
+* Accounting Management, Customer Relationship Management (CRM) and Sales Management System
+* Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
+* Accounting Management, Inventory Management and Sales Management System
+* Customer Relationship Management (CRM) and Sales Management System
+* Inventory Management and Sales Management System
+
+
