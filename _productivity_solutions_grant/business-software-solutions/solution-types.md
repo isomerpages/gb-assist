@@ -50,3 +50,5 @@ When adopting the solutions under this sub-category, you might wish to think abo
 ---
 
 ### Related links
+
+{% include panels.html panels=site.data.acc040a-solution-types-links %}
