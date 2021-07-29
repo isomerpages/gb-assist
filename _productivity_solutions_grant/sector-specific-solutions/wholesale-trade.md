@@ -1,6 +1,6 @@
 ---
 title: Wholesale Trade
-permalink: /productivity-solutions-grant/sector-specific-solutions/wholesaletrade/
+permalink: /productivity-solutions-grant/sector-specific-solutions/wholesale-trade/
 third_nav_title: Sector Specific Solutions
 ---
 
