@@ -1,6 +1,6 @@
 ---
 title: Estate Agency
-permalink: /productivity-solutions-grant/sector-specific-solutions/estateagency/
+permalink: /productivity-solutions-grant/sector-specific-solutions/estate-agency/
 third_nav_title: Sector Specific Solutions
 ---
 
