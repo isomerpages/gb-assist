@@ -1,6 +1,6 @@
 ---
 title: Food Services
-permalink: /productivity-solutions-grant/sector-specific-solutions/foodservices/
+permalink: /productivity-solutions-grant/sector-specific-solutions/food-services/
 third_nav_title: Sector Specific Solutions
 ---
 
