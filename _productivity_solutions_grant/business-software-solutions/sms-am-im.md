@@ -1,5 +1,5 @@
 ---
-title: Sales Management System,<BR>Accounting Management &<BR>Customer Relationship Management (CRM)
+title: Sales Management System,<BR>Accounting Management &<BR>Inventory Management
 permalink: /productivity-solutions-grant/business-software-solutions/sms-am--crm
 third_nav_title: Enterprise Resource Planning (ERP) &<BR>Standalone Solutions
 ---

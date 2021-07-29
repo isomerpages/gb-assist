@@ -6,10 +6,11 @@ collections:
       - business-software-solutions/.keep
       - business-software-solutions/solution-types.md
       - business-software-solutions/sms-am-im-crm.md
+      - business-software-solutions/sms-am-im.md
       - business-software-solutions/sms-am--crm.md
       - business-software-solutions/sms-am.md
-      - business-software-solutions/sms--im.md
-      - business-software-solutions/sms---crm.md
+      - business-software-solutions/sms-im.md
+      - business-software-solutions/sms-crm.md
       - business-software-solutions/crm.md
       - business-software-solutions/im.md
       - human-resources-solutions.md
