@@ -1,6 +1,6 @@
 ---
 title: Food Manufacturing
-permalink: /productivity-solutions-grant/sector-specific-solutions/foodmanufacturing/
+permalink: /productivity-solutions-grant/sector-specific-solutions/food-manufacturing/
 third_nav_title: Sector Specific Solutions
 ---
 
