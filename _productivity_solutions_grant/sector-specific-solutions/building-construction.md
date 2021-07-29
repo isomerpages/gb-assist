@@ -1,6 +1,6 @@
 ---
 title: Building & Construction
-permalink: /productivity-solutions-grant/sector-specific-solutions/buildingconstruction/
+permalink: /productivity-solutions-grant/sector-specific-solutions/building-construction/
 third_nav_title: Sector Specific Solutions
 ---
 

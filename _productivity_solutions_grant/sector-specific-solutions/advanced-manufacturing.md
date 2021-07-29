@@ -1,6 +1,6 @@
 ---
 title: Advanced Manufacturing
-permalink: /productivity-solutions-grant/sector-specific-solutions/advancedmanufacturing/
+permalink: /productivity-solutions-grant/sector-specific-solutions/advanced-manufacturing/
 third_nav_title: Sector Specific Solutions
 ---
 
