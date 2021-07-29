@@ -1,6 +1,6 @@
 ---
 title: Travel Agents
-permalink: /productivity-solutions-grant/sector-specific-solutions/travelagents/
+permalink: /productivity-solutions-grant/sector-specific-solutions/travel-agents/
 third_nav_title: Sector Specific Solutions
 ---
 

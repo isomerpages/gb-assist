@@ -1,6 +1,6 @@
 ---
 title: Precision Engineering
-permalink: /productivity-solutions-grant/sector-specific-solutions/precisionengineering/
+permalink: /productivity-solutions-grant/sector-specific-solutions/precision-engineering/
 third_nav_title: Sector Specific Solutions
 ---
 

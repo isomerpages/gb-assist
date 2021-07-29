@@ -1,6 +1,6 @@
 ---
 title: Pest Management
-permalink: /productivity-solutions-grant/sector-specific-solutions/pestmanagement/
+permalink: /productivity-solutions-grant/sector-specific-solutions/pest-management/
 third_nav_title: Sector Specific Solutions
 ---
 

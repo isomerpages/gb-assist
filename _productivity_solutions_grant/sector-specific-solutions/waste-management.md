@@ -1,6 +1,6 @@
 ---
 title: Waste Management
-permalink: /productivity-solutions-grant/sector-specific-solutions/wastemanagement/
+permalink: /productivity-solutions-grant/sector-specific-solutions/waste-management/
 third_nav_title: Sector Specific Solutions
 ---
 
