@@ -1,6 +1,6 @@
 ---
 title: Sales Management System,<BR>Accounting Management &<BR>Inventory Management
-permalink: /productivity-solutions-grant/business-software-solutions/sms-am--crm
+permalink: /productivity-solutions-grant/business-software-solutions/sms-am-im
 third_nav_title: Enterprise Resource Planning (ERP) &<BR>Standalone Solutions
 ---
 
