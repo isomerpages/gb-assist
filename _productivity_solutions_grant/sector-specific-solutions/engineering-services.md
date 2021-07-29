@@ -1,6 +1,6 @@
 ---
 title: Engineering Services
-permalink: /productivity-solutions-grant/sector-specific-solutions/engineeringservices/
+permalink: /productivity-solutions-grant/sector-specific-solutions/engineering-services/
 third_nav_title: Sector Specific Solutions
 ---
 
