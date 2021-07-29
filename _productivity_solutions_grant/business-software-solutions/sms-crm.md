@@ -1,6 +1,6 @@
 ---
 title: Sales Management System &<BR>Customer Relationship Management (CRM)
-permalink: /productivity-solutions-grant/business-software-solutions/sms---crm
+permalink: /productivity-solutions-grant/business-software-solutions/sms-crm
 third_nav_title: Enterprise Resource Planning (ERP) &<BR>Standalone Solutions
 ---
 
