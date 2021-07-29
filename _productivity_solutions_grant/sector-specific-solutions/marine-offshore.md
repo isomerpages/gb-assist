@@ -1,6 +1,6 @@
 ---
 title: Marine & Offshore
-permalink: /productivity-solutions-grant/sector-specific-solutions/marineoffshore/
+permalink: /productivity-solutions-grant/sector-specific-solutions/marine-offshore/
 third_nav_title: Sector Specific Solutions
 ---
 
