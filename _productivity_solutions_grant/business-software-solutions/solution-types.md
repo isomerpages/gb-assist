@@ -24,7 +24,7 @@ Please note that each business entity may not only be supported for one applicat
 
 |--|--|--|--|--|
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-| v | v | v | v |button|
+| v | v | v | v |{% include secondary-btn.html href="/contact-us/" text="View" %}|
 | v | v | v |   |button|
 | v | v |   | v |button|
 | v | v |   |   |button|
