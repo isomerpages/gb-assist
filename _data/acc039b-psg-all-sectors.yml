@@ -1,0 +1,24 @@
+- image: <img src="/images/grow/psg/ERP.svg">
+  title: Enterprise Resource Planning (ERP) & Standalone Solutions
+  url: /productivity-solutions-grant/business-software-solutions/solution-types/
+  text: View solutions
+
+- image: <img src="/images/grow/psg/HR.svg">
+  title: Human Resources Solutions
+  url: /productivity-solutions-grant/human-resources-solutions/
+  text: View solutions
+
+- image: <img src="/images/grow/psg/E-Commerce.svg">
+  title: E-Commerce
+  url: /productivity-solutions-grant/e-commerce/
+  text: View solutions
+
+- image: <img src="/images/grow/psg/CyberSecurity.svg">
+  title: Cyber Security
+  url: /productivity-solutions-grant/cyber-security/
+  text: View solutions
+
+- image: <img src="/images/grow/psg/FleetDocumentManagement.svg">
+  title: Fleet & Document Management
+  url: /productivity-solutions-grant/fleet-n-document-management/
+  text: View solutions
