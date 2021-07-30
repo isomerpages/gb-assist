@@ -15,7 +15,7 @@ The following list of solution categories have been re-grouped to the new soluti
 - Customer Relationship Management (CRM) and Sales Management System
 - Inventory Management and Sales Management System
 
-## ![IT](/images/grow/psg/IT-Solution.svg) IT Solutions
+## ![IT-SOLUTIONS](/images/grow/psg/IT-Solution.svg) IT Solutions
 
 ### Enterprise Resource Planning (ERP)
 
