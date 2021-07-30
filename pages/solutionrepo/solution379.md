@@ -3,6 +3,9 @@ title: EquipPOS Retail Solutions Version 3 - Package C (Basic + Inventory Manage
 permalink: /productivity-solutions-grant/solutionrepo/solution379
 ---
 
+### Vendor Information
+Company Name:Edgeworks Solutions Pte Ltd <br>Web URL:www.edgeworks.com.sg <br>Contact Hotline:67460710 <br>Contact Email:sales@edgeworks.com.sg <br>
+
 ### Description
 
 EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-based system by synchronising data to cloud in real-time yet working without internet at the same time. Operations will not be hindered even when it's offline and  data can be viewed in real-time from our cloud-based EquipWeb backend once internet is available. Edgeworks POS solutions give you the performance and the stability that you need.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Edgeworks Solutions Pte Ltd <br>Web URL:www.edgeworks.com.sg <br>Contact Hotline:67460710 <br>Contact Email:sales@edgeworks.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

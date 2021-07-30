@@ -3,6 +3,9 @@ title: Fides Suite - Fides Cloud - 3 Outlets
 permalink: /productivity-solutions-grant/solutionrepo/solution1857
 ---
 
+### Vendor Information
+Web URL: crm.fidescloud.com <br>Contact Hotline: 69726400 <br>Contact Email: fidessuite@edenred.com <br>
+
 ### Description
 
 Fides Cloud is an all-round CRM, Loyalty & Campaign Management platform for all B2B and B2c businesses. and Fides Portal is an engaging platform for members to view their loyalty history, redeem rewards and shop
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: crm.fidescloud.com <br>Contact Hotline: 69726400 <br>Contact Email: fidessuite@edenred.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

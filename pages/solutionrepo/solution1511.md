@@ -3,6 +3,9 @@ title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS Software Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1511
 ---
 
+### Vendor Information
+EPOS Pte. Ltd.<br>http://www.epos.com.sg<br>Email: sales@epos.com.sg<br>Tel: +65 6871 8833 / +65 8482 1888
+
 ### Description
 
 EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, customer management, inventory management and provide detailed sales, customer and product data and analysis. It reduces human error and improve accuracy in sales invoicing and stock deduction.
@@ -36,8 +39,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-EPOS Pte. Ltd.<br>http://www.epos.com.sg<br>Email: sales@epos.com.sg<br>Tel: +65 6871 8833 / +65 8482 1888
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

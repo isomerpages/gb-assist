@@ -3,6 +3,9 @@ title: Battery operated waste collection equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution35
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The equipment (autonomous or one man operated) has the capability to facilitate the collection of waste from point to point. Examples of such capability include bin-lifting, towing, pulling, transporting etc.
@@ -32,8 +35,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Grant cap: Up to S$10,900 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

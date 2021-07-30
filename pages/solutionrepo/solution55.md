@@ -3,6 +3,9 @@ title: Handheld Mini 2-in-1 System (Vacuum and Scrubber)
 permalink: /productivity-solutions-grant/solutionrepo/solution55
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Compact handheld 2-in-1 system which combines the high power and performance of a commercial scrubber with built-in water dispensing and vacuuming function. Equipment must be able to clean different types of hard floor and to be used in commercial or industrial premises.
@@ -37,8 +40,5 @@ Specifications
 - Solution tank capacity (>1L)
 
 Grant cap: Up to S$2,500 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

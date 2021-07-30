@@ -3,6 +3,9 @@ title: Intuit QBO - QUICKBOOKS ONLINE START-UP
 permalink: /productivity-solutions-grant/solutionrepo/solution1698
 ---
 
+### Vendor Information
+Web URL: www.tnbgo.com <br>Contact Hotline: 98580687 <br>Contact Email: enquiries@tnbgo.com <br>
+
 ### Description
 
 We established in 2003 and provide one stop service company included software solution. We provide a complete range of accounting, secretarial, tax advisory, employment pass processing and more attractive business solutions service package. TnB is an accredited approved pro advisor by Quickbooks Intuit USA software.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.tnbgo.com <br>Contact Hotline: 98580687 <br>Contact Email: enquiries@tnbgo.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

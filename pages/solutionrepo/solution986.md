@@ -3,6 +3,9 @@ title: Kiosk  & BYOD - Digital Order Channel Package with CRM
 permalink: /productivity-solutions-grant/solutionrepo/solution986
 ---
 
+### Vendor Information
+Aigens Technology (Singapore) Pte. Ltd.  <br>https://www.aigens.com/ <br>96953417 <br>hans.paul@aigens.com <br>
+
 ### Description
 
 Singapore Food & Beverage is running out of manpower. Aigens aspire to bring innovation to the traditional Food & Beverage (F&B) industry, which lags behind in adopting technology. In the food service industry, convenience is king. Customers want to experience quick, efficient service with no obstacles. This is even more important for quick service and casual dining restaurants. With Aigens, you can implement innovative solutions that will see your customers returning time and time again.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Aigens Technology (Singapore) Pte. Ltd.  <br>https://www.aigens.com/ <br>96953417 <br>hans.paul@aigens.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: SAGE 300 Version 2019/2020 - Sage 300 v2019/2020 - Package (Advanced Edit
 permalink: /productivity-solutions-grant/solutionrepo/solution347
 ---
 
+### Vendor Information
+Databit Pte Ltd<br>https://www.databit.com.sg<br>Email: sales@databit.com.sg<br>Tel: +65 9488 4143
+
 ### Description
 
 Sage 300 accounting software is widely used by small and medium-sized businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing, retail, e-commerce and robust business intelligence tools to provide real-time key performance indicator (KPI) dashboards.
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Databit Pte Ltd<br>https://www.databit.com.sg<br>Email: sales@databit.com.sg<br>Tel: +65 9488 4143
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

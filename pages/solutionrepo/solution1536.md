@@ -3,6 +3,9 @@ title: Zoho One-11 Users + Onboarding Services
 permalink: /productivity-solutions-grant/solutionrepo/solution1536
 ---
 
+### Vendor Information
+Web URL: www.zolution.co <br>Contact Hotline: 31385268 <br>Contact Email: team@zolution.co <br>
+
 ### Description
 
 With advanced CRM features like workflow management, advanced analytics, territory management, sales and marketing automation, Zoho One helps reduce the time salespeople spend on mundane tasks, have more time to concentrate on customers and unify operations across multiple geographic locations. The CRM system helps companies cover every aspect of their business cycle with an increase in sales and marketing returns, all while helping them reduce operating costs.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.zolution.co <br>Contact Hotline: 31385268 <br>Contact Email: team@zolution.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

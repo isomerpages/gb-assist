@@ -3,6 +3,9 @@ title: Microsoft Dynamics 365 Business Central (NAV) - Package C (Premium 10 Use
 permalink: /productivity-solutions-grant/solutionrepo/solution442
 ---
 
+### Vendor Information
+Globalsoft Solutions Pte Ltd<br>www.mng-solutions.com<br>Email: enquiries@mng-solutions.com<br>Tel: +65 6570 5012
+
 ### Description
 
 Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabilities that works together seamlessly across financials, sales, operations and customer service on a cloud platform. As an end-to-end application, this solution connects people and processes and is recommended for small and medium-sized organizations with up to a few hundred users. Business Central is a quick to implement, simple-to-use business solution with the power to support your business ambitions.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Globalsoft Solutions Pte Ltd<br>www.mng-solutions.com<br>Email: enquiries@mng-solutions.com<br>Tel: +65 6570 5012
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

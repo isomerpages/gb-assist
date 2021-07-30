@@ -3,6 +3,9 @@ title: Walk behind sweeper
 permalink: /productivity-solutions-grant/solutionrepo/solution182
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The walk-behind sweeper that is able to provide consistent cleaning sweeping performance, with only one operator.
@@ -37,8 +40,5 @@ Specifications
 - Hopper volume (>30L)
 
 Grant cap: Up to S$600 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

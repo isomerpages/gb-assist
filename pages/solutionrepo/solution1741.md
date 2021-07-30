@@ -3,6 +3,9 @@ title: SmartFM Version 1.0 - Commercial (Unlimited)
 permalink: /productivity-solutions-grant/solutionrepo/solution1741
 ---
 
+### Vendor Information
+Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: support@chimeric.sg <br>
+
 ### Description
 
 SmartFM is an integrated, cloud based, facility management solution. It is designed to be a common data collection interface where operators can perform their day to day operations on a single platform, allowing data to be easily shared between operational departments, digitally documenting day to day tasks and granting executives and managers critical oversight and analysis tools to modernize dormitory operations.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: support@chimeric.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

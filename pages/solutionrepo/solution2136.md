@@ -3,6 +3,9 @@ title: Dehusking Machine/ Shaker
 permalink: /productivity-solutions-grant/solutionrepo/solution2136
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
@@ -31,9 +34,6 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
-
-### Contact Information
 N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

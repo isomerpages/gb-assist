@@ -3,6 +3,9 @@ title: Steel Plate Butt Joint Welding Alignment Tool
 permalink: /productivity-solutions-grant/solutionrepo/solution136
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The butt joint welding alignment tool can be used to efficiently and easily align steel plates in preparation for the welding process during shipbuilding in workshop or shipyard. The tool requires lesser time and manpower for steel plate adjustments, is faster and more accurate, and is safer.
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 ### Things to Note
 Magnetic force: minimum 800kgf
 Maintenance costs not supported
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

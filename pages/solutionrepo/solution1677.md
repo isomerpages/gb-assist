@@ -3,6 +3,9 @@ title: iFoundries E-commerce Jump Start Package Version 1 - Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution1677
 ---
 
+### Vendor Information
+Web URL: https://www.ifoundries.com <br>Contact Hotline: 96246245<br>Contact Email: web-enquiry@ifoundries.com <br>
+
 ### Description
 
 The amount of trade conducted electronically in Singapore and globally has already grown tremendously with the wide-spread of Internet usage. Those who have viewed e-commerce as a secondary channel now need to re-orient every aspect of their business towards a e-commerce mindset. There exists an opportunity to double-down on e-commerce, augmenting existing offerings and creating new lines of product with our E-commerce Jump Start solutions.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.ifoundries.com <br>Contact Hotline: 96246245<br>Contact Email: web-enquiry@ifoundries.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

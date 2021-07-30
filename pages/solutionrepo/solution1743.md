@@ -3,6 +3,9 @@ title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 50
 permalink: /productivity-solutions-grant/solutionrepo/solution1743
 ---
 
+### Vendor Information
+Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
+
 ### Description
 
 HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes
@@ -45,8 +48,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact Email: enquiry@frontier-ehr.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

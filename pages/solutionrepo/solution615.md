@@ -3,6 +3,9 @@ title: MEVO DMS 8.3 - MEVO Sales (10 Users Bundle)
 permalink: /productivity-solutions-grant/solutionrepo/solution615
 ---
 
+### Vendor Information
+MEVO Pte Ltd<br>www.mevo.com.sg<br>Email: enquiries@mevo.com.sg<br>Tel: +65 6773 9048
+
 ### Description
 
 A specialized solution for wholesalers to optimize their order fulfilment to customers in both Lower and Upper Trade. The solution helps wholesalers streamline the process from customers' order taking (for both Lower and Upper Trade) to delivery.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-MEVO Pte Ltd<br>www.mevo.com.sg<br>Email: enquiries@mevo.com.sg<br>Tel: +65 6773 9048
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

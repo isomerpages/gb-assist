@@ -3,6 +3,9 @@ title: Microsoft Dynamics 365 Business Central Version SAAS-Growing Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution1404
 ---
 
+### Vendor Information
+Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sales@9itgroup.com <br>
+
 ### Description
 
 Microsoft Dynamics 365 Business Central delivers integrated functionality to provide support for: Financial management Supply chain management Relationship management Human resource management Project & Resource management Warehouse management Service Order Management Manufacturing
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sales@9itgroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

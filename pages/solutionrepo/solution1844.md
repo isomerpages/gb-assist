@@ -3,6 +3,9 @@ title: Doctor Anywhere Platform
 permalink: /productivity-solutions-grant/solutionrepo/solution1844
 ---
 
+### Vendor Information
+Company Name: Doctor Anywhere Operations Pte Ltd<br>Web URL: www.doctoranywhere.com<br>Contact Hotline: 9278 6055<br>Contact Email: fanny@doctoranywhere.com
+
 ### Description
 
 Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). This platform allows the Service provider to perform teleconsultation services in a secured environment, via both app and web applications. Medical notes can be securely stored. Clinics are  able to provide patients with medical documents in-app, and to prescribe medication) through the platform, using their clinic's formulary.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: Doctor Anywhere Operations Pte Ltd<br>Web URL: www.doctoranywhere.com<br>Contact Hotline: 9278 6055<br>Contact Email: fanny@doctoranywhere.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

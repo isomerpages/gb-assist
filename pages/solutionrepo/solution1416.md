@@ -3,6 +3,9 @@ title: Electric Pedestrian Pallet Truck
 permalink: /productivity-solutions-grant/solutionrepo/solution1416
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 This powered pallet truck is used to transport loads within warehouses, factories. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks. 
@@ -44,8 +47,5 @@ Specifications:
 - Charging accessories & 1 spare battery per unit may be supported
 
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

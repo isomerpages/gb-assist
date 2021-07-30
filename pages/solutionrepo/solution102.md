@@ -3,6 +3,9 @@ title: Ride-on Industrial Sweeper
 permalink: /productivity-solutions-grant/solutionrepo/solution102
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Ride-on motorised industrial sweeper machine driven by 1 operator that provides consistent  sweeping for outdoor and indoor use.
@@ -32,8 +35,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Grant cap: Up to S$21,300 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

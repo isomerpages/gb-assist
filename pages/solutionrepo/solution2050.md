@@ -3,6 +3,9 @@ title: NetQ Management System - NetQ Management System(include SMS notification 
 permalink: /productivity-solutions-grant/solutionrepo/solution2050
 ---
 
+### Vendor Information
+Web URL: http://arrowlogic.com.sg/ <br>Contact Hotline: 62538872 <br>Contact Email: sales@arrowlogic.com.sg <br>
+
 ### Description
 
 Arrowlogic Pte Ltd has been established since 2008 locally in Singapore and we believe in giving utmost value to our customers in terms of both the best product and service. We help our clients streamline and optimize their queue.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: http://arrowlogic.com.sg/ <br>Contact Hotline: 62538872 <br>Contact Email: sales@arrowlogic.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Human Resource Shared Services (HRSS) - Basic Package 3 (101 to 150 staff
 permalink: /productivity-solutions-grant/solutionrepo/solution576
 ---
 
+### Vendor Information
+Lee Wenyong & Co. Holdings Pte.. Ltd.<br>www.leewenyong.com<br>Email: me@leewenyong.com<br>Tel: +65 6988 6999
+
 ### Description
 
 Lee Wenyong & Co. performs HR needs analysis by reviewing the SME client's internal HR processes to determine HR services that can be best outsourced. Besides, they provide HR Administrative support and payroll processing via a HRMS including employee data storage, attendance and leave, payroll and claims modules.
@@ -36,8 +39,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Lee Wenyong & Co. Holdings Pte.. Ltd.<br>www.leewenyong.com<br>Email: me@leewenyong.com<br>Tel: +65 6988 6999
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

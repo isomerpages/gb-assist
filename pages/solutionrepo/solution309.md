@@ -3,6 +3,9 @@ title: Commercial Inkjet Printer
 permalink: /productivity-solutions-grant/solutionrepo/solution309
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Commercial inkjet printers integrated into the production lines are used to stamp information directly onto the product packaging. 
@@ -36,8 +39,5 @@ N.A. for non-SMEs
 
 Touchscreen interface, able to manually input datecode/ expiry date for products
 Can automatically print unique barcode for each product from the production line
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

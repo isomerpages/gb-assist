@@ -3,6 +3,9 @@ title: Automated Noodle Boiler
 permalink: /productivity-solutions-grant/solutionrepo/solution17
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The automated noodle boiler automates the noodle cooking process.
@@ -40,8 +43,5 @@ Min Capacity:
 - 3 noodle baskets
 
 The purchase of pre-owned/used equipment is not supportable.
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 1 (5
 permalink: /productivity-solutions-grant/solutionrepo/solution443
 ---
 
+### Vendor Information
+Glodon International Pte Ltd<br>https://www.glodon.com/en/<br>Email: SG@GLOBAL.GLODON.COM<br>Tel: +65 6567 1648
+
 ### Description
 
 A Digital costing platform, for the QS fraternity, whereby measurements of element components indicates geometry with attributes and information required by QS. Providing Detailed & Accurate Quantities during quantification of elements through the consideration of Industry Standard Calculation Rules & Settings based on Singapore Measurement Standards. Bringing a Visual Reality of a 2D Plan Drawing to a 3D Visualization Model.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Glodon International Pte Ltd<br>https://www.glodon.com/en/<br>Email: SG@GLOBAL.GLODON.COM<br>Tel: +65 6567 1648
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

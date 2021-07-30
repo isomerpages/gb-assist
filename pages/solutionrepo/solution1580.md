@@ -3,6 +3,9 @@ title: A-Class Accounting & Sales Management by Sleek Version 1 - B - Start Up
 permalink: /productivity-solutions-grant/solutionrepo/solution1580
 ---
 
+### Vendor Information
+Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
+
 ### Description
 
 Sleek provides a fully digital solution for accounting, tax, HR and sales management for SMEs and Startups in Singapore backed up by quality local support.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sales@sleek.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Ecommerce Online Shop + SEO and Digital Marketing Setup - Advanced Ecomme
 permalink: /productivity-solutions-grant/solutionrepo/solution1820
 ---
 
+### Vendor Information
+Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266<br>Contact Email: godigital@vuetechsg.com <br>
+
 ### Description
 
 You need an eCommerce website? You actually need a website that can continue to generate profit for your business, Vue tech can help you with that!
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Contact Hotline: 87337266<br>Contact Email: godigital@vuetechsg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

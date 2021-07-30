@@ -3,6 +3,9 @@ title: E-Commerce Portal Development (WooCommerce) - Basic Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2110
 ---
 
+### Vendor Information
+Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br>Contact Hotline: 69147727 <br>Contact Email: admin@iprodezign.com <br>
+
 ### Description
 
 WooCommerce is an open-source, completely customizable eCommerce platform developed in the Wordpress CMS. It's estimated that WooCommerce is used by around 3.9 million websites worldwide.
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br>Contact Hotline: 69147727 <br>Contact Email: admin@iprodezign.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Devel
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
+### Vendor Information
+Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
+
 ### Description
 
 Development of an online shopping cart system complete with integrated product details and functionalities to transform and automate online sales transactions, managing of customers' orders and buying behaviour data, tracking of statistics of product sales performance, online marketing of products and provision of consultancy to explore digital connections with external platforms to increase market reach digitally.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 64932970 <br>Contact Email: info@digitalsolutions.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

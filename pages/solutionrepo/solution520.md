@@ -3,6 +3,9 @@ title: NinjaOS - Package D (NinjaEnterprise - 3 Modules)
 permalink: /productivity-solutions-grant/solutionrepo/solution520
 ---
 
+### Vendor Information
+Jankosoft Pte Ltd<br>https://www.jankosoft.com/<br>Email: sales@ninjaos.com<br>Tel: +65 9001 3157
+
 ### Description
 
 We help build online e commerce stores for F&B merchants so that they can grow their brand & business by being able to save on commissions, deliver islandwide, gather and grow a loyal customer base.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Jankosoft Pte Ltd<br>https://www.jankosoft.com/<br>Email: sales@ninjaos.com<br>Tel: +65 9001 3157
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Xero Cloud Accounting Software - Aba Xero Accounting Solution - Essential
 permalink: /productivity-solutions-grant/solutionrepo/solution1164
 ---
 
+### Vendor Information
+Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg <br>
+
 ### Description
 
 Xero solution which is a cloud based solution which enable businesses to work from home and enhance processes from purchase order, sales quotation, invoices and e-peppol invoices , inventory tracking to accounting and GST reporting
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

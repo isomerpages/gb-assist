@@ -3,6 +3,9 @@ title: ABSS Premier V23 Version 23 - Package E with E-Invoicing, Setup, Training
 permalink: /productivity-solutions-grant/solutionrepo/solution33
 ---
 
+### Vendor Information
+361 Degree Consultancy Pte Ltd<br>www.361dc.com<br>Email: enquiry@361dc.com<br>Tel: +65 6515 7906
+
 ### Description
 
 ABSS Premier provides advanced inventory, and business management capabilities to medium-sized companies. Process foreign currency transactions, GST submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-361 Degree Consultancy Pte Ltd<br>www.361dc.com<br>Email: enquiry@361dc.com<br>Tel: +65 6515 7906
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

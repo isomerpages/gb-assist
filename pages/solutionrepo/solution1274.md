@@ -3,6 +3,9 @@ title: MyRetailer Plus Version 4 - Package E with Unified Payments
 permalink: /productivity-solutions-grant/solutionrepo/solution1274
 ---
 
+### Vendor Information
+Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz <br>
+
 ### Description
 
 MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-use data management system equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>Contact Hotline: 66526709 <br>Contact Email: possales@synthesis.bz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

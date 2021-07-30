@@ -3,6 +3,9 @@ title: Robotic arms
 permalink: /productivity-solutions-grant/solutionrepo/solution103
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Robotic arms that are:
@@ -41,8 +44,5 @@ Support excludes end-effectors, sensors, programming and integration cost
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 - The purchase of pre-owned/used equipment is not supportable.
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

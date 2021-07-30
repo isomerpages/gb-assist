@@ -3,6 +3,9 @@ title: Ethylene Removal System
 permalink: /productivity-solutions-grant/solutionrepo/solution2006
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
@@ -40,8 +43,5 @@ Specifications:
 -Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 -No change in vendor allowed
 -The purchase of pre-owned/used equipment is not supportable
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

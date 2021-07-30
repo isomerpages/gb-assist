@@ -3,6 +3,9 @@ title: HeartVoice Telehealth Platform - Package (1 Doctor)
 permalink: /productivity-solutions-grant/solutionrepo/solution1842
 ---
 
+### Vendor Information
+Company Name: HeartVoice Pte Ltd<br>Web URL: www.ourheartvoice.com<br>Contact Hotline: 64631795<br>Contact Email: hs@ourheartvoice.com<br>
+
 ### Description
 
 The HeartVoice Telehealth Platform provides for teleconsultation services to enable healthcare professionals to interact with their patients remotely. Patients can schedule consultations via the WhatsApp or live queue.  A web-based dashboard is provided for the doctors to perform video consultation, receive images, prescribe medicine, and input consultation notes 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: HeartVoice Pte Ltd<br>Web URL: www.ourheartvoice.com<br>Contact Hotline: 64631795<br>Contact Email: hs@ourheartvoice.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

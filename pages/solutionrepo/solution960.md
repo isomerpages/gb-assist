@@ -3,6 +3,9 @@ title: EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (10 Devic
 permalink: /productivity-solutions-grant/solutionrepo/solution960
 ---
 
+### Vendor Information
+Company Name:WINAPP SOLUTIONS PTE LTD <br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG <br>
+
 ### Description
 
 Winapp EzySalesOrder V 2.0  simplifies your organization, to do day to day operation from our Web and Mobile Application. Our solution reduces all manual efforts and data loss which increase Productivity by saving lots of time and operational cost. We offers fully integrated application for Wholesale and retail to help your business grow and succeed. Our powerful web and mobile app allow you to maintain full control over sales, purchase and inventory while presenting an easy user interface.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:WINAPP SOLUTIONS PTE LTD <br>Web URL: WWW.WINAPP.COM.SG <br>Contact Hotline: 98593960 <br>Contact Email: ARAFA@WINAPP.COM.SG <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Engine/Electric- powered forklift
 permalink: /productivity-solutions-grant/solutionrepo/solution275
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Forklift with load capacity from 1.5 ton to 10 ton, that is able to lift, move and/or stack materials, with only one operator.
@@ -35,8 +38,5 @@ Specifications
 Only applicable for licensed cleaning, waste management and pest management companies
 
 Grant cap: Up to S$22,000 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

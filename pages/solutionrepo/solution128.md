@@ -3,6 +3,9 @@ title: Smart Waste Oil Collection System
 permalink: /productivity-solutions-grant/solutionrepo/solution128
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The Smart Waste Oil Collection System, which is equipped with diagnostics, fill-level sensors and data management system, transports waste oil from the fryer to the waste oil containment tank with minimal human intervention. 
@@ -38,8 +41,5 @@ Specifications
 
 
 Grant cap: Up to S$44,500 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

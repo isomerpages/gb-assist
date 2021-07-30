@@ -3,6 +3,9 @@ title: Roubler - Roubler 101 - 200 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2015
 ---
 
+### Vendor Information
+Web URL: www.roubler.com <br>Contact Hotline: 31636786 <br>Contact Email: info@roubler.com <br>
+
 ### Description
 
 Roubler's all-in-one cloud-based system combines essential workforce management tasks with a simple, easy-to-use interface to give your employees the power to manage their working lives.
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.roubler.com <br>Contact Hotline: 31636786 <br>Contact Email: info@roubler.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: SmartTab eMenu Version 4 - Package (10 eMenu Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution849
 ---
 
+### Vendor Information
+Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel: +65 9763 0707
+
 ### Description
 
 TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-menu) system that improves customer experience and increase restaurant productivity. 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel: +65 9763 0707
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

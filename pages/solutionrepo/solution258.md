@@ -3,6 +3,9 @@ title: BonaForce-bonaFORCE SMEs
 permalink: /productivity-solutions-grant/solutionrepo/solution258
 ---
 
+### Vendor Information
+Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
+
 ### Description
 
 bonaFORCE is a CRM created specially for the SMEs.
@@ -36,8 +39,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Contact Hotline: 90470443 <br>Contact Email: it@bona.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

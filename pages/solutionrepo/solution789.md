@@ -3,6 +3,9 @@ title: Shopmatic - Shopmatic Pro Concierge
 permalink: /productivity-solutions-grant/solutionrepo/solution789
 ---
 
+### Vendor Information
+Company Name:Shopmatic Pte Ltd <br>Web URL: www.goshopmatic.com <br>Contact Hotline: 69569202 <br>Contact Email: shopsupportsg@goshopmatic.com <br>
+
 ### Description
 
 Shopmatic is a SaaS solution that offers an integrated business solutions for SMEs to take their business online and providing full accessibility to the business owner to operate their e-commerce presence.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Shopmatic Pte Ltd <br>Web URL: www.goshopmatic.com <br>Contact Hotline: 69569202 <br>Contact Email: shopsupportsg@goshopmatic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

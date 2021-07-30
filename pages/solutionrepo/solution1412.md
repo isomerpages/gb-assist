@@ -3,6 +3,9 @@ title: StaffAny Version 1.0-Package B (50 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1412
 ---
 
+### Vendor Information
+Web URL: https://www.staffany.com <br>Contact Hotline: 88145422 <br>Contact Email: hello@staffany.com <br>
+
 ### Description
 
 StaffAny is a software-as-a-service that helps business owners reduce work dedicated to scheduling and time-tracking, as well as reduce the cost of operations by minimising time theft and overtime spend.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.staffany.com <br>Contact Hotline: 88145422 <br>Contact Email: hello@staffany.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

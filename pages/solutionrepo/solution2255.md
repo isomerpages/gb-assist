@@ -3,6 +3,9 @@ title: Ecommflow Version 2.0 - Pro
 permalink: /productivity-solutions-grant/solutionrepo/solution2255
 ---
 
+### Vendor Information
+Web URL: https://calvinseng.com <br>Contact Hotline: +6592348807 <br>Contact Email: hello@calvinseng.com <br>
+
 ### Description
 
 Spend more time on what matters. Ecommflow takes care of the rest, with a suite of powerful online selling features for every type of industry. Secure payments, configurable shipping options, subscriptions, and more.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://calvinseng.com <br>Contact Hotline: +6592348807 <br>Contact Email: hello@calvinseng.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

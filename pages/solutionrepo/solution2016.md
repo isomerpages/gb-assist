@@ -3,6 +3,9 @@ title: Termite Detector
 permalink: /productivity-solutions-grant/solutionrepo/solution2016
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The termite detector is equipped with a scanner and/or consists of sensor(s) to detect, track and confirm the termite infestation area. The device can capture data during site visits for follow up and review. System includes software application for traceability to generate reports for users.
@@ -40,8 +43,5 @@ Specifications
 -The detector must minimally consist of at least a thermal sensor or CO2 sensor.
 
 Grant cap: Up to S$50,000 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

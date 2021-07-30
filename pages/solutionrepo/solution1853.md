@@ -3,6 +3,9 @@ title: CROSSTRACK GO - Crosstrack GO Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution1853
 ---
 
+### Vendor Information
+Web URL: https://crosstrack.sg/pdf/Crosstrack_GO_Marketing_Brochure.pdf <br>Contact Hotline: 91733775 <br>Contact Email: psg@crosstrack.sg <br>
+
 ### Description
 
 CrossTrack GO is a fleet management platform that is available on both desktop and mobile (Android and iOS) for companies to help better manage their fleet of vehicles and drivers. With a few clicks, know exactly where your vehicles are in the palm of your hand.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://crosstrack.sg/pdf/Crosstrack_GO_Marketing_Brochure.pdf <br>Contact Hotline: 91733775 <br>Contact Email: psg@crosstrack.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

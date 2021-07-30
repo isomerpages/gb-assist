@@ -3,6 +3,9 @@ title: ChopeQueues - ChopeQueues as add-on to ChopeCloud or ChopeBook with 10k S
 permalink: /productivity-solutions-grant/solutionrepo/solution1697
 ---
 
+### Vendor Information
+Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email: sales.sg@chope.co <br>
+
 ### Description
 
 ChopeQueues is a contactless queue management that is fully integrated with our Table Management System ChopeBook. Diners join the queue at a restaurant's entrance by scanning a QR code and restaurant staff can inform them once a table becomes available at the touch of a button.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email: sales.sg@chope.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

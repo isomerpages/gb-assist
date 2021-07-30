@@ -3,6 +3,9 @@ title: ChopeBook - ChopeBook Software Only
 permalink: /productivity-solutions-grant/solutionrepo/solution1563
 ---
 
+### Vendor Information
+Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email: sales.sg@chope.co <br>
+
 ### Description
 
 ChopeBook is a Table Management System (TMS) designed to make the most of a restaurant's revenue generating assets - tables and seats. Manage the inflow of online and offline reservations with user-friendly functions synced across multiple devices.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email: sales.sg@chope.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

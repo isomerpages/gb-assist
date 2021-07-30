@@ -3,6 +3,9 @@ title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Pilot Kit
 permalink: /productivity-solutions-grant/solutionrepo/solution1908
 ---
 
+### Vendor Information
+Web URL: https://auk.industries <br>Contact Hotline: 68163655 <br>Contact Email: sales.web@auk.industries <br>
+
 ### Description
 
 Auk Industries is a disruptive end-to-end technology provider for Industrial IoT. Analogous to "Fitbit-for- machines", our cost-effective universal IoT devices can be quickly deployed in minutes onto a diverse range of industrial machines to stream vital machine stats to the secured cloud platform in real-time, making ops data available to users anytime on dashboards, computers or mobile devices.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://auk.industries <br>Contact Hotline: 68163655 <br>Contact Email: sales.web@auk.industries <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

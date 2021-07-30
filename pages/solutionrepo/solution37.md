@@ -3,6 +3,9 @@ title: Centralised Foam Soap Dispensing Reservoir
 permalink: /productivity-solutions-grant/solutionrepo/solution37
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Equipment to support automatic refilling of foam soap to at least 3 dispensers per toilet. 
@@ -32,8 +35,5 @@ Up to 60% for non-SMEs
 
 ### Things to Note
 Grant cap: Up to S$1,440 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

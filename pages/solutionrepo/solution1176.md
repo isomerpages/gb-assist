@@ -3,6 +3,9 @@ title: Carddio Version 1 - Enterprise Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1176
 ---
 
+### Vendor Information
+Company Name:Carddio Pte Ltd <br>Web URL: www.carddio.com.sg <br>Contact Hotline: 6258 9852 <br>Contact Email: psg@carddio.com.sg<br>
+
 ### Description
 
 The One Stop Mobile App for Business Contact Data Storage & Salesman Management with Lead Exchange
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Carddio Pte Ltd <br>Web URL: www.carddio.com.sg <br>Contact Hotline: 6258 9852 <br>Contact Email: psg@carddio.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

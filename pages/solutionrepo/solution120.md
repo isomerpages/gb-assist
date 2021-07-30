@@ -3,6 +3,9 @@ title: Secure Locking System for Access Control
 permalink: /productivity-solutions-grant/solutionrepo/solution120
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The locking system leverages on functional elements of a lockset and the latest technologies to meet enterprise application demands. Solution helps to improve existing solution where reliable and flexible multiple access control is required for the secured spaces. 
@@ -45,8 +48,5 @@ N.A. for non-SMEs
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

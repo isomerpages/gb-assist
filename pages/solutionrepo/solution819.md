@@ -3,6 +3,9 @@ title: Fleet Safety & Management System Version 1 - Package (Standard with ADAS 
 permalink: /productivity-solutions-grant/solutionrepo/solution819
 ---
 
+### Vendor Information
+Smartcomm Electronics Pte Ltd<br>https://www.smartcomm.biz/<br>Email: ask@smartcomm.biz<br>Tel: +65 6513 2389
+
 ### Description
 
 Fleet Safety & Management System Version 1 is a powerful tool that provides real-time video and GPS information for time and motion study to increase productivity and lower operating costs. Built on analytics in the backend, it is capable of generating useful reports for fleet managers and decision makers. Coupled with Telematics Sensors ranging from temperature, driver identification, RFID, water flow, ultrasonic, weight and video, it helps companies to fulfil their fleet management needs. 
@@ -32,8 +35,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Only applicable for licensed cleaning, waste management and pest management companies.
-
-### Contact Information
-Smartcomm Electronics Pte Ltd<br>https://www.smartcomm.biz/<br>Email: ask@smartcomm.biz<br>Tel: +65 6513 2389
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

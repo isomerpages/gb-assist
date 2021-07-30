@@ -3,6 +3,9 @@ title: Sage 300 Advanced Edition - Cloud Enhanced Package S2 (10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1024
 ---
 
+### Vendor Information
+Company Name:COMPTRAC SYSTEMS TECHNOLOGY PTE LTD <br>Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: itgrants@comptrac.com.sg <br>
+
 ### Description
 
 Sage 300 takes the complexity out of managing your business finances across borders, in multiple currencies and locations. All processes work including financials, operations and inventory, sales could be integrated to other process work such as project and vendor management, HRMS and payroll, marketing and customer service efficiently, increasing work productivity between multi departments.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:COMPTRAC SYSTEMS TECHNOLOGY PTE LTD <br>Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: itgrants@comptrac.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

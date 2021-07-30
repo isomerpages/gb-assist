@@ -3,6 +3,9 @@ title: IamTreked Version 3.13 - IamTreked Package 4 - 40 vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution1752
 ---
 
+### Vendor Information
+Web URL: www.iamtreked.com <br>Contact Hotline: 63396535 <br>Contact Email: tdepot@iamtreked.com <br>
+
 ### Description
 
 Iamtreked 3.13 is the latest version of our Fleet Management Solutions
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.iamtreked.com <br>Contact Hotline: 63396535 <br>Contact Email: tdepot@iamtreked.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

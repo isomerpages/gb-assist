@@ -3,6 +3,9 @@ title: EQUIP Version 10 - EQUIP S1 - 30 Users with Manufacturing
 permalink: /productivity-solutions-grant/solutionrepo/solution2055
 ---
 
+### Vendor Information
+Web URL: https://www.hashmicro.com/erp-system <br>Contact Hotline: 66028002 <br>Contact Email: enquiries@hashmicro.com <br>
+
 ### Description
 
 EQUIP is an easy to use and versatile ERP solution that help companies revolutionize their business into insightful and intelligent enterprises by reducing paperwork, providing in depth business analytics and automating manual labor. 
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.hashmicro.com/erp-system <br>Contact Hotline: 66028002 <br>Contact Email: enquiries@hashmicro.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

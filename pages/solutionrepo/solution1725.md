@@ -3,6 +3,9 @@ title: Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit
 permalink: /productivity-solutions-grant/solutionrepo/solution1725
 ---
 
+### Vendor Information
+Web URL: https://www.anewtech.net <br>Contact Hotline: 6292 0801<br>Contact Email: sales@anewtech.com.sg <br>
+
 ### Description
 
 Intelli-Signage solution combine touch screen system, age and gender recognition, content design software, remote management, and data analytics.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.anewtech.net <br>Contact Hotline: 6292 0801<br>Contact Email: sales@anewtech.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

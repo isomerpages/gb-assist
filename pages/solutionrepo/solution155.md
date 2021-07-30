@@ -3,6 +3,9 @@ title: RevoPOS 3.0 - Package (20 eMenu w/o HW)
 permalink: /productivity-solutions-grant/solutionrepo/solution155
 ---
 
+### Vendor Information
+Appz Inc Pte Ltd<br>https://getrevopos.com/<br>Email: sales@appzinc.biz<br>Tel: +65 6815 5808
+
 ### Description
 
 RevoPOS 3.0 Digital Ordering Systems eMenu and eWaiter enable customers to place orders themselves(eMenu) or for staff to send orders(eWaiter) directly to the Kitchen Ordering System. Data can be managed within the outlet or on the cloud. The CRM and Loyalty come with features such as Rewards Points, Credit Storage, Member Auto Discounts, and SMART SMS promoting. All RevoPOS data can be synced on the cloud for all outlets and generate data insights and managed on the backend and the frontend.
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Appz Inc Pte Ltd<br>https://getrevopos.com/<br>Email: sales@appzinc.biz<br>Tel: +65 6815 5808
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

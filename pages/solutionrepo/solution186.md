@@ -3,6 +3,9 @@ title: Plastic Recycling System
 permalink: /productivity-solutions-grant/solutionrepo/solution186
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The plastics waste recycling system with the provision of automated sorting, friction cleaning, and extrusion technology is able to process polymer streams  (i.e. PET, LDPE , HDPE  or PP ) into high quality recycled plastic compounds such as processed pellets or flakes.
@@ -41,8 +44,5 @@ System must comprise of:
 
 Grant cap: Up to S$151,600 per unit
 
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP - Package 
 permalink: /productivity-solutions-grant/solutionrepo/solution1815
 ---
 
+### Vendor Information
+Web URL: WWW.D-CONNECT.NET <br>Contact Hotline: 8001014209 <br>Contact Email: SALES@D-CONNECT.NET <br>
+
 ### Description
 
 Data Connect Technologies propose FortiGate F-series for CyberSecurity Unified Threat Protection (UTP) solution. It provides a fast and secure SD-WAN solution in a compact fanless desktop form factor for enterprise branch offices and mid-sized businesses to protects against cyber threats with system-on-a-chip acceleration and industry-leading secure SD-WAN in a simple, affordable, and easy to deploy solution.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: WWW.D-CONNECT.NET <br>Contact Hotline: 8001014209 <br>Contact Email: SALES@D-CONNECT.NET <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

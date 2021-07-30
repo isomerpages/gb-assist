@@ -3,6 +3,9 @@ title: All Terrain Litter Vacuum (ATLV)
 permalink: /productivity-solutions-grant/solutionrepo/solution14
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The equipment is a ride on, outdoor vacuum system that is able to travel and perform cleaning operations on multiple terrains, climb curbs and navigate slopes. 
@@ -35,8 +38,5 @@ Specifications
 Vehicle must be able to operate in rough terrains such as roads, concrete, turf, mud etc.
 
 Grant cap: Up to S$50,000 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Synergix - 3-in-1 ERP Solution (10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution2206
 ---
 
+### Vendor Information
+Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
+
 ### Description
 
 Synergix Marine & Offshore Solution provides a unique level of integration across all your business units, enabling efficient information sharing for quick management decision making. This improves operational reliability and helps company to avoid expensive mistakes and downtime during any phase of project.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email: marketing@synergixtech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

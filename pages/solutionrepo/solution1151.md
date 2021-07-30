@@ -3,6 +3,9 @@ title: Laser Geometric Alignment System
 permalink: /productivity-solutions-grant/solutionrepo/solution1151
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 In the M&O industry, geometric alignment and measurement are needed in many applications such as shaft alignment, line bore applications, flatness/ straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straightedge or use of dial indicators, which are inaccurate and time consuming.
@@ -37,8 +40,5 @@ The setup consists of one or multiple laser beam emitting units and their detect
 Measuring errors: minimum +/- 1%
 Maintenance cost not supported
 Optional: wireless unit, relevant accessories e.g. fixtures, cables, battery and charger, software, manuals
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

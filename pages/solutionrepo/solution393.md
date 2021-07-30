@@ -3,6 +3,9 @@ title: Planetary or Spiral Mixer
 permalink: /productivity-solutions-grant/solutionrepo/solution393
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Planetary/Spiral mixer are versatile industrial mixing equipment that  can continuously produce large quantities of food products such as bread/cookie dough, cake batter, whipped toppings, icings, meringues and sauces.
@@ -38,8 +41,5 @@ Minimally 2 speed options for Spiral Mixer
 Speeds range from 100 to 500 rpm for smaller mixers (less than 100 litres)
 
 Comes with bowl and minimum 2 out of 3 tools - Mixing paddle, whisk, hook and similar tools. Similar tools will include beater, whip. Safety guard should be supportable
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

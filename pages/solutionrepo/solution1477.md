@@ -3,6 +3,9 @@ title: Flange Facer
 permalink: /productivity-solutions-grant/solutionrepo/solution1477
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The flange facer is a cutting tool which prepares flange faces to ensure they have a perfect seal when assembled. This ensures the integrity of the flange joint for operations. The flange facer is usually pneumatically powered. Time is saved during operation as there can be less rework.
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 Facing diameter must be >1m
 Training costs can be supported
 Maintenance costs not supported
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

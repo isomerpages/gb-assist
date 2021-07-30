@@ -3,6 +3,9 @@ title: SMART TECHNOLOGY FOR FACILITIES MANAGEMENT Version 1.8 - Package A (2 set
 permalink: /productivity-solutions-grant/solutionrepo/solution1035
 ---
 
+### Vendor Information
+Company Name:ADVANCER SMART TECHNOLOGY PTE LTD <br>Web URL: www.advastech.com.sg <br>Contact Hotline: 66653855 <br>Contact Email: support@advancer.sg <br>
+
 ### Description
 
 SMART Toilet System uses the unqiue LoRaWAN communication protocol with a state of the art Ai-based neural network to improve the Service Providers(SP)productivity. In AST, we offers an end-to-end solution to building services Service Buyers and SP. 
@@ -33,8 +36,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Cost in price package does not include optional items and is not indicative of actual project cost.
-
-### Contact Information
-Company Name:ADVANCER SMART TECHNOLOGY PTE LTD <br>Web URL: www.advastech.com.sg <br>Contact Hotline: 66653855 <br>Contact Email: support@advancer.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Redoc Version 1.0 - Package 4 (Up to 30 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1824
 ---
 
+### Vendor Information
+Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: psg@realestatedoc.co<br>
+
 ### Description
 
 Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document management platform. Fully automate your sales process and close deals faster with a complete digital workflow. Manage your documents and inventory flexibly. Get real-time data insights on the performance of your business. Increase your business flow by up to 43% through digital automation and experience a business turnaround time reduction by up to 80% with Redoc (redoc.co)!
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.realestatedoc.co <br>Contact Hotline: 91801197 <br>Contact Email: psg@realestatedoc.co<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

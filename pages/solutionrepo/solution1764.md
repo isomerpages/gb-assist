@@ -3,6 +3,9 @@ title: XERO - Accounting Consultancy-Standard Full Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1764
 ---
 
+### Vendor Information
+Web URL: www.accountingconsultancy.com<br>Contact Hotline: 6388 8378<br>Contact Email: enquiry@accountingconsultancy.com
+
 ### Description
 
 Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.accountingconsultancy.com<br>Contact Hotline: 6388 8378<br>Contact Email: enquiry@accountingconsultancy.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

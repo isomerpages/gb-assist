@@ -3,6 +3,9 @@ title: TessaCloud DMS Version DMS - Package C Up to 20 users
 permalink: /productivity-solutions-grant/solutionrepo/solution866
 ---
 
+### Vendor Information
+Tessaract Technologies Private Limited<br>https://tessaract.io/<br>Email: sales@tessaract.io<br>Tel: +65 9009 0570
+
 ### Description
 
 TessaCloud DMS is a Document Management System that combines the best features of a cloud drive with the ease of quick uploading and downloading of files. Built-in Optical Character Recognition (OCR) and Enterprise Search functionalities are included for quick and accurate retrieval of documents and precedents. Besides, it can automatically sort folders and link them to their respective matters. Email synchronization is also available and attachments will be saved in the system. 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Tessaract Technologies Private Limited<br>https://tessaract.io/<br>Email: sales@tessaract.io<br>Tel: +65 9009 0570
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

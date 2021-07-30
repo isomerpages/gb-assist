@@ -3,6 +3,9 @@ title: W.R.I.S.T Version 2 - W.R.I.S.T Premium (Leasing of Sensors)
 permalink: /productivity-solutions-grant/solutionrepo/solution1044
 ---
 
+### Vendor Information
+Company Name:Sensorla Pte Ltd <br>Web URL: https://www.sensorla.co/#Products <br>Contact Hotline: 6974 7883<br>Contact Email: contactus@sensorla.co 
+
 ### Description
 
 Sensorla provides an artificial intelligence workforce management system, that is activated by sensors and wearables, to optimise the workforce in the areas of Facilities Management and Environmental Services. It is a platform for the labour-intensive industries such as cleaning, security and hospitality. Through industrial Internet of Things (IIoT), Sensorla introduces devices, technologies, processes to improve productivity of these companies, helping them to save time and manpower effort.
@@ -32,8 +35,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Cost in price package does not include optional items and is not indicative of actual project cost.
-
-### Contact Information
-Company Name:Sensorla Pte Ltd <br>Web URL: https://www.sensorla.co/#Products <br>Contact Hotline: 6974 7883<br>Contact Email: contactus@sensorla.co 
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

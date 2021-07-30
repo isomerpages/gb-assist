@@ -3,6 +3,9 @@ title: OpensoftHR Version 2019 - Package D (150 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution684
 ---
 
+### Vendor Information
+Opensoft Pte. Ltd.<br>http://www.opensofthr.com<br>Email: sales@opensofthr.com<br>Tel: +65 6346 1511
+
 ### Description
 
 OpensoftHR is a comprehensive HRM solution that is designed to reduce time consuming administrative work and improve HR efficiency for SMEs.
@@ -37,8 +40,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Opensoft Pte. Ltd.<br>http://www.opensofthr.com<br>Email: sales@opensofthr.com<br>Tel: +65 6346 1511
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

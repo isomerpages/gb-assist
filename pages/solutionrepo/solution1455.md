@@ -3,6 +3,9 @@ title: Octopus Retail Solution-Package B (Multi Terminal)
 permalink: /productivity-solutions-grant/solutionrepo/solution1455
 ---
 
+### Vendor Information
+Web URL: https://octopuspos.com/ <br>Contact Hotline: 62216601 <br>Contact Email: solutions@octopuspos.com <br>
+
 ### Description
 
 Octopus Retail Point-of-Sale (POS) is a complete suites of innovative and easy-to-use retail management solutions, designed to help businesses be smarter and more personal. 
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://octopuspos.com/ <br>Contact Hotline: 62216601 <br>Contact Email: solutions@octopuspos.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: High pressure industrial vacuum cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution2081
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. Time and manpower reliance can be reduced.
@@ -37,8 +40,5 @@ N.A. for non-SMEs
 - Maintenance costs not supported
 
 Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

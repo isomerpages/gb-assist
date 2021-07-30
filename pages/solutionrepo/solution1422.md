@@ -3,6 +3,9 @@ title: Freight Master Version 8.1 (5 Licenses)
 permalink: /productivity-solutions-grant/solutionrepo/solution1422
 ---
 
+### Vendor Information
+Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
+
 ### Description
 
 The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of four core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low cost solution, thereby providing a more level playing field for the SMEs.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email: pflam@innosys.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

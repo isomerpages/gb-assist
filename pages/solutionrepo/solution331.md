@@ -3,6 +3,9 @@ title: CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Mu
 permalink: /productivity-solutions-grant/solutionrepo/solution331
 ---
 
+### Vendor Information
+Ctrl Alt Del Pte Ltd<br>www.cad.sg<br>Email: business@cad.sg<br>Tel: +65 9859 7714
+
 ### Description
 
 Cadstudio is a comprehensive enterprise resource planning (ERP) software made up of an integrated suite of business modules, including customer relationship management (CRM), e-commerce, accounting, billing, inventory management, project management, warehouse management, financial management, manufacturing and purchasing. These modules aim to achieve efficiency for enterprise by establishing seamless communication with each other.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Ctrl Alt Del Pte Ltd<br>www.cad.sg<br>Email: business@cad.sg<br>Tel: +65 9859 7714
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

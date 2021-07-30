@@ -3,6 +3,9 @@ title: VEON@Experience Version 1.0 - Package A (VEON Basic (no hardware))
 permalink: /productivity-solutions-grant/solutionrepo/solution430
 ---
 
+### Vendor Information
+Gamurai Pte Ltd<br>www.gamuraitech.com<br>Email: veon@gamuraitech.com<br>Tel: +65 9761 9340
+
 ### Description
 
 VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. 
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Gamurai Pte Ltd<br>www.gamuraitech.com<br>Email: veon@gamuraitech.com<br>Tel: +65 9761 9340
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

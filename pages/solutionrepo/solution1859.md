@@ -3,6 +3,9 @@ title: NetSuite - SuiteSuccess Starter with Implementation
 permalink: /productivity-solutions-grant/solutionrepo/solution1859
 ---
 
+### Vendor Information
+Web URL: www.netsuite.com.sg <br>Contact Hotline: +6562631300 <br>Contact Email: infoAPAC@netsuite.com <br>
+
 ### Description
 
 For more than 20 years, Oracle NetSuite has helped organizations grow, scale and adapt to change. NetSuite provides a suite of cloud-based applications, which includes financials / Enterprise Resource Planning (ERP), inventory management, HR, professional services automation and omnichannel commerce, used by more than 22,000 customers in 203 countries and dependent territories.
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.netsuite.com.sg <br>Contact Hotline: +6562631300 <br>Contact Email: infoAPAC@netsuite.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

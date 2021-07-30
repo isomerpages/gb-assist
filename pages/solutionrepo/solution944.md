@@ -3,6 +3,9 @@ title: KYBIO Version 3.0.9.3 - Package (Basic + Multi Software)
 permalink: /productivity-solutions-grant/solutionrepo/solution944
 ---
 
+### Vendor Information
+Company Name:Weebo Pte Ltd <br>Web URL: https://www.weebo.com.sg/shop/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg <br>
+
 ### Description
 
 Cloud-Based POS System with product management, inventory management, promotion management and sales analytics module. Designed for Retail, F&B, QSR chains and the Service line.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Weebo Pte Ltd <br>Web URL: https://www.weebo.com.sg/shop/ <br>Contact Hotline: 68505177 <br>Contact Email: admin@weebo.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Dining Butler system - Dining Butler API
 permalink: /productivity-solutions-grant/solutionrepo/solution1003
 ---
 
+### Vendor Information
+Company Name:Singapore Dining Butler Pte Ltd <br>Web URL: diningbutler.com <br>Contact Hotline: 63392800 <br>Contact Email: enquiry@diningbutler.com <br>
+
 ### Description
 
 Dining Butler provides an end to end solution for F&B that covers the following modules
@@ -40,8 +43,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Singapore Dining Butler Pte Ltd <br>Web URL: diningbutler.com <br>Contact Hotline: 63392800 <br>Contact Email: enquiry@diningbutler.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2225
 ---
 
+### Vendor Information
+Web URL: www.tischglobal.com <br>Contact Hotline: 89212060 <br>Contact Email: matthew@tischglobal.com <br>
+
 ### Description
 
 Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accounting solution to help your business with accurate accounting, reconciliation and invoice management. Access your accounts in real-time, anytime and anywhere with our market-leading professional suite of solutions.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.tischglobal.com <br>Contact Hotline: 89212060 <br>Contact Email: matthew@tischglobal.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

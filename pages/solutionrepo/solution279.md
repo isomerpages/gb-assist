@@ -3,6 +3,9 @@ title: Electric pallet transporter/stacker
 permalink: /productivity-solutions-grant/solutionrepo/solution279
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Pallet with load capacity ranging from 1.2 ton to 2.5 ton, that is able to transport or stack the pallets, with only one operator.
@@ -34,8 +37,5 @@ Up to 80% for non-SMEs
 Specifications
 Only applicable for licensed cleaning, waste management and pest management companies
 Grant cap: Up to S$16,000 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Liquid Filling Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2080
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Semi-automated or automated filling machine replaces manual filling of liquid into drums/pallet IBC, tin cans or carboy. Machine can be customised to fit the unit requirement e.g. standard 200L/120L drum or 1L/3L tin/jerry cans.
@@ -42,8 +45,5 @@ N.A. for non-SMEs
 - Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
 
 Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

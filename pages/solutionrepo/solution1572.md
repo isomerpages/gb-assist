@@ -3,6 +3,9 @@ title: iMakan - F&B Full Digitalisation with Analytics
 permalink: /productivity-solutions-grant/solutionrepo/solution1572
 ---
 
+### Vendor Information
+Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
+
 ### Description
 
 iMakan is best for merchants who are looking for a cost- effective transformation in customer ordering process. A complete set of digital tools: in-store QR ordering, online ordering for self-pickup/delivery, eMenu and kiosk. With a clean UI to achieve high speed order input, iMakan presents an effective up-sell automation that helps F&B realize potential revenue faster. 
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.megapos.com.sg <br>Contact Hotline: 62245788 <br>Contact Email: sales@megasafe.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

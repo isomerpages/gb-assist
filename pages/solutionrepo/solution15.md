@@ -3,6 +3,9 @@ title: Anti-Stain Vortex Flushing Water Closet System
 permalink: /productivity-solutions-grant/solutionrepo/solution15
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Equipment must be rimless in design with a coating finishing built into the base material that prevents the build-up of mould, waste and dirt resistant without the need to use aggressive cleaners. Solution must be fitted with vortex like 360 degree flushing that cleans every spot minimising the use of cleaning efforts. Solution must be deployed in either commercial or industrial premises.
@@ -32,8 +35,5 @@ Up to 30% for non-SMEs
 
 ### Things to Note
 Grant cap: Up to S$300 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

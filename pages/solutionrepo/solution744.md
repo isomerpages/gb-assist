@@ -3,6 +3,9 @@ title: REACH MOIBOO Version 1.8 - Plan A
 permalink: /productivity-solutions-grant/solutionrepo/solution744
 ---
 
+### Vendor Information
+Company Name:REACH PROCESS OUTSOURCING PTE. LTD. <br>Web URL: www.moiboo.com <br>Contact Hotline: 98951817 <br>Contact Email: babu@moiboo.com <br>
+
 ### Description
 
 Moiboo is an automobile business software which helps auto workshops, auto dealers, auto rentals, auto spare parts business and Transporter to automate the entire business end to end
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:REACH PROCESS OUTSOURCING PTE. LTD. <br>Web URL: www.moiboo.com <br>Contact Hotline: 98951817 <br>Contact Email: babu@moiboo.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

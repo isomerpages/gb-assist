@@ -3,6 +3,9 @@ title: AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 12 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution487
 ---
 
+### Vendor Information
+Company Name:Ingenious Business Software Pte Ltd <br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
+
 ### Description
 
 Characterized by its easy-to-use, fast operated speed, complete business logic coverage, and accurate information provided; AutoCount system stands out as one of the best accounting software for today business requirements. With minimal of accounting knowledge, user can start using AutoCount system.With its advanced technology such as Microsoft .Net Framework, SQL Server 2012,AutoCount system able to operate in ultra-fast speed and provides strong and stable database for every type of business.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Ingenious Business Software Pte Ltd <br>Web URL: https://www.ingenious.sg/pre-approved-digital-solutions/ <br>Contact Hotline: 62234385 <br>Contact Email: enquiry@ingenious.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

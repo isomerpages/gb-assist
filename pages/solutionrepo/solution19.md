@@ -3,6 +3,9 @@ title: Automated Rice Dispenser
 permalink: /productivity-solutions-grant/solutionrepo/solution19
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The automated rice dispenser stores cooked rice is kept warm in a tub. The rice is then automatically dispensed in pre-set quantities 
@@ -38,8 +41,5 @@ N.A. for non-SMEs
 Additional criteria:
 - Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 - The purchase of pre-owned/used equipment is not supportable.
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

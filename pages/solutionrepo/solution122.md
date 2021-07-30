@@ -3,6 +3,9 @@ title: Side-loader waste collection system
 permalink: /productivity-solutions-grant/solutionrepo/solution122
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The side loader system, which comprises of a side loading compactor body mounted onto a vehicle chassis and the use of compatible collection bins, allows the driver to remotely operate the collection process in the cabin. The collection vehicle must be fitted with an on board camera system for ease of visibility of remote side loading operation and safety, a tonnage monitoring system for the tracking of tonnage of waste/recyclables collected in each premises.
@@ -39,8 +42,5 @@ Specifications
 
 Grant cap: Up to S$199,900 per unit
 
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

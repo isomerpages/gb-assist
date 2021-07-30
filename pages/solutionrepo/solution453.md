@@ -3,6 +3,9 @@ title: HReasily Version 5 - Package (Premium 50 employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution453
 ---
 
+### Vendor Information
+HR Easily Pte Ltd<br>https://www.hreasily.com/<br>Email: sharon@hreasily.com<br>Tel: +65 6438 3190
+
 ### Description
 
 HReasily is a cloud-based HR solution that provides end to end employee data collection and automated payroll processing, localized payroll with direct upload to CPF Board and local banks, leave management, expense and claim management, staff management, face recognition clocking system and performance appraisal management.  
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-HR Easily Pte Ltd<br>https://www.hreasily.com/<br>Email: sharon@hreasily.com<br>Tel: +65 6438 3190
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

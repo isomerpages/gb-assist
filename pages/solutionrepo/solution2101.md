@@ -3,6 +3,9 @@ title: Xero Accounting Software - PREMIUM 3
 permalink: /productivity-solutions-grant/solutionrepo/solution2101
 ---
 
+### Vendor Information
+Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62211768 <br>Contact Email: APSmarketing@aura.co <br>
+
 ### Description
 
 Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62211768 <br>Contact Email: APSmarketing@aura.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

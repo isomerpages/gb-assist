@@ -3,6 +3,9 @@ title: Xero Cloud Accounting Software - Premium Package - Software & Setup
 permalink: /productivity-solutions-grant/solutionrepo/solution2194
 ---
 
+### Vendor Information
+Web URL: https://www.thesgservice.com/sg-accounting-firm <br>Contact Hotline: 93891853 <br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br>
+
 ### Description
 
 Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
-
-### Contact Information
-Web URL: https://www.thesgservice.com/sg-accounting-firm <br>Contact Hotline: 93891853 <br>Contact Email: ENQUIRY@YMCACCOUNTING.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Sof
 permalink: /productivity-solutions-grant/solutionrepo/solution2004
 ---
 
+### Vendor Information
+Web URL: www.onethird.co <br>Contact Hotline: 96497552 <br>Contact Email: hello@onethird.co <br>
+
 ### Description
 
 Armfort VMS is an integrated solution that will assist you to effectively authenticate and pro-actively monitor the people coming in and out of the premises on a daily basis, as there is no foresee with absolute certainty where the visitors will go and whether they have any malicious intent.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.onethird.co <br>Contact Hotline: 96497552 <br>Contact Email: hello@onethird.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

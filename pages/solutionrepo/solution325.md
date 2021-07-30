@@ -3,6 +3,9 @@ title: Creative Eshop - Package (Premium)
 permalink: /productivity-solutions-grant/solutionrepo/solution325
 ---
 
+### Vendor Information
+Company Name: Creative eWorld Pte Ltd<br>Web URL: www.creaworld.com.sg<br>Contact Hotline: 6392 2857<br>Contact Email: enquiry@creaworld.com.sg
+
 ### Description
 
 Creative eShop is e-commerce platform which enable users to manage their online content, business transaction, marketing outreach to potential customers with optimal shopping experience. Equipped with a user friendly interface, user can easily utilise the platform without much IT knowledge.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: Creative eWorld Pte Ltd<br>Web URL: www.creaworld.com.sg<br>Contact Hotline: 6392 2857<br>Contact Email: enquiry@creaworld.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

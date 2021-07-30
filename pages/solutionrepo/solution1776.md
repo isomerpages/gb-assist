@@ -3,6 +3,9 @@ title: SAP BUSINESS ONE V10 - 5 Perpetual users Hana on Cloud
 permalink: /productivity-solutions-grant/solutionrepo/solution1776
 ---
 
+### Vendor Information
+Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg <br>
+
 ### Description
 
 SAP Business One is an integrated business management application. It offers a complete set of core functions, including financials, customer relationship management, inventory management, sales, purchasing, operations, and logistics, which address the business management needs of your entire company. It helps businesses like yours manage the entire process of selling and servicing clients, and once orders are taken, they flow directly into automated fulfillment.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales@twm.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

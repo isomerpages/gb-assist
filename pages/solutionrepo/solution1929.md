@@ -3,6 +3,9 @@ title: Weighing System - Baron Weighing System - Package (Baron Static Load Cell
 permalink: /productivity-solutions-grant/solutionrepo/solution1929
 ---
 
+### Vendor Information
+Web URL: https://benghock.com.sg/product/weighing-system-baron/ <br>Contact Hotline: 66863886 <br>Contact Email: enquiry@benghock.com.sg <br>
+
 ### Description
 
 Baron Weighing System can be used in both hardware and software. In hardware, the workers can directly view the weight of the bin lifter or chassis on the on-board screen. In software, the company management software can record and track the weight measure in real-time and generate reports
@@ -32,8 +35,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Only applicable for licensed cleaning, waste management and pest management companies
-
-### Contact Information
-Web URL: https://benghock.com.sg/product/weighing-system-baron/ <br>Contact Hotline: 66863886 <br>Contact Email: enquiry@benghock.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

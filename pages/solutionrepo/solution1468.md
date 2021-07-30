@@ -3,6 +3,9 @@ title: Automotive Tracking System-Package E (60 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1468
 ---
 
+### Vendor Information
+Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg <br>
+
 ### Description
 
 Track 365 Automotive Tracking System is a cloud based telematics solution. Due to the dynamic and scalability of our software, we are able to integrate more than 100 different brands of GPS trackers available in the market with our software. The benefits of being able to use different types of hardware enable us to offer more choices to our customers and also enable us to select the most suitable application for the customers based on their requirements and budgets.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: sales@track365.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Battery pack vacuum cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution36
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Cordless vacuum cleaner with battery pack in carrying frame (i.e. back pack) for cleaning work in the confined spaces. The equipment should enable continuous cleaning of floors/carpets for at least 30 mins per full charge.
@@ -37,8 +40,5 @@ Specifications
 - Battery pack with carrying frame
 
 Grant cap: Up to S$700 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

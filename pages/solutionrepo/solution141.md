@@ -3,6 +3,9 @@ title: ABSS Premier Version 23.0 - Package A (Single User Licence full package)
 permalink: /productivity-solutions-grant/solutionrepo/solution141
 ---
 
+### Vendor Information
+Andre Corporate Pte Ltd<br>https://www.andrecorpl.com/psg-for-abss-premier-software/<br>Email: consultants@andre.com.sg<br>Tel: +65 9225 8858 / +65 6396 0663
+
 ### Description
 
 ABSS premier is an on-premise full fledge and integrated accounting, sales, inventory and multiple-currency management solution.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Andre Corporate Pte Ltd<br>https://www.andrecorpl.com/psg-for-abss-premier-software/<br>Email: consultants@andre.com.sg<br>Tel: +65 9225 8858 / +65 6396 0663
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

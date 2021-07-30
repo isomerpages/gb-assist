@@ -3,6 +3,9 @@ title: OpenCart E-Commerce Website Deployment - eCommerce Enterprise
 permalink: /productivity-solutions-grant/solutionrepo/solution1452
 ---
 
+### Vendor Information
+Web URL: www.equotix.com/web-development <br>Contact Hotline: 68022697 <br>Contact Email: contact@equotix.com <br>
+
 ### Description
 
 OpenCart is the world's top three open source e-commerce software. It has everything needed to create, scale and run a business. Equotix is OpenCart's sole partner based in Singapore. Equotix assist companies in customising and deploying their own OpenCart e-commerce website on the cloud. It is simple to use and cost friendly to businesses.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.equotix.com/web-development <br>Contact Hotline: 68022697 <br>Contact Email: contact@equotix.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

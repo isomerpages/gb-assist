@@ -3,6 +3,9 @@ title: Autocount Accounting 2.0 - Package (Premium - 5 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1792
 ---
 
+### Vendor Information
+Company Name: Creative eWorld Pte Ltd<br>Web URL: www.creaworld.com.sg<br>Contact Hotline: 6392 2857 <br>Contact Email: enquiry@creaworld.com.sg<br><br>
+
 ### Description
 
 Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledge of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: Creative eWorld Pte Ltd<br>Web URL: www.creaworld.com.sg<br>Contact Hotline: 6392 2857 <br>Contact Email: enquiry@creaworld.com.sg<br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

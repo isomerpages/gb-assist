@@ -3,6 +3,9 @@ title: Frontier e-HR Version 8 - AutomateHR eFrontierPlus 100
 permalink: /productivity-solutions-grant/solutionrepo/solution414
 ---
 
+### Vendor Information
+Frontier e-HR Pte Ltd<br>https://www.frontier-ehr.com/<br>Email: enquiry@frontier-ehr.com<br>Tel: +65 6391 0921
+
 ### Description
 
 Frontier e-HR is a user friendly cloud based Human Resource Management System ( HRMS ) with robust functionality, scalable architecture and seamless integration between each module. The system enhances the users experience through an intuitive, simple and effective user interface. Through a single application, single database deployment, users are empowered to perform self-service functions with Frontier e-HR  anytime, anywhere.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Frontier e-HR Pte Ltd<br>https://www.frontier-ehr.com/<br>Email: enquiry@frontier-ehr.com<br>Tel: +65 6391 0921
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

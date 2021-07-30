@@ -3,6 +3,9 @@ title: Vehicle Service System - Basic VSS Package
 permalink: /productivity-solutions-grant/solutionrepo/solution1266
 ---
 
+### Vendor Information
+Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
+
 ### Description
 
 VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning systems, GSM Communication network and expertise in developing and integrating solutions for Vehicle Tracking System, Road Safety and Driver Behavior Management systems, In-vehicle Mobile DVRs that stream live location with video and much more.
@@ -32,8 +35,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Only applicable for licensed cleaning, waste management and pest management companies
-
-### Contact Information
-Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Hotline: 63841151 <br>Contact Email: enquiry@gridplus.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

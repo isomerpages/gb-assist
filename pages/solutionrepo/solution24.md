@@ -3,6 +3,9 @@ title: Autonomous Material Transportation Robot
 permalink: /productivity-solutions-grant/solutionrepo/solution24
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The Autonomous Material Transportation Robot carries out repetitive handling processes such as the transportation of warehouse cargo and pallet independently and reliably within warehouse and manufacturing environment.
@@ -47,8 +50,5 @@ Equipment must meet the following specifications:
 - Equipped with a rechargeable battery
 - Installation and maintenance cost are not supported
 - [Optional] Accessories e.g. towing arm, mountable shelf
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

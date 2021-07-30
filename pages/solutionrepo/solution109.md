@@ -3,6 +3,9 @@ title: Rotary Wok Fryer
 permalink: /productivity-solutions-grant/solutionrepo/solution109
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 Automatic cleaning
 -Time and heating presetting function. Eg. 15 minutes cooking time, like a microwave
 
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

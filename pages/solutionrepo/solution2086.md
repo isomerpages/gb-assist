@@ -3,6 +3,9 @@ title: Accounts101 - Xero Cloud Accounting Software - Package C(Premium w/ Fixed
 permalink: /productivity-solutions-grant/solutionrepo/solution2086
 ---
 
+### Vendor Information
+Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 67219545<br>Contact Email: XERO@CFOSG.SG
+
 ### Description
 
 Xero offers a cloud-based accounting software platform for small and medium-sized businesses. Its key features include automatic bank feeds, invoicing, accounts payable, expense claims, fixed asset depreciation, purchase orders, bank reconciliations, and standard business and management reporting. Xero has more than 200 secure connections with banks and financial service partners around the world.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Contact Hotline: 67219545<br>Contact Email: XERO@CFOSG.SG
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

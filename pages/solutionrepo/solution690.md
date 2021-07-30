@@ -3,6 +3,9 @@ title: Moneyworks Version 8 - Datacentre (3 users with Zoho CRM integration)
 permalink: /productivity-solutions-grant/solutionrepo/solution690
 ---
 
+### Vendor Information
+Ostendo Pte Ltd<br>www.ostendoasia.com<br>Email: info.sg@ostendoasia.com<br>Tel: +65 6850 5150
+
 ### Description
 
 Moneyworks by Cognito Software provides a powerful, feature rich platform that unlocks company's accounting data to help run a better business. MoneyWorks is fully supported, regularly updated and flexible enough to fit within workflow and integrate with your existing business software. MoneyWorks is an accounting and ERP software that has versions for Mac & PC, as well as a cloud-based platform. It offers solutions for general ledger, invoicing, inventory management, and sales management.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Ostendo Pte Ltd<br>www.ostendoasia.com<br>Email: info.sg@ostendoasia.com<br>Tel: +65 6850 5150
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

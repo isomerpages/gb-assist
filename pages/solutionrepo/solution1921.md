@@ -3,6 +3,9 @@ title: Zoho CRM - Zoho CRM - STANDARD edition, 5 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1921
 ---
 
+### Vendor Information
+Web URL: www.zoho.com <br>Contact Hotline: 67231040<br>Contact Email: sales@zohocorp.com<br>
+
 ### Description
 
 Build everlasting customer relationships with the world's favorite CRM. Zoho CRM empowers a global network of over 150,000 businesses in 180 countries to convert more leads, engage with customers, and grow their revenue. Transform your business with the world's favorite customer relationship management software.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.zoho.com <br>Contact Hotline: 67231040<br>Contact Email: sales@zohocorp.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

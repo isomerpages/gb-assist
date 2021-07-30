@@ -3,6 +3,9 @@ title: VersaFleet Transport Management Software (TMS) Version 7-ES - Titanium
 permalink: /productivity-solutions-grant/solutionrepo/solution1948
 ---
 
+### Vendor Information
+Web URL: https://www.channelnewsasia.com/news/brandstudio/start-digital-uld-12072200 <br>Contact Hotline: 69965309 <br>Contact Email: hello@versafleet.co <br>
+
 ### Description
 
 VersaFleet Transport Management Software (TMS) automates your logistics processes for your wholesale and distribution operations. 
@@ -34,8 +37,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Only applicable for licensed cleaning, waste management and pest management companies
-
-### Contact Information
-Web URL: https://www.channelnewsasia.com/news/brandstudio/start-digital-uld-12072200 <br>Contact Hotline: 69965309 <br>Contact Email: hello@versafleet.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

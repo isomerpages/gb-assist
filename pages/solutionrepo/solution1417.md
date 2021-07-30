@@ -3,6 +3,9 @@ title: GenicDocs - Document Management Software-Package A
 permalink: /productivity-solutions-grant/solutionrepo/solution1417
 ---
 
+### Vendor Information
+Web URL: https://www.bthrust.com/document-management-software.html<br>Contact Hotline: 68343026 <br>Contact Email: sales@bthrust.com <br>
+
 ### Description
 
 GenicDocs is a very user-friendly interface and secured Document Management Software designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. GenicDocs is suitable for any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.bthrust.com/document-management-software.html<br>Contact Hotline: 68343026 <br>Contact Email: sales@bthrust.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

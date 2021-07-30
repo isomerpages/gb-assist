@@ -3,6 +3,9 @@ title: STUDIO MANAGER Version 7 - Package A (Standard)
 permalink: /productivity-solutions-grant/solutionrepo/solution171
 ---
 
+### Vendor Information
+Archer Logic (S) Pte Ltd<br>https://www.archerlogic.com/studio-manager/<br>Email: sales_marketing@archerlogic.com<br>Tel: +65 6785 9007
+
 ### Description
 
 Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. The software evolved since 2002 has targeted beauty operators like spa, aesthetic clinic and salons. It is a proven solution for small to large chains in malls.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Archer Logic (S) Pte Ltd<br>https://www.archerlogic.com/studio-manager/<br>Email: sales_marketing@archerlogic.com<br>Tel: +65 6785 9007
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

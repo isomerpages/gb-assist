@@ -3,6 +3,9 @@ title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IG
 permalink: /productivity-solutions-grant/solutionrepo/solution1990
 ---
 
+### Vendor Information
+Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
+
 ### Description
 
 Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/ <br>Contact Hotline: 62960802 <br>Contact Email: alan.chua@concorde.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

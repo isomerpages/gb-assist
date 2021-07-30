@@ -3,6 +3,9 @@ title: Job Redesign Consultancy - CET Global Pte Ltd
 permalink: /productivity-solutions-grant/solutionrepo/solution1735
 ---
 
+### Vendor Information
+Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Email: Ms Berenice Choong (Berenice.choong@cetglobal.com.sg)<br>Contact Number: 69291564 (Mobile: 9106 0005)
+
 ### Description
 
 CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process and Performance. We enable Enterprise and People Management and Development; conduct Analytics and Profiling Assessment; and design and develop customise Training programmes for our Clients. Our Job Redesign supports business transformation to Create Value for Businesses, Jobs, and Employees.
@@ -36,7 +39,4 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Additional criteria: All participating companies must have at least three local employees at the point of application
-
-### Contact Information
-Company Name: CET Global Pte Ltd<br>Web URL: www.cetglobal.com.sg <br>Contact Email: Ms Berenice Choong (Berenice.choong@cetglobal.com.sg)<br>Contact Number: 69291564 (Mobile: 9106 0005)
 

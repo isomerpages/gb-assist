@@ -3,6 +3,9 @@ title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Pack
 permalink: /productivity-solutions-grant/solutionrepo/solution104
 ---
 
+### Vendor Information
+Advanced Micro Control Pte Ltd<br>http://www.amc.com.sg<br>Email: Sales@amc.com.sg<br>Tel: +65 6589 8818
+
 ### Description
 
 MoneyWorks was built from the ground up for the needs of business, finance and accounting professionals. A powerful, feature rich platform that unlocks your company's accounting data to help you run a better business. With Integration, Moneyworks connects to your POS, E-commerce and third party solutions to keep your accounting solutions lean yet scalable.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Advanced Micro Control Pte Ltd<br>http://www.amc.com.sg<br>Email: Sales@amc.com.sg<br>Tel: +65 6589 8818
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

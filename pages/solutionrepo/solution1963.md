@@ -3,6 +3,9 @@ title: FoodZaps Version 4.0-Package C (Customer QR/Online Self Ordering)
 permalink: /productivity-solutions-grant/solutionrepo/solution1963
 ---
 
+### Vendor Information
+Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 91606815 <br>Contact Email: sales@foodzaps.com <br>
+
 ### Description
 
 FoodZaps Technology is a Singapore company with the most comprehensive and integrated F&B system. Streamlines Customer Self-ordering, for Both online and on-premise, dine-in, takeaway and delivery, all integrated to FoodZaps. Includes cashier, ewaiter, payment processes and optimises operations, orders sent to the kitchen, cloud analytics portal providing insights on sales and product performance. Designed to increase productivity and build successful F&B business.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:FoodZaps Technology Pte Ltd <br>Web URL: http://foodzaps.com/sg <br>Contact Hotline: 91606815 <br>Contact Email: sales@foodzaps.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

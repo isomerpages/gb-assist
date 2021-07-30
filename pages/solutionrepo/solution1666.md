@@ -3,6 +3,9 @@ title: TimeCentral Version 11 - TimeCentral 30
 permalink: /productivity-solutions-grant/solutionrepo/solution1666
 ---
 
+### Vendor Information
+Web URL: www.smepayroll.com <br>Contact Hotline: 68372336 <br>Contact Email: business@smepayroll.com <br>
+
 ### Description
 
 TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data. Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.smepayroll.com <br>Contact Hotline: 68372336 <br>Contact Email: business@smepayroll.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

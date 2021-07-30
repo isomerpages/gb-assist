@@ -3,6 +3,9 @@ title: Standalone Automated Industrial Utensil Washer
 permalink: /productivity-solutions-grant/solutionrepo/solution391
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Automated standalone washer for pots, trays and utensils that replaces manual dishawashing. 
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 Automated washing that only requires loading, no need for handwashing. 
 Wash tank capacity of at least 15 litres.
 Does not include accessories
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

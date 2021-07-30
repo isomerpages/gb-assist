@@ -3,6 +3,9 @@ title: Automatic Flange Spreader
 permalink: /productivity-solutions-grant/solutionrepo/solution1480
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
@@ -36,8 +39,5 @@ Must be certified intrinsically safe (e.g. ATEX certified)
 It can be powered by a hydraulic/electric source
 Training costs can be supported
 Maintenance costs not supported
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Quickbooks Online - Aba QuickBooks Online Accounting Solution - Essential
 permalink: /productivity-solutions-grant/solutionrepo/solution1016
 ---
 
+### Vendor Information
+Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg <br>
+
 ### Description
 
 As system implementation consultant and accounting firm, we explore and assist clients to digitalise their operation processes from the purchase order, sales quotation, invoices, inventory tracking to accounting and GST reporting using a digital solution like Quickbooks Online. We have encountered SMEs who spent significant time and effort to prepare manual sales invoices, store client database in excel or word documents.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Contact Hotline: 90181833 <br>Contact Email: sales@aba.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

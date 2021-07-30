@@ -3,6 +3,9 @@ title: Portable Automatic Gas Cutting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution90
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Automatic crawling and portable cutting maching using gas/oxy-fuel for straight line cutting of steel plates in workshop or shipyard. As the equipment can be easily attached onto steel plates and be fitted with more than 1 nozzle, only 1 headcount is required to operate and manage the cutting operations. Efficient and accurate straight-line cutting by this equipment reduce time needed for preparation and touch-up work.
@@ -38,8 +41,5 @@ Cutting speed: minimum 110 mm/min
 Adjustable bevel angle
 Maintenance costs not supported
 Optional components: relevant accessories e.g. gas hoses, cables, rail/track
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

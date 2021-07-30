@@ -3,6 +3,9 @@ title: UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - PRO
 permalink: /productivity-solutions-grant/solutionrepo/solution1470
 ---
 
+### Vendor Information
+Web URL: www.unipro.com.sg <br>Contact Hotline: 68443777 <br>Contact Email: aleem@unipro.com.sg <br>
+
 ### Description
 
 Unipro Ecommerce Online store aims to provide SME the opportunity to create an online presence and explore its business in online platform. It helps the SME to create more convenience for their customers to explore the products and services at the convenient time and influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.unipro.com.sg <br>Contact Hotline: 68443777 <br>Contact Email: aleem@unipro.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

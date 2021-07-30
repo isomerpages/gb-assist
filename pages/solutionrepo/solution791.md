@@ -3,6 +3,9 @@ title: Ezyprocure Version 2.0-Package 1
 permalink: /productivity-solutions-grant/solutionrepo/solution791
 ---
 
+### Vendor Information
+Singapore E-business Pte Ltd<br>www.sgebiz.com<br>Email: info@sgebiz.com<br>Tel: +65 6200 8021
+
 ### Description
 
 EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by stream lining their current manual ordering to supply processes. This has significantly improves the organization's productivity and profitability by offering significant time-consuming manual supply chain processes.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Singapore E-business Pte Ltd<br>www.sgebiz.com<br>Email: info@sgebiz.com<br>Tel: +65 6200 8021
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

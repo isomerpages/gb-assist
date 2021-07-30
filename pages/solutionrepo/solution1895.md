@@ -3,6 +3,9 @@ title: arc.ops - Manufacturing Quality Management - Annual Subscription License 
 permalink: /productivity-solutions-grant/solutionrepo/solution1895
 ---
 
+### Vendor Information
+Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
+
 ### Description
 
 With Arcstone's Manufacturing Quality Management solution, manufacturers can gain better control over the quality management processes. The solution delivers end-to-end capabilities to collect quality data, predict abnormalities, trigger alarms allowing them to avoid costly quality issues while eliminating non-compliance at every step.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

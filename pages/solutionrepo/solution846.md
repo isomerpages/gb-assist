@@ -3,6 +3,9 @@ title: SmartKiosk Version 1 - Package (1 Kiosk License W/O HW)
 permalink: /productivity-solutions-grant/solutionrepo/solution846
 ---
 
+### Vendor Information
+Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel: +65 9763 0707
+
 ### Description
 
 TabSquare's SmartKiosk Version1 is a Hybrid Digital Ordering and Payment solution that drives self-ordering, payment and customer engagements which improves customer experience and increase productivity of F&B operators. 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel: +65 9763 0707
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

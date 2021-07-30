@@ -3,6 +3,9 @@ title: Combi system (jetting & vacuum drain cleaning truck)
 permalink: /productivity-solutions-grant/solutionrepo/solution39
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Equipment that is used to carry out high pressured jetting and suction functions during conservancy cleaning such as the cleaning of canals, pipes, drains and/or drop inlet chambers. System must be equipped with storage unit for dispensing of water for cleaning purposes and containment of waste water.
@@ -36,8 +39,5 @@ Specifications
 - Cost of chassis is not supported
 
 Grant cap: Up to S$165,200 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

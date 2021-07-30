@@ -3,6 +3,9 @@ title: Smart mobile/static compactors
 permalink: /productivity-solutions-grant/solutionrepo/solution125
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Waste-handling system integrated with smart features to enable on-demand waste collection. The equipment must minimally be equipped with sensors such as fill-level or weight monitoring system which allows operators and premises owners to monitor and react to its usage, efficiency and fill level to enable on-demand waste collection.
@@ -33,8 +36,5 @@ Up to 80% for non-SMEs
 ### Things to Note
 Grant cap: Up to S$58,600 per unit
 
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

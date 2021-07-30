@@ -3,6 +3,9 @@ title: BlueMeg Console - Package A (50 Entities)
 permalink: /productivity-solutions-grant/solutionrepo/solution2173
 ---
 
+### Vendor Information
+Web URL: www.bluemeg.com <br>Contact Hotline: 69316733 <br>Contact Email: whitelabel@bluemeg.com <br>
+
 ### Description
 
 The BlueMeg Console is a cloud-based entity management and document management software as a service solution. It is a collaborative tool that enables the secure sharing of company information and documents with authorised company stakeholders. The BlueMeg Console enables users to interact and transact digitally, adding a new degree of efficiency, enforcement, and governance - all while decreasing the cost of doing business.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.bluemeg.com <br>Contact Hotline: 69316733 <br>Contact Email: whitelabel@bluemeg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

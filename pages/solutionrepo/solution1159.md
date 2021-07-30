@@ -3,6 +3,9 @@ title: Novade - Package 2 Novade Safety (1 Project, up to 2 years)
 permalink: /productivity-solutions-grant/solutionrepo/solution1159
 ---
 
+### Vendor Information
+Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+
 ### Description
 
 Novade provides an enterprise platform for site operations. Novade leverages mobile technology to streamline site processes, facilitate collaboration and improve productivity. The data captured provides insights to improve operations.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: SourceSage Online Store - Start
 permalink: /productivity-solutions-grant/solutionrepo/solution1726
 ---
 
+### Vendor Information
+Web URL: https://sourcesage.co <br>Contact Hotline: +6591508236 <br>Contact Email: support@sourcesage.co <br>
+
 ### Description
 
 Founded in 2015, SourceSage is an award winning global ecommerce platform which makes it easier for you to scale your business online using your own platform. Till date, we have empowered thousands of SMEs and MNCs across different verticals with brand names including DBS Bank, DHL, Mitsui, PwC etc with their own Online Store or Whitelabeled Ecommerce Platform.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://sourcesage.co <br>Contact Hotline: +6591508236 <br>Contact Email: support@sourcesage.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

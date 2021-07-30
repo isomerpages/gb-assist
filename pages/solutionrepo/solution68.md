@@ -3,6 +3,9 @@ title: SAGE 300Cloud Version 2020 - Distribution A1 - 3 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution68
 ---
 
+### Vendor Information
+ACSOLV CONSULT PTE. LTD.<br>https://www.acsolv.com/<br>Email: acsolv@acsolv.com<br>Tel: +65 6748 9123
+
 ### Description
 
 Sage 300 accounting software is widely used by SMEs businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing and enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-ACSOLV CONSULT PTE. LTD.<br>https://www.acsolv.com/<br>Email: acsolv@acsolv.com<br>Tel: +65 6748 9123
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

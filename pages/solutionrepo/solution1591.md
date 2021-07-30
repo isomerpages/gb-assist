@@ -3,6 +3,9 @@ title: INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN ) - Collaborate P
 permalink: /productivity-solutions-grant/solutionrepo/solution1591
 ---
 
+### Vendor Information
+Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL:https://innocomholding.com/psg-grant/  <br>Contact Hotline: 6603 5438 <br>Contact Email: sales@innocom.com.sg <br>
+
 ### Description
 
 INNOCOM - Autodesk BIM 360
@@ -36,8 +39,5 @@ Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL:https://innocomholding.com/psg-grant/  <br>Contact Hotline: 6603 5438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

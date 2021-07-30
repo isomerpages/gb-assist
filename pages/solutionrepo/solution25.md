@@ -3,6 +3,9 @@ title: Autonomous Mobile Robot
 permalink: /productivity-solutions-grant/solutionrepo/solution25
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The AMR replaces manual labour in the transportation of materials and semi/fully completed products around the factory floor during production process. 
@@ -44,8 +47,5 @@ Connectivity: 2.4 GHz, 5 GHz, 802.11 a/b/g/n/ac wireless, 100 BASE-T Ethernet
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 No change in vendor allowed
 
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

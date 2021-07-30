@@ -3,6 +3,9 @@ title: Autonomous robotic vacuum sweeper /  cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution29
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Equipment is able to sweep and vacuum dirt and dust on both hard floor and carpeted surfaces with no human intervention, for commercial or industrial use.
@@ -37,8 +40,5 @@ Specifications
 - Vacuum bag /dust receiver capacity: at least 4 litres
 
 Grant cap: Up to S$28,400 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

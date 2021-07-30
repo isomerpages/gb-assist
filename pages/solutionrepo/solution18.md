@@ -3,6 +3,9 @@ title: Automated Noodle Maker
 permalink: /productivity-solutions-grant/solutionrepo/solution18
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 An automated noodle maker streamlines noodle-making processes, allowing for fresh noodles (including other noodle types like pasta, udon, soba etc) to be made from the raw ingredients directly and with one compact machine. The machinery is compact enough to be implemented on an outlet-level basis, allowing fresh noodles to be used. 
@@ -42,8 +45,5 @@ Min Specifications:
 Purchase of pre-owned/ used equipment are not supported 
 
 No change in vendor allowed
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

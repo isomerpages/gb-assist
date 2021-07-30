@@ -3,6 +3,9 @@ title: Circular Gas Cutter
 permalink: /productivity-solutions-grant/solutionrepo/solution38
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Automatic rotating and portable cutting machine designed to efficiently and accurately cut-out circle parts on materials such as steel plates using gas/oxy-fuel, during the shipbuilding construction process in M&OE industry workshop or shipyard. The equipment allows reduction in time and manpower needed for preparation and touch-up work during cutting operations. 
@@ -38,8 +41,5 @@ Cutting speed: min 0.2 rpm
 Adjustable bevel angle
 Maintenance costs not supported
 Optional components: relevant accessories e.g.gas hoses, cables
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

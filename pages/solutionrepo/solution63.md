@@ -3,6 +3,9 @@ title: Intuit Quickbooks Online Full Transformation Package-Intuit Quickbooks On
 permalink: /productivity-solutions-grant/solutionrepo/solution63
 ---
 
+### Vendor Information
+Acc Pro (Singapore) Pte. Ltd.<br>www.accprosingapore.com<br>Email: sales@accprosingapore.com<br>Tel: +65 6352 0103
+
 ### Description
 
 Intuit Quickbooks Online is the number one cloud accounting solution for SMEs in the World developed by USD 75 Billion Listed Company, Intuit.  As at June 2020, it has 4.5 million users around the World. It has presence in 100+ countries and 12 languages.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Acc Pro (Singapore) Pte. Ltd.<br>www.accprosingapore.com<br>Email: sales@accprosingapore.com<br>Tel: +65 6352 0103
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

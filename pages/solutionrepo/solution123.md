@@ -3,6 +3,9 @@ title: Smart Baler System
 permalink: /productivity-solutions-grant/solutionrepo/solution123
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The equipment using sensors to detect and compacts materials automatically to facilitate the transportation of the materials. 
@@ -39,8 +42,5 @@ The Smart Baler system must be able to:
 - conveyor feed compatible
 
 Grant cap: Up to S$80,400 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

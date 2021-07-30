@@ -3,6 +3,9 @@ title: Mobile/static refuse bin washing system
 permalink: /productivity-solutions-grant/solutionrepo/solution74
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The system is designed to lift and wash the waste bins automatically with only one man needed to operate the system. 
@@ -38,8 +41,5 @@ The system, comprising key components such as:
 
 
 Grant cap: Up to S$332,000 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

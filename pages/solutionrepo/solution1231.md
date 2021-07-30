@@ -3,6 +3,9 @@ title: Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module
 permalink: /productivity-solutions-grant/solutionrepo/solution1231
 ---
 
+### Vendor Information
+Company Name:Edgeworks Solutions Pte Ltd <br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg <br>
+
 ### Description
 
 EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. 
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Edgeworks Solutions Pte Ltd <br>Web URL: www.edgeworks.com.sg <br>Contact Hotline: 67504498 <br>Contact Email: sales@edgeworks.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

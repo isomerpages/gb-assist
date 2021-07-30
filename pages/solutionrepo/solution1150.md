@@ -3,6 +3,9 @@ title: Battery-Powered Rope Ascender
 permalink: /productivity-solutions-grant/solutionrepo/solution1150
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually. The process is time-consuming and is physically exhausting. 
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 ### Things to Note
 Ascent speed: minimum 1 ft/s
 Maintenance cost not supported
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collec
 permalink: /productivity-solutions-grant/solutionrepo/solution1894
 ---
 
+### Vendor Information
+Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
+
 ### Description
 
 With Arcstone's Equipment Monitoring and Manufacturing Data Collection solution, manufacturers can gain real-time visibility over their entire machines and equipment health allowing them to schedule recurring maintenance frequency and report on machine breakdowns to dispatch repairs. Leveraging the toolset, manufacturers are able to optimize equipment maintenance process remotely and automatically, while eliminating unscheduled production downtime.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

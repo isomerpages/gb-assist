@@ -3,6 +3,9 @@ title: AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( 15.6" Customer Self Ordering
 permalink: /productivity-solutions-grant/solutionrepo/solution987
 ---
 
+### Vendor Information
+Company Name:AZ DIGITAL PTE LTD <br>Web URL: www.azdigital.net <br>Contact Hotline: 67451147 <br>Contact Email: sales@azdigital.net <br>
+
 ### Description
 
 AZ Digital ordering solution provides an up scaling process in engaging customer s dining experience with .........
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:AZ DIGITAL PTE LTD <br>Web URL: www.azdigital.net <br>Contact Hotline: 67451147 <br>Contact Email: sales@azdigital.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

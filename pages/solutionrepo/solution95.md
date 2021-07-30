@@ -3,6 +3,9 @@ title: Probing System
 permalink: /productivity-solutions-grant/solutionrepo/solution95
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 A probing system consists of the following attached to CNC machining center:
@@ -48,8 +51,5 @@ Equipment must meet the following specifications:
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

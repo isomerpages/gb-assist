@@ -3,6 +3,9 @@ title: Times Software HRMS Version 18.0 - Cloud Based Package 5 (up to 200 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution889
 ---
 
+### Vendor Information
+Times Software Pte Ltd<br>https://www.timesoftsg.com.sg/<br>Email: sales@timesoftsg.com.sg<br>Tel: +65 6295 1998
+
 ### Description
 
 TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management. 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Times Software Pte Ltd<br>https://www.timesoftsg.com.sg/<br>Email: sales@timesoftsg.com.sg<br>Tel: +65 6295 1998
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

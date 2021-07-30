@@ -3,6 +3,9 @@ title: Outdoor road sweeper
 permalink: /productivity-solutions-grant/solutionrepo/solution181
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The outdoor road sweeper that is able to provide efficient cleaning of the public roads, site roads, expressways, etc., with only one operator. 
@@ -36,8 +39,5 @@ Specifications
 - Hopper volume (>500L)
 
 Grant cap: Up to S$159,300 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

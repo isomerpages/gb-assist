@@ -3,6 +3,9 @@ title: EndPoint Protection Platform - 25 licenses
 permalink: /productivity-solutions-grant/solutionrepo/solution523
 ---
 
+### Vendor Information
+Juss Solutions Group Pte Ltd<br>www.jussolve.com<br>Email: sales@jussolve.com<br>Tel: +65 6659 1811
+
 ### Description
 
 Bitdefender GZ Advanced Business Security -- Guard against all threats and attack vectors with proven machine learning, behavioural analysis, advanced anti-exploit, continuous monitoring of running processes and risk assessment capabilities. The software blends machine learning and heuristics with signatures and other techniques to offer protection against all types of malware, plus threats such as phishing, ransomware.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Juss Solutions Group Pte Ltd<br>www.jussolve.com<br>Email: sales@jussolve.com<br>Tel: +65 6659 1811
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

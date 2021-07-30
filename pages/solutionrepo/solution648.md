@@ -3,6 +3,9 @@ title: Netiquette Cloud Business Suite - Package C (Saas for 15 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution648
 ---
 
+### Vendor Information
+Netiquette Software Pte Ltd<br>www.netiquette.com.sg<br>Email: enquiry@netiquette.com.sg<br>Tel: +65 6223 1157
+
 ### Description
 
 Netiquette Software is a complete cloud business solution that comprises Accounting, Inventory and Billing, Customer Relationship Management, Payroll modules and Point of Sales System as well as customized cloud solutions for SMEs to manage core key business operations with real time data reports. It has a user-friendly interface with role-specific functionality. 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Netiquette Software Pte Ltd<br>www.netiquette.com.sg<br>Email: enquiry@netiquette.com.sg<br>Tel: +65 6223 1157
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

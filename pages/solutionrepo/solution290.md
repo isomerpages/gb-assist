@@ -3,6 +3,9 @@ title: Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 
 permalink: /productivity-solutions-grant/solutionrepo/solution290
 ---
 
+### Vendor Information
+Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
+
 ### Description
 
 Solution which leverages asset information and behavioral analytics to identify, protect, detect and respond to cyberthreats.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Lumen Technologies<br>Web URL:https://www.lumen.com/en-sg/home.html<br>Contact Hotline:67688000<br>Contact Email: ABCDservice@lumen.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

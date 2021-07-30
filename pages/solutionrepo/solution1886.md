@@ -3,6 +3,9 @@ title: iREP FM - FM (Mobile Inspection) Basic
 permalink: /productivity-solutions-grant/solutionrepo/solution1886
 ---
 
+### Vendor Information
+Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Email: info@gabkotech.com <br>
+
 ### Description
 
 Gabkotech recognises the need for the digital transformation of the Facilities Management industry, and has proposed iREP FM for this transformation.  Components within the iREP FM solution will improve and transform the industry to be future-ready with Smart IOT Built Environment Solutions.  These solutions will improve workflow automation for the Built Environment Industry.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Email: info@gabkotech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

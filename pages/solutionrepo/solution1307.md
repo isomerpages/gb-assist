@@ -3,6 +3,9 @@ title: Cartrack Fleet Management Version 2 - Cartrack Fleet V2 (Package B)
 permalink: /productivity-solutions-grant/solutionrepo/solution1307
 ---
 
+### Vendor Information
+Company Name:Cartrack Technologies South East Asia Pte Ltd <br>Web URL: www.cartrack.sg <br>Contact Hotline: 62554151 <br>Contact Email: info@cartrack.sg <br>
+
 ### Description
 
 Cartrack Fleet offers companies the visibility of their fleet, enabling better control and efficiency management in achieving greater productivity. Cartrack Fleet includes provision of a proven in-house developed platform and installation of advanced telematics devices. Cartrack platform provides our customers with real-time actionable business intelligence, based on advanced technology and reliable data.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Cartrack Technologies South East Asia Pte Ltd <br>Web URL: www.cartrack.sg <br>Contact Hotline: 62554151 <br>Contact Email: info@cartrack.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

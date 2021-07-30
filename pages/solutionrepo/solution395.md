@@ -3,6 +3,9 @@ title: Blast Freezer
 permalink: /productivity-solutions-grant/solutionrepo/solution395
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Blast freezers chill food from cooking temperatures ~70 degrees to about -18 degrees within 240 min. Prevents growth of micro-organisms thereby improving food safety and reduces drip/water loss from freezing.
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum of 10 trays
 Freezer must be able to reach -18?C
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

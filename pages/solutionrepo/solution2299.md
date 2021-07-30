@@ -3,6 +3,9 @@ title: Fooyo Mini Shop Version 2.0-Premium Package
 permalink: /productivity-solutions-grant/solutionrepo/solution2299
 ---
 
+### Vendor Information
+Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg <br>
+
 ### Description
 
 Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps merchants set up digital ordering capability efficiently. It empowers F&B businesses to do QR-based food ordering for dine-in, takeaway and delivery. The solution supports both the web app and the WeChat mini-program, together with various payment methods such as PayNow, Credit Cards, and WeChat Pay.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ <br>Contact Hotline: 97129446 <br>Contact Email: hi@fooyo.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

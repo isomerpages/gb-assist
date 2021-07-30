@@ -3,6 +3,9 @@ title: ACE e-commerce solution - Ace Online Ordering System
 permalink: /productivity-solutions-grant/solutionrepo/solution1305
 ---
 
+### Vendor Information
+Company Name:C.O Enterprise Pte Ltd <br>Web URL: co-enterprise.com.sg <br>Contact Hotline: 97663115 <br>Contact Email: marketing@co-enterprise.com.sg <br>
+
 ### Description
 
 This 6-in-1 platform provides each F&B establishment with their exclusive website at zero commission fees. Our unique solution allows takeaway ordering where customers can choose the pickup timeslot, online ordering for delivery of food integrated with island-wide delivery partners, dine-in ordering using QR code, integration with kitchen for food preparation, tracking of sales by outlets and customers, and targeted marketing such as discount codes and up-sell functions!
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:C.O Enterprise Pte Ltd <br>Web URL: co-enterprise.com.sg <br>Contact Hotline: 97663115 <br>Contact Email: marketing@co-enterprise.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

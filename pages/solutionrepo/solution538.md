@@ -3,6 +3,9 @@ title: (SaaS) JustLogin HR Cloud - A (Up to 15 pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution538
 ---
 
+### Vendor Information
+JustLogin Pte Ltd<br>https://justlogin.com<br>Email: info@justlogin.com<br>Contact Hotline: +65 6909 9217
+
 ### Description
 
 For happy HR, bosses and employees, you want a platform that can help your team remain productive and focused, while providing excellent employee experiences that impresses and retains talent. JustLogin is the HR employee experience platform that delivers both through a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Bring the employee experience anywhere, with JustLogin mobile application.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-JustLogin Pte Ltd<br>https://justlogin.com<br>Email: info@justlogin.com<br>Contact Hotline: +65 6909 9217
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: BIMAGE - Autodesk AEC Collection - 3 Year AEC (3 Days training)
 permalink: /productivity-solutions-grant/solutionrepo/solution1221
 ---
 
+### Vendor Information
+Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
+
 ### Description
 
 Autodesk's AEC collection equips the Industry to design & construct high quality, data-rich & sustainable solutions for the building industry. It is an extensive & flexible software solution that encompasses all the building & infrastructure typologies development.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsulting.com/autodesk-bim-tools <br>Contact Hotline: 62717875 <br>Contact Email: enquiry@bimageconsulting.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

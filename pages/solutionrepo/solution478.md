@@ -3,6 +3,9 @@ title: SAP Business One, version for HANA Version 10 - Package A (8 Subscription
 permalink: /productivity-solutions-grant/solutionrepo/solution478
 ---
 
+### Vendor Information
+Inecom Pte Ltd<br>www.inecom.com.sg<br>Email: enquiries@inecomworld.com<br>Tel:+65 6225 9255
+
 ### Description
 
 SAP Business One is a single, integrated ERP solution with flexible licensing and deployment options - subscription, private/public cloud and on-premise. The solution includes mobility applications for managers, sales and service users; in-built Business Intelligence functions; as well as Artificial Intelligence and Machine Learning capabilities. Inecom offers pre-configured packages for trading, distribution, project based industries and service/repair organizations.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Inecom Pte Ltd<br>www.inecom.com.sg<br>Email: enquiries@inecomworld.com<br>Tel:+65 6225 9255
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

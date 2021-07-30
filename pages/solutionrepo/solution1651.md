@@ -3,6 +3,9 @@ title: Smart Estate Management System - Single Estate Pack
 permalink: /productivity-solutions-grant/solutionrepo/solution1651
 ---
 
+### Vendor Information
+Web URL: www.combuilder.com.sg <br>Contact Hotline: 63238100 <br>Contact Email: enquiry@combuilder.com.sg <br>
+
 ### Description
 
 SEMS Smart FM solution enables organizations to manage their estate(s) at ease. It is designed to help save time & money by managing workflows intelligently across their estate(s)/buildings thus processes become efficient & effective. SEMS enables contractors/officers to perform ongoing maintenance and repair, including asset management, contractor/workers management, service fulfilment and scheduling. It empowers FM teams to adequately track job status and analyse working patterns over time.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.combuilder.com.sg <br>Contact Hotline: 63238100 <br>Contact Email: enquiry@combuilder.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

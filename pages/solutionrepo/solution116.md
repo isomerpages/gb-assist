@@ -3,6 +3,9 @@ title: Microsoft Dynamics 365 Business Central Version Cloud - Essential - 5 Use
 permalink: /productivity-solutions-grant/solutionrepo/solution116
 ---
 
+### Vendor Information
+Company Name: AFON Systems Pte Ltd <br>Web URL: https://www.afon.com.sg/microsoft-dynamics-365-business-central <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
+
 ### Description
 
 Microsoft Dynamics 365 Business Central is a cloud-based, comprehensive all-in-one enterprise resource planning (ERP) solution designed for small to midsize businesses. The solution has the functionalities that manages finance, operations, customer service, inventory, procurement, sales and marketing.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: AFON Systems Pte Ltd <br>Web URL: https://www.afon.com.sg/microsoft-dynamics-365-business-central <br>Contact Hotline: 63230901 <br>Contact Email: sales@afon.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

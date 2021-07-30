@@ -18,5 +18,3 @@ View solutions accordian
 ### Human Resource E-scheduling Syste
 View solutions accordian
 
-
-{% include accordion.html accordions=site.data.acc039-advanced-manufacturing.accordion %}

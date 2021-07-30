@@ -3,6 +3,9 @@ title: MPD E-Commerce SMEs Version - Express
 permalink: /productivity-solutions-grant/solutionrepo/solution607
 ---
 
+### Vendor Information
+MediaPlus Digital Pte Ltd<br>https://mediaplus.com.sg/<br>Email: wow@mediaplus.com.sg<br>Tel: +65 6816 3168
+
 ### Description
 
 MPD e-commerce SMEs Version offers SMEs an opportunity to increase their sales online by widening their reach thru the digital platform where users can easily browse, shop and purchase their merchandises/products/services via a few clicks online with minimal manpower required. In addition, the solution allows SMEs to manage their inventory and reporting (e.g. revenue, costs, trends etc.) more efficiently as well as to improve their overall operating cost as compared to a brick and mortar store.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-MediaPlus Digital Pte Ltd<br>https://mediaplus.com.sg/<br>Email: wow@mediaplus.com.sg<br>Tel: +65 6816 3168
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

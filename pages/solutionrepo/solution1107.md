@@ -3,6 +3,9 @@ title: Dynamics 365 Business Central with E-invoicing Version 15 -Dynamics 365 B
 permalink: /productivity-solutions-grant/solutionrepo/solution1107
 ---
 
+### Vendor Information
+Company Name:Microlabs Pte Ltd <br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg <br>
+
 ### Description
 
 -	Dynamics 365 Business Central is an ERP Solution designed to automate the majority of their transactions from CRM to Quoting, Ordering, producing, shipping and Invoicing on the sales side, to Purchasing, Receiving, Paying and Inventorying on the supply side.
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Microlabs Pte Ltd <br>Web URL: http://www.microlabs.com.sg/microsoft-business-central/ <br>Contact Hotline: 68440558 <br>Contact Email: businesscentralgodigital@microlabs.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Konnect Digital Software
 permalink: /productivity-solutions-grant/solutionrepo/solution580
 ---
 
+### Vendor Information
+Lexikon Pte Ltd<br>http://www.lexikon.sg/lexikon_system/konnect_digital/<br>Email: info@lexikon.sg<br>Tel: +65 6909 2737
+
 ### Description
 
 Konnect Digital Software is a workforce management system which comprises of following modules: CRM, Sales, Operational (Job Order) via desktop & mobile application and HRM, launched since 2018 with the objective to facilitate and streamline the operational and administrative process in the industry.
@@ -32,8 +35,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Only applicable for licensed cleaning, waste management and pest management companies
-
-### Contact Information
-Lexikon Pte Ltd<br>http://www.lexikon.sg/lexikon_system/konnect_digital/<br>Email: info@lexikon.sg<br>Tel: +65 6909 2737
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

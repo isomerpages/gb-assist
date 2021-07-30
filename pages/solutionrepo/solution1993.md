@@ -3,6 +3,9 @@ title: ABSS - Accounting Consultancy - 3 users + Setup + Training
 permalink: /productivity-solutions-grant/solutionrepo/solution1993
 ---
 
+### Vendor Information
+Web URL: https://accountingconsultancy.com <br>Contact Hotline: 63888378 <br>Contact Email: enquiry@accountingconsultancy.com <br>
+
 ### Description
 
 Accounting Consultancy Pte Ltd is a pre-approved vendor offering ABSS ABSS Premier provides advanced Accounting, inventory and business management capabilities to companies. Process foreign currency transactions, tax submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://accountingconsultancy.com <br>Contact Hotline: 63888378 <br>Contact Email: enquiry@accountingconsultancy.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

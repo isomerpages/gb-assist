@@ -3,6 +3,9 @@ title: FingerBooth POS System Version 1 - POS System Pro With Hardware
 permalink: /productivity-solutions-grant/solutionrepo/solution1360
 ---
 
+### Vendor Information
+Company Name:BIG MOUTH MARKETING PTE LTD <br>Web URL: WWW.FINGERBOOTH.COM <br>Contact Hotline: 90604096 <br>Contact Email: SALES@FINGERBOOTH.COM <br>
+
 ### Description
 
 FingerBooth POS System is an one stop solution for retail and beauty industry shops and parlor. The system help businesses to track sales, employee commission, sales per employee, generate payslip with CPF contribution calculation and also inventory management. On top of that, business can also track customer outstanding amount owe and also package information which includes number of sessions left or pre-paid credits left.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:BIG MOUTH MARKETING PTE LTD <br>Web URL: WWW.FINGERBOOTH.COM <br>Contact Hotline: 90604096 <br>Contact Email: SALES@FINGERBOOTH.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

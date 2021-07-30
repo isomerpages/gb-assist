@@ -3,6 +3,9 @@ title: King Of Time Version 1 - Up to 20 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1239
 ---
 
+### Vendor Information
+Company Name:Huubap Pte. Ltd. <br>Web URL: https://huubap.com/ <br>Contact Hotline: 66908821 <br>Contact Email: hello@huubap.com <br>
+
 ### Description
 
 King of Time is a workforce management software which helps the HR and managers to better perform time attendance, leave and schedule management.
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Huubap Pte. Ltd. <br>Web URL: https://huubap.com/ <br>Contact Hotline: 66908821 <br>Contact Email: hello@huubap.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

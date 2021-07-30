@@ -3,6 +3,9 @@ title: MSSP for CSA Asset Based Cyber Defence - Security-as-a-Service (SaaS) SME
 permalink: /productivity-solutions-grant/solutionrepo/solution1877
 ---
 
+### Vendor Information
+Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
+
 ### Description
 
 TOFFS MSSP for ABCD provides 24 x7 outsourced monitoring & management of security devices & systems. Services include acting as the SME's inhouse IT security department to monitor & assess the IT security posture
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.toffstech.com <br>Contact Hotline: 63861260 <br>Contact Email: marketing@toffstech.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

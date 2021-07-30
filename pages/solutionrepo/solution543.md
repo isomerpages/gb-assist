@@ -3,6 +3,9 @@ title: KEEPITAL Sales Management Business Solution Version 3 - Package (48 Produ
 permalink: /productivity-solutions-grant/solutionrepo/solution543
 ---
 
+### Vendor Information
+Keep Pte Ltd<br>www.keepital.com<br>Email: ask@keepital.com<br>Tel: +65 9623 9126
+
 ### Description
 
 Keepital is an online B2B platform that brings together buyers and suppliers which allow business owners to reach out to prospects. Through this platform, business owners can list their products, generate quotation to the buyers.
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Keep Pte Ltd<br>www.keepital.com<br>Email: ask@keepital.com<br>Tel: +65 9623 9126
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

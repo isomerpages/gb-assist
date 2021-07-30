@@ -3,6 +3,9 @@ title: ONE LOGON - ONE LOGistics Online - Package 1 (iWMS SaaS)
 permalink: /productivity-solutions-grant/solutionrepo/solution550
 ---
 
+### Vendor Information
+KEYfields Pte. Ltd.<br>www.keyfields.com<br>Email: kenny@keyfields.com<br>Tel: +65 6842 7886
+
 ### Description
 
 ONE LOGON is an integrated Supply Chain & Logistics software solution comprises of Warehouse Management, Transport Management, Freight Management, Container Management modules.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-KEYfields Pte. Ltd.<br>www.keyfields.com<br>Email: kenny@keyfields.com<br>Tel: +65 6842 7886
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Industrial crusher/shredder
 permalink: /productivity-solutions-grant/solutionrepo/solution60
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Machine equipped with cutting or shearing or crushing system(s) to reduce the volume of solid waste/recyclables.
@@ -35,8 +38,5 @@ Specifications
 - Treatment capacity of at least 0.5 tonnes/hour
 
 Grant cap: Up to S$136,600 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Singtel-Fortinet-FG-400E inclusive of 1 Year Unified (UTM) Protection
 permalink: /productivity-solutions-grant/solutionrepo/solution1501
 ---
 
+### Vendor Information
+Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/cyberpsg<br>Contact Hotline: 1800-SME-1111<br>Contact Email: s-cyberpsg@singtel.com
+
 ### Description
 
 A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure. 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/cyberpsg<br>Contact Hotline: 1800-SME-1111<br>Contact Email: s-cyberpsg@singtel.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

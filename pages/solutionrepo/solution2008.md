@@ -3,6 +3,9 @@ title: Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed 
 permalink: /productivity-solutions-grant/solutionrepo/solution2008
 ---
 
+### Vendor Information
+Web URL: www.eqcoms.com <br>Contact Hotline: 67453177 <br>Contact Email: salesadmin@eqcoms.com <br>
+
 ### Description
 
 Powered by Morphisec's unique Signatureless Moving Target Defense technology, EQCOMS' Managed Security Service delivers operationally simple instant pre-breach proactive protection against the most sophisticated cyberattacks immediately, efficiently, and absolutely like no other. Combined with our 24x7 monitoring center, we provide businesses with round-the-clock visibility on the security of their machines.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.eqcoms.com <br>Contact Hotline: 67453177 <br>Contact Email: salesadmin@eqcoms.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

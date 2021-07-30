@@ -3,6 +3,9 @@ title: Alpha eCommerce Booster Version Premium - ALPHA eCommerce BoosterPremium
 permalink: /productivity-solutions-grant/solutionrepo/solution2017
 ---
 
+### Vendor Information
+Web URL: https://alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg <br>
+
 ### Description
 
 Online eStore
@@ -37,8 +40,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact Hotline: 87428186 <br>Contact Email: enquiries@alphasixmarketing.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

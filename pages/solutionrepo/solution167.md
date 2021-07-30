@@ -3,6 +3,9 @@ title: Vertical Carousel
 permalink: /productivity-solutions-grant/solutionrepo/solution167
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Vertical storage and retrieval system designed to save floor space, maximise vertical space for inventory storage and improve productivity for goods picking. The Carousel consists of carriers that rotate vertically and deliver stored inventory (e.g. spare parts, small parcels, electronic components) to the operator on the ground.
@@ -38,8 +41,5 @@ Carrier tray width: min. 1.3m
 Load capacity per tray: min. 150kg
 With operator Interface (Console)
 With software linked to Inventory Management System
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

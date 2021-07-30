@@ -3,6 +3,9 @@ title: Detrack - Detrack Delivery Tracking & E-POD + Route Optimisation Upgrade 
 permalink: /productivity-solutions-grant/solutionrepo/solution2216
 ---
 
+### Vendor Information
+Web URL: https://www.detrack.com <br>Contact Hotline: 68440509 <br>Contact Email: sales@detrack.com <br>
+
 ### Description
 
 Detrack is a cloud-based real-time vehicle tracking and electronic proof of delivery (e-POD) solution with the use of just an Android or iPhone. Detrack not only offers full visibility of your delivery fleet, but it also lets you keep track of the status of every delivery job and helps you notify your customers of the progress in real-time, so they won't have to keep calling your customer hotline. Our solution has proven to help companies cut manpower and operations costs by up to 90%.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.detrack.com <br>Contact Hotline: 68440509 <br>Contact Email: sales@detrack.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

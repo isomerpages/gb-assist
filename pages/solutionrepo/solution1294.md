@@ -3,6 +3,9 @@ title: Digital Welding Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution1294
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Consists of digital welding machines (hardware) and management software:
@@ -39,8 +42,5 @@ N.A. for non-SMEs
 Consists of digital welding machines (hardware) and management software
 Current adjusting range: minimally +/- 150A
 Option: air-cooled MIG/MAG torch, air-cooled TIG torch, wire feeder, wireless control box
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

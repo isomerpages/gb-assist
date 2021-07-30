@@ -3,6 +3,9 @@ title: Microsoft Dynamics 365 Business Central for Wholesale - Package D (15 On-
 permalink: /productivity-solutions-grant/solutionrepo/solution969
 ---
 
+### Vendor Information
+Winspire Solutions Pte Ltd<br>www.winspiresolutions.com<br>Email: jkulkarni@winspiresolutions.com<br>Tel: +65 9835 7900 (mobile) / +65 6744 0324
+
 ### Description
 
 An easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, inventory management, include pre-defined workflows and processes  for the wholesale sector.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Winspire Solutions Pte Ltd<br>www.winspiresolutions.com<br>Email: jkulkarni@winspiresolutions.com<br>Tel: +65 9835 7900 (mobile) / +65 6744 0324
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

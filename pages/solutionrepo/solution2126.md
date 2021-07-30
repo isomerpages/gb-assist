@@ -3,6 +3,9 @@ title: Automated Slaughtering Equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution2126
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
@@ -31,9 +34,6 @@ Up to 50% for SMEs <br>
 Up to 50% for non-SMEs
 
 ### Things to Note
-N.A.
-
-### Contact Information
 N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: EasyBus Version 2.0 - EasyBus Factory (Retail + Hotel)
 permalink: /productivity-solutions-grant/solutionrepo/solution1029
 ---
 
+### Vendor Information
+Company Name:TrustyTech Pte Ltd <br>Web URL: https://www.easybus.app/ <br>Contact Hotline: 90999564 <br>Contact Email: business@trustytechgroup.com <br>
+
 ### Description
 
 EasyBus is a true all in one platform designed specifically for service industry, it most suitable for business include Laundry, Leather care, Alteration, Home service and other customer centric service business, platform include from customer Apps/Website to POS to logistic system to production system, no matter you are running a factory or a shop or doing business online or all of them, we provide a single place to helping you improve your productivity, sales and create great customer loyalty.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:TrustyTech Pte Ltd <br>Web URL: https://www.easybus.app/ <br>Contact Hotline: 90999564 <br>Contact Email: business@trustytechgroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

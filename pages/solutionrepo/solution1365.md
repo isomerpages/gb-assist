@@ -3,6 +3,9 @@ title: Autocount Accounting Software Version 2.0 - Premium Version 2.0 ( 10 User
 permalink: /productivity-solutions-grant/solutionrepo/solution1365
 ---
 
+### Vendor Information
+Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD <br>Web URL: http://isoft.my/products <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com <br>
+
 ### Description
 
 Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledged of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:I SOFT BUSINESS SOLUTIONS PTE LTD <br>Web URL: http://isoft.my/products <br>Contact Hotline: 68179011 <br>Contact Email: isoft.bs@gmail.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

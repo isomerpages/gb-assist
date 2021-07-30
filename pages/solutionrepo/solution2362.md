@@ -3,6 +3,9 @@ title: 1. Inventory Replenishment and Ordering Decision
 permalink: /productivity-solutions-grant/solutionrepo/solution2362
 ---
 
+### Vendor Information
+
+
 ### Description
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 N.A.
-
-### Contact Information
-
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

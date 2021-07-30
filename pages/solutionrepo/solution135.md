@@ -3,6 +3,9 @@ title: AGHRM - AGHRM 100
 permalink: /productivity-solutions-grant/solutionrepo/solution135
 ---
 
+### Vendor Information
+Company Name: AG Net Pte Ltd <br>Web URL: https://web.aghrm.com/index.php/solutions/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com <br>
+
 ### Description
 
 AGHRM provides an integrated suite of cloud based Human Resource Management Solutions
@@ -39,8 +42,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: AG Net Pte Ltd <br>Web URL: https://web.aghrm.com/index.php/solutions/ <br>Contact Hotline: 68448712 <br>Contact Email: sales@aghrm.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

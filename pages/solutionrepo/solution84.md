@@ -3,6 +3,9 @@ title: Ozonised Water Sterilisation System
 permalink: /productivity-solutions-grant/solutionrepo/solution84
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 An equipment which produces ozonised water for cleaning purposes and can eliminate pollutants such as bacteria, viruses, mould, grease particles and odour. Equipment will eliminate the use of hot water and reduce chemical usage for effective sanitation. 
@@ -45,8 +48,5 @@ Equipment must meet the following:
 Additional criteria: Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
 
 No change in vendor allowed
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

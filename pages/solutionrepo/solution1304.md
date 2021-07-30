@@ -3,6 +3,9 @@ title: Ascent iSPOT Fleet Management System - iSPOT FMS Tracking with CAN Bus/BL
 permalink: /productivity-solutions-grant/solutionrepo/solution1304
 ---
 
+### Vendor Information
+Company Name:Ascent Solutions Pte Ltd <br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com <br>
+
 ### Description
 
 Ascent's iSPOT FMS enable companies to transform their business with data-driven actions on a simple managed platform from the day that they start their fleet. Ascent's positioning in the market on iSPOT FMS has always been cost leadership, commoditizing our solutions and making it available to all companies operating fleets. Installation, guided adoption walkthrough and business hours support flattens the learning curve and allow SME to exact benefits immediately after signing up with us
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Ascent Solutions Pte Ltd <br>Web URL: https://www.myascents.com/smart-telematics-iot/ <br>Contact Hotline: 65622556 <br>Contact Email: enquiry@myascents.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

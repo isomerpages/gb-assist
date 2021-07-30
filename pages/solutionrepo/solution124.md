@@ -3,6 +3,9 @@ title: Smart litter bin with compactor function
 permalink: /productivity-solutions-grant/solutionrepo/solution124
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The equipment should allow Users to monitor bin fill levels with multiple fill level settings, send notifications to collectors when bins are reaching capacity and preferably with software to allow Users to gather data for trend analytics.
@@ -37,8 +40,5 @@ Specifications
 
 Grant cap: Up to S$4,100 per unit
 
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

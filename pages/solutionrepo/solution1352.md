@@ -3,6 +3,9 @@ title: SMARTHRMS Version 1 - HRMS STANDARD PACKAGE A (50 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution1352
 ---
 
+### Vendor Information
+Company Name:AVELOGIC PTE LTD <br>Web URL: www.avelogic.com <br>Contact Hotline: 63671128 <br>Contact Email: sales@avelogic.com <br>
+
 ### Description
 
 Administrator manage the company's HR requirements, payroll, schedule, Leave and Appraisal. Staff can go online to apply leave, submit claims and view their documents online. Appraisal system allows managers to quick appraise their staff online. Work Schedule module allows management to better manage and plan their manpower and monitor attendance of their staff real time. Update and complies to regulatory requirements.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:AVELOGIC PTE LTD <br>Web URL: www.avelogic.com <br>Contact Hotline: 63671128 <br>Contact Email: sales@avelogic.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

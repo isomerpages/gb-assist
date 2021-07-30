@@ -3,6 +3,9 @@ title: T-Guard - Package (5 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1873
 ---
 
+### Vendor Information
+Web URL: www.tnts.com.sg <br>Contact Hotline: 98338687 <br>Contact Email: ivy_lee@tnts.com.sg <br>
+
 ### Description
 
 T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.
@@ -36,8 +39,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.tnts.com.sg <br>Contact Hotline: 98338687 <br>Contact Email: ivy_lee@tnts.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: AppsPOS Version 4 - Package ( PLUS - Cloud e-waiter (2 users) with Integr
 permalink: /productivity-solutions-grant/solutionrepo/solution146
 ---
 
+### Vendor Information
+AppsPOS Pte Ltd<br>www.appspos.com<br>Email: kingsley@appspos.com<br>Tel: +65 9028 8123
+
 ### Description
 
 AppPOS Solution is a highly scalable omni-channel ordering system that fits the purpose of F&B merchants of all concepts/sizes. It allows customers to order food (dine in, takeaway, pre-orders and drive through) via web app and mobile apps for restaurants, quick service restaurants, kiosks/stalls, among many other F&B concepts.
@@ -36,8 +39,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-AppsPOS Pte Ltd<br>www.appspos.com<br>Email: kingsley@appspos.com<br>Tel: +65 9028 8123
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

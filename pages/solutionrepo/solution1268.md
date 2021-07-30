@@ -3,6 +3,9 @@ title: Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Pack
 permalink: /productivity-solutions-grant/solutionrepo/solution1268
 ---
 
+### Vendor Information
+Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 64577991 <br>Contact Email: sales.demo@aptsys.com.sg <br>
+
 ### Description
 
 Aptsys online CRM, marketing and advertising capabilities will propel businesses to find new revenue streams, increase their exposure online and target the promotion to the correct customer channel.  The members can also earn and redeem points to increase loyalty.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg <br>Contact Hotline: 64577991 <br>Contact Email: sales.demo@aptsys.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

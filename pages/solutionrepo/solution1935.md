@@ -3,6 +3,9 @@ title: Simpple Version V1.0 - SIMPPLE ECOSYSTEM - XL
 permalink: /productivity-solutions-grant/solutionrepo/solution1935
 ---
 
+### Vendor Information
+Web URL: www.simpple.com.sg <br>Contact Hotline: 69096936 <br>Contact Email: sales@simpple.com.sg <br>
+
 ### Description
 
 The SIMPPLE integrated facilities management ecosystem is focused on service quality for facilities management.
@@ -32,8 +35,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 N.A.
-
-### Contact Information
-Web URL: www.simpple.com.sg <br>Contact Hotline: 69096936 <br>Contact Email: sales@simpple.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

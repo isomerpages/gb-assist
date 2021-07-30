@@ -3,6 +3,9 @@ title: AZ Digital POS Solution - Package (VIVIPOS Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution211
 ---
 
+### Vendor Information
+AZ Digital Pte Ltd<br>http://www.azdigital.net<br>Email: andrewteo@azdigital.net<br>Tel: +65 9685 9169 / +65 6745 1147 (Andrew Teo)
+
 ### Description
 
 AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sales entry, maintain customer relations, upkeep inventory and provide sales report and analysis for both stand-alone and multi-outlets operations. 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-AZ Digital Pte Ltd<br>http://www.azdigital.net<br>Email: andrewteo@azdigital.net<br>Tel: +65 9685 9169 / +65 6745 1147 (Andrew Teo)
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

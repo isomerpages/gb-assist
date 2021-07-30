@@ -3,6 +3,9 @@ title: OCi Sales & Accounting Management System (SAM) Version 11 -Package (3 Con
 permalink: /productivity-solutions-grant/solutionrepo/solution665
 ---
 
+### Vendor Information
+Company Name:OCi System Pte Ltd <br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com <br>
+
 ### Description
 
 OCi Sales and Accounting Management system is a straight-forward and comprehensive system in serving the needs in the following:
@@ -40,8 +43,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:OCi System Pte Ltd <br>Web URL: www.ocisystem.com/accounting-system/ <br>Contact Hotline: 62955177 <br>Contact Email: sales@ocisg.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

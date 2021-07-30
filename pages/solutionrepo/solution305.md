@@ -3,6 +3,9 @@ title: Automated Dough Filler/Depositor
 permalink: /productivity-solutions-grant/solutionrepo/solution305
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 ### Things to Note
 Vendor must be able to offer several options of hoppers with different volumes
 Equipment must allow company to be able to change desired dough weight (Mandatory)
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

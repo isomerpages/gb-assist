@@ -3,6 +3,9 @@ title: KADDRA Mobile App Commerce Solution Version 1.9 - Pro
 permalink: /productivity-solutions-grant/solutionrepo/solution2261
 ---
 
+### Vendor Information
+Web URL: www.kaddra.com/#solutions <br>Contact Hotline: 68776928 <br>Contact Email: Togi.Gouw@Kaddra.com <br>
+
 ### Description
 
 Kaddra helps businesses turn loyalty into revenue, improve retention and accelerate growth through its cross-channel solution. With the useful end to end tools, it provides opportunities for SMEs to upsell, create targeted marketing, improve customer service and better understand customer trends through analytics.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.kaddra.com/#solutions <br>Contact Hotline: 68776928 <br>Contact Email: Togi.Gouw@Kaddra.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

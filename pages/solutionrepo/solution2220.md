@@ -3,6 +3,9 @@ title: Xero Cloud Accounting Software - Harvest - Software and Setup
 permalink: /productivity-solutions-grant/solutionrepo/solution2220
 ---
 
+### Vendor Information
+Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 98218195 <br>Contact Email: ask@harvestaccounting.com.sg <br>
+
 ### Description
 
 Xero is a cloud-based online accounting solution that can handle tasks that used to take up your time. As it connects to most major Singapore banks, Xero will automatically import daily bank transactions for easy bank reconciliations. You can create and send invoices with automated reminders for faster payments. Bills and expenses can be entered just by email-forwarding or taking a photo to eliminate data entry.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.harvestaccounting.com.sg/ <br>Contact Hotline: 98218195 <br>Contact Email: ask@harvestaccounting.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

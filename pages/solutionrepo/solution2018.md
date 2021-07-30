@@ -3,6 +3,9 @@ title: Sage 300 ERP - Sage 300Cloud ADVANCE Finance 3 users
 permalink: /productivity-solutions-grant/solutionrepo/solution2018
 ---
 
+### Vendor Information
+Web URL: www.mis.sg <br>Contact Hotline: 66842300 <br>Contact Email: rick@mis.sg <br>
+
 ### Description
 
 Sage 300cloud connects the most
@@ -38,8 +41,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.mis.sg <br>Contact Hotline: 66842300 <br>Contact Email: rick@mis.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

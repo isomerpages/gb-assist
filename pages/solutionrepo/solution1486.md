@@ -3,6 +3,9 @@ title: KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 3 Bank with
 permalink: /productivity-solutions-grant/solutionrepo/solution1486
 ---
 
+### Vendor Information
+Company Name: KPMG Services Pte Ltd<br>Web URL:Home.kpmg.com/sg/en/home.html<br>Contact Hotline: 62133388<br>Contact Email: grace_tan@kpmg.com.sg<br>
+
 ### Description
 
 KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 ### Things to Note
 For MAS Notice 610 and Notice 1003 Regulatory Reporting.
 Eligible applicants must be FIs licensed or registered in Singapore with headcount not more than 200. 
-
-### Contact Information
-Company Name: KPMG Services Pte Ltd<br>Web URL:Home.kpmg.com/sg/en/home.html<br>Contact Hotline: 62133388<br>Contact Email: grace_tan@kpmg.com.sg<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

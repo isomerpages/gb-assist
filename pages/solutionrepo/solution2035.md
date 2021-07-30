@@ -3,6 +3,9 @@ title: A2000ERP Version 12.X - Package (C) - A2000ERP Wholesale System for 15 Us
 permalink: /productivity-solutions-grant/solutionrepo/solution2035
 ---
 
+### Vendor Information
+Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
+
 ### Description
 
 A2000 Solutions Pte. Ltd. is an established ERP business software development company in Singapore with more than 24 years of industry experience in its pocket. We provide enterprise solutions that cover financial management, analytics, mobile solutions, sales & distribution, POS, inventory & warehouse system. A2000 Solutions simplifies your business processes, empowers people, and helps SMEs to create dynamic responses to market changes for small and medium-sized industries.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: info@a2000.net <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

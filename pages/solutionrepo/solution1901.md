@@ -3,6 +3,9 @@ title: arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking -
 permalink: /productivity-solutions-grant/solutionrepo/solution1901
 ---
 
+### Vendor Information
+Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
+
 ### Description
 
 With Arcstone's Real-Time Production Scheduling and Job Tracking solution, manufacturers gain better control over their process flows ensuring the maximum level of efficiency achieved with minimal chance of delays or potential interruptions occur. Leveraging the toolset, manufacturers are able to stay on top of their production processes through automatic and accurate resources planning, allocation and dynamic (re) scheduling capabilities.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact@arcstone.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

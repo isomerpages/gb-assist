@@ -3,6 +3,9 @@ title: Sage 300  - Package A3 (Advanced Edition - 10 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution509
 ---
 
+### Vendor Information
+Company Name: IT Infinity Pte Ltd<br>Web URL: www.it8.com.sg<br>Contact Hotline: 6346-1511<br>Contact Email: sales@it8.com.sg
+
 ### Description
 
 Sage 300 is an ERP solution which automates and connects the various work processes of a business including financials, operations and inventory, project and vendor management, business intelligence reporting and sales, marketing and customer service for a seamless centralised platform.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: IT Infinity Pte Ltd<br>Web URL: www.it8.com.sg<br>Contact Hotline: 6346-1511<br>Contact Email: sales@it8.com.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

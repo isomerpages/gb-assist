@@ -3,6 +3,9 @@ title: Second CRM Version 7.1 - Package D (15 Users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1867
 ---
 
+### Vendor Information
+Web URL: https://www.secondcrm.com <br>Contact Hotline: 63048022 <br>Contact Email: sales@secondcrm.com <br>
+
 ### Description
 
 Second CRM is an easy to use cloud based business automation solution designed to improve productivity for small to medium businesses. Second CRM focuses on sales, customer services and operations, providing end to end streamlining of business functions.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.secondcrm.com <br>Contact Hotline: 63048022 <br>Contact Email: sales@secondcrm.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

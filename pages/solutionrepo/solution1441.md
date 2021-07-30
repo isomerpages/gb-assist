@@ -3,6 +3,9 @@ title: SQL Account Version 5-Package B (Advance - 1 User)
 permalink: /productivity-solutions-grant/solutionrepo/solution1441
 ---
 
+### Vendor Information
+Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
+
 ### Description
 
 SQL Account includes full range of business features including AR, AP, GL, Inventory, Banking, GST, Reporting. It's user-friendly interface helps SMEs perform daily operation easily and effectively, organise and analyse finance data for accurate reporting, customisable to suit business workflow and secure access right. SQL Account features multi-currencies, project & departmental costing, multi-warehouses so you can access to updates on your accounting & business operation with ease.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.sqlaccounting.sg <br>Contact Hotline: 97206813 <br>Contact Email: carol.kok@apscomsolutions.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

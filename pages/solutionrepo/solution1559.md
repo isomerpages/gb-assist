@@ -3,6 +3,9 @@ title: IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 4 Ve
 permalink: /productivity-solutions-grant/solutionrepo/solution1559
 ---
 
+### Vendor Information
+Web URL: WWW.SMARTCOMM.BIZ <br>Contact Hotline: 65132389 <br>Contact Email: ask@smartcomm.biz <br>
+
 ### Description
 
 Designed for all fleet size and management. 
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: WWW.SMARTCOMM.BIZ <br>Contact Hotline: 65132389 <br>Contact Email: ask@smartcomm.biz <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

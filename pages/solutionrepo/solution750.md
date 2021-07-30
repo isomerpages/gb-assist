@@ -3,6 +3,9 @@ title: WESS - Wellness Management Software Version 2.0 -WESS Professional - All 
 permalink: /productivity-solutions-grant/solutionrepo/solution750
 ---
 
+### Vendor Information
+Company Name:Refine Solutions Pte Ltd <br>Web URL: www.wessconnect.com <br>Contact Hotline: 66028212 <br>Contact Email: contactus@wessconnect.com <br>
+
 ### Description
 
 WESS, a leading professional cloud management software made easy for the Beauty, Hair, Nail, Spa & Wellness businesses in Singapore & Asia.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Refine Solutions Pte Ltd <br>Web URL: www.wessconnect.com <br>Contact Hotline: 66028212 <br>Contact Email: contactus@wessconnect.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

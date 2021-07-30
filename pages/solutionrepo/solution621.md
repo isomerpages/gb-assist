@@ -3,6 +3,9 @@ title: SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (1 License)
 permalink: /productivity-solutions-grant/solutionrepo/solution621
 ---
 
+### Vendor Information
+Company Name:MPS Solutions Pte Ltd <br>Web URL:www.mpssolutions.com.sg <br>Contact Hotline:68469109 <br>Contact Email:kelvin@mclinkgroup.com <br>
+
 ### Description
 
 SAP Business One is an ERP solution with built-in advanced analytical processing capabilities that includes predictive and graph analysis for the business users. With the SAP HANA data platform where both transactions and analytics are processed in memory, large volumes of data is able to be analyzed in real time and with speed. MPS Solutions is offering Accounting, Inventory, CRM & Sales Management on the SAP Business One platform, enhanced with Peppol E-Invoice integration.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:MPS Solutions Pte Ltd <br>Web URL:www.mpssolutions.com.sg <br>Contact Hotline:68469109 <br>Contact Email:kelvin@mclinkgroup.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

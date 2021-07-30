@@ -3,6 +3,9 @@ title: Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CR
 permalink: /productivity-solutions-grant/solutionrepo/solution471
 ---
 
+### Vendor Information
+Company Name:Hubspot Asia Pte. Ltd. <br>Web URL: https://www.hubspot.com/products/get-started <br>Contact Hotline: 31583395 <br>Contact Email:imdagrant@hubspot.com<br>
+
 ### Description
 
 The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationship Management & Reporting, Sales Management, Marketing Automation, Content Management and Customer Service Management software which function together to help businesses acquire and manage customers.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Hubspot Asia Pte. Ltd. <br>Web URL: https://www.hubspot.com/products/get-started <br>Contact Hotline: 31583395 <br>Contact Email:imdagrant@hubspot.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

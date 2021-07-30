@@ -3,6 +3,9 @@ title: On-site food waste recycling system
 permalink: /productivity-solutions-grant/solutionrepo/solution82
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The food waste recycling system with the provision of the in-feed station is able to convert recycle food waste into organic fertilisers/ compost/ discharge in liquid form. It will reduce the needs for separation, transportation and collection of these food waste for disposal.
@@ -47,8 +50,5 @@ Minimum treatment capacity: 100kg per day.
 Grant cap: Up to S$167,700 per unit
 
 
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

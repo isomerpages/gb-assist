@@ -3,6 +3,9 @@ title: Eber - Smart Membership Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution371
 ---
 
+### Vendor Information
+Eber Pte Ltd<br>www.eber.co<br>Email: godigital@eber.co<br>Tel: +65 3159 0888
+
 ### Description
 
 Eber Smart Member Solution is a smart member system comes with comprehensive loyalty & rewards system, marketing, gift card and analytic tool. Retailers and brands can easily acquire, reward, engage and understand their customers. There is no card to carry, no app to install, no password to remember.
@@ -37,8 +40,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Eber Pte Ltd<br>www.eber.co<br>Email: godigital@eber.co<br>Tel: +65 3159 0888
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

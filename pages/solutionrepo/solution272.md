@@ -3,6 +3,9 @@ title: Augmented Reality Welding Training Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution272
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 This solution uses AR technology to simulate welding processes on test pieces. The learning management and student analysis software provides structured curriculum with stimulated exercises and lab practices while tracking trainees' progress. This solution enables more practice with less time spent in workshop, thus reducing material usage, training preparation time/cost, and exposure to safety/health hazards.
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 ### Things to Note
 This solution uses AR technology to simulate welding processes on different test pieces
 Optional components: accessories e.g. work stand to secure workpiece, cables, material license
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

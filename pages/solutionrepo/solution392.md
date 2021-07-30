@@ -3,6 +3,9 @@ title: Rotary Oven
 permalink: /productivity-solutions-grant/solutionrepo/solution392
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Oven with revolving racks that enables a 'soft' bake because of even heat distribution. Usually used for baked products that has a soft or fluffy texture, such as cakes, muffins, rolls and buns.
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 ### Things to Note
 Minimum of 8 trays
 Racks inside oven must be able to rotate
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Automated Rice Washer
 permalink: /productivity-solutions-grant/solutionrepo/solution20
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The automated rice washer has built-in sensors and allow water to flow through the rice consistently. It will cut the time spent washing rice by 60%. It comes with an automatic wastewater mechanism to retain rice when draining wash water. 
@@ -36,8 +39,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum capacity: 6kg cooked rice
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

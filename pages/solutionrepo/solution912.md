@@ -3,6 +3,9 @@ title: V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package D
 permalink: /productivity-solutions-grant/solutionrepo/solution912
 ---
 
+### Vendor Information
+V3 Smart Technologies Pte Ltd<br>http://www.v3smarttech.com<br>Email: sales@v3smarttech.com<br>Tel: +65 6488 4176
+
 ### Description
 
 V3Nity WAM for ES offers an integrated solution to weave field workers and schedules into a tightly-functioning and optimized taskforce for day-to-day operations. WAM is a quality management tool for the assignment of daily work routines of environmental services which assist to automate the daily field workers' operational tasks, monitoring of job status, records and reports on work done within the space of internal resources optimization, governmental regulations and compliances requirements.
@@ -32,8 +35,5 @@ Up to 80% for non-SMEs
 
 ### Things to Note
 Only applicable for licensed cleaning, waste management and pest management companies
-
-### Contact Information
-V3 Smart Technologies Pte Ltd<br>http://www.v3smarttech.com<br>Email: sales@v3smarttech.com<br>Tel: +65 6488 4176
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

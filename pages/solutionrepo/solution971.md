@@ -3,6 +3,9 @@ title: Xintesys Sales and Inventory Management Solution Version V30DC_01-001 - B
 permalink: /productivity-solutions-grant/solutionrepo/solution971
 ---
 
+### Vendor Information
+Xintesys Consultancy Pte Ltd<br>www.xintesys.com<br>Email: solutions@xintesys.com<br>Tel: +65 9011 5595
+
 ### Description
 
 "Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Xintesys Consultancy Pte Ltd<br>www.xintesys.com<br>Email: solutions@xintesys.com<br>Tel: +65 9011 5595
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

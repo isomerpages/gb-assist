@@ -3,6 +3,9 @@ title: KEGMIL FSM-Kegmil FSM Package E - 100 Users
 permalink: /productivity-solutions-grant/solutionrepo/solution2279
 ---
 
+### Vendor Information
+Web URL: https://kegmil.com/ <br>Contact Hotline: 8949 9637<br>Contact Email: info@kegmil.com <br>
+
 ### Description
 
 Kegmil is on a mission to empower millions of deskless field service professionals with technology & data to supercharge their operational efficiency & service performance. Our cloud-based, mobile-first software intelligently automates & optimizes field activities for small to mid-sized maintenance firms who keep our world running across industries from elevator to data center equipment servicing.
@@ -32,8 +35,5 @@ Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://kegmil.com/ <br>Contact Hotline: 8949 9637<br>Contact Email: info@kegmil.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

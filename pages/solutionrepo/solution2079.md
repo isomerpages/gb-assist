@@ -3,6 +3,9 @@ title: Automated Labelling Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2079
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
@@ -41,8 +44,5 @@ N.A. for non-SMEs
 - Conveyer line/system (integration with pipe, cable and air supply linkage) can be supported but subject to the grant cap
 
 Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

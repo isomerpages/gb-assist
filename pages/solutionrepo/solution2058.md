@@ -3,6 +3,9 @@ title: Microsoft Dynamics 365 Business Central SaaS - Package B - D365BC essenti
 permalink: /productivity-solutions-grant/solutionrepo/solution2058
 ---
 
+### Vendor Information
+Web URL: www.cyansys.com <br>Contact Hotline: 65353257 <br>Contact Email: sales@cyansys.com<br>
+
 ### Description
 
 Microsoft Dynamics 365 Business Central (D365BC) offers a complete business accounting management system with realtime information that helps in decision making. It has all the functionalities any business needs to manage their business and financials efficiently. It can start small and scale as when the business needs grows.The solution suite includes the extension which covers the GST and PEPPOL E-invoicing for both compliance and regulatory reporting required for all businesses.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.cyansys.com <br>Contact Hotline: 65353257 <br>Contact Email: sales@cyansys.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

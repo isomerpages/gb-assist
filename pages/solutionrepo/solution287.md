@@ -3,6 +3,9 @@ title: Carbonate HR Version 1.0 - Package (Power 150)
 permalink: /productivity-solutions-grant/solutionrepo/solution287
 ---
 
+### Vendor Information
+Carbonate Pte Ltd<br>https://carbonateapp.com/<br>Email: info@carbonateapp.com<br>Tel: +65 6797 6787
+
 ### Description
 
 Carbonate HR is a web and mobile application based HR management system that focuses on helping SME schedule their employees, track attendance and pay staff quickly.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Carbonate Pte Ltd<br>https://carbonateapp.com/<br>Email: info@carbonateapp.com<br>Tel: +65 6797 6787
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

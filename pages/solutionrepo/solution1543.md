@@ -3,6 +3,9 @@ title: Tekla Solutions - Tekla Structural Design Suite (3 years) with Training
 permalink: /productivity-solutions-grant/solutionrepo/solution1543
 ---
 
+### Vendor Information
+Web URL: https://www.tekla.com/sg <br>Contact Hotline: 62738775 <br>Contact Email: tekla.sales.sea@trimble.com <br>
+
 ### Description
 
 Tekla Solutions is a suite of 3D modelling software for Contractors to create and manage Detailing and Fabrication digital information with the capability to create as built drawings for easy submission in buildings and infrastructure projects. Within Tekla Solutions, Tekla Structural Designer is a Design software that gives engineers the power to Analyze and Design buildings efficiently and profitably.
@@ -32,8 +35,5 @@ Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://www.tekla.com/sg <br>Contact Hotline: 62738775 <br>Contact Email: tekla.sales.sea@trimble.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

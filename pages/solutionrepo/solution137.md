@@ -3,6 +3,9 @@ title: Telescopic system for high ceiling cleaning
 permalink: /productivity-solutions-grant/solutionrepo/solution137
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Extendable rods that can reach at least 2m to do cleaning of walls, ledges, piping, etc. and equipped with camera system to inspect/check cleanliness levels.
@@ -37,8 +40,5 @@ Specifications
 - A RO/DI pure water system generator and pump (optional)
 
 Grant cap: Up to S$2,800 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

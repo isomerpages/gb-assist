@@ -3,6 +3,9 @@ title: SmartWeb V3 Version V3 - Smartweb V3 (License Only)
 permalink: /productivity-solutions-grant/solutionrepo/solution1199
 ---
 
+### Vendor Information
+Company Name:TabSquare Pte Ltd <br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com <br>
+
 ### Description
 
 SmartWeb is one of the unique solutions in the market which allows online ordering and payments for all order types like Dine-in, Take Away, Delivery on one single platform. Powered by AI engine Aiden it leverages on Data Analytics and Machine Learning /AI models to provide a unique personalised ordering experience to the restaurants' diners with a beautiful interface, personalised menus, personalised recommendations and even personalised promotions.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:TabSquare Pte Ltd <br>Web URL: https://www.tabsquare.ai/home/smartweb-contactless-byod-order-system/ <br>Contact Hotline: 97319496 <br>Contact Email: marketing@tabsquare.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

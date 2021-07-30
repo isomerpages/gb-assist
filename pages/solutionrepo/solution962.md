@@ -3,6 +3,9 @@ title: Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
 permalink: /productivity-solutions-grant/solutionrepo/solution962
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. Time and manpower is saved during operation.
@@ -35,8 +38,5 @@ N.A. for non-SMEs
 - It can be powered pneumatically or electically through a power unit  . If it is electrically powered, 1 Power Unit can be supported.
 - Training costs to be supported
 - Maintenance costs not supported
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

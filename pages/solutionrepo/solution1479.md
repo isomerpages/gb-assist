@@ -3,6 +3,9 @@ title: Bristle Blaster / Cup Brush / Power Brush
 permalink: /productivity-solutions-grant/solutionrepo/solution1479
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The bristle blaster/ cup brush/ power brush is a handheld tool that is used for surface preparation to effectively remove corrosion and coatings. The bristle wire tips are heat-treated to promote corrosion removal capability and prepare surface roughness up to 120micron. Time is also saved during operation.
@@ -36,8 +39,5 @@ Belt diameter of at least 110 mm
 Additional bristle brushes (carbon steel or stainless steel) can be supported.
 Training costs can be supported
 Maintenance costs not supported
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

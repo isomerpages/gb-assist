@@ -3,6 +3,9 @@ title: Electric reach truck
 permalink: /productivity-solutions-grant/solutionrepo/solution280
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Reach truck with load capacity ranging from 1.2 ton to 2.5 ton, that is able to reach loads located high up in racks, with only one operator.
@@ -35,8 +38,5 @@ Specifications:
 Only applicable for licensed cleaning, waste management and pest management companies
 
 Grant cap: Up to S$32,000 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

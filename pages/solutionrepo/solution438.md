@@ -3,6 +3,9 @@ title: Getz F&B Contactless Dine-in, Pickup and Islandwide Delivery Transformati
 permalink: /productivity-solutions-grant/solutionrepo/solution438
 ---
 
+### Vendor Information
+Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: +WhatsApp: +65 8540 6590<br>Contact Email: hello@getz.co
+
 ### Description
 
 Getz solution is a fully integrated platform that comprehensively resolves F&B's real critical pains in the front-of-house and back-of-house. It is tailored to handle F&B's fast moving, dynamic ordering and fulfilment processes in-store and out-of-store 
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Getz Group Pte Ltd<br>Web URL:http://www.getz.co/<br>Contact Hotline: +WhatsApp: +65 8540 6590<br>Contact Email: hello@getz.co
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

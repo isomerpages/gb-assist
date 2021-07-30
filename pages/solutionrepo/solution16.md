@@ -3,6 +3,9 @@ title: Automated Dishwasher
 permalink: /productivity-solutions-grant/solutionrepo/solution16
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The single tank automated dishwashing machines replace manual dishwashing, and can be used for glassware or dishes. It comes with automated drain pump, detergent and rinse pumps.
@@ -40,8 +43,5 @@ N.A. for non-SMEs
 ### Things to Note
 Additional criteria:
 Min tank capacity of 15 litres
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Battery-operated Torque Wrench
 permalink: /productivity-solutions-grant/solutionrepo/solution2083
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Battery-operated torque wrench or torque multiplier is a compact and portable tool used to apply specific torque to fasten nut, bolt, or lag screw. This eliminates the need of tedious manual torqing, or use of hydraulic/pneumatic torque equipment which requires additional power source, time and manpower to lay and connect cables/ hoses. With the portable, battery-operated torque wrench, a single worker will be able to carry out torquing independently and in a shorter amount of time. 
@@ -36,8 +39,5 @@ N.A. for non-SMEs
 - Maintenance costs not supported
 
 Minimum 30% ordinary shares held by Singaporean/PR. No change in vendor allowed
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

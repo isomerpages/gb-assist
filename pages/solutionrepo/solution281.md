@@ -3,6 +3,9 @@ title: Industrial Steam Cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution281
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The industrial steam cleaner generates high steam pressures for continuous removal of dirt and grease cleaning. The equipment is to be an eco-friendly by cleaning through steam pressure without any use of chemicals and is not to be harmful to the user or the environment.
@@ -37,8 +40,5 @@ The industrial steam cleaner should have at least
 - Tank capacity > 1 litre
 
 Grant cap: Up to S$2,200 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

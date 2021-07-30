@@ -3,6 +3,9 @@ title: Digital Retail eCommerce Solution Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution140
 ---
 
+### Vendor Information
+Amobee Asia Pte Ltd<br>https://amobeedigital.com/web-solutions/<br>Email: ADS@amobee.com<br>Tel: +65 6323 9448
+
 ### Description
 
 Digital Retail eCommerce Solution enable users to enhance their online presence through mobile responsive  e-Commerce website with content management, online leads analysis and online transaction management capabilities. 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Amobee Asia Pte Ltd<br>https://amobeedigital.com/web-solutions/<br>Email: ADS@amobee.com<br>Tel: +65 6323 9448
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

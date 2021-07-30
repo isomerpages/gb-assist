@@ -3,6 +3,9 @@ title: AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
 permalink: /productivity-solutions-grant/solutionrepo/solution1836
 ---
 
+### Vendor Information
+Company Name: VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED<br>Web URL: www.vermeg.com<br>Contact Hotline: 6720 1012<br>Contact Email: info@vermeg.com<br>
+
 ### Description
 
 AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 N.A.
-
-### Contact Information
-Company Name: VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED<br>Web URL: www.vermeg.com<br>Contact Hotline: 6720 1012<br>Contact Email: info@vermeg.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

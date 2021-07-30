@@ -3,6 +3,9 @@ title: Deskera ERP Version 9.0/10.1- Package B (SaaS - 5 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution362
 ---
 
+### Vendor Information
+Deskera Singapore Pte Ltd<br>https://www.deskera.com/<br>Email: hello@deskera.com<br>Tel: +65 6202 1350
+
 ### Description
 
 Deskera ERP is an easy-to-use software that facilitates the recording and processing of all financial transactions via integrated solution.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Deskera Singapore Pte Ltd<br>https://www.deskera.com/<br>Email: hello@deskera.com<br>Tel: +65 6202 1350
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: Ride-on carpet extractor
 permalink: /productivity-solutions-grant/solutionrepo/solution100
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 A ride-on carpet cleaning machine provides deep cleaning extraction technologies, with liquid solution to remove embedded dirt and debris for carpet flooring. 
@@ -36,8 +39,5 @@ Specifications
 - Recovery tank with minimum capacity of 100 litres.
 
 Grant cap: Up to S$10,100 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

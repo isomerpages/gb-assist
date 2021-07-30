@@ -3,6 +3,9 @@ title: Vacuum Packing and Sealing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution310
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 The vacuum packaging machine is used to vacuum seal products in a plastic wrap. Products already placed in plastic wrap loaded into the vacuum chambers, the product will be vacuum sealed
@@ -34,8 +37,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum vacuum chamber surface area (Length x Width) of 2184cm2
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

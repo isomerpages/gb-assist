@@ -3,6 +3,9 @@ title: Escalator Cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution48
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 
@@ -38,8 +41,5 @@ The machine must consist of minimally the following:
 
 Grant cap: Up to S$5,400 per unit
 
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

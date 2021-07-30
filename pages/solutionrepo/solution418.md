@@ -3,6 +3,9 @@ title: iREP Security System Version 3 - Package (Mobile Patrol & Incident Manage
 permalink: /productivity-solutions-grant/solutionrepo/solution418
 ---
 
+### Vendor Information
+Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkotech.com<br>Tel: +65 6684 4419
+
 ### Description
 
 iREP Security is a mobile reporting, maintenance tracking and monitoring system which use GPS trackers and Live Image Captures to enable investigating officers and guards to write incident reports on sites, take attendance of guards and managing visitor visiting the premises.
@@ -36,8 +39,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkotech.com<br>Tel: +65 6684 4419
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

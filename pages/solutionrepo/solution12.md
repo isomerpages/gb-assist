@@ -3,6 +3,9 @@ title: Xero Cloud Accounting Software - Package B (Xero Premier full package)
 permalink: /productivity-solutions-grant/solutionrepo/solution12
 ---
 
+### Vendor Information
+361 Degree Consultancy Pte Ltd<br>www.361dc.com<br>Email: enquiry@361dc.com<br>Tel: +65 6515 7906
+
 ### Description
 
 Xero is a comprehensive accounting software that provides accounting features like invoicing, bank reconciliation, inventory, quotes, expense claims, reporting, GST and payments. 
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-361 Degree Consultancy Pte Ltd<br>www.361dc.com<br>Email: enquiry@361dc.com<br>Tel: +65 6515 7906
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

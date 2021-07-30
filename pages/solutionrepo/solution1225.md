@@ -3,6 +3,9 @@ title: INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 1 Year
 permalink: /productivity-solutions-grant/solutionrepo/solution1225
 ---
 
+### Vendor Information
+Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
+
 ### Description
 
 AEC Collection consists of a set of BIM and CAD tools that support projects from early-stage design through to construction.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br>Contact Email: sales@innocom.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

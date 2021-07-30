@@ -3,6 +3,9 @@ title: FleetManager Version 5.0 - FleetManager Leasing Plan for 20 vehicles
 permalink: /productivity-solutions-grant/solutionrepo/solution2068
 ---
 
+### Vendor Information
+Web URL: www.logisfleet.com <br>Contact Hotline: 65520668 <br>Contact Email: support@logisfleet.com <br>
+
 ### Description
 
 FleetManager App software is a modern fleet management system offered by Logisfleet Pte Ltd since 2010. With more than a decade of experience helping Singapore companies digitize their fleet operations, our capabilities and strengths are constantly evolving to match our customers' high expectations. We have equipped ourselves with our own in-house automotive technicians, constantly innovate with our own R&D team, and own a dedicated 3000 square feet workshop for vehicle drive-in installation.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.logisfleet.com <br>Contact Hotline: 65520668 <br>Contact Email: support@logisfleet.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

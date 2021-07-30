@@ -3,6 +3,9 @@ title: Revel Systems - Revel Essentials -  Modern Restaurant
 permalink: /productivity-solutions-grant/solutionrepo/solution2070
 ---
 
+### Vendor Information
+Web URL: www.revelsystems.com <br>Contact Hotline: +6531633097 <br>Contact Email: sales@revelsystems.com <br>
+
 ### Description
 
 Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.revelsystems.com <br>Contact Hotline: +6531633097 <br>Contact Email: sales@revelsystems.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

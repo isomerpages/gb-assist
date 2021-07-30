@@ -3,6 +3,9 @@ title: Fortinet Fortigate (Next Generation Firewall) - 200E with 1 Year Onsite s
 permalink: /productivity-solutions-grant/solutionrepo/solution1916
 ---
 
+### Vendor Information
+Web URL: WWW.AWECREATION.COM <br>Contact Hotline: 66319770 <br>Contact Email: SALES@AWECREATION.COM <br>
+
 ### Description
 
 AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet FortiGate Next-generation firewalls (NGFW) to build the Cyber Security for SMEs. With the continual work from home arrangement and constantly evolving Cyber security facing the SMEs IT setup and work from home employees, Fortinet is well positioned for SMEs needs as a leader in Gartner Magic Quadrant for Network Firewalls.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: WWW.AWECREATION.COM <br>Contact Hotline: 66319770 <br>Contact Email: SALES@AWECREATION.COM <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

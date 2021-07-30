@@ -3,6 +3,9 @@ title: CalendarOne CRM Solution Ver 2.0 Enhanced CRM Package (with Peppol E- Inv
 permalink: /productivity-solutions-grant/solutionrepo/solution266
 ---
 
+### Vendor Information
+Company Name:CalendarOne Pte Ltd <br>Web URL:www.calendarone.com <br>Contact Hotline:92485655 <br>Contact Email:francis@calendarone.com <br>
+
 ### Description
 
 CalendarOne CRM is a cloud based solution that integrates and automates your entire customer-related business process. It's a centralize platform that enable you to share, track, administer and manage your clients' engagement and experience. From tracking your leads to managing your transactions with clients, it consolidate and share information that enables you to gain deeper insight into your clients info thus helping you identify critical trends, retain clients and increase sales.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:CalendarOne Pte Ltd <br>Web URL:www.calendarone.com <br>Contact Hotline:92485655 <br>Contact Email:francis@calendarone.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

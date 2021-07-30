@@ -3,6 +3,9 @@ title: Getz F&B Integrated Instore Transformation Version 2 - Package C (Instore
 permalink: /productivity-solutions-grant/solutionrepo/solution437
 ---
 
+### Vendor Information
+Company Name:Getz Group Pte Ltd <br>Web URL:http://www.getz.co/ <br>Contact Hotline: :  WhatsApp: +WhatsApp: +65 8540 6590 <br>Contact Email:hello@getz.co <br>
+
 ### Description
 
 Instant cost savings (up to 80%) and sales growth (up to 50%) platform for all F&Bs (Quick Service, Full Service, Kiosk, Catering) across in-store and out-of-store channels.
@@ -40,8 +43,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Getz Group Pte Ltd <br>Web URL:http://www.getz.co/ <br>Contact Hotline: :  WhatsApp: +WhatsApp: +65 8540 6590 <br>Contact Email:hello@getz.co <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

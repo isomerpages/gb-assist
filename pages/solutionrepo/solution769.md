@@ -3,6 +3,9 @@ title: SecureAPlus Version 6.x - (60 Pax)
 permalink: /productivity-solutions-grant/solutionrepo/solution769
 ---
 
+### Vendor Information
+SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710
+
 ### Description
 
 SecureAPlus is an EndPoint protection solution that uses the right combination of security layers to prevent the most advanced cyber threats of today & tomorrow from causing harm to your PC.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
  Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@secureage.com<br>Tel: +65 6873 3710
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

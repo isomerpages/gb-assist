@@ -3,6 +3,9 @@ title: ABSS PremierPlus Version 23 - Package (3 Users with InvoiceNow)
 permalink: /productivity-solutions-grant/solutionrepo/solution1852
 ---
 
+### Vendor Information
+Company Name: ABSS (formerly known as MYOB) <br>Web URL: www.abssasia.com<br>Contact Hotline: 6505 6582<br>Contact Email: cs.sg@abssasia.com
+
 ### Description
 
 ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports. 
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name: ABSS (formerly known as MYOB) <br>Web URL: www.abssasia.com<br>Contact Hotline: 6505 6582<br>Contact Email: cs.sg@abssasia.com
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

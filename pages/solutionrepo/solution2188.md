@@ -3,6 +3,9 @@ title: WarelyEcom Version 1.3 - Premium
 permalink: /productivity-solutions-grant/solutionrepo/solution2188
 ---
 
+### Vendor Information
+Web URL: https://www.p65marketing.com/ <br>Contact Hotline: 94501066 <br>Contact Email: Business@warelycorp.com <br>
+
 ### Description
 
 WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digital. We believe that all retail enterprise should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites are developed for our clients. Deliveries are also made possible when using our software which helps vendors to be less reliant on commission-based platforms and gain control over their costings.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR 
-
-### Contact Information
-Web URL: https://www.p65marketing.com/ <br>Contact Hotline: 94501066 <br>Contact Email: Business@warelycorp.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

@@ -3,6 +3,9 @@ title: CSG - Autodesk BIM Collaborate Pro - 5 Users Pack
 permalink: /productivity-solutions-grant/solutionrepo/solution2076
 ---
 
+### Vendor Information
+Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
+
 ### Description
 
 Autodesk BIM360 Design is a design collaboration software providing a platform for real-time cloud worksharing and collaboration workflows. It helps to improve productivity, reduce rework, and accelerate project delivery.
@@ -32,8 +35,5 @@ Up to NA% for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Email: marketing@csglobal-group.com <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

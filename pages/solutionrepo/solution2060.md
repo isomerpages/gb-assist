@@ -3,6 +3,9 @@ title: Adventus Managed EndPoint Protection - Sophos Central Intercept X Advance
 permalink: /productivity-solutions-grant/solutionrepo/solution2060
 ---
 
+### Vendor Information
+Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: info@adventus.com<br>
+
 ### Description
 
 Adventus Managed EndPoint Protection leverages on the Sophos Central Intercept X Advanced to provide a holistic EndPoint Protection by providing managed service on top of the solution.
@@ -33,8 +36,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: info@adventus.com<br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

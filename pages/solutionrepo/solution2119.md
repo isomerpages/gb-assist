@@ -3,6 +3,9 @@ title: Wireless Tour Guide System
 permalink: /productivity-solutions-grant/solutionrepo/solution2119
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
@@ -35,8 +38,5 @@ Operating time of >15 hours and talk range of 100-200 meters.
 
 Additional criteria for SMEs: 
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

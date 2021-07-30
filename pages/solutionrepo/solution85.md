@@ -3,6 +3,9 @@ title: Plastics washing system
 permalink: /productivity-solutions-grant/solutionrepo/solution85
 ---
 
+### Vendor Information
+There is no pre-approved vendor. You may find your own, as all vendors qualify.
+
 ### Description
 
 A plastic washing line is used to wash and convert dirty plastic materials into dry clean plastics suitable for recycling.
@@ -41,8 +44,5 @@ Specifications
 - Minimum treatment capacity of 1,000kg per hour.
 
 Grant cap: Up to S$280,000 per unit
-
-### Contact Information
-N.A.
 
 Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

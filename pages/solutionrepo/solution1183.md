@@ -3,6 +3,9 @@ title: Frontwave Cloud Version 8 - Package (Cloud Starter)
 permalink: /productivity-solutions-grant/solutionrepo/solution1183
 ---
 
+### Vendor Information
+Company Name:Frontwave Software Pte Ltd <br>Web URL: https://www.frontwave.com.sg/frontwave-cloud <br>Contact Hotline: 62899125 <br>Contact Email: info@frontwave.com.sg <br>
+
 ### Description
 
 Frontwave Cloud is a retail management system specifically designed for an optical retail store business operation. The core components include POS (Point-of-Sales), PMS (Patient Management System), and Inventory management.
@@ -32,8 +35,5 @@ N.A. for non-SMEs
 
 ### Things to Note
 Minimum 30% ordinary shares (ultimate individual ownership) held directly/indirectly by Singaporean/PR
-
-### Contact Information
-Company Name:Frontwave Software Pte Ltd <br>Web URL: https://www.frontwave.com.sg/frontwave-cloud <br>Contact Hotline: 62899125 <br>Contact Email: info@frontwave.com.sg <br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.
