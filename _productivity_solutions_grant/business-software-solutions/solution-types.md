@@ -24,7 +24,7 @@ Please note that each business entity may not only be supported for one applicat
 
 |--|--|--|--|--|
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-| ![Tick](/images/grow/psg/Tick.svg) | v | v | v |[View](/productivity-solutions-grant/business-software-solutions/sms-am-im-crm)|
+| ![Tick,20%](/images/grow/psg/Tick.svg) | v | v | v |[View](/productivity-solutions-grant/business-software-solutions/sms-am-im-crm)|
 | v | v | v |   |[View](/productivity-solutions-grant/business-software-solutions/sms-am-im)|
 | v | v |   | v |[View](/productivity-solutions-grant/business-software-solutions/sms-am-crm)|
 | v | v |   |   |[View](/productivity-solutions-grant/business-software-solutions/sms-am)|
