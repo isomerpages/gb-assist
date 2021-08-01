@@ -24,12 +24,12 @@ Please note that each business entity may not only be supported for one applicat
 
 |--|--|--|--|--|
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-| <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> | v | v | v |[View](/productivity-solutions-grant/business-software-solutions/sms-am-im-crm)|
-| v | v | v |   |[View](/productivity-solutions-grant/business-software-solutions/sms-am-im)|
-| v | v |   | v |[View](/productivity-solutions-grant/business-software-solutions/sms-am-crm)|
-| v | v |   |   |[View](/productivity-solutions-grant/business-software-solutions/sms-am)|
-| v |   | v |   |[View](/productivity-solutions-grant/business-software-solutions/sms-im)|
-| v |   |   | v |[View](/productivity-solutions-grant/business-software-solutions/sms-crm)|
+| <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |[View](/productivity-solutions-grant/business-software-solutions/sms-am-im-crm)|
+| <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |   |[View](/productivity-solutions-grant/business-software-solutions/sms-am-im)|
+| <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |   | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |[View](/productivity-solutions-grant/business-software-solutions/sms-am-crm)|
+| <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |   |   |[View](/productivity-solutions-grant/business-software-solutions/sms-am)|
+| <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |   | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |   |[View](/productivity-solutions-grant/business-software-solutions/sms-im)|
+| <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |   |   | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |[View](/productivity-solutions-grant/business-software-solutions/sms-crm)|
 
 <!-- {% include secondary-btn.html href="/contact-us/" text="View" %} -->
 
@@ -37,8 +37,8 @@ Please note that each business entity may not only be supported for one applicat
 
 |--|--|--|--|--|
 |**Sales Management System**|**Accounting Management**|**Inventory Management**|**Customer Relationship Management**|**Solutions**|
-|   |   |   | v |[View](/productivity-solutions-grant/business-software-solutions/crm)|
-|   |   | v |   |[View](/productivity-solutions-grant/business-software-solutions/im)|
+|   |   |   | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |[View](/productivity-solutions-grant/business-software-solutions/crm)|
+|   |   | <img style="width:20px; height:14px; align:center" src="/images/grow/psg/Tick.svg"> |   |[View](/productivity-solutions-grant/business-software-solutions/im)|
 
 ### Recommended courses
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved sources to start with
