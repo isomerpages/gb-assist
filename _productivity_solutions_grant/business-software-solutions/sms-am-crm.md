@@ -6,6 +6,24 @@ third_nav_title: Enterprise Resource Planning (ERP) &<BR>Standalone Solutions
 
 ## Sales Management System, Accounting Management & Inventory Management
 
-### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
+**ABSS Premier - Accounting and Sales Management System Version 23**
 
-{% include accordion.html accordions=site.data.acc039-advanced-manufacturing.accordion %}
+ABSS Premier is an integrated accounting, sales, inventory and multiple-currency management solution which integrate with  PEPPOL e-invoicing network. Listed in the IRAS Accounting Software Register, ABSS Premier is GST-compliant and a business management software that helps businesses to streamline their accounting procedures, simplify complex inventory issues, has full multi-currency capability, supports multi-users, and increases productivity.
+
+<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)</a>
+<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_2.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)</a>
+<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_3.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)</a>
+<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_4.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package D (3 users)</a>
+<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_5.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)</a>
+
+
+**Xero Cloud Accounting Software**
+
+Xero is a comprehensive accounting software that provides accounting features like invoicing, bank reconciliation, inventory, quotes, expense claims, reporting, GST and payments.
+
+<a href="https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_1.pdf" target="_blank">Xero Cloud Accounting Software - Package A (Xero Premier full package with consultation)</a>
+<a href="https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_3.pdf" target="_blank">Xero Cloud Accounting Software - Package C (Xero Premier with Training)</a>
+<a href="https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_4.pdf" target="_blank">Xero Cloud Accounting Software - Package D (Xero Premier with setup)</a>
+<a href="https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_5.pdf" target="_blank">Xero Cloud Accounting Software - Package E (Xero Subscription only)</a>
+<a href="https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_2.pdf" target="_blank">Xero Cloud Accounting Software - Package B (Xero Premier full package)</a>
+
