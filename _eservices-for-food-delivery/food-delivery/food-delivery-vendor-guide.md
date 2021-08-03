@@ -1,6 +1,7 @@
 ---
 title: Food Delivery Vendor Guide
-permalink: /Food Delivery/Food Delivery Vendor Guide/
+permalink: /e-Services/food-delivery-vendor-guide
+third_nav_title: Food Delivery
 ---
 
 ## Welcome to the Food Delivery Vendor Guide!
