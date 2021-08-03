@@ -10,11 +10,7 @@ third_nav_title: Enterprise Resource Planning (ERP) &<BR>Standalone Solutions
 
 ABSS Premier is an integrated accounting, sales, inventory and multiple-currency management solution which integrate with  PEPPOL e-invoicing network. Listed in the IRAS Accounting Software Register, ABSS Premier is GST-compliant and a business management software that helps businesses to streamline their accounting procedures, simplify complex inventory issues, has full multi-currency capability, supports multi-users, and increases productivity.<br><br>
 
-<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_1.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package A with onsite training (1 user)</a><br>
-<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_2.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package B with onsite training (3 users)</a><br>
-<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_3.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package C (1 user)</a><br>
-<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_4.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package D (3 users)</a><br>
-<a href="https://www.gobusiness.gov.sg/images/psg/01_BUSINESS_SOLUTIONS_20200036_Annex_3_20200625144627_Part_5.pdf" target="_blank">ABSS Premier - Accounting and Sales Management System Version 23 - Package E with onsite training and remote access (1 user)</a><br>
+[vendor]("/productivity-solutions-grant/solutionrepos/solution3")<br>
 <br>
 <br>
 **Xero Cloud Accounting Software**<br><br>
