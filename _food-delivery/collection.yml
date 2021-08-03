@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - overview.md
-      - food-delivery/food-delivery-vendor-guide.md
-      - food-delivery/food-delivery-vendor-guide.md
+      - food-delivery-vendor-guide.md
+      - food-delivery-vendor-guide.md
