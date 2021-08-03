@@ -1,6 +1,6 @@
 ---
-title: Third Party Delivery Guide
-permalink: /Third Party Delivery Guide/
+title: Food Delivery Vendor Guide
+permalink: /Food Delivery/Food Delivery Vendor Guide/
 ---
 
 ## Welcome to the Food Delivery Vendor Guide!
