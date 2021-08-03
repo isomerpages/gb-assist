@@ -1,6 +1,6 @@
 ---
 title: Third Party Delivery Guide
-permalink: /e-Services/third-party-delivery-guide
+permalink: /e-Services/third-party-delivery-guide/
 third_nav_title: Food Delivery
 ---
 

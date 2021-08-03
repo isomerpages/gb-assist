@@ -1,6 +1,6 @@
 ---
 title: Food Delivery Vendor Guide
-permalink: /e-Services/food-delivery-vendor-guide
+permalink: /e-Services/food-delivery-vendor-guide/
 third_nav_title: Food Delivery
 ---
 
