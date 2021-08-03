@@ -8,7 +8,8 @@ third_nav_title: Food Delivery
 
 The following table filters out the key features in choosing your ideal 3rd Party delivery company.
 
-**Delivery Options:** The types of delivery modes/ packages that each 3rd party delivery vendor offers.<br>
+**Delivery Options:** The types of delivery modes/ packages that each 3rd party delivery vendor offers.
+
 **Costing Schemes:** The prices which you have to pay the 3rd party delivery vendor based on the options chosen.
 
 
@@ -28,7 +29,7 @@ What are your stall’s operating hours?
 
 < Submit >
 
-
+---
 
 |**Venders**|**Delivery Options**|**Costing Schemes**|
 |GrabExpress|Bike<br>(60 Minutes)<br><br>Car<br>(60 Minutes)|**Bike (max 5kg)/ Car (max 20kg):**<br>- Base Fare: $5 (bike)/ $8 (car)<br>- $1/km (up to 5km)<br>- $0.70/km (above 5km)<br>- $3 per additional stop + applicable fare/ km<br>- Surcharge: $2 (11am – 1pm & 5pm – 9pm daily)|
