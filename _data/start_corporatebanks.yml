@@ -1,16 +1,16 @@
-- image: <img src="/images/start/DBS.png">
+- image: <img src="/images/start/DBS.svg">
   title: Development Bank of Singapore (DBS)
   description: One-liner about their corporate bank account, simple and instant approval, x documents only, up to 115 characters.
   url: https://go.dbs.com/oaos-gobusiness
   text: Find Out More
 
-- image: <img src="/images/start/OCBC.png">
+- image: <img src="/images/start/OCBC.svg">
   title: Oversea-Chinese Banking Corporation (OCBC)
   description: One-liner about their corporate bank account, simple and instant approval, x documents only, up to 115 characters.
   url: https://openbizaccount.ocbc.com/obao/#!intro
   text: Find Out More
 
-- image: <img src="/images/start/UOB.png">
+- image: <img src="/images/start/UOB.svg">
   title: United Overseas Bank (UOB)
   description: One-liner about their corporate bank account, simple and instant approval, x documents only, up to 115 characters.
   url: https://www.uob.com.sg/business/transact/ebusiness-account.page
