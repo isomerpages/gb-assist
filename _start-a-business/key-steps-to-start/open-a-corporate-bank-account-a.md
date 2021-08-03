@@ -39,9 +39,9 @@ Click on the bank of your choice to learn about opening an account on their webs
 
 |--|--|---|
 |**Name of Bank**| |**Visit**|
-|![DBS](/images/start/DBS.svg) | Development Bank of Singapore (DBS) | [Find Out More](https://go.dbs.com/oaos-gobusiness){:target="_blank"} |
-|![OCBC](/images/start/OCBC.svg) | Oversea Chinese Banking Corporation (OCBC) | [Find Out More](https://openbizaccount.ocbc.com/obao/#!intro){:target="_blank"} |
-|![UOB](/images/start/UOB.svg)| United Overseas Bank (UOB) | [Find Out More](https://www.uob.com.sg/business/transact/ebusiness-account.page){:target="_blank"} |
+|![DBS](/images/start/DBS_a.png) | Development Bank of Singapore (DBS) | [Find Out More](https://go.dbs.com/oaos-gobusiness){:target="_blank"} |
+|![OCBC](/images/start/OCBC_a.png) | Oversea Chinese Banking Corporation (OCBC) | [Find Out More](https://openbizaccount.ocbc.com/obao/#!intro){:target="_blank"} |
+|![UOB](/images/start/UOB_a.png)| United Overseas Bank (UOB) | [Find Out More](https://www.uob.com.sg/business/transact/ebusiness-account.page){:target="_blank"} |
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
