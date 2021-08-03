@@ -1,0 +1,7 @@
+collections:
+  Food Delivery:
+    output: true
+    order:
+      - overview.md
+      - government-assistance/food-delivery-vendor-guide.md
+      - government-assistance/food-delivery-vendor-guide.md
