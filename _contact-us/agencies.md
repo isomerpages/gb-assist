@@ -12,8 +12,7 @@ Here is a list of their contact information and the types of enquiries each agen
 {% include panels.html panels=site.data.agencies %}
 
 
-|*Animal & Veterinary Service (AVS)*|
-|Animal & Veterinary Service, a cluster of National Parks Board||www.avs.gov.sg/feedback|
+|*Animal & Veterinary Service (AVS)*|Animal & Veterinary Service, a cluster of National Parks Board|+65 1234 4444|www.avs.gov.sg/feedback|
 
 <!-- 
 |Accounting and Corporate Regulatory Authority (ACRA)|
