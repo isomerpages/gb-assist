@@ -10,13 +10,11 @@ The following table filters out the key features in choosing your ideal food del
 
 **Commission Prices:** The price margin which you pay the food delivery vendor upon every order.
 (E.g. If your dish costs $4.00, a commission price of 20% will mean you earn $4.00 * (100 – 20)% = $3.20 for every dish sold on the delivery platform)
-
 **Rider Base Size:** The approximate number of food delivery riders in Singapore for that particular delivery vendor.
-
 **Consumer Base Size:** The approximate number of Singaporeans who order food via the delivery vendor’s online platform.
-
 **Unique Selling Points:** The most prominent strengths of each food delivery vendor.
 
+<br><br>
 |**Venders**|**Commission Prices**|**Rider Base Size**|**Consumer Bse Size**|**Unique Selling Points**|
 |GrabFood<br>[Sign up](https://www.gobusiness.gov.sg/){:target="_blank"}|>20%|<  >|<  >|- Strongest brand recognition<br>- Strong, reliable technology<br>- No minimum order – Low barrier for customers to purchase from you|
 |foodpanda<br>[Sign up](https://www.gobusiness.gov.sg/){:target="_blank"}|>20%|<  >|<  >|- Lower delivery fees for customers<br>- Minimum order set by you<br>- You are informed promptly on an order before rider is assigned|
