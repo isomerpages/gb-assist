@@ -115,4 +115,4 @@ Learn more about taxes and GST in our [Run and Grow guide](/run-and-grow/).
 
 ### Related links
 
-{% include panels.html panels=site.data.taxes_and_gst_links %}
+{% include panels-single.html panels=site.data.taxes_and_gst_links %}
