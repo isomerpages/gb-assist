@@ -37,7 +37,7 @@ Note: Some banks may require additional documents on a case-by-case basis.
 
 Click on the bank of your choice to learn about opening an account on their website.
 
-{% include panels.html panels=site.data.start_corporatebanks %}
+{% include panels-single.html panels=site.data.start_corporatebanks %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/resize-tables.js"></script>
