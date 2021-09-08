@@ -18,15 +18,15 @@ The maximum funding support level was raised from 70% to 80% from 1 April 2020 t
 ### Supportable solutions
 This listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share the Corppass with their vendors to carry out submission of any grant application or claims
 
-##### For All Sectors
+#### For All Sectors
 {% include panels.html panels=site.data.acc039b-psg-all-sectors %}
 
-##### For Specific Sectors
+#### For Specific Sectors
 {% include panels.html panels=site.data.acc039c-psg-specific-sectors %}
 
 **Note:**
 <BR>The support for COVID-19 continuity measures have ceased on 31 Dec 2020.
 
-##### Be a PSG vendor
+#### Be a PSG vendor
 If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"} to find out more.
 
