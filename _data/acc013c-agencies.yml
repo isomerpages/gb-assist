@@ -1,5 +1,5 @@
 accordion:
-  - title: For matters related to starting a business, licences and permits
+  - title: first
     content:  |
       #### Business registration
 
@@ -12,7 +12,7 @@ accordion:
       **Other Information**
       Online Contact Form: [https://www.acra.gov.sg/feedback](https://www.acra.gov.sg/feedback){:target="_blank"}{:rel="noopener"}
 
-  - title: For matters related to starting a business, licences and permits
+  - title: 2nd
     content:  |
       ### Business registration
 
@@ -25,7 +25,7 @@ accordion:
       **Other Information**
       Online Contact Form: [https://www.acra.gov.sg/feedback](https://www.acra.gov.sg/feedback){:target="_blank"}{:rel="noopener"}
 
-  - title: For matters related to starting a business, licences and permits
+  - title: 3rd
     content:  |
       ## Business registration
 
