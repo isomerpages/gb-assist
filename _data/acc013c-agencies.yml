@@ -2,7 +2,7 @@ accordion:
 
   - title: Animal & Veterinary Service (AVS)
     content:  |
-      ##### Animal & Veterinary Service, a cluster of National Parks Board
+      Animal & Veterinary Service, a cluster of National Parks Board
 
       **Telephone**
       <br>-
@@ -15,7 +15,7 @@ accordion:
 
   - title: Accounting and Corporate Regulatory Authority (ACRA)
     content:  |
-      #### Business registration
+      ##### Business registration
 
       **Telephone**
       <br>[+65 6248 6028](tel:+6562486028)
@@ -28,6 +28,7 @@ accordion:
 
   - title: Civil Aviation Authority of Singapore (CAAS)
     content:  |
+      <br>
       **Telephone**
       <br>-
       
@@ -36,6 +37,7 @@ accordion:
 
   - title: Central Narcotics Bureau (CNB)
     content:  |
+      <br><br>
       **Telephone**
       <br>[+65 6557 3229](tel:+6565573229)
       
