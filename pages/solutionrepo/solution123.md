@@ -1,5 +1,5 @@
 ---
-title: 
+title: Smart Baler System
 permalink: /productivity-solutions-grant/solutionrepo/solution123
 ---
 

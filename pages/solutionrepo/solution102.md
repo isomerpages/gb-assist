@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ride-on Industrial Sweeper
 permalink: /productivity-solutions-grant/solutionrepo/solution102
 ---
 

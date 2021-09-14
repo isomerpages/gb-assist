@@ -1,5 +1,5 @@
 ---
-title: 
+title: Termite Detector
 permalink: /productivity-solutions-grant/solutionrepo/solution2016
 ---
 

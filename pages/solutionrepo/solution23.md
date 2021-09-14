@@ -1,5 +1,5 @@
 ---
-title: 
+title: Autonomous floor cleaner/scrubber
 permalink: /productivity-solutions-grant/solutionrepo/solution23
 ---
 

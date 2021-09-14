@@ -1,5 +1,5 @@
 ---
-title: 
+title: VRcollab LITE - BIM VDC VR FULL BUNDLE
 permalink: /productivity-solutions-grant/solutionrepo/solution1227
 ---
 

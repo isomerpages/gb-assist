@@ -1,5 +1,5 @@
 ---
-title: 
+title: Solar Panels System and Energy Storage System
 permalink: /productivity-solutions-grant/solutionrepo/solution2155
 ---
 

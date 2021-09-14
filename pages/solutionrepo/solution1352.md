@@ -1,5 +1,5 @@
 ---
-title: 
+title: SMARTHRMS Version 1 - HRMS STANDARD PACKAGE A (50 Employees)
 permalink: /productivity-solutions-grant/solutionrepo/solution1352
 ---
 

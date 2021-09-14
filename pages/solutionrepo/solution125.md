@@ -1,5 +1,5 @@
 ---
-title: 
+title: Smart mobile/static compactors
 permalink: /productivity-solutions-grant/solutionrepo/solution125
 ---
 

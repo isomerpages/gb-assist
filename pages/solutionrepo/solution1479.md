@@ -1,5 +1,5 @@
 ---
-title: 
+title: Bristle Blaster / Cup Brush / Power Brush
 permalink: /productivity-solutions-grant/solutionrepo/solution1479
 ---
 

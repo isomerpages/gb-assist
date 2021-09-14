@@ -1,5 +1,5 @@
 ---
-title: 
+title: FingerBooth POS System Version 1 - POS System Lite
 permalink: /productivity-solutions-grant/solutionrepo/solution1357
 ---
 

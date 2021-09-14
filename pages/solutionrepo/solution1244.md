@@ -1,5 +1,5 @@
 ---
-title: 
+title: Globe3 ERP V5.6 - Package (3 Users) (PEPPOL Ready)
 permalink: /productivity-solutions-grant/solutionrepo/solution1244
 ---
 

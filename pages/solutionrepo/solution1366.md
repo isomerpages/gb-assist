@@ -1,5 +1,5 @@
 ---
-title: 
+title: EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - SINGLE USER
 permalink: /productivity-solutions-grant/solutionrepo/solution1366
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Electric reach truck
 permalink: /productivity-solutions-grant/solutionrepo/solution277
 ---
 

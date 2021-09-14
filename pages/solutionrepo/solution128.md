@@ -1,5 +1,5 @@
 ---
-title: 
+title: Smart Waste Oil Collection System
 permalink: /productivity-solutions-grant/solutionrepo/solution128
 ---
 

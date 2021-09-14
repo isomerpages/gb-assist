@@ -1,5 +1,5 @@
 ---
-title: 
+title: Automated Rice Dispenser
 permalink: /productivity-solutions-grant/solutionrepo/solution19
 ---
 

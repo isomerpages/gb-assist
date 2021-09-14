@@ -1,5 +1,5 @@
 ---
-title: 
+title: Substrate Mixing and Packing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2157
 ---
 

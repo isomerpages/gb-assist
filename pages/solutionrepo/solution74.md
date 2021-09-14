@@ -1,5 +1,5 @@
 ---
-title: 
+title: Mobile/static refuse bin washing system
 permalink: /productivity-solutions-grant/solutionrepo/solution74
 ---
 

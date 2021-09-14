@@ -1,5 +1,5 @@
 ---
-title: 
+title: Automatic egg case labelling machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2127
 ---
 

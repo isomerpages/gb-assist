@@ -1,5 +1,5 @@
 ---
-title: 
+title: Industrial Steam Cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution281
 ---
 

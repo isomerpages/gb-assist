@@ -1,5 +1,5 @@
 ---
-title: 
+title: On-site food waste recycling system
 permalink: /productivity-solutions-grant/solutionrepo/solution82
 ---
 

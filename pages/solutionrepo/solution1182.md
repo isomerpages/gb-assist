@@ -1,5 +1,5 @@
 ---
-title: 
+title: Frontwave Cloud Version 8 -  Package (Cloud Enterprise)
 permalink: /productivity-solutions-grant/solutionrepo/solution1182
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Automated Fish Vaccination
 permalink: /productivity-solutions-grant/solutionrepo/solution2123
 ---
 

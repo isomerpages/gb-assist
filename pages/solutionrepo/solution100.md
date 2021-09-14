@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ride-on carpet extractor
 permalink: /productivity-solutions-grant/solutionrepo/solution100
 ---
 

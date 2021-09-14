@@ -1,5 +1,5 @@
 ---
-title: 
+title: Automated Mixer/ Compacter for Growing Media
 permalink: /productivity-solutions-grant/solutionrepo/solution2125
 ---
 

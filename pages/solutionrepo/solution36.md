@@ -1,5 +1,5 @@
 ---
-title: 
+title: Battery pack vacuum cleaner
 permalink: /productivity-solutions-grant/solutionrepo/solution36
 ---
 

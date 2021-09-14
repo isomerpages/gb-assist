@@ -1,5 +1,5 @@
 ---
-title: 
+title: Industrial crusher/shredder
 permalink: /productivity-solutions-grant/solutionrepo/solution60
 ---
 

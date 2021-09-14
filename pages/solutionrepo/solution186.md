@@ -1,5 +1,5 @@
 ---
-title: 
+title: Plastic Recycling System
 permalink: /productivity-solutions-grant/solutionrepo/solution186
 ---
 

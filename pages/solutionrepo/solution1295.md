@@ -1,5 +1,5 @@
 ---
-title: 
+title: PEOPLECENTRAL HRMS Version 11 - Professional 50
 permalink: /productivity-solutions-grant/solutionrepo/solution1295
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Encrusting Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution47
 ---
 

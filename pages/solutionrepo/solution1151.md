@@ -1,5 +1,5 @@
 ---
-title: 
+title: Laser Geometric Alignment System
 permalink: /productivity-solutions-grant/solutionrepo/solution1151
 ---
 

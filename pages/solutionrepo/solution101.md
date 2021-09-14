@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ride-on cleaner/scrubber
 permalink: /productivity-solutions-grant/solutionrepo/solution101
 ---
 

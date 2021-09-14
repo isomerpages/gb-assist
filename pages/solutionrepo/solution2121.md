@@ -1,5 +1,5 @@
 ---
-title: 
+title: Automated Fish Counter/ Fish Biomass Estimation System
 permalink: /productivity-solutions-grant/solutionrepo/solution2121
 ---
 

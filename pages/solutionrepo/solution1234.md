@@ -1,5 +1,5 @@
 ---
-title: 
+title: Vehicle Safety System - GridPlus VSS (2 Vehicle Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1234
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Automated Tray Sealer
 permalink: /productivity-solutions-grant/solutionrepo/solution307
 ---
 

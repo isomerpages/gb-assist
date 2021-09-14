@@ -1,5 +1,5 @@
 ---
-title: 
+title: Vacuum Packing and Sealing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution310
 ---
 

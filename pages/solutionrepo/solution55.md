@@ -1,5 +1,5 @@
 ---
-title: 
+title: Handheld Mini 2-in-1 System (Vacuum and Scrubber)
 permalink: /productivity-solutions-grant/solutionrepo/solution55
 ---
 

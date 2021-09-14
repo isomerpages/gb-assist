@@ -1,5 +1,5 @@
 ---
-title: 
+title: Madsoft Solutions IAF Version 320 - Package A (Madsoft Business 2 users)
 permalink: /productivity-solutions-grant/solutionrepo/solution1184
 ---
 

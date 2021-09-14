@@ -1,5 +1,5 @@
 ---
-title: 
+title: Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Sapphire)
 permalink: /productivity-solutions-grant/solutionrepo/solution1249
 ---
 

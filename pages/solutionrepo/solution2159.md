@@ -1,5 +1,5 @@
 ---
-title: 
+title: Vegetable Washing Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2159
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Battery operated waste collection equipment
 permalink: /productivity-solutions-grant/solutionrepo/solution35
 ---
 

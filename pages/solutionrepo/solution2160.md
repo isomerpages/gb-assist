@@ -1,5 +1,5 @@
 ---
-title: 
+title: Vegetable Weighing and Packing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2160
 ---
 

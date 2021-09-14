@@ -1,5 +1,5 @@
 ---
-title: 
+title: King Of Time Version 1 - Up to 20 users
 permalink: /productivity-solutions-grant/solutionrepo/solution1239
 ---
 

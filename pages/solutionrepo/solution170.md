@@ -1,5 +1,5 @@
 ---
-title: 
+title: Walk behind cleaner/scrubber
 permalink: /productivity-solutions-grant/solutionrepo/solution170
 ---
 

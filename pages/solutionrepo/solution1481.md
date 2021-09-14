@@ -1,5 +1,5 @@
 ---
-title: 
+title: Automatic Nut Splitter
 permalink: /productivity-solutions-grant/solutionrepo/solution1481
 ---
 

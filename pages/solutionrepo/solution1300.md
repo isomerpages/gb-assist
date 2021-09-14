@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ascent iSPOT Fleet Management System - 	iSPOT FMS Tracking and Workflow management - Package A (10 Vehicles)
 permalink: /productivity-solutions-grant/solutionrepo/solution1300
 ---
 

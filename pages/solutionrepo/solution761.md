@@ -1,5 +1,5 @@
 ---
-title: 
+title: Smart Cabinet
 permalink: /productivity-solutions-grant/solutionrepo/solution761
 ---
 

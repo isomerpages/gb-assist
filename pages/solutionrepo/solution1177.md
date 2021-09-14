@@ -1,5 +1,5 @@
 ---
-title: 
+title: (eScheduling) QuickHR - Cloud eScheduling - Essential 25
 permalink: /productivity-solutions-grant/solutionrepo/solution1177
 ---
 

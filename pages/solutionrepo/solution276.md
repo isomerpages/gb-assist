@@ -1,5 +1,5 @@
 ---
-title: 
+title: Electric pallet transporter/stacker
 permalink: /productivity-solutions-grant/solutionrepo/solution276
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Side-loader waste collection system
 permalink: /productivity-solutions-grant/solutionrepo/solution122
 ---
 

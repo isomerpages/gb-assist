@@ -1,5 +1,5 @@
 ---
-title: 
+title: Plastics washing system
 permalink: /productivity-solutions-grant/solutionrepo/solution85
 ---
 

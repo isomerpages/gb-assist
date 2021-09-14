@@ -1,5 +1,5 @@
 ---
-title: 
+title: Equip Wholesale Solutions Version 3 - Package (Basic)
 permalink: /productivity-solutions-grant/solutionrepo/solution1229
 ---
 

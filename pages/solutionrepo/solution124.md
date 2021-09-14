@@ -1,5 +1,5 @@
 ---
-title: 
+title: Smart litter bin with compactor function
 permalink: /productivity-solutions-grant/solutionrepo/solution124
 ---
 

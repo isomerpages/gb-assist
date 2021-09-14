@@ -1,5 +1,5 @@
 ---
-title: 
+title: Automated Irrigation & Dosing System
 permalink: /productivity-solutions-grant/solutionrepo/solution2124
 ---
 

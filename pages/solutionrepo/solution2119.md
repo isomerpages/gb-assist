@@ -1,5 +1,5 @@
 ---
-title: 
+title: Wireless Tour Guide System 
 permalink: /productivity-solutions-grant/solutionrepo/solution2119
 ---
 

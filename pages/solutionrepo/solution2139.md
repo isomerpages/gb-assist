@@ -1,5 +1,5 @@
 ---
-title: 
+title: Egg Grading and Inspection System
 permalink: /productivity-solutions-grant/solutionrepo/solution2139
 ---
 

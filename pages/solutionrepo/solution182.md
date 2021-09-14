@@ -1,5 +1,5 @@
 ---
-title: 
+title: Walk behind sweeper
 permalink: /productivity-solutions-grant/solutionrepo/solution182
 ---
 

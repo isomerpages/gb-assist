@@ -1,5 +1,5 @@
 ---
-title: 
+title: Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)
 permalink: /productivity-solutions-grant/solutionrepo/solution1351
 ---
 

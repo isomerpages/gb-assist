@@ -1,5 +1,5 @@
 ---
-title: 
+title: Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - 2 License Bundle
 permalink: /productivity-solutions-grant/solutionrepo/solution1233
 ---
 

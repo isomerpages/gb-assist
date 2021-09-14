@@ -1,5 +1,5 @@
 ---
-title: 
+title: Manure Treatment System
 permalink: /productivity-solutions-grant/solutionrepo/solution2148
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Packaging & Labelling Machine
 permalink: /productivity-solutions-grant/solutionrepo/solution2150
 ---
 

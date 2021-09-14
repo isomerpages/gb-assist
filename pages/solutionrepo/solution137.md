@@ -1,5 +1,5 @@
 ---
-title: 
+title: Telescopic system for high ceiling cleaning
 permalink: /productivity-solutions-grant/solutionrepo/solution137
 ---
 
