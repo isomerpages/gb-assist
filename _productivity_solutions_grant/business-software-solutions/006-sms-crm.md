@@ -9,7 +9,3 @@ third_nav_title: Enterprise Resource Planning (ERP) &<BR>Standalone Solutions
 ### IT Solutions
 
 {% include accordion.html accordions=site.data.acf006-sms-crm.accordion %}
-
-### Equipments
-
-{% include accordion.html accordions=site.data.acg006-sms-crm.accordion %}
