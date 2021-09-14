@@ -12,11 +12,11 @@ A cost-effective POS solution that comes with sleek hardware, feature-rich softw
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_1.pdf' target='_blank'>MEGAPOS - MEGAPOS Standard</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_2.pdf' target='_blank'>MEGAPOS - MEGAPOS Standard+</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_3.pdf' target='_blank'>MEGAPOS - MEGAPOS Professional</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_4.pdf' target='_blank'>MEGAPOS - MEGAPOS Professional+</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_5.pdf' target='_blank'>MEGAPOS - MEGAPOS Pro on Tablet</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_1.pdf' target='_blank'>MEGAPOS - MEGAPOS Standard</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_2.pdf' target='_blank'>MEGAPOS - MEGAPOS Standard+</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_3.pdf' target='_blank'>MEGAPOS - MEGAPOS Professional</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_4.pdf' target='_blank'>MEGAPOS - MEGAPOS Professional+</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_5.pdf' target='_blank'>MEGAPOS - MEGAPOS Pro on Tablet</a><br/>
 
 ### Eligibility Criteria
 

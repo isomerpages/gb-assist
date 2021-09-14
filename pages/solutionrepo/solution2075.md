@@ -12,10 +12,10 @@ Autodesk BIM360 Design is a design collaboration software providing a platform f
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_1.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 2 User Pack</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_2.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 5 Users Pack</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_3.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 10 Users Pack</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_4.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 25 Users Pack</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_1.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 2 User Pack</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_2.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 5 Users Pack</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_3.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 10 Users Pack</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_4.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 25 Users Pack</a><br/>
 
 ### Eligibility Criteria
 

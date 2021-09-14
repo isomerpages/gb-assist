@@ -12,10 +12,10 @@ DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_1.pdf' target='_blank'>DST Inventory System Version 1.3 - Package A (Simple)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_2.pdf' target='_blank'>DST Inventory System Version 1.3 - Package B (QR Code)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_3.pdf' target='_blank'>DST Inventory System Version 1.3 - Package C (Barcode)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_4.pdf' target='_blank'>DST Inventory System Version 1.3 - Package D (RFID)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_1.pdf' target='_blank'>DST Inventory System Version 1.3 - Package A (Simple)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_2.pdf' target='_blank'>DST Inventory System Version 1.3 - Package B (QR Code)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_3.pdf' target='_blank'>DST Inventory System Version 1.3 - Package C (Barcode)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_4.pdf' target='_blank'>DST Inventory System Version 1.3 - Package D (RFID)</a><br/>
 
 ### Eligibility Criteria
 

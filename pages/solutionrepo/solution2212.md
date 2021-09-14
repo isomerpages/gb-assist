@@ -12,11 +12,11 @@ Detrack is a cloud-based real-time vehicle tracking and electronic proof of deli
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 5 Vehicles</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 10 Vehicles</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 20 Vehicles</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & E-POD + Route Optimisation Upgrade - 10 Vehicles</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & E-POD + Route Optimisation Upgrade - 20 Vehicles</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 5 Vehicles</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 10 Vehicles</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & Real-Time Proof Of Delivery (E-POD) System - 20 Vehicles</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & E-POD + Route Optimisation Upgrade - 10 Vehicles</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DetrackSystems20200859_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Detrack - Detrack Delivery Tracking & E-POD + Route Optimisation Upgrade - 20 Vehicles</a><br/>
 
 ### Eligibility Criteria
 

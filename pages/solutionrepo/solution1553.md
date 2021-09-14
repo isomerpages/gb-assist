@@ -12,11 +12,11 @@ Sophos InterceptX Advanced EndPoint Protection is a centralized cloud managed pl
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_1.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 25 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_2.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 60 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_3.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 100 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_4.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced with EDR - 60 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_5.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced with EDR - 100 users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_1.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 25 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_2.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 60 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_3.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced - 100 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_4.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced with EDR - 60 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rah_Tech_20200168_Annex_3_Part_5.pdf' target='_blank'>Sophos EndPoint Protection - Sophos Central Intercept X Advanced with EDR - 100 users</a><br/>
 
 ### Eligibility Criteria
 

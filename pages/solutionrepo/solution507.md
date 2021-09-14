@@ -12,11 +12,11 @@ Sage 300 is an ERP solution which automates and connects the various work proces
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_1.pdf' target='_blank'>Sage 300  - Package A1 (Advanced Edition - 3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_2.pdf' target='_blank'>Sage 300  - Package A2 (Advanced Edition - 5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_3.pdf' target='_blank'>Sage 300  - Package A3 (Advanced Edition - 10 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_4.pdf' target='_blank'>Sage 300  - Package B1 (Premium Edition - 5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_5.pdf' target='_blank'>Sage 300  - Package B2 (Premium Edition - 10 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_1.pdf' target='_blank'>Sage 300  - Package A1 (Advanced Edition - 3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_2.pdf' target='_blank'>Sage 300  - Package A2 (Advanced Edition - 5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_3.pdf' target='_blank'>Sage 300  - Package A3 (Advanced Edition - 10 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_4.pdf' target='_blank'>Sage 300  - Package B1 (Premium Edition - 5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_5.pdf' target='_blank'>Sage 300  - Package B2 (Premium Edition - 10 Users)</a><br/>
 
 ### Eligibility Criteria
 

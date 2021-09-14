@@ -12,10 +12,10 @@ EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, c
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_2.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 - Tablet)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_4.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_5.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (Enhanced POS All In 1 with Smart Inventory Management and Accounting Integration)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_2.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 - Tablet)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_4.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_5.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (Enhanced POS All In 1 with Smart Inventory Management and Accounting Integration)</a><br/>
 
 ### Eligibility Criteria
 

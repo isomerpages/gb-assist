@@ -12,11 +12,11 @@ Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and re
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion Live</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + Network Client</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_3.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + SMART</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_4.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + Network Client with POS</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_5.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + SMART with POS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion Live</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + Network Client</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_3.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + SMART</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_4.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + Network Client with POS</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_5.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + SMART with POS</a><br/>
 
 ### Eligibility Criteria
 

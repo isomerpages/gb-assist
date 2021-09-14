@@ -12,11 +12,11 @@ EasyBus is a true all in one platform designed specifically for service industry
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_1.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus POS</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_2.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Online (Lite)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_2.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Online (Standard)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_5.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Factory (Retail)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_6.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Factory (Retail + Hotel)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_1.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus POS</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_2.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Online (Lite)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_2.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Online (Standard)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_5.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Factory (Retail)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_6.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Factory (Retail + Hotel)</a><br/>
 
 ### Eligibility Criteria
 

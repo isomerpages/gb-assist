@@ -12,14 +12,14 @@ Artemis is the simple, cost-effective one-stop automation of a complex regulator
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' target='_blank'>Artemis-100 searches for 1 year</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' target='_blank'>Artemis-500 searches for 1 year</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_3.pdf' target='_blank'>Artemis-1000 searches for 1 year</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_4.pdf' target='_blank'>Artemis-3000 searches for 1 year</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' target='_blank'>Artemis-100 searches for 1 year</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' target='_blank'>Artemis-500 searches for 1 year</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_3.pdf' target='_blank'>Artemis-1000 searches for 1 year</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_4.pdf' target='_blank'>Artemis-3000 searches for 1 year</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' target='_blank'>Artemis-100 searches for 1 year</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' target='_blank'>Artemis-500 searches for 1 year</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_3.pdf' target='_blank'>Artemis-1000 searches for 1 year</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_4.pdf' target='_blank'>Artemis-3000 searches for 1 year</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' target='_blank'>Artemis-100 searches for 1 year</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' target='_blank'>Artemis-500 searches for 1 year</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_3.pdf' target='_blank'>Artemis-1000 searches for 1 year</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_4.pdf' target='_blank'>Artemis-3000 searches for 1 year</a><br/>
 
 ### Eligibility Criteria
 

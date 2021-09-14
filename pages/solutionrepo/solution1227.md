@@ -12,8 +12,8 @@ VRcollab is a next generation VDC software solution for the construction industr
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_1.pdf' target='_blank'>VRcollab LITE - BIM VDC VR FULL BUNDLE</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_2.pdf' target='_blank'>VRcollab LITE - LICENSE ONLY</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_1.pdf' target='_blank'>VRcollab LITE - BIM VDC VR FULL BUNDLE</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_2.pdf' target='_blank'>VRcollab LITE - LICENSE ONLY</a><br/>
 
 ### Eligibility Criteria
 

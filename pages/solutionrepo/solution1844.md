@@ -12,7 +12,7 @@ Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). Th
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank'>Doctor Anywhere Platform</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank'>Doctor Anywhere Platform</a><br/>
 
 ### Eligibility Criteria
 

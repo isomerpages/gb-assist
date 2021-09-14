@@ -12,9 +12,9 @@ Arrowlogic Pte Ltd has been established since 2008 locally in Singapore and we b
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_1.pdf' target='_blank'>NetQ Management System - NetQ Management System</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_2.pdf' target='_blank'>NetQ Management System - NetQ Management System(include hardware and SMS notification)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_3.pdf' target='_blank'>NetQ Management System - NetQ Management System(include SMS notification and Face Recognition Thermometer)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_1.pdf' target='_blank'>NetQ Management System - NetQ Management System</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_2.pdf' target='_blank'>NetQ Management System - NetQ Management System(include hardware and SMS notification)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_3.pdf' target='_blank'>NetQ Management System - NetQ Management System(include SMS notification and Face Recognition Thermometer)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,9 +12,9 @@ Spend more time on what matters. Ecommflow takes care of the rest, with a suite 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Ecommflow Version 2.0 - Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Ecommflow Version 2.0 - Plus</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Ecommflow Version 2.0 - Pro</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Ecommflow Version 2.0 - Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Ecommflow Version 2.0 - Plus</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Ecommflow Version 2.0 - Pro</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Optimize your F&B business productivity and operational efficiency with DinePlan
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_1.pdf' target='_blank'>LFSuite Version 6.0-Package A [Automate] - (2x Digital Ordering + Analytics)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_23.pdf' target='_blank'>LFSuite Version 6.0-Package C [Complete]  - (3x Digital Ordering + KDS + Analytics)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_45.pdf' target='_blank'>LFSuite Version 6.0-Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_67.pdf' target='_blank'>LFSuite Version 6.0-Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_89.pdf' target='_blank'>LFSuite Version 6.0- Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_1.pdf' target='_blank'>LFSuite Version 6.0-Package A [Automate] - (2x Digital Ordering + Analytics)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_23.pdf' target='_blank'>LFSuite Version 6.0-Package C [Complete]  - (3x Digital Ordering + KDS + Analytics)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_45.pdf' target='_blank'>LFSuite Version 6.0-Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_67.pdf' target='_blank'>LFSuite Version 6.0-Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_89.pdf' target='_blank'>LFSuite Version 6.0- Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</a><br/>
 
 ### Eligibility Criteria
 

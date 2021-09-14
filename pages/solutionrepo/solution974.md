@@ -12,11 +12,11 @@ Xero is a beautiful, intelligent software platform designed to make life better 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Premium, Set Up Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up, Training Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_5.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Premium, Set Up, Training Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Premium, Set Up Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Standard, Set Up, Training Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YOIO_Annex_3_CR_wef_29_July_2021_Part_5.pdf' target='_blank'>Xero Cloud Accounting Software Version 10.5-YOIO Xero Premium, Set Up, Training Package</a><br/>
 
 ### Eligibility Criteria
 

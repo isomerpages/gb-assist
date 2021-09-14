@@ -12,9 +12,9 @@ Insight QSE Safety PTW System alleviates the current paper-based method of routi
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' target='_blank'>InSight QSE - Insight  QSE Safety PTW System (Starter)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_2.pdf' target='_blank'>InSight QSE - Insight  QSE Safety PTW System (Premium)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_3.pdf' target='_blank'>InSight QSE - Insight QSE Safety PTW System (Enterprise)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' target='_blank'>InSight QSE - Insight  QSE Safety PTW System (Starter)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_2.pdf' target='_blank'>InSight QSE - Insight  QSE Safety PTW System (Premium)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_3.pdf' target='_blank'>InSight QSE - Insight QSE Safety PTW System (Enterprise)</a><br/>
 
 ### Eligibility Criteria
 

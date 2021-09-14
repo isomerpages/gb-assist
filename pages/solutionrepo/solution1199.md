@@ -12,8 +12,8 @@ SmartWeb is one of the unique solutions in the market which allows online orderi
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_1.pdf' target='_blank'>SmartWeb V3 Version V3 - Smartweb V3 (License Only)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_2.pdf' target='_blank'>SmartWeb V3 Version V3 - Smartweb V3 (License & Implementation Support)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_1.pdf' target='_blank'>SmartWeb V3 Version V3 - Smartweb V3 (License Only)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_2.pdf' target='_blank'>SmartWeb V3 Version V3 - Smartweb V3 (License & Implementation Support)</a><br/>
 
 ### Eligibility Criteria
 

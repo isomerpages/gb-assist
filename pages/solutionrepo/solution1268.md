@@ -12,8 +12,8 @@ Aptsys online CRM, marketing and advertising capabilities will propel businesses
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package B</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package B</a><br/>
 
 ### Eligibility Criteria
 

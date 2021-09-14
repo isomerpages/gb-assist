@@ -12,8 +12,8 @@ WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We bel
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>WarelyPOS Version 1.1 - WarelyPOS Express</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_2.pdf' target='_blank'>WarelyPOS Version 1.1 - WarelyPOS Premium</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>WarelyPOS Version 1.1 - WarelyPOS Express</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_2.pdf' target='_blank'>WarelyPOS Version 1.1 - WarelyPOS Premium</a><br/>
 
 ### Eligibility Criteria
 

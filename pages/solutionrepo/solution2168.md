@@ -12,11 +12,11 @@ Relying on signatures alone to detect today's threats is insufficient; Zero-day 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_1.pdf' target='_blank'>EndPoint Standard - 10 EndPoints</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_3.pdf' target='_blank'>EndPoint Standard - 50 EndPoints</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_4.pdf' target='_blank'>EndPoint Standard - 100 EndPoints</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_5.pdf' target='_blank'>EndPoint Standard - 200 EndPoints</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_2.pdf' target='_blank'>EndPoint Standard - 30 EndPoints</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_1.pdf' target='_blank'>EndPoint Standard - 10 EndPoints</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_3.pdf' target='_blank'>EndPoint Standard - 50 EndPoints</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_4.pdf' target='_blank'>EndPoint Standard - 100 EndPoints</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_5.pdf' target='_blank'>EndPoint Standard - 200 EndPoints</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_2.pdf' target='_blank'>EndPoint Standard - 30 EndPoints</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,9 +12,9 @@ For happy HR, bosses and employees, you want a platform that can help your team 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_1.pdf' target='_blank'>(SaaS) JustLogin HR Cloud - A (Up to 15 pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_3.pdf' target='_blank'>(SaaS) JustLogin HR Cloud - C (Up to 100 pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_5.pdf' target='_blank'>(SaaS) JustLogin HR Cloud - E (Up to 200 pax)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_1.pdf' target='_blank'>(SaaS) JustLogin HR Cloud - A (Up to 15 pax)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_3.pdf' target='_blank'>(SaaS) JustLogin HR Cloud - C (Up to 100 pax)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_5.pdf' target='_blank'>(SaaS) JustLogin HR Cloud - E (Up to 200 pax)</a><br/>
 
 ### Eligibility Criteria
 

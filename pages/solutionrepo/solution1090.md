@@ -12,9 +12,9 @@ BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>BIZ POS Version 3.0 -BIZ POS VER 3.0 ALL-IN-ONE</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank'>BIZ POS Version 3.0 -BIZ POS VER 3.0 MOBILE</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank'>BIZ POS Version 3.0 -BIZ POS VER 3.0 LAPTOP</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>BIZ POS Version 3.0 -BIZ POS VER 3.0 ALL-IN-ONE</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank'>BIZ POS Version 3.0 -BIZ POS VER 3.0 MOBILE</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank'>BIZ POS Version 3.0 -BIZ POS VER 3.0 LAPTOP</a><br/>
 
 ### Eligibility Criteria
 

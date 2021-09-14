@@ -12,11 +12,11 @@ Xero is an online accounting software for SMEs, to be able to automate their eve
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup, Migration & Training)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_2.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup & Training)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_3.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_4.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Training)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium, Subscription only)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup, Migration & Training)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_2.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup & Training)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_3.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_4.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Training)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium, Subscription only)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,10 +12,10 @@ Advocado Cloud Loyalty Customer Relationship Management software empowers SMEs t
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_1.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Starter)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_2.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Standard)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_3.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Professional B.I.)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_4.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Enterprise B.I.)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_1.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Starter)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_2.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Standard)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_3.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Professional B.I.)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_4.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Enterprise B.I.)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,10 +12,10 @@ With Arcstone's Equipment Monitoring and Manufacturing Data Collection solution,
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Customized</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - All-in-One Annual Subscription License - Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - All-in-One Annual Subscription License - Customized</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Customized</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - All-in-One Annual Subscription License - Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - All-in-One Annual Subscription License - Customized</a><br/>
 
 ### Eligibility Criteria
 

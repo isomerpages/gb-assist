@@ -12,9 +12,9 @@ Fides Cloud is an all-round CRM, Loyalty & Campaign Management platform for all 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Fides Suite - Fides Cloud - 1 Outlet</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Fides Suite - Fides Cloud - 3 Outlets</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Fides Suite - Fides Cloud - 4 Outlets</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Fides Suite - Fides Cloud - 1 Outlet</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Fides Suite - Fides Cloud - 3 Outlets</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Fides Suite - Fides Cloud - 4 Outlets</a><br/>
 
 ### Eligibility Criteria
 

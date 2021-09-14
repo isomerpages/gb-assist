@@ -12,10 +12,10 @@ Xero is a comprehensive accounting software that provides accounting features li
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Package A (Xero Premier full package with consultation)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Package C (Xero Premier with Training)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Package D (Xero Premier with setup)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_5.pdf' target='_blank'>Xero Cloud Accounting Software - Package E (Xero Subscription only)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Package A (Xero Premier full package with consultation)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Package C (Xero Premier with Training)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Package D (Xero Premier with setup)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_5.pdf' target='_blank'>Xero Cloud Accounting Software - Package E (Xero Subscription only)</a><br/>
 
 ### Eligibility Criteria
 

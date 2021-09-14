@@ -12,11 +12,11 @@ LGA's Managed Firewall Service provides robust next-generation firewall protecti
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_1.pdf' target='_blank'>Managed Firewall Solution - Fortigate 40F</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_2.pdf' target='_blank'>Managed Firewall Solution - Fortigate 60F</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_3.pdf' target='_blank'>Managed Firewall Solution - Fortigate 80F</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_4.pdf' target='_blank'>Managed Firewall Solution - Fortigate 100F</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_5.pdf' target='_blank'>Managed Firewall Solution - Fortigate 200F</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_1.pdf' target='_blank'>Managed Firewall Solution - Fortigate 40F</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_2.pdf' target='_blank'>Managed Firewall Solution - Fortigate 60F</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_3.pdf' target='_blank'>Managed Firewall Solution - Fortigate 80F</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_4.pdf' target='_blank'>Managed Firewall Solution - Fortigate 100F</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_5.pdf' target='_blank'>Managed Firewall Solution - Fortigate 200F</a><br/>
 
 ### Eligibility Criteria
 

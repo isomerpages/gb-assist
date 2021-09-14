@@ -12,11 +12,11 @@ Sage300 is a powerful accounting and financial management solution that allows S
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_1.pdf' target='_blank'>Sage 300 Version 2021 - Advance Edition (Single User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_2.pdf' target='_blank'>Sage 300 Version 2021 - Advance Edition (10 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_3.pdf' target='_blank'>Sage 300 Version 2021 - Peppol Ready- Advance Edition (3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_4.pdf' target='_blank'>Sage 300 Version 2021 - Peppol Ready- Advance Edition (5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_5.pdf' target='_blank'>Sage 300 Version 2021 - Advance Edition (7 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_1.pdf' target='_blank'>Sage 300 Version 2021 - Advance Edition (Single User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_2.pdf' target='_blank'>Sage 300 Version 2021 - Advance Edition (10 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_3.pdf' target='_blank'>Sage 300 Version 2021 - Peppol Ready- Advance Edition (3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_4.pdf' target='_blank'>Sage 300 Version 2021 - Peppol Ready- Advance Edition (5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_5.pdf' target='_blank'>Sage 300 Version 2021 - Advance Edition (7 Users)</a><br/>
 
 ### Eligibility Criteria
 

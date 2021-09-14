@@ -12,11 +12,11 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_1.pdf' target='_blank'>XERO - Accounting Consultancy-Standard Full Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_2.pdf' target='_blank'>XERO - Accounting Consultancy-Standard Basic Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_3.pdf' target='_blank'>XERO - Accounting Consultancy-Premium Full Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_4.pdf' target='_blank'>XERO - Accounting Consultancy-Premium Basic Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_5.pdf' target='_blank'>XERO - Accounting Consultancy-Standard Subscription</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_1.pdf' target='_blank'>XERO - Accounting Consultancy-Standard Full Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_2.pdf' target='_blank'>XERO - Accounting Consultancy-Standard Basic Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_3.pdf' target='_blank'>XERO - Accounting Consultancy-Premium Full Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_4.pdf' target='_blank'>XERO - Accounting Consultancy-Premium Basic Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_5.pdf' target='_blank'>XERO - Accounting Consultancy-Standard Subscription</a><br/>
 
 ### Eligibility Criteria
 

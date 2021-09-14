@@ -12,11 +12,11 @@ USA Fleet Solutions offers top fleet management hardware and software products t
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_1.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8-iTrack Fleet Management Package A (1 Vehicle)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_2.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package B (3 Vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_3.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package C (6 Vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_4.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package D (9 Vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_5.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package E (12 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_1.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8-iTrack Fleet Management Package A (1 Vehicle)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_2.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package B (3 Vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_3.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package C (6 Vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_4.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package D (9 Vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_5.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package E (12 Vehicles)</a><br/>
 
 ### Eligibility Criteria
 

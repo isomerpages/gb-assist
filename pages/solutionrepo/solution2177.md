@@ -12,11 +12,11 @@ CommercePromote is a provider of enterprise cloud base PropTech platform that ad
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 1 up to 5</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 2 up to 10</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_3.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 3 up to 25</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_4.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 4 up to 50</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_5.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 5 up to 100</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 1 up to 5</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 2 up to 10</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_3.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 3 up to 25</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_4.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 4 up to 50</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_5.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 5 up to 100</a><br/>
 
 ### Eligibility Criteria
 

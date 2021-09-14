@@ -12,11 +12,11 @@ Xero is a cloud-based online accounting solution that can handle tasks that used
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software and Setup</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software, Setup and Training</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software Setup and Migration</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_5.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software Setup, Migration and Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software and Setup</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software, Setup and Training</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software Setup and Migration</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedHarvestAccountingannex3CRwef17June2021_Part_5.pdf' target='_blank'>Xero Cloud Accounting Software - Harvest - Software Setup, Migration and Training</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,9 +12,9 @@ Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabil
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) - Package A (Ready To Go: 3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) - Package B (Level Up: 5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) - Package C (Premium: 10 Users with Peppol)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) - Package A (Ready To Go: 3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) - Package B (Level Up: 5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) - Package C (Premium: 10 Users with Peppol)</a><br/>
 
 ### Eligibility Criteria
 

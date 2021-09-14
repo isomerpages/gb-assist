@@ -12,11 +12,11 @@ Madsoft Solutions is an integrated order processing, inventory and accounting so
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_1.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package A (Madsoft Business 2 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_2.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package B (Madsoft Business 5 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_3.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package C (Madsoft Enterprise 3 users with RFID Hardware)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_4.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package D (Madsoft Enterprise 7 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_5.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package E (Madsoft Premier 4 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_1.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package A (Madsoft Business 2 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_2.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package B (Madsoft Business 5 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_3.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package C (Madsoft Enterprise 3 users with RFID Hardware)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_4.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package D (Madsoft Enterprise 7 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Madsoft_20200026_Annex_3_Part_5.pdf' target='_blank'>Madsoft Solutions IAF Version 320 - Package E (Madsoft Premier 4 users)</a><br/>
 
 ### Eligibility Criteria
 

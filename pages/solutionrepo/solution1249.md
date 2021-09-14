@@ -12,9 +12,9 @@ Verz Design is one of the key and leading players when it comes to providing Mag
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_1.pdf' target='_blank'>Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Sapphire)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_2.pdf' target='_blank'>Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Emerald)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_3.pdf' target='_blank'>Magento and WooCommerce Solutions for Retail - Advanced WooCommerce Ecommerce by Verz Design (Amber)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_1.pdf' target='_blank'>Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Sapphire)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_2.pdf' target='_blank'>Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Emerald)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_3.pdf' target='_blank'>Magento and WooCommerce Solutions for Retail - Advanced WooCommerce Ecommerce by Verz Design (Amber)</a><br/>
 
 ### Eligibility Criteria
 

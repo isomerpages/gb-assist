@@ -12,8 +12,8 @@ ChopeQueues is a contactless queue management that is fully integrated with our 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_1.pdf' target='_blank'>ChopeQueues - ChopeQueues Standalone with 10k SMS Bundle </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_2.pdf' target='_blank'>ChopeQueues - ChopeQueues as add-on to ChopeCloud or ChopeBook with 10k SMS Bundle</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_1.pdf' target='_blank'>ChopeQueues - ChopeQueues Standalone with 10k SMS Bundle </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_2.pdf' target='_blank'>ChopeQueues - ChopeQueues as add-on to ChopeCloud or ChopeBook with 10k SMS Bundle</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,7 +12,7 @@ Development of an online shopping cart system complete with integrated product d
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20200806_Desensitised_Annex_3.pdf' target='_blank'>Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20200806_Desensitised_Annex_3.pdf' target='_blank'>Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)</a><br/>
 
 ### Eligibility Criteria
 

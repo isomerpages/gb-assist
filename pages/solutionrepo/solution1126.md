@@ -12,11 +12,11 @@ Our POS solution is customizable to use in multiple business sectors, which are 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_2.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO PLUS)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE PLUS)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_2.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO PLUS)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE PLUS)</a><br/>
 
 ### Eligibility Criteria
 

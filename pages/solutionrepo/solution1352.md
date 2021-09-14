@@ -12,11 +12,11 @@ Administrator manage the company's HR requirements, payroll, schedule, Leave and
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_1.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS STANDARD PACKAGE A (50 Employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_2.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS STANDARD PACKAGE B (100 Employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_3.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE C (50 Employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_4.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE D (100 Employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_5.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE E (150 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_1.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS STANDARD PACKAGE A (50 Employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_2.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS STANDARD PACKAGE B (100 Employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_3.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE C (50 Employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_4.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE D (100 Employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_5.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE E (150 Employees)</a><br/>
 
 ### Eligibility Criteria
 

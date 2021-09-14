@@ -12,11 +12,11 @@ Xero is cloud based accounting solution designed for small businesses. Users can
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Xero Accounting software - Subscription Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Xero Accounting software - Standard Starter Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Xero Accounting software - Grow Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Xero Accounting software - Premium Starter Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Xero Accounting software - Premium Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Xero Accounting software - Subscription Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Xero Accounting software - Standard Starter Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Xero Accounting software - Grow Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Xero Accounting software - Premium Starter Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Xero Accounting software - Premium Package</a><br/>
 
 ### Eligibility Criteria
 

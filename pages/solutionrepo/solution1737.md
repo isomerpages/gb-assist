@@ -12,11 +12,11 @@ SmartFM is an integrated, cloud based, facility management solution. It is desig
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_1.pdf' target='_blank'>SmartFM Version 1.0 - Basic (250 Pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_2.pdf' target='_blank'>SmartFM Version 1.0 - Core (250 Pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_3.pdf' target='_blank'>SmartFM Version 1.0 - Core (500 Pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_4.pdf' target='_blank'>SmartFM Version 1.0 - Core (1000 Pax)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_5.pdf' target='_blank'>SmartFM Version 1.0 - Commercial (Unlimited)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_1.pdf' target='_blank'>SmartFM Version 1.0 - Basic (250 Pax)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_2.pdf' target='_blank'>SmartFM Version 1.0 - Core (250 Pax)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_3.pdf' target='_blank'>SmartFM Version 1.0 - Core (500 Pax)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_4.pdf' target='_blank'>SmartFM Version 1.0 - Core (1000 Pax)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_5.pdf' target='_blank'>SmartFM Version 1.0 - Commercial (Unlimited)</a><br/>
 
 ### Eligibility Criteria
 

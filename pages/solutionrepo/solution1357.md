@@ -12,10 +12,10 @@ FingerBooth POS System is an one stop solution for retail and beauty industry sh
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_1.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Lite</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_2.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Pro</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_3.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Pro + Online Appointment</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_4.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Pro With Hardware</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_1.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Lite</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_2.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Pro</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_3.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Pro + Online Appointment</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_4.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Pro With Hardware</a><br/>
 
 ### Eligibility Criteria
 

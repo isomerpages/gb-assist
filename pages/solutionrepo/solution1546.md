@@ -12,11 +12,11 @@ Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resour
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_1.pdf' target='_blank'>D365 Business Central (Microsoft) - Package A (5 Subscription Licences)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Package B (PEPPOL e-invoicing-15 Perpetual Licences)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Package C (PEPPOL e-invoicing-7 Subscription Licence)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Package D (PEPPOL e-invoicing-15 Subscription Licence)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_5.pdf' target='_blank'>D365 Business Central (Microsoft) - Package E (10 Subscription Licences)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_1.pdf' target='_blank'>D365 Business Central (Microsoft) - Package A (5 Subscription Licences)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Package B (PEPPOL e-invoicing-15 Perpetual Licences)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Package C (PEPPOL e-invoicing-7 Subscription Licence)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Package D (PEPPOL e-invoicing-15 Subscription Licence)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_5.pdf' target='_blank'>D365 Business Central (Microsoft) - Package E (10 Subscription Licences)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,9 +12,9 @@ One-Stop Document Access is a document management system, accessible via web bro
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_1.pdf' target='_blank'>One-Stop Document Access - Lite (2 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_2.pdf' target='_blank'>One-Stop Document Access - Plus (5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_3.pdf' target='_blank'>One-Stop Document Access - Pro (10 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_1.pdf' target='_blank'>One-Stop Document Access - Lite (2 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_2.pdf' target='_blank'>One-Stop Document Access - Plus (5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_3.pdf' target='_blank'>One-Stop Document Access - Pro (10 Users)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Sleek offers a fully digital experience for the effortless management of corpora
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_1.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_2.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_3.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan C</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_4.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan D</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_5.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan E</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_1.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_2.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan B</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_3.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan C</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_4.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan D</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekDocMgtCRwef8April2021_Part_5.pdf' target='_blank'>A-Class Corporate Governance & Document Management by Sleek Version 1 - Plan E</a><br/>
 
 ### Eligibility Criteria
 

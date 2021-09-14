@@ -12,8 +12,8 @@ SAP Business One is an ERP solution with built-in advanced analytical processing
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_4.pdf' target='_blank'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (1 License)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_5.pdf' target='_blank'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (2 Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_4.pdf' target='_blank'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (1 License)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MPS_Solutions_20200045_Annex_3_CR_wef_23_July_2020_Part_5.pdf' target='_blank'>SAP Business One SQL & HANA Version 9.3 PL6/10.0 - Package (2 Licenses)</a><br/>
 
 ### Eligibility Criteria
 

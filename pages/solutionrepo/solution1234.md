@@ -12,11 +12,11 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_1.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (2 Vehicle Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_2.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (4 Vehicle Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_3.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (6 Vehicle Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_4.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (8 Vehicle Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_5.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (10 Vehicle Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_1.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (2 Vehicle Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_2.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (4 Vehicle Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_3.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (6 Vehicle Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_4.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (8 Vehicle Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200249_Annex_3_Part_5.pdf' target='_blank'>Vehicle Safety System - GridPlus VSS (10 Vehicle Package)</a><br/>
 
 ### Eligibility Criteria
 

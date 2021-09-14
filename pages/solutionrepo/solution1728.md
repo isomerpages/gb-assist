@@ -12,8 +12,8 @@ Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses t
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>BOTG Version 1.0 - Standard</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_2.pdf' target='_blank'>BOTG Version 1.0 - Professional </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>BOTG Version 1.0 - Standard</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_2.pdf' target='_blank'>BOTG Version 1.0 - Professional </a><br/>
 
 ### Eligibility Criteria
 

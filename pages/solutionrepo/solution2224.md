@@ -12,11 +12,11 @@ Tisch Global Corporate Advisory is offering A-Start , a seamless cloud accountin
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_1.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Lite Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_2.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_3.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Medium Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_4.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Large Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_5_1.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Extra Large Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_1.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Lite Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_2.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Standard Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_3.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Medium Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_4.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Large Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/TischGlobal20200717_Desensitised_Annex_3_Part_5_1.pdf' target='_blank'>QuickBooks Online - A-Start Tisch Accounting QuickBooks Extra Large Package</a><br/>
 
 ### Eligibility Criteria
 

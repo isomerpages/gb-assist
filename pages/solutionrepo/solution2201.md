@@ -12,10 +12,10 @@ FITPRISE PMS is a web-based management system that manages the QA/QC project man
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210011_Desensitised_Annex_3_Part_1.pdf' target='_blank'>FITPRISE Project Management System - FITPRISE Project Management System - 10 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210011_Desensitised_Annex_3_Part_2.pdf' target='_blank'>FITPRISE Project Management System - FITPRISE Project Management System (with Mobile App) - 10 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210011_Desensitised_Annex_3_Part_3.pdf' target='_blank'>FITPRISE Project Management System - FITPRISE Project Management System - 5 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210011_Desensitised_Annex_3_Part_4.pdf' target='_blank'>FITPRISE Project Management System - FITPRISE Project Management System (with Mobile App) - 5 users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210011_Desensitised_Annex_3_Part_1.pdf' target='_blank'>FITPRISE Project Management System - FITPRISE Project Management System - 10 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210011_Desensitised_Annex_3_Part_2.pdf' target='_blank'>FITPRISE Project Management System - FITPRISE Project Management System (with Mobile App) - 10 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210011_Desensitised_Annex_3_Part_3.pdf' target='_blank'>FITPRISE Project Management System - FITPRISE Project Management System - 5 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Enhanzcom20210011_Desensitised_Annex_3_Part_4.pdf' target='_blank'>FITPRISE Project Management System - FITPRISE Project Management System (with Mobile App) - 5 users</a><br/>
 
 ### Eligibility Criteria
 

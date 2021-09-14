@@ -12,11 +12,11 @@ SysFreight is an advanced TOTAL FREIGHT MANAGEMENT SOLUTION that delivers compre
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_1.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 3 User</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_2.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 6 User</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_3.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 9 User</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_4.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 12 User</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_5.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 15 User</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_1.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 3 User</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_2.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 6 User</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_3.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 9 User</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_4.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 12 User</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSysmagicSoftwareSolutionAnnex3wef20May2021_Part_5.pdf' target='_blank'>SYSFREIGHT Version 8 - Standard 15 User</a><br/>
 
 ### Eligibility Criteria
 

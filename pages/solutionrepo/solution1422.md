@@ -12,11 +12,11 @@ The Freight Master software is a suite of integrated and comprehensive software 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_1.pdf' target='_blank'>Freight Master Version 8.1 (5 Licenses)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_2.pdf' target='_blank'>Freight Master Version 8.1 (8 Licenses)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_3.pdf' target='_blank'>Freight Master Version 8.1 (12 Licenses)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_4.pdf' target='_blank'>Freight Master Version 8.1 (18 Licenses)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_5.pdf' target='_blank'>Freight Master Version 8.1 (25 Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_1.pdf' target='_blank'>Freight Master Version 8.1 (5 Licenses)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_2.pdf' target='_blank'>Freight Master Version 8.1 (8 Licenses)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_3.pdf' target='_blank'>Freight Master Version 8.1 (12 Licenses)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_4.pdf' target='_blank'>Freight Master Version 8.1 (18 Licenses)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_5.pdf' target='_blank'>Freight Master Version 8.1 (25 Licenses)</a><br/>
 
 ### Eligibility Criteria
 

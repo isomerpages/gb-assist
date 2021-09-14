@@ -12,10 +12,10 @@ Optimize your retail business productivity and efficiency with RetailPlan, our i
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>LFSUITE Version 6.0 - Package Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>LFSUITE Version 6.0 - Package Functional</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_3.pdf' target='_blank'>LFSUITE Version 6.0 - Package Online2Offline</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_4.pdf' target='_blank'>LFSUITE Version 6.0 - Package Digital</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>LFSUITE Version 6.0 - Package Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>LFSUITE Version 6.0 - Package Functional</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_3.pdf' target='_blank'>LFSUITE Version 6.0 - Package Online2Offline</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_4.pdf' target='_blank'>LFSUITE Version 6.0 - Package Digital</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,10 +12,10 @@ Creative eShop is e-commerce platform which enable users to manage their online 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_1.pdf' target='_blank'>Creative Eshop - Package (Lite)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_2.pdf' target='_blank'>Creative Eshop  - Package (Standard)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_3.pdf' target='_blank'>Creative Eshop - Package (Pro)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_4.pdf' target='_blank'>Creative Eshop - Package (Premium)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_1.pdf' target='_blank'>Creative Eshop - Package (Lite)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_2.pdf' target='_blank'>Creative Eshop  - Package (Standard)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_3.pdf' target='_blank'>Creative Eshop - Package (Pro)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_4.pdf' target='_blank'>Creative Eshop - Package (Premium)</a><br/>
 
 ### Eligibility Criteria
 

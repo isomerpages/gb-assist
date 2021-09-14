@@ -12,7 +12,7 @@ EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by st
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' target='_blank'>Ezyprocure Version 2.0-Package 1</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' target='_blank'>Ezyprocure Version 2.0-Package 1</a><br/>
 
 ### Eligibility Criteria
 

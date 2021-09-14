@@ -12,8 +12,8 @@ Athena E-store is an e-commerce solution by Cleverly that makes having an online
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Athena E-store Solution-Athena E Store Lite Version</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Athena E-store Solution-Athena E Store Solution</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Athena E-store Solution-Athena E Store Lite Version</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Athena E-store Solution-Athena E Store Solution</a><br/>
 
 ### Eligibility Criteria
 

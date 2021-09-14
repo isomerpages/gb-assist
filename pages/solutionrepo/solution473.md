@@ -12,9 +12,9 @@ Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_1.pdf' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Basic)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_2.pdf' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Pro)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_3.pdf' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Comprehensive)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_1.pdf' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Basic)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_2.pdf' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Pro)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_3.pdf' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Comprehensive)</a><br/>
 
 ### Eligibility Criteria
 

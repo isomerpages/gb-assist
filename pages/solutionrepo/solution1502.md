@@ -12,11 +12,11 @@ A cloud-based EndPoint solution which secures Windows (desktops and servers), Ma
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_1.pdf' target='_blank'>Trend Micro - Package (Worry Free Protection)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_2.pdf' target='_blank'>Trend Micro - Worry Free Protection (25 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_3.pdf' target='_blank'>Trend Micro -Package (Apex One - 51 Licenses)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_4.pdf' target='_blank'>Trend Micro - Package (Apex One - 100 Licenses)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_5.pdf' target='_blank'>Trend Micro - Package (Apex One - 150 Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_1.pdf' target='_blank'>Trend Micro - Package (Worry Free Protection)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_2.pdf' target='_blank'>Trend Micro - Worry Free Protection (25 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_3.pdf' target='_blank'>Trend Micro -Package (Apex One - 51 Licenses)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_4.pdf' target='_blank'>Trend Micro - Package (Apex One - 100 Licenses)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_5.pdf' target='_blank'>Trend Micro - Package (Apex One - 150 Licenses)</a><br/>
 
 ### Eligibility Criteria
 

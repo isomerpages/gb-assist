@@ -12,11 +12,11 @@ Shell Telematics is designed to help business owners get the best performance fr
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_1.pdf' target='_blank'>Shell Telematics - Shell Telematics (5 vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_2.pdf' target='_blank'>Shell Telematics - Shell Telematics (10 vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_3.pdf' target='_blank'>Shell Telematics - Shell Telematics (20 vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_4.pdf' target='_blank'>Shell Telematics - Shell Telematics (30 vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_5.pdf' target='_blank'>Shell Telematics - Shell Telematics (40 vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_1.pdf' target='_blank'>Shell Telematics - Shell Telematics (5 vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_2.pdf' target='_blank'>Shell Telematics - Shell Telematics (10 vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_3.pdf' target='_blank'>Shell Telematics - Shell Telematics (20 vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_4.pdf' target='_blank'>Shell Telematics - Shell Telematics (30 vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_5.pdf' target='_blank'>Shell Telematics - Shell Telematics (40 vehicles)</a><br/>
 
 ### Eligibility Criteria
 

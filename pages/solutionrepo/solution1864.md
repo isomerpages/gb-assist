@@ -12,11 +12,11 @@ Second CRM is an easy to use cloud based business automation solution designed t
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Second CRM Version 7.1 - Package A (3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Second CRM Version 7.1 - Package B (5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Second CRM Version 7.1 - Package C (10 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Second CRM Version 7.1 - Package D (15 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Second CRM Version 7.1 - Package E (20 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Second CRM Version 7.1 - Package A (3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Second CRM Version 7.1 - Package B (5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Second CRM Version 7.1 - Package C (10 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Second CRM Version 7.1 - Package D (15 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Second CRM Version 7.1 - Package E (20 Users)</a><br/>
 
 ### Eligibility Criteria
 

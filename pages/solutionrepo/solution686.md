@@ -12,11 +12,11 @@ Moneyworks by Cognito Software provides a powerful, feature rich platform that u
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>Moneyworks Version 8 - Gold (1 user)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>Moneyworks Version 8 - Now (3 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>Moneyworks Version 8 - DataCentre (3 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>Moneyworks Version 8 - Datacentre (3 users with integration and automation)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>Moneyworks Version 8 - Datacentre (3 users with Zoho CRM integration)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>Moneyworks Version 8 - Gold (1 user)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>Moneyworks Version 8 - Now (3 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>Moneyworks Version 8 - DataCentre (3 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>Moneyworks Version 8 - Datacentre (3 users with integration and automation)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>Moneyworks Version 8 - Datacentre (3 users with Zoho CRM integration)</a><br/>
 
 ### Eligibility Criteria
 

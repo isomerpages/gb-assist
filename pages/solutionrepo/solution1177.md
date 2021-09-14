@@ -12,11 +12,11 @@ QuickHR eScheduling offers cutting-edge cloud-based Automated Scheduling & Workf
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_1.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling - Essential 25</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_2.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling - Enhanced 100</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_3.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling - Enhanced 175</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_4.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling  - Enterprise 250</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_5.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling  - Enterprise 300</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_1.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling - Essential 25</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_2.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling - Enhanced 100</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_3.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling - Enhanced 175</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_4.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling  - Enterprise 250</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_5.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling  - Enterprise 300</a><br/>
 
 ### Eligibility Criteria
 

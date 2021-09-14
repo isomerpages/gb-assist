@@ -12,11 +12,11 @@ Baron Weighing System can be used in both hardware and software. In hardware, th
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Dynamic Load Cell for Bin Lifter)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Static Load Cell - 4 points)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Static Load Cell - 6 points)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Static Load Cell - 8 points)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron On-board Static Weighing for Hooklift)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Dynamic Load Cell for Bin Lifter)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Static Load Cell - 4 points)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Static Load Cell - 6 points)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Static Load Cell - 8 points)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron On-board Static Weighing for Hooklift)</a><br/>
 
 ### Eligibility Criteria
 

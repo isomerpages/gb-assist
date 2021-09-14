@@ -12,11 +12,11 @@ Sage CRM is a customer relationship management solution designed to help small a
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - A. Standard CRM for 3 Named Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - B. Standard CRM for 5 Named Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - C. Standard CRM for 10 Named Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - D. Standard CRM for 15 Named Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - E. Standard CRM With Field Service Automation for 10 Named Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - A. Standard CRM for 3 Named Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - B. Standard CRM for 5 Named Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - C. Standard CRM for 10 Named Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - D. Standard CRM for 15 Named Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - E. Standard CRM With Field Service Automation for 10 Named Users</a><br/>
 
 ### Eligibility Criteria
 

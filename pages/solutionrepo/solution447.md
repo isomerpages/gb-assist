@@ -12,10 +12,10 @@ A Digital costing platform, for the QS fraternity, whereby measurements of eleme
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_1.pdf' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 1 (5D BIM Takeoff for Architecture & Structure)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_2.pdf' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 2 (5D BIM Takeoff for Rebar)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_3.pdf' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 3 (5D BIM For BQ Cost Management)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_4.pdf' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 4 (5D BIM Takeoff for MEP - Full specs)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_1.pdf' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 1 (5D BIM Takeoff for Architecture & Structure)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_2.pdf' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 2 (5D BIM Takeoff for Rebar)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_3.pdf' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 3 (5D BIM For BQ Cost Management)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Glodon_International_20200151_Annex_3_20200625152127_Part_4.pdf' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3 - Package 4 (5D BIM Takeoff for MEP - Full specs)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,10 +12,10 @@ Simplr is an easy-to-use, intuitive mobility solution for distribution managemen
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_1.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-On Premise (5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_2.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_3.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_4.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (8 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_1.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-On Premise (5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_2.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_3.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_4.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (8 Users)</a><br/>
 
 ### Eligibility Criteria
 

@@ -13,15 +13,15 @@ ABSS Premier is an Accounting & Sales Management Software that is fully integrat
 ### Packages Available
 
 <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_1.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
-Management System Version 23 - Package A with E-Invoicing(1 User)</a>
+Management System Version 23 - Package A with E-Invoicing(1 User)</a><br/>
 <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_2.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
-Management System Version 23 - Package C with E-Invoicing & Training(1 User)</a>
+Management System Version 23 - Package C with E-Invoicing & Training(1 User)</a><br/>
 <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_3.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
-Management System Version 23 - Package D with E-Invoicing & Training (3 Users)</a>
+Management System Version 23 - Package D with E-Invoicing & Training (3 Users)</a><br/>
 <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_4.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
-Management System Version 23 - Package E with E-Invoicing, Remote Access & Training(3 Users)</a>
+Management System Version 23 - Package E with E-Invoicing, Remote Access & Training(3 Users)</a><br/>
 <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_5.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
-Management System Version 23 -  Package B with E-Invoicing (3 Users)</a>
+Management System Version 23 -  Package B with E-Invoicing (3 Users)</a><br/>
 
 ### Eligibility Criteria
 

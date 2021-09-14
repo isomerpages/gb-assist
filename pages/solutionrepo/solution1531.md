@@ -12,7 +12,7 @@ Web Imp is an award winning SG tech firm with full in-house capabilities. They f
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_Pte_Ltd_20200527_Annex_3.pdf' target='_blank'>Mobile Responsive E-Commerce Version 1 - Standard</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_Pte_Ltd_20200527_Annex_3.pdf' target='_blank'>Mobile Responsive E-Commerce Version 1 - Standard</a><br/>
 
 ### Eligibility Criteria
 

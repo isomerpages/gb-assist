@@ -12,11 +12,11 @@ SQL Account includes full range of business features including AR, AP, GL, Inven
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_1.pdf' target='_blank'>SQL Account Version 5-Package A (1 User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_2.pdf' target='_blank'>SQL Account Version 5-Package B (Advance - 1 User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_3.pdf' target='_blank'>SQL Account Version 5-Package C (Advance - 3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_4.pdf' target='_blank'>SQL Account Version 5-Package D (Advance - 5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_5.pdf' target='_blank'>SQL Account Version 5-Package E (Advance - 8 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_1.pdf' target='_blank'>SQL Account Version 5-Package A (1 User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_2.pdf' target='_blank'>SQL Account Version 5-Package B (Advance - 1 User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_3.pdf' target='_blank'>SQL Account Version 5-Package C (Advance - 3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_4.pdf' target='_blank'>SQL Account Version 5-Package D (Advance - 5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Apscom_20200091_Annex_3_Part_5.pdf' target='_blank'>SQL Account Version 5-Package E (Advance - 8 Users)</a><br/>
 
 ### Eligibility Criteria
 

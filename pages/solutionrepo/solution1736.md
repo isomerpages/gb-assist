@@ -12,7 +12,7 @@ EON was established in 1996 and specialises in providing human capital consultin
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</a><br/>
 
 ### Sector Specialisation
 

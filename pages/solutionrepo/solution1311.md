@@ -12,11 +12,11 @@ VSS is a comprehensive and user-friendly solution in wireless applications of Gl
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_1.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (12 Vehicles Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_2.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (14 Vehicles Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_3.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (16 Vehicles Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_4.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (18 Vehicles Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_5.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (20 Vehicles Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_1.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (12 Vehicles Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_2.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (14 Vehicles Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_3.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (16 Vehicles Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_4.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (18 Vehicles Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_5.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (20 Vehicles Package)</a><br/>
 
 ### Eligibility Criteria
 

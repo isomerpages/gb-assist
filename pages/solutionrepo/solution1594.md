@@ -12,10 +12,10 @@ cuteTrac is an advanced vehicle tracking solution that helps to manage fleet ope
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_1.pdf' target='_blank'>cuteTrac Version 2  - Package (1 Vehicle)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_2.pdf' target='_blank'>cuteTrac Version 2  -  Package (3 Vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_3.pdf' target='_blank'>cuteTrac Version 2  - Package (8 Vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_4.pdf' target='_blank'>cuteTrac Version 2  - Package (13 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_1.pdf' target='_blank'>cuteTrac Version 2  - Package (1 Vehicle)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_2.pdf' target='_blank'>cuteTrac Version 2  -  Package (3 Vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_3.pdf' target='_blank'>cuteTrac Version 2  - Package (8 Vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_4.pdf' target='_blank'>cuteTrac Version 2  - Package (13 Vehicles)</a><br/>
 
 ### Eligibility Criteria
 

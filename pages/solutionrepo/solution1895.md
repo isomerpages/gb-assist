@@ -12,10 +12,10 @@ With Arcstone's Manufacturing Quality Management solution, manufacturers can gai
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - Annual Subscription License - Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - Annual Subscription License - Customized</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Customized</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - Annual Subscription License - Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - Annual Subscription License - Customized</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Customized</a><br/>
 
 ### Eligibility Criteria
 

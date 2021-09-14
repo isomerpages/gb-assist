@@ -12,7 +12,7 @@ A specialized solution for wholesalers to optimize their order fulfilment to cus
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/MEVO_20200130_Annex_3_20200625145056_Part_1.pdf' target='_blank'>MEVO DMS 8.3 - MEVO B2B (8 Users Bundle)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/MEVO_20200130_Annex_3_20200625145056_Part_1.pdf' target='_blank'>MEVO DMS 8.3 - MEVO B2B (8 Users Bundle)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,9 +12,9 @@ Visual Optical RMS is a retail management system specifically designed for an op
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_1.pdf' target='_blank'>Visual Optical Retail Management System Version 8 Software - Package (Business Starter)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_2.pdf' target='_blank'>Visual Optical Retail Management System Version 8 Software - Package (Business Pro)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_3.pdf' target='_blank'>Visual Optical Retail Management System Version 8 Software - Package (Business Enterprise)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_1.pdf' target='_blank'>Visual Optical Retail Management System Version 8 Software - Package (Business Starter)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_2.pdf' target='_blank'>Visual Optical Retail Management System Version 8 Software - Package (Business Pro)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_3.pdf' target='_blank'>Visual Optical Retail Management System Version 8 Software - Package (Business Enterprise)</a><br/>
 
 ### Eligibility Criteria
 

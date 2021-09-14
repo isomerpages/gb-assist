@@ -12,9 +12,9 @@ Web URL: www.3dbrandagency.com/ecommerce <br>Contact Hotline: 8881 2881  <br>Con
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_1.pdf' target='_blank'>3D Omni Commerce Version 1.03 - STANDARD</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_2.pdf' target='_blank'>3D Omni Commerce Version 1.03 - PRO (Shopee Online Marketplace)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_3.pdf' target='_blank'>3D Omni Commerce Version 1.03 - ENTERPRISE (Shopee, Lazada, Qoo10 Online Marketplaces)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_1.pdf' target='_blank'>3D Omni Commerce Version 1.03 - STANDARD</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_2.pdf' target='_blank'>3D Omni Commerce Version 1.03 - PRO (Shopee Online Marketplace)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_3D_Brand_20200553_Annex_3_Part_3.pdf' target='_blank'>3D Omni Commerce Version 1.03 - ENTERPRISE (Shopee, Lazada, Qoo10 Online Marketplaces)</a><br/>
 
 ### Eligibility Criteria
 

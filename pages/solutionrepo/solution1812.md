@@ -12,11 +12,11 @@ Data Connect Technologies propose FortiGate F-series for CyberSecurity Unified T
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_1.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With SOC) - Package (FG-100F)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_2.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP - Package (FG-100F)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_3.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP (With SOC) - Package (FG-60F)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_4.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP - Package (FG-60F)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_5.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With Manage Service and SOC) - Package (FG-100F)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_1.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With SOC) - Package (FG-100F)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_2.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP - Package (FG-100F)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_3.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP (With SOC) - Package (FG-60F)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_4.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP - Package (FG-60F)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_5.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With Manage Service and SOC) - Package (FG-100F)</a><br/>
 
 ### Eligibility Criteria
 

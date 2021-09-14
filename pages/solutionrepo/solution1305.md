@@ -12,7 +12,7 @@ This 6-in-1 platform provides each F&B establishment with their exclusive websit
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_C_O_Enterprise_20200416_Annex_3.pdf' target='_blank'>ACE e-commerce solution - Ace Online Ordering System</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_C_O_Enterprise_20200416_Annex_3.pdf' target='_blank'>ACE e-commerce solution - Ace Online Ordering System</a><br/>
 
 ### Eligibility Criteria
 

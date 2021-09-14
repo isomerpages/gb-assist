@@ -12,9 +12,9 @@ APPZPOS is a one integrated solution with multiple ordering portals linked to th
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_1.pdf' target='_blank'>APPZPOS F&B Point of Sales Version 1.1 - 1 E-Waiter Digital Ordering System</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_2.pdf' target='_blank'>APPZPOS F&B Point of Sales Version 1.1 - IOS/Android Mobile Ordering System</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_3.pdf' target='_blank'>APPZPOS F&B Point of Sales Version 1.1 - Web Online Ordering System</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_1.pdf' target='_blank'>APPZPOS F&B Point of Sales Version 1.1 - 1 E-Waiter Digital Ordering System</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_2.pdf' target='_blank'>APPZPOS F&B Point of Sales Version 1.1 - IOS/Android Mobile Ordering System</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_3.pdf' target='_blank'>APPZPOS F&B Point of Sales Version 1.1 - Web Online Ordering System</a><br/>
 
 ### Eligibility Criteria
 

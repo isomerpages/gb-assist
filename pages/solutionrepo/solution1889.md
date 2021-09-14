@@ -12,8 +12,8 @@ GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collab
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_1.pdf' target='_blank'>GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - Plus</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_2.pdf' target='_blank'>GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - 1 Year Rental</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_1.pdf' target='_blank'>GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - Plus</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_2.pdf' target='_blank'>GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - 1 Year Rental</a><br/>
 
 ### Eligibility Criteria
 

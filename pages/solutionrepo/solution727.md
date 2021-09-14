@@ -12,11 +12,11 @@ Our company specializes in business software applications ie selling Psoft Accou
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_1.pdf' target='_blank'>Psoft Accounting Systems - Package (Cloud-Based Single User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_2.pdf' target='_blank'>Psoft Accounting Systems - Package (Cloud-Based Three Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_3.pdf' target='_blank'>Psoft Accounting Systems - Package (Cloud-Based Five Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_4.pdf' target='_blank'>Psoft Accounting Systems - Package (Web-Based Single User with PEPPOL)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_5.pdf' target='_blank'>Psoft Accounting Systems - Package (Web-Based Three Users with PEPPOL)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_1.pdf' target='_blank'>Psoft Accounting Systems - Package (Cloud-Based Single User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_2.pdf' target='_blank'>Psoft Accounting Systems - Package (Cloud-Based Three Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_3.pdf' target='_blank'>Psoft Accounting Systems - Package (Cloud-Based Five Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_4.pdf' target='_blank'>Psoft Accounting Systems - Package (Web-Based Single User with PEPPOL)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_5.pdf' target='_blank'>Psoft Accounting Systems - Package (Web-Based Three Users with PEPPOL)</a><br/>
 
 ### Eligibility Criteria
 

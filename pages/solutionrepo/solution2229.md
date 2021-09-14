@@ -12,11 +12,11 @@ Providing customized HR outsourcing services combined with Human Capital Managem
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_1.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (1 - 15 Employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_2.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (16 - 25 Employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_3.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (26- 50 Employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_4.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (51- 100 Employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_5.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (101- 200 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_1.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (1 - 15 Employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_2.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (16 - 25 Employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_3.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (26- 50 Employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_4.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (51- 100 Employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_5.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (101- 200 Employees)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ PixelCommerce is a complete e-Store solution that enables SMEs to boost business
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_1.pdf' target='_blank'>PixelCommerce Version 5.2.5-Essentials</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_2.pdf' target='_blank'>PixelCommerce Version 5.2.5-Extended</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_3.pdf' target='_blank'>PixelCommerce Version 5.2.5-AI</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_4.pdf' target='_blank'>PixelCommerce Version 5.2.5-AI Advanced</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_5.pdf' target='_blank'>PixelCommerce Version 5.2.5-Ultimate</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_1.pdf' target='_blank'>PixelCommerce Version 5.2.5-Essentials</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_2.pdf' target='_blank'>PixelCommerce Version 5.2.5-Extended</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_3.pdf' target='_blank'>PixelCommerce Version 5.2.5-AI</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_4.pdf' target='_blank'>PixelCommerce Version 5.2.5-AI Advanced</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_5.pdf' target='_blank'>PixelCommerce Version 5.2.5-Ultimate</a><br/>
 
 ### Eligibility Criteria
 

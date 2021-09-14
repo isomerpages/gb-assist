@@ -12,11 +12,11 @@ Voted as one of the best HRMS vendors by the Human Resource community, Unit4 has
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_1.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft25 (For 25 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_2.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft50 (For 50 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_3.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft75 (For 75 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_4.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft100 (For 100 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_5.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft150 (For 150 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_1.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft25 (For 25 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_2.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft50 (For 50 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_3.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft75 (For 75 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_4.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft100 (For 100 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_20200265_Annex_3_Part_5.pdf' target='_blank'>Prosoft HRMS (SaaS) Version 8.0/8.5 - Enable-Prosoft150 (For 150 users)</a><br/>
 
 ### Eligibility Criteria
 

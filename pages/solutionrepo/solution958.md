@@ -12,9 +12,9 @@ Winapp EzySalesOrder V 2.0  simplifies your organization, to do day to day opera
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_1.pdf' target='_blank'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (2 Devices)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_2.pdf' target='_blank'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (5 Devices)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_3.pdf' target='_blank'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (10 Devices)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_1.pdf' target='_blank'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (2 Devices)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_2.pdf' target='_blank'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (5 Devices)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_3.pdf' target='_blank'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (10 Devices)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,7 +12,7 @@ Synergix E1 is a comprehensive ERP solution that helps to integrate and link up 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_1.pdf' target='_blank'>Synergix E1 Sales & Accounting - Package (5 users) - TH6</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Annex3_Part_1.pdf' target='_blank'>Synergix E1 Sales & Accounting - Package (5 users) - TH6</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Powerful & speedy cloud-based digital ordering system, accelerate your business 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (1 Waiter)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (2 Waiters)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (3 Waiters)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (4 Waiters)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (5 Waiters)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (1 Waiter)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (2 Waiters)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (3 Waiters)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (4 Waiters)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell20200625_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Popcorn Point-of-sales System Version 1 - Digital Ordering & Online Payment (5 Waiters)</a><br/>
 
 ### Eligibility Criteria
 

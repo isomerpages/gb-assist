@@ -12,11 +12,11 @@ ABSS premier is an on-premise full fledge and integrated accounting, sales, inve
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_1.pdf' target='_blank'>ABSS Premier Version 23.0 - Package A (Single User Licence full package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_2.pdf' target='_blank'>ABSS Premier Version 23.0 - Package B (Three User Licence full package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_3.pdf' target='_blank'>ABSS Premier Version 23.0 - Package C (Three User Licence full package with remote access)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_4.pdf' target='_blank'>ABSS Premier Version 23.0 - Package D (Single User Licence product only)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_5.pdf' target='_blank'>ABSS Premier Version 23.0 - Package E (Three User Licence product only)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_1.pdf' target='_blank'>ABSS Premier Version 23.0 - Package A (Single User Licence full package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_2.pdf' target='_blank'>ABSS Premier Version 23.0 - Package B (Three User Licence full package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_3.pdf' target='_blank'>ABSS Premier Version 23.0 - Package C (Three User Licence full package with remote access)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_4.pdf' target='_blank'>ABSS Premier Version 23.0 - Package D (Single User Licence product only)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_5.pdf' target='_blank'>ABSS Premier Version 23.0 - Package E (Three User Licence product only)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,7 +12,7 @@ Intelli-Signage solution combine touch screen system, age and gender recognition
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Annex_3.pdf' target='_blank'>Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Annex_3.pdf' target='_blank'>Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit</a><br/>
 
 ### Eligibility Criteria
 

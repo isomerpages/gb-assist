@@ -12,11 +12,11 @@ AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet Forti
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 60F with 1 Year Onsite support for quarterly firmware update</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_2.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 100F</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_3.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 100F with 1 Year Onsite support for quarterly firmware update</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_4.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 200E</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 200E with 1 Year Onsite support for quarterly firmware update</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 60F with 1 Year Onsite support for quarterly firmware update</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_2.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 100F</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_3.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 100F with 1 Year Onsite support for quarterly firmware update</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_4.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 200E</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 200E with 1 Year Onsite support for quarterly firmware update</a><br/>
 
 ### Eligibility Criteria
 

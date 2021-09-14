@@ -12,11 +12,11 @@ EZ Accounting and Inventory Management System started since 1999 developed by EZ
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_1.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - SINGLE USER</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_2.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 3 USERS</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_3.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 5 USERS</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_4.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE v10.1 - UNLIMITED USERS</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_5.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE PLUS v10.1 - UNLIMITED USERS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_1.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - SINGLE USER</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_2.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 3 USERS</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_3.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 5 USERS</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_4.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE v10.1 - UNLIMITED USERS</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_5.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE PLUS v10.1 - UNLIMITED USERS</a><br/>
 
 ### Eligibility Criteria
 

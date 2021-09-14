@@ -12,11 +12,11 @@ We established in 2003 and provide one stop service company included software so
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_1.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE START-UP</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_2.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE  ESSENTIAL</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_3.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE  PREMIUM</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_4.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE  ENTERPRISE</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_5.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE CUSTOMISED SYSTEM</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_1.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE START-UP</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_2.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE  ESSENTIAL</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_3.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE  PREMIUM</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_4.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE  ENTERPRISE</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_5.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE CUSTOMISED SYSTEM</a><br/>
 
 ### Eligibility Criteria
 

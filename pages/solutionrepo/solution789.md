@@ -12,7 +12,7 @@ Shopmatic is a SaaS solution that offers an integrated business solutions for SM
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Modified_Annex_3_wef_1_march_2021.pdf' target='_blank'>Shopmatic - Shopmatic Pro Concierge</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Modified_Annex_3_wef_1_march_2021.pdf' target='_blank'>Shopmatic - Shopmatic Pro Concierge</a><br/>
 
 ### Eligibility Criteria
 

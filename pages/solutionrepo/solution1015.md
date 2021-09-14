@@ -12,11 +12,11 @@ As system implementation consultant and accounting firm, we explore and assist c
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_1.pdf' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Starter</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_2.pdf' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Essential</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_3.pdf' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution - Inventory</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_4.pdf' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution - Enterprise</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_5.pdf' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Premium</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_1.pdf' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Starter</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_2.pdf' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Essential</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_3.pdf' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution - Inventory</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_4.pdf' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution - Enterprise</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_5.pdf' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Premium</a><br/>
 
 ### Eligibility Criteria
 

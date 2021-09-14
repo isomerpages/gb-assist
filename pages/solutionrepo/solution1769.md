@@ -12,10 +12,10 @@ Xero is online accounting software that allows small businesses to work in real-
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_1.pdf' target='_blank'>Xero - Xero Basic Implementation (XBI)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_2.pdf' target='_blank'>Xero - Xero Advanced Implementation (XAI)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_3.pdf' target='_blank'>Xero - Xero Premium Implementation (XPI)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_4.pdf' target='_blank'>Xero - Xero Subscription Only (XSO)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_1.pdf' target='_blank'>Xero - Xero Basic Implementation (XBI)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_2.pdf' target='_blank'>Xero - Xero Advanced Implementation (XAI)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_3.pdf' target='_blank'>Xero - Xero Premium Implementation (XPI)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_4.pdf' target='_blank'>Xero - Xero Subscription Only (XSO)</a><br/>
 
 ### Eligibility Criteria
 

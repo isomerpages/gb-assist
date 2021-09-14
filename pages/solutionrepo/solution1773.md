@@ -12,11 +12,11 @@ SAP Business One is an integrated business management application. It offers a c
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_1.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Perpetual users SQL on Cloud</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_2.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Perpetual Starter users SQL on Cloud</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_3.pdf' target='_blank'>SAP BUSINESS ONE V10 - 3 Perpetual users Hana on Cloud</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_4.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Perpetual users Hana on Cloud</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_5.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Subscription users Hana on Cloud</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_1.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Perpetual users SQL on Cloud</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_2.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Perpetual Starter users SQL on Cloud</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_3.pdf' target='_blank'>SAP BUSINESS ONE V10 - 3 Perpetual users Hana on Cloud</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_4.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Perpetual users Hana on Cloud</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_5.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Subscription users Hana on Cloud</a><br/>
 
 ### Eligibility Criteria
 

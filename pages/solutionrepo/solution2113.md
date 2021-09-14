@@ -12,11 +12,11 @@ Sophos Intercept X stops the widest range of attacks with a unique combination o
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (25 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (50 users) </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (75 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (100 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (150 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (25 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (50 users) </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (75 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (100 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Netpluz20200589_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Sophos Central EndPoint Protection - Sophos Central Intercept X Advanced - 12 months (150 users)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Characterized by its easy-to-use, fast operated speed, complete business logic c
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 1 User</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 3 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_3.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 5 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_4.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 8 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_5.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 12 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 1 User</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 3 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_3.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 5 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_4.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 8 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_5.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 12 Users</a><br/>
 
 ### Eligibility Criteria
 

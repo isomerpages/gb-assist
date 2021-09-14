@@ -12,11 +12,11 @@ EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-ba
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_1.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package A (Basic)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_2.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package B (Basic + Multi Outlet Control + Appointment & Commission)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_3.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package C (Basic + Inventory Manager APP)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_4.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package D (Basic + Inventory Manager APP with Tablet)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_5.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package E (Basic + Inventory Manager APP Without Hardware)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_1.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package A (Basic)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_2.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package B (Basic + Multi Outlet Control + Appointment & Commission)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_3.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package C (Basic + Inventory Manager APP)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_4.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package D (Basic + Inventory Manager APP with Tablet)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_5.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package E (Basic + Inventory Manager APP Without Hardware)</a><br/>
 
 ### Eligibility Criteria
 

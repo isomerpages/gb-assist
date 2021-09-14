@@ -12,11 +12,11 @@ An enterprise solution for the professional services industry - Legal, Accountan
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package A - Up to 5 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package B - Up to 12 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package C - Up to 20 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package D - Up to 30 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package E - Up to 45 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package A - Up to 5 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package B - Up to 12 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package C - Up to 20 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package D - Up to 30 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package E - Up to 45 Users</a><br/>
 
 ### Eligibility Criteria
 

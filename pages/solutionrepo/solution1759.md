@@ -12,11 +12,11 @@ The solution is a cloud-based, common digital platform - the Intelligent Nationa
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_1.pdf' target='_blank'>iCoreSpec - Single User (One Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_2.pdf' target='_blank'>iCoreSpec - Single User (Full Suite)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_3.pdf' target='_blank'>iCoreSpec - Corporate User (C1 - 5 Users One Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_4.pdf' target='_blank'>iCoreSpec - Corporate User (C1 - 5 Users Full Suite)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_5.pdf' target='_blank'>iCoreSpec - Corporate User (C2 - 10 Users One Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_1.pdf' target='_blank'>iCoreSpec - Single User (One Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_2.pdf' target='_blank'>iCoreSpec - Single User (Full Suite)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_3.pdf' target='_blank'>iCoreSpec - Corporate User (C1 - 5 Users One Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_4.pdf' target='_blank'>iCoreSpec - Corporate User (C1 - 5 Users Full Suite)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_5.pdf' target='_blank'>iCoreSpec - Corporate User (C2 - 10 Users One Package)</a><br/>
 
 ### Eligibility Criteria
 

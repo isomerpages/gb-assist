@@ -12,10 +12,10 @@ ChopeBook is a Table Management System (TMS) designed to make the most of a rest
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_1.pdf' target='_blank'>ChopeBook - ChopeBook Software Only </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_2.pdf' target='_blank'>ChopeBook - ChopeBook with Phone Line Mgmt Software Only </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_3.pdf' target='_blank'>ChopeBook - ChopeBook Software & Hardware</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_4.pdf' target='_blank'>ChopeBook - ChopeBook with Phone Line Management Software & Hardware</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_1.pdf' target='_blank'>ChopeBook - ChopeBook Software Only </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_2.pdf' target='_blank'>ChopeBook - ChopeBook with Phone Line Mgmt Software Only </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_3.pdf' target='_blank'>ChopeBook - ChopeBook Software & Hardware</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_4.pdf' target='_blank'>ChopeBook - ChopeBook with Phone Line Management Software & Hardware</a><br/>
 
 ### Eligibility Criteria
 

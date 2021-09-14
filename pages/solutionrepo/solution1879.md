@@ -12,9 +12,9 @@ ZETTAPPS is an integrated Accounting, Order Processing and Multi Currencies Mana
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_1.pdf' target='_blank'>ZettApps Finance & Order Processing Version 4.2 - Package A - SME</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_2.pdf' target='_blank'>ZettApps Finance & Order Processing Version 4.2 - Package B - Premium</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_3.pdf' target='_blank'>ZettApps Finance & Order Processing Version 4.2 - Package C - Enterprise</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_1.pdf' target='_blank'>ZettApps Finance & Order Processing Version 4.2 - Package A - SME</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_2.pdf' target='_blank'>ZettApps Finance & Order Processing Version 4.2 - Package B - Premium</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zetta_20200480_Desensitised_Annex_3_Part_3.pdf' target='_blank'>ZettApps Finance & Order Processing Version 4.2 - Package C - Enterprise</a><br/>
 
 ### Eligibility Criteria
 

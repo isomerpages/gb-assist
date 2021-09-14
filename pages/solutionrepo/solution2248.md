@@ -12,11 +12,11 @@ Document management is a module to help the users digitize and manage their digi
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_1.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package A: (Up to 3 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_2.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package B: (Up to 8 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_3.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package C: (Up to 10 users - With OCR)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_4.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package D: (Up to 15 users - With OCR)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_5.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package E: (Up to 25 users - With OCR)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_1.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package A: (Up to 3 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_2.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package B: (Up to 8 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_3.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package C: (Up to 10 users - With OCR)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_4.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package D: (Up to 15 users - With OCR)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_5.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package E: (Up to 25 users - With OCR)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,10 +12,10 @@ SEMS Smart FM solution enables organizations to manage their estate(s) at ease. 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_1.pdf' target='_blank'>Smart Estate Management System - Contractors Pack</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_2.pdf' target='_blank'>Smart Estate Management System - TC Term Contractor Pack</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_3.pdf' target='_blank'>Smart Estate Management System - Single Estate Pack</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_4.pdf' target='_blank'>Smart Estate Management System - Multi Estate Pack</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_1.pdf' target='_blank'>Smart Estate Management System - Contractors Pack</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_2.pdf' target='_blank'>Smart Estate Management System - TC Term Contractor Pack</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_3.pdf' target='_blank'>Smart Estate Management System - Single Estate Pack</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_4.pdf' target='_blank'>Smart Estate Management System - Multi Estate Pack</a><br/>
 
 ### Eligibility Criteria
 

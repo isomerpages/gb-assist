@@ -12,9 +12,9 @@ Moiboo is an automobile business software which helps auto workshops, auto deale
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_1.pdf' target='_blank'>REACH MOIBOO Version 1.8 - Plan A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_2.pdf' target='_blank'>REACH MOIBOO Version 1.8 - Plan B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_3.pdf' target='_blank'>REACH MOIBOO Version 1.8 - Plan C</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_1.pdf' target='_blank'>REACH MOIBOO Version 1.8 - Plan A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_2.pdf' target='_blank'>REACH MOIBOO Version 1.8 - Plan B</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_3.pdf' target='_blank'>REACH MOIBOO Version 1.8 - Plan C</a><br/>
 
 ### Eligibility Criteria
 

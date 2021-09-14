@@ -12,11 +12,11 @@ Xero simplifies business tasks so that Managers can focus on the business.
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Xero - Bamboo Sea Software only</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Xero - Bamboo Sea Basic Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Xero - Bamboo Sea Basic+ Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Xero - Bamboo Sea Intermediate Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Xero - Bamboo Sea Application Integration</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Xero - Bamboo Sea Software only</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Xero - Bamboo Sea Basic Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Xero - Bamboo Sea Basic+ Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Xero - Bamboo Sea Intermediate Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Bamboo20200550_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Xero - Bamboo Sea Application Integration</a><br/>
 
 ### Eligibility Criteria
 

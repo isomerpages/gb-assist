@@ -12,11 +12,11 @@ Qashier provides smart point-of-sale (POS) solutions to help small merchants dig
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>Qashier Smart Terminal - Package A (Growth + Premier Setup + Training)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_2.pdf' target='_blank'>Qashier Smart Terminal - Package B (Growth + Advanced Setup)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_3.pdf' target='_blank'>Qashier Smart Terminal - Package C (Basic)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_4.pdf' target='_blank'>Qashier Smart Terminal - Package D (Pro)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_5.pdf' target='_blank'>Qashier Smart Terminal - Package E (Pro + Basic Setup)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>Qashier Smart Terminal - Package A (Growth + Premier Setup + Training)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_2.pdf' target='_blank'>Qashier Smart Terminal - Package B (Growth + Advanced Setup)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_3.pdf' target='_blank'>Qashier Smart Terminal - Package C (Basic)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_4.pdf' target='_blank'>Qashier Smart Terminal - Package D (Pro)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_5.pdf' target='_blank'>Qashier Smart Terminal - Package E (Pro + Basic Setup)</a><br/>
 
 ### Eligibility Criteria
 

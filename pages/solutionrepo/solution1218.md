@@ -12,11 +12,11 @@ Autodesk's AEC collection equips the Industry to design & construct high quality
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 1 Year AEC</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 3 Year AEC</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 1 Year AEC (1 Day training)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_4.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 3 Year AEC (3 Days training)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_5.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 3 Year AEC (Advance - 3 Days training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 1 Year AEC</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 3 Year AEC</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 1 Year AEC (1 Day training)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_4.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 3 Year AEC (3 Days training)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BIMAGE_Annex_3_CR_wef_30_Dec_2020_Part_5.pdf' target='_blank'>BIMAGE - Autodesk AEC Collection - 3 Year AEC (Advance - 3 Days training)</a><br/>
 
 ### Eligibility Criteria
 

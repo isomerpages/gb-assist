@@ -12,9 +12,9 @@ Extend your business online and generate higher sales revenue with our scalable 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_1.pdf' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 -Express E-Commerce Website Development Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_2.pdf' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 -Customized E-Commerce Website Development Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_3.pdf' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 -Elite E-Commerce Website Development Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_1.pdf' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 -Express E-Commerce Website Development Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_2.pdf' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 -Customized E-Commerce Website Development Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_3.pdf' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 -Elite E-Commerce Website Development Package</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,12 +12,12 @@ The SAP Business One application offers a single, affordable way to manage your 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>SAP Business One 9.3 - Package (2 Starter Users on Cloud)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_2.pdf' target='_blank'>SAP Business One 9.3 -  Package (5 Starter Users on Cloud)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_3.pdf' target='_blank'>SAP Business One 9.3 -  Package (6 Professional Users on Cloud)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_4.pdf' target='_blank'>SAP Business One 9.3 - Package (8 Professional Users on Cloud with Peppol Einvoicing)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>SAP Business One 9.3 - Package (2 Starter Users on Cloud)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_2.pdf' target='_blank'>SAP Business One 9.3 -  Package (5 Starter Users on Cloud)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_3.pdf' target='_blank'>SAP Business One 9.3 -  Package (6 Professional Users on Cloud)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_4.pdf' target='_blank'>SAP Business One 9.3 - Package (8 Professional Users on Cloud with Peppol Einvoicing)</a><br/>
 <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_5.pdf' target='_blank'>SAP Business One 9.3 - Package (11 Professional Users on
-Cloud with Peppol Einvoicing)</a>
+Cloud with Peppol Einvoicing)</a><br/>
 
 ### Eligibility Criteria
 

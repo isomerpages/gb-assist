@@ -12,11 +12,11 @@ Dropbox is a file storage solution known to many individuals, but the business e
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_1.pdf' target='_blank'>Dropbox Business - Dropbox Business: 3 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_2.pdf' target='_blank'>Dropbox Business - Dropbox Business: 5 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_3.pdf' target='_blank'>Dropbox Business - Dropbox Business: 10 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_4.pdf' target='_blank'>Dropbox Business - Dropbox Business: 15 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_5.pdf' target='_blank'>Dropbox Business - Dropbox Business: 20 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_1.pdf' target='_blank'>Dropbox Business - Dropbox Business: 3 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_2.pdf' target='_blank'>Dropbox Business - Dropbox Business: 5 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_3.pdf' target='_blank'>Dropbox Business - Dropbox Business: 10 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_4.pdf' target='_blank'>Dropbox Business - Dropbox Business: 15 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_5.pdf' target='_blank'>Dropbox Business - Dropbox Business: 20 Users</a><br/>
 
 ### Eligibility Criteria
 

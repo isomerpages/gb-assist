@@ -12,8 +12,8 @@ Aptsys Customer Mobile Self Ordering with online payment and Delivery  is an O2O
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAptsysAnnex3CRwef22April2021_Part_1.pdf' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAptsysAnnex3CRwef22April2021_Part_2.pdf' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package B	</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAptsysAnnex3CRwef22April2021_Part_1.pdf' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAptsysAnnex3CRwef22April2021_Part_2.pdf' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package B	</a><br/>
 
 ### Eligibility Criteria
 

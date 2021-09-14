@@ -12,11 +12,11 @@ Microsoft Dynamics 365 Business Central is a cloud-based, comprehensive all-in-o
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential - 3 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential - 5 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential with PEPPOL - 5 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential with PEPPOL - 10 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_5.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Premium with PEPPOL - 10 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential - 3 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential - 5 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential with PEPPOL - 5 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential with PEPPOL - 10 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_5.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Premium with PEPPOL - 10 Users</a><br/>
 
 ### Eligibility Criteria
 

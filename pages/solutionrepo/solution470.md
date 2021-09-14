@@ -12,9 +12,9 @@ The solutions offered by Hubspot Asia Pte Ltd are a suite of Customer Relationsh
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_1.pdf' target='_blank'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Growth Package)- Hubspot</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_2.pdf' target='_blank'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Marketers' Package) - Hubspot</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_3.pdf' target='_blank'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Service/E-commerce Package) - Hubspot</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_1.pdf' target='_blank'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Growth Package)- Hubspot</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_2.pdf' target='_blank'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Marketers' Package) - Hubspot</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Hubspot_Asia_Annex3_CR_wef_7_Sept_2020_Part_3.pdf' target='_blank'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub -CRM (Service/E-commerce Package) - Hubspot</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,7 +12,7 @@ Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign proje
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a><br/>
 
 ### Sector Specialisation
 

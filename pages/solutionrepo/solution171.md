@@ -12,10 +12,10 @@ Studio Manager is an enterprise retail POS and CRM solution that integrates mark
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_1.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package A (Standard)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_2.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package B (Professional)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_3.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package C (Premium)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_4.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package D (Branch License)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_1.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package A (Standard)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_2.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package B (Professional)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_3.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package C (Premium)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_4.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package D (Branch License)</a><br/>
 
 ### Eligibility Criteria
 

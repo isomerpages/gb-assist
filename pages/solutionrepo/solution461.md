@@ -12,10 +12,10 @@ Hubble Workforce Management System is a cloud solution on both web and mobile, t
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_1.pdf' target='_blank'>Hubble Workforce Management System Version 2.0 - Package (Up to 50 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_2.pdf' target='_blank'>Hubble Workforce Management System Version 2.0 - Package (Up to 100 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_3.pdf' target='_blank'>Hubble Workforce Management System Version 2.0 - Package (Up to 200 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_4.pdf' target='_blank'>Hubble Workforce Management System Version 2.0 - Package (Up to 250 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_1.pdf' target='_blank'>Hubble Workforce Management System Version 2.0 - Package (Up to 50 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_2.pdf' target='_blank'>Hubble Workforce Management System Version 2.0 - Package (Up to 100 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_3.pdf' target='_blank'>Hubble Workforce Management System Version 2.0 - Package (Up to 200 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_Annex_3_Part_4.pdf' target='_blank'>Hubble Workforce Management System Version 2.0 - Package (Up to 250 Users)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ FleetManager App software is a modern fleet management system offered by Logisfl
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_1.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 1 vehicle</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 5 vehicles</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 10 vehicles</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_4.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 15 vehicles</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_5.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 20 vehicles</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_1.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 1 vehicle</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 5 vehicles</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 10 vehicles</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_4.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 15 vehicles</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/LOGISFLEET20200544_Desensitised_Annex_3(002)_Part_5.pdf' target='_blank'>FleetManager Version 5.0 - FleetManager Leasing Plan for 20 vehicles</a><br/>
 
 ### Eligibility Criteria
 

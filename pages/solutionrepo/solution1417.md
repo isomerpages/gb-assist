@@ -12,11 +12,11 @@ GenicDocs is a very user-friendly interface and secured Document Management Soft
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_1.pdf' target='_blank'>GenicDocs - Document Management Software-Package A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_2.pdf' target='_blank'>GenicDocs - Document Management Software-Package B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_3.pdf' target='_blank'>GenicDocs - Document Management Software-Package C</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_4.pdf' target='_blank'>GenicDocs - Document Management Software-Package D</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_5.pdf' target='_blank'>GenicDocs - Document Management Software-Package E</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_1.pdf' target='_blank'>GenicDocs - Document Management Software-Package A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_2.pdf' target='_blank'>GenicDocs - Document Management Software-Package B</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_3.pdf' target='_blank'>GenicDocs - Document Management Software-Package C</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_4.pdf' target='_blank'>GenicDocs - Document Management Software-Package D</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_5.pdf' target='_blank'>GenicDocs - Document Management Software-Package E</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,9 +12,9 @@ CrossTrack GO is a fleet management platform that is available on both desktop a
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_1.pdf' target='_blank'>CROSSTRACK GO - Crosstrack GO Package A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_2.pdf' target='_blank'>CROSSTRACK GO - Crosstrack GO Package B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_3.pdf' target='_blank'>CROSSTRACK GO - Crosstrack GO Package C</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_1.pdf' target='_blank'>CROSSTRACK GO - Crosstrack GO Package A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_2.pdf' target='_blank'>CROSSTRACK GO - Crosstrack GO Package B</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_3.pdf' target='_blank'>CROSSTRACK GO - Crosstrack GO Package C</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,10 +12,10 @@ Xero package include 1 year of Xero subscription, setting up of COA and form, mi
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software Only</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software & Training</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software & Setup</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software, Setup & Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software Only</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software & Training</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software & Setup</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software, Setup & Training</a><br/>
 
 ### Eligibility Criteria
 

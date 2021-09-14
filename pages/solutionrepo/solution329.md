@@ -12,9 +12,9 @@ Cadstudio is a comprehensive enterprise resource planning (ERP) software made up
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_1.pdf' target='_blank'>CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_2.pdf' target='_blank'>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Advance Edition)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_3.pdf' target='_blank'>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Multi Edition)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_1.pdf' target='_blank'>CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_2.pdf' target='_blank'>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Advance Edition)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_3.pdf' target='_blank'>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Multi Edition)</a><br/>
 
 ### Eligibility Criteria
 

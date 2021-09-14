@@ -12,7 +12,7 @@ TRUEBLU CRM is a Customer Relationship Management (CRM) tool with Social Media I
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Active_Interactions_20200392_Annex_3.pdf' target='_blank'>Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Active_Interactions_20200392_Annex_3.pdf' target='_blank'>Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)</a><br/>
 
 ### Eligibility Criteria
 

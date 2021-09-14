@@ -12,8 +12,8 @@ The Advanced plan on Dropbox Business gives teams as much space as they need, al
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_1.pdf' target='_blank'>DROPBOX - DROPBOX BUSINESS - 3 USERS</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_2.pdf' target='_blank'>DROPBOX - DROPBOX BUSINESS - 10 USERS </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_1.pdf' target='_blank'>DROPBOX - DROPBOX BUSINESS - 3 USERS</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_2.pdf' target='_blank'>DROPBOX - DROPBOX BUSINESS - 10 USERS </a><br/>
 
 ### Eligibility Criteria
 

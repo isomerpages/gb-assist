@@ -12,16 +12,16 @@ Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Count
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_1.pdf' target='_blank'>SentroWeb - Lite 50</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_2.pdf' target='_blank'>SentroWeb - Regular 100</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_3.pdf' target='_blank'>SentroWeb - Regular 500</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' target='_blank'>SentroWeb - Regular DJ 1000</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_5.pdf' target='_blank'>SentroWeb - Premium DJ 8K</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_1.pdf' target='_blank'>SentroWeb - Lite 50</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_2.pdf' target='_blank'>SentroWeb - Regular 100</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_3.pdf' target='_blank'>SentroWeb - Regular 500</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' target='_blank'>SentroWeb - Regular DJ 1000</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_5.pdf' target='_blank'>SentroWeb - Premium DJ 8K</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_1.pdf' target='_blank'>SentroWeb - Lite 50</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_2.pdf' target='_blank'>SentroWeb - Regular 100</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_3.pdf' target='_blank'>SentroWeb - Regular 500</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' target='_blank'>SentroWeb - Regular DJ 1000</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_5.pdf' target='_blank'>SentroWeb - Premium DJ 8K</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_1.pdf' target='_blank'>SentroWeb - Lite 50</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_2.pdf' target='_blank'>SentroWeb - Regular 100</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_3.pdf' target='_blank'>SentroWeb - Regular 500</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' target='_blank'>SentroWeb - Regular DJ 1000</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_5.pdf' target='_blank'>SentroWeb - Premium DJ 8K</a><br/>
 
 ### Eligibility Criteria
 

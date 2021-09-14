@@ -12,11 +12,11 @@ Hubble Safety Management System helps you manage and monitor the safety of your 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_1.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 1 Project)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_2.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 2 Projects)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 3 Projects)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_4.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 4 Projects)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_5.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 1 Project, 2 years)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_1.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 1 Project)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_2.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 2 Projects)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 3 Projects)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_4.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 4 Projects)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_5.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 1 Project, 2 years)</a><br/>
 
 ### Eligibility Criteria
 

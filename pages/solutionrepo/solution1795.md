@@ -12,10 +12,10 @@ Xero Implementation package is designed to help small businesses to improve thei
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 1 - Standard, Subscription only</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 2 - Premium, Subscription only</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 3 - Standard + Implementation</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 4 - Premium + Implementation</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 1 - Standard, Subscription only</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 2 - Premium, Subscription only</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 3 - Standard + Implementation</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 4 - Premium + Implementation</a><br/>
 
 ### Eligibility Criteria
 

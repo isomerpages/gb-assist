@@ -12,11 +12,11 @@ Powered by Morphisec's unique Signatureless Moving Target Defense technology, EQ
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME micro</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME mini</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (S)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (M)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (L)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME micro</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME mini</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (S)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (M)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/EQCOMS_Technology_20200726_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Morphisec Version 5.0 - MSS for Morphisec Moving Target Defend - Managed Security Services SME with 9x5 / NBD support (L)</a><br/>
 
 ### Eligibility Criteria
 

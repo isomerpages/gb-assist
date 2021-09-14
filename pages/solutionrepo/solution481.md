@@ -12,7 +12,7 @@ SAP Business One is a single, integrated ERP solution with flexible licensing an
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_1.pdf' target='_blank'>SAP Business One, version for HANA Version 10 - Package E (3 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_1.pdf' target='_blank'>SAP Business One, version for HANA Version 10 - Package E (3 users)</a><br/>
 
 ### Eligibility Criteria
 

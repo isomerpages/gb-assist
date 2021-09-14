@@ -12,11 +12,11 @@ FocusGuard Fleet Management System is designed as the process of controlling, mo
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_1.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (2 Vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_2.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (3 Vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_3.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (4 Vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_4.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (6 Vehicles)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_5.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (10 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_1.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (2 Vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_2.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (3 Vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_3.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (4 Vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_4.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (6 Vehicles)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_5.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (10 Vehicles)</a><br/>
 
 ### Eligibility Criteria
 

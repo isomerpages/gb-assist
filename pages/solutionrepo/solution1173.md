@@ -12,10 +12,10 @@ The One Stop Mobile App for Business Contact Data Storage & Salesman Management 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_1.pdf' target='_blank'>Carddio Version 1 - Standard Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_2.pdf' target='_blank'>Carddio Version 1 - Plus Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_3.pdf' target='_blank'>Carddio Version 1 - Pro Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_4.pdf' target='_blank'>Carddio Version 1 - Enterprise Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_1.pdf' target='_blank'>Carddio Version 1 - Standard Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_2.pdf' target='_blank'>Carddio Version 1 - Plus Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_3.pdf' target='_blank'>Carddio Version 1 - Pro Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Carddio_20190058_Annex_3_Part_4.pdf' target='_blank'>Carddio Version 1 - Enterprise Package</a><br/>
 
 ### Eligibility Criteria
 

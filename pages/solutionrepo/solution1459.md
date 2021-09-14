@@ -12,11 +12,11 @@ Swingvy is the modern HR platform for small and mid-sized businesses. By seamles
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_1.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 5 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_2.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 10 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_3.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 25 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_4.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 50 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_5.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 100 users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_1.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 5 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_2.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 10 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_3.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 25 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_4.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 50 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Swingvy_20200348_Annex_3_Part_5.pdf' target='_blank'>Swingvy-Swingvy - Swingvy Full suite for 100 users</a><br/>
 
 ### Eligibility Criteria
 

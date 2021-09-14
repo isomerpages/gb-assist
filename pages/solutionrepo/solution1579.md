@@ -12,11 +12,11 @@ Sleek provides a fully digital solution for accounting, tax, HR and sales manage
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_2.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - B - Start Up</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_3.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - C - SME</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_4.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - D - Supreme</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - E - Growth</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_2.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - B - Start Up</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_3.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - C - SME</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_4.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - D - Supreme</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - E - Growth</a><br/>
 
 ### Eligibility Criteria
 

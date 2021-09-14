@@ -12,9 +12,9 @@ MPD e-commerce SMEs Version offers SMEs an opportunity to increase their sales o
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_1.pdf' target='_blank'>MPD E-Commerce SMEs Version - CMS Ecommerce</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_2.pdf' target='_blank'>MPD E-Commerce SMEs Version - Express </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_3.pdf' target='_blank'>MPD E-Commerce SMEs Version - Elite</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_1.pdf' target='_blank'>MPD E-Commerce SMEs Version - CMS Ecommerce</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_2.pdf' target='_blank'>MPD E-Commerce SMEs Version - Express </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_3.pdf' target='_blank'>MPD E-Commerce SMEs Version - Elite</a><br/>
 
 ### Eligibility Criteria
 

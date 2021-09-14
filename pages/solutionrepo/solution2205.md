@@ -12,8 +12,8 @@ Synergix Marine & Offshore Solution provides a unique level of integration acros
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Synergix - 3-in-1 ERP Solution (5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Synergix - 3-in-1 ERP Solution (10 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Synergix - 3-in-1 ERP Solution (5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Synergix - 3-in-1 ERP Solution (10 Users)</a><br/>
 
 ### Eligibility Criteria
 

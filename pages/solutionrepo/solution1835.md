@@ -12,7 +12,7 @@ COVID-19 has accelerated the need for companies to embark on digital transformat
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a><br/>
 
 ### Sector Specialisation
 

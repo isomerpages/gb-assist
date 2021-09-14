@@ -12,9 +12,9 @@ Going digital is not only about moving to cloud-based accounting software but al
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - Setup + Training Standard Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Standard Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - Setup + Training Standard Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Standard Package</a><br/>
 
 ### Eligibility Criteria
 

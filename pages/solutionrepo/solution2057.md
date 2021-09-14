@@ -12,8 +12,8 @@ Microsoft Dynamics 365 Business Central (D365BC) offers a complete business acco
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central SaaS - Package A - D365BC premium for 3 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central SaaS - Package B - D365BC essential for 3 users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central SaaS - Package A - D365BC premium for 3 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central SaaS - Package B - D365BC essential for 3 users</a><br/>
 
 ### Eligibility Criteria
 

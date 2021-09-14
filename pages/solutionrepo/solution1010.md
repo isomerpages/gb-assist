@@ -12,9 +12,9 @@ Stendard Solution  is a cloud-based document management system that allows you t
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_1.pdf' target='_blank'>Stendard Solution  Version 1.6.1 - Starter</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_2.pdf' target='_blank'>Stendard Solution  Version 1.6.1 - Professional</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_3.pdf' target='_blank'>Stendard Solution  Version 1.6.1 - Enterprise</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_1.pdf' target='_blank'>Stendard Solution  Version 1.6.1 - Starter</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_2.pdf' target='_blank'>Stendard Solution  Version 1.6.1 - Professional</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_3.pdf' target='_blank'>Stendard Solution  Version 1.6.1 - Enterprise</a><br/>
 
 ### Eligibility Criteria
 

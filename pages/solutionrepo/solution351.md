@@ -12,11 +12,11 @@ MyRetailer Android POS is a powerful all in one point-of-sale solution with buil
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_1.pdf' target='_blank'>MyRetailer Android POS-Package A Standalone</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_2.pdf' target='_blank'>MyRetailer Android POS-Package B with Dashboard</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_3.pdf' target='_blank'>MyRetailer Android POS-Package C with Unified Payments</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_4.pdf' target='_blank'>MyRetailer Android POS-Package D with Dashboard & Unified Payments</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_5.pdf' target='_blank'>MyRetailer Android POS-Package E with Unified Payments & Web Store</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_1.pdf' target='_blank'>MyRetailer Android POS-Package A Standalone</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_2.pdf' target='_blank'>MyRetailer Android POS-Package B with Dashboard</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_3.pdf' target='_blank'>MyRetailer Android POS-Package C with Unified Payments</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_4.pdf' target='_blank'>MyRetailer Android POS-Package D with Dashboard & Unified Payments</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_5.pdf' target='_blank'>MyRetailer Android POS-Package E with Unified Payments & Web Store</a><br/>
 
 ### Eligibility Criteria
 

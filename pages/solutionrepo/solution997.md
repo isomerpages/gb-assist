@@ -12,11 +12,11 @@ iCHEF is an integrated digital ordering solution to help small F&B businesses op
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_1.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Small)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_2.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Small + Online Ordering)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_3.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Medium)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_4.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Medium + Online Ordering)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_5.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Large + Online Ordering)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_1.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Small)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_2.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Small + Online Ordering)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_3.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Medium)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_4.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Medium + Online Ordering)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iCHEF_20200289_Annex_3_Part_5.pdf' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0 - iCHEF Digital Ordering (Large + Online Ordering)</a><br/>
 
 ### Eligibility Criteria
 

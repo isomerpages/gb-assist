@@ -12,11 +12,11 @@ Tekla Solutions is a suite of 3D modelling software for Contractors to create an
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>Tekla Solutions - Tekla Structural Designer with Training</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_2.pdf' target='_blank'>Tekla Solutions - Tekla Structural Design Suite with Training </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_3.pdf' target='_blank'>Tekla Solutions - Tekla Structural Design Suite (3 years) with Training</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>Tekla Solutions - Tekla 3D Modelling Basic with Training</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_5.pdf' target='_blank'>Tekla Solutions - Tekla 3D Modelling for Drawing Production with Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>Tekla Solutions - Tekla Structural Designer with Training</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_2.pdf' target='_blank'>Tekla Solutions - Tekla Structural Design Suite with Training </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_3.pdf' target='_blank'>Tekla Solutions - Tekla Structural Design Suite (3 years) with Training</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>Tekla Solutions - Tekla 3D Modelling Basic with Training</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_5.pdf' target='_blank'>Tekla Solutions - Tekla 3D Modelling for Drawing Production with Training</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Sophos safeguards all users' devices under one management, either on premise or 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 10 Licences (1 Year)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 20 Licences (1 Year)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 50 Licences (1 Year)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 100 Licences (1 Year)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 200 Licences (1 Year)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 10 Licences (1 Year)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 20 Licences (1 Year)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 50 Licences (1 Year)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 100 Licences (1 Year)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 200 Licences (1 Year)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Zeemart is a B2B platform that connects Buyers and Suppliers in the Horeca (Hote
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 5 outlets w/o integration) (Package 1)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 10 outlets w/integration) (Package 2)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 20 outlets w/integration) (Package 3)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 50 outlets w/integration) (Package 4)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 100 outlets w/integration) (Package 5)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 5 outlets w/o integration) (Package 1)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 10 outlets w/integration) (Package 2)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 20 outlets w/integration) (Package 3)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 50 outlets w/integration) (Package 4)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zeemart20200005_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Zeemart - Zeemart Buyer Hub (Upto 100 outlets w/integration) (Package 5)</a><br/>
 
 ### Eligibility Criteria
 

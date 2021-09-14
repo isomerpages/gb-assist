@@ -12,7 +12,7 @@ Eurostop Provides a full and complete retail POS solution to enable our retail c
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Eurostop_Singapore_20190001_Annex_3_20200625150732_Part_1.pdf' target='_blank'>Eurostop EPOS and E-retail Inventory Management Version 10 - Package A (EPOS and Retail Inventory System)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Eurostop_Singapore_20190001_Annex_3_20200625150732_Part_1.pdf' target='_blank'>Eurostop EPOS and E-retail Inventory Management Version 10 - Package A (EPOS and Retail Inventory System)</a><br/>
 
 ### Eligibility Criteria
 

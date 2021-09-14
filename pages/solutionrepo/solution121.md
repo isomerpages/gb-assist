@@ -12,11 +12,11 @@ SAP Business One is an enterprise resource planning (ERP) software designed for 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_1.pdf' target='_blank'>SAP Business One Version Cloud-HANA Cloud - 3 Subscription Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_2.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud - 5 Subscription Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_3.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud - 7 Subscription Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_4.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud (PEPPOL) - 10 Subscription Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_5.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud (PEPPOL) - 12 Subscription Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_1.pdf' target='_blank'>SAP Business One Version Cloud-HANA Cloud - 3 Subscription Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_2.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud - 5 Subscription Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_3.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud - 7 Subscription Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_4.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud (PEPPOL) - 10 Subscription Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_5.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud (PEPPOL) - 12 Subscription Users</a><br/>
 
 ### Eligibility Criteria
 

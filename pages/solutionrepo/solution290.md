@@ -12,9 +12,9 @@ Solution which leverages asset information and behavioral analytics to identify,
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_1.pdf' target='_blank'>Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 150 EndPoints (for SMEs with 150 employees or more)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_2.pdf' target='_blank'>Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 5 servers and 80 EndPoints (for SMEs with 80 employees or more)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank'>Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 10 servers and 15 EndPoints (for SMEs with 10 servers and 15 employees or more)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_1.pdf' target='_blank'>Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD Lite for 150 EndPoints (for SMEs with 150 employees or more)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_2.pdf' target='_blank'>Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 5 servers and 80 EndPoints (for SMEs with 80 employees or more)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Lumen_Annex_3_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank'>Asset Based Cyber Defense - Security-as-a-Service (SaaS) - ABCD combo for 10 servers and 15 EndPoints (for SMEs with 10 servers and 15 employees or more)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Sophos XG Firewall brings a fresh new approach to the way you manage your firewa
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Managed Firewall - Sophos XG 125 EnterpriseGuard with Enhanced Support - 12 Months </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Managed Firewall - Sophos XG 135 EnterpriseGuard with Enhanced Support - 12 Months </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Managed Firewall - Sophos XG 210 EnterpriseGuard with Enhanced Support - 12 Months </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Managed Firewall - Sophos XG 230 EnterpriseGuard with Enhanced Support - 12 Months </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Managed Firewall - Sophos XG 310 EnterpriseGuard with Enhanced Support - 12 Months </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Managed Firewall - Sophos XG 125 EnterpriseGuard with Enhanced Support - 12 Months </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Managed Firewall - Sophos XG 135 EnterpriseGuard with Enhanced Support - 12 Months </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Managed Firewall - Sophos XG 210 EnterpriseGuard with Enhanced Support - 12 Months </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Managed Firewall - Sophos XG 230 EnterpriseGuard with Enhanced Support - 12 Months </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Managed Firewall - Sophos XG 310 EnterpriseGuard with Enhanced Support - 12 Months </a><br/>
 
 ### Eligibility Criteria
 

@@ -12,9 +12,9 @@ Sage 300 accounting software is widely used by SMEs businesses across various in
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_1.pdf' target='_blank'>SAGE 300Cloud Version 2020 - Distribution A1 - 3 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_3.pdf' target='_blank'>SAGE 300Cloud Version 2020 - Distribution A3 - 10 Users with E-Invoicing</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_5.pdf' target='_blank'>SAGE 300Cloud Version 2020 - Advanced B2 - 5 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_1.pdf' target='_blank'>SAGE 300Cloud Version 2020 - Distribution A1 - 3 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_3.pdf' target='_blank'>SAGE 300Cloud Version 2020 - Distribution A3 - 10 Users with E-Invoicing</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_5.pdf' target='_blank'>SAGE 300Cloud Version 2020 - Advanced B2 - 5 Users</a><br/>
 
 ### Eligibility Criteria
 

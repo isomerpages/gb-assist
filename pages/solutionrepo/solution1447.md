@@ -12,11 +12,11 @@ Eats365 POS System is design for chain restaurants, franchise or MNC. It automat
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_1.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Start-up)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_2.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Grow)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_3.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Large)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_4.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Self-order Kiosk)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_5.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Dine-in self-order)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_1.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Start-up)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_2.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Grow)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_3.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Large)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_4.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Self-order Kiosk)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_5.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Dine-in self-order)</a><br/>
 
 ### Eligibility Criteria
 

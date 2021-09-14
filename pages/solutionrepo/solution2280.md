@@ -12,10 +12,10 @@ Assemble Systems provides a SaaS platform that consumes BIM models, drawings, an
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_1.pdf' target='_blank'>INNOCOM - ASSEMBLE-PROJECT - 1 YEAR </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_2.pdf' target='_blank'>INNOCOM - ASSEMBLE-PROJECT - 3 YEARS</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_3.pdf' target='_blank'>INNOCOM - ASSEMBLE-OFFICE -1 YEAR</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_4.pdf' target='_blank'>INNOCOM - ASSEMBLE-OFFICE -3 YEARS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_1.pdf' target='_blank'>INNOCOM - ASSEMBLE-PROJECT - 1 YEAR </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_2.pdf' target='_blank'>INNOCOM - ASSEMBLE-PROJECT - 3 YEARS</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_3.pdf' target='_blank'>INNOCOM - ASSEMBLE-OFFICE -1 YEAR</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_4.pdf' target='_blank'>INNOCOM - ASSEMBLE-OFFICE -3 YEARS</a><br/>
 
 ### Eligibility Criteria
 

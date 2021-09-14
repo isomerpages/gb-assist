@@ -12,11 +12,11 @@ Xero is an universal accounting software that provides a complete list of accoun
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_1.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_2.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_3.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution C</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_4.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution D</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Part_5.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution E</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_1.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_2.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution B</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_3.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution C</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_4.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution D</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Part_5.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution E</a><br/>
 
 ### Eligibility Criteria
 

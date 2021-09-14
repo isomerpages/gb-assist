@@ -12,11 +12,11 @@ Microsoft Dynamics 365 Business Central is a complete business solution that can
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 3 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 5 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 8 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Premium Edition - SaaS 10 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 3 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 5 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 8 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Premium Edition - SaaS 10 Users</a><br/>
 
 ### Eligibility Criteria
 

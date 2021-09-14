@@ -12,9 +12,9 @@ Armfort VMS is an integrated solution that will assist you to effectively authen
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Essential)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Software)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Access)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Essential)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Software)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Access)</a><br/>
 
 ### Eligibility Criteria
 

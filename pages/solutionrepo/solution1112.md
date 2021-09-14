@@ -12,11 +12,11 @@ AutoCount Accounting stands out as one of the best accounting software for today
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_1.pdf' target='_blank'>Autocount Accounting System Version 2.0-Basic (1 User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_2.pdf' target='_blank'>Autocount Accounting System Version 2.0-Basic (3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_3.pdf' target='_blank'>Autocount Accounting System Version 2.0-Pro (3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_4.pdf' target='_blank'>Autocount Accounting System Version 2.0-Premium (3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_5.pdf' target='_blank'>Autocount Accounting System Version 2.0-Premium (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_1.pdf' target='_blank'>Autocount Accounting System Version 2.0-Basic (1 User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_2.pdf' target='_blank'>Autocount Accounting System Version 2.0-Basic (3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_3.pdf' target='_blank'>Autocount Accounting System Version 2.0-Pro (3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_4.pdf' target='_blank'>Autocount Accounting System Version 2.0-Premium (3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Rockbell_20200195_Annex_3_20200630144608_Part_5.pdf' target='_blank'>Autocount Accounting System Version 2.0-Premium (5 Users)</a><br/>
 
 ### Eligibility Criteria
 

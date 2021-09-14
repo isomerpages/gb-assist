@@ -12,7 +12,7 @@ CET Global Pte Ltd provides Insights, Advisory and Actions for People, Process a
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>Job Redesign Consultancy - CET Global Pte Ltd </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyCETGlobalPteLtd_v1.pdf.pdf' target='_blank'>Job Redesign Consultancy - CET Global Pte Ltd </a><br/>
 
 ### Sector Specialisation
 

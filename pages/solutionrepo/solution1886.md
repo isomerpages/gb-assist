@@ -12,9 +12,9 @@ Gabkotech recognises the need for the digital transformation of the Facilities M
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank'>iREP FM - FM (Mobile Inspection) Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_2.pdf' target='_blank'>iREP FM - FM (Mobile Inspection) Standard</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_3.pdf' target='_blank'>iREP FM - FM (Mobile Inspection) Full</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank'>iREP FM - FM (Mobile Inspection) Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_2.pdf' target='_blank'>iREP FM - FM (Mobile Inspection) Standard</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_3.pdf' target='_blank'>iREP FM - FM (Mobile Inspection) Full</a><br/>
 
 ### Eligibility Criteria
 

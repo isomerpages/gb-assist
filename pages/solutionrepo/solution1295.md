@@ -12,11 +12,11 @@ PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering H
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_1.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 50</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_2.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 100</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_3.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 150</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_4.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 200</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_5.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 250</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_1.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 50</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_2.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 100</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_3.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 150</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_4.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 200</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_5.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 250</a><br/>
 
 ### Eligibility Criteria
 

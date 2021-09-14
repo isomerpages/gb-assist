@@ -12,8 +12,8 @@ Founded in 2015, SourceSage is an award winning global ecommerce platform which 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_1.pdf' target='_blank'>SourceSage Online Store - Start</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_2.pdf' target='_blank'>SourceSage Online Store - Grow</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_1.pdf' target='_blank'>SourceSage Online Store - Start</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_2.pdf' target='_blank'>SourceSage Online Store - Grow</a><br/>
 
 ### Eligibility Criteria
 

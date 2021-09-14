@@ -12,9 +12,9 @@ The system aims to streamline the front-end, back-end kitchen preparation proces
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_1.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package A (Small Cafe (E-waiter for 1 User, CRM & KDS Lite for 1 User))</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_2.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package B (Medium Restaurant  (E-waiter for 2 Users, CRM & KDS Lite for 3 Users))</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_4.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package D (Small Cafe (E-waiter, CRM & Kitchen Printer for 1 User))</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_1.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package A (Small Cafe (E-waiter for 1 User, CRM & KDS Lite for 1 User))</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_2.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package B (Medium Restaurant  (E-waiter for 2 Users, CRM & KDS Lite for 3 Users))</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_4.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package D (Small Cafe (E-waiter, CRM & Kitchen Printer for 1 User))</a><br/>
 
 ### Eligibility Criteria
 

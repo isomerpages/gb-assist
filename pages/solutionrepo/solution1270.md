@@ -12,11 +12,11 @@ MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-us
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>MyRetailer Plus Version 4 - Package A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>MyRetailer Plus Version 4 - Package B with Second Monitor</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>MyRetailer Plus Version 4 - Package C with with Web Store</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>MyRetailer Plus Version 4 - Package D with Cloud Dashboard</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>MyRetailer Plus Version 4 - Package E with Unified Payments</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>MyRetailer Plus Version 4 - Package A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>MyRetailer Plus Version 4 - Package B with Second Monitor</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>MyRetailer Plus Version 4 - Package C with with Web Store</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>MyRetailer Plus Version 4 - Package D with Cloud Dashboard</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>MyRetailer Plus Version 4 - Package E with Unified Payments</a><br/>
 
 ### Eligibility Criteria
 

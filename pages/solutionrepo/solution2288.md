@@ -12,11 +12,11 @@ Really provides the state-of-the-art platform that helps property & facilities m
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Individual Property or Project Packaged Solution</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Small Property or Project Packaged Solution (portfolio of 2 - 10 properties or projects)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Medium Property or Project Packaged Solution (portfolio of 11 - 50 properties or projects)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Very Large Property or Project Packaged Solution (portfolio of 91 up to 150 properties or projects)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Individual Property or Project Packaged Solution</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Small Property or Project Packaged Solution (portfolio of 2 - 10 properties or projects)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Medium Property or Project Packaged Solution (portfolio of 11 - 50 properties or projects)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Very Large Property or Project Packaged Solution (portfolio of 91 up to 150 properties or projects)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ MoneyWorks was built from the ground up for the needs of business, finance and a
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_1.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package A Moneyworks Gold - 1 User Software Only</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_2.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package B Moneyworks Gold - 1 User</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_3.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package C Moneyworks NOW (3 User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_4.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package D Moneyworks Datacentre (3 User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_5.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package E Moneyworks Datacentre (5 User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_1.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package A Moneyworks Gold - 1 User Software Only</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_2.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package B Moneyworks Gold - 1 User</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_3.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package C Moneyworks NOW (3 User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_4.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package D Moneyworks Datacentre (3 User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_5.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package E Moneyworks Datacentre (5 User)</a><br/>
 
 ### Eligibility Criteria
 

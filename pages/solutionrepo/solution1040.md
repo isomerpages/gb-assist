@@ -12,16 +12,16 @@ Sensorla provides an artificial intelligence workforce management system, that i
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_1.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Lite (One Time Purchase for the Sensors)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_2.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Standard (One Time Purchase for the Sensors)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_3.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Premium (One Time Purchase for the Sensors)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_4.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Standard (Leasing of Sensors)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_5.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Premium (Leasing of Sensors)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_1.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Lite (One Time Purchase for the Sensors)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_2.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Standard (One Time Purchase for the Sensors)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_3.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Premium (One Time Purchase for the Sensors)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_4.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Standard (Leasing of Sensors)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_5.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Premium (Leasing of Sensors)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_1.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Lite (One Time Purchase for the Sensors)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_2.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Standard (One Time Purchase for the Sensors)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_3.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Premium (One Time Purchase for the Sensors)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_4.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Standard (Leasing of Sensors)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_5.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Premium (Leasing of Sensors)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_1.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Lite (One Time Purchase for the Sensors)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_2.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Standard (One Time Purchase for the Sensors)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_3.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Premium (One Time Purchase for the Sensors)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_4.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Standard (Leasing of Sensors)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sensorla_20200062_Annex_3_Part_5.pdf' target='_blank'>W.R.I.S.T Version 2 - W.R.I.S.T Premium (Leasing of Sensors)</a><br/>
 
 ### Eligibility Criteria
 

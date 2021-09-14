@@ -12,9 +12,9 @@ OneSumX solution is a modular end-to-end solution suite designed on an integrate
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_1.pdf' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 4)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_2.pdf' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0- Package (Tier 3)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_3.pdf' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 2)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_1.pdf' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 4)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_2.pdf' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0- Package (Tier 3)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_3.pdf' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 2)</a><br/>
 
 ### Eligibility Criteria
 

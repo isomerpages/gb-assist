@@ -12,10 +12,10 @@ Arcstone's Product and Manufacturing Process Configuration solution empowers man
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module) - Annual Subscription License - Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module) - Annual Subscription License - Customized</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module) - All-in-One Annual Subscription License - Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module) - All-in-One Annual Subscription License - Customized</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module) - Annual Subscription License - Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module) - Annual Subscription License - Customized</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module) - All-in-One Annual Subscription License - Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Process_Configuration_20200864_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module) - All-in-One Annual Subscription License - Customized</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Therefore is a scalable Cloud Document Management Solution, that provides a cent
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_1.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-CLOUD Package 1 (5 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_2.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 2 (Up to 10 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_3.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 3 (Up to 15 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_4.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 4 (Up to 25 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_5.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 5 (Up to 30 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_1.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-CLOUD Package 1 (5 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_2.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 2 (Up to 10 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_3.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 3 (Up to 15 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_4.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 4 (Up to 25 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Canon_20200394_Annex_3_Part_5.pdf' target='_blank'>THEREFORE Version 2020 - Therefore-in-e-Cloud Package 5 (Up to 30 users)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ V3Nity-FMS Fleet Management System is a Web based Telematics system powered by V
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_1.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_2.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_3.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package C</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_4.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package D</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_5.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package E</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_1.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_2.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package B</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_3.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package C</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_4.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package D</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_V3SMARTTECH_20200341_Annex_3_Part_5.pdf' target='_blank'>V3Nity-FMS Fleet Management System Version 3 - V3Nity-FMS Package E</a><br/>
 
 ### Eligibility Criteria
 

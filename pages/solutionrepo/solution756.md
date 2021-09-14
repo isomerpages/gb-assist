@@ -12,9 +12,9 @@ The solution streamlines HR processes by integrating with Payroll and is able to
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_2.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (1 user - 60 employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_3.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (1 user - unlimited employees)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_4.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (3 users - unlimited employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_2.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (1 user - 60 employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_3.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (1 user - unlimited employees)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_4.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (3 users - unlimited employees)</a><br/>
 
 ### Eligibility Criteria
 

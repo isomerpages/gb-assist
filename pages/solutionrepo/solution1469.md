@@ -12,8 +12,8 @@ Unipro Ecommerce Online store aims to provide SME the opportunity to create an o
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_1.pdf' target='_blank'>UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - LITE</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_2.pdf' target='_blank'>UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - PRO</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_1.pdf' target='_blank'>UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - LITE</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_2.pdf' target='_blank'>UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - PRO</a><br/>
 
 ### Eligibility Criteria
 

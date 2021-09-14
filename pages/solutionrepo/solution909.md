@@ -12,21 +12,21 @@ V3Nity WAM for ES offers an integrated solution to weave field workers and sched
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_1.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_2.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_3.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package C</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_4.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package D</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_5.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package E</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_1.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_2.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_3.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package C</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_4.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package D</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_5.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package E</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_1.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package A</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_2.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package B</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_3.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package C</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_4.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package D</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_5.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package E</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_1.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_2.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package B</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_3.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package C</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_4.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package D</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_5.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package E</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_1.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_2.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package B</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_3.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package C</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_4.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package D</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_5.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package E</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_1.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package A</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_2.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package B</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_3.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package C</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_4.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package D</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/V3_Smart_Technologies_20190019_Annex_3_20200625142705_Part_5.pdf' target='_blank'>V3Nity-WAM (Workforce Assignment & Mobility System) Version 3 - Package E</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Kegmil is on a mission to empower millions of deskless field service professiona
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_1.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package A - 10 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_2.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package B - 25 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_3.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package C - 40 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_4.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package D - 60 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_5.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package E - 100 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_1.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package A - 10 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_2.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package B - 25 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_3.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package C - 40 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_4.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package D - 60 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_5.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package E - 100 Users</a><br/>
 
 ### Eligibility Criteria
 

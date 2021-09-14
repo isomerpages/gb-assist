@@ -12,8 +12,8 @@ WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digi
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_1.pdf' target='_blank'>WarelyEcom Version 1.3 - Express</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_2.pdf' target='_blank'>WarelyEcom Version 1.3 - Premium</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_1.pdf' target='_blank'>WarelyEcom Version 1.3 - Express</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_2.pdf' target='_blank'>WarelyEcom Version 1.3 - Premium</a><br/>
 
 ### Eligibility Criteria
 

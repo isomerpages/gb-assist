@@ -12,7 +12,7 @@ Venuerific was founded in Singapore in 2013 with the goal of helping venue owner
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Venuerific_Annex_3_CR_wef_22_July_2021.pdf' target='_blank'>Venue management software Version 2.0 - Regular</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Venuerific_Annex_3_CR_wef_22_July_2021.pdf' target='_blank'>Venue management software Version 2.0 - Regular</a><br/>
 
 ### Eligibility Criteria
 

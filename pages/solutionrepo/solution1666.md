@@ -12,11 +12,11 @@ TimeCentral solution assists clients in scheduling and rostering their workforce
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_1.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 30</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_2.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 50</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_3.pdf' target='_blank'>TimeCentral Version 11 - 	TimeCentral 100</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_4.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 200</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_5.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 300</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_1.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 30</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_2.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 50</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_3.pdf' target='_blank'>TimeCentral Version 11 - 	TimeCentral 100</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_4.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 200</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_5.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 300</a><br/>
 
 ### Eligibility Criteria
 

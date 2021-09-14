@@ -12,11 +12,11 @@ Build everlasting customer relationships with the world's favorite CRM. Zoho CRM
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Zoho CRM - Zoho CRM - STANDARD edition, 5 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Zoho CRM - Zoho CRM - PROFESSIONAL edition, 5 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Zoho CRM - Zoho CRM - PROFESSIONAL edition, 15 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Zoho CRM - Zoho CRM - ENTERPRISE edition, 10 users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Zoho CRM - Zoho CRM - ENTERPRISE edition, 20 users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Zoho CRM - Zoho CRM - STANDARD edition, 5 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Zoho CRM - Zoho CRM - PROFESSIONAL edition, 5 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Zoho CRM - Zoho CRM - PROFESSIONAL edition, 15 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Zoho CRM - Zoho CRM - ENTERPRISE edition, 10 users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Zoho_Corporation_20200634_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Zoho CRM - Zoho CRM - ENTERPRISE edition, 20 users</a><br/>
 
 ### Eligibility Criteria
 

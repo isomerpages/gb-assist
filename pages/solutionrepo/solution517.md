@@ -12,7 +12,7 @@ We help build online e commerce stores for F&B merchants so that they can grow t
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_2.pdf' target='_blank'>NinjaOS - Package B (NinjaEnterprise - 1 Module)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_2.pdf' target='_blank'>NinjaOS - Package B (NinjaEnterprise - 1 Module)</a><br/>
 
 ### Eligibility Criteria
 

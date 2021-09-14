@@ -12,11 +12,11 @@ RavenPOS offers standard to full scale business enterprise software automation s
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_4.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Accounting</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_1.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_2.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Mobile Order Management</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_3.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with CRM</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_5.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with QR Ordering</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_4.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Accounting</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_1.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_2.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Mobile Order Management</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_3.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with CRM</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_5.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with QR Ordering</a><br/>
 
 ### Eligibility Criteria
 

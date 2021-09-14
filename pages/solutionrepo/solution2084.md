@@ -12,9 +12,9 @@ Xero offers a cloud-based accounting software platform for small and medium-size
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_1.pdf' target='_blank'>Accounts101 - Xero Cloud Accounting Software - Package A (Premium)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_2.pdf' target='_blank'>Accounts101 - Xero Cloud Accounting Software - Package B (Premium w/ Fixed Asset)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_3.pdf' target='_blank'>Accounts101 - Xero Cloud Accounting Software - Package C(Premium w/ Fixed Asset & Inventory)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_1.pdf' target='_blank'>Accounts101 - Xero Cloud Accounting Software - Package A (Premium)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_2.pdf' target='_blank'>Accounts101 - Xero Cloud Accounting Software - Package B (Premium w/ Fixed Asset)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_3.pdf' target='_blank'>Accounts101 - Xero Cloud Accounting Software - Package C(Premium w/ Fixed Asset & Inventory)</a><br/>
 
 ### Eligibility Criteria
 

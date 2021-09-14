@@ -12,11 +12,11 @@ Singapore Food & Beverage is running out of manpower. Aigens aspire to bring inn
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_1.pdf' target='_blank'>Kiosk  & BYOD - Digital Order Channel Package Lite</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_23.pdf' target='_blank'>Kiosk  & BYOD - Digital Order Channel Package Plus</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_45.pdf' target='_blank'>Kiosk  & BYOD - Kiosk Package with Hardware</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_67.pdf' target='_blank'>Kiosk  & BYOD - Restaurant Operating System Package (BYOD with Kiosk)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_8.pdf' target='_blank'>Kiosk  & BYOD - Digital Order Channel Package with CRM</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_1.pdf' target='_blank'>Kiosk  & BYOD - Digital Order Channel Package Lite</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_23.pdf' target='_blank'>Kiosk  & BYOD - Digital Order Channel Package Plus</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_45.pdf' target='_blank'>Kiosk  & BYOD - Kiosk Package with Hardware</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_67.pdf' target='_blank'>Kiosk  & BYOD - Restaurant Operating System Package (BYOD with Kiosk)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_8.pdf' target='_blank'>Kiosk  & BYOD - Digital Order Channel Package with CRM</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,9 +12,9 @@ Synergix E1 Human Resource Management System helps your company to properly trac
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' target='_blank'>SYNERGIX E1 Version TH6 - Package A :  HRMS Standard</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/SynergixTechnologies20200119_Annex_3_20200625151643.pdf' target='_blank'>SYNERGIX E1 Version TH6 - Package B : HRMS Standard with Staff Appraisal and Training</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank'>SYNERGIX E1 Version TH6 - Package C : HRMS Standard with Staff Appraisal , Training and Recruitment</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' target='_blank'>SYNERGIX E1 Version TH6 - Package A :  HRMS Standard</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/SynergixTechnologies20200119_Annex_3_20200625151643.pdf' target='_blank'>SYNERGIX E1 Version TH6 - Package B : HRMS Standard with Staff Appraisal and Training</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank'>SYNERGIX E1 Version TH6 - Package C : HRMS Standard with Staff Appraisal , Training and Recruitment</a><br/>
 
 ### Eligibility Criteria
 

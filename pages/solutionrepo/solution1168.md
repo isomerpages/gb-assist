@@ -12,11 +12,11 @@ Xero is an accounting software for small business that lives in the cloud and wo
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_1.pdf' target='_blank'>Xero accounting software - ASL Advisory- Xero subscription</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_2.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup & subscription</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_3.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup, subscription & training</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_4.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup, subscription, training, opening balance input</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_5.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup, subscription, training, migration of past year data</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_1.pdf' target='_blank'>Xero accounting software - ASL Advisory- Xero subscription</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_2.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup & subscription</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_3.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup, subscription & training</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_4.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup, subscription, training, opening balance input</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_5.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup, subscription, training, migration of past year data</a><br/>
 
 ### Eligibility Criteria
 

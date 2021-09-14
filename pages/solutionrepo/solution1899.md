@@ -12,10 +12,10 @@ With Arcstone's Real-Time Production Scheduling and Job Tracking solution, manuf
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Customized</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - All-in-One Annual Subscription License - Basic</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - All-in-One Annual Subscription License - Customized</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Customized</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - All-in-One Annual Subscription License - Basic</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - All-in-One Annual Subscription License - Customized</a><br/>
 
 ### Eligibility Criteria
 

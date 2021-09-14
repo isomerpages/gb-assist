@@ -12,11 +12,11 @@ Xero is a cloud-based accounting software platform for small and medium-sized bu
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package A (Xero Standard Subscription Only)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_2.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package B (Xero Standard Basic Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_3.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package C (Xero Premium Basic Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package D (Xero Standard Full Package)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_5.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package E (Xero Premium Full Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package A (Xero Standard Subscription Only)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_2.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package B (Xero Standard Basic Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_3.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package C (Xero Premium Basic Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package D (Xero Standard Full Package)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_5.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package E (Xero Premium Full Package)</a><br/>
 
 ### Eligibility Criteria
 

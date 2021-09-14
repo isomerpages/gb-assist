@@ -12,11 +12,11 @@ Globe3 ERP is a web based, scalable mid-range multi-company, multi-currency, mul
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_1.pdf' target='_blank'>Globe3 ERP V5.6 - Package (3 Users) (PEPPOL Ready)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_2.pdf' target='_blank'>Globe3 ERP V5.6 - Package (5 Users) (PEPPOL Ready)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_3.pdf' target='_blank'>Globe3 ERP V5.6 - Package (8 Users)(PEPPOL Ready)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_4.pdf' target='_blank'>Globe3 ERP V5.6 - Package (10 Users)(PEPPOL Ready)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_5.pdf' target='_blank'>Globe3 ERP V5.6 - Package (5 Users with Cloud) (PEPPOL Ready)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_1.pdf' target='_blank'>Globe3 ERP V5.6 - Package (3 Users) (PEPPOL Ready)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_2.pdf' target='_blank'>Globe3 ERP V5.6 - Package (5 Users) (PEPPOL Ready)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_3.pdf' target='_blank'>Globe3 ERP V5.6 - Package (8 Users)(PEPPOL Ready)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_4.pdf' target='_blank'>Globe3 ERP V5.6 - Package (10 Users)(PEPPOL Ready)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNO_20200330_Annex_3_Part_5.pdf' target='_blank'>Globe3 ERP V5.6 - Package (5 Users with Cloud) (PEPPOL Ready)</a><br/>
 
 ### Eligibility Criteria
 

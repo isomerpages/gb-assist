@@ -12,9 +12,9 @@ Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_1-2.pdf' target='_blank'>Shopcada Ecommerce and POS-Shopcada Premium Ecommerce with Grow Mobile Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_3.pdf' target='_blank'>Shopcada Ecommerce and POS-Shopcada Premium  Ecommerce Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_4.pdf' target='_blank'>Shopcada Ecommerce and POS-SShopcada Standard  Ecommerce Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_1-2.pdf' target='_blank'>Shopcada Ecommerce and POS-Shopcada Premium Ecommerce with Grow Mobile Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_3.pdf' target='_blank'>Shopcada Ecommerce and POS-Shopcada Premium  Ecommerce Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_4.pdf' target='_blank'>Shopcada Ecommerce and POS-SShopcada Standard  Ecommerce Package</a><br/>
 
 ### Eligibility Criteria
 

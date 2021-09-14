@@ -12,7 +12,7 @@ Tunity Smart Management Tracking System II (SMTS II) is a smart inventory manage
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tunity_20200266_Annex_3.pdf' target='_blank'>Smart Management Tracking System II - Starter Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tunity_20200266_Annex_3.pdf' target='_blank'>Smart Management Tracking System II - Starter Package</a><br/>
 
 ### Eligibility Criteria
 

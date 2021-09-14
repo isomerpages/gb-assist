@@ -12,11 +12,11 @@ Deskera HRMS is a comprehensive HRMS solution which includes payroll management,
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_1.pdf' target='_blank'>Deskera People Version 10.0 - Package A (Enterprise Package for unlimited users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_2.pdf' target='_blank'>Deskera People Version 10.0 - Package B (People - 15 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_3.pdf' target='_blank'>Deskera People Version 10.0 - Package C (People - 30 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_4.pdf' target='_blank'>Deskera People Version 10.0 - Package D (People - 50 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_5.pdf' target='_blank'>Deskera People Version 10.0 - Package E (People - 80 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_1.pdf' target='_blank'>Deskera People Version 10.0 - Package A (Enterprise Package for unlimited users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_2.pdf' target='_blank'>Deskera People Version 10.0 - Package B (People - 15 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_3.pdf' target='_blank'>Deskera People Version 10.0 - Package C (People - 30 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_4.pdf' target='_blank'>Deskera People Version 10.0 - Package D (People - 50 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Deskera_HRMS_Annex_3_CR_wef_17_Dec_2020_Part_5.pdf' target='_blank'>Deskera People Version 10.0 - Package E (People - 80 Users)</a><br/>
 
 ### Eligibility Criteria
 

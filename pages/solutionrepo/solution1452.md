@@ -12,8 +12,8 @@ OpenCart is the world's top three open source e-commerce software. It has everyt
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_1.pdf' target='_blank'>OpenCart E-Commerce Website Deployment - eCommerce Enterprise</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_2.pdf' target='_blank'>OpenCart E-Commerce Website Deployment - eCommerce Revamp</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_1.pdf' target='_blank'>OpenCart E-Commerce Website Deployment - eCommerce Enterprise</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_2.pdf' target='_blank'>OpenCart E-Commerce Website Deployment - eCommerce Revamp</a><br/>
 
 ### Eligibility Criteria
 

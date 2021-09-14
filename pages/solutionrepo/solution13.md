@@ -12,11 +12,11 @@ ABSS Premier provides advanced inventory, and business management capabilities t
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_1.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package A with E-Invoicing (1 User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_2.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package B with E-Invoicing (3 User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_3.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package C with E-Invoicing and setup (1 User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_4.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package D with E-Invoicing, Setup and Training (3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_5.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package E with E-Invoicing, Setup, Training and Cloud Terminal (3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_1.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package A with E-Invoicing (1 User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_2.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package B with E-Invoicing (3 User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_3.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package C with E-Invoicing and setup (1 User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_4.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package D with E-Invoicing, Setup and Training (3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_5.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package E with E-Invoicing, Setup, Training and Cloud Terminal (3 Users)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,9 +12,9 @@ TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-m
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_1.pdf' target='_blank'>SmartTab eMenu Version 4 - Package (10 eMenu Licenses with HW)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_2.pdf' target='_blank'>SmartTab eMenu Version 4 - Package (20 eMenu Licenses with HW)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_3.pdf' target='_blank'>SmartTab eMenu Version 4 - Package (5 eMenu Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_1.pdf' target='_blank'>SmartTab eMenu Version 4 - Package (10 eMenu Licenses with HW)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_2.pdf' target='_blank'>SmartTab eMenu Version 4 - Package (20 eMenu Licenses with HW)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_3.pdf' target='_blank'>SmartTab eMenu Version 4 - Package (5 eMenu Licenses)</a><br/>
 
 ### Eligibility Criteria
 

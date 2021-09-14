@@ -12,11 +12,11 @@ Sage 300 takes the complexity out of managing your business finances across bord
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_1.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Basic Package P1 (5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_2.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Basic Package P2 (10 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_3.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Enhanced Package P3 (5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_4.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Enhanced Package S1 (5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_5.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Enhanced Package S2 (10 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_1.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Basic Package P1 (5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_2.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Basic Package P2 (10 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_3.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Enhanced Package P3 (5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_4.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Enhanced Package S1 (5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_5.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Enhanced Package S2 (10 Users)</a><br/>
 
 ### Eligibility Criteria
 

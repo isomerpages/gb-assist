@@ -12,11 +12,11 @@ Autocount is an integrated Accounting and Inventory Management System. It covers
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_1.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Basic - 1 User)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_2.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Pro - 3 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_3.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Premium - 5 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_4.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Premium - 7 Users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_5.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Premium - 10 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_1.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Basic - 1 User)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_2.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Pro - 3 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_3.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Premium - 5 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_4.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Premium - 7 Users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_5.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Premium - 10 Users)</a><br/>
 
 ### Eligibility Criteria
 

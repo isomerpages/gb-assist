@@ -12,7 +12,7 @@ Synology NAS pairing with an onsite and offsite cloud backup to ensure that data
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_Consulting_20200639_Annex_3.pdf' target='_blank'>NuCloud NAS File Storage Solution - NuCloud NAS Storage Standard</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_Consulting_20200639_Annex_3.pdf' target='_blank'>NuCloud NAS File Storage Solution - NuCloud NAS Storage Standard</a><br/>
 
 ### Eligibility Criteria
 

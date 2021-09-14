@@ -12,9 +12,9 @@ SkipQoo provides Digital Ordering and Delivery System for F&B which has fully in
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_1.pdf' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Takeaway, Delivery & Reservation Booking)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_2.pdf' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (All-in-one)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_3.pdf' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware (All-in-one)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_1.pdf' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Takeaway, Delivery & Reservation Booking)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_2.pdf' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (All-in-one)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_3.pdf' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware (All-in-one)</a><br/>
 
 ### Eligibility Criteria
 

@@ -12,11 +12,11 @@ Cloud-Based POS System with product management, inventory management, promotion 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_1.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (Basic)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_2.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (Basic + Inventory Management)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_3.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (Basic + Multi Software)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_4.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Version 3.0.9.3Package (Basic - Mobile)               </a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_5.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (POS - Lite)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_1.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (Basic)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_2.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (Basic + Inventory Management)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_3.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (Basic + Multi Software)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_4.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Version 3.0.9.3Package (Basic - Mobile)               </a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_5.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (POS - Lite)</a><br/>
 
 ### Eligibility Criteria
 

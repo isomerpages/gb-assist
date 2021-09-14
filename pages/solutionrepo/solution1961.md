@@ -12,11 +12,11 @@ FoodZaps Technology is a Singapore company with the most comprehensive and integ
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_1.pdf' target='_blank'>FoodZaps Version 4.0-Package A (eMenu)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_2.pdf' target='_blank'>FoodZaps Version 4.0-Package B (eMenu with eWaiter)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_3.pdf' target='_blank'>FoodZaps Version 4.0-Package C (Customer QR/Online Self Ordering)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_4.pdf' target='_blank'>FoodZaps Version 4.0-Package D(eMenu, eWaiter, Customer QR/Online Self Ordering and Digital Payment all-in-one solution)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_5.pdf' target='_blank'>FoodZaps Version 4.0-Package E(eMenu with Customer QR/Online Self Ordering Contactless Ordering Solution)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_1.pdf' target='_blank'>FoodZaps Version 4.0-Package A (eMenu)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_2.pdf' target='_blank'>FoodZaps Version 4.0-Package B (eMenu with eWaiter)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_3.pdf' target='_blank'>FoodZaps Version 4.0-Package C (Customer QR/Online Self Ordering)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_4.pdf' target='_blank'>FoodZaps Version 4.0-Package D(eMenu, eWaiter, Customer QR/Online Self Ordering and Digital Payment all-in-one solution)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_FOODZAPS_Annex_3_CR_wef_25_Aug_2020_Part_5.pdf' target='_blank'>FoodZaps Version 4.0-Package E(eMenu with Customer QR/Online Self Ordering Contactless Ordering Solution)</a><br/>
 
 ### Eligibility Criteria
 

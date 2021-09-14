@@ -12,11 +12,11 @@ Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps me
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Basic WeChat Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Basic Web Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Standard WeChat Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Standard Web Package</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Premium Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Basic WeChat Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Basic Web Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Standard WeChat Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Standard Web Package</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Premium Package</a><br/>
 
 ### Eligibility Criteria
 

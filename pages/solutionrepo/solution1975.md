@@ -12,9 +12,9 @@ Microsoft Dynamics 365 Business Central (formerly known as Dynamics NAV or Navis
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Essentials - 3 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Essentials - 5 Users</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Essentials - 10 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Essentials - 3 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Essentials - 5 Users</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200421_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Essentials - 10 Users</a><br/>
 
 ### Eligibility Criteria
 

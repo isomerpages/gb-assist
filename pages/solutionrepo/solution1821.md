@@ -12,11 +12,11 @@ Redoc (redoc.co), a product of Real Estate Doc, is a smart cloud-based document 
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_1.pdf' target='_blank'>Redoc Version 1.0 - Package 1 (Up to 5 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_2.pdf' target='_blank'>Redoc Version 1.0 - Package 2 (Up to 10 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_3.pdf' target='_blank'>Redoc Version 1.0 - Package 3 (Up to 20 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_4.pdf' target='_blank'>Redoc Version 1.0 - Package 4 (Up to 30 users)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_5.pdf' target='_blank'>Redoc Version 1.0 - Package 5 (Up to 40 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_1.pdf' target='_blank'>Redoc Version 1.0 - Package 1 (Up to 5 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_2.pdf' target='_blank'>Redoc Version 1.0 - Package 2 (Up to 10 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_3.pdf' target='_blank'>Redoc Version 1.0 - Package 3 (Up to 20 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_4.pdf' target='_blank'>Redoc Version 1.0 - Package 4 (Up to 30 users)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Real_Estate_Doc_20200846_Annex_3_CR_wef_7_jan_2021_Part_5.pdf' target='_blank'>Redoc Version 1.0 - Package 5 (Up to 40 users)</a><br/>
 
 ### Eligibility Criteria
 

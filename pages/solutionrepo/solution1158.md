@@ -12,11 +12,11 @@ Novade provides an enterprise platform for site operations. Novade leverages mob
 
 ### Packages Available
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_1.pdf' target='_blank'>Novade - Package 1: Novade Safety (1 Project, up to 1 year)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_2.pdf' target='_blank'>Novade - Package 2: Novade Safety (1 Project, up to 2 years)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_3.pdf' target='_blank'>Novade - Package 3: Novade Safety (1 Project, up to 3 years)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_4.pdf' target='_blank'>Novade - Package 4: Novade Safety (2 Projects, up to 1 year)</a>
-<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_5.pdf' target='_blank'>Novade - Package 5: Novade Safety (3 Projects, up to 1 year)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_1.pdf' target='_blank'>Novade - Package 1: Novade Safety (1 Project, up to 1 year)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_2.pdf' target='_blank'>Novade - Package 2: Novade Safety (1 Project, up to 2 years)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_3.pdf' target='_blank'>Novade - Package 3: Novade Safety (1 Project, up to 3 years)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_4.pdf' target='_blank'>Novade - Package 4: Novade Safety (2 Projects, up to 1 year)</a><br/>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_20200234_Annex_3_Part_5.pdf' target='_blank'>Novade - Package 5: Novade Safety (3 Projects, up to 1 year)</a><br/>
 
 ### Eligibility Criteria
 
