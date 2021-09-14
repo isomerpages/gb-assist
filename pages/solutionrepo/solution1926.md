@@ -1,5 +1,5 @@
 ---
-title: 
+title: Weighing System
 permalink: /productivity-solutions-grant/solutionrepo/solution1926
 ---
 

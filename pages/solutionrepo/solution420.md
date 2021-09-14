@@ -1,5 +1,5 @@
 ---
-title: 
+title: iREP Workforce Management System Version 2
 permalink: /productivity-solutions-grant/solutionrepo/solution420
 ---
 

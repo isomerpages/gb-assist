@@ -1,5 +1,5 @@
 ---
-title: 
+title: SAP Business One, version for HANA Version 10
 permalink: /productivity-solutions-grant/solutionrepo/solution479
 ---
 

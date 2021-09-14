@@ -1,5 +1,5 @@
 ---
-title: 
+title: SourceSage Online Store
 permalink: /productivity-solutions-grant/solutionrepo/solution1726
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: WESS - Wellness Management Software Version 2.0
 permalink: /productivity-solutions-grant/solutionrepo/solution747
 ---
 

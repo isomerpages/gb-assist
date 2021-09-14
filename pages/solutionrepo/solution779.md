@@ -1,5 +1,5 @@
 ---
-title: 
+title: BeauteSoft Version 6.3
 permalink: /productivity-solutions-grant/solutionrepo/solution779
 ---
 

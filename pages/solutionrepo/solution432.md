@@ -1,5 +1,5 @@
 ---
-title: 
+title: VEON@Experience Version 1.0
 permalink: /productivity-solutions-grant/solutionrepo/solution432
 ---
 

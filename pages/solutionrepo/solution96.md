@@ -1,5 +1,5 @@
 ---
-title: 
+title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8
 permalink: /productivity-solutions-grant/solutionrepo/solution96
 ---
 

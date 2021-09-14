@@ -1,5 +1,5 @@
 ---
-title: 
+title: GS BIM collaboration Platform Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution1889
 ---
 

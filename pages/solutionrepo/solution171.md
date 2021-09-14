@@ -1,5 +1,5 @@
 ---
-title: 
+title: STUDIO MANAGER Version 7
 permalink: /productivity-solutions-grant/solutionrepo/solution171
 ---
 

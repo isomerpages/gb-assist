@@ -1,5 +1,5 @@
 ---
-title: 
+title: Smart Management Tracking System II
 permalink: /productivity-solutions-grant/solutionrepo/solution1818
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Shopcada Ecommerce and POS
 permalink: /productivity-solutions-grant/solutionrepo/solution937
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: BIZ POS Version 3.0
 permalink: /productivity-solutions-grant/solutionrepo/solution1090
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Ecommerce Web Development (WooCommerce) Version 0.8
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 

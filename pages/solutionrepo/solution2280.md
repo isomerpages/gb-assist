@@ -1,5 +1,5 @@
 ---
-title: 
+title: INNOCOM - ASSEMBLE
 permalink: /productivity-solutions-grant/solutionrepo/solution2280
 ---
 

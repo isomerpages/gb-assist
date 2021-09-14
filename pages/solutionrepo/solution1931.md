@@ -1,5 +1,5 @@
 ---
-title: 
+title: Simpple Version V1.0
 permalink: /productivity-solutions-grant/solutionrepo/solution1931
 ---
 

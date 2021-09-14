@@ -1,5 +1,5 @@
 ---
-title: 
+title: SecureAPlus Version 6.x
 permalink: /productivity-solutions-grant/solutionrepo/solution770
 ---
 

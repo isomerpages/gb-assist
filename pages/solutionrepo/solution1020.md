@@ -1,5 +1,5 @@
 ---
-title: 
+title: Sage 300 Advanced Edition
 permalink: /productivity-solutions-grant/solutionrepo/solution1020
 ---
 

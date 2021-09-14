@@ -1,5 +1,5 @@
 ---
-title: 
+title: BlueMeg Console
 permalink: /productivity-solutions-grant/solutionrepo/solution2173
 ---
 

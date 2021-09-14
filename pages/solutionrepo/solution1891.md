@@ -1,5 +1,5 @@
 ---
-title: 
+title: arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection
 permalink: /productivity-solutions-grant/solutionrepo/solution1891
 ---
 

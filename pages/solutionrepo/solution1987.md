@@ -1,5 +1,5 @@
 ---
-title: 
+title: APPZPOS F&B Point of Sales Version 1.1
 permalink: /productivity-solutions-grant/solutionrepo/solution1987
 ---
 

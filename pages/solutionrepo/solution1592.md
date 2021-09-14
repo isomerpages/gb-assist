@@ -1,5 +1,5 @@
 ---
-title: 
+title: INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN )
 permalink: /productivity-solutions-grant/solutionrepo/solution1592
 ---
 

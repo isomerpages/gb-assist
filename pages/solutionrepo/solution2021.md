@@ -1,5 +1,5 @@
 ---
-title: 
+title: Sage 300 ERP
 permalink: /productivity-solutions-grant/solutionrepo/solution2021
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Sophos Central EndPoint Protection
 permalink: /productivity-solutions-grant/solutionrepo/solution2113
 ---
 

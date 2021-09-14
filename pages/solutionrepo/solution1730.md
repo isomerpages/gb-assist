@@ -1,5 +1,5 @@
 ---
-title: 
+title: Qashier Smart Terminal
 permalink: /productivity-solutions-grant/solutionrepo/solution1730
 ---
 

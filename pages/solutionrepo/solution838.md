@@ -1,5 +1,5 @@
 ---
-title: 
+title: Integrated Back Of House Solution for Restaurant Version 1 
 permalink: /productivity-solutions-grant/solutionrepo/solution838
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Accounting and Human Resource Management Version 3.0
 permalink: /productivity-solutions-grant/solutionrepo/solution643
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: Million Accounting and Stock Control System Version 5
 permalink: /productivity-solutions-grant/solutionrepo/solution1155
 ---
 

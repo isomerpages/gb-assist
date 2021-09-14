@@ -1,5 +1,5 @@
 ---
-title: 
+title: iCHEF Integrated Digital Ordering POS Version V 2.0
 permalink: /productivity-solutions-grant/solutionrepo/solution997
 ---
 

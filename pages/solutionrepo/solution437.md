@@ -1,5 +1,5 @@
 ---
-title: 
+title: Getz F&B Integrated Instore and Online Transformation Version 2
 permalink: /productivity-solutions-grant/solutionrepo/solution437
 ---
 

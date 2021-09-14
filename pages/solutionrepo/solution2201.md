@@ -1,5 +1,5 @@
 ---
-title: 
+title: FITPRISE Project Management System
 permalink: /productivity-solutions-grant/solutionrepo/solution2201
 ---
 

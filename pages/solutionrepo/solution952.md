@@ -1,5 +1,5 @@
 ---
-title: 
+title: VersaFleet Version 6-W
 permalink: /productivity-solutions-grant/solutionrepo/solution952
 ---
 

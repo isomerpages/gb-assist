@@ -1,5 +1,5 @@
 ---
-title: 
+title: MuRho Inventory Management System
 permalink: /productivity-solutions-grant/solutionrepo/solution632
 ---
 

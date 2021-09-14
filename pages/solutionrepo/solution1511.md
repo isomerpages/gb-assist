@@ -1,5 +1,5 @@
 ---
-title: 
+title: EPOS Enhanced POS Version 2
 permalink: /productivity-solutions-grant/solutionrepo/solution1511
 ---
 

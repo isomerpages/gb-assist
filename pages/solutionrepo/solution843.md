@@ -1,5 +1,5 @@
 ---
-title: 
+title: Synergix E1 Sales & Accounting
 permalink: /productivity-solutions-grant/solutionrepo/solution843
 ---
 

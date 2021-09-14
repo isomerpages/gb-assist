@@ -1,5 +1,5 @@
 ---
-title: 
+title: SKIP QUEUE (F&B) - DIGITAL ORDERING
 permalink: /productivity-solutions-grant/solutionrepo/solution2189
 ---
 

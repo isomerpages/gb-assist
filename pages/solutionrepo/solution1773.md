@@ -1,5 +1,5 @@
 ---
-title: 
+title: SAP BUSINESS ONE V10
 permalink: /productivity-solutions-grant/solutionrepo/solution1773
 ---
 

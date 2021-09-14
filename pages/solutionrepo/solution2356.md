@@ -1,5 +1,5 @@
 ---
-title: 
+title: SSJ-Related
 permalink: /productivity-solutions-grant/solutionrepo/solution2356
 ---
 

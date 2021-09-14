@@ -1,5 +1,5 @@
 ---
-title: 
+title: Konnect Digital Software
 permalink: /productivity-solutions-grant/solutionrepo/solution580
 ---
 

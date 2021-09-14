@@ -1,5 +1,5 @@
 ---
-title: 
+title: Frontier e-HR Version 8
 permalink: /productivity-solutions-grant/solutionrepo/solution412
 ---
 

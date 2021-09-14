@@ -1,5 +1,5 @@
 ---
-title: 
+title: SMART TECHNOLOGY FOR FACILITIES MANAGEMENT Version 1.8 
 permalink: /productivity-solutions-grant/solutionrepo/solution1045
 ---
 

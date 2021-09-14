@@ -1,5 +1,5 @@
 ---
-title: 
+title: Hubble Workforce Management System Version 2.0
 permalink: /productivity-solutions-grant/solutionrepo/solution461
 ---
 

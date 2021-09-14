@@ -1,5 +1,5 @@
 ---
-title: 
+title: (SaaS) JustLogin HR Cloud
 permalink: /productivity-solutions-grant/solutionrepo/solution539
 ---
 

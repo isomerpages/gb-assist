@@ -1,5 +1,5 @@
 ---
-title: 
+title: Human Resource Shared Services (HRSS)
 permalink: /productivity-solutions-grant/solutionrepo/solution574
 ---
 

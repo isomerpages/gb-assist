@@ -1,5 +1,5 @@
 ---
-title: 
+title: SYSFREIGHT Version 8
 permalink: /productivity-solutions-grant/solutionrepo/solution1526
 ---
 

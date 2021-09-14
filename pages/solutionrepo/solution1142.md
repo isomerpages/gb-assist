@@ -1,5 +1,5 @@
 ---
-title: 
+title: Visual Optical Retail Management System Version 8
 permalink: /productivity-solutions-grant/solutionrepo/solution1142
 ---
 

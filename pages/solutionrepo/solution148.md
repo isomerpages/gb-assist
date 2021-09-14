@@ -1,5 +1,5 @@
 ---
-title: 
+title: AppPOS (BYOD) Version 4
 permalink: /productivity-solutions-grant/solutionrepo/solution148
 ---
 

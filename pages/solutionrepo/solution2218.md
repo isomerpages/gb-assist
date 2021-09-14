@@ -1,5 +1,5 @@
 ---
-title: 
+title: Microsoft Dynamics 365 Business Central with Mobile Add-on for Wholesale Trade Version 18-3.01
 permalink: /productivity-solutions-grant/solutionrepo/solution2218
 ---
 

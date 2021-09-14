@@ -1,5 +1,5 @@
 ---
-title: 
+title: Flavor CRM Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution828
 ---
 

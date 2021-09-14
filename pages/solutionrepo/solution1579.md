@@ -1,5 +1,5 @@
 ---
-title: 
+title: A-Class Accounting & Sales Management by Sleek Version 1
 permalink: /productivity-solutions-grant/solutionrepo/solution1579
 ---
 

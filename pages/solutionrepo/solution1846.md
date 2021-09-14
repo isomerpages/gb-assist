@@ -1,5 +1,5 @@
 ---
-title: 
+title: MyDoc Telemedicine Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution1846
 ---
 

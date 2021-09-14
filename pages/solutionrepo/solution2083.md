@@ -1,5 +1,5 @@
 ---
-title: 
+title: Battery-operated Torque Wrench
 permalink: /productivity-solutions-grant/solutionrepo/solution2083
 ---
 

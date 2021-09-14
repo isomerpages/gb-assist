@@ -1,5 +1,5 @@
 ---
-title: 
+title: EquipPOS Retail Solutions Version 3
 permalink: /productivity-solutions-grant/solutionrepo/solution377
 ---
 

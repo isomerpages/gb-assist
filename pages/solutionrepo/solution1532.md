@@ -1,5 +1,5 @@
 ---
-title: 
+title: Zoho One
 permalink: /productivity-solutions-grant/solutionrepo/solution1532
 ---
 

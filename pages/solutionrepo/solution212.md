@@ -1,5 +1,5 @@
 ---
-title: 
+title: AZ Digital POS Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution212
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: 
+title: EndPoint Protection Platform
 permalink: /productivity-solutions-grant/solutionrepo/solution523
 ---
 

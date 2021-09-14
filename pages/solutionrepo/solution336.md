@@ -1,5 +1,5 @@
 ---
-title: 
+title: Microsoft Dynamics 365 Business Central Version 15
 permalink: /productivity-solutions-grant/solutionrepo/solution336
 ---
 

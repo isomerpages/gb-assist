@@ -1,5 +1,5 @@
 ---
-title: 
+title: SYNERGIX E1 Version TH6
 permalink: /productivity-solutions-grant/solutionrepo/solution2245
 ---
 

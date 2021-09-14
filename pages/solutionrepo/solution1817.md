@@ -1,5 +1,5 @@
 ---
-title: 
+title: NuCloud NAS File Storage Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution1817
 ---
 

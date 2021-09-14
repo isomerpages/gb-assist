@@ -1,5 +1,5 @@
 ---
-title: 
+title: Beautec Version 3 centralized version
 permalink: /productivity-solutions-grant/solutionrepo/solution234
 ---
 

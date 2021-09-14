@@ -1,5 +1,5 @@
 ---
-title: 
+title: SAP Business One 9.3
 permalink: /productivity-solutions-grant/solutionrepo/solution497
 ---
 

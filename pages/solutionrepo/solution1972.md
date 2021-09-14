@@ -1,5 +1,5 @@
 ---
-title: 
+title: One-Stop Document Access
 permalink: /productivity-solutions-grant/solutionrepo/solution1972
 ---
 

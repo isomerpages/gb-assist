@@ -1,5 +1,5 @@
 ---
-title: 
+title: Octopus Retail Solution
 permalink: /productivity-solutions-grant/solutionrepo/solution1457
 ---
 

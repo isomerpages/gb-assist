@@ -1,5 +1,5 @@
 ---
-title: 
+title: NetQ Management System
 permalink: /productivity-solutions-grant/solutionrepo/solution2048
 ---
 
