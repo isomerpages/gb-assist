@@ -1,11 +1,15 @@
 ---
-title: Precision Engineering
+title: Precision Engineering Sector Solutions
 permalink: /productivity-solutions-grant/sector-specific-solutions/precision-engineering/
 third_nav_title: Sector Specific Solutions
 ---
 
-## Pre-scoped Equipment for Precision Engineering
+## Precision Engineering Sector Solutions
 
-### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
+### IT Solutions
 
 {% include accordion.html accordions=site.data.acc065-precision-engineering.accordion %}
+
+### Equipments
+
+{% include accordion.html accordions=site.data.ace014-precision-engineering.accordion %}

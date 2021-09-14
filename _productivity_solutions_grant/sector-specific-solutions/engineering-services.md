@@ -1,11 +1,15 @@
 ---
-title: Engineering Services
+title: Engineering Services Sector Solutions
 permalink: /productivity-solutions-grant/sector-specific-solutions/engineering-services/
 third_nav_title: Sector Specific Solutions
 ---
 
-## Pre-scoped Equipment for Engineering Services
+## Engineering Services Sector Solutions
 
-### Solutions supported under the Productivity Solutions Grant are regularly reviewed. Do take note of the current support levels and grant caps.
+### IT Solutions
 
 {% include accordion.html accordions=site.data.acc057-engineering-services.accordion %}
+
+### Equipments
+
+{% include accordion.html accordions=site.data.ace006-engineering-services.accordion %}
