@@ -1,5 +1,5 @@
 ---
-title: KEGMIL FSM-Kegmil FSM Package A - 10 Users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2275
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://kegmil.com/ <br>Contact Hotline: 8949 9637<br>Contact Email: in
 
 Kegmil is on a mission to empower millions of deskless field service professionals with technology & data to supercharge their operational efficiency & service performance. Our cloud-based, mobile-first software intelligently automates & optimizes field activities for small to mid-sized maintenance firms who keep our world running across industries from elevator to data center equipment servicing.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_1.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package A - 10 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_2.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package B - 25 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_3.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package C - 40 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_4.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package D - 60 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/FTV_Labs_20200793_Desensitised_Annex_3_Part_5.pdf' target='_blank'>KEGMIL FSM-Kegmil FSM Package E - 100 Users</a>
 
 ### Eligibility Criteria
 

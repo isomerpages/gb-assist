@@ -1,5 +1,5 @@
 ---
-title: Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2118
 ---
 
@@ -10,9 +10,9 @@ Web URL: https://www.digitalsolutions.com.sg/ <br>Contact Hotline: 64932970 <br>
 
 Development of an online shopping cart system complete with integrated product details and functionalities to transform and automate online sales transactions, managing of customers' orders and buying behaviour data, tracking of statistics of product sales performance, online marketing of products and provision of consultancy to explore digital connections with external platforms to increase market reach digitally.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20200806_Desensitised_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/W.L.P_20200806_Desensitised_Annex_3.pdf' target='_blank'>Ecommerce Web Development (WooCommerce) Version 0.8 - Ecommerce Web Development & Online Inventory Management (WooCommerce)</a>
 
 ### Eligibility Criteria
 

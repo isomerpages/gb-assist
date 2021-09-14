@@ -1,5 +1,5 @@
 ---
-title: Singtel-Fortinet-FG-200E inclusive of 1 Year Unified (UTM) Protection
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1500
 ---
 
@@ -8,11 +8,10 @@ Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/c
 
 ### Description
 
-A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure. 
+A network appliance that consolidates multiple security and networking functions to help protect small and medium businesses while simplifying their infrastructure.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Fortigate_UTM_Annex_3_CR_2_wef_29_October_2020_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

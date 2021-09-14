@@ -1,5 +1,5 @@
 ---
-title: cuteTrac Version 2  - Package (1 Vehicle)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1594
 ---
 
@@ -10,9 +10,12 @@ Web URL: www.cutechgroup.com/it <br>Contact Hotline: 69042340 <br>Contact Email:
 
 cuteTrac is an advanced vehicle tracking solution that helps to manage fleet operations in an efficient manner. It increases the productivity and results in tremendous cost savings.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_1.pdf' target='_blank'>cuteTrac Version 2  - Package (1 Vehicle)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_2.pdf' target='_blank'>cuteTrac Version 2  -  Package (3 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_3.pdf' target='_blank'>cuteTrac Version 2  - Package (8 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cutech_Infocomm_Solutions_Annex_3_Part_4.pdf' target='_blank'>cuteTrac Version 2  - Package (13 Vehicles)</a>
 
 ### Eligibility Criteria
 

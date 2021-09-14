@@ -1,5 +1,5 @@
 ---
-title: WhyzeHR Workforce Management System Version 12 - Package D (50 Standard Package)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution956
 ---
 
@@ -10,10 +10,8 @@ Whyze Solutions Pte Ltd<br>http://www.whyze.com.sg/hrms/<br>Email: enquiry@whyze
 
 Companies in wholesale sector used our fully web based system to manage all the movement of their staffs from office, warehouse to delivery of the goods to their distributors / retailers. They planned schedules of their staff using our system, check the attendance of each staff and their respective locations. Their employees' working hours, OT and attendance allowances will be sent over to payroll for payroll computation, assisting them to analyse on the full labour costing reports.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_20200094_Annex_3_20200625143720_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

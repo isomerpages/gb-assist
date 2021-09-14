@@ -1,5 +1,5 @@
 ---
-title: ABSS Premier Version 23 - Package (3 Users with InvoiceNow)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1849
 ---
 
@@ -8,11 +8,10 @@ Company Name: ABSS (formerly known as MYOB) <br>Web URL: www.abssasia.com<br>Con
 
 ### Description
 
-ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports. 
+ABSS Premier is an accounting and inventory management system that integrates with local bank, IRAS GST portal and PEPPOL e-invoicing network. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ABSS_Premier_V23_Annex3_CR_wef_7_Jan_2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

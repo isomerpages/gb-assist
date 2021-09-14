@@ -1,5 +1,5 @@
 ---
-title: RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Accounting
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution658
 ---
 
@@ -10,9 +10,13 @@ Nspire Group Pte Ltd<br>https://www.RavenPOS.com<br>Email: ravenpos@gmail.com<br
 
 RavenPOS offers standard to full scale business enterprise software automation solution covering all major business trades with integration to our cloud based HQ system to consolidate sales across multiple channels or outlets, ability to segregate customer, inventory and sales reporting on channel/outlet level plus full cloud based accounting suite to assist business owners to gain holistic view of company financial health.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_4.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Accounting</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_1.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_2.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with Mobile Order Management</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_3.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with CRM</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Nspire_Group_20200123_Annex_3_20200625145749_Part_5.pdf' target='_blank'>RAVENPOS ENTERPRISE RETAIL BUSINESS SUITE Version 12 - Point Of Sale with QR Ordering</a>
 
 ### Eligibility Criteria
 

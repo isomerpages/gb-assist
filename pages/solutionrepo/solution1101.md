@@ -1,5 +1,5 @@
 ---
-title: (A.I.) INFO-TECH Cloud HRMS Version 8.0 - Package (InfoHRMS Pro 150)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1101
 ---
 
@@ -8,15 +8,10 @@ Company Name:Info-Tech Systems Integrators Pte Ltd <br>Web URL: www.info-tech.c
 
 ### Description
 
-INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.
-- Transforming HR Software to Cloud
-- Integrated Software enables overall view of the workforce & productivity, performance & efficiency
-- Help HR handle company's compliance challenges and better manage resources.
-- Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
+INFO-TECH Cloud HRMS Version 8.0 offers all companies to GO Digital and helps propels HR productivity growth to a new level available on Mobile APPS.- Transforming HR Software to Cloud- Integrated Software enables overall view of the workforce & productivity, performance & efficiency- Help HR handle company's compliance challenges and better manage resources.- Affordable HR Software, modular design enable company to implement integrated HR Software by modules.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Info-Tech_HRMS_20200222_Annex_3_20200826091546_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

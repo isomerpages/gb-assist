@@ -1,5 +1,5 @@
 ---
-title: MEGAPOS - MEGAPOS Standard
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1189
 ---
 
@@ -10,9 +10,13 @@ Company Name:Megasafe Technology Pte Ltd <br>Web URL: www.megapos.com.sg <br>C
 
 A cost-effective POS solution that comes with sleek hardware, feature-rich software and top service.   MEGAPOS offers you an opportunity to upgrade to a modern productivity tool engineered and tested for the new retail economy in this post-Covid CB period.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_1.pdf' target='_blank'>MEGAPOS - MEGAPOS Standard</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_2.pdf' target='_blank'>MEGAPOS - MEGAPOS Standard+</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_3.pdf' target='_blank'>MEGAPOS - MEGAPOS Professional</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_4.pdf' target='_blank'>MEGAPOS - MEGAPOS Professional+</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Megasafe_20200300_Annex_3_Part_5.pdf' target='_blank'>MEGAPOS - MEGAPOS Pro on Tablet</a>
 
 ### Eligibility Criteria
 

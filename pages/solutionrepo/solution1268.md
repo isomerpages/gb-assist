@@ -1,5 +1,5 @@
 ---
-title: Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package A
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1268
 ---
 
@@ -10,9 +10,10 @@ Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg
 
 Aptsys online CRM, marketing and advertising capabilities will propel businesses to find new revenue streams, increase their exposure online and target the promotion to the correct customer channel.  The members can also earn and redeem points to increase loyalty.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package A</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aptsys_Technology_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>Aptsys Customer Relation Management System (CRM/Loyalty Programme) - Package B</a>
 
 ### Eligibility Criteria
 

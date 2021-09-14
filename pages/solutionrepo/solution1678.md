@@ -1,5 +1,5 @@
 ---
-title: RetailNext In-Store Analytics Version 1 - RETAILNEXT IN-STORE ANALYTICS - TRAFFIC 2.0
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1678
 ---
 
@@ -8,11 +8,10 @@ Web URL: www.retaildds.com <br>Contact Hotline: 69881039 <br>Contact Email: tr
 
 ### Description
 
-RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technologies to intelligently measure shoppers' behavior. Shoppers' behavioral data are anonymously captured and sent to the platform directly from the "Aurora V2" sensors. Retailers can have a wider perspective of where the possible areas to work on increasing revenue are. RetailNext is a proven platform used by more than 450 retailers in over 85 countries to increase sales, reduce theft and eliminate unnecessary costs.
+RetailNext In-Store Analytics Platform uses IoT Video Analytics and AI technologies to intelligently measure shoppers' behavior. Shoppers' behavioral data are anonymously captured and sent to the platform directly from the Aurora V2 sensors. Retailers can have a wider perspective of where the possible areas to work on increasing revenue are. RetailNext is a proven platform used by more than 450 retailers in over 85 countries to increase sales, reduce theft and eliminate unnecessary costs.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_RetailDDS_20200406_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

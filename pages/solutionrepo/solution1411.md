@@ -1,5 +1,5 @@
 ---
-title: StaffAny Version 1.0-Package A (25 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1411
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://www.staffany.com <br>Contact Hotline: 88145422 <br>Contact Em
 
 StaffAny is a software-as-a-service that helps business owners reduce work dedicated to scheduling and time-tracking, as well as reduce the cost of operations by minimising time theft and overtime spend.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_1.pdf' target='_blank'>StaffAny Version 1.0-Package A (25 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_2.pdf' target='_blank'>StaffAny Version 1.0-Package B (50 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_3.pdf' target='_blank'>StaffAny Version 1.0-Package C (100 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_4.pdf' target='_blank'>StaffAny Version 1.0-Package D (150 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Staffany_20200098_Annex_3_Part_5.pdf' target='_blank'>StaffAny Version 1.0-Package E (250 Users)</a>
 
 ### Eligibility Criteria
 

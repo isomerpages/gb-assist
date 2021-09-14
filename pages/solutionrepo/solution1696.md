@@ -1,5 +1,5 @@
 ---
-title: ChopeQueues - ChopeQueues Standalone with 10k SMS Bundle 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1696
 ---
 
@@ -10,9 +10,10 @@ Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email:
 
 ChopeQueues is a contactless queue management that is fully integrated with our Table Management System ChopeBook. Diners join the queue at a restaurant's entrance by scanning a QR code and restaurant staff can inform them once a table becomes available at the touch of a button.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_1.pdf' target='_blank'>ChopeQueues - ChopeQueues Standalone with 10k SMS Bundle </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chope_Group_20200196_Annex_3_Part_2.pdf' target='_blank'>ChopeQueues - ChopeQueues as add-on to ChopeCloud or ChopeBook with 10k SMS Bundle</a>
 
 ### Eligibility Criteria
 

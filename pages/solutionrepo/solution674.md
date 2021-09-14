@@ -1,5 +1,5 @@
 ---
-title: Octopus Food Solution Version 7 - Package B (Bundle of 3 Mobile Ordering)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution674
 ---
 
@@ -10,10 +10,8 @@ Octopus Retail Management Pte Ltd<br>https://octopuspos.com<br>Email: solutions@
 
 Octopus Food Solutions provides a complete suites of innovative and easy-to-use food management solutions, designed to help food businesses be smarter and more personal. Our solutions are suited to various verticals within the food industry including quick service counters, seated restaurant, bars and bistros. From small too large multi store operations. We help food business owners run sales and promotions, track inventory, manage operations and engage customers.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Octopus_Retail_Management_20200080_Annex_3_20200625144838_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

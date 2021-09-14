@@ -1,5 +1,5 @@
 ---
-title: Live Fish Pump
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2147
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 An equipment that ensure safe, gentle, fast way to transfer fish.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

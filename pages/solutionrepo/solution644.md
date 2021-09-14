@@ -1,5 +1,5 @@
 ---
-title: Accounting and Human Resource Management Version 3.0 - Package C (50 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution644
 ---
 
@@ -8,11 +8,10 @@ Net Solutions Pte Ltd<br>www.netsolutions.sg<br>Email: sales@netsolutions.sg<br>
 
 ### Description
 
-The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes. 
+The solution is an integrated and cloud based Accounting and Human Resource Management System with modular system structure provides fast, reliable and comprehensive accounting, payroll and financial reporting and real-time analysis capabilities, enabling faster, more compliant financial close and run real-time financial accounting and reporting processes.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Net_Solutions_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: eBIS Version V1.0-eBIS (Basic Package -1 Project)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2284
 ---
 
@@ -10,9 +10,12 @@ Web URL: www.ngt.com.sg <br>Contact Hotline: 68469334 <br>Contact Email: info@
 
 It's a powerful Mobile Application designed for Building and Construction industry. The Mobile Apps is built to replace pen and paper method of site inspections, site recording, follow-up, issues tracking, and reporting including e-Permit to Work (e-PTW) that makes it easy for everyone throughout the process of construction, hence ultimately transform the industry towards adopting Digital Technology, thereby skyrocket team's productivity.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_1.pdf' target='_blank'>eBIS Version V1.0-eBIS (Basic Package -1 Project)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_2.pdf' target='_blank'>eBIS Version V1.0-eBIS (Intermediate Package -2 Projects)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_3.pdf' target='_blank'>eBIS Version V1.0-eBIS (Advanced Package -3 Projects)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/NEWGENE_20200808_Desensitised_Annex_3_Part_4.pdf' target='_blank'>eBIS Version V1.0- 	eBIS (Super Advanced Package -4 Projects)</a>
 
 ### Eligibility Criteria
 

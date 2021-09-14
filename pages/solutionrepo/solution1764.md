@@ -1,5 +1,5 @@
 ---
-title: XERO - Accounting Consultancy-Standard Full Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1764
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.accountingconsultancy.com<br>Contact Hotline: 6388 8378<br>Contact 
 
 Xero is a cloud-based accounting software that connects people with the right numbers anytime, anywhere, on any device. For accountants and bookkeepers, Xero helps build a trusted relationship with small business clients through online collaboration, helping over 2 million+ subscribers worldwide transform the way they do business.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_1.pdf' target='_blank'>XERO - Accounting Consultancy-Standard Full Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_2.pdf' target='_blank'>XERO - Accounting Consultancy-Standard Basic Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_3.pdf' target='_blank'>XERO - Accounting Consultancy-Premium Full Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_4.pdf' target='_blank'>XERO - Accounting Consultancy-Premium Basic Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounting_Consultancy_20200715_Annex_3_Part_5.pdf' target='_blank'>XERO - Accounting Consultancy-Standard Subscription</a>
 
 ### Eligibility Criteria
 

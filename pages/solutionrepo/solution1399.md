@@ -1,5 +1,5 @@
 ---
-title: Artemis-100 searches for 1 year
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1399
 ---
 
@@ -10,9 +10,16 @@ Web URL: www.cynopsis.co <br>Contact Hotline: 68162740 <br>Contact Email: sales@
 
 Artemis is the simple, cost-effective one-stop automation of a complex regulatory requirement on Know-Your-Customer (KYC)/Anti-Money Laundering (AML)/Counter-Terrorism Financing (CTF). Artemis is built specifically to address the ever-changing AML/CTF requirements prescribed by regulators in Singapore and elsewhere. Intended for both Financial and non-Financial sectors, it helps regulated businesses to better comply with regulatory requirements on KYC, risk assessment, record keeping, screening and on-going due diligence obligations.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' target='_blank'>Artemis-100 searches for 1 year</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' target='_blank'>Artemis-500 searches for 1 year</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_3.pdf' target='_blank'>Artemis-1000 searches for 1 year</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_4.pdf' target='_blank'>Artemis-3000 searches for 1 year</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_1.pdf' target='_blank'>Artemis-100 searches for 1 year</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_2.pdf' target='_blank'>Artemis-500 searches for 1 year</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_3.pdf' target='_blank'>Artemis-1000 searches for 1 year</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Cynopsis_20200580_Annex_3_Part_4.pdf' target='_blank'>Artemis-3000 searches for 1 year</a>
 
 ### Eligibility Criteria
 

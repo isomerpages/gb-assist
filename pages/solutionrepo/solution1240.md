@@ -1,5 +1,5 @@
 ---
-title: King Of Time Version 1 - Up to 50 users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1240
 ---
 
@@ -8,13 +8,10 @@ Company Name:Huubap Pte. Ltd. <br>Web URL: https://huubap.com/ <br>Contact Hot
 
 ### Description
 
-King of Time is a workforce management software which helps the HR and managers to better perform time attendance, leave and schedule management.
+King of Time is a workforce management software which helps the HR and managers to better perform time attendance, leave and schedule management.As it is a cloud system, all stakeholders including employees will be able to access the system from anywhere that they are authorized to. Leave application, schedule rostering and approval can now be done even when the personnel is at home or on a business trip.
 
-As it is a cloud system, all stakeholders including employees will be able to access the system from anywhere that they are authorized to. Leave application, schedule rostering and approval can now be done even when the personnel is at home or on a business trip.
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Huubap_20200187_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

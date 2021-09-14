@@ -1,5 +1,5 @@
 ---
-title: Armfort Security Workforce Version 2 - Package (Enhance Plus)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution679
 ---
 
@@ -10,13 +10,8 @@ One Third Technologies Pte Ltd<br>http://www.onethird.co<br>Email: hello@onethir
 
 Armfort Security Workforce, previously known as One Security Suite is a cloud-based mobile and web solution that enables security agencies to manage officers, clients, back office in an integrated platform.
 
+### Packages Available
 
-
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/One_Third_Technologies_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

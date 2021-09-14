@@ -1,5 +1,5 @@
 ---
-title: KEEPITAL Sales Management Business Solution Version 3 - Package (250 Product Showcase)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution544
 ---
 
@@ -8,13 +8,10 @@ Keep Pte Ltd<br>www.keepital.com<br>Email: ask@keepital.com<br>Tel: +65 9623 912
 
 ### Description
 
-Keepital is an online B2B platform that brings together buyers and suppliers which allow business owners to reach out to prospects. Through this platform, business owners can list their products, generate quotation to the buyers.
-To Digitize all SME products and services into a single platform, all hardcopy practices of Wholesale SME will be digitized.
+Keepital is an online B2B platform that brings together buyers and suppliers which allow business owners to reach out to prospects. Through this platform, business owners can list their products, generate quotation to the buyers.To Digitize all SME products and services into a single platform, all hardcopy practices of Wholesale SME will be digitized.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Keep_20190044_Annex_3_20200625143301_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

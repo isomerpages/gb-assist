@@ -1,5 +1,5 @@
 ---
-title: AxiomSL MAS 610 SaaS version 4-Package (Standard Data Loading)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1483
 ---
 
@@ -8,11 +8,10 @@ Company Name: AxiomSL Pte Ltd<br>Web URL: www.axiomsl.com<br>Contact Hotline: 69
 
 ### Description
 
-AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+AxiomSL (MAS Notice 610 and Notice 1003) is a cloud-based Regulatory Reporting solution for banks, hosted on AWS. The solution is able to comply with the revised MAS 610 regulatory reporting requirements.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AxiomSL_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

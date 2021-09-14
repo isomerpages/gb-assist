@@ -1,5 +1,5 @@
 ---
-title: Automated Tray Sealer
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution307
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The Automatic Tray Sealer requires employees to fill plastic trays with the product (eg. meat, buns, pasta) after which, the employee will place the trays in the equipment which will then be sealed by the film-like material
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

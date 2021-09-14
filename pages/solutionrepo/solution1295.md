@@ -1,5 +1,5 @@
 ---
-title: PEOPLECENTRAL HRMS Version 11 - Professional 50
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1295
 ---
 
@@ -10,9 +10,13 @@ Company Name:ADVANCED & BEST TECHNOLOGIES PTE LTD <br>Web URL: www.smepayroll.c
 
 PEOPLECENTRAL is a comprehensive HRMS Solution. All-in-one platform empowering Human Resource Professionals across complete employee life cycles. From Acquiring Talent, Staff On boarding, Developing, Retaining to Off boarding.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_1.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 50</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_2.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 100</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_3.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 150</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_4.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 200</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRMSAnnex3CR27May2021_Part_5.pdf' target='_blank'>PEOPLECENTRAL HRMS Version 11 - Professional 250</a>
 
 ### Eligibility Criteria
 

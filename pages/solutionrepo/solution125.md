@@ -1,5 +1,5 @@
 ---
-title: Smart mobile/static compactors
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution125
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Waste-handling system integrated with smart features to enable on-demand waste collection. The equipment must minimally be equipped with sensors such as fill-level or weight monitoring system which allows operators and premises owners to monitor and react to its usage, efficiency and fill level to enable on-demand waste collection.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

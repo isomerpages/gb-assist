@@ -1,5 +1,5 @@
 ---
-title: WarelyPOS Version 1.1 - WarelyPOS Express
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2038
 ---
 
@@ -10,9 +10,10 @@ Web URL: https://www.p65marketing.com/warelypos/ <br>Contact Hotline: 96681774 
 
 WarelyPOS is a home-grown brand that aims to help F&B vendors go digital. We believe that all F&B vendors should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites would also be developed for our vendors. Deliveries are also made possible when using our software which help vendors to be less reliant on commission-based platforms and gain control over their costings.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_1.pdf' target='_blank'>WarelyPOS Version 1.1 - WarelyPOS Express</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200771_Desensitised_Annex_3_Part_2.pdf' target='_blank'>WarelyPOS Version 1.1 - WarelyPOS Premium</a>
 
 ### Eligibility Criteria
 

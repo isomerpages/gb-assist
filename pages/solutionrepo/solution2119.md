@@ -1,5 +1,5 @@
 ---
-title: Wireless Tour Guide System 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2119
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Portable, handheld short-range wireless audio system consisting of transmitters and receivers. 
+Portable, handheld short-range wireless audio system consisting of transmitters and receivers.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

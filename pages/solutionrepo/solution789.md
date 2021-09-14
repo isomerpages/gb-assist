@@ -1,5 +1,5 @@
 ---
-title: Shopmatic - Shopmatic Pro Concierge
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution789
 ---
 
@@ -10,9 +10,9 @@ Company Name:Shopmatic Pte Ltd <br>Web URL: www.goshopmatic.com <br>Contact Ho
 
 Shopmatic is a SaaS solution that offers an integrated business solutions for SMEs to take their business online and providing full accessibility to the business owner to operate their e-commerce presence.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Modified_Annex_3_wef_1_march_2021.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shopmatic_Modified_Annex_3_wef_1_march_2021.pdf' target='_blank'>Shopmatic - Shopmatic Pro Concierge</a>
 
 ### Eligibility Criteria
 

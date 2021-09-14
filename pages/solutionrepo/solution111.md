@@ -1,5 +1,5 @@
 ---
-title: Advocado Cloud Loyalty CRM Software - Package (Starter)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution111
 ---
 
@@ -10,9 +10,12 @@ Advocado Pte Ltd<br>https://www.advocadoapp.com<br>Email: hello@advocado.me<br>T
 
 Advocado Cloud Loyalty Customer Relationship Management software empowers SMEs to manage their consumers, grow their customer base and bring them back again and again using marketing automation. Leverage on cloud CRM technology to skyrocket revenue and win more regulars, without the need to issue cards or getting consumers to download apps. Advocado is truly enterprise grade CRM, priced affordably for the SMEs.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_1.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Starter)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_2.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Standard)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_3.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Professional B.I.)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advocado_20200085_Annex_3_20200625145311_Part_4.pdf' target='_blank'>Advocado Cloud Loyalty CRM Software - Package (Enterprise B.I.)</a>
 
 ### Eligibility Criteria
 

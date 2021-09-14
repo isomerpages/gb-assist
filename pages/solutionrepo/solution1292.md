@@ -1,5 +1,5 @@
 ---
-title: Venue management software Version 2.0 - Regular
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1292
 ---
 
@@ -10,9 +10,9 @@ Company Name:VENUERIFIC PTE. LTD. <br>Web URL: www.venuerific.com <br>Contact Ho
 
 Venuerific was founded in Singapore in 2013 with the goal of helping venue owners market and grow their business through the events industry. What we discovered soon after was that most venues did not have the proper tools & systems to effectively manage this business. Hence in 2015, Venuerific pivoted to developing a one-stop system that allows the venues to operate optimally and efficiently through relevant data and in return increase revenue & profitability of the business.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Venuerific_Annex_3_CR_wef_22_July_2021.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Venuerific_Annex_3_CR_wef_22_July_2021.pdf' target='_blank'>Venue management software Version 2.0 - Regular</a>
 
 ### Eligibility Criteria
 

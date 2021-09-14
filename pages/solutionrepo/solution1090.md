@@ -1,5 +1,5 @@
 ---
-title: BIZ POS Version 3.0 -BIZ POS VER 3.0 ALL-IN-ONE
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1090
 ---
 
@@ -10,9 +10,11 @@ Company Name:Coobiz IT Solutions Pte Ltd <br>Web URL: www.coobizit.com <br>Con
 
 BIZ POS is a comprehensive POS built for easy usage and efficient sales/customer/inventory management. Daily sales operation are equipped with many promotions/discount setup abilities, this software also bundles with membership features to monitor customers spending, rewards and redemption. The inventory features will track each stocks in and out of the store and report balance of the stock quantities.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>BIZ POS Version 3.0 -BIZ POS VER 3.0 ALL-IN-ONE</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank'>BIZ POS Version 3.0 -BIZ POS VER 3.0 MOBILE</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Coobiz_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank'>BIZ POS Version 3.0 -BIZ POS VER 3.0 LAPTOP</a>
 
 ### Eligibility Criteria
 

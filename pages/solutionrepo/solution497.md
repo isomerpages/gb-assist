@@ -1,5 +1,5 @@
 ---
-title: SAP Business One 9.3 - Package (2 Starter Users on Cloud)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution497
 ---
 
@@ -10,9 +10,14 @@ Integrated Information Systems Pte Ltd<br>www.integratedinfosystem.com<br>Email:
 
 The SAP Business One application offers a single, affordable way to manage your entire business - from sales and customer relationships to financials and operations. Designed specifically for small businesses, it helps you streamline processes, act on timely information, and accelerate profitable growth.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>SAP Business One 9.3 - Package (2 Starter Users on Cloud)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_2.pdf' target='_blank'>SAP Business One 9.3 -  Package (5 Starter Users on Cloud)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_3.pdf' target='_blank'>SAP Business One 9.3 -  Package (6 Professional Users on Cloud)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_4.pdf' target='_blank'>SAP Business One 9.3 - Package (8 Professional Users on Cloud with Peppol Einvoicing)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Integrated_Info_Systems_Annex3_CR_wef_26_Nov_2020_Part_5.pdf' target='_blank'>SAP Business One 9.3 - Package (11 Professional Users on
+Cloud with Peppol Einvoicing)</a>
 
 ### Eligibility Criteria
 

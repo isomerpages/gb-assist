@@ -1,5 +1,5 @@
 ---
-title: Shopcada Ecommerce and POS-Shopcada Premium Ecommerce with Grow Mobile Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution937
 ---
 
@@ -10,9 +10,11 @@ Company Name:Webcada Pte. Ltd. <br>Web URL: https://www.shopcada.com <br>Conta
 
 Shopcada is an Omni Channel retail solution which consists of Online Ecommerce, POS for Retail Shops, Mobile Application as well as is integrated with Online Marketplaces such as Shopee, Lazada and Zalora. With Shopcada, business owners manage their business that spans across the different channels within a single dashboard. With GMV processed in 2019 exceeding SGD50M, Shopcada has already proven itself as a reliable and user friendly platform for sellers.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_1-2.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_1-2.pdf' target='_blank'>Shopcada Ecommerce and POS-Shopcada Premium Ecommerce with Grow Mobile Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_3.pdf' target='_blank'>Shopcada Ecommerce and POS-Shopcada Premium  Ecommerce Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedWebcadaannex3CRwef20May2021_Part_4.pdf' target='_blank'>Shopcada Ecommerce and POS-SShopcada Standard  Ecommerce Package</a>
 
 ### Eligibility Criteria
 

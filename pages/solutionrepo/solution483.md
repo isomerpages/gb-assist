@@ -1,5 +1,5 @@
 ---
-title: AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 1 User
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution483
 ---
 
@@ -10,9 +10,13 @@ Company Name:Ingenious Business Software Pte Ltd <br>Web URL: https://www.ingen
 
 Characterized by its easy-to-use, fast operated speed, complete business logic coverage, and accurate information provided; AutoCount system stands out as one of the best accounting software for today business requirements. With minimal of accounting knowledge, user can start using AutoCount system.With its advanced technology such as Microsoft .Net Framework, SQL Server 2012,AutoCount system able to operate in ultra-fast speed and provides strong and stable database for every type of business.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 1 User</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Basic 3 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_3.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 5 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_4.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 8 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenious_Business_Annex_3_CR_wef_8_July_2021_Part_5.pdf' target='_blank'>AUTOCOUNT ACCOUNTING VERSION Version 2.0 - Premium 12 Users</a>
 
 ### Eligibility Criteria
 

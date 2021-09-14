@@ -1,5 +1,5 @@
 ---
-title: Xintesys Sales and Inventory Management Solution Version V30DC_01-001 - Basic Pack (10 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution971
 ---
 
@@ -8,14 +8,10 @@ Xintesys Consultancy Pte Ltd<br>www.xintesys.com<br>Email: solutions@xintesys.co
 
 ### Description
 
-"Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. 
+Xintesys Sales and Inventory Management Solution captures all operational data from Sales to Delivery and Inventory Movements. It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements.
 
-It is built with a user definable workflow driven engine suitable for SMEs to capture their transactions. Xintesys provides in-built dynamic analysis capability and is configurable for the changing needs of most SMEs be it due to expansion or the changing business requirements."
+### Packages Available
 
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Xintesys_Consultanc_20200109_Annex_3_20200625143843_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

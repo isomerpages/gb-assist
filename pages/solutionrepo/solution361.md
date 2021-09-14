@@ -1,5 +1,5 @@
 ---
-title: Deskera ERP Version 9.0/10.1 - Package A (SaaS - 3 users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution361
 ---
 
@@ -8,12 +8,10 @@ Deskera Singapore Pte Ltd<br>https://www.deskera.com/<br>Email: hello@deskera.co
 
 ### Description
 
-Deskera ERP is an easy-to-use software that facilitates the recording and processing of all financial transactions via integrated solution.
-From invoices to books, POS to receipts, customer and vendor management to customizable financial reports, Deskera ERP provides a quick and efficient way to manage companies' accounts processes.
+Deskera ERP is an easy-to-use software that facilitates the recording and processing of all financial transactions via integrated solution.From invoices to books, POS to receipts, customer and vendor management to customizable financial reports, Deskera ERP provides a quick and efficient way to manage companies' accounts processes.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Deskera_ERP_Annex_3_wef_23_April_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Ozonised Air + Surface Sterilization System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution83
 ---
 
@@ -8,11 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation.  
+An equipment which produces a steady stream of Active Oxygen to bind and eradicate 99.9% of airborne and surface-bound pollutant such as bacteria, viruses, harmful particles, toxic gases and unpleasant odours. Equipment will eliminate moulds/ bacteria on surfaces and reduce chemical usage for effective sanitation.  Grant support 80% of cost of equipment, up to $30,000 grant
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

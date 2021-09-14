@@ -1,5 +1,5 @@
 ---
-title: BonaForce-bonaFORCE Agencies
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution261
 ---
 
@@ -8,15 +8,10 @@ Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Co
 
 ### Description
 
-bonaFORCE is a CRM created specially for the SMEs.
+bonaFORCE is a CRM created specially for the SMEs.Consolidating feedback, issues & suggestions over the past decade as well as with a view to the future and in light of the current economical challenges, Bona Technologies is proud to present bonaFORCE with specialized features to support SMEs in terms of economical marketing, tasks & issues follow up, customer surveys, digital name-card and brochure & more.Developed by SMEs, for SMEs. bonaforce is a Singapore-grown solution. SGUnited
 
-Consolidating feedback, issues & suggestions over the past decade as well as with a view to the future and in light of the current economical challenges, Bona Technologies is proud to present bonaFORCE with specialized features to support SMEs in terms of economical marketing, tasks & issues follow up, customer surveys, digital name-card and brochure & more.
+### Packages Available
 
-Developed by SMEs, for SMEs. bonaforce is a Singapore-grown solution. #SGUnited
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_BonaForce_Annex_3_Part_56.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

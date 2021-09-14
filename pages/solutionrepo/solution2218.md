@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central with Mobile Add-on for Wholesale Trade Version 18-3.01 - Cloud Solution Package-Basic with Addon
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2218
 ---
 
@@ -8,13 +8,10 @@ Web URL: www.dynsln.com.sg <br>Contact Hotline: 62617881 <br>Contact Email: in
 
 ### Description
 
-- Microsoft Dynamics 365 Business Central base Finance and Supply Chain Management (Inventory, Sales and Purchase)
-- Mobile Addon (Document Approval - PR, PO, Sales Quote, Sales Order)
-- Predefined Setup and Implementation
+- Microsoft Dynamics 365 Business Central base Finance and Supply Chain Management (Inventory, Sales and Purchase)- Mobile Addon (Document Approval - PR, PO, Sales Quote, Sales Order)- Predefined Setup and Implementation
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DynamicSolutions20200274_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

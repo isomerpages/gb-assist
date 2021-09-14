@@ -1,5 +1,5 @@
 ---
-title: Electric Pedestrian Pallet Truck
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1416
 ---
 
@@ -8,13 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-This powered pallet truck is used to transport loads within warehouses, factories. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks. 
+This powered pallet truck is used to transport loads within warehouses, factories. It improves the overall movement control and reduces the amount of effort an operator needs to use when moving loads, as compared to conventional carts and pallet trucks. The equipment can transport palletised goods of approximately 1000 to 1500 kg.Grant support 80% of cost of equipment, capped at $2,600 grant per unit
 
-The equipment can transport palletised goods of approximately 1000 to 1500 kg.
-
-Grant support: 80% of cost of equipment, capped at $2,600 grant per unit
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

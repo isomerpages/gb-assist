@@ -1,5 +1,5 @@
 ---
-title: Automatic Seed Sowing Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2131
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A machine that sow seeds at a specified depth and position and ensures uniform and consistent seed distribution
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

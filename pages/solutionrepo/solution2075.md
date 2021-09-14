@@ -1,5 +1,5 @@
 ---
-title: CSG - Autodesk BIM Collaborate Pro - 2 User Pack
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2075
 ---
 
@@ -10,9 +10,12 @@ Web URL: www.csglobal-group.com <br>Contact Hotline: 65882378 <br>Contact Emai
 
 Autodesk BIM360 Design is a design collaboration software providing a platform for real-time cloud worksharing and collaboration workflows. It helps to improve productivity, reduce rework, and accelerate project delivery.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_1.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 2 User Pack</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_2.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 5 Users Pack</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_3.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 10 Users Pack</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCSGCRwef1April2021_Part_4.pdf' target='_blank'>CSG - Autodesk BIM Collaborate Pro - 25 Users Pack</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: DST Inventory System Version 1.3 - Package A (Simple)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2267
 ---
 
@@ -10,9 +10,12 @@ Company Name: DST Advertising (Singapore) Pte Ltd<br>Web URL: DSTadvertising.com
 
 DST RFID Inventory System uses handheld UHF RFID readers (deployed with Android App) to scan passive RFID tags attached onto Inbound and Outbound items for tracking and inventory stock take. The solution is used mainly for tracking of high value items such as Jewellery, Wines, Furniture, Laptops etc. by Rental, Movers and Event Companies.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_1.pdf' target='_blank'>DST Inventory System Version 1.3 - Package A (Simple)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_2.pdf' target='_blank'>DST Inventory System Version 1.3 - Package B (QR Code)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_3.pdf' target='_blank'>DST Inventory System Version 1.3 - Package C (Barcode)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDSTAdvertisingAnnex3CRwef1July2021_Part_4.pdf' target='_blank'>DST Inventory System Version 1.3 - Package D (RFID)</a>
 
 ### Eligibility Criteria
 

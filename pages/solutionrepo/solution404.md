@@ -1,5 +1,5 @@
 ---
-title: FacilityBot - Small Facilities
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution404
 ---
 
@@ -10,10 +10,9 @@ FacilityBot Pte Ltd<br>http://facilitybot.co<br>Email: sales@facilitybot.co<br>T
 
 FacilityBot is the first-to-market omni-channel AI-powered facilities management chatbot offered as a Software-as-a-Service (SaaS). FacilityBot is friendly, flexible and feature-packed. FacilityBot's features include fault reporting, preventive maintenance, asset tracking, custom service requests, expenditures, response time tracking, data analytics, facilities booking, surveys, broadcasts and automated responses to FAQs. FacilityBot has been deployed in over 500,000 sqm of space in Singapore.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/FacilityBot_20200189_Annex_3_20200625151434_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedFacilityBotAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>FacilityBot - FacilityBot Multiple Site Plan (100 Accounts)</a>
 
 ### Eligibility Criteria
 

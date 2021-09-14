@@ -1,5 +1,5 @@
 ---
-title: SmartKiosk Version 1 - Package (2 Kiosks with HW Rental)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution847
 ---
 
@@ -8,11 +8,10 @@ Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel:
 
 ### Description
 
-TabSquare's SmartKiosk Version1 is a Hybrid Digital Ordering and Payment solution that drives self-ordering, payment and customer engagements which improves customer experience and increase productivity of F&B operators. 
+TabSquare's SmartKiosk Version1 is a Hybrid Digital Ordering and Payment solution that drives self-ordering, payment and customer engagements which improves customer experience and increase productivity of F&B operators.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/TabSquare_SmartKiosk_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

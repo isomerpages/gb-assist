@@ -1,5 +1,5 @@
 ---
-title: Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With SOC) - Package (FG-100F)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1812
 ---
 
@@ -10,9 +10,13 @@ Web URL: WWW.D-CONNECT.NET <br>Contact Hotline: 8001014209 <br>Contact Email: 
 
 Data Connect Technologies propose FortiGate F-series for CyberSecurity Unified Threat Protection (UTP) solution. It provides a fast and secure SD-WAN solution in a compact fanless desktop form factor for enterprise branch offices and mid-sized businesses to protects against cyber threats with system-on-a-chip acceleration and industry-leading secure SD-WAN in a simple, affordable, and easy to deploy solution.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_1.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With SOC) - Package (FG-100F)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_2.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP - Package (FG-100F)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_3.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP (With SOC) - Package (FG-60F)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_4.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 60F UTP - Package (FG-60F)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Data_Connect_20200540_Annex_3_Part_5.pdf' target='_blank'>Fortigate UTP - 60F / Fortigate UTP - 100F - Fortigate 100F UTP (With Manage Service and SOC) - Package (FG-100F)</a>
 
 ### Eligibility Criteria
 

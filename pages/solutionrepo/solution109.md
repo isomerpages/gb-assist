@@ -1,5 +1,5 @@
 ---
-title: Rotary Wok Fryer
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution109
 ---
 
@@ -8,10 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. 
-The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accomodate scalability
+Rotary wok fryers significantly improve the industrial frying process by providing functions like automated heating, programmable filling of oil/water, automated stirring and cleaning. The rotary wok fryer is able to rotate and stir the food to ensure that the food is evenly cooked. Recommended min capacity of 20L to accomodate scalability
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

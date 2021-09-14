@@ -1,5 +1,5 @@
 ---
-title: Sterilizer Equipment
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2156
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A machine that eliminates harmful microorganisms and pathogens for healthy growth of produce, e.g. Autoclave or steam steriliser for soil or media treatment.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

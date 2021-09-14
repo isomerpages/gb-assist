@@ -1,5 +1,5 @@
 ---
-title: Second CRM Version 7.1 - Package A (3 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1864
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://www.secondcrm.com <br>Contact Hotline: 63048022 <br>Contact E
 
 Second CRM is an easy to use cloud based business automation solution designed to improve productivity for small to medium businesses. Second CRM focuses on sales, customer services and operations, providing end to end streamlining of business functions.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Second CRM Version 7.1 - Package A (3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Second CRM Version 7.1 - Package B (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Second CRM Version 7.1 - Package C (10 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Second CRM Version 7.1 - Package D (15 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Soft_Solvers_20200136_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Second CRM Version 7.1 - Package E (20 Users)</a>
 
 ### Eligibility Criteria
 

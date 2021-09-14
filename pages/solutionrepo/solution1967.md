@@ -1,5 +1,5 @@
 ---
-title: Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 10 Licences (1 Year)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1967
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.advancedatan.com <br>Contact Hotline: 65606228 <br>Contact Email: s
 
 Sophos safeguards all users' devices under one management, either on premise or in the cloud with a single simplified management console, allowing users to easily control the overall network. By preventing further damage to business, it automatically removes detected malware or isolate compromised devices. Next gen protection, by identifying, preventing techniques, behaviors used in every exploit, it blocks malware and infections.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 10 Licences (1 Year)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 20 Licences (1 Year)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 50 Licences (1 Year)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 100 Licences (1 Year)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200687_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Sophos EndPoint - Sophos Central Intercept X Advanced with EDR - 200 Licences (1 Year)</a>
 
 ### Eligibility Criteria
 

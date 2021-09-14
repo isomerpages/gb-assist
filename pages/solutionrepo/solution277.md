@@ -1,5 +1,5 @@
 ---
-title: Electric reach truck
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution277
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Reach truck with load capacity ranging from 1.2 ton to 2.5 ton, that is able to reach loads located high up in racks, with only one operator.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

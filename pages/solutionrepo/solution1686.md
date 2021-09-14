@@ -1,5 +1,5 @@
 ---
-title: A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan A
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1686
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sal
 
 Sleek provides fully digital, secure and hassle-free HR admin & payroll services for SMEs and Startups in Singapore. Sleek's HR service covers everything that a growing SME will need from monthly payroll reporting (including payslips), leave management, employee expenses submission and tracking, annual IR8A preparation, IR21 Tax Clearance, Central Provident Fund (CPF) submissions and Skills Development Levy (SDL) processing all delivered through a user-friendly and digital experience.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_1.pdf' target='_blank'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan A</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_2.pdf' target='_blank'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan B</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_3.pdf' target='_blank'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan C</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_4.pdf' target='_blank'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan D</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekHRMSCRwef8April2021_Part_5.pdf' target='_blank'>A-Class HRSS & Payroll Processing by Sleek Version 1 - Plan E</a>
 
 ### Eligibility Criteria
 

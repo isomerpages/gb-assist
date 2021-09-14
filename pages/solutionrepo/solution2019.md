@@ -1,5 +1,5 @@
 ---
-title: Sage 300 ERP - Sage 300Cloud ADVANCE Distribution 5 users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2019
 ---
 
@@ -8,17 +8,10 @@ Web URL: www.mis.sg <br>Contact Hotline: 66842300 <br>Contact Email: rick@mis.
 
 ### Description
 
-Sage 300cloud connects the most
-important aspects of your growing business, including:
--Financials
--Operations and inventory
--Project and vendor management
--Business intelligence and reporting
--Sales, marketing and customer service
+Sage 300cloud connects the mostimportant aspects of your growing business, including-Financials-Operations and inventory-Project and vendor management-Business intelligence and reporting-Sales, marketing and customer service
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200604_Sage 300 ERP_Desensitised_Annex_3__Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

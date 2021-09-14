@@ -1,5 +1,5 @@
 ---
-title: Qashier Smart Terminal - Package A (Growth + Premier Setup + Training)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1730
 ---
 
@@ -10,9 +10,13 @@ Company Name:Qashier Pte Ltd <br>Web URL:qashier.co <br>Contact Hotline:945551
 
 Qashier provides smart point-of-sale (POS) solutions to help small merchants digitise their businesses. Qashier's flagship product is the Qashier Smart Terminal, a connected, multi-purpose device that combines a payments hub, cloud-based POS software, and a proprietary app store in one uniquely designed device. Qashier enables merchants to manage entire stores with just one terminal on the counter.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>Qashier Smart Terminal - Package A (Growth + Premier Setup + Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_2.pdf' target='_blank'>Qashier Smart Terminal - Package B (Growth + Advanced Setup)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_3.pdf' target='_blank'>Qashier Smart Terminal - Package C (Basic)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_4.pdf' target='_blank'>Qashier Smart Terminal - Package D (Pro)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Qashier_Annex_3_CR_wef_26_Nov_2020_Part_5.pdf' target='_blank'>Qashier Smart Terminal - Package E (Pro + Basic Setup)</a>
 
 ### Eligibility Criteria
 

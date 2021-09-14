@@ -1,5 +1,5 @@
 ---
-title: Fooyo Mini Shop Version 2.0-Basic WeChat Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2295
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://www.fooyo.sg/mini-shop-social-ecommerce/ <br>Contact Hotline: 
 
 Fooyo Mini Shop is a SaaS(Software-as-a-service) ordering solution that helps merchants set up digital ordering capability efficiently. It empowers F&B businesses to do QR-based food ordering for dine-in, takeaway and delivery. The solution supports both the web app and the WeChat mini-program, together with various payment methods such as PayNow, Credit Cards, and WeChat Pay.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Basic WeChat Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Basic Web Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Standard WeChat Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Standard Web Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Fooyo_20200531_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Fooyo Mini Shop Version 2.0-Premium Package</a>
 
 ### Eligibility Criteria
 

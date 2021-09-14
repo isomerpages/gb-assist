@@ -1,5 +1,5 @@
 ---
-title: Plastic Recycling System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution186
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The plastics waste recycling system with the provision of automated sorting, friction cleaning, and extrusion technology is able to process polymer streams  (i.e. PET, LDPE , HDPE  or PP ) into high quality recycled plastic compounds such as processed pellets or flakes.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

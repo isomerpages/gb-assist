@@ -1,5 +1,5 @@
 ---
-title: Ride-on cleaner/scrubber
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution101
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Ride-on scrubber machine driven by 1 operator that provides consistent cleaning performance with run-time of least 3 hours.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

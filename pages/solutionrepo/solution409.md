@@ -1,5 +1,5 @@
 ---
-title: Online Ordering & Payment System Version 0.9
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution409
 ---
 
@@ -10,11 +10,8 @@ Company Name:Firstcom Solutions Pte Ltd <br>Web URL: www.firstcom.com.sg <br>Con
 
 The Online Ordering & Payment System allows F&B enterprises to enable digital online ordering and comprehensive functionalities to automate and perform online sales transactions. It enables F&B outlets to allow their customers to order on-site, takeout or delivery on an online platform.
 
- 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Annex_3_Firstcom_FoodServices.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

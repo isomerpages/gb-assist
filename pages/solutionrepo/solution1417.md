@@ -1,5 +1,5 @@
 ---
-title: GenicDocs - Document Management Software-Package A
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1417
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://www.bthrust.com/document-management-software.html<br>Contact Ho
 
 GenicDocs is a very user-friendly interface and secured Document Management Software designed for a variety of purposes including document capture and storage, search and retrieval, and file sharing. GenicDocs is suitable for any business model by maximizing accessibility and functionality in repositories of all sizes, while increasing collaboration and communication between users.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_1.pdf' target='_blank'>GenicDocs - Document Management Software-Package A</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_2.pdf' target='_blank'>GenicDocs - Document Management Software-Package B</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_3.pdf' target='_blank'>GenicDocs - Document Management Software-Package C</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_4.pdf' target='_blank'>GenicDocs - Document Management Software-Package D</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Business_Thrust_20200511_Annex_3_Part_5.pdf' target='_blank'>GenicDocs - Document Management Software-Package E</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Automated Irrigation & Dosing System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2124
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Automated irrigation & dosing with help of timers, sensors or computers or mechanical appliances.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: Egg Washing System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2141
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Egg washing system equipped with a combination of spray nozzles and brushes to wash egg.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

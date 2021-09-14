@@ -1,5 +1,5 @@
 ---
-title: eCommerce Masterplan Version 1.0 - Enterprise
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2097
 ---
 
@@ -10,9 +10,10 @@ Web URL: https://akstech.com.sg/services/ <br>Contact Hotline: 83880417 <br>Co
 
 Our Ecommerce solutions are developed using WordPress WooCommerce technology, allowing businesses to manage their daily operation without the need to have any IT knowledge. Businesses can allow their customers to shop via online 24/7 to generate higher sales revenue. Integrated with 3rd party marketplaces, allowing their products & services to be exposed to a larger group of audience both locally and globally. With our marketing & engagement tools, higher customer retention rates are increased.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AksTech20200820_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/AksTech20200820_Desensitised_Annex_3_Part_1.pdf' target='_blank'>eCommerce Masterplan Version 1.0 - Enterprise</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/AksTech20200820_Desensitised_Annex_3_Part_2.pdf' target='_blank'>eCommerce Masterplan Version 1.0 - Basic</a>
 
 ### Eligibility Criteria
 

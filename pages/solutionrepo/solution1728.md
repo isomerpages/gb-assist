@@ -1,5 +1,5 @@
 ---
-title: BOTG Version 1.0 - Standard
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1728
 ---
 
@@ -10,9 +10,10 @@ Company Name:ANTSCOLONY PTE LTD <br>Web URL: http://www.botg.com.sg<br>Contact H
 
 Booking On The Go (BOTG) is a holistic CRM platform which caters to businesses that provide hair, beauty and wellness services. A simple yet effective tool that streamlines day-to-day operations and appointment booking through cost-effective technology solutions. BOTG will be the bridge that connects beauty retailers with their clientele, with the aim of providing them with the most fuss-free appointment booking experience possible.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_1.pdf' target='_blank'>BOTG Version 1.0 - Standard</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Antscolony_Annex _CR_wef_26_Nov_2020_Part_2.pdf' target='_blank'>BOTG Version 1.0 - Professional </a>
 
 ### Eligibility Criteria
 

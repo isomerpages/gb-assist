@@ -1,5 +1,5 @@
 ---
-title: Robot Cleaner 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2154
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc. 
+A washing robot / machine for cleaning of farming equipment to eliminate the need for personnel to enter hazardous environment. It includes tank cleaning robots, net cleaning robots, underwater robots, inspection robots, etc.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: TessaCloud DMS Version DMS - Package E Up to 34 users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution868
 ---
 
@@ -8,11 +8,10 @@ Tessaract Technologies Private Limited<br>https://tessaract.io/<br>Email: sales@
 
 ### Description
 
-TessaCloud DMS is a Document Management System that combines the best features of a cloud drive with the ease of quick uploading and downloading of files. Built-in Optical Character Recognition (OCR) and Enterprise Search functionalities are included for quick and accurate retrieval of documents and precedents. Besides, it can automatically sort folders and link them to their respective matters. Email synchronization is also available and attachments will be saved in the system. 
+TessaCloud DMS is a Document Management System that combines the best features of a cloud drive with the ease of quick uploading and downloading of files. Built-in Optical Character Recognition (OCR) and Enterprise Search functionalities are included for quick and accurate retrieval of documents and precedents. Besides, it can automatically sort folders and link them to their respective matters. Email synchronization is also available and attachments will be saved in the system.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Tessaract_Technologies_20190017_Annex_3_20200625142151_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

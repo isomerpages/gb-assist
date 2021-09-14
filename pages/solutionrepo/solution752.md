@@ -1,5 +1,5 @@
 ---
-title: Rockbell Human Resource Management System Version 3 - Package (1 user - 30 employees)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution752
 ---
 
@@ -8,11 +8,13 @@ Rockbell International Software Pte Ltd<br>www.rockbell.sg<br>Email: sales@rockb
 
 ### Description
 
-The solution streamlines HR processes by integrating with Payroll and is able to add on E-Leave, E-Claim, E-Documentation modules for a holistic system. Automation of personnel tracking enables SMEs to better track and manage staff attendance, which minimises the chance of miscalculation and unnecessary disputes. Its attendance feature enables SMEs to capture real-time work progress efficiently for better management of manpower deployment and utilisation for multiple sites.  
+The solution streamlines HR processes by integrating with Payroll and is able to add on E-Leave, E-Claim, E-Documentation modules for a holistic system. Automation of personnel tracking enables SMEs to better track and manage staff attendance, which minimises the chance of miscalculation and unnecessary disputes. Its attendance feature enables SMEs to capture real-time work progress efficiently for better management of manpower deployment and utilisation for multiple sites.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_2.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (1 user - 60 employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_3.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (1 user - unlimited employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Rockbell_HRS_Annex_3_Part_4.pdf' target='_blank'>Rockbell Human Resource Management System Version 3 - Package (3 users - unlimited employees)</a>
 
 ### Eligibility Criteria
 

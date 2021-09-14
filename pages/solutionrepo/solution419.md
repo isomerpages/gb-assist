@@ -1,5 +1,5 @@
 ---
-title: iREP Security Visitor Management System Version 3
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution419
 ---
 
@@ -10,11 +10,8 @@ Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkot
 
 iREP Security Visitor Management System is an automated modernise way of recording visitor coming in and out of the building premises.  It plays the critical role of allowing to manage and differentiate between authorized visitors, who should be granted card access and illegitimate visitors who should be denied entry with the blacklist and whitelist functions.
 
+### Packages Available
 
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_VMS_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

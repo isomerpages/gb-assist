@@ -1,5 +1,5 @@
 ---
-title: NetQ Management System - NetQ Management System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2048
 ---
 
@@ -10,9 +10,11 @@ Web URL: http://arrowlogic.com.sg/ <br>Contact Hotline: 62538872 <br>Contact E
 
 Arrowlogic Pte Ltd has been established since 2008 locally in Singapore and we believe in giving utmost value to our customers in terms of both the best product and service. We help our clients streamline and optimize their queue.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_1.pdf' target='_blank'>NetQ Management System - NetQ Management System</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_2.pdf' target='_blank'>NetQ Management System - NetQ Management System(include hardware and SMS notification)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Arrowlogic20200497_Desensitised_Annex_3_Part_3.pdf' target='_blank'>NetQ Management System - NetQ Management System(include SMS notification and Face Recognition Thermometer)</a>
 
 ### Eligibility Criteria
 

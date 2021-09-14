@@ -1,5 +1,5 @@
 ---
-title: Human Resource Shared Services (HRSS) - Basic Package 1 (1 to 50 staff)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution574
 ---
 
@@ -10,13 +10,8 @@ Lee Wenyong & Co. Holdings Pte.. Ltd.<br>www.leewenyong.com<br>Email: me@leeweny
 
 Lee Wenyong & Co. performs HR needs analysis by reviewing the SME client's internal HR processes to determine HR services that can be best outsourced. Besides, they provide HR Administrative support and payroll processing via a HRMS including employee data storage, attendance and leave, payroll and claims modules.
 
+### Packages Available
 
-
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Lee_Wenyong_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Weighing System - Baron Weighing System - Package (Baron Dynamic Load Cell for Bin Lifter)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1926
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://benghock.com.sg/product/weighing-system-baron/ <br>Contact Hot
 
 Baron Weighing System can be used in both hardware and software. In hardware, the workers can directly view the weight of the bin lifter or chassis on the on-board screen. In software, the company management software can record and track the weight measure in real-time and generate reports
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Dynamic Load Cell for Bin Lifter)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Static Load Cell - 4 points)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Static Load Cell - 6 points)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron Static Load Cell - 8 points)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/BENG_HOCK_20200299_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Weighing System - Baron Weighing System - Package (Baron On-board Static Weighing for Hooklift)</a>
 
 ### Eligibility Criteria
 

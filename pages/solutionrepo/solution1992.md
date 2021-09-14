@@ -1,5 +1,5 @@
 ---
-title: Automatic Shrink Wrap Packaging Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1992
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Shrink wrapping is a procedure where an item is wrapped in a free sleeve or envelope of loose shrink film, and heat is applied to shrink the wrap firmly around the product. The result is a tight, clear wrap around the product, preventing damage from dirt, dust, and moisture. Shrink wrap packaging is used for a variety of products and is widely used in the fresh produce sector.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

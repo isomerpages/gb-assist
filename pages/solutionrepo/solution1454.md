@@ -1,5 +1,5 @@
 ---
-title: Octopus Retail Solution-Package A (Single terminal)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1454
 ---
 
@@ -8,13 +8,10 @@ Web URL: https://octopuspos.com/ <br>Contact Hotline: 62216601 <br>Contact Ema
 
 ### Description
 
-Octopus Retail Point-of-Sale (POS) is a complete suites of innovative and easy-to-use retail management solutions, designed to help businesses be smarter and more personal. 
+Octopus Retail Point-of-Sale (POS) is a complete suites of innovative and easy-to-use retail management solutions, designed to help businesses be smarter and more personal. Our solutions help retail owners run sales and promotions, track inventory, manage operations and engage customers. Applicable to small businesses and larger multi-store operations. Our solutions have been deployed in thousands of retail in Singapore and internationally.
 
-Our solutions help retail owners run sales and promotions, track inventory, manage operations and engage customers. Applicable to small businesses and larger multi-store operations. Our solutions have been deployed in thousands of retail in Singapore and internationally.
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Octopus_Retail_20200548_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

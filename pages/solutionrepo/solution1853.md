@@ -1,5 +1,5 @@
 ---
-title: CROSSTRACK GO - Crosstrack GO Package A
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1853
 ---
 
@@ -10,9 +10,11 @@ Web URL: https://crosstrack.sg/pdf/Crosstrack_GO_Marketing_Brochure.pdf <br>Con
 
 CrossTrack GO is a fleet management platform that is available on both desktop and mobile (Android and iOS) for companies to help better manage their fleet of vehicles and drivers. With a few clicks, know exactly where your vehicles are in the palm of your hand.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_1.pdf' target='_blank'>CROSSTRACK GO - Crosstrack GO Package A</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_2.pdf' target='_blank'>CROSSTRACK GO - Crosstrack GO Package B</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CROSSTRACK_20200609_Desensitised_Annex_3_Part_3.pdf' target='_blank'>CROSSTRACK GO - Crosstrack GO Package C</a>
 
 ### Eligibility Criteria
 

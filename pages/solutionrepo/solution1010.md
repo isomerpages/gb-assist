@@ -1,5 +1,5 @@
 ---
-title: Stendard Solution  Version 1.6.1 - Starter
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1010
 ---
 
@@ -10,9 +10,11 @@ Company Name:YNL 360 Pte Ltd <br>Web URL: www.stendard.io/features <br>Contact
 
 Stendard Solution  is a cloud-based document management system that allows you to easily store, maintain, review and sign-off documents electronically. Published documents are automatically maintained with version controlling, enabling access to the latest version of documents at all time. With our workflow module, you can easily create, customise and simply tailor a fool-proof to-do list for your teams and everyone involved in any project. We put quality at the centre of your business.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_1.pdf' target='_blank'>Stendard Solution  Version 1.6.1 - Starter</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_2.pdf' target='_blank'>Stendard Solution  Version 1.6.1 - Professional</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_YNL_360_20200323_Annex_3_Part_3.pdf' target='_blank'>Stendard Solution  Version 1.6.1 - Enterprise</a>
 
 ### Eligibility Criteria
 

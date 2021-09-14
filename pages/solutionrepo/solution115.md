@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version Cloud - Essential - 3 Users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution115
 ---
 
@@ -10,9 +10,13 @@ Company Name: AFON Systems Pte Ltd <br>Web URL: https://www.afon.com.sg/microsof
 
 Microsoft Dynamics 365 Business Central is a cloud-based, comprehensive all-in-one enterprise resource planning (ERP) solution designed for small to midsize businesses. The solution has the functionalities that manages finance, operations, customer service, inventory, procurement, sales and marketing.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential - 3 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential - 5 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential with PEPPOL - 5 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essential with PEPPOL - 10 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200228_Annex_3_Part_5.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Premium with PEPPOL - 10 Users</a>
 
 ### Eligibility Criteria
 

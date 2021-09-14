@@ -1,5 +1,5 @@
 ---
-title: Anti-Stain Vortex Flushing Water Closet System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution15
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Equipment must be rimless in design with a coating finishing built into the base material that prevents the build-up of mould, waste and dirt resistant without the need to use aggressive cleaners. Solution must be fitted with vortex like 360 degree flushing that cleans every spot minimising the use of cleaning efforts. Solution must be deployed in either commercial or industrial premises.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

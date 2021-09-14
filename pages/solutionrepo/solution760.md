@@ -1,5 +1,5 @@
 ---
-title: Static Parcel Dimension, Weight and Scan Equipment
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution760
 ---
 
@@ -8,12 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.
+The Static Parcel Dimension, Weight and Scan Equipment profiles parcel based on weight, volume, dimension and bar code information of freight for courier, postal and cargo industry as well as warehouse quickly and accurately . The equipment improves the handling process by taking quick measurement and automatically transferring the data so there is no slowdown in the operations.Grant support 80% of cost of equipment, up to $17,000 grant
 
-Grant support: 80% of cost of equipment, up to $17,000 grant
-
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Essential)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2003
 ---
 
@@ -10,9 +10,11 @@ Web URL: www.onethird.co <br>Contact Hotline: 96497552 <br>Contact Email: hell
 
 Armfort VMS is an integrated solution that will assist you to effectively authenticate and pro-actively monitor the people coming in and out of the premises on a daily basis, as there is no foresee with absolute certainty where the visitors will go and whether they have any malicious intent.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Essential)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Software)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200646_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Armfort Security Visitor Management System Version 1.0 - Armfort VMS (Access)</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Engine/Electric- powered forklift
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution275
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Forklift with load capacity from 1.5 ton to 10 ton, that is able to lift, move and/or stack materials, with only one operator.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

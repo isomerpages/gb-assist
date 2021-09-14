@@ -1,5 +1,5 @@
 ---
-title: Mobile Responsive E-Commerce Version 1 - Standard
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1531
 ---
 
@@ -10,9 +10,9 @@ Web URL: https://www.webimp.com.sg/ <br>Contact Hotline: 63346659 <br>Contact 
 
 Web Imp is an award winning SG tech firm with full in-house capabilities. They focus on tailored design, intuitive UX, and reliable web development to take your online business to the next level. Their strong ties with reputable tech companies enable seamless integration with solutions such as B2C Loyalty CRM, payment gateways, and multi-channel marketplace. They ensure scalability and continuity of your digitalization with their Client Support team and digital marketing capabilities.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_Pte_Ltd_20200527_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_Pte_Ltd_20200527_Annex_3.pdf' target='_blank'>Mobile Responsive E-Commerce Version 1 - Standard</a>
 
 ### Eligibility Criteria
 

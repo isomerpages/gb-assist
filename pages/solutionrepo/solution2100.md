@@ -1,5 +1,5 @@
 ---
-title: Xero Accounting Software - PREMIUM 2
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2100
 ---
 
@@ -8,12 +8,10 @@ Web URL: https://www.xero.com/sg/ <br>Contact Hotline: 62211768 <br>Contact Em
 
 ### Description
 
-Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.
-Xero's online accounting platform provides the foundation on which businesses can build a complete business solution. It connects businesses with their bank, accounting tools, their accountant, payment services and third-party apps, so everything is securely available at any time, on any device.
+Xero is a beautiful, intelligent software platform designed to make life better for small businesses and their advisors, and to help them grow and thrive.Xero's online accounting platform provides the foundation on which businesses can build a complete business solution. It connects businesses with their bank, accounting tools, their accountant, payment services and third-party apps, so everything is securely available at any time, on any device.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AuraPartners20190050_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

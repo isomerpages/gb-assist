@@ -1,5 +1,5 @@
 ---
-title: NinjaOS - Package E (NinjaEnterprise - 5 Modules)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution521
 ---
 
@@ -10,10 +10,9 @@ Jankosoft Pte Ltd<br>https://www.jankosoft.com/<br>Email: sales@ninjaos.com<br>T
 
 We help build online e commerce stores for F&B merchants so that they can grow their brand & business by being able to save on commissions, deliver islandwide, gather and grow a loyal customer base.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Jankosoft_20200023_Annex_3_20200625144914_Part_2.pdf' target='_blank'>NinjaOS - Package B (NinjaEnterprise - 1 Module)</a>
 
 ### Eligibility Criteria
 

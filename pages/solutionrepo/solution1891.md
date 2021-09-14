@@ -1,5 +1,5 @@
 ---
-title: arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Basic
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1891
 ---
 
@@ -10,9 +10,12 @@ Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: contact
 
 With Arcstone's Equipment Monitoring and Manufacturing Data Collection solution, manufacturers can gain real-time visibility over their entire machines and equipment health allowing them to schedule recurring maintenance frequency and report on machine breakdowns to dispatch repairs. Leveraging the toolset, manufacturers are able to optimize equipment maintenance process remotely and automatically, while eliminating unscheduled production downtime.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Basic</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - Annual Subscription License - Customized</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - All-in-One Annual Subscription License - Basic</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Equipment_Monitoring_20200862_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.lite and arc.ops - Equipment Monitoring and Manufacturing Data Collection - All-in-One Annual Subscription License - Customized</a>
 
 ### Eligibility Criteria
 

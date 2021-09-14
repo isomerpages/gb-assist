@@ -1,5 +1,5 @@
 ---
-title: Commercial Inkjet Printer
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution309
 ---
 
@@ -8,11 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Commercial inkjet printers integrated into the production lines are used to stamp information directly onto the product packaging. 
-They allow the company to print specific information to individual product packets like bar codes, product information, expiry date. 
-It is recommended for the Inkjet Printer to be able to integrate with the production line for a smoother flow of operation
+Commercial inkjet printers integrated into the production lines are used to stamp information directly onto the product packaging. They allow the company to print specific information to individual product packets like bar codes, product information, expiry date. It is recommended for the Inkjet Printer to be able to integrate with the production line for a smoother flow of operation
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

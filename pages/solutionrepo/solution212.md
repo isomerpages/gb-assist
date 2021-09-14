@@ -1,5 +1,5 @@
 ---
-title: AZ Digital POS Solution - Package (VIVIPOS Standard)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution212
 ---
 
@@ -8,11 +8,10 @@ AZ Digital Pte Ltd<br>http://www.azdigital.net<br>Email: andrewteo@azdigital.net
 
 ### Description
 
-AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sales entry, maintain customer relations, upkeep inventory and provide sales report and analysis for both stand-alone and multi-outlets operations. 
+AZ Digital POS solution offers an end-to-end Point of Sale Solution to record sales entry, maintain customer relations, upkeep inventory and provide sales report and analysis for both stand-alone and multi-outlets operations.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_Annex 3_CR_wef_8May2020_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

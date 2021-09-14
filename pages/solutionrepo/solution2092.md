@@ -1,5 +1,5 @@
 ---
-title: UTM+ Managed Security Services Version 5.5  - Package (UTM+ S5)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2092
 ---
 
@@ -10,9 +10,13 @@ Company Name: Network Box (SIN) Pte Ltd<br>Web URL:  www.network-box.sg<br>Conta
 
 Networkbox's UTM solution provides remote monitoring, manages and protects company's network from cyber threats 24/7, allowing businesses to concentrate on running their day to day operations.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNetworkBox(SIN)PackageAnnex3CRwef15April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNetworkBox(SIN)PackageAnnex3CRwef15April2021_Part_1.pdf' target='_blank'>UTM+ Managed Security Services Version 5.5  - Package (UTM+ S5)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNetworkBox(SIN)PackageAnnex3CRwef15April2021_Part_2.pdf' target='_blank'>UTM+ Managed Security Services Version 5.5  - Package (UTM+ S10)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNetworkBox(SIN)PackageAnnex3CRwef15April2021_Part_3.pdf' target='_blank'>UTM+ Managed Security Services Version 5.5  - Package (UTM+ for Max 30)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNetworkBox(SIN)PackageAnnex3CRwef15April2021_Part_4.pdf' target='_blank'>UTM+ Managed Security Services Version 5.5  - Package (UTM+ for Max 80)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedNetworkBox(SIN)PackageAnnex3CRwef15April2021_Part_5.pdf' target='_blank'>UTM+ Managed Security Services Version 5.5  - Package (UTM+ for Max 200)</a>
 
 ### Eligibility Criteria
 

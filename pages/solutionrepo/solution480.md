@@ -1,5 +1,5 @@
 ---
-title: SAP Business One, version for HANA Version 10 - Package C (10 users, On-Premise)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution480
 ---
 
@@ -10,10 +10,9 @@ Inecom Pte Ltd<br>www.inecom.com.sg<br>Email: enquiries@inecomworld.com<br>Tel:+
 
 SAP Business One is a single, integrated ERP solution with flexible licensing and deployment options - subscription, private/public cloud and on-premise. The solution includes mobility applications for managers, sales and service users; in-built Business Intelligence functions; as well as Artificial Intelligence and Machine Learning capabilities. Inecom offers pre-configured packages for trading, distribution, project based industries and service/repair organizations.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Inecom_20200093_Annex_3_20200625143213_Part_1.pdf' target='_blank'>SAP Business One, version for HANA Version 10 - Package E (3 users)</a>
 
 ### Eligibility Criteria
 

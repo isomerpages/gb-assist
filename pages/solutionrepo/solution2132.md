@@ -1,5 +1,5 @@
 ---
-title: Closed Containment System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2132
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 To cultivate produce in a controlled environment that isolates and protects them from external factors.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

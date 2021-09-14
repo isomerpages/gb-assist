@@ -1,5 +1,5 @@
 ---
-title: Automated Noodle Boiler
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution17
 ---
 
@@ -8,10 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The automated noodle boiler automates the noodle cooking process.
-Grant support: 80% of cost of equipment, up to $8,000 grant
+The automated noodle boiler automates the noodle cooking process.Grant support 80% of cost of equipment, up to $8,000 grant
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

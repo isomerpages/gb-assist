@@ -1,5 +1,5 @@
 ---
-title: EndPoint Protection Platform - 25 licenses
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution523
 ---
 
@@ -10,10 +10,10 @@ Juss Solutions Group Pte Ltd<br>www.jussolve.com<br>Email: sales@jussolve.com<br
 
 Bitdefender GZ Advanced Business Security -- Guard against all threats and attack vectors with proven machine learning, behavioural analysis, advanced anti-exploit, continuous monitoring of running processes and risk assessment capabilities. The software blends machine learning and heuristics with signatures and other techniques to offer protection against all types of malware, plus threats such as phishing, ransomware.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_1.pdf' target='_blank'>EndPoint Protection Platform - 10 Licenses</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_EndPoint_Protection_Platform_20200097_Annex_3_20200625151212_Part_4.pdf' target='_blank'>EndPoint Protection Platform - 100 Licenses</a>
 
 ### Eligibility Criteria
 

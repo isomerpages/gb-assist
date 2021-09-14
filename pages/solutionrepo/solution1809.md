@@ -1,5 +1,5 @@
 ---
-title: Xero - Premier with Set-Up (Basic)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1809
 ---
 
@@ -8,15 +8,10 @@ Web URL: https://centralms.com.sg/ <br>Contact Hotline: 63371295 <br>Contact E
 
 ### Description
 
-Our company has a long history of servicing small and medium enterprises. Two of the main challenges constantly faced when working with SMEs are limited resources in financial and manpower.  
+Our company has a long history of servicing small and medium enterprises. Two of the main challenges constantly faced when working with SMEs are limited resources in financial and manpower.  Proposal on changes to accounting processes and accounting solutions are usually met with reluctance due to capital expenditures and manpower to adapt to these new solutions.  Xero  is Cloud based and beautifully addresses challenging times where working from home or anywhere is the new norm.
 
-Proposal on changes to accounting processes and accounting solutions are usually met with reluctance due to capital expenditures and manpower to adapt to these new solutions.  
+### Packages Available
 
-Xero  is Cloud based and beautifully addresses challenging times where working from home or anywhere is the new norm.
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Central_Management_20200563_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1725
 ---
 
@@ -10,9 +10,9 @@ Web URL: https://www.anewtech.net <br>Contact Hotline: 6292 0801<br>Contact Emai
 
 Intelli-Signage solution combine touch screen system, age and gender recognition, content design software, remote management, and data analytics.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Anewtech_Annex_3.pdf' target='_blank'>Intelli-Signage Version 3.1.4 - Intelli-Signage 1 unit</a>
 
 ### Eligibility Criteria
 

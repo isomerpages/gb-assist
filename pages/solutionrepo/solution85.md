@@ -1,5 +1,5 @@
 ---
-title: Plastics washing system
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution85
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A plastic washing line is used to wash and convert dirty plastic materials into dry clean plastics suitable for recycling.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

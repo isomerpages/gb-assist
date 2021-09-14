@@ -1,5 +1,5 @@
 ---
-title: ABSS - Accounting Consultancy - 3 users + Setup + Training
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1993
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://accountingconsultancy.com <br>Contact Hotline: 63888378 <br>C
 
 Accounting Consultancy Pte Ltd is a pre-approved vendor offering ABSS ABSS Premier provides advanced Accounting, inventory and business management capabilities to companies. Process foreign currency transactions, tax submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_1.pdf' target='_blank'>ABSS - Accounting Consultancy - 3 users + Setup + Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_2.pdf' target='_blank'>ABSS - Accounting Consultancy - 3 users + Setup</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_3.pdf' target='_blank'>ABSS - Accounting Consultancy - 1 user + Setup + Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_4.pdf' target='_blank'>ABSS - Accounting Consultancy - 1 user + Setup</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200714_Desensitised_Annex_3__Part_5.pdf' target='_blank'>ABSS - Accounting Consultancy - 3 users + Setup + Training + Remote Access</a>
 
 ### Eligibility Criteria
 

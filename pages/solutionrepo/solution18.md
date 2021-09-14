@@ -1,5 +1,5 @@
 ---
-title: Automated Noodle Maker
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution18
 ---
 
@@ -8,11 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-An automated noodle maker streamlines noodle-making processes, allowing for fresh noodles (including other noodle types like pasta, udon, soba etc) to be made from the raw ingredients directly and with one compact machine. The machinery is compact enough to be implemented on an outlet-level basis, allowing fresh noodles to be used. 
+An automated noodle maker streamlines noodle-making processes, allowing for fresh noodles (including other noodle types like pasta, udon, soba etc) to be made from the raw ingredients directly and with one compact machine. The machinery is compact enough to be implemented on an outlet-level basis, allowing fresh noodles to be used. Grant support 80% of cost of equipment, up to $30,000 grant
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

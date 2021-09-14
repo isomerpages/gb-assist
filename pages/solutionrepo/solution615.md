@@ -1,5 +1,5 @@
 ---
-title: MEVO DMS 8.3 - MEVO Sales (10 Users Bundle)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution615
 ---
 
@@ -10,10 +10,9 @@ MEVO Pte Ltd<br>www.mevo.com.sg<br>Email: enquiries@mevo.com.sg<br>Tel: +65 6773
 
 A specialized solution for wholesalers to optimize their order fulfilment to customers in both Lower and Upper Trade. The solution helps wholesalers streamline the process from customers' order taking (for both Lower and Upper Trade) to delivery.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MEVO_20200130_Annex_3_20200625145056_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/MEVO_20200130_Annex_3_20200625145056_Part_1.pdf' target='_blank'>MEVO DMS 8.3 - MEVO B2B (8 Users Bundle)</a>
 
 ### Eligibility Criteria
 

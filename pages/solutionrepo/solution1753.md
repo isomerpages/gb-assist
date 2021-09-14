@@ -1,5 +1,5 @@
 ---
-title: IamTreked Version 3.13 - IamTreked Package 5 - 50 vehicles
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1753
 ---
 
@@ -8,14 +8,10 @@ Web URL: www.iamtreked.com <br>Contact Hotline: 63396535 <br>Contact Email: td
 
 ### Description
 
-Iamtreked 3.13 is the latest version of our Fleet Management Solutions
-In addition to the ordinary vehicle tracking and fleet management functions, we have included tracking and management of assets such as trailers, power generators, etc.  Inputs from multiple sensors (e.g. temperature sensor) have also been incorporated.
+Iamtreked 3.13 is the latest version of our Fleet Management SolutionsIn addition to the ordinary vehicle tracking and fleet management functions, we have included tracking and management of assets such as trailers, power generators, etc.  Inputs from multiple sensors (e.g. temperature sensor) have also been incorporated.Many advanced alerts and events have also been added to inform the users on the performance and activities of their assets and sensor readings that are being tracked
 
-Many advanced alerts and events have also been added to inform the users on the performance and activities of their assets and sensor readings that are being tracked
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Zonje_20200139_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

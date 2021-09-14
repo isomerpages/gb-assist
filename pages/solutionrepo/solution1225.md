@@ -1,5 +1,5 @@
 ---
-title: INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 1 Year
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1225
 ---
 
@@ -10,9 +10,10 @@ Company Name:INNOCOM TECHNOLOGIES PTE LTD  <br>Web URL: https://innocomholding.
 
 AEC Collection consists of a set of BIM and CAD tools that support projects from early-stage design through to construction.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_-_AEC_Collection_Annex_3_CR_wef_19_Nov_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_-_AEC_Collection_Annex_3_CR_wef_19_Nov_2020_Part_1.pdf' target='_blank'>INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 1 Year</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_-_AEC_Collection_Annex_3_CR_wef_19_Nov_2020_Part_2.pdf' target='_blank'>INNOCOM - AUTODESK AEC COLLECTION - AEC Collection - 3 Years</a>
 
 ### Eligibility Criteria
 

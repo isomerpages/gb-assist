@@ -1,5 +1,5 @@
 ---
-title: Automotive Tracking System-Package A (3 Vehicles) 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1464
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.track365.com.sg <br>Contact Hotline: 98253334 <br>Contact Email: 
 
 Track 365 Automotive Tracking System is a cloud based telematics solution. Due to the dynamic and scalability of our software, we are able to integrate more than 100 different brands of GPS trackers available in the market with our software. The benefits of being able to use different types of hardware enable us to offer more choices to our customers and also enable us to select the most suitable application for the customers based on their requirements and budgets.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_1.pdf' target='_blank'>Automotive Tracking System-Package A (3 Vehicles) </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_2.pdf' target='_blank'>Automotive Tracking System-Package B (6 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_3.pdf' target='_blank'>Automotive Tracking System-Package C (9 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_4.pdf' target='_blank'>Automotive Tracking System-Package D (12 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Track_365_20200304_Annex_3_Part_5.pdf' target='_blank'>Automotive Tracking System-Package E (60 Vehicles)</a>
 
 ### Eligibility Criteria
 

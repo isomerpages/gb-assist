@@ -1,5 +1,5 @@
 ---
-title: Recirculating Aquaculture System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2153
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A production system with reduced water exchange and use of biofiltration / environmental filtration to provide a suitable habitat for fish or seafood. An RAS can reduce the need for fresh, clean water while still maintaining a healthy environment for marine animals.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

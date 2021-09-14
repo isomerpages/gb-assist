@@ -1,5 +1,5 @@
 ---
-title: Highnix ERP Plus 2 Version 4-3-30 - Standard Package 3 - (Up to 5 concurrent users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1523
 ---
 
@@ -8,12 +8,10 @@ Web URL: https://www.highnix.com/product-plan-2/ <br>Contact Hotline: 62141157 
 
 ### Description
 
-Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.   
-Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
+Highnix is a Singapore based ERP software developer with numerous man-years of accumulated professional and software experience.  It developed cloud based, enterprise grade ERP systems since 2010.  Highnix EPR systems are listed on both IRAS and IMDA websites for its compliant with IRAS E-Tax guides and a Peppol Ready Solution provider.   Highnix ERP has APIs which allow integration of third party applications. It will save tremendous amount of cost in digital transformation for business.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Highnix_20200493_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: (SaaS) JustLogin HR Cloud - D (Up to 150 pax)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution537
 ---
 
@@ -10,10 +10,11 @@ JustLogin Pte Ltd<br>https://justlogin.com<br>Email: info@justlogin.com<br>Conta
 
 For happy HR, bosses and employees, you want a platform that can help your team remain productive and focused, while providing excellent employee experiences that impresses and retains talent. JustLogin is the HR employee experience platform that delivers both through a comprehensive suite of HR applications including payroll, leave, time attendance & scheduling, expense, benefits, personnel and performance management. Bring the employee experience anywhere, with JustLogin mobile application.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_1.pdf' target='_blank'>(SaaS) JustLogin HR Cloud - A (Up to 15 pax)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_3.pdf' target='_blank'>(SaaS) JustLogin HR Cloud - C (Up to 100 pax)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/JustLogin_20200020_Annex_3_20200625143805_Part_5.pdf' target='_blank'>(SaaS) JustLogin HR Cloud - E (Up to 200 pax)</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: AgileREPORTER Version 19.3 - Package (Small Merchant and Wholesale Banks)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1836
 ---
 
@@ -8,12 +8,10 @@ Company Name: VERMEG INTERNATIONAL SINGAPORE PTE.LIMITED<br>Web URL: www.vermeg.
 
 ### Description
 
-AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .
-The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+AgileREPORTER is an enterprise-wide regulatory reporting platform that can automate regulatory reporting for banks and financial institutions in multiple regulatory jurisdictions .The solution is able to comply with the revised MAS 610 regulatory reporting requirements.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vermeg_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

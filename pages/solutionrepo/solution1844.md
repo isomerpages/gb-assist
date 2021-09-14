@@ -1,5 +1,5 @@
 ---
-title: Doctor Anywhere Platform
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1844
 ---
 
@@ -10,9 +10,9 @@ Company Name: Doctor Anywhere Operations Pte Ltd<br>Web URL: www.doctoranywhere.
 
 Doctor Anywhere Platform is a cloud-based platform hosted on AWS (Singapore). This platform allows the Service provider to perform teleconsultation services in a secured environment, via both app and web applications. Medical notes can be securely stored. Clinics are  able to provide patients with medical documents in-app, and to prescribe medication) through the platform, using their clinic's formulary.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Doctor_Anywhere_Annex_3_PSG.pdf' target='_blank'>Doctor Anywhere Platform</a>
 
 ### Eligibility Criteria
 

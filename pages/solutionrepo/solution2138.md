@@ -1,5 +1,5 @@
 ---
-title: Egg Collection Systems
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2138
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Automatic chicken egg collector is used to collect eggs. Using the machine can reduce the egg damage rate.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

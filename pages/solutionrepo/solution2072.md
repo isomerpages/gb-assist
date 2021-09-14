@@ -1,5 +1,5 @@
 ---
-title: Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2072
 ---
 
@@ -10,9 +10,11 @@ Web URL: https://scs-cpa.com/ <br>Contact Hotline: 69141114 <br>Contact Email:
 
 Going digital is not only about moving to cloud-based accounting software but also about the integration of different tools specific to business processes, creating a process that will synchronize with each other, creating a workflow that is practically usable in the day-to-day operations. For each transformation solutions development,  SCS provides Transformation Consultation, Integration Recommendations, Project Management, Implementation as well as Onsite Training and Technical Support.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSingaporeCorporateServices_Annex_3_CRwef29April2021_Part_1.pdf' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Premium Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - Setup + Training Standard Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/SingaporeCorporateServices20200884_Desensitised_Annex_3(002)_Part_3.pdf' target='_blank'>Cloud Accounting Solutions - SCS_Xero Accounting Software Version 1 - All-In-One Standard Package</a>
 
 ### Eligibility Criteria
 

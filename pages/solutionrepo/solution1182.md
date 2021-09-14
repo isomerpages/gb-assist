@@ -1,5 +1,5 @@
 ---
-title: Frontwave Cloud Version 8 -  Package (Cloud Enterprise)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1182
 ---
 
@@ -10,9 +10,10 @@ Company Name:Frontwave Software Pte Ltd <br>Web URL: https://www.frontwave.com.
 
 Frontwave Cloud is a retail management system specifically designed for an optical retail store business operation. The core components include POS (Point-of-Sales), PMS (Patient Management System), and Inventory management.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_Annex_3_CR_wef_4_Sept_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_Annex_3_CR_wef_4_Sept_2020_Part_1.pdf' target='_blank'>Frontwave Cloud Version 8 -  Package (Cloud Enterprise)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_Annex_3_CR_wef_4_Sept_2020_Part_2.pdf' target='_blank'>Frontwave Cloud Version 8 - Package (Cloud Starter)</a>
 
 ### Eligibility Criteria
 

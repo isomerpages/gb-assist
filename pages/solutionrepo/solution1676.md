@@ -1,5 +1,5 @@
 ---
-title: iFoundries E-commerce Jump Start Package Version 1 - Standard
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1676
 ---
 
@@ -10,9 +10,10 @@ Web URL: https://www.ifoundries.com <br>Contact Hotline: 96246245<br>Contact Ema
 
 The amount of trade conducted electronically in Singapore and globally has already grown tremendously with the wide-spread of Internet usage. Those who have viewed e-commerce as a secondary channel now need to re-orient every aspect of their business towards a e-commerce mindset. There exists an opportunity to double-down on e-commerce, augmenting existing offerings and creating new lines of product with our E-commerce Jump Start solutions.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iFoundries_20200498_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iFoundries_20200498_Annex_3_Part_1.pdf' target='_blank'>iFoundries E-commerce Jump Start Package Version 1 - Standard</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iFoundries_20200498_Annex_3_Part_2.pdf' target='_blank'>iFoundries E-commerce Jump Start Package Version 1 - Premium</a>
 
 ### Eligibility Criteria
 

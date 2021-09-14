@@ -1,5 +1,5 @@
 ---
-title: Vacuum Cooler Equipment
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2158
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-A system that rapidly cools from produce to extend shelf life and be more energy efficient. 
+A system that rapidly cools from produce to extend shelf life and be more energy efficient.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

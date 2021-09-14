@@ -1,5 +1,5 @@
 ---
-title: Fleet Safety & Management System Version 1 - Package (Standard)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1264
 ---
 
@@ -8,11 +8,10 @@ Smartcomm Electronics Pte Ltd<br>https://www.smartcomm.biz/<br>Email: ask@smartc
 
 ### Description
 
-Fleet Safety & Management System Version 1 is a powerful tool that provides real-time video and GPS information for time and motion study to increase productivity and lower operating costs. Built on analytics in the backend, it is capable of generating useful reports for fleet managers and decision makers. Coupled with Telematics Sensors ranging from temperature, driver identification, RFID, water flow, ultrasonic, weight and video, it helps companies to fulfil their fleet management needs. 
+Fleet Safety & Management System Version 1 is a powerful tool that provides real-time video and GPS information for time and motion study to increase productivity and lower operating costs. Built on analytics in the backend, it is capable of generating useful reports for fleet managers and decision makers. Coupled with Telematics Sensors ranging from temperature, driver identification, RFID, water flow, ultrasonic, weight and video, it helps companies to fulfil their fleet management needs.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Smartcomm-ES_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

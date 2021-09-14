@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software - Timcole Package 1 - Standard, Subscription only
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1795
 ---
 
@@ -10,9 +10,12 @@ Web URL: www.timcole.com.sg <br>Contact Hotline: 69245138 <br>Contact Email: e
 
 Xero Implementation package is designed to help small businesses to improve their back-office productivity, especially in the area of enabling small business owners to keep track of their accounts in a proper and more accurate manner (instead of using Excel which is very prone to error).
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 1 - Standard, Subscription only</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 2 - Premium, Subscription only</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 3 - Standard + Implementation</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Timcole_Annex_3_CR_wef_30_Dec_2020_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Timcole Package 4 - Premium + Implementation</a>
 
 ### Eligibility Criteria
 

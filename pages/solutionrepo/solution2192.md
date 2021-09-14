@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software - Premium Package - Software Only
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2192
 ---
 
@@ -10,9 +10,12 @@ Web URL: https://www.thesgservice.com/sg-accounting-firm <br>Contact Hotline: 9
 
 Xero package include 1 year of Xero subscription, setting up of COA and form, migration of data and personalized onsite training.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software Only</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software & Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software & Setup</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/YMCACCOUNTING20200442_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Premium Package - Software, Setup & Training</a>
 
 ### Eligibility Criteria
 

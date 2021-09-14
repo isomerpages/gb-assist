@@ -1,5 +1,5 @@
 ---
-title: Sage 300 Version 2021 - Advance Edition (Single User)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution875
 ---
 
@@ -10,9 +10,13 @@ Company Name: The World Management Pte Ltd<br>Web URL: https://twm.com.sg/<br>Co
 
 Sage300 is a powerful accounting and financial management solution that allows SMEs to maximise operational efficiencies, enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_1.pdf' target='_blank'>Sage 300 Version 2021 - Advance Edition (Single User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_2.pdf' target='_blank'>Sage 300 Version 2021 - Advance Edition (10 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_3.pdf' target='_blank'>Sage 300 Version 2021 - Peppol Ready- Advance Edition (3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_4.pdf' target='_blank'>Sage 300 Version 2021 - Peppol Ready- Advance Edition (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_The_world_management_Annex_3_CR_wef_11_Feb_2021_Part_5.pdf' target='_blank'>Sage 300 Version 2021 - Advance Edition (7 Users)</a>
 
 ### Eligibility Criteria
 

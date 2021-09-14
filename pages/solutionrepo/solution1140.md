@@ -1,5 +1,5 @@
 ---
-title: Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package A
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1140
 ---
 
@@ -10,9 +10,10 @@ Company Name:Aptsys Technology Solutions Pte Ltd <br>Web URL: www.aptsys.com.sg
 
 Aptsys Customer Mobile Self Ordering with online payment and Delivery  is an O2O platform that helps brick and mortar shops adopt an offline and online strategy to capture the online market. (Digital transformation)
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAptsysAnnex3CRwef22April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAptsysAnnex3CRwef22April2021_Part_1.pdf' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package A</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAptsysAnnex3CRwef22April2021_Part_2.pdf' target='_blank'>Aptsys - Customer Mobile Self Ordering with Payment Version 1.0 - Aptsys Self Ordering with Payment and Delivery (Web App) - Package B	</a>
 
 ### Eligibility Criteria
 

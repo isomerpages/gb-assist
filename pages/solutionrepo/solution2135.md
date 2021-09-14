@@ -1,5 +1,5 @@
 ---
-title: Culture Tank System with Water Monitoring and Control System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2135
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Fish cultivation system with monitoring and control system
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

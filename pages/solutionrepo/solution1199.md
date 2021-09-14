@@ -1,5 +1,5 @@
 ---
-title: SmartWeb V3 Version V3 - Smartweb V3 (License Only)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1199
 ---
 
@@ -10,9 +10,10 @@ Company Name:TabSquare Pte Ltd <br>Web URL: https://www.tabsquare.ai/home/smart
 
 SmartWeb is one of the unique solutions in the market which allows online ordering and payments for all order types like Dine-in, Take Away, Delivery on one single platform. Powered by AI engine Aiden it leverages on Data Analytics and Machine Learning /AI models to provide a unique personalised ordering experience to the restaurants' diners with a beautiful interface, personalised menus, personalised recommendations and even personalised promotions.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_1.pdf' target='_blank'>SmartWeb V3 Version V3 - Smartweb V3 (License Only)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tabsquare_20200515_Annex_3_Part_2.pdf' target='_blank'>SmartWeb V3 Version V3 - Smartweb V3 (License & Implementation Support)</a>
 
 ### Eligibility Criteria
 

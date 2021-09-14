@@ -1,5 +1,5 @@
 ---
-title: SAGE 300Cloud Version 2020 - Distribution A2 - 5 Users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution69
 ---
 
@@ -10,10 +10,11 @@ ACSOLV CONSULT PTE. LTD.<br>https://www.acsolv.com/<br>Email: acsolv@acsolv.com<
 
 Sage 300 accounting software is widely used by SMEs businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing and enhance business intelligence and drive productivity. It also brings data visibility and real-time access across an entire business.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_1.pdf' target='_blank'>SAGE 300Cloud Version 2020 - Distribution A1 - 3 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_3.pdf' target='_blank'>SAGE 300Cloud Version 2020 - Distribution A3 - 10 Users with E-Invoicing</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/ACSOLV_CONSULT_20190040_Annex_3_20200625150628_Part_5.pdf' target='_blank'>SAGE 300Cloud Version 2020 - Advanced B2 - 5 Users</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: DROPBOX - DROPBOX BUSINESS - 3 USERS
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1551
 ---
 
@@ -10,9 +10,10 @@ Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <br
 
 The Advanced plan on Dropbox Business gives teams as much space as they need, along with sophisticated admin, audit, security, and integration capabilities.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_1.pdf' target='_blank'>DROPBOX - DROPBOX BUSINESS - 3 USERS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innocom_20200642_Annex_3_Part_2.pdf' target='_blank'>DROPBOX - DROPBOX BUSINESS - 10 USERS </a>
 
 ### Eligibility Criteria
 

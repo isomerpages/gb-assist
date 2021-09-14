@@ -1,5 +1,5 @@
 ---
-title: Dining Butler system - Dining Butler API
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1003
 ---
 
@@ -8,19 +8,10 @@ Company Name:Singapore Dining Butler Pte Ltd <br>Web URL: diningbutler.com <br
 
 ### Description
 
-Dining Butler provides an end to end solution for F&B that covers the following modules
-1) mobile ordering
-2) POS operations
-3) kitchen management
-4) waiter management
-5) backend item management
-6) CRM
-7) inventory 
-8) reports
+Dining Butler provides an end to end solution for F&B that covers the following modules1) mobile ordering2) POS operations3) kitchen management4) waiter management5) backend item management6) CRM7) inventory 8) reports
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SG_Dining_Butler_20200107_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

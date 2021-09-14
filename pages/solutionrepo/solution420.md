@@ -1,5 +1,5 @@
 ---
-title: iREP Workforce Management System Version 2 - Package (Basic)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution420
 ---
 
@@ -10,11 +10,20 @@ Gabkotech Innovations Pte Ltd<br>http://www.gabkotech.com/<br>Email: info@gabkot
 
 iREP Workforce Management System is a mobile reporting, maintenance tracking and monitoring system which allows all the service aspects to be integrated using mobility from planning, development and delivery of services either to the organisation itself or to third parties.  Within the service framework in this application, it allows mobile reporting, maintenance tracking and monitoring work progress to meet quality standards.
 
+### Packages Available
 
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_2.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Essential)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_3.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Advanced)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_4.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Professional)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_5.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Comprehensive)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_2.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Essential)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_3.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Advanced)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_4.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Professional)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_5.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Comprehensive)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_2.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Essential)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_3.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Advanced)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_4.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Professional)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gakotech_ES_Annex_3_Part_5.pdf' target='_blank'>iREP Workforce Management System Version 2 - Package (Comprehensive)</a>
 
 ### Eligibility Criteria
 

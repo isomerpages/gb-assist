@@ -1,5 +1,5 @@
 ---
-title: SmartTab eMenu Version 4 - Package (10 eMenu Licenses)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution849
 ---
 
@@ -8,11 +8,13 @@ Tabsquare Pte Ltd<br>www.tabsquare.com<br>Email: Marketing@tabsquare.com<br>Tel:
 
 ### Description
 
-TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-menu) system that improves customer experience and increase restaurant productivity. 
+TabSquare SmartTab is a table-top ordering, payment and customer engagement (e-menu) system that improves customer experience and increase restaurant productivity.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_1.pdf' target='_blank'>SmartTab eMenu Version 4 - Package (10 eMenu Licenses with HW)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_2.pdf' target='_blank'>SmartTab eMenu Version 4 - Package (20 eMenu Licenses with HW)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Tabsquare_Smart_Tab_Annex_3_Part_3.pdf' target='_blank'>SmartTab eMenu Version 4 - Package (5 eMenu Licenses)</a>
 
 ### Eligibility Criteria
 

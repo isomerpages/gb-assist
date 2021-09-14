@@ -1,5 +1,5 @@
 ---
-title: Robotic arms
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution103
 ---
 
@@ -8,14 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Robotic arms that are:
-- Programmable mechanical arms integrated into industrial robots or collaborative robots; and 
-- Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and
-- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  
+Robotic arms that are- Programmable mechanical arms integrated into industrial robots or collaborative robots; and - Arms consist of segments connected by rotary and linear joints, allowing for controlled, precise and accurate movements; and- Robotic arms are attached with end effectors designed for a wide variety of functions such as pick & place, parts rotation & placement, tool handling and assembly.  Grant support 80% of cost of equipment, up to $30,000 grant
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

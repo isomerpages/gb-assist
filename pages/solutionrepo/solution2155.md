@@ -1,5 +1,5 @@
 ---
-title: Solar Panels System and Energy Storage System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2155
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A system that stores and converts solar energy into electrical energy for farm usage to improve resource efficiency and sustainability.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

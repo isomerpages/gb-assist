@@ -1,5 +1,5 @@
 ---
-title: SoloTracking Version 2 - Package A (40 vehicles)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1692
 ---
 
@@ -8,11 +8,10 @@ Web URL: https://www.solo.com.sg/safepass-facial-recognition-fever-screening-wit
 
 ### Description
 
-SoloTracking is an industry-proven, advanced and productivity-oriented fleet management system. It makes it unprecedentedly easy to take your fleet's pulse, from location tracking and fleet management to job dispatching and fleet optimization. Besides its "track and trace" capability, SoloTracking provides true digital readiness to your fleet's daily operation.
+SoloTracking is an industry-proven, advanced and productivity-oriented fleet management system. It makes it unprecedentedly easy to take your fleet's pulse, from location tracking and fleet management to job dispatching and fleet optimization. Besides its track and trace capability, SoloTracking provides true digital readiness to your fleet's daily operation.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Solo_20200467_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

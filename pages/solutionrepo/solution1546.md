@@ -1,5 +1,5 @@
 ---
-title: D365 Business Central (Microsoft) - Package A (5 Subscription Licences)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1546
 ---
 
@@ -10,9 +10,13 @@ Company Name: Winspire Solutions Pte Ltd<br>Web URL: www.winspiresolutions.com<b
 
 Microsoft Dynamics 365 Business Central is an easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, manufacturing, project, service and inventory management.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_1.pdf' target='_blank'>D365 Business Central (Microsoft) - Package A (5 Subscription Licences)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Package B (PEPPOL e-invoicing-15 Perpetual Licences)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Package C (PEPPOL e-invoicing-7 Subscription Licence)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central - Package D (PEPPOL e-invoicing-15 Subscription Licence)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_ERP_Annex_3_CR_wef_5_Nov_2020_Part_5.pdf' target='_blank'>D365 Business Central (Microsoft) - Package E (10 Subscription Licences)</a>
 
 ### Eligibility Criteria
 

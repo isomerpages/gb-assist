@@ -1,5 +1,5 @@
 ---
-title: Mobile/static refuse bin washing system
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution74
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The system is designed to lift and wash the waste bins automatically with only one man needed to operate the system. 
+The system is designed to lift and wash the waste bins automatically with only one man needed to operate the system.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

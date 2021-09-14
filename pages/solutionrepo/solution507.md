@@ -1,5 +1,5 @@
 ---
-title: Sage 300  - Package A1 (Advanced Edition - 3 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution507
 ---
 
@@ -10,9 +10,13 @@ Company Name: IT Infinity Pte Ltd<br>Web URL: www.it8.com.sg<br>Contact Hotline:
 
 Sage 300 is an ERP solution which automates and connects the various work processes of a business including financials, operations and inventory, project and vendor management, business intelligence reporting and sales, marketing and customer service for a seamless centralised platform.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_1.pdf' target='_blank'>Sage 300  - Package A1 (Advanced Edition - 3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_2.pdf' target='_blank'>Sage 300  - Package A2 (Advanced Edition - 5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_3.pdf' target='_blank'>Sage 300  - Package A3 (Advanced Edition - 10 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_4.pdf' target='_blank'>Sage 300  - Package B1 (Premium Edition - 5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedITInfinityAnnex3CRwef18Mar2021_Part_5.pdf' target='_blank'>Sage 300  - Package B2 (Premium Edition - 10 Users)</a>
 
 ### Eligibility Criteria
 

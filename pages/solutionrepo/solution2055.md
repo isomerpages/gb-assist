@@ -1,5 +1,5 @@
 ---
-title: EQUIP Version 10 - EQUIP S1 - 30 Users with Manufacturing
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2055
 ---
 
@@ -8,13 +8,10 @@ Web URL: https://www.hashmicro.com/erp-system <br>Contact Hotline: 66028002 <b
 
 ### Description
 
-EQUIP is an easy to use and versatile ERP solution that help companies revolutionize their business into insightful and intelligent enterprises by reducing paperwork, providing in depth business analytics and automating manual labor. 
+EQUIP is an easy to use and versatile ERP solution that help companies revolutionize their business into insightful and intelligent enterprises by reducing paperwork, providing in depth business analytics and automating manual labor. Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, and Accounting. These modern ERP solutions assist companies to win their markets with advanced analytics, data management, real-time processing, and automation.
 
-Our package comprises automated solutions for CRM, Sales, Purchase, Inventory, and Accounting. These modern ERP solutions assist companies to win their markets with advanced analytics, data management, real-time processing, and automation.
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200831_Desensitised_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

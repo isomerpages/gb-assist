@@ -1,5 +1,5 @@
 ---
-title: Secure Locking System for Access Control
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution120
 ---
 
@@ -8,13 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The locking system leverages on functional elements of a lockset and the latest technologies to meet enterprise application demands. Solution helps to improve existing solution where reliable and flexible multiple access control is required for the secured spaces. 
+The locking system leverages on functional elements of a lockset and the latest technologies to meet enterprise application demands. Solution helps to improve existing solution where reliable and flexible multiple access control is required for the secured spaces. The secure element provides tamper-proof security and stores all type of sensitive information. Solution leverages on industry standard encryption technologies.Grant support 80% of cost of equipment, up to $16,000 grant
 
-The secure element provides tamper-proof security and stores all type of sensitive information. Solution leverages on industry standard encryption technologies.
-
-Grant support: 80% of cost of equipment, up to $16,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

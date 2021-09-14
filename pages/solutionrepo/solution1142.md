@@ -1,5 +1,5 @@
 ---
-title: Visual Optical Retail Management System Version 8 Software - Package (Business Starter)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1142
 ---
 
@@ -10,9 +10,11 @@ Company Name:Frontwave Software Pte Ltd <br>Web URL: https://www.frontwave.com.
 
 Visual Optical RMS is a retail management system specifically designed for an optical retail store business operation. The core components include POS (Point-of-Sales), PMS (Patient Management System), and Inventory management.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_1.pdf' target='_blank'>Visual Optical Retail Management System Version 8 Software - Package (Business Starter)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_2.pdf' target='_blank'>Visual Optical Retail Management System Version 8 Software - Package (Business Pro)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontwave_20200487_Annex_3_Part_3.pdf' target='_blank'>Visual Optical Retail Management System Version 8 Software - Package (Business Enterprise)</a>
 
 ### Eligibility Criteria
 

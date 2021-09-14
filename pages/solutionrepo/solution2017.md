@@ -1,5 +1,5 @@
 ---
-title: Alpha eCommerce Booster Version Premium - ALPHA eCommerce BoosterPremium
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2017
 ---
 
@@ -8,16 +8,10 @@ Web URL: https://alphasixmarketing.com.sg/alpha-ecommerce-booster/ <br>Contact 
 
 ### Description
 
-Online eStore
-Inventory Management
-Orders & Payments
-Content Management
-CRM & Social Media Integration
-Chatbot & Ai Recommendation
+Online eStoreInventory ManagementOrders & PaymentsContent ManagementCRM & Social Media IntegrationChatbot & Ai Recommendation
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ALPHABET_SIX_20200698_Desensitised_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Hydraulic Nut Tensioning/ Hydraulic Torqueing Wrench
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution962
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The hydraulic nut tensioning or hydraulic torqueing wrench is used for bolting, especially in tight spaces. It prevents damage and unnecessary stress due to overtightening. Time and manpower is saved during operation.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

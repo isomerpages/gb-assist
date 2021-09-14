@@ -1,5 +1,5 @@
 ---
-title: EndPoint Standard - 10 EndPoints
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2168
 ---
 
@@ -10,9 +10,13 @@ Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>C
 
 Relying on signatures alone to detect today's threats is insufficient; Zero-day protection can defeat unknown malware that easily evade traditional security measures like firewalls. LGA's EndPoint Detection and Response (EDR) solution powered by Carbon Black gives you complete visibility to evasive malware and responds swiftly before data breaches occur. LGA's provides 24x7 security monitoring, alerting and response, and timely incident reports to provide greater insights and attack mitigation.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_1.pdf' target='_blank'>EndPoint Standard - 10 EndPoints</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_3.pdf' target='_blank'>EndPoint Standard - 50 EndPoints</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_4.pdf' target='_blank'>EndPoint Standard - 100 EndPoints</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_5.pdf' target='_blank'>EndPoint Standard - 200 EndPoints</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGATelecomAnnex3CRwef22Apr2021_Part_2.pdf' target='_blank'>EndPoint Standard - 30 EndPoints</a>
 
 ### Eligibility Criteria
 

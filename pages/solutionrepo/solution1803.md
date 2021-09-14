@@ -1,5 +1,5 @@
 ---
-title: Adventus Managed Firewall - Fortinet  - FortiGate-60F 24x7 - 1 Year
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1803
 ---
 
@@ -8,12 +8,10 @@ Web URL: https://adventus.com/ <br>Contact Hotline: 61003310 <br>Contact Email: 
 
 ### Description
 
-Adventus Managed Firewall leverages on the Fortigate appliance to provide a holistic approach by providing managed service for network perimeter security monitoring on top of the solution.
-With this all-rounded Firewall Network Perimeter Protection, a proper firewall configuration is ensured, and there is also constant monitoring of firewall threats.
+Adventus Managed Firewall leverages on the Fortigate appliance to provide a holistic approach by providing managed service for network perimeter security monitoring on top of the solution.With this all-rounded Firewall Network Perimeter Protection, a proper firewall configuration is ensured, and there is also constant monitoring of firewall threats.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Adventus_Annex_3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Equip Wholesale Solutions Version 3 - Package (Basic + Sales Order Module) - 2 License Bundle
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1233
 ---
 
@@ -8,13 +8,10 @@ Company Name:Edgeworks Solutions Pte Ltd <br>Web URL: www.edgeworks.com.sg <br
 
 ### Description
 
-EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. 
-The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. 
-With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
+EQuip Wholesale Solutions is a one-stop solution for small to medium wholesale enterprises. The solution streamlines business processes such as sales and order management, procurement, inventory management and customer relations management. With the advancement of technology, Edgeworks Solutions is able to now use the big data and provide businesses with insights through the use of analytics to optimise resources.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Annex_3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

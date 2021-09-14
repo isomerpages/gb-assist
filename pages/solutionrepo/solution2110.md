@@ -1,5 +1,5 @@
 ---
-title: E-Commerce Portal Development (WooCommerce) - Basic Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2110
 ---
 
@@ -8,13 +8,10 @@ Web URL: https://iprodezign.sg/ecommerce-solutions-singapore/ <br>Contact Hotli
 
 ### Description
 
-WooCommerce is an open-source, completely customizable eCommerce platform developed in the Wordpress CMS. It's estimated that WooCommerce is used by around 3.9 million websites worldwide.
+WooCommerce is an open-source, completely customizable eCommerce platform developed in the Wordpress CMS. It's estimated that WooCommerce is used by around 3.9 million websites worldwide.WooCommerce is friendly to new eCommerce retailers. It is flexible in core features management, e.g. product & inventory, CRM, payments, marketing features, reporting and shipping integration. Apart from physical products, it allows us to sell digital products, subscriptions, appointments, and much more.
 
-WooCommerce is friendly to new eCommerce retailers. It is flexible in core features management, e.g. product & inventory, CRM, payments, marketing features, reporting and shipping integration. Apart from physical products, it allows us to sell digital products, subscriptions, appointments, and much more.
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/IproDesign20200736_Desensitised_Annex_3_Part_1-.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

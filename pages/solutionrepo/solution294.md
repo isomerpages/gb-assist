@@ -1,5 +1,5 @@
 ---
-title: CFOsg Xero Cloud Accounting Solution A
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution294
 ---
 
@@ -10,9 +10,13 @@ Company Name: Cloud Accounting & Consultancy Pte Ltd<br>Web URL: CFOSG.SG<br>Con
 
 Xero is an universal accounting software that provides a complete list of accounting and sales features. The features include invoicing, purchasing, bill payments, bank reconciliation, project costing, quotes and GST calculation for IRAS listing.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_1.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution A</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_2.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution B</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_3.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution C</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_Part_4.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution D</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CloudAccounting_Annex_3_CR_wef_30_July_2020_Part_5.pdf' target='_blank'>CFOsg Xero Cloud Accounting Solution E</a>
 
 ### Eligibility Criteria
 

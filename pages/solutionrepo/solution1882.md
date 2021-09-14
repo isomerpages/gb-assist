@@ -1,5 +1,5 @@
 ---
-title: LFSUITE Version 6.0 - Package Basic
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1882
 ---
 
@@ -10,9 +10,12 @@ Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contac
 
 Optimize your retail business productivity and efficiency with RetailPlan, our integrated suite of solutions under LFSuite. Stability, Ease of Use, Scalability, Ability to Customize and Open Integration Capability are 5 uniqueness of our system. We offer a cloud-hybrid POS system, with an online central management console (RetailConnect), where we manage procurement, inventory management and sales analysis reports. Other capabilities include sales invoicing, online ordering and finance module.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_1.pdf' target='_blank'>LFSUITE Version 6.0 - Package Basic</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>LFSUITE Version 6.0 - Package Functional</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_3.pdf' target='_blank'>LFSUITE Version 6.0 - Package Online2Offline</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex _3_CR_wef_14_Jan_2021_Part_4.pdf' target='_blank'>LFSUITE Version 6.0 - Package Digital</a>
 
 ### Eligibility Criteria
 

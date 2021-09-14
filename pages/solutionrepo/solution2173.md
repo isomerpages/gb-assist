@@ -1,5 +1,5 @@
 ---
-title: BlueMeg Console - Package A (50 Entities)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2173
 ---
 
@@ -10,9 +10,12 @@ Web URL: www.bluemeg.com <br>Contact Hotline: 69316733 <br>Contact Email: whit
 
 The BlueMeg Console is a cloud-based entity management and document management software as a service solution. It is a collaborative tool that enables the secure sharing of company information and documents with authorised company stakeholders. The BlueMeg Console enables users to interact and transact digitally, adding a new degree of efficiency, enforcement, and governance - all while decreasing the cost of doing business.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_1.pdf' target='_blank'>BlueMeg Console - Package A (50 Entities)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_2.pdf' target='_blank'>BlueMeg Console - Package B (100 Entities)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_3.pdf' target='_blank'>BlueMeg Console - Package C (250 Entities)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/BlueMeg20200845_Desensitised_Annex_3_Part_4.pdf' target='_blank'>BlueMeg Console - Package D (500 Entities)</a>
 
 ### Eligibility Criteria
 

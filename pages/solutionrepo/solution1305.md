@@ -1,5 +1,5 @@
 ---
-title: ACE e-commerce solution - Ace Online Ordering System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1305
 ---
 
@@ -10,9 +10,9 @@ Company Name:C.O Enterprise Pte Ltd <br>Web URL: co-enterprise.com.sg <br>Cont
 
 This 6-in-1 platform provides each F&B establishment with their exclusive website at zero commission fees. Our unique solution allows takeaway ordering where customers can choose the pickup timeslot, online ordering for delivery of food integrated with island-wide delivery partners, dine-in ordering using QR code, integration with kitchen for food preparation, tracking of sales by outlets and customers, and targeted marketing such as discount codes and up-sell functions!
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_C_O_Enterprise_20200416_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_C_O_Enterprise_20200416_Annex_3.pdf' target='_blank'>ACE e-commerce solution - Ace Online Ordering System</a>
 
 ### Eligibility Criteria
 

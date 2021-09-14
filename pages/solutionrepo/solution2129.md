@@ -1,5 +1,5 @@
 ---
-title: Automatic Harvester
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2129
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 To harvest produce automatically to reduce manual tasks and improve manpower productivity. It includes the control unit and cutting system.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

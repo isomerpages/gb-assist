@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central (NAV) - Package A (Ready To Go 3 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution440
 ---
 
@@ -10,9 +10,11 @@ Globalsoft Solutions Pte Ltd<br>www.mng-solutions.com<br>Email: enquiries@mng-so
 
 Microsoft Dynamics 365 Business Central is an integration of ERP and CRM capabilities that works together seamlessly across financials, sales, operations and customer service on a cloud platform. As an end-to-end application, this solution connects people and processes and is recommended for small and medium-sized organizations with up to a few hundred users. Business Central is a quick to implement, simple-to-use business solution with the power to support your business ambitions.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) - Package A (Ready To Go: 3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) - Package B (Level Up: 5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedGlobalsoftAnnex3CRwef17June2021_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central (NAV) - Package C (Premium: 10 Users with Peppol)</a>
 
 ### Eligibility Criteria
 

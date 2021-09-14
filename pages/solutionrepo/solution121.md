@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version Cloud-HANA Cloud - 3 Subscription Users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution121
 ---
 
@@ -10,9 +10,13 @@ Company Name: AFON Technologies Pte Ltd <br>Web URL: https://www.afon.com.sg/erp
 
 SAP Business One is an enterprise resource planning (ERP) software designed for small and medium-sized enterprises, sold by the German company SAP SE. As an ERP solution, it aims to automate key business functions in financials, operations, and human resources. SAP Business One currently has over 60,000 customers worldwide.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_1.pdf' target='_blank'>SAP Business One Version Cloud-HANA Cloud - 3 Subscription Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_2.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud - 5 Subscription Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_3.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud - 7 Subscription Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_4.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud (PEPPOL) - 10 Subscription Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AFON_20200156_Annex_3_20200707122513_Part_5.pdf' target='_blank'>SAP Business One Version Cloud - HANA Cloud (PEPPOL) - 12 Subscription Users</a>
 
 ### Eligibility Criteria
 

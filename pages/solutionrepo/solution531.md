@@ -1,5 +1,5 @@
 ---
-title: Stormshield UTM Firewall - SN710 (Twin Pack)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution531
 ---
 
@@ -8,14 +8,10 @@ Juss Solutions Group Pte Ltd<br>www.jussolve.com<br>Email: sales@jussolve.com<br
 
 ### Description
 
-Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. 
+Stormshield UTM Firewall-- Offering companies proven security that is proactive in the face of future threats, guaranteeing real protection against internal and external threats. These solutions enhance company productivity, ensuring business continuity and providing traffic authentication & confidentiality of internal network. Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
 
-Stormshield delivers high-performance, best-of-breed security features, ensuring continuous control over on corporate network.
+### Packages Available
 
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Juss_Solutions_Group_Firewall_Network_20190038_Annex_3_20200625151118_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

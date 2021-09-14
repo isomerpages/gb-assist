@@ -1,5 +1,5 @@
 ---
-title: Autonomous floor cleaner/scrubber
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution23
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The autonomous robotic floor cleaner/scrubber integrates sensors, cameras and AI navigation to clean floors without human intervention..
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

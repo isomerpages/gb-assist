@@ -1,5 +1,5 @@
 ---
-title: Tessaract.io Version 2021 - CRM Package A - Up to 5 Users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1978
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://tessaract.io/ <br>Contact Hotline: 98313983 <br>Contact Email
 
 An enterprise solution for the professional services industry - Legal, Accountancy, Consulting, Advisory, Media, Architectural. Our technology solutions are client-focused, and definitely professional-focused, to make sure you are able to maximize the full potential of your workforce. Our methodology of constant building and evolving to meet the real needs of our users ensures customer satisfaction and success.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package A - Up to 5 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package B - Up to 12 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package C - Up to 20 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package D - Up to 30 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200782_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Tessaract.io Version 2021 - CRM Package E - Up to 45 Users</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Vegetable Weighing and Packing System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2160
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-A system that accurately weigh the produce according to the pre-set quantity and weight, and automatically transported to the packaging station to ensure that the quantity and weight of the packaged products meet the requirements. 
+A system that accurately weigh the produce according to the pre-set quantity and weight, and automatically transported to the packaging station to ensure that the quantity and weight of the packaged products meet the requirements.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

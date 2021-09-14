@@ -1,5 +1,5 @@
 ---
-title: Ride-on carpet extractor
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution100
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-A ride-on carpet cleaning machine provides deep cleaning extraction technologies, with liquid solution to remove embedded dirt and debris for carpet flooring. 
+A ride-on carpet cleaning machine provides deep cleaning extraction technologies, with liquid solution to remove embedded dirt and debris for carpet flooring.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

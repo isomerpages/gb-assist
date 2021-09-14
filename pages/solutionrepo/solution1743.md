@@ -1,5 +1,5 @@
 ---
-title: FeHR HRSS and Payroll Processing Version 8 - Frontier e-HR HRSS 50
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1743
 ---
 
@@ -8,24 +8,10 @@ Web URL:https://www.frontier-ehr.com/<br>Contact Hotline: 63910921 <br>Contact E
 
 ### Description
 
-HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes
-1. HRSS via Frontier e-HR
-Personnel Management
-Leave Module
-Mobile Attendance Module
-Payroll Module
-Benefit and Claim Module
-2. HR Admin Support & Payroll Processing
-Process Leave encashment & No Pay Leave via Payroll
-Process Claim Reimbursement
-Prepare Payroll reports for approval
-Prepare GIRO bank file for approval
-Prepare CPF file and submit to CPF Website
-One Payroll process run per month
+HR Admin Support & Payroll Processing via Frontier e-HR HRMS that includes1. HRSS via Frontier e-HRPersonnel ManagementLeave ModuleMobile Attendance ModulePayroll ModuleBenefit and Claim Module2. HR Admin Support & Payroll ProcessingProcess Leave encashment & No Pay Leave via PayrollProcess Claim ReimbursementPrepare Payroll reports for approvalPrepare GIRO bank file for approvalPrepare CPF file and submit to CPF WebsiteOne Payroll process run per month
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Frontier_20200666_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

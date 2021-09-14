@@ -1,5 +1,5 @@
 ---
-title: Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Package for Building Owners
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution476
 ---
 
@@ -10,9 +10,10 @@ IBASE Technology Pte Ltd<br>www.ibase.com.sg / www.qornerstone.com<br>Email: sal
 
 Qornerstone Estate is an off-the-shelf solution to digitalize Property & Management (PM) operations. For property managers and single building owners looking to streamline operations and raise productivity levels, or who may wish to scale up but find themselves constrained by the escalating cost of manpower, the Qornerstone Estate is an end-to-end property, leasing, and facilities management platform to leverage on.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_3.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_3.pdf' target='_blank'>Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Package for Building Owners</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IBASE_Technology_20200155_Annex_3_20200625151908_Part_12.pdf' target='_blank'>Qornerstone Estate Management System Version 3.50 - Qornerstone Subscription Packages for Property Management Companies (MA)</a>
 
 ### Eligibility Criteria
 

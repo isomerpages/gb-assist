@@ -1,5 +1,5 @@
 ---
-title: Shortcuts Version 8 - Shortcuts Fusion Live
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1194
 ---
 
@@ -10,9 +10,13 @@ Company Name:Serixx Business Solutions <br>Web URL: www.serixx.com <br>Contact H
 
 Shortcuts Fusion/SMART is a salon management solution for hair beauty spa and retail businesses. The solution includes functions from appointment booking to point of sales to clients management to inventory to marketing to report and more. Functions can be both online and offline.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_1.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion Live</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_2.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + Network Client</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_3.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + SMART</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_4.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + Network Client with POS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Serixx_Annex_3_CR_wef_8_July_2021_Part_5.pdf' target='_blank'>Shortcuts Version 8 - Shortcuts Fusion + SMART with POS</a>
 
 ### Eligibility Criteria
 

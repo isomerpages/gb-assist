@@ -1,5 +1,5 @@
 ---
-title: WFH Email Security with Cyber Essentials Online Course Package Version 1 - 100 x GR with Cyber Essential Course 1 Year Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1323
 ---
 
@@ -8,11 +8,10 @@ Company Name:Nucleo Consulting Pte Ltd <br>Web URL: www.nucleoconsulting.com/em
 
 ### Description
 
-The GRmail removes the email threats even before it reaches the email server and GRisolation protects the users, by opening any malicious links in a sandbox so that it does not affect their computers. This solution also detects and filters away Chinese characters emails. Our solution works with all kinds of email platforms - Office 365, Gsuite or Cpanel. We will assist to migrate the domain name and help with the setup of the email security solution on the DNS record level.  
+The GRmail removes the email threats even before it reaches the email server and GRisolation protects the users, by opening any malicious links in a sandbox so that it does not affect their computers. This solution also detects and filters away Chinese characters emails. Our solution works with all kinds of email platforms - Office 365, Gsuite or Cpanel. We will assist to migrate the domain name and help with the setup of the email security solution on the DNS record level.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_20200404_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

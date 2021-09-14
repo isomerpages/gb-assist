@@ -1,5 +1,5 @@
 ---
-title: AGHRM - AGHRM 30
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution133
 ---
 
@@ -8,18 +8,10 @@ Company Name: AG Net Pte Ltd <br>Web URL: https://web.aghrm.com/index.php/soluti
 
 ### Description
 
-AGHRM provides an integrated suite of cloud based Human Resource Management Solutions
-a.	Personnel
-b.	Leave
-c.	Claims
-d.	Attendance & Rostering
-e.	Payroll Singapore. 
-f.	Performance Management
-In addition, we provide mobile apps for employees to manage their HR matters on the go
+AGHRM provides an integrated suite of cloud based Human Resource Management Solutionsa.	Personnelb.	Leavec.	Claimsd.	Attendance & Rosteringe.	Payroll Singapore. f.	Performance ManagementIn addition, we provide mobile apps for employees to manage their HR matters on the go
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AG_NET_20200197_Annex_3_20200707122338_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

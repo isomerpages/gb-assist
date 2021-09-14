@@ -1,5 +1,5 @@
 ---
-title: On-site food waste recycling system
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution82
 ---
 
@@ -8,11 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The food waste recycling system with the provision of the in-feed station is able to convert recycle food waste into organic fertilisers/ compost/ discharge in liquid form. It will reduce the needs for separation, transportation and collection of these food waste for disposal.
+The food waste recycling system with the provision of the in-feed station is able to convert recycle food waste into organic fertilisers/ compost/ discharge in liquid form. It will reduce the needs for separation, transportation and collection of these food waste for disposal.*All systems are required to be implemented in compliance with all prevailing local regulations.
 
-*All systems are required to be implemented in compliance with all prevailing local regulations.
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1835
 ---
 
@@ -10,9 +10,9 @@ Company Name: Ernst & Young Advisory Pte Ltd <br>Web URL: www.ey.com<br>Contact 
 
 COVID-19 has accelerated the need for companies to embark on digital transformations, and revamp the way work is done to drive higher levels of productivity and effectiveness. EY's People Advisory Services, together with our broader EY Technology and Business Consultancy practices, assists companies on your workforce transformation efforts, including job redesign, business process redesign and workforce upskilling, to help you realise the future of work within your organisations.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyErnst&YoungAdvisoryPteLtd.pdf' target='_blank'>Job Redesign Consultancy - Ernst & Young Advisory Pte Ltd</a>
 
 ### Sector Specialisation
 
@@ -40,3 +40,4 @@ Up to 80% for non-SMEs
 ### Things to Note
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

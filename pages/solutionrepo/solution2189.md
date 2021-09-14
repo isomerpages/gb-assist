@@ -1,5 +1,5 @@
 ---
-title: SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Takeaway, Delivery & Reservation Booking)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2189
 ---
 
@@ -10,9 +10,11 @@ Web URL: www.skipqoo.io <br>Contact Hotline: 88460000 <br>Contact Email: hello
 
 SkipQoo provides Digital Ordering and Delivery System for F&B which has fully integrated Online Payment, Delivery and QR code ordering. SkipQoo allows F&B operators to manage orders online with a cost-effective and efficient digital transformation of their business. With numerous features, such as age-restricted menus, real-time tracking of order statuses, and live menu updates, SkipQoo is tailored to the needs of modern F&B restaurants.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_1.pdf' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (Takeaway, Delivery & Reservation Booking)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_2.pdf' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING - Without Hardware (All-in-one)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSkipQooAnnex3CRwef20May2021_Part_3.pdf' target='_blank'>SKIP QUEUE (F&B) - DIGITAL ORDERING - With Hardware (All-in-one)</a>
 
 ### Eligibility Criteria
 

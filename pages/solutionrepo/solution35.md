@@ -1,5 +1,5 @@
 ---
-title: Battery operated waste collection equipment
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution35
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The equipment (autonomous or one man operated) has the capability to facilitate the collection of waste from point to point. Examples of such capability include bin-lifting, towing, pulling, transporting etc.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS) - Standard
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1990
 ---
 
@@ -8,13 +8,10 @@ Web URL: https://concordesecurity.com/our-solutions/i-man-facility-sprinter-ifs/
 
 ### Description
 
-Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.
+Concorde Security's IFS solution is a mobile command and control centre that provides security surveillance, monitoring services and delivers a rapid response to a cluster of buildings.The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
 
-The IFS Platform is manned by a team of three highly trained security professionals called I-Specialists.
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Concorde_Security_20200212_Desensitised_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

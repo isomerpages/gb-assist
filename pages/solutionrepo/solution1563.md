@@ -1,5 +1,5 @@
 ---
-title: ChopeBook - ChopeBook Software Only 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1563
 ---
 
@@ -10,9 +10,12 @@ Web URL: restaurants.chope.co <br>Contact Hotline: 62256612 <br>Contact Email:
 
 ChopeBook is a Table Management System (TMS) designed to make the most of a restaurant's revenue generating assets - tables and seats. Manage the inflow of online and offline reservations with user-friendly functions synced across multiple devices.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_1.pdf' target='_blank'>ChopeBook - ChopeBook Software Only </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_2.pdf' target='_blank'>ChopeBook - ChopeBook with Phone Line Mgmt Software Only </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_3.pdf' target='_blank'>ChopeBook - ChopeBook Software & Hardware</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ChopeBook_System_20200204_Annex_3_Part_4.pdf' target='_blank'>ChopeBook - ChopeBook with Phone Line Management Software & Hardware</a>
 
 ### Eligibility Criteria
 

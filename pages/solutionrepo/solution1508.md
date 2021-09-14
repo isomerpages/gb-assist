@@ -1,5 +1,5 @@
 ---
-title: SGDATAPOS Version 5.1-Package (With Customer Relationship Management, Without Hardware)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1508
 ---
 
@@ -8,14 +8,10 @@ Company Name:SINGAPORE DATA HUB PTE LTD <br>Web URL: WWW.SGDATAPOS.COM <br>Con
 
 ### Description
 
-SGDATAPOS is designed with simplest interface, yet powerful functions to ease operations.
-Backed with cloud back office, POS configuration such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.
-SGDATAPOS is easily integrate to our other add-on modules such as CRM, e-commerce, kitchen display system & mobile ordering system.
-Alternatively, SGDATAPOS can integrate with third party system such as e-commerce, accounting software, ERP.
+SGDATAPOS is designed with simplest interface, yet powerful functions to ease operations.Backed with cloud back office, POS configuration such as menu, inventory or promotions & real time sales report are accessible everywhere with internet connection.SGDATAPOS is easily integrate to our other add-on modules such as CRM, e-commerce, kitchen display system & mobile ordering system.Alternatively, SGDATAPOS can integrate with third party system such as e-commerce, accounting software, ERP.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SGDataHub_Annex_3_CR_wef_29_October_2020_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

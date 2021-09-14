@@ -1,5 +1,5 @@
 ---
-title: FingerBooth POS System Version 1 - POS System Lite
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1357
 ---
 
@@ -10,9 +10,12 @@ Company Name:BIG MOUTH MARKETING PTE LTD <br>Web URL: WWW.FINGERBOOTH.COM <br>
 
 FingerBooth POS System is an one stop solution for retail and beauty industry shops and parlor. The system help businesses to track sales, employee commission, sales per employee, generate payslip with CPF contribution calculation and also inventory management. On top of that, business can also track customer outstanding amount owe and also package information which includes number of sessions left or pre-paid credits left.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_1.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Lite</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_2.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Pro</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_3.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Pro + Online Appointment</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Big_Mouth_Marketing_20200473_Annex_3_Part_4.pdf' target='_blank'>FingerBooth POS System Version 1 - POS System Pro With Hardware</a>
 
 ### Eligibility Criteria
 

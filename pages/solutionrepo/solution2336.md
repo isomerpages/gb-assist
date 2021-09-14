@@ -1,5 +1,5 @@
 ---
-title: 3. Service Challenges for C-Suite
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2336
 ---
 
@@ -8,11 +8,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2336
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-199104974R-01-CRS-Q-0039480-RET' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

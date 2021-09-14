@@ -1,5 +1,5 @@
 ---
-title: Electric pallet transporter/stacker
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution276
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Pallet with load capacity ranging from 1.2 ton to 2.5 ton, that is able to transport or stack the pallets, with only one operator.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

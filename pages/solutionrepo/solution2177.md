@@ -1,5 +1,5 @@
 ---
-title: RealtyPromote Version 3.2 - RealtyPromote Package 1 up to 5
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2177
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://commercepromote.com/agency-management <br>Contact Hotline: 975
 
 CommercePromote is a provider of enterprise cloud base PropTech platform that addresses the needs of the real estate industry. Our comprehensive solutions automate the workflow of businesses while providing the tools to market effectively to gain more profit
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_1.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 1 up to 5</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_2.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 2 up to 10</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_3.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 3 up to 25</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_4.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 4 up to 50</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CommercePromote_Desensitised_Annex_3-_Part_5.pdf' target='_blank'>RealtyPromote Version 3.2 - RealtyPromote Package 5 up to 100</a>
 
 ### Eligibility Criteria
 

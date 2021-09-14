@@ -1,5 +1,5 @@
 ---
-title: arc.ops - Manufacturing Quality Management - Annual Subscription License - Basic
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1895
 ---
 
@@ -10,9 +10,12 @@ Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: conta
 
 With Arcstone's Manufacturing Quality Management solution, manufacturers can gain better control over the quality management processes. The solution delivers end-to-end capabilities to collect quality data, predict abnormalities, trigger alarms allowing them to avoid costly quality issues while eliminating non-compliance at every step.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - Annual Subscription License - Basic</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - Annual Subscription License - Customized</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Basic</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Manufacturing_Quality_20200863_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.ops - Manufacturing Quality Management - All-in-One Annual Subscription License - Customized</a>
 
 ### Eligibility Criteria
 

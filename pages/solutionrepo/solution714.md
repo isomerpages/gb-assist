@@ -1,5 +1,5 @@
 ---
-title: iTrack Fleet Management Version 2.8.8 - Package (iTrack Vision)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution714
 ---
 
@@ -8,11 +8,22 @@ Company Name:Pivotal Pte Ltd <br>Web URL: www.itrack.com.sg <br>Contact Hotlin
 
 ### Description
 
-iTrack Fleet Management System offers GPS Tracking features to track location of vehicles, automate and monitor route taken with optimisation to improve efficiency of the delivery services. It helps companies to better plan and control the fleet journey, reducing cost, improve fleet utilization through its real-time map visualisation.  
+iTrack Fleet Management System offers GPS Tracking features to track location of vehicles, automate and monitor route taken with optimisation to improve efficiency of the delivery services. It helps companies to better plan and control the fleet journey, reducing cost, improve fleet utilization through its real-time map visualisation.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_1.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Personal)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_2.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Personal - Smartphone)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_3.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Asset Management)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_4.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Fleet Management Premium ES)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_1.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Personal)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_2.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Personal - Smartphone)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_3.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Asset Management)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_4.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Fleet Management Premium ES)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_1.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Personal)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_2.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Personal - Smartphone)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_3.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Asset Management)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Pivotal_ES_Annex_3_Part_4.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 - Package (iTrack Fleet Management Premium ES)</a>
 
 ### Eligibility Criteria
 

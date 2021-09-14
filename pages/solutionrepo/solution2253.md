@@ -1,5 +1,5 @@
 ---
-title: Ecommflow Version 2.0 - Basic
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2253
 ---
 
@@ -10,9 +10,11 @@ Web URL: https://calvinseng.com <br>Contact Hotline: +6592348807 <br>Contact E
 
 Spend more time on what matters. Ecommflow takes care of the rest, with a suite of powerful online selling features for every type of industry. Secure payments, configurable shipping options, subscriptions, and more.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Ecommflow Version 2.0 - Basic</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Ecommflow Version 2.0 - Plus</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/CalvinSeng20200590_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Ecommflow Version 2.0 - Pro</a>
 
 ### Eligibility Criteria
 

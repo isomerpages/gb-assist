@@ -1,5 +1,5 @@
 ---
-title: KYBIO Version 3.0.9.3 - Package (Basic)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution942
 ---
 
@@ -10,9 +10,13 @@ Company Name:Weebo Pte Ltd <br>Web URL: https://www.weebo.com.sg/shop/ <br>Con
 
 Cloud-Based POS System with product management, inventory management, promotion management and sales analytics module. Designed for Retail, F&B, QSR chains and the Service line.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_1.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (Basic)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_2.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (Basic + Inventory Management)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_3.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (Basic + Multi Software)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_4.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Version 3.0.9.3Package (Basic - Mobile)               </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Weebo_Annex_3_CR_wef_28_Jan_2021_Part_5.pdf' target='_blank'>KYBIO Version 3.0.9.3 - Package (POS - Lite)</a>
 
 ### Eligibility Criteria
 

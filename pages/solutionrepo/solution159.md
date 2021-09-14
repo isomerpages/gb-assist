@@ -1,5 +1,5 @@
 ---
-title: ABSS Premier Version 23 - Package A with E-Invoicing (1-User)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution159
 ---
 
@@ -10,9 +10,13 @@ APSCOM SOLUTIONS<br>www.apscomsolutions.com<br>Email: carol.kok@apscomsolutions.
 
 Formerly known as MYOB, ABSS Premier is designed to help SMEs take care of your transactions and business in a simple and easy way. Besides AR, AP, GL, Inventory, Banking & GST all seamlessly integrated, ABSS Premier also integrates with local bank, IRAS GST portal & PEPPOL e-invoicing network. ABSS Premier features multi-currencies, project & departmental costing, multi-warehouses dedicated to making your business work and access to updates about your accounting and business operation with ease
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_1.pdf' target='_blank'>ABSS Premier Version 23 - Package A with E-Invoicing (1-User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_2.pdf' target='_blank'>ABSS Premier Version 23 - Package B Software Only with E-Invoicing (3-Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_3.pdf' target='_blank'>ABSS Premier Version 23 - Package C with E-Invoicing (3-Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_4.pdf' target='_blank'>ABSS Premier Version 23 - Package D Advanced with E-Invoicing (3-Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APSCOM_SOLUTIONS_20190039_Annex_3_20200625145347_Part_5.pdf' target='_blank'>ABSS Premier Version 23 - Package E Advanced with E-Invoicing (5-Users)</a>
 
 ### Eligibility Criteria
 

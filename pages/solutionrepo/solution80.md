@@ -1,5 +1,5 @@
 ---
-title: ADAPTIVE PAY Version 2019/2020 - Package (61 - 120 Employees)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution80
 ---
 
@@ -8,11 +8,10 @@ Adaptive Cloud Systems Pte Ltd<br>www.adaptivepay.com.sg<br>Email: info@adaptive
 
 ### Description
 
-Adaptive Pay is cloud-based HR solution with full-fledged HR capabilities such as payroll management, leave management, claim management, appraisal management and others. Most of the features are available on the mobile app which employees can perform tasks on the go. 
+Adaptive Pay is cloud-based HR solution with full-fledged HR capabilities such as payroll management, leave management, claim management, appraisal management and others. Most of the features are available on the mobile app which employees can perform tasks on the go.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdaptiveCloudAnnex3CRwef11March2021_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

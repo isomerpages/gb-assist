@@ -1,5 +1,5 @@
 ---
-title: CSG - Autodesk AEC Collection - Single User Annual Subscription
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1223
 ---
 
@@ -10,9 +10,10 @@ Company Name:CSG Software Pte Ltd <br>Web URL: www.csglobal-group.com <br>Cont
 
 The AEC Collection provides BIM and CAD software, including Revit, Civil 3D, and AutoCAD, enabling designers, engineers, and contractors to efficiently deliver high quality building and infrastructure projects. With the AEC Collection, teams can create in new ways, explore what's possible, and build with confidence.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_Annex_3_CR_wef_25_Feb_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_Annex_3_CR_wef_25_Feb_2021_Part_1.pdf' target='_blank'>CSG - Autodesk AEC Collection - Single User Annual Subscription</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CSG_Software_Annex_3_CR_wef_25_Feb_2021_Part_2.pdf' target='_blank'>CSG - Autodesk AEC Collection - Single User 3-year Subscription</a>
 
 ### Eligibility Criteria
 

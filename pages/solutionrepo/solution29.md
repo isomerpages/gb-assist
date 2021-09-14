@@ -1,5 +1,5 @@
 ---
-title: Autonomous robotic vacuum sweeper /  cleaner
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution29
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Equipment is able to sweep and vacuum dirt and dust on both hard floor and carpeted surfaces with no human intervention, for commercial or industrial use.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

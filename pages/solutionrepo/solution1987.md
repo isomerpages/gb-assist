@@ -1,5 +1,5 @@
 ---
-title: APPZPOS F&B Point of Sales Version 1.1 - 1 E-Waiter Digital Ordering System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1987
 ---
 
@@ -10,9 +10,11 @@ Web URL: www.appzgate.com/appzpos <br>Contact Hotline: 63932234 <br>Contact Emai
 
 APPZPOS is a one integrated solution with multiple ordering portals linked to the same central admin backend and kitchen display system. Users can place orders from multiple portals, while staff check orders as well as sales reports in the same backend for multiple outlets. APPZPOS is a cloud based system where users can easily amend menu and other setting from backend, check reports through any device, at anywhere, anytime.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_1.pdf' target='_blank'>APPZPOS F&B Point of Sales Version 1.1 - 1 E-Waiter Digital Ordering System</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_2.pdf' target='_blank'>APPZPOS F&B Point of Sales Version 1.1 - IOS/Android Mobile Ordering System</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/APPZGATE_20200613_Desensitised_Annex_3_Part_3.pdf' target='_blank'>APPZPOS F&B Point of Sales Version 1.1 - Web Online Ordering System</a>
 
 ### Eligibility Criteria
 

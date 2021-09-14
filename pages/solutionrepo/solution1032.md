@@ -1,5 +1,5 @@
 ---
-title: Autodesk BIM 360 - BIM Collaborate Pro - 1 User Package (Formerly BIM 360 Design)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1032
 ---
 
@@ -8,14 +8,10 @@ Company Name:BIMAGE Consulting Pte Ltd <br>Web URL: https://www.bimageconsultin
 
 ### Description
 
-BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations.
-BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats).
-BIM 360 Design - For real time design collaboration, work sharing and change management.
-BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
+BIM 360 is a Cloud based collaboration software that helps to manage projects more efficiently throughout Design, Preconstruction, Construction and Operations.BIM 360 Docs - For data management (2D drawing, 3D BIM model and various formats).BIM 360 Design - For real time design collaboration, work sharing and change management.BIM 360 Build - For construction project management (RFI, Submittal) and Field management (quality, safety, inspection checklist and punch list).
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedBimageConsulting_Annex_3_CRwef15April2021_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

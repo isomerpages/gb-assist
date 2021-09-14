@@ -1,5 +1,5 @@
 ---
-title: One-Stop Document Access - Lite (2 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1972
 ---
 
@@ -10,9 +10,11 @@ Web URL: https://www.modernworkspace.biz/one-stopdocumentaccess<br>Contact Hotli
 
 One-Stop Document Access is a document management system, accessible via web browser and mobile. Documents are maintained in departmentalized teamsites with following key features - Versioning to track and restore each changed state; Collaboration for users to concurrently edit a document; Meta-Data tags information allowing quick retrieval. The system is also backed up to a secured cloud platform. With Prominds as a vendor, SMEs receive an all-rounded solution readily available for deployment.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_1.pdf' target='_blank'>One-Stop Document Access - Lite (2 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_2.pdf' target='_blank'>One-Stop Document Access - Plus (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200713_Desensitised_Annex_3_Part_3.pdf' target='_blank'>One-Stop Document Access - Pro (10 Users)</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Mobile Computer (Warehouse application)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution73
 ---
 
@@ -8,13 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.
+Mobile Computer transforms paper-based data recording and manually inventory counting into automate electronic data capture and transmission. Integrated with barcode scanner, RFID reader and wireless connectivity, the mobile computer improve productivity when warehouse workers manage goods.Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.Grant support 80% of cost of equipment, up to $24,000 grant
 
-Solution is highly recommended to be able to integrate with applicant existing inventory or warehouse management system.
-
-Grant support: 80% of cost of equipment, up to $24,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

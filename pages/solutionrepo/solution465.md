@@ -1,5 +1,5 @@
 ---
-title: Hubble Safety Management System - Package (Up to 1 Project)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution465
 ---
 
@@ -10,9 +10,13 @@ Hubble Pte Ltd<br>www.hubble.sg<br>Email: sales@hubble.sg<br>Tel: +65 6816 7890
 
 Hubble Safety Management System helps you manage and monitor the safety of your project sites in real-time. The software will streamline and digitise your Permit-to-Work (PTW) and track safety data for your work site in real time to enable the identification of urgent issues quickly. This will ensure construction sites remain safe and compliant at all times.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_1.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 1 Project)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_2.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 2 Projects)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_3.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 3 Projects)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_4.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 4 Projects)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Hubble_20200081_Annex_3_20200625144358_Part_5.pdf' target='_blank'>Hubble Safety Management System - Package (Up to 1 Project, 2 years)</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: AZ DIGITAL ORDERING SOLUTION Version 1.0 - ( Mobile QR Web Ordering Solution Package )
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution990
 ---
 
@@ -8,13 +8,10 @@ Company Name:AZ DIGITAL PTE LTD <br>Web URL: www.azdigital.net <br>Contact Hot
 
 ### Description
 
-AZ Digital ordering solution provides an up scaling process in engaging customer s dining experience with .........
-1) Customer self-ordering kiosk providing a less face to face interaction and to ease the queue 
-2) Mobility device via QR / App Ordering to enhance their ordering process .
+AZ Digital ordering solution provides an up scaling process in engaging customer s dining experience with .........1) Customer self-ordering kiosk providing a less face to face interaction and to ease the queue 2) Mobility device via QR / App Ordering to enhance their ordering process .
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_AZ_Digital_20200157_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

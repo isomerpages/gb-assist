@@ -1,5 +1,5 @@
 ---
-title: Vegetable Washing Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2159
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A machine to wash all kinds of vegetables and fruits. It effectively separates the impurities and degrade the residual pesticides.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: WhyzeHR Management System Version 12 - Package (50 SME)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution947
 ---
 
@@ -10,12 +10,8 @@ Whyze Solutions Pte Ltd<br>http://www.whyze.com.sg/hrms/<br>Email: enquiry@whyze
 
 WhyzeHR enables SMEs of all size to keep track of their labour force, forecasting labour requirements, facilitate day to day employee management and providing financial reporting to the account department. The solution helps HR to stay compliance and providing cost saving and efficiency through the elimination of paper.
 
+### Packages Available
 
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Whyze_Solutions_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

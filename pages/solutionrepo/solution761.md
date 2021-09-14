@@ -1,5 +1,5 @@
 ---
-title: Smart Cabinet
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution761
 ---
 
@@ -8,14 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The Smart Cabinet provides continuous stock monitoring and access control to the inventory stored in the Smart Cabinet. User information and usage can be retrieved for tracking and monitoring purpose. The storage system is ideal for storing of consumables and high value items.
+The Smart Cabinet provides continuous stock monitoring and access control to the inventory stored in the Smart Cabinet. User information and usage can be retrieved for tracking and monitoring purpose. The storage system is ideal for storing of consumables and high value items.Grant Support Direct Purchase 80% of cost of equipment, up to $21,000 grant Subscription/Leasing 80% of cost of equipment, up to $8,000/unit/year
 
-Grant Support: 
-Direct Purchase: 80% of cost of equipment, up to $21,000 grant 
-Subscription/Leasing: 80% of cost of equipment, up to $8,000/unit/year
-
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: Trend Micro - Package (Worry Free Protection)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1502
 ---
 
@@ -10,9 +10,13 @@ Company Name: Singapore Telecommunications Limited<br>Web URL: www.singtel.com/c
 
 A cloud-based EndPoint solution which secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_1.pdf' target='_blank'>Trend Micro - Package (Worry Free Protection)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_2.pdf' target='_blank'>Trend Micro - Worry Free Protection (25 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_3.pdf' target='_blank'>Trend Micro -Package (Apex One - 51 Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_4.pdf' target='_blank'>Trend Micro - Package (Apex One - 100 Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Singtel_Annex_3_-Trend_Micro_CR_wef_29_October_2020_Part_5.pdf' target='_blank'>Trend Micro - Package (Apex One - 150 Licenses)</a>
 
 ### Eligibility Criteria
 

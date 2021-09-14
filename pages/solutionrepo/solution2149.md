@@ -1,5 +1,5 @@
 ---
-title: Milking Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2149
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-A machine that provides an efficient and convenient way of milking animals, with minimal stress on animals. 
+A machine that provides an efficient and convenient way of milking animals, with minimal stress on animals.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

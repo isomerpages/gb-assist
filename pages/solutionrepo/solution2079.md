@@ -1,5 +1,5 @@
 ---
-title: Automated Labelling Machine 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2079
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The automated labelling machine replaces manual labelling and can be used for drums, tin cans or carboy, where applicable. Each machine can be customised to fit the unit requirement for eg. standard 200L/120L drum or 1L/3L tin cans/jerry cans.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

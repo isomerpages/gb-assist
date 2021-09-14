@@ -1,5 +1,5 @@
 ---
-title: Beautec Version 3 centralized version - Package (POS Set A100)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution234
 ---
 
@@ -8,11 +8,10 @@ Company Name: Beautec Pte Ltd<br>Web URL: www.beau-tec.com<br>Contact Hotline: 6
 
 ### Description
 
-Beautec system aims to simplify the tedious workflow processes of the highly complex beauty spa. It is an online, real-time, multi-branch ERP cum CRM system to solve operational issues. 
+Beautec system aims to simplify the tedious workflow processes of the highly complex beauty spa. It is an online, real-time, multi-branch ERP cum CRM system to solve operational issues.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Beautec_Annex_3_CR_wef_14_Jan_2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

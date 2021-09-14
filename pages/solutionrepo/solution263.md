@@ -1,5 +1,5 @@
 ---
-title: CalendarOne CRM Solution Ver 2.0 - Standard CRM Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution263
 ---
 
@@ -10,9 +10,13 @@ CalendarOne Pte Ltd<br>www.calendarone.com<br>Email: francis@calendarone.com<br>
 
 CalendarOne CRM is a cloud based solution that integrates and automates your entire customer-related business process. It's a centralize platform that enable you to share, track, administer and manage your clients' engagement and experience. From tracking your leads to managing your transactions with clients, it consolidate and share information that enables you to gain deeper insight into your clients info thus helping you identify critical trends, retain clients and increase sales.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CalendarOne_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CalendarOne_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>CalendarOne CRM Solution Ver 2.0 - Standard CRM Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CalendarOne_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>CalendarOne CRM Solution Ver 2.0 - Enhanced CRM Package (with Peppol E-Invoice)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CalendarOne_Annex_3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>CalendarOne CRM Solution Ver 2.0 Standard CRM Package - 10 Users Licence</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_CalendarOne_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>CalendarOne CRM Solution Ver 2.0 Enhanced CRM Package (with Peppol E- Invoice) -
+10 Users Licence</a>
 
 ### Eligibility Criteria
 

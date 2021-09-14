@@ -1,5 +1,5 @@
 ---
-title: Fides Suite - Fides Cloud - 1 Outlet
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1856
 ---
 
@@ -10,9 +10,11 @@ Web URL: crm.fidescloud.com <br>Contact Hotline: 69726400 <br>Contact Email: f
 
 Fides Cloud is an all-round CRM, Loyalty & Campaign Management platform for all B2B and B2c businesses. and Fides Portal is an engaging platform for members to view their loyalty history, redeem rewards and shop
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Fides Suite - Fides Cloud - 1 Outlet</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Fides Suite - Fides Cloud - 3 Outlets</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Edenred_20200419_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Fides Suite - Fides Cloud - 4 Outlets</a>
 
 ### Eligibility Criteria
 

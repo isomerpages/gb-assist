@@ -1,5 +1,5 @@
 ---
-title: VersaFleet Transport Management Software (TMS) Version 7-ES - Vanadium
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1954
 ---
 
@@ -8,13 +8,10 @@ Web URL: https://www.channelnewsasia.com/news/brandstudio/start-digital-uld-1207
 
 ### Description
 
-VersaFleet Transport Management Software (TMS) automates your logistics processes for your wholesale and distribution operations. 
+VersaFleet Transport Management Software (TMS) automates your logistics processes for your wholesale and distribution operations. Ensure you are maximizing fleet utilisation through route optimisation, and offer unparalleled visibility in your supply chain to your internal and external customers.
 
-Ensure you are maximizing fleet utilisation through route optimisation, and offer unparalleled visibility in your supply chain to your internal and external customers.
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/VersaFleet_20200530_Desensitised_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

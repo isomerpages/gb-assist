@@ -1,5 +1,5 @@
 ---
-title: Manure Treatment System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2148
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A treatment system that results in a final product which is germ-free and allows an easy control of exhaust air and odour, e.g. Aerobic/ Anaerobic fermentation system/ composting system
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

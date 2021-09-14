@@ -1,5 +1,5 @@
 ---
-title: EquipPOS Retail Solutions Version 3 - Package A (Basic)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution377
 ---
 
@@ -10,9 +10,13 @@ Company Name:Edgeworks Solutions Pte Ltd <br>Web URL:www.edgeworks.com.sg <br>
 
 EquipPOS Retail Solutions combines the strength a traditional POS and a cloud-based system by synchronising data to cloud in real-time yet working without internet at the same time. Operations will not be hindered even when it's offline and  data can be viewed in real-time from our cloud-based EquipWeb backend once internet is available. Edgeworks POS solutions give you the performance and the stability that you need.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_1.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package A (Basic)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_2.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package B (Basic + Multi Outlet Control + Appointment & Commission)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_3.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package C (Basic + Inventory Manager APP)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_4.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package D (Basic + Inventory Manager APP with Tablet)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Edgeworks_Solution_Annex_3_CR_wef_17_Dec_2020_Part_5.pdf' target='_blank'>EquipPOS Retail Solutions Version 3 - Package E (Basic + Inventory Manager APP Without Hardware)</a>
 
 ### Eligibility Criteria
 

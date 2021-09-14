@@ -1,5 +1,5 @@
 ---
-title: UNIPRO RETAILPOS STANDARD VER 14.01 Version-HQ
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1431
 ---
 
@@ -8,11 +8,10 @@ Web URL: www.unipro.com.sg <br>Contact Hotline: 68443777 <br>Contact Email: al
 
 ### Description
 
-Unipro's RetailPOS Standard Ver .14.01  is an effective end to end web based Retail Management Solution. The suite of applications provides retailers with a real time view of their operations, and centralised control enables effective and faster decision-making.In-Store transactions are replicated to the Head Office, allowing quick decision making without any delays in day to day operations. Data is stored in a cloud hosting and report generation form cloud storage. 
+Unipro's RetailPOS Standard Ver .14.01  is an effective end to end web based Retail Management Solution. The suite of applications provides retailers with a real time view of their operations, and centralised control enables effective and faster decision-making.In-Store transactions are replicated to the Head Office, allowing quick decision making without any delays in day to day operations. Data is stored in a cloud hosting and report generation form cloud storage.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_UNIPRO_20190004_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

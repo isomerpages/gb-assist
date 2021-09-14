@@ -1,5 +1,5 @@
 ---
-title: BonaERP - Package (For Startups)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution251
 ---
 
@@ -8,12 +8,10 @@ Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Co
 
 ### Description
 
-BONAERP is an All in One ERP solution integrating Ecommerce Website & Point of Sales and CRM Sales Management.
-Synchronize your promotions, customer data, inventory stock level, sales reports across your Sales Channels including your POS, ecommerce website and daily sales. Now integrated to marketplaces including Lazada & Ebay with payment gateways.
+BONAERP is an All in One ERP solution integrating Ecommerce Website & Point of Sales and CRM Sales Management.Synchronize your promotions, customer data, inventory stock level, sales reports across your Sales Channels including your POS, ecommerce website and daily sales. Now integrated to marketplaces including Lazada & Ebay with payment gateways.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaERP_20190049_Annex_3_20200625143500_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

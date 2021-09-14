@@ -1,5 +1,5 @@
 ---
-title: High Speed Oven
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution56
 ---
 
@@ -8,11 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-A high speed oven uses rapid cooking technology to cook food rapidly without compromising quality. It utilises radiant heat, high-speed air impingement and side-launched microwave.
+A high speed oven uses rapid cooking technology to cook food rapidly without compromising quality. It utilises radiant heat, high-speed air impingement and side-launched microwave.Grant support 80% of cost of equipment, up to $8,000 grant
 
-Grant support: 80% of cost of equipment, up to $8,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: IVMS (Intelligent Vehicle Monitoring System) Version 7 - Package for 8 Vehicles
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1561
 ---
 
@@ -8,14 +8,10 @@ Web URL: WWW.SMARTCOMM.BIZ <br>Contact Hotline: 65132389 <br>Contact Email: as
 
 ### Description
 
-Designed for all fleet size and management. 
-Includes 4 cameras and a mobile digital video recorder with gps which provides real-time video and gps information to allow fleet managers to better manage and monitor. This will help with more efficient operation, lowering cost and better productivity.   
+Designed for all fleet size and management. Includes 4 cameras and a mobile digital video recorder with gps which provides real-time video and gps information to allow fleet managers to better manage and monitor. This will help with more efficient operation, lowering cost and better productivity.   The system is also able to add in a variety of Telematics smart sensors to meet certain industrial mandatory safety requirements.
 
-The system is also able to add in a variety of Telematics smart sensors to meet certain industrial mandatory safety requirements.
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Smartcomms_20200410_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

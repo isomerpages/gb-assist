@@ -1,5 +1,5 @@
 ---
-title: Smart Management Tracking System II - Starter Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1818
 ---
 
@@ -10,9 +10,9 @@ Web URL: https://www.tunitytech.com <br>Contact Hotline: 66862343 <br>Contact 
 
 Tunity Smart Management Tracking System II (SMTS II) is a smart inventory management system that uses the RFID technology. With the RFID tag on each item, we are able to give every object its own identity so as to track the item for visibility, traceability, connectivity and accountability.  Users of the SMTS II System can perform their daily operations easily with the handheld scanner and software application and at the same time experience the digitalization of their operation.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tunity_20200266_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Tunity_20200266_Annex_3.pdf' target='_blank'>Smart Management Tracking System II - Starter Package</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Autonomous Material Transportation Robot
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution24
 ---
 
@@ -8,14 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The Autonomous Material Transportation Robot carries out repetitive handling processes such as the transportation of warehouse cargo and pallet independently and reliably within warehouse and manufacturing environment.
+The Autonomous Material Transportation Robot carries out repetitive handling processes such as the transportation of warehouse cargo and pallet independently and reliably within warehouse and manufacturing environment.Solution may be semi-autonomous to transport the material movement between locations. The robot movement could be operated with line-track technology, follow-me technology or manually controlled.Grant support 80% of cost of equipment, up to $30,000 grant
 
-Solution may be semi-autonomous to transport the material movement between locations. The robot movement could be operated with line-track technology, follow-me technology or manually controlled.
-
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

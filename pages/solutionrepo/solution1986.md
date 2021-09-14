@@ -1,5 +1,5 @@
 ---
-title: Vodich- Xero Cloud Accounting - Package D - Premium
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1986
 ---
 
@@ -8,12 +8,10 @@ Web URL: https://vodich.com.sg/index.php/cloud-accounting/ <br>Contact Hotline:
 
 ### Description
 
-Xero's secure online accounting software enables users to quickly categorize bank transactions everyday thus making it easy for the users to track their cash flow and have everything ready for tax time. 
-On the other hand, users will also be able to see the money that is coming in and going out of their businesses daily through easy-to-read charts with up-to-date figures.
+Xero's secure online accounting software enables users to quickly categorize bank transactions everyday thus making it easy for the users to track their cash flow and have everything ready for tax time. On the other hand, users will also be able to see the money that is coming in and going out of their businesses daily through easy-to-read charts with up-to-date figures.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200621_Desensitised_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

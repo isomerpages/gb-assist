@@ -1,5 +1,5 @@
 ---
-title: SmartFM Version 1.0 - Basic (250 Pax)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1737
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.smart-dorm.com <br>Contact Hotline: 62531108 <br>Contact Email: sup
 
 SmartFM is an integrated, cloud based, facility management solution. It is designed to be a common data collection interface where operators can perform their day to day operations on a single platform, allowing data to be easily shared between operational departments, digitally documenting day to day tasks and granting executives and managers critical oversight and analysis tools to modernize dormitory operations.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_1.pdf' target='_blank'>SmartFM Version 1.0 - Basic (250 Pax)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_2.pdf' target='_blank'>SmartFM Version 1.0 - Core (250 Pax)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_3.pdf' target='_blank'>SmartFM Version 1.0 - Core (500 Pax)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_4.pdf' target='_blank'>SmartFM Version 1.0 - Core (1000 Pax)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Chimeric_Annex_3_Part_5.pdf' target='_blank'>SmartFM Version 1.0 - Commercial (Unlimited)</a>
 
 ### Eligibility Criteria
 

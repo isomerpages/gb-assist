@@ -1,5 +1,5 @@
 ---
-title: NuCloud NAS File Storage Solution - NuCloud NAS Storage Standard
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1817
 ---
 
@@ -10,9 +10,9 @@ Web URL: https://www.nucleoconsulting.com/psg-grants-nas-email-security-cyber-tr
 
 Synology NAS pairing with an onsite and offsite cloud backup to ensure that data protection is achieved and to meet compliance in many organisations. The data can be accessed via mapped drives, website portal or via the mobile app. It also sync the documents automatically without hassle via the app on your local computer, similar to One Drive/Google Drive/Dropbox but this is on a private cloud basis.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_Consulting_20200639_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Nucleo_Consulting_20200639_Annex_3.pdf' target='_blank'>NuCloud NAS File Storage Solution - NuCloud NAS Storage Standard</a>
 
 ### Eligibility Criteria
 

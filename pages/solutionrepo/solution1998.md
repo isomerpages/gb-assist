@@ -1,5 +1,5 @@
 ---
-title: SAP Business One Version 10 - SAP Business One on HANA - Package A Starter Package (5 Cloud Subscription Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1998
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://axxis-consulting.com/sap-business-one/ <br>Contact Hotline: +6
 
 SAP Business One is specifically designed to meet today's small and mid-size business needs and challenges. It completely removes the problems associated with having disconnected business processes or systems integrating and streamlines all business functions across sales, marketing, customers, financials and operations, all on a single digital platform so your business operates like a seamless one.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_1.pdf' target='_blank'>SAP Business One Version 10 - SAP Business One on HANA - Package A Starter Package (5 Cloud Subscription Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_2.pdf' target='_blank'>SAP Business One Version 10 - SAP Business One on HANA - Package B (5 Cloud Subscription Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_3.pdf' target='_blank'>SAP Business One Version 10 - SAP Business One on HANA - Package C (10 Cloud Subscription Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_4.pdf' target='_blank'>SAP Business One Version 10 - SAP Business One on HANA - Package D (15 Cloud Subscription Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/20200770_Desensitised_Annex_3_Part_5.pdf' target='_blank'>SAP Business One Version 10 - SAP Business One on HANA - Package E (7 Perpetual Licenses)</a>
 
 ### Eligibility Criteria
 

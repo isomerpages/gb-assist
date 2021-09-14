@@ -1,5 +1,5 @@
 ---
-title: 3. Develop and Establish Financial Budget and Plans
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2347
 ---
 
@@ -8,11 +8,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2347
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-T04SS0109E-01-CRS-Q-0028425-BM' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

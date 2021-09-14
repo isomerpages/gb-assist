@@ -1,5 +1,5 @@
 ---
-title: KADDRA Mobile App Commerce Solution Version 1.9 - Starter
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2259
 ---
 
@@ -10,9 +10,11 @@ Web URL: www.kaddra.com/#solutions <br>Contact Hotline: 68776928 <br>Contact E
 
 Kaddra helps businesses turn loyalty into revenue, improve retention and accelerate growth through its cross-channel solution. With the useful end to end tools, it provides opportunities for SMEs to upsell, create targeted marketing, improve customer service and better understand customer trends through analytics.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_1.pdf' target='_blank'>KADDRA Mobile App Commerce Solution Version 1.9 - Starter</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_2.pdf' target='_blank'>KADDRA Mobile App Commerce Solution Version 1.9 - Advanced</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Kaddra20200564_Desensitised_Annex_3_Part_3.pdf' target='_blank'>KADDRA Mobile App Commerce Solution Version 1.9 - Pro</a>
 
 ### Eligibility Criteria
 

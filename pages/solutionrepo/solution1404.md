@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version SAAS-Growing Enterprise
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1404
 ---
 
@@ -8,11 +8,10 @@ Web URL: www.9itgroup.com <br>Contact Hotline: 62918020 <br>Contact Email: sal
 
 ### Description
 
-Microsoft Dynamics 365 Business Central delivers integrated functionality to provide support for: Financial management Supply chain management Relationship management Human resource management Project & Resource management Warehouse management Service Order Management Manufacturing
+Microsoft Dynamics 365 Business Central delivers integrated functionality to provide support for Financial management Supply chain management Relationship management Human resource management Project & Resource management Warehouse management Service Order Management Manufacturing
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Illum_20200074_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

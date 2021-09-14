@@ -1,5 +1,5 @@
 ---
-title: HRM Human Resource Management System - HRM Labs Basic Package (30)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution456
 ---
 
@@ -10,9 +10,13 @@ HRM Labs Pte Ltd<br>www.hrmlabs.com<br>Email: contact@hrmlabs.com<br>Tel: +65 90
 
 HRMLABS helps to digitalize the manual process of HR administrative data with ease of access to the centralized information. The base modules cover the Dashboard, Employee Management, Leave Management, Benefits & Claims Management, Payroll Management, Contract Management, Attendance Management and Performance Appraisal Management.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_1.pdf' target='_blank'>HRM Human Resource Management System - HRM Labs Basic Package (30)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_2.pdf' target='_blank'>HRM Human Resource Management System - HRM Labs Basic Package (75)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_3.pdf' target='_blank'>HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (120)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_4.pdf' target='_blank'>HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (250)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/HRM_Labs_20200043_Annex_3_20200625151521_Part_5.pdf' target='_blank'>HRM Human Resource Management System - HRM Labs Advance + Added Functions Package (350)</a>
 
 ### Eligibility Criteria
 

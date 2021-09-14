@@ -1,5 +1,5 @@
 ---
-title: Shell Telematics - Shell Telematics (5 vehicles)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution780
 ---
 
@@ -10,9 +10,13 @@ Company Name:SHELL EASTERN PETROLEUM (PTE) LTD <br>Web URL: https://www.shell.c
 
 Shell Telematics is designed to help business owners get the best performance from their fleet, no matter its size.  We use the latest vehicle tracking technology and integrate with Shell Cards to gather a wealth of performance and transaction data from the fleet. Then we turn it into clear, actionable fleet intelligence that helps businesses improve their efficiency, productivity, safety and security.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_1.pdf' target='_blank'>Shell Telematics - Shell Telematics (5 vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_2.pdf' target='_blank'>Shell Telematics - Shell Telematics (10 vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_3.pdf' target='_blank'>Shell Telematics - Shell Telematics (20 vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_4.pdf' target='_blank'>Shell Telematics - Shell Telematics (30 vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Shell_Eastern_Annex_3_CR_29_Oct_2020_Part_5.pdf' target='_blank'>Shell Telematics - Shell Telematics (40 vehicles)</a>
 
 ### Eligibility Criteria
 

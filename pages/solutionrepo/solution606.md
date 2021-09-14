@@ -1,5 +1,5 @@
 ---
-title: MPD E-Commerce SMEs Version - CMS Ecommerce
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution606
 ---
 
@@ -10,9 +10,11 @@ MediaPlus Digital Pte Ltd<br>https://mediaplus.com.sg/<br>Email: wow@mediaplus.c
 
 MPD e-commerce SMEs Version offers SMEs an opportunity to increase their sales online by widening their reach thru the digital platform where users can easily browse, shop and purchase their merchandises/products/services via a few clicks online with minimal manpower required. In addition, the solution allows SMEs to manage their inventory and reporting (e.g. revenue, costs, trends etc.) more efficiently as well as to improve their overall operating cost as compared to a brick and mortar store.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_1.pdf' target='_blank'>MPD E-Commerce SMEs Version - CMS Ecommerce</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_2.pdf' target='_blank'>MPD E-Commerce SMEs Version - Express </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Mediaplus_E-Commerce_SMEs_v3_Annex_3_CR_wef_26Jun2020_Part_3.pdf' target='_blank'>MPD E-Commerce SMEs Version - Elite</a>
 
 ### Eligibility Criteria
 

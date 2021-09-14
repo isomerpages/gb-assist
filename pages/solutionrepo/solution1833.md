@@ -1,5 +1,5 @@
 ---
-title: Job Redesign Consultancy - Deloitte Consulting Pte Ltd
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1833
 ---
 
@@ -8,13 +8,10 @@ Company Name: Deloitte Consulting Pte Ltd<br>Web URL: www2.deloitte.com/sg/en/se
 
 ### Description
 
-At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value. 
+At Deloitte, we believe that Redesigning jobs should be viewed not as an end goal but as a process that enables work itself to be redefined so that the workforce creates new value. We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
 
-We will take 3 practical steps to help you to imagine, design and pilot job redesign initiatives that will complement and drive your consumer business and workforce transformation aspirations.
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyDeloitteConsultingPteLtd.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Sector Specialisation
 
@@ -47,3 +44,4 @@ Up to 80% for non-SMEs
 ### Things to Note
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

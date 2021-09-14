@@ -1,5 +1,5 @@
 ---
-title: Walk behind sweeper
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution182
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The walk-behind sweeper that is able to provide consistent cleaning sweeping performance, with only one operator.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

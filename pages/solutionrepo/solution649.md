@@ -1,5 +1,5 @@
 ---
-title: Netiquette Cloud Business Suite - Package D (Saas for 25 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution649
 ---
 
@@ -8,11 +8,10 @@ Netiquette Software Pte Ltd<br>www.netiquette.com.sg<br>Email: enquiry@netiquett
 
 ### Description
 
-Netiquette Software is a complete cloud business solution that comprises Accounting, Inventory and Billing, Customer Relationship Management, Payroll modules and Point of Sales System as well as customized cloud solutions for SMEs to manage core key business operations with real time data reports. It has a user-friendly interface with role-specific functionality. 
+Netiquette Software is a complete cloud business solution that comprises Accounting, Inventory and Billing, Customer Relationship Management, Payroll modules and Point of Sales System as well as customized cloud solutions for SMEs to manage core key business operations with real time data reports. It has a user-friendly interface with role-specific functionality.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Netiquette_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

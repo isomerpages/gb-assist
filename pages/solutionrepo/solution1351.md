@@ -1,5 +1,5 @@
 ---
-title: Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1351
 ---
 
@@ -10,9 +10,9 @@ Company Name:Active Interactions Pte Ltd <br>Web URL: trueblu.co <br>Contact H
 
 TRUEBLU CRM is a Customer Relationship Management (CRM) tool with Social Media Integration - a unique Cloud-based system that empowers SMEs to manage both new & loyal customers while automating the overall business processes. This business intelligence tool allows businesses to link up their current CRM contact base to social media accounts, streamlining the overall marketing and business management-combining sales, customer relations, and social media handling all into one system.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Active_Interactions_20200392_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Active_Interactions_20200392_Annex_3.pdf' target='_blank'>Trueblu CRM Version 3.2 - Active Trueblu - Social CRM ( Standard Package)</a>
 
 ### Eligibility Criteria
 

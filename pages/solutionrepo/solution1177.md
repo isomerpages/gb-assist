@@ -1,5 +1,5 @@
 ---
-title: (eScheduling) QuickHR - Cloud eScheduling - Essential 25
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1177
 ---
 
@@ -10,9 +10,13 @@ Company Name:Enable Business Pte Ltd <br>Web URL: www.quickhr.co <br>Contact H
 
 QuickHR eScheduling offers cutting-edge cloud-based Automated Scheduling & Workforce Management solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of eScheduling and Workforce Management. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_1.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling - Essential 25</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_2.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling - Enhanced 100</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_3.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling - Enhanced 175</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_4.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling  - Enterprise 250</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Enable_Business_20200211_Annex_3_Part_5.pdf' target='_blank'>(eScheduling) QuickHR - Cloud eScheduling  - Enterprise 300</a>
 
 ### Eligibility Criteria
 

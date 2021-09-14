@@ -1,5 +1,5 @@
 ---
-title: AdeptForms - Document Management Solution Version 1 - Package A (Up to 3 users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2248
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://www.adeptforms.com/ <br>Contact Hotline: 90255587 <br>Contact
 
 Document management is a module to help the users digitize and manage their digital forms or documents via AdeptForms web or mobile application.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_1.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package A: (Up to 3 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_2.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package B: (Up to 8 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_3.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package C: (Up to 10 users - With OCR)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_4.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package D: (Up to 15 users - With OCR)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/AdeptVentures20200102_Desensitised_Annex_3_Part_5.pdf' target='_blank'>AdeptForms - Document Management Solution Version 1 - Package E: (Up to 25 users - With OCR)</a>
 
 ### Eligibility Criteria
 

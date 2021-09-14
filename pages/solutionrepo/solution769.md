@@ -1,5 +1,5 @@
 ---
-title: SecureAPlus Version 6.x - (60 Pax)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution769
 ---
 
@@ -10,10 +10,8 @@ SecureAge Technology Pte Ltd<br>www.secureage.com/secureaplus<br>Email: teowhin@
 
 SecureAPlus is an EndPoint protection solution that uses the right combination of security layers to prevent the most advanced cyber threats of today & tomorrow from causing harm to your PC.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SecureAge_Technology_20190053_Annex_3_20200625150528_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

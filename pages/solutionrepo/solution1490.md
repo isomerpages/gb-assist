@@ -1,5 +1,5 @@
 ---
-title: OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 4)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1490
 ---
 
@@ -10,9 +10,11 @@ Company Name: Wolters Kluwer Financial Services Singapore Pte Ltd<br>Web URL: ww
 
 OneSumX solution is a modular end-to-end solution suite designed on an integrated data layer to address the tactical and strategic needs of Finance, Risk management, and Compliance.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_1.pdf' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 4)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_2.pdf' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0- Package (Tier 3)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WK_Annex_3_Part_3.pdf' target='_blank'>OneSumX for Regulatory Reporting Version 3.1.0-Package (Tier 2)</a>
 
 ### Eligibility Criteria
 

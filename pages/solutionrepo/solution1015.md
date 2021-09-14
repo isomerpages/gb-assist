@@ -1,5 +1,5 @@
 ---
-title: Quickbooks Online - Aba QuickBooks Online Accounting Solution - Starter
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1015
 ---
 
@@ -10,9 +10,13 @@ Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Cont
 
 As system implementation consultant and accounting firm, we explore and assist clients to digitalise their operation processes from the purchase order, sales quotation, invoices, inventory tracking to accounting and GST reporting using a digital solution like Quickbooks Online. We have encountered SMEs who spent significant time and effort to prepare manual sales invoices, store client database in excel or word documents.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_1.pdf' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Starter</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_2.pdf' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Essential</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_3.pdf' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution - Inventory</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_4.pdf' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution - Enterprise</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Quickbooks_20200437_Annex_3_Part_5.pdf' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution - Premium</a>
 
 ### Eligibility Criteria
 

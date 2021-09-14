@@ -1,5 +1,5 @@
 ---
-title: Dropbox Business - Dropbox Business 3 Users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1005
 ---
 
@@ -10,9 +10,13 @@ Company Name:WEB IMP PTE LTD <br>Web URL: https://www.webimp.com.sg/ <br>Conta
 
 Dropbox is a file storage solution known to many individuals, but the business edition enables companies with more control. Dropbox Business has unlimited storage capacity that allows you to store your files securely in the cloud, shares easily with external parties, and collaborate conveniently with your team members. It is also effective for organization management & control. With Web Imp as your vendor, you get an additional advantage with an established tech firm providing local support.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_1.pdf' target='_blank'>Dropbox Business - Dropbox Business: 3 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_2.pdf' target='_blank'>Dropbox Business - Dropbox Business: 5 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_3.pdf' target='_blank'>Dropbox Business - Dropbox Business: 10 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_4.pdf' target='_blank'>Dropbox Business - Dropbox Business: 15 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Web_Imp_20200221_Annex_3_Part_5.pdf' target='_blank'>Dropbox Business - Dropbox Business: 20 Users</a>
 
 ### Eligibility Criteria
 

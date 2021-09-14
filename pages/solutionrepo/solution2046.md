@@ -1,5 +1,5 @@
 ---
-title: Automated tools management system
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2046
 ---
 
@@ -8,19 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Centralized tool storage, dispensing & inventory management (IM) system with 2 key components: 
+Centralized tool storage, dispensing & inventory management (IM) system with 2 key components 1) Smart IM software Monitors tool inventory, stock level & consumption rate; and With customizable option to link to ERP or supplier online automated ordering process; and; Controls the issuing of tools per user's security access level2) Tool dispensing hardwareHardware can be in the form of a drawer or coil vending system.  Grant support 80% of cost of equipment, up to $22,400 grant
 
-1) Smart IM software: 
-Monitors tool inventory, stock level & consumption rate; and 
-With customizable option to link to ERP or supplier online automated ordering process; and; 
-Controls the issuing of tools per user's security access level
-
-2) Tool dispensing hardware
-Hardware can be in the form of a drawer or coil vending system.  
-
-Grant support: 80% of cost of equipment, up to $22,400 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

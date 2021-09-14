@@ -1,5 +1,5 @@
 ---
-title: Automatic Flange Spreader
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1480
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way. 
+The flange spreader aids the process of separation of two connecting flanges for the replacement of the flange gasket. It aids the maintenance of flange joints through a safe and efficient way.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

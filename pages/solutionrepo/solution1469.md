@@ -1,5 +1,5 @@
 ---
-title: UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - LITE
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1469
 ---
 
@@ -10,9 +10,10 @@ Web URL: www.unipro.com.sg <br>Contact Hotline: 68443777 <br>Contact Email: al
 
 Unipro Ecommerce Online store aims to provide SME the opportunity to create an online presence and explore its business in online platform. It helps the SME to create more convenience for their customers to explore the products and services at the convenient time and influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_1.pdf' target='_blank'>UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - LITE</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Unipro_20200667_Annex_3_Part_2.pdf' target='_blank'>UNIPRO E-COMMERCE ONLINE STORE Version 2.0-ECOM - PRO</a>
 
 ### Eligibility Criteria
 

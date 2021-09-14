@@ -1,5 +1,5 @@
 ---
-title: CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution329
 ---
 
@@ -10,9 +10,11 @@ Ctrl Alt Del Pte Ltd<br>www.cad.sg<br>Email: business@cad.sg<br>Tel: +65 9859 77
 
 Cadstudio is a comprehensive enterprise resource planning (ERP) software made up of an integrated suite of business modules, including customer relationship management (CRM), e-commerce, accounting, billing, inventory management, project management, warehouse management, financial management, manufacturing and purchasing. These modules aim to achieve efficiency for enterprise by establishing seamless communication with each other.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_1.pdf' target='_blank'>CADStudio Version 0.1.3 - Sales & Inventory Management (Startup Edition)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_2.pdf' target='_blank'>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Advance Edition)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Ctrl_Alt_Del_20200158_Annex_3_20200625145455_Part_3.pdf' target='_blank'>CADStudio Version 0.1.3 - Sales & Inventory Management PEPPOL Enabled (Multi Edition)</a>
 
 ### Eligibility Criteria
 

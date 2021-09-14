@@ -1,5 +1,5 @@
 ---
-title: KPMG Regulatory Integrated Solution Version 1.0-Package (Tier 3 Bank)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1485
 ---
 
@@ -8,11 +8,10 @@ Company Name: KPMG Services Pte Ltd<br>Web URL:Home.kpmg.com/sg/en/home.html<br>
 
 ### Description
 
-KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements. 
+KPMG's KRIS is a cloud-based Regulatory Reporting solution for banks, hosted on MS Azure. The solution is able to comply with the revised MAS 610 regulatory reporting requirements.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_KPMG_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

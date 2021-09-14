@@ -1,5 +1,5 @@
 ---
-title: Substrate Mixing and Packing Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2157
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A machine that mix and fill substrate bags with various nutrients that's necessary for growing of crops.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

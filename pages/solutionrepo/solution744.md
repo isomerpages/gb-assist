@@ -1,5 +1,5 @@
 ---
-title: REACH MOIBOO Version 1.8 - Plan A
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution744
 ---
 
@@ -10,9 +10,11 @@ Company Name:REACH PROCESS OUTSOURCING PTE. LTD. <br>Web URL: www.moiboo.com <br
 
 Moiboo is an automobile business software which helps auto workshops, auto dealers, auto rentals, auto spare parts business and Transporter to automate the entire business end to end
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_1.pdf' target='_blank'>REACH MOIBOO Version 1.8 - Plan A</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_2.pdf' target='_blank'>REACH MOIBOO Version 1.8 - Plan B</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_REACH_PROCESS_20200159_Annex_3_20200707122840_Part_3.pdf' target='_blank'>REACH MOIBOO Version 1.8 - Plan C</a>
 
 ### Eligibility Criteria
 

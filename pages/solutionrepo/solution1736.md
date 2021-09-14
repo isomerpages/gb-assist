@@ -1,5 +1,5 @@
 ---
-title: Job Redesign Consultancy - EON Consulting & Training Pte Ltd
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1736
 ---
 
@@ -10,9 +10,9 @@ Company Name: EON Consulting & Training Pte Ltd<br>Web Url: www.eonconsulting.co
 
 EON was established in 1996 and specialises in providing human capital consulting and training services to organisations in Singapore. Through the years, EON has helped organisations from various industries improve on strategic human capital alignment, redesign work processes, and making jobs more productive and attractive for employees. Since 2017, EON has been working with government agencies and professional institutions to develop and deliver training programmes in job redesign.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyEonConsulting&TrainingPteLtd.pdf' target='_blank'>Job Redesign Consultancy - EON Consulting & Training Pte Ltd</a>
 
 ### Sector Specialisation
 
@@ -49,3 +49,4 @@ Up to 80% for non-SMEs
 ### Things to Note
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

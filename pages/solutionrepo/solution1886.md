@@ -1,5 +1,5 @@
 ---
-title: iREP FM - FM (Mobile Inspection) Basic
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1886
 ---
 
@@ -10,9 +10,11 @@ Web URL: http://www.gabkotech.com <br>Contact Hotline: 66844419 <br>Contact Em
 
 Gabkotech recognises the need for the digital transformation of the Facilities Management industry, and has proposed iREP FM for this transformation.  Components within the iREP FM solution will improve and transform the industry to be future-ready with Smart IOT Built Environment Solutions.  These solutions will improve workflow automation for the Built Environment Industry.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_1.pdf' target='_blank'>iREP FM - FM (Mobile Inspection) Basic</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_2.pdf' target='_blank'>iREP FM - FM (Mobile Inspection) Standard</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Gabkotech_Innovations_20200143_Desensitised_Annex_3_Part_3.pdf' target='_blank'>iREP FM - FM (Mobile Inspection) Full</a>
 
 ### Eligibility Criteria
 

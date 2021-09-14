@@ -1,5 +1,5 @@
 ---
-title: 3. Process human resource information (SFw HR)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2356
 ---
 
@@ -8,11 +8,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2356
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=SCN-S80TU0496C-01-CRS-Q-0034638-HRS' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

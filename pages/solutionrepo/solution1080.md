@@ -1,5 +1,5 @@
 ---
-title: AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup, Migration & Training)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1080
 ---
 
@@ -10,9 +10,13 @@ Company Name:Agere Accounting & Advisory Pte Ltd <br>Web URL: www.agere-ca.com 
 
 Xero is an online accounting software for SMEs, to be able to automate their everyday business tasks, get up-to-date financials and run their business in real-time. As Xero is cloud-based, business owners can access their finances right away from any internet-connected device - phone, tablet, or computer instead of waiting for their accountants to send them the information. Using Xero encompasses increased capabilities, better productivity, ease-of-use and better responsiveness.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup, Migration & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_2.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup & Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_3.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Setup)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_4.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium w/Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAgereAccountingAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>AGERE - Xero Cloud Accounting Software -(Xero Premium, Subscription only)</a>
 
 ### Eligibility Criteria
 

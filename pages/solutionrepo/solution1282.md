@@ -1,5 +1,5 @@
 ---
-title: Managed Firewall Solution - Fortigate 40F
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1282
 ---
 
@@ -10,9 +10,13 @@ Company Name:LGA Telecom Pte Ltd <br>Web URL: https://www.lgatelecom.net <br>C
 
 LGA's Managed Firewall Service provides robust next-generation firewall protection powered by advanced threat intelligence to identify and stop potential security breaches. Backed up by 24/7 LGA support and monitoring, customers are freed from the burden of tasks such as configuration change management, tech refresh, license renewals, patch deployment and maintenance due to our fully managed service.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_1.pdf' target='_blank'>Managed Firewall Solution - Fortigate 40F</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_2.pdf' target='_blank'>Managed Firewall Solution - Fortigate 60F</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_3.pdf' target='_blank'>Managed Firewall Solution - Fortigate 80F</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_4.pdf' target='_blank'>Managed Firewall Solution - Fortigate 100F</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedLGA_managedfirewall_CRwef27May2021_Part_5.pdf' target='_blank'>Managed Firewall Solution - Fortigate 200F</a>
 
 ### Eligibility Criteria
 

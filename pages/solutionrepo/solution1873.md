@@ -1,5 +1,5 @@
 ---
-title: T-Guard - Package (5 Vehicles)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1873
 ---
 
@@ -8,15 +8,10 @@ Web URL: www.tnts.com.sg <br>Contact Hotline: 98338687 <br>Contact Email: ivy_
 
 ### Description
 
-T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.
+T-Guard is a complete system that provides utmost safe driving management system for all the connected vehicles.- Advanced tracking technology providing greater fleet insights to improve business productivity and safety- Driver behaviour insights and scoring to instil safe driving culture- Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
 
-- Advanced tracking technology providing greater fleet insights to improve business productivity and safety
-- Driver behaviour insights and scoring to instil safe driving culture
-- Continuously evolving value-added customised solution introducing features beyond tracking, such as smart fuel management and usage-based insurance
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNT_20200200_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

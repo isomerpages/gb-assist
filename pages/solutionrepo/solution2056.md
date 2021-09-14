@@ -1,5 +1,5 @@
 ---
-title: DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3-DIMMPS
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2056
 ---
 
@@ -8,12 +8,10 @@ Web URL: DIMMPS SOLUTIONS <br>Contact Hotline: 97363622 <br>Contact Email: MAI
 
 ### Description
 
-DIMMPS is a marketing software platform based on the WeChat mobile app.
-The solution aims to provide SME the opportunity to create an online presence. It helps the SME to create more convenience for their customers, influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
+DIMMPS is a marketing software platform based on the WeChat mobile app.The solution aims to provide SME the opportunity to create an online presence. It helps the SME to create more convenience for their customers, influence their purchase decision, and give them the opportunities to tap on social media to broaden their branding and increase sales revenue online.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDodoca_Annex_3_CRwef25March2021.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

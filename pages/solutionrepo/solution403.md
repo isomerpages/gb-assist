@@ -1,5 +1,5 @@
 ---
-title: Eurostop EPOS and E-retail Inventory Management Version 10 - Package A (EPOS and Retail Inventory System)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution403
 ---
 
@@ -10,9 +10,9 @@ Eurostop Singapore Pte Ltd<br>https://www.eurostop.com/<br>Email: sgsales@eurost
 
 Eurostop Provides a full and complete retail POS solution to enable our retail customers to better manage their day to day retail process workflow to all their outlets and warehouses. The system provides a full set of sales transaction that consists of the sales and payment mode information, and attaches members and sales persons to the transaction. This allows the retailer to view and analyze their customer spending behaviours, product sales performance and stock inventory level.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Eurostop_Singapore_20190001_Annex_3_20200625150732_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Eurostop_Singapore_20190001_Annex_3_20200625150732_Part_1.pdf' target='_blank'>Eurostop EPOS and E-retail Inventory Management Version 10 - Package A (EPOS and Retail Inventory System)</a>
 
 ### Eligibility Criteria
 

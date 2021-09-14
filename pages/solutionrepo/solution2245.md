@@ -1,5 +1,5 @@
 ---
-title: SYNERGIX E1 Version TH6 - Package A   HRMS Standard
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2245
 ---
 
@@ -10,9 +10,11 @@ Synergix Technologies Pte Ltd<br>www.synergixtech.com<br>Email: marketing@synerg
 
 Synergix E1 Human Resource Management System helps your company to properly track and allocate manpower costs and streamline the payroll system all while reducing paper work and mundane effort.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_1.pdf' target='_blank'>SYNERGIX E1 Version TH6 - Package A :  HRMS Standard</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/SynergixTechnologies20200119_Annex_3_20200625151643.pdf' target='_blank'>SYNERGIX E1 Version TH6 - Package B : HRMS Standard with Staff Appraisal and Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Synergix_Technologies_20200119_Annex_3_20200625151643_Part_3.pdf' target='_blank'>SYNERGIX E1 Version TH6 - Package C : HRMS Standard with Staff Appraisal , Training and Recruitment</a>
 
 ### Eligibility Criteria
 

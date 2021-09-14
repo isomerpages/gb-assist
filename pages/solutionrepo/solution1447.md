@@ -1,5 +1,5 @@
 ---
-title: EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Start-up)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1447
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://www.eisol.net/eats365 <br>Contact Hotline: 66816538 <br>Conta
 
 Eats365 POS System is design for chain restaurants, franchise or MNC. It automatically consolidate online orders, food delivery platforms, self-service kiosk, dine-in (BYOD), and eCommerce into the POS system (Point-of-sale) and to give you insightful reporting. Eats365 POS built-in loyalty, and promotion features, help you to grow business and retain customers.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_1.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Start-up)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_2.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Grow)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_3.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Large)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_4.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Self-order Kiosk)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EISOL_20200077_Annex_3_Part_5.pdf' target='_blank'>EISOL F&B (Eats365) Version 1.0-POS System & Online Food Ordering System (Dine-in self-order)</a>
 
 ### Eligibility Criteria
 

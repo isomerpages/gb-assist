@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Plus Version 4 - Package A
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1270
 ---
 
@@ -10,9 +10,13 @@ Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>C
 
 MyRetailer Plus is a powerful point-of-sale solution that provides an easy-to-use data management system equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>MyRetailer Plus Version 4 - Package A</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>MyRetailer Plus Version 4 - Package B with Second Monitor</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>MyRetailer Plus Version 4 - Package C with with Web Store</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>MyRetailer Plus Version 4 - Package D with Cloud Dashboard</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_Synthesis_Annex_3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>MyRetailer Plus Version 4 - Package E with Unified Payments</a>
 
 ### Eligibility Criteria
 

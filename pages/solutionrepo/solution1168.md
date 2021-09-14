@@ -1,5 +1,5 @@
 ---
-title: Xero accounting software - ASL Advisory- Xero subscription
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1168
 ---
 
@@ -10,9 +10,13 @@ Company Name:ASL Advisory Pte. Ltd. <br>Web URL: www.asladvisory.com <br>Conta
 
 Xero is an accounting software for small business that lives in the cloud and works anywhere you do. This means that you can automate everyday business tasks, get up to date financials and run your business from wherever you are. Xero also connects to the Peppol E-invoicing network launched by IMDA to speed up your invoicing process. It can get you paid faster by your customers and help you maintain healthy cash flow in your business.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_1.pdf' target='_blank'>Xero accounting software - ASL Advisory- Xero subscription</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_2.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup & subscription</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_3.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup, subscription & training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_4.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup, subscription, training, opening balance input</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_ASL_Advisory_20200380_Annex_3_Part_5.pdf' target='_blank'>Xero accounting software - ASL Advisory - Xero setup, subscription, training, migration of past year data</a>
 
 ### Eligibility Criteria
 

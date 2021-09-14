@@ -1,5 +1,5 @@
 ---
-title: EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS Software Package)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1511
 ---
 
@@ -10,13 +10,12 @@ EPOS Pte. Ltd.<br>http://www.epos.com.sg<br>Email: sales@epos.com.sg<br>Tel: +65
 
 EPOS Enhanced POS helps retailers at their Point of Sales to improve checkout, customer management, inventory management and provide detailed sales, customer and product data and analysis. It reduces human error and improve accuracy in sales invoicing and stock deduction.
 
+### Packages Available
 
-
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_2.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_3.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 - Tablet)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_4.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (EPOS Enhanced POS All In 1 with Smart Inventory Management)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_EPOS_Pte._Ltd_Annex_3_-_New_CR_wef_29_Oct_2020_Part_5.pdf' target='_blank'>EPOS Enhanced POS Version 2 - Package (Enhanced POS All In 1 with Smart Inventory Management and Accounting Integration)</a>
 
 ### Eligibility Criteria
 

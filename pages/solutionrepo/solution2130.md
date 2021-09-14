@@ -1,5 +1,5 @@
 ---
-title: Automatic Seed Plug Transplanter
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2130
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A machine that completes transplantation of the plug seedlings of vegetables.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

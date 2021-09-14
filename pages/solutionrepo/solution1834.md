@@ -1,5 +1,5 @@
 ---
-title: Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1834
 ---
 
@@ -10,9 +10,9 @@ Company Name: Aon Solutions Singapore Pte Ltd<br>Web URL: humancapital.aon.com/ 
 
 Aon is a leading global human capital consulting firm offering a broad spectrum of data, analytics and advisory services. As part of the PSG-JR program, Aon will work with enterprises to develop and implement job redesign roadmaps to improve productivity, talent attraction and retention; and to transform their workforces for the future. Our proprietary database, industry insight, and innovative Human Capital Solutions provide us with content and contextual expertise required to make this initiative a success.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudybyAonSolutionsSingaporePteLtd.pdf' target='_blank'>Job Redesign Consultancy - Aon Solutions Singapore Pte Ltd</a>
 
 ### Sector Specialisation
 
@@ -40,3 +40,4 @@ Up to 80% for non-SMEs
 ### Things to Note
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

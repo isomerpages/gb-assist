@@ -1,5 +1,5 @@
 ---
-title: Dehusking Machine/ Shaker
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2136
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Dehullers (or "shakers") that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
+Dehullers (or shakers) that are capable of efficiently hulling, rinsing and conveying bean sprouts in a single operation.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

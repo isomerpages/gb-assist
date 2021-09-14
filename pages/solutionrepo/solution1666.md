@@ -1,5 +1,5 @@
 ---
-title: TimeCentral Version 11 - TimeCentral 30
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1666
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.smepayroll.com <br>Contact Hotline: 68372336 <br>Contact Email: b
 
 TimeCentral solution assists clients in scheduling and rostering their workforce for automatic computation of attendance data. Mobile Attendance App allows recording and tracking of staff attendance with GPS location as well as the solution can be integrated with automatic devices or imported attendance data. Accessibility of data and timesheets is possible anytime and in real-time from the cloud and mobile apps.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_1.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 30</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_2.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 50</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_3.pdf' target='_blank'>TimeCentral Version 11 - 	TimeCentral 100</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_4.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 200</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedADVANCEDBESTHRESSAnnex3CRwef27May2021_Part_5.pdf' target='_blank'>TimeCentral Version 11 - TimeCentral 300</a>
 
 ### Eligibility Criteria
 

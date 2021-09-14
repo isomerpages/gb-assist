@@ -1,5 +1,5 @@
 ---
-title: BeauteSoft Version 6.3
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution779
 ---
 
@@ -10,12 +10,8 @@ Sequoia Pte Ltd<br>http://www.beaute-soft.com<br>Email: ang@sequoia-asia.com<br>
 
 BeauteSoft CRM is an operational management tool suitable for Salons, Beauty Centres, Wellness Centres or other Grooming Services. It provides Sales Management, Service and Product Management, Staff Management, Customer Management, Appointment Scheduling, SMS Email Marketing, Customer Visit and Absentee Analysis, Customer Loyalty Point Management, Treatment record and image comparison (before and after) Sales Planning.
 
+### Packages Available
 
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Sequoia_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

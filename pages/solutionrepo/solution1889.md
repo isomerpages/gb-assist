@@ -1,5 +1,5 @@
 ---
-title: GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - Plus
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1889
 ---
 
@@ -10,9 +10,10 @@ Web URL: www.graphisoft.com.sg <br>Contact Hotline: 67107720 <br>Contact Email: 
 
 GRAPHISOFT's BIM Collaboration Solution offers real-time, model-based BIM collaboration for companies and projects of any size. It works on any network, hardware or software configuration. With the help of its mobile integration through the cloud, all stakeholders of the design build process can actively be connected 24/7.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_1.pdf' target='_blank'>GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - Plus</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Graphisoft_Asia_20200346_Desensitised_Annex_3_Part_2.pdf' target='_blank'>GS BIM collaboration Platform Version 1 - GS BIM Collaboration Package - 1 Year Rental</a>
 
 ### Eligibility Criteria
 

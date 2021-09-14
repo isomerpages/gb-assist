@@ -1,5 +1,5 @@
 ---
-title: Side-loader waste collection system
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution122
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The side loader system, which comprises of a side loading compactor body mounted onto a vehicle chassis and the use of compatible collection bins, allows the driver to remotely operate the collection process in the cabin. The collection vehicle must be fitted with an on board camera system for ease of visibility of remote side loading operation and safety, a tonnage monitoring system for the tracking of tonnage of waste/recyclables collected in each premises.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

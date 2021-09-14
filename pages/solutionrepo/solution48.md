@@ -1,5 +1,5 @@
 ---
-title: Escalator Cleaner
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution48
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: MyRetailer Android POS-Package A Standalone
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution351
 ---
 
@@ -10,9 +10,13 @@ Company Name:DCS Synthesis Pte Ltd <br>Web URL: https://www.synthesis.bz <br>C
 
 MyRetailer Android POS is a powerful all in one point-of-sale solution with built in payment modes like Alipay, Wechat Pay, GrabPay, Credit Card payments, Global Blue and others. The system is also equipped with efficient and secure retail and inventory control systems in the back office with relevant reports vital to store operations
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_1.pdf' target='_blank'>MyRetailer Android POS-Package A Standalone</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_2.pdf' target='_blank'>MyRetailer Android POS-Package B with Dashboard</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_3.pdf' target='_blank'>MyRetailer Android POS-Package C with Unified Payments</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_4.pdf' target='_blank'>MyRetailer Android POS-Package D with Dashboard & Unified Payments</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_DCS_20200008_Annex_3_CR_WEF_4_SEPT_2020v2_Part_5.pdf' target='_blank'>MyRetailer Android POS-Package E with Unified Payments & Web Store</a>
 
 ### Eligibility Criteria
 

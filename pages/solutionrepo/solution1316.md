@@ -1,5 +1,5 @@
 ---
-title: SentroWeb - Lite 50
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1316
 ---
 
@@ -10,9 +10,18 @@ Company Name:Ingenique Solutions Pte Ltd <br>Web URL: https://www.ingenique.net
 
 Ingenique Solutions' SentroWeb combines relevant Anti-Money Laundering and Countering the Financing of Terrorism (AML/CFT) data from Dow Jones or Acuris with SentroWeb powerful search engine and simple workflow, so that you can take the complexities out of AML/CFT compliance, and get straight to business.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_1.pdf' target='_blank'>SentroWeb - Lite 50</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_2.pdf' target='_blank'>SentroWeb - Regular 100</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_3.pdf' target='_blank'>SentroWeb - Regular 500</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' target='_blank'>SentroWeb - Regular DJ 1000</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_5.pdf' target='_blank'>SentroWeb - Premium DJ 8K</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_1.pdf' target='_blank'>SentroWeb - Lite 50</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_2.pdf' target='_blank'>SentroWeb - Regular 100</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_3.pdf' target='_blank'>SentroWeb - Regular 500</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_4.pdf' target='_blank'>SentroWeb - Regular DJ 1000</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ingenique_20200591_Annex_3_Part_5.pdf' target='_blank'>SentroWeb - Premium DJ 8K</a>
 
 ### Eligibility Criteria
 

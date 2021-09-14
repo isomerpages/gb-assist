@@ -1,5 +1,5 @@
 ---
-title: Sapaad - Sapaad Restaurant Management System + Loyalty
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1918
 ---
 
@@ -8,11 +8,10 @@ Web URL: https://www.sapaad.com/sg/ <br>Contact Hotline: 62240777 <br>Contact 
 
 ### Description
 
-Sapaad is a leading, cost-effective, scalable Cloud point-of-salev(POS) & restaurant management system, trusted by thousands of restaurants worldwide. Sapaad is an end-to-end point-of-sale & restaurant management solution that fits all restaurant models, including casual dining, quick service restaurants, kiosks, food trucks and drive-thrus, and addresses all order types: walk-in, dine-in, take- way and home delivery.
+Sapaad is a leading, cost-effective, scalable Cloud point-of-salev(POS) & restaurant management system, trusted by thousands of restaurants worldwide. Sapaad is an end-to-end point-of-sale & restaurant management solution that fits all restaurant models, including casual dining, quick service restaurants, kiosks, food trucks and drive-thrus, and addresses all order types walk-in, dine-in, take- way and home delivery.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Sapaad_20200692_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

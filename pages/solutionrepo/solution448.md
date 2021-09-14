@@ -1,5 +1,5 @@
 ---
-title: Rodent Monitoring System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution448
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The rodent monitoring system is a wireless surveillance system that monitors, analyses and maps rodent activity to provide real time data for pest control operators to conduct targeted pest control measures.   
+The rodent monitoring system is a wireless surveillance system that monitors, analyses and maps rodent activity to provide real time data for pest control operators to conduct targeted pest control measures.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

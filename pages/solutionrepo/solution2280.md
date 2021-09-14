@@ -1,5 +1,5 @@
 ---
-title: INNOCOM - ASSEMBLE-PROJECT - 1 YEAR 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2280
 ---
 
@@ -10,9 +10,12 @@ Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <
 
 Assemble Systems provides a SaaS platform that consumes BIM models, drawings, and point clouds enabling construction professionals to condition, query, and connect the data to key workflows.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_1.pdf' target='_blank'>INNOCOM - ASSEMBLE-PROJECT - 1 YEAR </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_2.pdf' target='_blank'>INNOCOM - ASSEMBLE-PROJECT - 3 YEARS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_3.pdf' target='_blank'>INNOCOM - ASSEMBLE-OFFICE -1 YEAR</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/INNOCOM_20210023_Desensitised_Annex_3_Part_4.pdf' target='_blank'>INNOCOM - ASSEMBLE-OFFICE -3 YEARS</a>
 
 ### Eligibility Criteria
 

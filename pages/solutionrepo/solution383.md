@@ -1,5 +1,5 @@
 ---
-title: 2020 QuickHR Version 9 - Cloud HRMS - Essential 25
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution383
 ---
 
@@ -10,9 +10,13 @@ Enable Business Pte Ltd<br>www.quickhr.co<br>Email: business@quickhr.co<br>Tel: 
 
 QuickHR offers cutting-edge cloud-based HRMS solutions to SMEs in dire need of business process automation. Our award-winning HR platform covers all aspects of Human Asset Management, Workforce Management and Human Strategic Development. We are securely hosted on Amazon Web Services are fully compliant with local labour, taxation and data protection laws.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_1.pdf' target='_blank'>2020 QuickHR Version 9 - Cloud HRMS - Essential 25</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_2.pdf' target='_blank'>2020 QuickHR Version 9 - Cloud HRMS - Enhanced 50</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_3.pdf' target='_blank'>2020 QuickHR Version 9 - Cloud HRMS - Enhanced 100</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_4.pdf' target='_blank'>2020 QuickHR Version 9 - Cloud HRMS - Enterprise 150</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Enable_Business_20200084_Annex_3_20200625145618_Part_5.pdf' target='_blank'>2020 QuickHR Version 9 - Cloud HRMS - Enterprise 200</a>
 
 ### Eligibility Criteria
 

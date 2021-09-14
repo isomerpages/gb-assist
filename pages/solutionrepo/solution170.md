@@ -1,5 +1,5 @@
 ---
-title: Walk behind cleaner/scrubber
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution170
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The equipment is operated by 1 operator to provide consistent cleaning performance.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

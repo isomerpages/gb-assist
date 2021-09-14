@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software - Aba Xero Accounting solution - Starter
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1163
 ---
 
@@ -10,9 +10,13 @@ Company Name:Abundant Accounting Pte Ltd  <br>Web URL: www.aba.com.sg <br>Cont
 
 Xero solution which is a cloud based solution which enable businesses to work from home and enhance processes from purchase order, sales quotation, invoices and e-peppol invoices , inventory tracking to accounting and GST reporting
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Aba Xero Accounting solution - Starter</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_2.pdf' target='_blank'>Xero Cloud Accounting Software - Aba Xero Accounting Solution - Essential</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Aba Xero Accounting Solution - Premium</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Xero Accounting Solution - Inventory</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Abundant_Accounting_20200324_Annex_3_Part_5.pdf' target='_blank'>Xero Cloud Accounting Software - Xero Accounting Solution _Enterprise</a>
 
 ### Eligibility Criteria
 

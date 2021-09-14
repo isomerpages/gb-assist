@@ -1,5 +1,5 @@
 ---
-title: Xero Accounting software - Subscription Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2182
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.xero.com <br>Contact Hotline: 63104961 <br>Contact Email: enquiry
 
 Xero is cloud based accounting solution designed for small businesses. Users can access Xero via mobile app and web-browser on desktop & smartphone anytime and anywhere.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Xero Accounting software - Subscription Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Xero Accounting software - Standard Starter Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Xero Accounting software - Grow Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Xero Accounting software - Premium Starter Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/PerfectenCorporate20200832_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Xero Accounting software - Premium Package</a>
 
 ### Eligibility Criteria
 

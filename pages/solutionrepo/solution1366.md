@@ -1,5 +1,5 @@
 ---
-title: EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - SINGLE USER
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1366
 ---
 
@@ -10,9 +10,13 @@ Company Name:USER BASIC SOFTWARE PTE LTD <br>Web URL: www.userbasicsoftware.com
 
 EZ Accounting and Inventory Management System started since 1999 developed by EZ Accounting based in Singapore. It is able to generate all accounting reporting such as Profit and Loss, GST report, project reporting and also full set of Inventory Management System to compute stock costing and location stock details.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_1.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - SINGLE USER</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_2.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 3 USERS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_3.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING PREMIER v10.1 - 5 USERS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_4.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE v10.1 - UNLIMITED USERS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_User_Basic_Software_20200500_Annex_3_Part_5.pdf' target='_blank'>EZ Accounting and Inventory Software - EZ ACCOUNTING ENTERPRISE PLUS v10.1 - UNLIMITED USERS</a>
 
 ### Eligibility Criteria
 

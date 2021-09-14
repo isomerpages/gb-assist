@@ -1,5 +1,5 @@
 ---
-title: SAP BUSINESS ONE V10 - 5 Perpetual users SQL on Cloud
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1773
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.twm.com.sg <br>Contact Hotline: 67419198 <br>Contact Email: sales
 
 SAP Business One is an integrated business management application. It offers a complete set of core functions, including financials, customer relationship management, inventory management, sales, purchasing, operations, and logistics, which address the business management needs of your entire company. It helps businesses like yours manage the entire process of selling and servicing clients, and once orders are taken, they flow directly into automated fulfillment.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_1.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Perpetual users SQL on Cloud</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_2.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Perpetual Starter users SQL on Cloud</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_3.pdf' target='_blank'>SAP BUSINESS ONE V10 - 3 Perpetual users Hana on Cloud</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_4.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Perpetual users Hana on Cloud</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_World_Management_20200494_Annex_3_Part_5.pdf' target='_blank'>SAP BUSINESS ONE V10 - 5 Subscription users Hana on Cloud</a>
 
 ### Eligibility Criteria
 

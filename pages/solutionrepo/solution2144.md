@@ -1,5 +1,5 @@
 ---
-title: Hi-jack Cleaning Machinery
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2144
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Hi-jack cleaning machine for sterilisation and cleaning of production facilities
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

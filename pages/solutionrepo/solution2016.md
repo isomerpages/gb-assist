@@ -1,5 +1,5 @@
 ---
-title: Termite Detector
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2016
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The termite detector is equipped with a scanner and/or consists of sensor(s) to detect, track and confirm the termite infestation area. The device can capture data during site visits for follow up and review. System includes software application for traceability to generate reports for users.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

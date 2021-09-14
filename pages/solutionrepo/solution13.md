@@ -1,5 +1,5 @@
 ---
-title: ABSS Premier V23 Version 23 - Package A with E-Invoicing (1 User)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution13
 ---
 
@@ -10,9 +10,13 @@ permalink: /productivity-solutions-grant/solutionrepo/solution13
 
 ABSS Premier provides advanced inventory, and business management capabilities to medium-sized companies. Process foreign currency transactions, GST submissions and analyse your business accurately. You can manage even the most complex business with ease using the multi-user ABSS Premier.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_1.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package A with E-Invoicing (1 User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_2.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package B with E-Invoicing (3 User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_3.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package C with E-Invoicing and setup (1 User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_4.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package D with E-Invoicing, Setup and Training (3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised361DegreeConsultancy_Annex_3_wef14Jan21_Part_5.pdf' target='_blank'>ABSS Premier V23 Version 23 - Package E with E-Invoicing, Setup, Training and Cloud Terminal (3 Users)</a>
 
 ### Eligibility Criteria
 

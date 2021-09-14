@@ -1,5 +1,5 @@
 ---
-title: Accounts101 - Xero Cloud Accounting Software - Package A (Premium)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2084
 ---
 
@@ -10,9 +10,11 @@ Company Name: Accounts101 Pte Ltd<br>Web URL: https://accounts101.com.sg/<br>Con
 
 Xero offers a cloud-based accounting software platform for small and medium-sized businesses. Its key features include automatic bank feeds, invoicing, accounts payable, expense claims, fixed asset depreciation, purchase orders, bank reconciliations, and standard business and management reporting. Xero has more than 200 secure connections with banks and financial service partners around the world.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_1.pdf' target='_blank'>Accounts101 - Xero Cloud Accounting Software - Package A (Premium)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_2.pdf' target='_blank'>Accounts101 - Xero Cloud Accounting Software - Package B (Premium w/ Fixed Asset)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Accounts101_Annex_3_Part_3.pdf' target='_blank'>Accounts101 - Xero Cloud Accounting Software - Package C(Premium w/ Fixed Asset & Inventory)</a>
 
 ### Eligibility Criteria
 

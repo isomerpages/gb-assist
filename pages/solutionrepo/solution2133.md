@@ -1,5 +1,5 @@
 ---
-title: Conveyor System for transporting materials
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2133
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A conveyor system that automates farming processes which includes production, feeding, post-harvesting, packing, etc.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: NMTODOO - ERP  - Package Premium
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution657
 ---
 
@@ -10,10 +10,8 @@ Neu Media Technology LLP<br>www.neumediatechnology.com<br>Email: info@neumediate
 
 NMTODOO is a comprehensive, integrated, cloud-based CRM, Sales and Accounting Management System. Registered on the IRAS Accounting Software Register (ASR), the solution provides the essential features for Small to Medium Enterprise to manage sales, customer relations, and financial accounting.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Neu_Media_Technology_LLP_20200127_Annex_3_20200625143944_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

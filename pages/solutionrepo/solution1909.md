@@ -1,5 +1,5 @@
 ---
-title: Auk Edge IoT Device and Auk Industrial IoT Analytics Platform - Pilot Kit - 36mths
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1909
 ---
 
@@ -8,11 +8,10 @@ Web URL: https://auk.industries <br>Contact Hotline: 68163655 <br>Contact Emai
 
 ### Description
 
-Auk Industries is a disruptive end-to-end technology provider for Industrial IoT. Analogous to "Fitbit-for- machines", our cost-effective universal IoT devices can be quickly deployed in minutes onto a diverse range of industrial machines to stream vital machine stats to the secured cloud platform in real-time, making ops data available to users anytime on dashboards, computers or mobile devices.
+Auk Industries is a disruptive end-to-end technology provider for Industrial IoT. Analogous to Fitbit-for- machines, our cost-effective universal IoT devices can be quickly deployed in minutes onto a diverse range of industrial machines to stream vital machine stats to the secured cloud platform in real-time, making ops data available to users anytime on dashboards, computers or mobile devices.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AUK_20200866_Desensitised_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

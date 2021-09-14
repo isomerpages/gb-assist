@@ -1,5 +1,5 @@
 ---
-title: Digital Welding Equipment 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1293
 ---
 
@@ -8,14 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Consists of digital welding machines (hardware) and management software:
-- Compute actual real-time output of voltage, reducing manual recording and computing
-- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant 
-- Provide data logging to track welders' performance/ productivity
-- Monitor power consumption and consumables
-- User can pre-set/control welding parameters and optimise voltage applied
+Consists of digital welding machines (hardware) and management software- Compute actual real-time output of voltage, reducing manual recording and computing- Allow real-time monitoring of multiple weld stations to ensure welding works are compliant - Provide data logging to track welders' performance/ productivity- Monitor power consumption and consumables- User can pre-set/control welding parameters and optimise voltage applied
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

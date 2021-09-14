@@ -1,5 +1,5 @@
 ---
-title: Frontier e-HR Version 8 - AutomateHR eFrontier 25
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution411
 ---
 
@@ -10,10 +10,8 @@ Frontier e-HR Pte Ltd<br>https://www.frontier-ehr.com/<br>Email: enquiry@frontie
 
 Frontier e-HR is a user friendly cloud based Human Resource Management System ( HRMS ) with robust functionality, scalable architecture and seamless integration between each module. The system enhances the users experience through an intuitive, simple and effective user interface. Through a single application, single database deployment, users are empowered to perform self-service functions with Frontier e-HR  anytime, anywhere.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Frontier_e-HR_20200001_Annex_3_20200625142813_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

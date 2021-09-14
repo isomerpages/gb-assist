@@ -1,5 +1,5 @@
 ---
-title: TRENDMICRO ENDPOINT PROTECTION - Trend Micro Worry Free Protection -50 Licences
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2258
 ---
 
@@ -8,12 +8,10 @@ Web URL: https://innocomholding.com/psg-grant/ <br>Contact Hotline: 66035438 <
 
 ### Description
 
-Endpoint Security
-Secures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks
+Endpoint SecuritySecures Windows (desktops and servers), Mac, iOS, and Android devices by infusing high-fidelity machine learning into a blend of threat protection techniques for the broadest protection against ransomware and advanced attacks
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/InnocomTrendmicro20200707_Desensitised_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

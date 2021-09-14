@@ -1,5 +1,5 @@
 ---
-title: Psoft Accounting Systems - Package (Cloud-Based Single User)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution727
 ---
 
@@ -10,9 +10,13 @@ Psoft Pte. Ltd.<br>http://www.psoftaccounting.com<br>Email: psoft@singnet.com.sg
 
 Our company specializes in business software applications ie selling Psoft Accounting software for SME in Singapore to help them keep up to date bookkeeping for their company whereby they can have a clear and full picture of their company financial health. Our software also helps the SME company to keep track of the company inventory stock and to maintain their inventory stock balance and goods flow. All these to help SME company to perform better.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_1.pdf' target='_blank'>Psoft Accounting Systems - Package (Cloud-Based Single User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_2.pdf' target='_blank'>Psoft Accounting Systems - Package (Cloud-Based Three Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_3.pdf' target='_blank'>Psoft Accounting Systems - Package (Cloud-Based Five Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_4.pdf' target='_blank'>Psoft Accounting Systems - Package (Web-Based Single User with PEPPOL)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Psoft_20200218_Annex_3_20200625145836_Part_5.pdf' target='_blank'>Psoft Accounting Systems - Package (Web-Based Three Users with PEPPOL)</a>
 
 ### Eligibility Criteria
 

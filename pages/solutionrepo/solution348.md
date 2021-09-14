@@ -1,5 +1,5 @@
 ---
-title: SAGE 300 Version 2019/2020 - Sage 300 v2019/2020 - Package (Advanced Edition - 7 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution348
 ---
 
@@ -10,12 +10,8 @@ Databit Pte Ltd<br>https://www.databit.com.sg<br>Email: sales@databit.com.sg<br>
 
 Sage 300 accounting software is widely used by small and medium-sized businesses across various industries worldwide. Sage 300 key strength lies in sales, marketing, customer service, inventory, barcoding, warehousing, manufacturing, retail, e-commerce and robust business intelligence tools to provide real-time key performance indicator (KPI) dashboards.
 
+### Packages Available
 
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Databit_20190015_Annex_3_20200625142031_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

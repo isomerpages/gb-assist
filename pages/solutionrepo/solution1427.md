@@ -1,5 +1,5 @@
 ---
-title: Simplr Warehouse Management and Simplr Sales Management Version 6-On Premise (5 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1427
 ---
 
@@ -10,9 +10,12 @@ Web URL: https://simplr.net/solutions/ <br>Contact Hotline: 93801127 <br>Conta
 
 Simplr is an easy-to-use, intuitive mobility solution for distribution management, distributor management and warehouse management. The comprehensive field sales-force automation solution optimises productivity, efficiency and provide management with real-time information and visibility in the sales distribution. The solution integrates your distribution network with data capture at every node to optimise resource utilization and provide a macro view of the supply chain.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_1.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-On Premise (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_2.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_3.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_SIMPLR_20200181_Annex_3_Part_4.pdf' target='_blank'>Simplr Warehouse Management and Simplr Sales Management Version 6-Cloud Model (8 Users)</a>
 
 ### Eligibility Criteria
 

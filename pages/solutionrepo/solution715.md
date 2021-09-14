@@ -1,5 +1,5 @@
 ---
-title: PixelCommerce Version 5.2.5-Essentials
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution715
 ---
 
@@ -10,9 +10,13 @@ Company Name:PIXEL MECHANICS PTE LTD <br>Web URL: https://pixelmechanics.com.sg
 
 PixelCommerce is a complete e-Store solution that enables SMEs to boost business presence, enhance customer experience, influence purchase decisions, and ultimately increasing productivity and revenue.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_1.pdf' target='_blank'>PixelCommerce Version 5.2.5-Essentials</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_2.pdf' target='_blank'>PixelCommerce Version 5.2.5-Extended</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_3.pdf' target='_blank'>PixelCommerce Version 5.2.5-AI</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_4.pdf' target='_blank'>PixelCommerce Version 5.2.5-AI Advanced</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedPIXELMECHANICSPTELTDCRwef8April2021_Part_5.pdf' target='_blank'>PixelCommerce Version 5.2.5-Ultimate</a>
 
 ### Eligibility Criteria
 

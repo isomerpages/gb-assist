@@ -1,5 +1,5 @@
 ---
-title: Athena E-store Solution-Athena E Store Lite Version
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2293
 ---
 
@@ -10,9 +10,10 @@ Web URL: http://cleverly.sg/athena-e-store-solution/ <br>Contact Hotline: 90678
 
 Athena E-store is an e-commerce solution by Cleverly that makes having an online business a breeze. Businesses are able to easily transition into the digital marketplace and take their business to the next level by going online using the Athena E-store simple interface. The Athena e-store also allows business owners to easily and effectively launch their own e-store without having to privately hire and work with graphic designers and coders, which may be expensive.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Athena E-store Solution-Athena E Store Lite Version</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Cleverly_20210095_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Athena E-store Solution-Athena E Store Solution</a>
 
 ### Eligibility Criteria
 

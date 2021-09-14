@@ -1,5 +1,5 @@
 ---
-title: Laser Geometric Alignment System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1151
 ---
 
@@ -8,11 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-In the M&O industry, geometric alignment and measurement are needed in many applications such as shaft alignment, line bore applications, flatness/ straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straightedge or use of dial indicators, which are inaccurate and time consuming.
+In the M&O industry, geometric alignment and measurement are needed in many applications such as shaft alignment, line bore applications, flatness/ straightness measurement and machine tool alignment. Traditional alignment methods include visual inspection combined with a straightedge or use of dial indicators, which are inaccurate and time consuming.Laser geometric alignment systems are quick and easy to deploy, and accurate results can be consistently obtained with minimal rework.
 
-Laser geometric alignment systems are quick and easy to deploy, and accurate results can be consistently obtained with minimal rework.  
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

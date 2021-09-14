@@ -1,5 +1,5 @@
 ---
-title: iCoreSpec - Single User (One Package)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1759
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.inpqs.com <br>Contact Hotline: 62260881 <br>Contact Email: sales@
 
 The solution is a cloud-based, common digital platform - the Intelligent National Productivity and Quality Specifications (iNPQS) - that comes with standard project specifications for users to adapt and customise for building projects. The standard project specifications will save time for firms composing building specifications and the use of the platform will allow for easy access to project information anytime, anywhere.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_1.pdf' target='_blank'>iCoreSpec - Single User (One Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_2.pdf' target='_blank'>iCoreSpec - Single User (Full Suite)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_3.pdf' target='_blank'>iCoreSpec - Corporate User (C1 - 5 Users One Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_4.pdf' target='_blank'>iCoreSpec - Corporate User (C1 - 5 Users Full Suite)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_iNPQS_Annex_3_Part_5.pdf' target='_blank'>iCoreSpec - Corporate User (C2 - 10 Users One Package)</a>
 
 ### Eligibility Criteria
 

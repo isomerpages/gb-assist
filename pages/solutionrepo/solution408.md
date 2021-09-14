@@ -1,5 +1,5 @@
 ---
-title: Combi Oven
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution408
 ---
 
@@ -8,13 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. 
+Combi oven can be programmed for convection, steam and combination cooking. Multi-functional cooking methods has a small footprint and can be used by F&B companies to cook and re-heat wide variety of food. Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.Grant support 80% of cost of equipment, up to $30,000 grant
 
-Reduce kitchen workload as food can be cooked quickly with pre-set temperature, moisture and cooking time. Monitor browning and degree of doneness, reducing the need for repeated turning of pan-fried dishes.
-
-Grant support: 80% of cost of equipment, up to $30,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

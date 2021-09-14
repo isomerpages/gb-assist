@@ -1,5 +1,5 @@
 ---
-title: Battery pack vacuum cleaner
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution36
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Cordless vacuum cleaner with battery pack in carrying frame (i.e. back pack) for cleaning work in the confined spaces. The equipment should enable continuous cleaning of floors/carpets for at least 30 mins per full charge.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

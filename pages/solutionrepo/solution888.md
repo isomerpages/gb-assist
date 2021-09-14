@@ -1,5 +1,5 @@
 ---
-title: Times Software HRMS Version 18.0 - Cloud Based Package 4 (up to 150 pax)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution888
 ---
 
@@ -8,11 +8,10 @@ Times Software Pte Ltd<br>https://www.timesoftsg.com.sg/<br>Email: sales@timesof
 
 ### Description
 
-TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management. 
+TIMES SOFTWARE HRMS is a web and mobile based integrated Payroll and Human Resource Management System that provides core HR functions like payroll, employee management, leave management, claims management, attendance management and performance appraisal management.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Times_Software_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

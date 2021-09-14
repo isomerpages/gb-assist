@@ -1,5 +1,5 @@
 ---
-title: Managed Firewall - Sophos XG 125 EnterpriseGuard with Enhanced Support - 12 Months 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2262
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.netpluz.asia <br>Contact Hotline: 68058998 <br>Contact Email: con
 
 Sophos XG Firewall brings a fresh new approach to the way you manage your firewall, respond to threats, and monitor what is happening on your network.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Managed Firewall - Sophos XG 125 EnterpriseGuard with Enhanced Support - 12 Months </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Managed Firewall - Sophos XG 135 EnterpriseGuard with Enhanced Support - 12 Months </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Managed Firewall - Sophos XG 210 EnterpriseGuard with Enhanced Support - 12 Months </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Managed Firewall - Sophos XG 230 EnterpriseGuard with Enhanced Support - 12 Months </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/NetpluzAsia20200470_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Managed Firewall - Sophos XG 310 EnterpriseGuard with Enhanced Support - 12 Months </a>
 
 ### Eligibility Criteria
 

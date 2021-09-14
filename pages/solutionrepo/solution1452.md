@@ -1,5 +1,5 @@
 ---
-title: OpenCart E-Commerce Website Deployment - eCommerce Enterprise
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1452
 ---
 
@@ -10,9 +10,10 @@ Web URL: www.equotix.com/web-development <br>Contact Hotline: 68022697 <br>Con
 
 OpenCart is the world's top three open source e-commerce software. It has everything needed to create, scale and run a business. Equotix is OpenCart's sole partner based in Singapore. Equotix assist companies in customising and deploying their own OpenCart e-commerce website on the cloud. It is simple to use and cost friendly to businesses.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_1.pdf' target='_blank'>OpenCart E-Commerce Website Deployment - eCommerce Enterprise</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Equotix_20200581_Annex_3_Part_2.pdf' target='_blank'>OpenCart E-Commerce Website Deployment - eCommerce Revamp</a>
 
 ### Eligibility Criteria
 

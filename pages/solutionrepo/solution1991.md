@@ -1,5 +1,5 @@
 ---
-title: Automatic Flow Wrap Packaging Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1991
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Flow Wrapping, or Horizontal Form-Fill and Seal (HFFS) is the process of making a horizontal bag from a single roll of film. Heat is applied to the ends of the film to form a sealed package. The equipment is widely used in the fresh produce sector as it ensures the products are wrapped securely based on the size and shape of the product or tray.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: Creative Eshop - Package (Lite)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution322
 ---
 
@@ -10,9 +10,12 @@ Company Name: Creative eWorld Pte Ltd<br>Web URL: www.creaworld.com.sg<br>Contac
 
 Creative eShop is e-commerce platform which enable users to manage their online content, business transaction, marketing outreach to potential customers with optimal shopping experience. Equipped with a user friendly interface, user can easily utilise the platform without much IT knowledge.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_1.pdf' target='_blank'>Creative Eshop - Package (Lite)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_2.pdf' target='_blank'>Creative Eshop  - Package (Standard)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_3.pdf' target='_blank'>Creative Eshop - Package (Pro)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_E-World_Annex 3_Wef_1_March_2021_Part_4.pdf' target='_blank'>Creative Eshop - Package (Premium)</a>
 
 ### Eligibility Criteria
 

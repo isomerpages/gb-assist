@@ -1,5 +1,5 @@
 ---
-title: InSight QSE - Insight  QSE Safety PTW System (Starter)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution282
 ---
 
@@ -10,9 +10,11 @@ Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Te
 
 Insight QSE Safety PTW System alleviates the current paper-based method of routing PTWs for approvals which is time-consuming and an administrative headache to store all paper-based PTWs properly for accountability and checks. The System will help to establish Control, Coordination and Communication for PTW applications among the participating stakeholders through both web and mobile application.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_1.pdf' target='_blank'>InSight QSE - Insight  QSE Safety PTW System (Starter)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_2.pdf' target='_blank'>InSight QSE - Insight  QSE Safety PTW System (Premium)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_Insight_QSE 20200171_Annex_3_20200625152322_Part_3.pdf' target='_blank'>InSight QSE - Insight QSE Safety PTW System (Enterprise)</a>
 
 ### Eligibility Criteria
 

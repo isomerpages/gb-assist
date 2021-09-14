@@ -1,5 +1,5 @@
 ---
-title: Integrated Back Of House Solution for Restaurant Version 1 - Package A (Small Cafe (E-waiter for 1 User, CRM & KDS Lite for 1 User))
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution836
 ---
 
@@ -10,9 +10,11 @@ Supply Ellie Pte Ltd<br>www.supplyellie.com<br>Email: davidang@supplyellie.com<b
 
 The system aims to streamline the front-end, back-end kitchen preparation process and integrate the supply ordering of the establishment to boast productivity and reduce cost.  Most of such supply ordering is still done manually where manager is required to make orders through phone calls or emails.The integration of the POS, kitchen display systems will enable the restaurant to resolve the pain point at each station and allows them to exchange information seamlessly.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_1.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package A (Small Cafe (E-waiter for 1 User, CRM & KDS Lite for 1 User))</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_2.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package B (Medium Restaurant  (E-waiter for 2 Users, CRM & KDS Lite for 3 Users))</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Supply_Ellie_20200086_Annex_3_20200625145949_Part_4.pdf' target='_blank'>Integrated Back Of House Solution for Restaurant Version 1 - Package D (Small Cafe (E-waiter, CRM & Kitchen Printer for 1 User))</a>
 
 ### Eligibility Criteria
 

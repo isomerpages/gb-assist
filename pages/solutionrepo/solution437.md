@@ -1,5 +1,5 @@
 ---
-title: Getz F&B Integrated Instore Transformation Version 2 - Package C (Instore Transformation Only - 2 Mods)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution437
 ---
 
@@ -8,19 +8,10 @@ Company Name:Getz Group Pte Ltd <br>Web URL:http://www.getz.co/ <br>Contact Hotl
 
 ### Description
 
-Instant cost savings (up to 80%) and sales growth (up to 50%) platform for all F&Bs (Quick Service, Full Service, Kiosk, Catering) across in-store and out-of-store channels.
+Instant cost savings (up to 80%) and sales growth (up to 50%) platform for all F&Bs (Quick Service, Full Service, Kiosk, Catering) across in-store and out-of-store channels.Full Integrated solution that can also be used individually without changing POS1) In-store Self-ordering and Reservation2) Out-of-store Advance Takeaway3) Out-of-store Island-wide Delivery4) Integrated Membership Solution (All Channels)5) Integrated Payment Solution (All Channels)6) Integrated POS System
 
-Full Integrated solution that can also be used individually without changing POS:
-1) In-store Self-ordering and Reservation
-2) Out-of-store Advance Takeaway
-3) Out-of-store Island-wide Delivery
-4) Integrated Membership Solution (All Channels)
-5) Integrated Payment Solution (All Channels)
-6) Integrated POS System
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Getz_Group_Annex_3-CR_wef_10_Sept_2020.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

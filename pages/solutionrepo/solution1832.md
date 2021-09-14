@@ -1,5 +1,5 @@
 ---
-title: Job Redesign Consultancy - Mercer (Singapore) Pte Ltd
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1832
 ---
 
@@ -10,9 +10,9 @@ Contact Information<br><br>Company Name: Mercer (Singapore) Pte Ltd<br>Web URL: 
 
 Mercer is a pioneer of Job Redesign, having delivered over 20 Job Redesign projects since 2016. We have led sector-wide Job Redesign efforts for retailers, hotels, and healthcare operators, working together with both large MNCs and local firms. In these projects, we improved the way work is done for our clients by facilitating new technology implementation, business process optimization, and ultimately redesigning and uplifting jobs to improve business productivity and talent attraction.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/CaseStudiesbyMercer(Singapore)PteLtd.pdf' target='_blank'>Job Redesign Consultancy - Mercer (Singapore) Pte Ltd</a>
 
 ### Sector Specialisation
 
@@ -45,3 +45,4 @@ Up to 80% for non-SMEs
 ### Things to Note
 Additional criteria: All participating companies must have at least three local employees at the point of application
 
+Interested companies can get a quotation from your selected vendor, before applying for the PSG through the <a target='_blank' href='https://www.businessgrants.gov.sg/'>Business Grant Portal (BGP)</a>.

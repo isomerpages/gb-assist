@@ -1,5 +1,5 @@
 ---
-title: Outdoor road sweeper
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution181
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The outdoor road sweeper that is able to provide efficient cleaning of the public roads, site roads, expressways, etc., with only one operator. 
+The outdoor road sweeper that is able to provide efficient cleaning of the public roads, site roads, expressways, etc., with only one operator.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

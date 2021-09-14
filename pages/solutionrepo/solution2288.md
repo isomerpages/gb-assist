@@ -1,5 +1,5 @@
 ---
-title: Really Platform for PMs and FMs Version 2.4-Individual Property or Project Packaged Solution
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2288
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://www.really.sg/project-management-features/ <br>Contact Hotline
 
 Really provides the state-of-the-art platform that helps property & facilities managers, landlords & tenants to digitise the way how properties are managed. Really is a single platform that starts at raising requests, managing tasks, tender management with over 6,000 Singapore based SMEs, contract, invoice & payment management. You save 50% of time when managing tasks & tenders. Clients achieve cost savings of 40% & increased quality with transparent & competitive tenders.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Individual Property or Project Packaged Solution</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Small Property or Project Packaged Solution (portfolio of 2 - 10 properties or projects)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Medium Property or Project Packaged Solution (portfolio of 11 - 50 properties or projects)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Large Property or Project Packaged Solution (portfolio of 51 - 90 properties or projects)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Really_20200287_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Really Platform for PMs and FMs Version 2.4-Very Large Property or Project Packaged Solution (portfolio of 91 up to 150 properties or projects)</a>
 
 ### Eligibility Criteria
 

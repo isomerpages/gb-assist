@@ -1,5 +1,5 @@
 ---
-title: Vehicle Support System - Vehicle Support System (12 Vehicles Package)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1311
 ---
 
@@ -10,9 +10,13 @@ Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Ho
 
 VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning system for Vehicle Tracking System that stream live location with video and much more. Video cameras installed on 2 sides of the vehicle, the system is able to monitor and record the vehicle front and back in a real-time basis. Providing an enhanced visibility for blind spot in accident prevention. Video footage and GPS data is stored on MDVR/Cloud based for ease of viewing, retrieving and playback.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_1.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (12 Vehicles Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_2.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (14 Vehicles Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_3.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (16 Vehicles Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_4.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (18 Vehicles Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200672_Annex_3_Part_5.pdf' target='_blank'>Vehicle Support System - Vehicle Support System (20 Vehicles Package)</a>
 
 ### Eligibility Criteria
 

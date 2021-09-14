@@ -1,5 +1,5 @@
 ---
-title: Smart Estate Management System - Contractors Pack
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1649
 ---
 
@@ -10,9 +10,12 @@ Web URL: www.combuilder.com.sg <br>Contact Hotline: 63238100 <br>Contact Email: 
 
 SEMS Smart FM solution enables organizations to manage their estate(s) at ease. It is designed to help save time & money by managing workflows intelligently across their estate(s)/buildings thus processes become efficient & effective. SEMS enables contractors/officers to perform ongoing maintenance and repair, including asset management, contractor/workers management, service fulfilment and scheduling. It empowers FM teams to adequately track job status and analyse working patterns over time.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_1.pdf' target='_blank'>Smart Estate Management System - Contractors Pack</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_2.pdf' target='_blank'>Smart Estate Management System - TC Term Contractor Pack</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_3.pdf' target='_blank'>Smart Estate Management System - Single Estate Pack</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Densitised_Combuilder_20200232_Annex_3_Part_4.pdf' target='_blank'>Smart Estate Management System - Multi Estate Pack</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Ethylene Removal System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2006
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 An equipment which eliminates ethylene gas in the air effectively. Ethylene that is released naturally can be continuously removed by the equipment. No amount of harmful substance (e.g. ozone) should be released as a result of removing the ethylene. Equipment is to be used in cold storage warehouses and production facilities for the purpose of extending the shelf life of fresh produce.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

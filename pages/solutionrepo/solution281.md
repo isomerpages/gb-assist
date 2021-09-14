@@ -1,5 +1,5 @@
 ---
-title: Industrial Steam Cleaner
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution281
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The industrial steam cleaner generates high steam pressures for continuous removal of dirt and grease cleaning. The equipment is to be an eco-friendly by cleaning through steam pressure without any use of chemicals and is not to be harmful to the user or the environment.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

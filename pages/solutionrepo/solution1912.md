@@ -1,5 +1,5 @@
 ---
-title: Fortinet Fortigate (Next Generation Firewall) - 60F with 1 Year Onsite support for quarterly firmware update
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1912
 ---
 
@@ -10,9 +10,13 @@ Web URL: WWW.AWECREATION.COM <br>Contact Hotline: 66319770 <br>Contact Email: SA
 
 AWECREATION PTE LTD is an authorized Managed Service Provider for Fortinet FortiGate Next-generation firewalls (NGFW) to build the Cyber Security for SMEs. With the continual work from home arrangement and constantly evolving Cyber security facing the SMEs IT setup and work from home employees, Fortinet is well positioned for SMEs needs as a leader in Gartner Magic Quadrant for Network Firewalls.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 60F with 1 Year Onsite support for quarterly firmware update</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_2.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 100F</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_3.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 100F with 1 Year Onsite support for quarterly firmware update</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_4.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 200E</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAwecreation_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>Fortinet Fortigate (Next Generation Firewall) - 200E with 1 Year Onsite support for quarterly firmware update</a>
 
 ### Eligibility Criteria
 

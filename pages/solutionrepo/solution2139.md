@@ -1,5 +1,5 @@
 ---
-title: Egg Grading and Inspection System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2139
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Egg grader machine also called egg sorter machine where the eggs are divided into several grades according to weight. Egg sorting can be connected with to egg testing, egg washing, egg ink jet printer, egg packing device, etc. 
+Egg grader machine also called egg sorter machine where the eggs are divided into several grades according to weight. Egg sorting can be connected with to egg testing, egg washing, egg ink jet printer, egg packing device, etc.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

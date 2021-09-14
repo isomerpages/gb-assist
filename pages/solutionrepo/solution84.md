@@ -1,5 +1,5 @@
 ---
-title: Ozonised Water Sterilisation System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution84
 ---
 
@@ -8,12 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-An equipment which produces ozonised water for cleaning purposes and can eliminate pollutants such as bacteria, viruses, mould, grease particles and odour. Equipment will eliminate the use of hot water and reduce chemical usage for effective sanitation. 
+An equipment which produces ozonised water for cleaning purposes and can eliminate pollutants such as bacteria, viruses, mould, grease particles and odour. Equipment will eliminate the use of hot water and reduce chemical usage for effective sanitation. Grant support 80% of cost of equipment, up to $30,000 grantPurchase of pre-owned/used equipment not supportable
 
-Grant support: 80% of cost of equipment, up to $30,000 grant
-Purchase of pre-owned/used equipment not supportable
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

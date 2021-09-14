@@ -1,5 +1,5 @@
 ---
-title: Synergix - 3-in-1 ERP Solution (5 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2205
 ---
 
@@ -10,9 +10,10 @@ Web URL: www.synergixtech.com <br>Contact Hotline: 62755775 <br>Contact Email:
 
 Synergix Marine & Offshore Solution provides a unique level of integration across all your business units, enabling efficient information sharing for quick management decision making. This improves operational reliability and helps company to avoid expensive mistakes and downtime during any phase of project.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Synergix - 3-in-1 ERP Solution (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/SynergixTech20200785_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Synergix - 3-in-1 ERP Solution (10 Users)</a>
 
 ### Eligibility Criteria
 

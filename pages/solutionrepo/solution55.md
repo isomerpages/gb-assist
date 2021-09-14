@@ -1,5 +1,5 @@
 ---
-title: Handheld Mini 2-in-1 System (Vacuum and Scrubber)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution55
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Compact handheld 2-in-1 system which combines the high power and performance of a commercial scrubber with built-in water dispensing and vacuuming function. Equipment must be able to clean different types of hard floor and to be used in commercial or industrial premises.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

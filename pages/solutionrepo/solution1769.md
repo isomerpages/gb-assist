@@ -1,5 +1,5 @@
 ---
-title: Xero - Xero Basic Implementation (XBI)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1769
 ---
 
@@ -10,9 +10,12 @@ Web URL: https://www.accountingsuperhero.com/psg<br>Contact Hotline: 62940705 <b
 
 Xero is online accounting software that allows small businesses to work in real-time with their accountant or bookkeeper, and build a trusted relationship through online collaboration. Xero allows you and your team to connect with your clients and with the right information, anytime, anywhere. Xero also connects seamlessly with hundreds of other apps to become the basis of a complete business solution.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_1.pdf' target='_blank'>Xero - Xero Basic Implementation (XBI)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_2.pdf' target='_blank'>Xero - Xero Advanced Implementation (XAI)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_3.pdf' target='_blank'>Xero - Xero Premium Implementation (XPI)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_MFP_20200422_Annex_3_Part_4.pdf' target='_blank'>Xero - Xero Subscription Only (XSO)</a>
 
 ### Eligibility Criteria
 

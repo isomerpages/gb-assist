@@ -1,5 +1,5 @@
 ---
-title: Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Sapphire)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1249
 ---
 
@@ -10,9 +10,11 @@ Company Name:Verz Design Pte Ltd <br>Web URL: https://www.verzdesign.com/our-se
 
 Verz Design is one of the key and leading players when it comes to providing Magento/WooCommerce eCommerce solutions. Magento/WooCommerce offers a comprehensive backend with customisable plug-ins for your business. Highly suitable for companies with complex operations, Magento/WooCommerce is a robust application that showcases incredible functionality and is the most scalable among the three solutions.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_1.pdf' target='_blank'>Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Sapphire)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_2.pdf' target='_blank'>Magento and WooCommerce Solutions for Retail - Adobe Magento Ecommerce Version 2 by Verz Design (Emerald)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Verz_Design_20200370_Annex_3_Part_3.pdf' target='_blank'>Magento and WooCommerce Solutions for Retail - Advanced WooCommerce Ecommerce by Verz Design (Amber)</a>
 
 ### Eligibility Criteria
 

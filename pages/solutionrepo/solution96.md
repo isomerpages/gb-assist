@@ -1,5 +1,5 @@
 ---
-title: Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package A Moneyworks Gold - 1 User Software Only
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution96
 ---
 
@@ -10,9 +10,13 @@ Advanced Micro Control Pte Ltd<br>http://www.amc.com.sg<br>Email: Sales@amc.com.
 
 MoneyWorks was built from the ground up for the needs of business, finance and accounting professionals. A powerful, feature rich platform that unlocks your company's accounting data to help you run a better business. With Integration, Moneyworks connects to your POS, E-commerce and third party solutions to keep your accounting solutions lean yet scalable.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_1.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package A Moneyworks Gold - 1 User Software Only</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_2.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package B Moneyworks Gold - 1 User</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_3.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package C Moneyworks NOW (3 User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_4.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package D Moneyworks Datacentre (3 User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Advanced_Micro_Control _20190051_Annex_3_20200625145213_Part_5.pdf' target='_blank'>Moneyworks GOLD / Moneyworks Datacentre / Moneyworks NOW Version 8 - Package E Moneyworks Datacentre (5 User)</a>
 
 ### Eligibility Criteria
 

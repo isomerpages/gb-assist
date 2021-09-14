@@ -1,5 +1,5 @@
 ---
-title: FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (2 Vehicles)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution992
 ---
 
@@ -10,9 +10,13 @@ Company Name:FocusGuard Pte Ltd <br>Web URL: www.focusguard.com <br>Contact Ho
 
 FocusGuard Fleet Management System is designed as the process of controlling, monitoring and tracking all the vehicles. Locate vehicles using detailed maps round the clock. Access the web-based fleet management portal or Mobile App to view real time location and information of the vehicles and generate up-to-date reports.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_1.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (2 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_2.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (3 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_3.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (4 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_4.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (6 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Focusguard_20200185_Annex_3_Part_5.pdf' target='_blank'>FocusGuard FMS Version 2.0 - FocusGuard FMS Version 2.0 - Package (10 Vehicles)</a>
 
 ### Eligibility Criteria
 

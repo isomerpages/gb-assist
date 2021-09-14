@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Version 10.5-Advante Package A (Xero Standard Subscription Only)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2234
 ---
 
@@ -10,9 +10,13 @@ Company Name:Advante Consulting Pte Ltd <br>Web URL: https://www.advanteconsult
 
 Xero is a cloud-based accounting software platform for small and medium-sized businesses. Xero provides businesses with real-time visibility of their financial position and performance in a simple, smart and secure manner.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package A (Xero Standard Subscription Only)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_2.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package B (Xero Standard Basic Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_3.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package C (Xero Premium Basic Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package D (Xero Standard Full Package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedAdvanteAccountingAnnex3CRwef10June2021_Part_5.pdf' target='_blank'>Xero Cloud Accounting Version 10.5-Advante Package E (Xero Premium Full Package)</a>
 
 ### Eligibility Criteria
 

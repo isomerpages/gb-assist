@@ -1,5 +1,5 @@
 ---
-title: Intuit QBO - QUICKBOOKS ONLINE START-UP
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1698
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.tnbgo.com <br>Contact Hotline: 98580687 <br>Contact Email: enquirie
 
 We established in 2003 and provide one stop service company included software solution. We provide a complete range of accounting, secretarial, tax advisory, employment pass processing and more attractive business solutions service package. TnB is an accredited approved pro advisor by Quickbooks Intuit USA software.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_1.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE START-UP</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_2.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE  ESSENTIAL</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_3.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE  PREMIUM</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_4.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE  ENTERPRISE</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_TNB_GLOBAL_20200356_Annex_3_Part_5.pdf' target='_blank'>Intuit QBO - QUICKBOOKS ONLINE CUSTOMISED SYSTEM</a>
 
 ### Eligibility Criteria
 

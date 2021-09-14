@@ -1,5 +1,5 @@
 ---
-title: NetSuite - SuiteSuccess Financials First Standard Cloud Service 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1862
 ---
 
@@ -8,13 +8,10 @@ Web URL: www.netsuite.com.sg <br>Contact Hotline: +6562631300 <br>Contact Emai
 
 ### Description
 
-For more than 20 years, Oracle NetSuite has helped organizations grow, scale and adapt to change. NetSuite provides a suite of cloud-based applications, which includes financials / Enterprise Resource Planning (ERP), inventory management, HR, professional services automation and omnichannel commerce, used by more than 22,000 customers in 203 countries and dependent territories.
+For more than 20 years, Oracle NetSuite has helped organizations grow, scale and adapt to change. NetSuite provides a suite of cloud-based applications, which includes financials / Enterprise Resource Planning (ERP), inventory management, HR, professional services automation and omnichannel commerce, used by more than 22,000 customers in 203 countries and dependent territories.Learn more at https//www.netsuite.com.sg or via the NetSuite blog.
 
-Learn more at https://www.netsuite.com.sg or via the NetSuite blog.
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Oracle_20200153_Desensitised_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

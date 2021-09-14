@@ -1,5 +1,5 @@
 ---
-title: Absolute Payboy HRMS Version 1.0 - Package A (20 Employees)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution694
 ---
 
@@ -10,12 +10,8 @@ Payboy Pte. Ltd.<br>www.Payboy.biz<br>Email: nigel.lim@payboy.biz<br>Tel: +65 91
 
 Absolute Payboy is a cloud-based human resource management system that offers one-stop solution to SME's HR needs such as payroll processing, leave management, time tracking, scheduling and more.    The solution include mobile apps that allow SMEs to manage their employees anytime and anywhere from their mobile devices.
 
+### Packages Available
 
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Payboy_Annex_3_wef_4_May_2020_Part_1_.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: SMARTHRMS Version 1 - HRMS STANDARD PACKAGE A (50 Employees)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1352
 ---
 
@@ -10,9 +10,13 @@ Company Name:AVELOGIC PTE LTD <br>Web URL: www.avelogic.com <br>Contact Hotlin
 
 Administrator manage the company's HR requirements, payroll, schedule, Leave and Appraisal. Staff can go online to apply leave, submit claims and view their documents online. Appraisal system allows managers to quick appraise their staff online. Work Schedule module allows management to better manage and plan their manpower and monitor attendance of their staff real time. Update and complies to regulatory requirements.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_1.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS STANDARD PACKAGE A (50 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_2.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS STANDARD PACKAGE B (100 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_3.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE C (50 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_4.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE D (100 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Avelogic_20190043_Annex_3_Part_5.pdf' target='_blank'>SMARTHRMS Version 1 - HRMS PREMIUM PACKAGE E (150 Employees)</a>
 
 ### Eligibility Criteria
 

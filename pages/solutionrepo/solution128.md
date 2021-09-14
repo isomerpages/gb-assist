@@ -1,5 +1,5 @@
 ---
-title: Smart Waste Oil Collection System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution128
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The Smart Waste Oil Collection System, which is equipped with diagnostics, fill-level sensors and data management system, transports waste oil from the fryer to the waste oil containment tank with minimal human intervention. 
+The Smart Waste Oil Collection System, which is equipped with diagnostics, fill-level sensors and data management system, transports waste oil from the fryer to the waste oil containment tank with minimal human intervention.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

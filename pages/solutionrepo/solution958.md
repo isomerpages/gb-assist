@@ -1,5 +1,5 @@
 ---
-title: EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (2 Devices)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution958
 ---
 
@@ -10,9 +10,11 @@ Company Name:WINAPP SOLUTIONS PTE LTD <br>Web URL: WWW.WINAPP.COM.SG <br>Conta
 
 Winapp EzySalesOrder V 2.0  simplifies your organization, to do day to day operation from our Web and Mobile Application. Our solution reduces all manual efforts and data loss which increase Productivity by saving lots of time and operational cost. We offers fully integrated application for Wholesale and retail to help your business grow and succeed. Our powerful web and mobile app allow you to maintain full control over sales, purchase and inventory while presenting an easy user interface.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_1.pdf' target='_blank'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (2 Devices)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_2.pdf' target='_blank'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (5 Devices)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_WINAPP_20200264_Annex_3_Part_3.pdf' target='_blank'>EZYSALESORDER Version 2.0 - EzySalesOrder Version 2.0 - Package (10 Devices)</a>
 
 ### Eligibility Criteria
 

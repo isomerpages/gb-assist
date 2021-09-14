@@ -1,5 +1,5 @@
 ---
-title: Yumstone F&B Solutions Version 5.0 - Package 5 Mobile, Emenu, Kiosk, Qrcode and CRM
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1841
 ---
 
@@ -8,15 +8,10 @@ Web URL: www.yumstone.sg <br>Contact Hotline: 82226621 <br>Contact Email: sale
 
 ### Description
 
-The Essential F&B Management Solutions 
-Major Productivity Solutions:
-1.	Efficient streamlined manpower, cutting down on mistakes.
-2.	Effective audit to prevent loopholes and lock profits.
-3.	Able to generate different type of sales reports to understand the business sales statistics. The analytic data is able to help on business decisions.
+The Essential F&B Management Solutions Major Productivity Solutions1.	Efficient streamlined manpower, cutting down on mistakes.2.	Effective audit to prevent loopholes and lock profits.3.	Able to generate different type of sales reports to understand the business sales statistics. The analytic data is able to help on business decisions.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Yumstone_20200368_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

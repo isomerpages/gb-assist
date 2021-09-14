@@ -1,5 +1,5 @@
 ---
-title: iTrack Fleet Management Version 2.8.8-iTrack Fleet Management Package A (1 Vehicle)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution700
 ---
 
@@ -10,9 +10,13 @@ Company Name:Pivotal Pte Ltd <br>Web URL: www.itrack.com.sg <br>Contact Hotlin
 
 USA Fleet Solutions offers top fleet management hardware and software products to improve vehicle and asset tracking. GPS fleet tracking devices work with businesses and government entities that have fleets of vehicles and other mobile assets.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_1.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8-iTrack Fleet Management Package A (1 Vehicle)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_2.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package B (3 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_3.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package C (6 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_4.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package D (9 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_PIVOTAL_20200188_Annex_3_Part_5.pdf' target='_blank'>iTrack Fleet Management Version 2.8.8 -iTrack Fleet Management Package E (12 Vehicles)</a>
 
 ### Eligibility Criteria
 

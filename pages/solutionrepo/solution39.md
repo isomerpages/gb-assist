@@ -1,5 +1,5 @@
 ---
-title: Combi system (jetting & vacuum drain cleaning truck)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution39
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Equipment that is used to carry out high pressured jetting and suction functions during conservancy cleaning such as the cleaning of canals, pipes, drains and/or drop inlet chambers. System must be equipped with storage unit for dispensing of water for cleaning purposes and containment of waste water.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

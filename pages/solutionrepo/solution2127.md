@@ -1,5 +1,5 @@
 ---
-title: Automatic egg case labelling machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2127
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Egg pack printing system or pack labelling system which allow the user to fully customize their label.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

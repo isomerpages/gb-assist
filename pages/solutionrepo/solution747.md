@@ -1,5 +1,5 @@
 ---
-title: WESS - Wellness Management Software Version 2.0 -WESS Lite
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution747
 ---
 
@@ -10,9 +10,12 @@ Company Name:Refine Solutions Pte Ltd <br>Web URL: www.wessconnect.com <br>Con
 
 WESS, a leading professional cloud management software made easy for the Beauty, Hair, Nail, Spa & Wellness businesses in Singapore & Asia.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_1.pdf' target='_blank'>WESS - Wellness Management Software Version 2.0 -WESS Lite</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_2.pdf' target='_blank'>WESS - Wellness Management Software Version 2.0 -WESS Professional</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_3.pdf' target='_blank'>WESS - Wellness Management Software Version 2.0 -WESS Professional with Online Booking</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Refine_Solutions_20200124_Annex_3(mti)_Part_4.pdf' target='_blank'>WESS - Wellness Management Software Version 2.0 -WESS Professional - All in one</a>
 
 ### Eligibility Criteria
 

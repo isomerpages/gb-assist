@@ -1,5 +1,5 @@
 ---
-title: WarelyEcom Version 1.3 - Express
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2187
 ---
 
@@ -10,9 +10,10 @@ Web URL: https://www.p65marketing.com/ <br>Contact Hotline: 94501066 <br>Conta
 
 WarelyEcom is a home-grown brand that aims to help Retail Enterprises to go digital. We believe that all retail enterprise should have an alternate solution that could aid them to boost productivity for their business. Customized E-commerce websites are developed for our clients. Deliveries are also made possible when using our software which helps vendors to be less reliant on commission-based platforms and gain control over their costings.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_1.pdf' target='_blank'>WarelyEcom Version 1.3 - Express</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Plus65Marketing20200814_Desensitised_Annex_3_Part_2.pdf' target='_blank'>WarelyEcom Version 1.3 - Premium</a>
 
 ### Eligibility Criteria
 

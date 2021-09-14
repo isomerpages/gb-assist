@@ -1,5 +1,5 @@
 ---
-title: Pasteurisation Equipment/ Plant
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2151
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Milk pasteurizer machine to eliminate pathogenic bacteria harmful to health, and preserve milk quality as much as possible.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

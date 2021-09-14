@@ -1,5 +1,5 @@
 ---
-title: A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1579
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.sleek.com <br>Contact Hotline: +6569092214 <br>Contact Email: sal
 
 Sleek provides a fully digital solution for accounting, tax, HR and sales management for SMEs and Startups in Singapore backed up by quality local support.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_1.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - A - Slim</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_2.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - B - Start Up</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_3.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - C - SME</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_4.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - D - Supreme</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSleekTechAnnex3CRwef8April2021_Part_5.pdf' target='_blank'>A-Class Accounting & Sales Management by Sleek Version 1 - E - Growth</a>
 
 ### Eligibility Criteria
 

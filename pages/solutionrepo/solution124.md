@@ -1,5 +1,5 @@
 ---
-title: Smart litter bin with compactor function
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution124
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The equipment should allow Users to monitor bin fill levels with multiple fill level settings, send notifications to collectors when bins are reaching capacity and preferably with software to allow Users to gather data for trend analytics.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

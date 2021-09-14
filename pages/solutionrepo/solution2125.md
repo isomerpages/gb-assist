@@ -1,5 +1,5 @@
 ---
-title: Automated Mixer/ Compacter for Growing Media
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2125
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Automated mixer/ compacter to handle a variety of growing media as well as various degrees of  thorough mixing to meet growing requirements.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

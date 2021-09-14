@@ -1,5 +1,5 @@
 ---
-title: Treated Water Generator for Cleaning Purposes
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution152
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A unique set of equipment which produces treated water/ solution that is biodegradable. The treated water/solution could contain additives but must have no chloramines, no colour compounds and not produce any odours/ smell. The treated water/ solution must be safe to use for general cleaning purposes. The equipment is to be used in industrial or commercial premises. Equipment should not produce any residue and the use of the treated water should be rinse-free.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

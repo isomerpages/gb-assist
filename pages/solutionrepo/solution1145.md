@@ -1,5 +1,5 @@
 ---
-title: LFSuite Version 6.0-Package A [Automate] - (2x Digital Ordering + Analytics)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1145
 ---
 
@@ -10,9 +10,13 @@ Company Name:LEVELFIVE PTE LTD <br>Web URL: HTTPS://LFSOLUTIONS.NET <br>Contac
 
 Optimize your F&B business productivity and operational efficiency with DinePlan, our integrated suite of solutions offered under LFSuite. Our cloud-hybrid POS encompasses digital ordering, waiter ordering, customer ordering and payment. Additional modules include procurement and inventory management, central kitchen management and catering capabilities. All data and configurations are centrally managed by DineConnect, where we will also provide intuitive sales and analytical reports for you.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_1.pdf' target='_blank'>LFSuite Version 6.0-Package A [Automate] - (2x Digital Ordering + Analytics)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_23.pdf' target='_blank'>LFSuite Version 6.0-Package C [Complete]  - (3x Digital Ordering + KDS + Analytics)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_45.pdf' target='_blank'>LFSuite Version 6.0-Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_67.pdf' target='_blank'>LFSuite Version 6.0-Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_LevelFive_Annex_3_CR_wef_29_July_2021_Part_89.pdf' target='_blank'>LFSuite Version 6.0- Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</a>
 
 ### Eligibility Criteria
 

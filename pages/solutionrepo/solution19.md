@@ -1,5 +1,5 @@
 ---
-title: Automated Rice Dispenser
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution19
 ---
 
@@ -8,13 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The automated rice dispenser stores cooked rice is kept warm in a tub. The rice is then automatically dispensed in pre-set quantities 
+The automated rice dispenser stores cooked rice is kept warm in a tub. The rice is then automatically dispensed in pre-set quantities Min capacity 9kg cooked riceGrant support 80% of cost of equipment, up to $16,000 grant
 
-Min capacity: 9kg cooked rice
-
-Grant support: 80% of cost of equipment, up to $16,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

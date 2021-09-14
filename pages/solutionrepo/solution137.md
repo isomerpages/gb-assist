@@ -1,5 +1,5 @@
 ---
-title: Telescopic system for high ceiling cleaning
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution137
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Extendable rods that can reach at least 2m to do cleaning of walls, ledges, piping, etc. and equipped with camera system to inspect/check cleanliness levels.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

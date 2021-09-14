@@ -1,5 +1,5 @@
 ---
-title: Ride-on Industrial Sweeper
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution102
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Ride-on motorised industrial sweeper machine driven by 1 operator that provides consistent  sweeping for outdoor and indoor use.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

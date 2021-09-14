@@ -1,5 +1,5 @@
 ---
-title: Kiosk  & BYOD - Digital Order Channel Package Lite
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution982
 ---
 
@@ -10,9 +10,13 @@ Aigens Technology (Singapore) Pte. Ltd.  <br>https://www.aigens.com/ <br>9695341
 
 Singapore Food & Beverage is running out of manpower. Aigens aspire to bring innovation to the traditional Food & Beverage (F&B) industry, which lags behind in adopting technology. In the food service industry, convenience is king. Customers want to experience quick, efficient service with no obstacles. This is even more important for quick service and casual dining restaurants. With Aigens, you can implement innovative solutions that will see your customers returning time and time again.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_1.pdf' target='_blank'>Kiosk  & BYOD - Digital Order Channel Package Lite</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_23.pdf' target='_blank'>Kiosk  & BYOD - Digital Order Channel Package Plus</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_45.pdf' target='_blank'>Kiosk  & BYOD - Kiosk Package with Hardware</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_67.pdf' target='_blank'>Kiosk  & BYOD - Restaurant Operating System Package (BYOD with Kiosk)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Aigens_20200142_Annex_3_Part_8.pdf' target='_blank'>Kiosk  & BYOD - Digital Order Channel Package with CRM</a>
 
 ### Eligibility Criteria
 

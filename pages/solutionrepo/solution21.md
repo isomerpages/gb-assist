@@ -1,5 +1,5 @@
 ---
-title: Automated Sushi Making Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution21
 ---
 
@@ -8,13 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The automated sushi making machine is a compact machine suitable for use  at outlet-level. It shapes and produces Nigiri rice balls / sushi rolls and dispenses them automatically. Once a nigiri is removed,  the next one will be dispensed automatically. The weight and hardness of the nigiri / rolls can be customised.
+The automated sushi making machine is a compact machine suitable for use  at outlet-level. It shapes and produces Nigiri rice balls / sushi rolls and dispenses them automatically. Once a nigiri is removed,  the next one will be dispensed automatically. The weight and hardness of the nigiri / rolls can be customised.Min capaity 6kg cooked riceGrant support 80% of cost of equipment, up to $16,000 grant
 
-Min capaity: 6kg cooked rice
-
-Grant support: 80% of cost of equipment, up to $16,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

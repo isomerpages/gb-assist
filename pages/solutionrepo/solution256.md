@@ -1,5 +1,5 @@
 ---
-title: BonaEcom - Standard
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution256
 ---
 
@@ -8,13 +8,10 @@ Company Name:Bona Technologies Systems Pte Ltd <br>Web URL: bona.com.sg <br>Co
 
 ### Description
 
-eCommerce equipped by WooCommerce and Wordpress. 
-Bona Technologies is a proud partner of Wordpress.com
+eCommerce equipped by WooCommerce and Wordpress. Bona Technologies is a proud partner of Wordpress.com
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Bona_Technologies_Systems_BonaEcom_20200152_Annex_3_20200625151725_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

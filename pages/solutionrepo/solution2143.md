@@ -1,5 +1,5 @@
 ---
-title: Grass Processing Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2143
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-A machine to mix and chop up the grass for animal feed. 
+A machine to mix and chop up the grass for animal feed.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

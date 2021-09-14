@@ -1,5 +1,5 @@
 ---
-title: EasyBus Version 2.0 - EasyBus POS
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1025
 ---
 
@@ -10,9 +10,13 @@ Company Name:TrustyTech Pte Ltd <br>Web URL: https://www.easybus.app/ <br>Cont
 
 EasyBus is a true all in one platform designed specifically for service industry, it most suitable for business include Laundry, Leather care, Alteration, Home service and other customer centric service business, platform include from customer Apps/Website to POS to logistic system to production system, no matter you are running a factory or a shop or doing business online or all of them, we provide a single place to helping you improve your productivity, sales and create great customer loyalty.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_1.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus POS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_2.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Online (Lite)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_2.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Online (Standard)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_5.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Factory (Retail)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Trustytech_20200331_Annex_3_Part_6.pdf' target='_blank'>EasyBus Version 2.0 - EasyBus Factory (Retail + Hotel)</a>
 
 ### Eligibility Criteria
 

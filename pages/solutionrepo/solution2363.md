@@ -1,5 +1,5 @@
 ---
-title: 2. Advanced Demand Forecasting Techniques
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2363
 ---
 
@@ -8,11 +8,10 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2363
 
 ### Description
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.myskillsfuture.gov.sg/content/portal/en/training-exchange/course-directory/course-detail.html?courseReferenceNumber=RP-T08GB0046G-01-RP-SFS-89' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

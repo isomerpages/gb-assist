@@ -1,5 +1,5 @@
 ---
-title: Tekla Solutions - Tekla Structural Designer with Training
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1541
 ---
 
@@ -10,9 +10,13 @@ Web URL: https://www.tekla.com/sg <br>Contact Hotline: 62738775 <br>Contact Em
 
 Tekla Solutions is a suite of 3D modelling software for Contractors to create and manage Detailing and Fabrication digital information with the capability to create as built drawings for easy submission in buildings and infrastructure projects. Within Tekla Solutions, Tekla Structural Designer is a Design software that gives engineers the power to Analyze and Design buildings efficiently and profitably.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_1.pdf' target='_blank'>Tekla Solutions - Tekla Structural Designer with Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_2.pdf' target='_blank'>Tekla Solutions - Tekla Structural Design Suite with Training </a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_3.pdf' target='_blank'>Tekla Solutions - Tekla Structural Design Suite (3 years) with Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_4.pdf' target='_blank'>Tekla Solutions - Tekla 3D Modelling Basic with Training</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedTrimbleSolutionsSEAAnnex3CRwef10June2021_Part_5.pdf' target='_blank'>Tekla Solutions - Tekla 3D Modelling for Drawing Production with Training</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Ecommerce Web Software Development -Ecommerce Web Software Development  - Ecommerce Web Software Development (Opencart/Woocommerce)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1094
 ---
 
@@ -10,9 +10,9 @@ Company Name:Firstcom Solutions Pte Ltd <br>Web URL: www.firstcom.com.sg <br>C
 
 Development of an online shopping website with comprehensive functionalities to automate and perform online sales transactions, managing of client orders and data, track statistics of product sales performance, online marketing of products and provision of consultancy to explore connections with external platforms to expand the outreach digitally to seamlessly move Offline selling to Online selling.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Firstcom_eCommerce_Annex_3_CR_wef_22_July_2021_Part123.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Firstcom_eCommerce_Annex_3_CR_wef_22_July_2021_Part123.pdf' target='_blank'>Ecommerce Web Software Development -Ecommerce Web Software Development  - Ecommerce Web Software Development (Opencart/Woocommerce)</a>
 
 ### Eligibility Criteria
 

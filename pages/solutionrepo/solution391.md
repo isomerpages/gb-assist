@@ -1,5 +1,5 @@
 ---
-title: Standalone Automated Industrial Utensil Washer
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution391
 ---
 
@@ -8,10 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Automated standalone washer for pots, trays and utensils that replaces manual dishawashing. 
-Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water
+Automated standalone washer for pots, trays and utensils that replaces manual dishawashing. Compared to manual dishwashing, the automated washer gets the job done in less time while requiring less chemicals, energy and water
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

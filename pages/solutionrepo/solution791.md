@@ -1,5 +1,5 @@
 ---
-title: Ezyprocure Version 2.0-Package 1
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution791
 ---
 
@@ -10,9 +10,9 @@ Singapore E-business Pte Ltd<br>www.sgebiz.com<br>Email: info@sgebiz.com<br>Tel:
 
 EzyProcure, Procure to Pay Solution which benefits both buyer and supplier by stream lining their current manual ordering to supply processes. This has significantly improves the organization's productivity and profitability by offering significant time-consuming manual supply chain processes.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Singapore E-business 20200201_Annex_3_20200625152606_Part_1.pdf' target='_blank'>Ezyprocure Version 2.0-Package 1</a>
 
 ### Eligibility Criteria
 

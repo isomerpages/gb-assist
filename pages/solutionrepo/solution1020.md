@@ -1,5 +1,5 @@
 ---
-title: Sage 300 Advanced Edition - Cloud Basic Package P1 (5 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1020
 ---
 
@@ -10,9 +10,13 @@ Company Name:COMPTRAC SYSTEMS TECHNOLOGY PTE LTD <br>Web URL: www.comptrac.com.
 
 Sage 300 takes the complexity out of managing your business finances across borders, in multiple currencies and locations. All processes work including financials, operations and inventory, sales could be integrated to other process work such as project and vendor management, HRMS and payroll, marketing and customer service efficiently, increasing work productivity between multi departments.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_1.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Basic Package P1 (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_2.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Basic Package P2 (10 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_3.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Enhanced Package P3 (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_4.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Enhanced Package S1 (5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_COMPTRAC_20200244_Annex_3_Part_5.pdf' target='_blank'>Sage 300 Advanced Edition - Cloud Enhanced Package S2 (10 Users)</a>
 
 ### Eligibility Criteria
 

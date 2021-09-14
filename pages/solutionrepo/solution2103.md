@@ -1,5 +1,5 @@
 ---
-title: Quickbooks online solutions - AB Essential Solution
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2103
 ---
 
@@ -8,12 +8,10 @@ Web URL: https://www.avenbill.com.sg/accounting-bookkeeping/ <br>Contact Hotlin
 
 ### Description
 
-QuickBooks Online (QBOL) is a small business accounting software program businesses use to manage income and expenses and keep track of the financial health of their business. You can use it to invoice customers, pay bills, generate reports, and prepare for taxes. 
-The QBOL is IRAS Approved Online Accounting Software solutions
+QuickBooks Online (QBOL) is a small business accounting software program businesses use to manage income and expenses and keep track of the financial health of their business. You can use it to invoice customers, pay bills, generate reports, and prepare for taxes. The QBOL is IRAS Approved Online Accounting Software solutions
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Aven&Bill20200479_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

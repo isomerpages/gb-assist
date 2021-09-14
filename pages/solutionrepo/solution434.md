@@ -1,5 +1,5 @@
 ---
-title: VEON@Experience Version 1.0 - Package E (VEON Basic (+ hardware) + 10 Stylist, Assistant, Freelancer tool + 3 Software powerpacks)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution434
 ---
 
@@ -8,12 +8,10 @@ Gamurai Pte Ltd<br>www.gamuraitech.com<br>Email: veon@gamuraitech.com<br>Tel: +6
 
 ### Description
 
-VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. 
-Designed for the next-generation salons, VEON@Experience is extremely visual and easy-to-use for ordinary people like you and me. You can use it anytime, anywhere, on any internet-enabled touch screen devices on demand.
+VEON@Experience is a suite of cloud-based SaaS tools to empower Stylist and Salons in their daily business operations. Designed for the next-generation salons, VEON@Experience is extremely visual and easy-to-use for ordinary people like you and me. You can use it anytime, anywhere, on any internet-enabled touch screen devices on demand.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Gamurai_20200038_Annex_3_20200625145018_Part_67.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

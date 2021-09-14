@@ -1,5 +1,5 @@
 ---
-title: Sage CRM Standard for Sales, Service and Project Management Version v2021 - A. Standard CRM for 3 Named Users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2207
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.comptrac.com.sg <br>Contact Hotline: 68481273 <br>Contact Email: 
 
 Sage CRM is a customer relationship management solution designed to help small and midsize businesses optimize their customer experience and improve productivity.  The solution helps users to simplify the work processes such as quotes and orders, progressing leads and converting them to opportunities using sales workflow, shorten work process cycles.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - A. Standard CRM for 3 Named Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - B. Standard CRM for 5 Named Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - C. Standard CRM for 10 Named Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - D. Standard CRM for 15 Named Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/ComptracSystems20200856_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Sage CRM Standard for Sales, Service and Project Management Version v2021 - E. Standard CRM With Field Service Automation for 10 Named Users</a>
 
 ### Eligibility Criteria
 

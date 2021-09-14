@@ -1,5 +1,5 @@
 ---
-title: Aeration System/ Oxygenation System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2120
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 For better water quality management by evenly distribute compressed air/ oxygen to increase dissolved oxygen concentration.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

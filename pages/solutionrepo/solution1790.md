@@ -1,5 +1,5 @@
 ---
-title: Autocount Accounting 2.0 - Package (Basic - 1 User)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1790
 ---
 
@@ -10,9 +10,13 @@ Creative eWorld Pte Ltd<br>www.creaworld.com.sg<br>Email: enquiry@creaworld.com.
 
 Autocount is an integrated Accounting and Inventory Management System. It covers all your accounting needs. Offering you a full fledge of AR, AP, GL, sales/purchase management & inventory control. Provide various real-time, intelligent, easy access accounting & operation reports to support business analysis needs.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_1.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Basic - 1 User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_2.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Pro - 3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_3.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Premium - 5 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_4.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Premium - 7 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Creative_eWorld_Autocount _Annex_3_CR_wef_17_December_2020_Part_5.pdf' target='_blank'>Autocount Accounting 2.0 - Package (Premium - 10 Users)</a>
 
 ### Eligibility Criteria
 

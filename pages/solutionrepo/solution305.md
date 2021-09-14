@@ -1,5 +1,5 @@
 ---
-title: Automated Dough Filler/Depositor
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution305
 ---
 
@@ -8,11 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.
-Also known as dough portion divider, the machine is made to suit the soft dough texture. 
-As a guide, it is recommended for the Dough Filler to allow a divided dough weight of minimum 7gm and a dough dividing capacity with minimum 5 seconds
+An automatic depositor portions dough, fillings or batters onto moving or stationary lines. Portions will be of consistent size no matter who operates the machine.Also known as dough portion divider, the machine is made to suit the soft dough texture. As a guide, it is recommended for the Dough Filler to allow a divided dough weight of minimum 7gm and a dough dividing capacity with minimum 5 seconds
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

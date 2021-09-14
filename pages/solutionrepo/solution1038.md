@@ -1,5 +1,5 @@
 ---
-title: Vehicle Service System - Basic VSS Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1038
 ---
 
@@ -10,9 +10,14 @@ Company Name:GRID PLUS PTE LTD <br>Web URL: WWW.GRIDPLUS.COM.SG <br>Contact Ho
 
 VSS is a comprehensive and user-friendly solution in wireless applications of Global positioning systems, GSM Communication network and expertise in developing and integrating solutions for Vehicle Tracking System, Road Safety and Driver Behavior Management systems, In-vehicle Mobile DVRs that stream live location with video and much more.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' target='_blank'>Vehicle Service System - Basic VSS Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' target='_blank'>Vehicle Service System - VSS Package with ADAS DSM</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' target='_blank'>Vehicle Service System - Basic VSS Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' target='_blank'>Vehicle Service System - VSS Package with ADAS DSM</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' target='_blank'>Vehicle Service System - Basic VSS Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Grid_Plus_20200250_Annex_3_Part_1.pdf' target='_blank'>Vehicle Service System - VSS Package with ADAS DSM</a>
 
 ### Eligibility Criteria
 

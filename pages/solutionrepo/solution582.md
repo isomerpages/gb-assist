@@ -1,5 +1,5 @@
 ---
-title: Konnect Digital Software
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution582
 ---
 
@@ -8,11 +8,10 @@ Lexikon Pte Ltd<br>http://www.lexikon.sg/lexikon_system/konnect_digital/<br>Emai
 
 ### Description
 
-Konnect Digital Software is a workforce management system which comprises of following modules: CRM, Sales, Operational (Job Order) via desktop & mobile application and HRM, launched since 2018 with the objective to facilitate and streamline the operational and administrative process in the industry.
+Konnect Digital Software is a workforce management system which comprises of following modules CRM, Sales, Operational (Job Order) via desktop & mobile application and HRM, launched since 2018 with the objective to facilitate and streamline the operational and administrative process in the industry.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Lexikon_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

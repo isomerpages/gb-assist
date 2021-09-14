@@ -1,5 +1,5 @@
 ---
-title: Ascent iSPOT Fleet Management System - 	iSPOT FMS Tracking and Workflow management - Package A (10 Vehicles)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1300
 ---
 
@@ -10,9 +10,13 @@ Company Name:Ascent Solutions Pte Ltd <br>Web URL: https://www.myascents.com/sm
 
 Ascent's iSPOT FMS enable companies to transform their business with data-driven actions on a simple managed platform from the day that they start their fleet. Ascent's positioning in the market on iSPOT FMS has always been cost leadership, commoditizing our solutions and making it available to all companies operating fleets. Installation, guided adoption walkthrough and business hours support flattens the learning curve and allow SME to exact benefits immediately after signing up with us
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_1.pdf' target='_blank'>Ascent iSPOT Fleet Management System - 	iSPOT FMS Tracking and Workflow management - Package A (10 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_2.pdf' target='_blank'>Ascent iSPOT Fleet Management System - iSPOT FMS Tracking and Workflow management - Package B (20 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_3.pdf' target='_blank'>Ascent iSPOT Fleet Management System - iSPOT FMS Tracking and Workflow management - Package C (50 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_4.pdf' target='_blank'>Ascent iSPOT Fleet Management System - iSPOT FMS Tracking and Workflow management - Package D (100 Vehicles)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ascent_20200175_Annex_3_Part_5.pdf' target='_blank'>Ascent iSPOT Fleet Management System - iSPOT FMS Tracking with CAN Bus/BLE Sensor Integration - Package E (35 Sets)</a>
 
 ### Eligibility Criteria
 

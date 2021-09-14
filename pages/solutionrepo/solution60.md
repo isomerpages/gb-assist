@@ -1,5 +1,5 @@
 ---
-title: Industrial crusher/shredder
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution60
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Machine equipped with cutting or shearing or crushing system(s) to reduce the volume of solid waste/recyclables.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

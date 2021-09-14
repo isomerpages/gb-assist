@@ -1,5 +1,5 @@
 ---
-title: Automated Fish Sorter/ Grader
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2122
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Automatic fish graders to sort fish by species/ sizes/ weight while minimizing the impact on the fishes.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

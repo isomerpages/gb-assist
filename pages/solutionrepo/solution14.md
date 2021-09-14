@@ -1,5 +1,5 @@
 ---
-title: All Terrain Litter Vacuum (ATLV)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution14
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The equipment is a ride on, outdoor vacuum system that is able to travel and perform cleaning operations on multiple terrains, climb curbs and navigate slopes. 
+The equipment is a ride on, outdoor vacuum system that is able to travel and perform cleaning operations on multiple terrains, climb curbs and navigate slopes.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

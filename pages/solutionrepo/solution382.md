@@ -1,5 +1,5 @@
 ---
-title: EPSProfessional V1.7
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution382
 ---
 
@@ -10,11 +10,8 @@ Efusion Technology Pte Ltd<br>www.efusiontech.com<br>Email: contact@efusiontech.
 
 ePSProfessional is a feature-rich ecommerce online shop solution based on open source system (Prestashop 1.7x) which allows store owners to run easily on their existing web hosting. It includes an online catalogue which saves customer service effort. The online ordering and payment capabilities help to increase productivity by eliminating paper invoicing and PO faxing. The search-engine-optimized system and training create a digital marketing advantage for the merchants over their competitors.
 
+### Packages Available
 
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Efusion_Annex_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

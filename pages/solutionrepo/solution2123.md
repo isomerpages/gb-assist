@@ -1,5 +1,5 @@
 ---
-title: Automated Fish Vaccination
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2123
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Automatic vaccination machine that increases accuracy and rate of vaccination, and minimize the stress on fish.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: AppPOS (BYOD) Version 4 - Package (PLUS - QR ordering - 3 Outlets)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution150
 ---
 
@@ -10,12 +10,8 @@ AppsPOS Pte Ltd<br>www.appspos.com<br>Email: kingsley@appspos.com<br>Tel: +65 90
 
 AppPOS Solution is a highly scalable omni-channel ordering system that fits the purpose of F&B merchants of all concepts/sizes. It allows customers to order food (dine in, takeaway, pre-orders and drive through) via web app and mobile apps for restaurants, quick service restaurants, kiosks/stalls, among many other F&B concepts.
 
+### Packages Available
 
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AppsPOS_Annex_3_Part_5.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

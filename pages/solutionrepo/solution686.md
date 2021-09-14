@@ -1,5 +1,5 @@
 ---
-title: Moneyworks Version 8 - Gold (1 user)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution686
 ---
 
@@ -10,9 +10,13 @@ Ostendo Pte Ltd<br>www.ostendoasia.com<br>Email: info.sg@ostendoasia.com<br>Tel:
 
 Moneyworks by Cognito Software provides a powerful, feature rich platform that unlocks company's accounting data to help run a better business. MoneyWorks is fully supported, regularly updated and flexible enough to fit within workflow and integrate with your existing business software. MoneyWorks is an accounting and ERP software that has versions for Mac & PC, as well as a cloud-based platform. It offers solutions for general ledger, invoicing, inventory management, and sales management.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_1.pdf' target='_blank'>Moneyworks Version 8 - Gold (1 user)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_2.pdf' target='_blank'>Moneyworks Version 8 - Now (3 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_3.pdf' target='_blank'>Moneyworks Version 8 - DataCentre (3 users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_4.pdf' target='_blank'>Moneyworks Version 8 - Datacentre (3 users with integration and automation)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Ostendo_Annex3_CR_wef_5_Oct_2020_Part_5.pdf' target='_blank'>Moneyworks Version 8 - Datacentre (3 users with Zoho CRM integration)</a>
 
 ### Eligibility Criteria
 

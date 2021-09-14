@@ -1,5 +1,5 @@
 ---
-title: Digital Retail eCommerce Solution Version 1
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution140
 ---
 
@@ -8,11 +8,10 @@ Amobee Asia Pte Ltd<br>https://amobeedigital.com/web-solutions/<br>Email: ADS@am
 
 ### Description
 
-Digital Retail eCommerce Solution enable users to enhance their online presence through mobile responsive  e-Commerce website with content management, online leads analysis and online transaction management capabilities. 
+Digital Retail eCommerce Solution enable users to enhance their online presence through mobile responsive  e-Commerce website with content management, online leads analysis and online transaction management capabilities.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Amobee_Asia_Annex 3_CR_wef_8May2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

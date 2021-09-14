@@ -1,5 +1,5 @@
 ---
-title: Ecommerce Online Shop + SEO and Digital Marketing Setup - Advanced Ecommerce + Digital Marketing (Premium)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1820
 ---
 
@@ -8,14 +8,10 @@ Web URL: https://vuetechsg.com/ecommerce-website-with-digital-marketing/ <br>Con
 
 ### Description
 
-You need an eCommerce website? You actually need a website that can continue to generate profit for your business, Vue tech can help you with that!
-Vue Tech not only build up a website for you, but also helps you to set up all the infrastructure you need to promote your business on the internet.
-Vue tech provides eCommerce website setup, digital marketing setup & optimization, SEO setup & consultation, with a great performance track record.
-Vue tech build long term business channel for you!
+You need an eCommerce website? You actually need a website that can continue to generate profit for your business, Vue tech can help you with that!Vue Tech not only build up a website for you, but also helps you to set up all the infrastructure you need to promote your business on the internet.Vue tech provides eCommerce website setup, digital marketing setup & optimization, SEO setup & consultation, with a great performance track record.Vue tech build long term business channel for you!
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Vue_Tech_Modified_Annex_3_wef_1_March_2021_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

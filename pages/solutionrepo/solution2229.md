@@ -1,5 +1,5 @@
 ---
-title: HRSS & Payroll Processing with JustLogin - Package (1 - 15 Employees)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2229
 ---
 
@@ -10,9 +10,13 @@ Company Name: Match Resources Pte Ltd<br>Web URL: www.matchresources.com.sg<br>C
 
 Providing customized HR outsourcing services combined with Human Capital Management solutions/SaaS such as Employment Information System, Leave Management, Expense Claims, Time Attendance, Payroll Benefits that includes mobile app.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_1.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (1 - 15 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_2.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (16 - 25 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_3.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (26- 50 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_4.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (51- 100 Employees)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedMatchResourcesPayrollAnnex3CRwef27May2021_Part_5.pdf' target='_blank'>HRSS & Payroll Processing with JustLogin - Package (101- 200 Employees)</a>
 
 ### Eligibility Criteria
 

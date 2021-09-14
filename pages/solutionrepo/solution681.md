@@ -1,5 +1,5 @@
 ---
-title: OpensoftHR Version 2019 - Package A (50 pax)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution681
 ---
 
@@ -10,15 +10,8 @@ Opensoft Pte. Ltd.<br>http://www.opensofthr.com<br>Email: sales@opensofthr.com<b
 
 OpensoftHR is a comprehensive HRM solution that is designed to reduce time consuming administrative work and improve HR efficiency for SMEs.
 
+### Packages Available
 
-
-
-
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Opensoft_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Humidifier Equipment
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2145
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-A device that increases humidity in farm premises for more optimal plant growth. 
+A device that increases humidity in farm premises for more optimal plant growth.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

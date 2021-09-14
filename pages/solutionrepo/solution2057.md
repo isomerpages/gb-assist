@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central SaaS - Package A - D365BC premium for 3 users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2057
 ---
 
@@ -10,9 +10,10 @@ Web URL: www.cyansys.com <br>Contact Hotline: 65353257 <br>Contact Email: sales@
 
 Microsoft Dynamics 365 Business Central (D365BC) offers a complete business accounting management system with realtime information that helps in decision making. It has all the functionalities any business needs to manage their business and financials efficiently. It can start small and scale as when the business needs grows.The solution suite includes the extension which covers the GST and PEPPOL E-invoicing for both compliance and regulatory reporting required for all businesses.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central SaaS - Package A - D365BC premium for 3 users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedCyanSYSAnnex3wef25March2021_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central SaaS - Package B - D365BC essential for 3 users</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: VRcollab LITE - BIM VDC VR FULL BUNDLE
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1227
 ---
 
@@ -10,9 +10,10 @@ Company Name:VRCOLLAB PTE. LTD. <br>Web URL: https://vrcollab.com/lite/ <br>Co
 
 VRcollab is a next generation VDC software solution for the construction industry which provides BIM interrogation, Stakeholder collaboration and use of Virtual Reality in BIM coordination sessions. BIM interrogation capabilities includes Full BIM Meta Data Inspection and Precise Model Measurements. The software also allows the users to annotate and comment directly on VR models for the purpose of issue creation, tracking, and coordination reporting.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_1.pdf' target='_blank'>VRcollab LITE - BIM VDC VR FULL BUNDLE</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_VRCollab_20200118_Annex_3_Part_2.pdf' target='_blank'>VRcollab LITE - LICENSE ONLY</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Salesforce Sales Cloud Professional Edition - Premier Success and Jumpstart Setup (15 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1519
 ---
 
@@ -8,11 +8,10 @@ Web URL: https://sfdc.co/smes-go-digital<br>Contact Hotline: 800 1301 448<br>Con
 
 ### Description
 
-Salesforce is the #1 CRM, bringing companies and customers together in the digital age. It's an integrated CRM platform that gives teams a single, shared view of their customers so they can deliver the intelligent, personalized experiences their customers have come to expect from every brand and build lasting, trusted relationships.
+Salesforce is the 1 CRM, bringing companies and customers together in the digital age. It's an integrated CRM platform that gives teams a single, shared view of their customers so they can deliver the intelligent, personalized experiences their customers have come to expect from every brand and build lasting, trusted relationships.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedSalesforce_Annex_3_CRwef13May2021_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

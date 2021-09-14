@@ -1,5 +1,5 @@
 ---
-title: ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales Management System Version 23 - Package A with E-Invoicing(1 User)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2240
 ---
 
@@ -10,9 +10,18 @@ Company Name:E-Click Solutions <br>Web URL: http://e-clicksolutions.com/<br>Cont
 
 ABSS Premier is an Accounting & Sales Management Software that is fully integrated with PEPPOL E-Invoicing network, IRAS GST compliance and local banking system. The solution simplifies complex inventory issues, has full multi-currency capabilities, departmental accounting, support multi-locations and able to generate financial analysis reports.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_1.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
+Management System Version 23 - Package A with E-Invoicing(1 User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_2.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
+Management System Version 23 - Package C with E-Invoicing & Training(1 User)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_3.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
+Management System Version 23 - Package D with E-Invoicing & Training (3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_4.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
+Management System Version 23 - Package E with E-Invoicing, Remote Access & Training(3 Users)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedE-ClickSolutionsABSS(MYOB)Annex3CRwef29Oct2020_Part_5.pdf' target='_blank'>ABSS(MYOB) Premier Accounting Management, Inventory Management and Sales
+Management System Version 23 -  Package B with E-Invoicing (3 Users)</a>
 
 ### Eligibility Criteria
 

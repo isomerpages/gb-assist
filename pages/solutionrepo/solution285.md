@@ -1,5 +1,5 @@
 ---
-title: Carbonate HR Version 1.0 - Package (Power 50)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution285
 ---
 
@@ -10,9 +10,13 @@ Carbonate Pte Ltd<br>https://carbonateapp.com/<br>Email: info@carbonateapp.com<b
 
 Carbonate HR is a web and mobile application based HR management system that focuses on helping SME schedule their employees, track attendance and pay staff quickly.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_1.pdf' target='_blank'>Carbonate HR Version 1.0 - Package (Power 50)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_2.pdf' target='_blank'>Carbonate HR Version 1.0 - Package (Power 100)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_3.pdf' target='_blank'>Carbonate HR Version 1.0 - Package (Power 150)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_4.pdf' target='_blank'>Carbonate HR Version 1.0- Package (Power 200)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Carbonate_Annex 3_CR_wef_Part_5.pdf' target='_blank'>Carbonate HR Version 1.0- Package (Ultimate 50)</a>
 
 ### Eligibility Criteria
 

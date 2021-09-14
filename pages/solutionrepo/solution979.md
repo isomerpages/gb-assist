@@ -1,5 +1,5 @@
 ---
-title: ZETTAPPS Cloud-based Inventory & Order Processing Version 3.7 - Package (Peppol ready - For Single Location)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution979
 ---
 
@@ -10,10 +10,8 @@ Zetta Solution Pte Ltd<br>www.zetta-solution.com<br>Email: sales@zetta-solution.
 
 ZETTAPPS Cloud-based Solution enables business owners to manage their Inventory and Order Processing through Barcode Labels on their Merchandise or Assets and eSignature on Delivery Order.  For Distributor or Retailers, there are functions that enable them to track their Inventory levels before placing reorder with their suppliers.  This enables them to keep warehousing and storage cost low.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Zetta_Solution_20200015_Annex_3_20200625143545_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: AutoCount Accounting - AutoCount Accounting Professional V2.0 ( 3 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution197
 ---
 
@@ -10,10 +10,8 @@ Autocount (S) Pte Ltd<br>www.autocountsoft.com.sg<br>Email: sales.sg@autocountso
 
 Since being established in 1996, AutoCount has grown into the TOP SME brands, serving more than 180,000 SMEs across the region. AutoCount offers a series of products that focus mainly on business automation (Accounting, Payroll, POS) while integrating with different plugins for cross-sector vertical operation. Flexibility, expandability, and ease-to-use are the features we develop, you can be assured of when your business grows, we able to sustain your development needs.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/AutoCount_20200013_Annex_3_20200625142956_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

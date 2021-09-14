@@ -1,5 +1,5 @@
 ---
-title: HeartVoice Telehealth Platform - Package (2 Doctors)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1843
 ---
 
@@ -8,11 +8,10 @@ Company Name: HeartVoice Pte Ltd<br>Web URL: www.ourheartvoice.com<br>Contact Ho
 
 ### Description
 
-The HeartVoice Telehealth Platform provides for teleconsultation services to enable healthcare professionals to interact with their patients remotely. Patients can schedule consultations via the WhatsApp or live queue.  A web-based dashboard is provided for the doctors to perform video consultation, receive images, prescribe medicine, and input consultation notes 
+The HeartVoice Telehealth Platform provides for teleconsultation services to enable healthcare professionals to interact with their patients remotely. Patients can schedule consultations via the WhatsApp or live queue.  A web-based dashboard is provided for the doctors to perform video consultation, receive images, prescribe medicine, and input consultation notes
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_HeartVoice_Annex_3_PSG_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Packaging & Labelling Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2150
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A machine that automates the packing and labelling processes of farm production with high speed and high degree of precision.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: SMART TECHNOLOGY FOR FACILITIES MANAGEMENT Version 1.8 - Package B (4 sets of Toilets)- Complete
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1036
 ---
 
@@ -8,12 +8,10 @@ Company Name:ADVANCER SMART TECHNOLOGY PTE LTD <br>Web URL: www.advastech.com.s
 
 ### Description
 
-SMART Toilet System uses the unqiue LoRaWAN communication protocol with a state of the art Ai-based neural network to improve the Service Providers(SP)productivity. In AST, we offers an end-to-end solution to building services Service Buyers and SP. 
-We offer various type of sensory modules:1)Odour,Temperature&Humidity Sensor 2) Human traffic counter 3)Individual toilet cubicle detection 4)Toilet paper&Hand towel empty detection 5)Contactless attendance taking 6) Water&Electricity monitoring
+SMART Toilet System uses the unqiue LoRaWAN communication protocol with a state of the art Ai-based neural network to improve the Service Providers(SP)productivity. In AST, we offers an end-to-end solution to building services Service Buyers and SP. We offer various type of sensory modules1)Odour,Temperature&Humidity Sensor 2) Human traffic counter 3)Individual toilet cubicle detection 4)Toilet paper&Hand towel empty detection 5)Contactless attendance taking 6) Water&Electricity monitoring
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Advancer_20200342_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

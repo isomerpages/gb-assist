@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 3 Users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution336
 ---
 
@@ -10,9 +10,13 @@ Company Name:Dalstech Pte Ltd <br>Web URL:www.dalstech.com <br>Contact Hotline
 
 Microsoft Dynamics 365 Business Central is a complete business solution that can effectively help companies and organizations to manage their financial and operation processes. The flexibility of the software makes it ideal to be configured to fit different business requirements, improve the company's ability to make decisions, and thereby increase the overall productivity of the company.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 3 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 5 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 8 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Essentials Edition - SaaS 10 Users</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedDalstechPteLtd_Annex_3CRwef15April2021_Part_5.pdf' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud - Premium Edition - SaaS 10 Users</a>
 
 ### Eligibility Criteria
 

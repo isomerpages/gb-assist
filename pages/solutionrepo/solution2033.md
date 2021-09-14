@@ -1,5 +1,5 @@
 ---
-title: A2000ERP Version 12.X - Package (A) - A2000ERP Wholesale System for 10 Users Annual Subscription
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2033
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.a2000erp.com <br>Contact Hotline: 67202000 <br>Contact Email: inf
 
 A2000 Solutions Pte. Ltd. is an established ERP business software development company in Singapore with more than 24 years of industry experience in its pocket. We provide enterprise solutions that cover financial management, analytics, mobile solutions, sales & distribution, POS, inventory & warehouse system. A2000 Solutions simplifies your business processes, empowers people, and helps SMEs to create dynamic responses to market changes for small and medium-sized industries.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_1.pdf' target='_blank'>A2000ERP Version 12.X - Package (A) - A2000ERP Wholesale System for 10 Users Annual Subscription</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_2.pdf' target='_blank'>A2000ERP Version 12.X - Package (B) - A2000ERP Wholesale System for 10 Users + 8 Mobile Users Annual Subscription</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_3.pdf' target='_blank'>A2000ERP Version 12.X - Package (C) - A2000ERP Wholesale System for 15 Users + 10 Mobile Users Annual Subscription</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_4.pdf' target='_blank'>A2000ERP Version 12.X - Package (D) - A2000ERP Wholesale System 10 Users + 8 Mobile Users + E-Commerce Annual Subscription</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/DesensitisedA2000Solutions20200614_Annex_3_Part_5.pdf' target='_blank'>A2000ERP Version 12.X - Package (E) - A2000ERP Wholesale System 15 Users +10 Mobile Users + ECommerce Annual Subscription</a>
 
 ### Eligibility Criteria
 

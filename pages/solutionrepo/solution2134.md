@@ -1,5 +1,5 @@
 ---
-title: Crate/ Tray washing machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2134
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 A machine used to wash crates and trays used for farming.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

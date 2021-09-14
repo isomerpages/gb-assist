@@ -1,5 +1,5 @@
 ---
-title: STUDIO MANAGER Version 7 - Package A (Standard)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution171
 ---
 
@@ -10,9 +10,12 @@ Archer Logic (S) Pte Ltd<br>https://www.archerlogic.com/studio-manager/<br>Email
 
 Studio Manager is an enterprise retail POS and CRM solution that integrates marketing, sales, inventory, human resource functionalities in one solution. The software evolved since 2002 has targeted beauty operators like spa, aesthetic clinic and salons. It is a proven solution for small to large chains in malls.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_1.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package A (Standard)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_2.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package B (Professional)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_3.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package C (Premium)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Archer_Logic_Annex_3_Part_4.pdf' target='_blank'>STUDIO MANAGER Version 7 - Package D (Branch License)</a>
 
 ### Eligibility Criteria
 

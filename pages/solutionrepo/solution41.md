@@ -1,5 +1,5 @@
 ---
-title: A2000ERP Version 12 - Package (Software-as-a-Service - Distribution & Mobile Business for 5 Users)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution41
 ---
 
@@ -8,11 +8,10 @@ A2000 Solutions Pte Ltd<br>www.a2000erp.com<br>Email: info@a2000.net<br>Tel: +65
 
 ### Description
 
-A2000ERP Solution is a business management tool, integrated with components necessary for fast growing companies. With its real-time engine, all transactions will turn into critical analysis to support more informed business decisions. 
+A2000ERP Solution is a business management tool, integrated with components necessary for fast growing companies. With its real-time engine, all transactions will turn into critical analysis to support more informed business decisions.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/A2000_Solutions_Annex_3_Part_4.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

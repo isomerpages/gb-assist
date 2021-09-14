@@ -1,5 +1,5 @@
 ---
-title: Pelleting Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2152
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily. 
+Animal feed pellet machine also known as feed pelletizer machine; it allows you to make feed material into pellets easily.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Basic
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1899
 ---
 
@@ -10,9 +10,12 @@ Web URL: arcstone.co <br>Contact Hotline: +6568156825 <br>Contact Email: conta
 
 With Arcstone's Real-Time Production Scheduling and Job Tracking solution, manufacturers gain better control over their process flows ensuring the maximum level of efficiency achieved with minimal chance of delays or potential interruptions occur. Leveraging the toolset, manufacturers are able to stay on top of their production processes through automatic and accurate resources planning, allocation and dynamic (re) scheduling capabilities.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_1.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Basic</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_2.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - Annual Subscription License - Customized</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_3.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - All-in-One Annual Subscription License - Basic</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Real-time_Production_20200857_Desensitised_Annex_3_Part_4.pdf' target='_blank'>arc.lite and arc.ops - Real-time Production Scheduling and Job Tracking - All-in-One Annual Subscription License - Customized</a>
 
 ### Eligibility Criteria
 

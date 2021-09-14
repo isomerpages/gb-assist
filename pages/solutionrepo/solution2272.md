@@ -1,5 +1,5 @@
 ---
-title: Pepper Cloud CRM Version 14.0-Standard_5Users
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2272
 ---
 
@@ -8,15 +8,10 @@ Web URL: https://peppercloud.com/ <br>Contact Hotline: 97510475 <br>Contact Em
 
 ### Description
 
-Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. 
+Pepper Cloud is a Singapore based SAAS Company, which offers CRM solutions for small and middle scale companies across multiple industries. Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
 
-Pepper Cloud is headed by team of data scientists, engineers and domain experts who have years of relevant experience.
+### Packages Available
 
-We serve many companies in Singapore, Malaysia, Philippines and Indonesia. We also have strategic alliances with cloud based POS and data aggregation companies.
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Pepper_Cloud_20200952_Desensitised_Annex_3_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

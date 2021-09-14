@@ -1,5 +1,5 @@
 ---
-title: Battery-Powered Rope Ascender
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1150
 ---
 
@@ -8,11 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually. The process is time-consuming and is physically exhausting. 
+Access to intended in-situ work/inspection/repair locations onboard vessels are usually through the use of scaffolds or rope access operated manually. The process is time-consuming and is physically exhausting. The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement.
 
-The battery-powered rope ascender can help shipyard/workshop personnel ascend faster,  reduce physical strain on the body and take fewer rest breaks compared to the manual method. This would result in efficiency and productivity improvement. 
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

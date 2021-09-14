@@ -1,5 +1,5 @@
 ---
-title: Egg Processing Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2140
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Integrated egg processing system to process eggs into liquid, hardboiled or pasteurized egg products
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

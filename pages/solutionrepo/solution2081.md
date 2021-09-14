@@ -1,5 +1,5 @@
 ---
-title: High pressure industrial vacuum cleaner
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2081
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The explosion proof high pressure industrial vacuum cleaner can handle wet and dry dirt, debris, metal chippings, and liquids. It is a more efficient method of cleaning up at the worksite compared to manual means. Time and manpower reliance can be reduced.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

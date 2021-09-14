@@ -1,5 +1,5 @@
 ---
-title: Simpple Version V1.0 - SIMPPLE ECOSYSTEM - XS
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1931
 ---
 
@@ -10,9 +10,23 @@ Web URL: www.simpple.com.sg <br>Contact Hotline: 69096936 <br>Contact Email: s
 
 The SIMPPLE integrated facilities management ecosystem is focused on service quality for facilities management.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - XS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - S</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - M</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - L</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - XL</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - XS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - S</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - M</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - L</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - XL</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_1.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - XS</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_2.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - S</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_3.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - M</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_4.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - L</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/IFSC_20200145_Desensitised_Annex_3_Part_5.pdf' target='_blank'>Simpple Version V1.0 - SIMPPLE ECOSYSTEM - XL</a>
 
 ### Eligibility Criteria
 

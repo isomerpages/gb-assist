@@ -1,5 +1,5 @@
 ---
-title: Smart Baler System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution123
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The equipment using sensors to detect and compacts materials automatically to facilitate the transportation of the materials. 
+The equipment using sensors to detect and compacts materials automatically to facilitate the transportation of the materials.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

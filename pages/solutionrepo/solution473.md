@@ -1,5 +1,5 @@
 ---
-title: Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Basic)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution473
 ---
 
@@ -10,9 +10,11 @@ Company Name:I Concept Innovation Pte Ltd <br>Web URL: https://i-concept.com.sg
 
 Advanced Ecommerce Solution by I Concept has all the functions SMEs will need to run a successful ecommerce store to sell their products online and receive payment via online payment gateway, QR Code payment, PayNow or PayLah.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_1.pdf' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Basic)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_2.pdf' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Pro)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_I_Concept_(Annex_3)_wef_1_March_2021_Part_3.pdf' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 -Advanced Ecommerce Solution by I Concept (Comprehensive)</a>
 
 ### Eligibility Criteria
 

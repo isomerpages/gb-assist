@@ -1,5 +1,5 @@
 ---
-title: Automated Slaughtering Equipment
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2126
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 Automated line to slaughter livestock from cutting, deskinning and deboning lines, etc
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

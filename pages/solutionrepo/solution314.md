@@ -1,5 +1,5 @@
 ---
-title: Corsiva Lab - E-Commerce Website Development Version 1.0 -Express E-Commerce Website Development Package
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution314
 ---
 
@@ -10,9 +10,11 @@ Company Name:Corsiva Lab Pte Ltd <br>Web URL: www.corsivalab.com <br>Contact H
 
 Extend your business online and generate higher sales revenue with our scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_1.pdf' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 -Express E-Commerce Website Development Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_2.pdf' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 -Customized E-Commerce Website Development Package</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Corsiva_20200318_Annex_3(mti)_Part_3.pdf' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 -Elite E-Commerce Website Development Package</a>
 
 ### Eligibility Criteria
 

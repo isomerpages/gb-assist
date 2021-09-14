@@ -1,5 +1,5 @@
 ---
-title: Freight Master Version 8.1 (5 Licenses)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1422
 ---
 
@@ -10,9 +10,13 @@ Web URL: www.innosys.com.sg <br>Contact Hotline: +6567443002 <br>Contact Email
 
 The Freight Master software is a suite of integrated and comprehensive software modules targeted at the logistics industry. It comprises of four core sub-systems to cover the various business requirements of a logistics service provider. Whilst providing features and functionality found in high end logistics solutions, the software package is focused in helping SMEs to compete with multinationals through a low cost solution, thereby providing a more level playing field for the SMEs.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_1.pdf' target='_blank'>Freight Master Version 8.1 (5 Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_2.pdf' target='_blank'>Freight Master Version 8.1 (8 Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_3.pdf' target='_blank'>Freight Master Version 8.1 (12 Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_4.pdf' target='_blank'>Freight Master Version 8.1 (18 Licenses)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Innosys_20200256_Annex_3_Part_5.pdf' target='_blank'>Freight Master Version 8.1 (25 Licenses)</a>
 
 ### Eligibility Criteria
 

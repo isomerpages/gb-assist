@@ -1,5 +1,5 @@
 ---
-title: Xero Cloud Accounting Software - Package B (Xero Premier full package)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution12
 ---
 
@@ -8,12 +8,14 @@ permalink: /productivity-solutions-grant/solutionrepo/solution12
 
 ### Description
 
-Xero is a comprehensive accounting software that provides accounting features like invoicing, bank reconciliation, inventory, quotes, expense claims, reporting, GST and payments. 
+Xero is a comprehensive accounting software that provides accounting features like invoicing, bank reconciliation, inventory, quotes, expense claims, reporting, GST and payments.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_2.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_1.pdf' target='_blank'>Xero Cloud Accounting Software - Package A (Xero Premier full package with consultation)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_3.pdf' target='_blank'>Xero Cloud Accounting Software - Package C (Xero Premier with Training)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_4.pdf' target='_blank'>Xero Cloud Accounting Software - Package D (Xero Premier with setup)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/361_Degree_Annex_3_wef_23_April_2020_Part_5.pdf' target='_blank'>Xero Cloud Accounting Software - Package E (Xero Subscription only)</a>
 
 ### Eligibility Criteria
 

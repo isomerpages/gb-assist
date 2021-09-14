@@ -1,5 +1,5 @@
 ---
-title: Liquid Filling Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2080
 ---
 
@@ -8,11 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Semi-automated or automated filling machine replaces manual filling of liquid into drums/pallet IBC, tin cans or carboy. Machine can be customised to fit the unit requirement e.g. standard 200L/120L drum or 1L/3L tin/jerry cans.
-Semi-automatic = Operator is largely involved in the process (e.g. place container under nozzles, start the process via switch and transfer container to the next process)
-Fully automatic = Operator ensures settings are correct, minimal mechanical adjustments required 
+Semi-automated or automated filling machine replaces manual filling of liquid into drums/pallet IBC, tin cans or carboy. Machine can be customised to fit the unit requirement e.g. standard 200L/120L drum or 1L/3L tin/jerry cans.Semi-automatic = Operator is largely involved in the process (e.g. place container under nozzles, start the process via switch and transfer container to the next process)Fully automatic = Operator ensures settings are correct, minimal mechanical adjustments required
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

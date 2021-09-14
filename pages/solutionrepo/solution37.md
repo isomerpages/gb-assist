@@ -1,5 +1,5 @@
 ---
-title: Centralised Foam Soap Dispensing Reservoir
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution37
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-Equipment to support automatic refilling of foam soap to at least 3 dispensers per toilet. 
+Equipment to support automatic refilling of foam soap to at least 3 dispensers per toilet.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1126
 ---
 
@@ -10,9 +10,13 @@ Company Name:SUNTOYO TECHNOLOGY PTE LTD <br>Web URL: WWW.SUNTOYO.COM.SG <br>Co
 
 Our POS solution is customizable to use in multiple business sectors, which are Retail, F&B and SPA business models. We have almost developed most of the commonly used functionalities which are using in the above-mentioned areas. We do have a prominent in-house development and support team to full fill our client requirements.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_1.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (BASIC)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_2.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_3.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (PRO PLUS)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_4.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Suntoyo_Annex_3_CR_wef_22_Oct_2020_Part_5.pdf' target='_blank'>SUNTOYO POS SOLUTION Version 8.1-PACKAGE (ENTERPRISE PLUS)</a>
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: SourceSage Online Store - Start
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution1726
 ---
 
@@ -10,9 +10,10 @@ Web URL: https://sourcesage.co <br>Contact Hotline: +6591508236 <br>Contact Emai
 
 Founded in 2015, SourceSage is an award winning global ecommerce platform which makes it easier for you to scale your business online using your own platform. Till date, we have empowered thousands of SMEs and MNCs across different verticals with brand names including DBS Bank, DHL, Mitsui, PwC etc with their own Online Store or Whitelabeled Ecommerce Platform.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_1.pdf' target='_blank'>SourceSage Online Store - Start</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Sourcesage_Annex_3_Part_2.pdf' target='_blank'>SourceSage Online Store - Grow</a>
 
 ### Eligibility Criteria
 

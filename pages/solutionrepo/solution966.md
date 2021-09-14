@@ -1,5 +1,5 @@
 ---
-title: Microsoft Dynamics 365 Business Central for Wholesale - Package A (7 Perpetual Licenses) with  PEPPOL e-invoicing
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution966
 ---
 
@@ -10,9 +10,12 @@ Winspire Solutions Pte Ltd<br>www.winspiresolutions.com<br>Email: jkulkarni@wins
 
 An easily adaptable enterprise resource planning (ERP) solution, it helps small and medium-sized businesses automate and connect their CRM, sales, purchasing, operations, accounting, inventory management, include pre-defined workflows and processes  for the wholesale sector.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_1.pdf' target='_blank'>Microsoft Dynamics 365 Business Central for Wholesale - Package A (7 Perpetual Licenses) with  PEPPOL e-invoicing</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_2.pdf' target='_blank'>Microsoft Dynamics 365 Business Central for Wholesale - Package B (15 Perpetual Licenses) with  PEPPOL e-invoicing</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_3.pdf' target='_blank'>Microsoft Dynamics 365 Business Central for Wholesale - Package C (7 On-Cloud Licenses) with  PEPPOL e-invoicing</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Desensitised_Winspire_WS_Annex_3_v2_Part_4.pdf' target='_blank'>Microsoft Dynamics 365 Business Central for Wholesale - Package D (15 On-Cloud Licenses) with  PEPPOL e-invoicing</a>
 
 ### Eligibility Criteria
 

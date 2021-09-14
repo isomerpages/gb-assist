@@ -1,5 +1,5 @@
 ---
-title: MuRho Inventory Management System - MuRho Inventory Management System - Perpetual license on cloud software only starter pack
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution633
 ---
 
@@ -8,14 +8,10 @@ MuRho Pte Ltd <br>www.murho.com.sg<br>Email:sales@murho.com.sg<br>Tel:+65 6289 3
 
 ### Description
 
-MuRho Inventory Management System includes:
-- Store N Track (inventory & asset management)
-- Sell N Track (inventory & sales order management)
-- Manufacture N Track (inventory & manufacturing work in progress management) 
+MuRho Inventory Management System includes- Store N Track (inventory & asset management)- Sell N Track (inventory & sales order management)- Manufacture N Track (inventory & manufacturing work in progress management)
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/MuRho_Inventory_20200003_Annex_3_20200625142512_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

@@ -1,5 +1,5 @@
 ---
-title: Creative Sales & Order Management - Package (Standard)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution328
 ---
 
@@ -10,12 +10,8 @@ Creative eWorld Pte Ltd<br>www.creaworld.com.sg<br>Email: enquiry@creaworld.com.
 
 Creative Sales and Order Management System is a B2B ecommerce platform that facilitates efficient procurement process through a centralized and secure application hosting. It comes with various modules such as procurement, quotation, invoice, news & events to allow better management of SMEs product catalogue and streamlining of business workflows.
 
+### Packages Available
 
-
-
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Creative_eWorld_WS_SalesnOrder_Annex_3_Part_3.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

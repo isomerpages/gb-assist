@@ -1,5 +1,5 @@
 ---
-title: PayAdvisorMobile@HRM Version 3 - Package (Tier 1 - 25 user)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution267
 ---
 
@@ -10,10 +10,8 @@ Capps Solutions Pte Ltd<br>www.capps.com.sg<br>Email: contact@capps.com.sg<br>Te
 
 PayAdvisorMobile @HRM PayAdvisorMobile , a Mobile Workforce Management Software-As-A-Service on Web and Mobile platforms, which includes Personnel, Time & Attendance, Payroll, Leave, Benefits and Claim and Performance Appraisal Management modules - it is an All - In -One human resource solution.
 
+### Packages Available
 
-### Details of Solution
-
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Capps_Solutions_PayAdvisorMobile_HRM 20200040_Annex_3_20200625143624_Part_1.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

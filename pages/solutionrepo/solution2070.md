@@ -1,5 +1,5 @@
 ---
-title: Revel Systems - Revel Essentials -  Modern Restaurant 
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2070
 ---
 
@@ -8,12 +8,10 @@ Web URL: www.revelsystems.com <br>Contact Hotline: +6531633097 <br>Contact Ema
 
 ### Description
 
-Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. 
-The Revel Enterprise- solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
+Revel's point of sale and business solutions provide a native cloud technology platform that is at the heart of our clients' businesses. The Revel platform helps restaurants and retailers deliver a better customer experience, diversify revenue streams, and scale their businesses with ease. The Revel Enterprise- solution is tailored for large chains and leads the industry with a broad footprint of national, big brand customer implementations.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/RevelSystemsGlobal20200600_Desensitised_Annex_3(002)_Part_2.pdf' target='_blank'>here</a> to view details of solution.
 
 ### Eligibility Criteria
 

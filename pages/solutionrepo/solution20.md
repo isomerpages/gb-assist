@@ -1,5 +1,5 @@
 ---
-title: Automated Rice Washer
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution20
 ---
 
@@ -8,13 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The automated rice washer has built-in sensors and allow water to flow through the rice consistently. It will cut the time spent washing rice by 60%. It comes with an automatic wastewater mechanism to retain rice when draining wash water. 
+The automated rice washer has built-in sensors and allow water to flow through the rice consistently. It will cut the time spent washing rice by 60%. It comes with an automatic wastewater mechanism to retain rice when draining wash water. Min throughput 6kgGrant support 80% of cost of equipment, up to $16,000 grant
 
-Min throughput: 6kg
-
-Grant support: 80% of cost of equipment, up to $16,000 grant
-
-### Details of Solution
+### Packages Available
 
 N.A.
 

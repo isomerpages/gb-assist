@@ -1,5 +1,5 @@
 ---
-title: Water Filtration System
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2161
 ---
 
@@ -8,9 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield. 
+A system for filtration of water used for farming to improve growing conditions, prevent diseases and increase yield.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: ABSS Premier Version 23.0 - Package A (Single User Licence full package)
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution141
 ---
 
@@ -10,9 +10,13 @@ Andre Corporate Pte Ltd<br>https://www.andrecorpl.com/psg-for-abss-premier-softw
 
 ABSS premier is an on-premise full fledge and integrated accounting, sales, inventory and multiple-currency management solution.
 
-### Details of Solution
+### Packages Available
 
-Click <a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_1.pdf' target='_blank'>here</a> to view details of solution.
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_1.pdf' target='_blank'>ABSS Premier Version 23.0 - Package A (Single User Licence full package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_2.pdf' target='_blank'>ABSS Premier Version 23.0 - Package B (Three User Licence full package)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_3.pdf' target='_blank'>ABSS Premier Version 23.0 - Package C (Three User Licence full package with remote access)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_4.pdf' target='_blank'>ABSS Premier Version 23.0 - Package D (Single User Licence product only)</a>
+<a href='https://www.gobusiness.gov.sg/images/psg/Andre_Corporate_Annex_3_Part_5.pdf' target='_blank'>ABSS Premier Version 23.0 - Package E (Three User Licence product only)</a>
 
 ### Eligibility Criteria
 

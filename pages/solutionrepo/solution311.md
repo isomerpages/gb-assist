@@ -1,5 +1,5 @@
 ---
-title: Form Fill Seal Machine
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution311
 ---
 
@@ -8,12 +8,9 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 ### Description
 
-The form fill seal machine automates the packaging process. 
-The product (e.g. noodles, flour) is placed at the top of the machine hopper. It will funnel the product into the plastic packaging and heat seal the pack. 
-The machine allows for quick and accurate filling in a manufacturing line.
-It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation
+The form fill seal machine automates the packaging process. The product (e.g. noodles, flour) is placed at the top of the machine hopper. It will funnel the product into the plastic packaging and heat seal the pack. The machine allows for quick and accurate filling in a manufacturing line.It is recommended for the form fill seal machine to have a touch panel interface and integrated printer for production information so as to allow smooth operation
 
-### Details of Solution
+### Packages Available
 
 N.A.
 

@@ -1,5 +1,5 @@
 ---
-title: High Pressure Rotating Head
+title: 
 permalink: /productivity-solutions-grant/solutionrepo/solution2082
 ---
 
@@ -10,7 +10,7 @@ There is no pre-approved vendor. You may find your own, as all vendors qualify.
 
 The high pressure rotating head features a nozzle that rotates and swivels with high flow rates at a high operating pressure. It can be fixed to various rotors and extensions to cater for cleaning different tanks/vessels. Time and manpower reliance can be reduced when using this equipment.
 
-### Details of Solution
+### Packages Available
 
 N.A.
 
