@@ -4,4 +4,7 @@ permalink: /licences/event-organisers/
 third_nav_title: Licences and Permits
 ---
 
-test
+<meta http-equiv="REFRESH" content="0;url=https://eadviser.g2b.sg/events">
+
+<script src="/jquery/jquery.min.js"></script>
+<script src="/jquery/bp-menu-new-tab.js"></script>
