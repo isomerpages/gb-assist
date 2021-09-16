@@ -7,7 +7,7 @@ published: true
 
 ## New GoBusiness feature: e-Advisers for Events
 
-![licences-eadviser](/images/news/News_Licensing eAdviser launch.jpg)
+![events-eadviser](/images/news/News_Events eAdviser launch.jpg)
 
 GoBusiness has launched e-Advisers for Licences, a new feature to help users find out which licences they need, and apply for them.
 
