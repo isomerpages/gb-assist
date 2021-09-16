@@ -12,11 +12,34 @@ Most businesses need licences and permits for different business activities. Wit
 
 {% include panels.html panels=site.data.rg_licences %}
 
-### For new food service business owners
+### Quick links
+
+![Food Services](/images/grow/eventorganisers.png)
+
+#### For event organisers <span style="background: #E6F2F3;
+      border-radius: 3px;
+      width: 49px;
+      height: 22px;
+      padding: 2px 8px;
+      font-family: hknova-regular;
+      font-size: 12px;
+      line-height: 18px;
+      color: #02737D;
+      display: inline-block;
+      vertical-align: middle;
+      margin-left: 8px;">
+  New!
+  </span>
+
+Find out the licences and permits you need to organise an event with our new e-Adviser for Events.
+
+<p>
+{% include button.html text="Go to e-Adviser for Events" src="https://eadviser.g2b.sg/events" type="primary" %}
+</p>
 
 ![Food Services](/images/grow/foodservices.png)
 
-#### Guided Journey
+#### For new food service business partners
 
 If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
 
