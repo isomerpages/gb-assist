@@ -2,7 +2,7 @@
 title: Time Limited RRT for Workspaces
 permalink: /timelimitedrrt/
 ---
-## Time-Limited 8-weeks Rostered Routin Testing (RRT) for workplaces
+## Time-Limited 8-weeks Rostered Routine Testing (RRT) for workplaces
 
 As part of the national effort to step up regular testing, firms with employees that work onsite and <b>are not already subject to mandatory RRT</b>, will be eligible to voluntarily apply for 8 Antigen Rapid Test (ART) kits per onsite employee for weekly testing of their staff over a two-month period. With these kits, firms are to initiate weekly testing for their onsite staff. These tests can be administered by the individuals themselves at home, or at the work premises. 
 
