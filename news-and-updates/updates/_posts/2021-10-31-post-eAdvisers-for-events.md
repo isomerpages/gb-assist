@@ -1,11 +1,11 @@
 ---
 layout: post
-title: e-Advisers for Events
+title: e-Advisers for events
 permalink: /news-and-updates/updates/eAdvisers-for-events
 published: true
 ---
 
-## New GoBusiness feature: e-Advisers for Events
+## New GoBusiness feature: e-Advisers for events
 
 ![events-eadviser](/images/news/News_Events eAdviser launch.jpg)
 
