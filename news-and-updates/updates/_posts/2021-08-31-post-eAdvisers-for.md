@@ -5,7 +5,7 @@ permalink: /news-and-updates/updates/eAdvisers-for-events
 published: true
 ---
 
-## New GoBusiness feature: e-Advisers for
+## New GoBusiness feature: e-Advisers for Events
 
 ![licences-eadviser](/images/news/News_Licensing eAdviser launch.jpg)
 
