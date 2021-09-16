@@ -8,6 +8,10 @@ const customTables = [
     columns: ["32%", "auto"],
   },
   {
+    path: "/timelimitedrrt/",
+    columns: ["32%", "auto"],
+  },
+  {
     path: "/covid-faqs/workplace-safe-management-measures",
     columns: ["32%", "auto"],
   },

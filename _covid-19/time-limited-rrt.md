@@ -24,10 +24,6 @@ Firms that apply for the ART kits are also required to submit their ART results 
   
 The Government shall have the right to claw back the cost of any test kits should any of the information submitted in the application form or results declaration form are found to be untrue, or if any of non-compliance to the testing requirements are found.
 
-All firms, bodies and self-employed persons in operation must comply with the safe management requirements [here](/safemanagement/general/) and sector-specific requirements [here](/safemanagement/sector/).
-
-The list of services that are currently allowed to resume operations and their corresponding Singapore Standard Industrial Classification (SSIC) codes, can be found [here](/images/covid/Permitted Services (11 May).pdf){:target="_blank"}.
-
 ### Application
 
 Firms with employees that meet the eligibility criteria may apply for ART kits via this link: [https://go.gov.sg/time-limited-rrt-art-kits-application](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="blank"}{:rel="noopener"} 
@@ -40,7 +36,7 @@ For queries about your application, please contact:
 
 * Enterprise Singapore (ESG) at [https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="blank"}{:rel="noopener"} or [+65 6898 1800](tel:+6568981800) (Monday to Friday, 8:30am to 5:30pm, closed on Public Holidays)
 
-* Health Promotion Board (HPB) at [+65 6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm, closed on Public Holidays)
+* Health Promotion Board (HPB) at [6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm, closed on Public Holidays)
 
 ### More information about ART
 Learn more about how to perform a self-test using ART and what to do if tested positive:
