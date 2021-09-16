@@ -1,7 +1,7 @@
 ---
 layout: post
-title: e-Advisers for
-permalink: /news-and-updates/updates/eAdvisers-for
+title: e-Advisers for events
+permalink: /news-and-updates/updates/eAdvisers-for-events
 published: true
 ---
 
