@@ -23,6 +23,7 @@ Find out the licences and permits you need to organise an event with our new e-A
 <p>
 {% include button.html text="Go to e-Adviser for Events" src="https://eadviser.g2b.sg/events" type="primary" %}
 </p>
+<br>
 
 ![Food Services](/images/grow/foodservices.jpg)
 
