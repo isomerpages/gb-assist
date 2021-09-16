@@ -14,7 +14,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ### Quick links
 
-![Food Services](/images/grow/eventorganisers.png)
+![Event eAdviser](/images/grow/eventorganisers.jpg)
 
 #### For event organisers <span style="background: #E6F2F3;
       border-radius: 3px;
@@ -37,7 +37,7 @@ Find out the licences and permits you need to organise an event with our new e-A
 {% include button.html text="Go to e-Adviser for Events" src="https://eadviser.g2b.sg/events" type="primary" %}
 </p>
 
-![Food Services](/images/grow/foodservices.png)
+![Food Services](/images/grow/foodservices.jpg)
 
 #### For new food service business partners
 
