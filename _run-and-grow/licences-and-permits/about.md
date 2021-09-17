@@ -15,7 +15,7 @@ Most businesses need licences and permits for different business activities. Wit
 ### Quick links
 
 ![Event eAdviser](/images/grow/eventorganisers.jpg)
-#### For event organisers <span style="background: #E6F2F3; border-radius: 3px; width: 49px; height: 22px; padding: 2px 8px; font-family: hknova-regular; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;">New!</span>
+#### For event organisers <span style="background: #E6F2F3; border-radius: 3px; width: 49px; height: 22px; padding: 2px 8px; font-family: hknova-semibold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;">New!</span>
 
 Find out the licences and permits you need to organise an event with our new e-Adviser for Events.
 
