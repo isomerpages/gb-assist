@@ -15,7 +15,8 @@ Most businesses need licences and permits for different business activities. Wit
 ### Quick links
 
 ![Event eAdviser](/images/grow/eventorganisers.jpg)
-#### For event organisers <span style="background: #E6F2F3; border-radius: 3px; width: 49px; height: 22px; padding: 2px 8px; font-family: hknova-semibold; font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;">New!</span>
+
+#### For event organisers <span style="background: #E6F2F3; border-radius: 3px; width: 49px; height: 22px; padding: 2px 8px; font-family: 'hknova-regular'; font-weight: 400;font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;">New!</span>
 
 Find out the licences and permits you need to organise an event with our new e-Adviser for Events.
 
@@ -25,6 +26,7 @@ Find out the licences and permits you need to organise an event with our new e-A
 <br>
 
 ![Food Services](/images/grow/foodservices.jpg)
+
 #### For new food service business partners
 
 If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
@@ -40,8 +42,8 @@ If you are starting a new food service business, find out which licences you nee
 If your licence is from
 
 | --- | --- |
-|**SFA, NParks and AVS**|[Log In Here](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=run&grow_licences_sfavsnparks){:target="_blank"}|
-|**All other agencies**|[Log In Here](https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=run&grow_licences_allothers){:target="_blank"}|
+|**SFA, NParks and AVS**|[Log In Here](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=run&grow_licences_sfavsnparks){:target="\_blank"}|
+|**All other agencies**|[Log In Here](https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=run&grow_licences_allothers){:target="\_blank"}|
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

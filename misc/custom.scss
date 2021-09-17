@@ -828,3 +828,8 @@ hr {
 img[alt=DBS]{ width: 82px; align: left;}
 img[alt=OCBC]{ width: 120px; align: left; }
 img[alt=UOB]{ width: 120px; align: left; } 
+
+.banner-text-layout > .is-text > b {
+  font-family: hknova-semibold;
+  font-weight: $semi-bold;
+}
