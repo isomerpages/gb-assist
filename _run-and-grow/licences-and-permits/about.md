@@ -18,7 +18,9 @@ Most businesses need licences and permits for different business activities. Wit
 
 #### For event organisers <span style="background: #E6F2F3; border-radius: 3px; width: 49px; height: 22px; padding: 2px 8px; font-family: 'hknova-regular'; font-weight: 400;font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;">New!</span>
 
-Find out the licences and permits you need to organise an event with our new e-Adviser for Events.
+Are you an event organiser organising Sports, MICE, Arts/Culture, and/or Business-to-Consumer (B2C) events such as marathons, conferences, festivals, travel fairs etc?
+
+Find out which licences and permits you need to organise a physical event in Singapore with our new e-Adviser for Events.
 
 <p>
 {% include button.html text="Go to e-Adviser for Events" src="https://eadviser.g2b.sg/events" type="primary" %}
