@@ -1,10 +1,10 @@
 ---
 title: Education
-permalink: /covid-faqs/for-sector-specific-queries/education
+permalink: /covid-19-faqs/for-sector-specific-queries/education
 third_nav_title: For Sector-Specific Queries
 ---
 
-### Education
+### Education [last updated 19 Aug 2021]
 
 {% include accordion.html accordions=site.data.acc097-education.accordion %}
 
