@@ -1,6 +1,6 @@
 ---
 title: Early Childhood Sector Solutions
-permalink: /productivity-solutions-grant/sector-specific-solutions/earlychildhood/
+permalink: /productivity-solutions-grant/sector-specific-solutions/early-childhood/
 third_nav_title: Sector Specific Solutions
 ---
 

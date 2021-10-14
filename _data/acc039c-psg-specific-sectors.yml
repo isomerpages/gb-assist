@@ -14,6 +14,10 @@
   url: /productivity-solutions-grant/sector-specific-solutions/cleaning/
   text: View solutions
 
+- title: Early Childhood
+  url: /productivity-solutions-grant/sector-specific-solutions/early-childhood/
+  text: View solutions
+
 - title: Engineering Services
   url: /productivity-solutions-grant/sector-specific-solutions/engineering-services/
   text: View solutions
@@ -36,6 +40,10 @@
 
 - title: Healthcare
   url: /productivity-solutions-grant/sector-specific-solutions/healthcare/
+  text: View solutions
+
+- title: Legal
+  url: /productivity-solutions-grant/sector-specific-solutions/legal/
   text: View solutions
 
 - title: Logistics

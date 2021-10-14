@@ -12,6 +12,6 @@ third_nav_title: Sector Specific Solutions
 
 ### Equipments
 
-{% include accordion.html accordions=site.data.ace011-logistics.accordion %}
+{% include accordion.html accordions=site.data.ace012-logistics.accordion %}
 
 _If you d like to become a pre-qualified vendor for PSG IT solutions, click <a target='_blank' href='https://www.imda.gov.sg/icmvendors' >here</a> to find out more._
