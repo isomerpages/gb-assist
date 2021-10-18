@@ -1,6 +1,6 @@
 panels:
   - title: New Business Owners
-    image: /images/new business.svg
+    image: /images/blog/photo
     alt: new_business
     links:
       - text: Business registration matters
