@@ -7,9 +7,10 @@ permalink: /run-and-grow/
 
 With GoBusiness, you get easy and efficient access to over 100 government assistance schemes, grants, licences, resources and more. What would you like to do next?
 
-- [Gov Assist](#ga-anchor)
-- [Licences & permits](#licence-permit-anchor)
-- [Taxes, GST and Customs](#tax-anchor)
+>**On this page:**
+>- [Gov Assist](#ga-anchor)
+>- [Licences & permits](#licence-permit-anchor)
+>- [Taxes, GST and Customs](#tax-anchor)
 
 <a name="ga-anchor"></a>
 ### Government Assistance
