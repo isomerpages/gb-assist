@@ -10,32 +10,9 @@
     .content .panel {
         display: grid;
         row-gap: 16px;
-        border: 1px solid #dbdfe4;
-        box-shadow: 0 0 0 rgba(22, 26, 29, 0.03), 0px 7px 25px rgba(22, 26, 29, 0.03), 0px 4px 12px rgba(22, 26, 29, 0.03);
-        border-radius: 5px;
-        padding: 24px;
         word-break: break-word;
         grid-auto-rows: auto;
-    }
-
-    .content .panel .panel-image {
-        font-family: hknova-semibold;
-        font-size: 24px;
-        font-weight: 600;
-        width: auto;
-        height: 60px;
-    }
-
-    .content .panel .panel-image>img {
-        width: auto;
-        height: 100%;
-        margin: 0;
-    }
-
-    .content .panel .panel-image>img[src*="budget2021_govassist.png"] {
-        width: 150px;
-        object-fit: cover;
-        object-position: 90% 10%;
+        background-color: #EEF0F2;
     }
 
     .content .panel .panel-title {
@@ -64,7 +41,7 @@
     }
 
 
-    @media (max-width: 600px) {
+    @media (max-width: auto) {
         .content .panels {
             grid-template-columns: 1fr;
         }

@@ -13,6 +13,7 @@ With GoBusiness, you get easy and efficient access to over 100 government assist
 - [Licences & permits](#licence-permit-anchor)
 - [Taxes, GST and Customs](#tax-anchor)
 </span>
+{% include panels-single.html panels=site.data.anr001-run-and-grow-overview %}
 
 
 <a name="ga-anchor"></a>
