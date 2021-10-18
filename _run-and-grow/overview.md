@@ -12,6 +12,7 @@ With GoBusiness, you get easy and efficient access to over 100 government assist
 - [Gov Assist](#ga-anchor)
 - [Licences & permits](#licence-permit-anchor)
 - [Taxes, GST and Customs](#tax-anchor)
+</span>
 
 <a name="ga-anchor"></a>
 ### Government Assistance
