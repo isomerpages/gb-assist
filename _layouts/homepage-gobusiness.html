@@ -625,12 +625,32 @@ layout: skeleton
       <div class="cta-container">
         <h1>Government <br class="break-mobile" />e-Services<br class="break-desktop" /> for<br
             class="break-mobile" /> your business</h1>
-        <p>
-          Licences, permits, grants and other e-Services, now all in one place
-          on GoBusiness.
-        </p>
         {% include primary-btn.html href="/login/?src=hero_banner" text="Log In to GoBusiness" %}
       </div>
+    </div>
+
+    <div id="main-content" role="main" onclick>
+      <section class="bp-section">
+        <div class="bp-container content padding--top--lg padding--bottom--xl">
+          <div class="row">
+            <div class="col print-content">
+              <div class="panels-title-container">
+                <h1 class="panels-title">Quick Links</h1> 
+              </div>
+              <div class="panels">
+                {% include hyp-panels.html panels=site.data.hyp-panels-quicklinks.panels %}
+              </div>
+  
+              <div class="panels-title-container">
+                <h1 class="panels-title">e-Services for Businesses</h1>
+              </div>
+              <div class="panels">
+                {% include hyp-panels.html panels=site.data.hyp-panels-eservices.panels %}
+              </div>
+            </div>
+          </div>
+        </div>
+      </section>
     </div>
 
     <div class="services-container">
