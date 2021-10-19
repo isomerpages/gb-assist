@@ -1,32 +1,32 @@
 
 <style>
-    .content .panels {
+    .content .spanels {
     }
 
-    .content .panel {
+    .content .spanel {
         word-break: break-word;
         background-color: #EEF0F2;
     }
 
-    .content .panel .panel-title {
+    .content .spanel .spanel-title {
         font-family: hknova-semibold;
         margin: 0;
     }
 
-    .content .panel .panel-description,
-    .content [class*="panel-"]>div {
+    .content .spanel .spanel-description,
+    .content [class*="spanel-"]>div {
         font-family: hknova-regular;
         margin: 0;
     }
 
-    .content .panel .panel-links-container {
+    .content .spanel .spanel-links-container {
         display: grid;
         row-gap: 8px;
         height: fit-content;
         align-self: end;
     }
 
-    .content .panel .panel-link {
+    .content .spanel .spanel-link {
         font-size: 18px;
         line-height: 27px;
         display: block;
@@ -35,50 +35,50 @@
 
 
     @media (max-width: auto) {
-        .content .panels {
+        .content .spanels {
             grid-template-columns: 1fr;
         }
     }
 </style>
-<div class="panels">
-    {% for panel in include.panels %}
-    <div class="panel">
-        {% if {{panel.label}} %}
-        <div class="panel-label">{% include label.html label=panel.label %}</div>
+<div class="spanels">
+    {% for spanel in include.spanels %}
+    <div class="spanel">
+        {% if {{spanel.label}} %}
+        <div class="spanel-label">{% include label.html label=spanel.label %}</div>
         {% endif %}
-        {% if panel.image %}
-        <div class="panel-image">{{ panel.image }}</div>
+        {% if spanel.image %}
+        <div class="spanel-image">{{ spanel.image }}</div>
         {% endif %}
-        <h4 class="panel-title">{{ panel.title }}</h4>
-        {% if panel.description %}
-        <p class="panel-description">{{ panel.description }}</p>
+        <h4 class="spanel-title">{{ spanel.title }}</h4>
+        {% if spanel.description %}
+        <p class="spanel-description">{{ spanel.description }}</p>
         {% endif %}
-        {% if panel.tel or panel.email or panel.url %}
-        <div class="panel-links-container">
-            {% if panel.tel %}
-            <div class="panel-links-group">
-                {% assign tels = panel.tel | split: '|' %}
+        {% if spanel.tel or spanel.email or spanel.url %}
+        <div class="spanel-links-container">
+            {% if spanel.tel %}
+            <div class="spanel-links-group">
+                {% assign tels = spanel.tel | split: '|' %}
                 {% for tel in tels %}
-                <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
+                <a class="spanel-link" href="tel:{{ tel }}">{{ tel }}</a>
                 {% endfor %}
             </div>
             {% endif %}
-            {% if panel.email %}
-            <div class="panel-links-group">
-                {% assign emails = panel.email | split: '|' %}
+            {% if spanel.email %}
+            <div class="spanel-links-group">
+                {% assign emails = spanel.email | split: '|' %}
                 {% for email in emails %}
-                <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
+                <a class="spanel-link" href="mailto:{{ email }}">{{ email }}</a>
                 {% endfor %}
             </div>
             {% endif %}
-            {% if panel.url %} 
-            <div class="panel-links-group">
-                {% assign urls = panel.url | split: '|' %}
+            {% if spanel.url %} 
+            <div class="spanel-links-group">
+                {% assign urls = spanel.url | split: '|' %}
                 {% for url in urls %}
-                <a class="panel-link"
-                    href="{% if panel.protocol %}{{panel.protocol}}://{% else %}{% endif %}{{url}}"
-                    target="{% if panel.url-new-tab %}_blank{% else %}{% endif %}">
-                    {% if panel.text %}{{panel.text}}
+                <a class="spanel-link"
+                    href="{% if spanel.protocol %}{{spanel.protocol}}://{% else %}{% endif %}{{url}}"
+                    target="{% if spanel.url-new-tab %}_blank{% else %}{% endif %}">
+                    {% if spanel.text %}{{spanel.text}}
                     {% else %}{{url}}{% endif %}</a>
                 {% endfor %}
             </div>
