@@ -616,68 +616,7 @@ layout: skeleton
         column-gap: 0;
         padding: 0;
       }
-
     }
-
-    /* eService styling */
-    #main-content {
-      background-color: #f9fafa;
-    }
-
-    #main-content .bp-section {
-      padding-top: 32px;
-    }
-
-    .panels-title-container {
-      margin-top: 64px;
-      margin-bottom: 24px;
-      text-align: center;
-    }
-
-    .panels-title-container:nth-child(1) {
-      margin-top: 0;
-    }
-
-    .panels-title {
-      font-size: 48px;
-      line-height: 52px;
-      letter-spacing: -1px;
-    }
-
-    .panels {
-      display: grid;
-      grid-gap: 20px;
-      grid-template-columns: repeat(3, 1fr);
-      max-width: fit-content;
-      max-width: -moz-fit-content;
-      margin: 0 auto;
-    }
-
-    .break-mobile {
-      display: none;
-      z-index: 2;
-      position: relative;
-    }
-
-
-    @media only screen and (max-width: 1279px) {
-      .panels {
-        grid-template-columns: 1fr 1fr;
-        justify-items: center;
-      }
-
-      .break-mobile {
-        display: block;
-      }
-    }
-
-    @media only screen and (max-width: 799px) {
-      .panels {
-        grid-template-columns: 1fr;
-        justify-items: center;
-      }
-    }
-
   </style>
 
   <div class="home-content">
@@ -685,9 +624,12 @@ layout: skeleton
       <div class="hero-container"></div>
       <div class="cta-container">
         <h1>Government <br class="break-mobile" />e-Services<br class="break-desktop" /> for<br
-            class="break-mobile" /> your business</h1><br>
+            class="break-mobile" /> your business</h1>
+        <p>
+          Licences, permits, grants and other e-Services, now all in one place
+          on GoBusiness.
+        </p>
         {% include primary-btn.html href="/login/?src=hero_banner" text="Log In to GoBusiness" %}
-        <br>
       </div>
     </div>
 
