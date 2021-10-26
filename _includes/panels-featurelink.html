@@ -80,6 +80,11 @@
         <div class="panel-image">{{ panel.image }}</div>
         {% endif %}
         <h4 class="panel-title">{{ panel.title }}</h4>
+        {% if panel.is_new %}
+        <span style="margin-left: 8px;">
+          {% include new-tag.html %}
+        </span>
+        {% endif %}
         {% if panel.description %}
         <p class="panel-description">{{ panel.description }}</p>
         {% endif %}
