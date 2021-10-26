@@ -7,15 +7,14 @@ permalink: /run-and-grow/
 
 With GoBusiness, you get easy and efficient access to over 100 government assistance schemes, grants, licences, resources and more. What would you like to do next?
 
-
 {% include panels-single.html spanels=site.data.anr001-run-and-grow-overview %}
 
+---
 
 <a name="ga-anchor"></a>
 ### Government Assistance
 
 ![Gov Assist](/images/grow/RG-Overview-GovAssist-Banner.png)
-
 
 To help businesses expand and transform, the government provides support in various forms:
 - [Tax Incentives](/gov-assist/tax-incentives/)
@@ -48,23 +47,31 @@ All businesses require licences to operate, depending on the nature of their bus
 - [Renew or amend existing licence](https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=run&grow_licences_allothers){:target="_blank"}{:rel="noopener"}
 - [Get recommendations for what licences to apply](/licences/find-licence-by-sector/)
 
-{% include panels.html panels=site.data.rg_overview_licences_permit %}
+---
+<!-- {% include panels.html panels=site.data.rg_overview_licences_permit %} -->
 
 <a name="tax-anchor"></a>
 ### Taxes, GST and Customs
-
 
 ![Taxes GST and Customs](/images/grow/RG-Overview-Taxes-Banner.png)
 
 A simple guide to a business' responsibilities while operating in Singapore.
 
-{% include panels.html panels=site.data.rg_overview_taxesgstcustoms %}
+- [Learn about annual filing](/run-and-grow/annual-returns/)
+- [Register for GST](/run-and-grow/taxes-and-gst/)
+- [Import and export goods](/run-and-grow/imports-and-exports/)
+<!-- {% include panels.html panels=site.data.rg_overview_taxesgstcustoms %} -->
 
 ---
 
-### Related links
+### Other Programmes
 
-{% include panels.html panels=site.data.rg_overview_related_links %}
+Here are more government programmes to support the growth and expansion of businesses:
+- [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/) <br>The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity.
+
+- [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/?src=run&grow_bgp){:target="_blank"}{:rel="noopener"} <br>The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
+
+<!-- {% include panels.html panels=site.data.rg_overview_related_links %} -->
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
