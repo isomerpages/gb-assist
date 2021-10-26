@@ -63,9 +63,9 @@ GoBusiness Dashboard is
 
 You can apply for and manage 24 licences from SPF, ...... More licences will be integrated over the next 2 years.
 
-Learn more about what the Dashboard can do for you in our article introducing the Dashboard and its features. Try it and tell us your feedback!
+Learn more about what the Dashboard can do for you in [our article introducing the Dashboard and its features](https://www.google.com.sg). Try it and tell us your feedback!
 
-For more questions about GoBusiness Licensing, please refer to our FAQ.
+For more questions about GoBusiness Licensing, please refer to our [FAQ](/licensing-faqs/).
 
 <p>
 {% include button.html text="Preview GoBusiness Dashboard" src="https://www.google.com.sg" type="primary" %}
