@@ -34,8 +34,6 @@ https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
 
 ---
 
-<!-- {% include panels.html panels=site.data.rg_overview_ga %} -->
-
 <a name="licence-permit-anchor"></a>
 ### Licences and Permits
 
@@ -48,7 +46,6 @@ All businesses require licences to operate, depending on the nature of their bus
 - [Get recommendations for what licences to apply](/licences/find-licence-by-sector/)
 
 ---
-<!-- {% include panels.html panels=site.data.rg_overview_licences_permit %} -->
 
 <a name="tax-anchor"></a>
 ### Taxes, GST and Customs
@@ -60,7 +57,6 @@ A simple guide to a business' responsibilities while operating in Singapore.
 - [Learn about annual filing](/run-and-grow/annual-returns/)
 - [Register for GST](/run-and-grow/taxes-and-gst/)
 - [Import and export goods](/run-and-grow/imports-and-exports/)
-<!-- {% include panels.html panels=site.data.rg_overview_taxesgstcustoms %} -->
 
 ---
 
@@ -70,8 +66,6 @@ Here are more government programmes to support the growth and expansion of busin
 - [Productivity Solutions Grant (PSG)](/productivity-solutions-grant/) <br>The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity.
 
 - [Business Grants Portal (BGP)](https://www.businessgrants.gov.sg/?src=run&grow_bgp){:target="_blank"}{:rel="noopener"} <br>The Business Grants Portal (BGP) is a one-stop portal for businesses to apply for grants according to their needs without having to approach multiple agencies.
-
-<!-- {% include panels.html panels=site.data.rg_overview_related_links %} -->
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
