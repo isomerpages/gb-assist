@@ -48,6 +48,10 @@ If you are starting a new food service business, find out which licences you nee
 <a name="renew-amend-licence-anchor"></a>
 
 ### Renew or amend licence
+
+There are two licence management platforms, depending on the issuing government agency.
+
+**Where is your licence from?**
  
 ![Others](/images/grow/allotherbizowners.png)
 
