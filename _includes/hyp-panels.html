@@ -43,11 +43,11 @@
     align-items: center;
   }
 
-  .panel-content-info-container {
+  /* .panel-content-info-container {
     background: #eef0f2;
     border-radius: 5px;
     padding: 12px 20px;
-  }
+  } */
 
   .panel-content-info-text {
     font-family: hknova-regular !important;
@@ -137,6 +137,7 @@
   {% if panel.info-text %}
   <div class="panel-content-info-container">
     <p class="panel-content-info-text">
+      ---
       {{panel.info-text}}
     </p>
   </div>
