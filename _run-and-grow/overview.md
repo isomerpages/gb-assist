@@ -60,6 +60,7 @@ A simple guide to a business' responsibilities while operating in Singapore.
 
 ---
 
+<a name="other-anchor"></a>
 ### Other Programmes
 
 Here are more government programmes to support the growth and expansion of businesses:

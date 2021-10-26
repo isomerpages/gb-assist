@@ -1,6 +1,6 @@
 panels:
   - title: New Business Owners
-    image: /images/blog/photo.jpg
+    image: /images/new business.svg
     alt: new_business
     links:
       - text: Business registration matters
@@ -9,7 +9,7 @@ panels:
         href: /e-services/essential-biz-regulations/
     info-text: View our <a class="panel-content-links underline" href="/start-a-business/choose-a-business-structure/">Start-up Guide</a> for step by step guidance on starting a business
   - title: Accounting and Finance
-    image: /images/blog/photo.jpg
+    image: /images/blog/accounting.svg
     alt: accounting
     links:
       - text: Government assistance for businesses
@@ -17,7 +17,7 @@ panels:
       - text: Taxes and GST
         href: /e-services/taxes-and-gst/
   - title: Business Administration
-    image: /images/blog/photo.jpg
+    image: /images/blog/business admin.svg
     alt: business_admin
     links:
       - text: Change in owner or director
