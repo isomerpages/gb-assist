@@ -16,7 +16,7 @@ Most businesses need licences and permits for different business activities. Wit
 
 ### Apply for new licence
 
-{% include panels.html panels=site.data.rg_licences %}
+{% include panels-featurelink.html panels=site.data.rg_licences %}
 
 ### Featured licence guides
 
@@ -68,7 +68,7 @@ Learn more about what the Dashboard can do for you in our article introducing th
 For more questions about GoBusiness Licensing, please refer to our FAQ.
 
 <p>
-{% include button.html text="Preview GoBusiness Dashboard" src="https://eadviser.g2b.sg/events" type="primary" %}
+{% include button.html text="Preview GoBusiness Dashboard" src="https://www.google.com.sg" type="primary" %}
 </p>
 
 <script src="/jquery/jquery.min.js"></script>

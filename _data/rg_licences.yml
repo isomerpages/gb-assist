@@ -1,9 +1,11 @@
-- title: Find by Sector
-  description: Select your business sector, and answer a few questions to find out which licences you need.
+- image: <img src="/images/grow/Shapequestion.png">
+  title: I'm not sure where to start
+  description: Get recommendations on what licences your beusiness might need.
   url: /licences/find-licence-by-sector/
-  text: Browse List of Sectors
+  text: View our Licence Guides
 
-- title: Browse All Licences
-  description: Browse the list of licences you can apply for from each government agency.
+- image: <img src="/images/grow/Shapequestion.png">
+  title: I know what licence I need
+  description: GFind specific licences, sorted by government agency.
   url: /licences/find-licence-by-agency/
-  text: Browse All Government Agencies
+  text: Browse All Licences
