@@ -89,8 +89,8 @@
         <p class="panel-description">{{ panel.description }}</p>
         {% endif %}
         {% if panel.tel or panel.email or panel.url %}
+        <hr style="width:100%;text-align:left;margin-left:0">
         <div class="panel-links-container">
-            <hr style="width:100%;text-align:left;margin-left:0">
             {% if panel.tel %}
             <div class="panel-links-group">
                 {% assign tels = panel.tel | split: ',' %}

@@ -6,6 +6,6 @@
 
 - image: <img src="/images/grow/Shapequestion.png">
   title: I know what licence I need
-  description: GFind specific licences, sorted by government agency.
+  description: Find specific licences, sorted by government agency.
   url: /licences/find-licence-by-agency/
   text: Browse All Licences
