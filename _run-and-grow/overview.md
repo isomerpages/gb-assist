@@ -27,15 +27,26 @@ Additional support programmes are also available:
 - [Covid-19 Support](/supportschemes/immediateschemes)
 - [Budget 2021](/gov-assist/budget-2021/)
 
-{% include panels.html panels=site.data.rg_overview_ga %}
+Want help navigating all the available schemes? Use our e-Adviser for Government Assistance to see what support schemes your company is eligible for:
+
+{% include button.html text="Go to e-Adviser for Government Assistance" src="
+https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
+" type="primary" %}
+
+---
+
+<!-- {% include panels.html panels=site.data.rg_overview_ga %} -->
 
 <a name="licence-permit-anchor"></a>
 ### Licences and Permits
 
-
 ![Licences and Permits](/images/grow/RG-Overview-Licensing-Banner.png)
 
-Find licences issued by all the government agencies on GoBusiness.
+All businesses require licences to operate, depending on the nature of their business and the sector they are in.
+
+- [Find a licence](/licences/find-licence-by-agency/)
+- [Renew or amend existing licence](https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=run&grow_licences_allothers){:target="_blank"}{:rel="noopener"}
+- [Get recommendations for what licences to apply](/licences/find-licence-by-sector/)
 
 {% include panels.html panels=site.data.rg_overview_licences_permit %}
 
