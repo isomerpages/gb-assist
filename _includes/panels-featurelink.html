@@ -26,6 +26,12 @@
         height: 60px;
     }
 
+    .content .panel .panel-banner>img {
+        width: auto;
+        height: auto;
+        margin: 0;
+    }
+
     .content .panel .panel-image>img {
         width: auto;
         height: 100%;
@@ -78,6 +84,9 @@
         {% endif %}
         {% if panel.image %}
         <div class="panel-image">{{ panel.image }}</div>
+        {% endif %}
+        {% if panel.banner %}
+        <div class="panel-banner">{{ panel.banner }}</div>
         {% endif %}
         <h4 class="panel-title">{{ panel.title }}
         {% if panel.is_new %}
