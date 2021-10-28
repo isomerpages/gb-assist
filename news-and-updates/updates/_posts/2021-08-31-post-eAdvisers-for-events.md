@@ -1,6 +1,6 @@
 ---
 layout: post
-title: e-Adviser for events
+title: e-Adviser for Events
 permalink: /news-and-updates/updates/eAdviser-for-events
 published: true
 ---
