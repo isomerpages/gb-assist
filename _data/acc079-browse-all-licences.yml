@@ -118,9 +118,19 @@
         |Certificate of Registration and Hotel-keeper's Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3){:target="_blank"}|
     - title: Health Sciences Authority (HSA)
       content: |
-        | **Licence Name** | **Apply on** |
-        | --- | --- |
-        |Tobacco Retail Licence|[GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56){:target="_blank"}|
+        **Tobacco Retail Licence**
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+        {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56" type="primary" %} [View Licence Details](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
+
+        -----
+
+        **Tobacco Retail Licence**
+
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+
+        {% include button.html text="Apply on URA" src="https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56" type="primary" %} [View Licence Details](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
 
 - accordion:
   letter: i
