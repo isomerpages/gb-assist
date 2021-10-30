@@ -796,7 +796,7 @@ p > img[src*="/images/"] {
   width: fit-content;
   color: white;
 
-  &:after {
+  &::after {
     font-size: 18px;
     line-height: 27px;
     width: -moz-fit-content;
