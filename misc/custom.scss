@@ -798,7 +798,7 @@ p > img[src*="/images/"] {
   font-size: 18px;
   line-height: 27px;
 
-  &::after {
+  &:after {
     font-family: hknova-semibold;
     font-weight: 600;
     display: block;
