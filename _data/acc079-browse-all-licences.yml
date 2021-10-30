@@ -131,8 +131,8 @@
 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-        {% include button.html text="Apply on GoBusiness Ddashboard" src="https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56" type="primary" %} 
-        [View Licence Details](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
+        include {pathname: button.html, text: Apply on GoBusiness Dashboard, src: https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56, type:primary}
+         [View Licence Details](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56)
 
 - accordion:
   letter: i
