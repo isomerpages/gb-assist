@@ -1,7 +1,17 @@
 - accordion:
+  letter: aa
+  data:
+    - title: Events
+      content: |
+        Events eAdvisor link
+
+    - title: PUC
+      content: |
+        PUC link
+
+- accordion:
   letter: a
   data:
-
     - title: Air Transport
       content: |
         Explore licences you may require with the e-Advisers:
