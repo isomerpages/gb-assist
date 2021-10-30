@@ -804,7 +804,11 @@ p > img[src*="/images/"] {
   width: -moz-fit-content;
   font-size: 18px;
   line-height: 27px;
-
+  
+  &:visited{
+    color: white; !important;
+    background-color: #026770;
+  }
   &:hover {
     color: white; !important;
     background-color: #026770;
