@@ -794,11 +794,11 @@ p > img[src*="/images/"] {
   border: 1px solid #037e8a;
   cursor: pointer;
   width: fit-content;
-  width: -moz-fit-content;
-  font-size: 18px;
-  line-height: 27px;
 
   &:after {
+    font-size: 18px;
+    line-height: 27px;
+    width: -moz-fit-content;
     font-family: hknova-semibold;
     font-weight: 600;
     display: block;
