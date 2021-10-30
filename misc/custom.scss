@@ -795,7 +795,7 @@ p > img[src*="/images/"] {
   padding: 12.5px 24px;
   margin-bottom: 0;
   text-decoration: none;
-  color: white;
+  color: white; !important;
   background-color: #037e8a;
   border-radius: 3px;
   border: 1px solid #037e8a;
@@ -806,17 +806,17 @@ p > img[src*="/images/"] {
   line-height: 27px;
 
   &:hover {
-    color: white;
+    color: white; !important;
     background-color: #026770;
   }
 
   &:active {
-    color: white;
+    color: white; !important;
     background-color: #025B63;
   }
 
   &:focus {
-    color: white;
+    color: white; !important;
     outline: 2px solid #1C8B95;
   }
 }
