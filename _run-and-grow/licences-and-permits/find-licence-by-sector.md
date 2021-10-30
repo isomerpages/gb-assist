@@ -4,9 +4,14 @@ permalink: /licences/find-licence-by-sector/
 third_nav_title: Licences and Permits
 ---
 
-## Find licences by sector
-
 Find out which licences you need by answering a few questions, based on your business sector.
+
+## For all sectors
+
+
+## For specific sectors
+
+{% include accordion.html accordions=site.data.acc080-licensing-all-sector-e-adviser%}
 
 ## A
 
