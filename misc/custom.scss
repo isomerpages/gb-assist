@@ -788,6 +788,39 @@ p > img[src*="/images/"] {
   }
 }
 
+.btn{
+  font-family: hknova-semibold;
+  font-weight: 600;
+  display: block;
+  padding: 12.5px 24px;
+  margin-bottom: 0;
+  text-decoration: none;
+  color: white;
+  background-color: #037e8a;
+  border-radius: 3px;
+  border: 1px solid #037e8a;
+  cursor: pointer;
+  width: fit-content;
+  width: -moz-fit-content;
+  font-size: 18px;
+  line-height: 27px;
+
+  &:hover {
+    color: white;
+    background-color: #026770;
+  }
+
+  &:active {
+    color: white;
+    background-color: #025B63;
+  }
+
+  &:focus {
+    color: white;
+    outline: 2px solid #1C8B95;
+  }
+}
+
 table {
   & > thead > tr:nth-child(1),
   & > tbody > tr > td:nth-child(1) {
