@@ -49,4 +49,3 @@ Nulla leo dui, maximus at nulla at, sollicitudin dapibus arcu. Maecenas tincidun
 
 * Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras purus turpis, rutrum at ligula quis, consequat porta augue. Vestibulum tristique varius faucibus. Fusce quis velit sodales, pretium diam vel, rutrum nulla. Sed ac massa varius, consectetur tellus in, suscipit turpis. Duis felis ex, egestas at libero sit amet, lacinia ullamcorper ipsum. Donec finibus suscipit sapien, aliquet pulvinar tellus molestie ac. Mauris consequat blandit dignissim. Nulla sodales dolor vitae nisl mattis consequat. Vivamus consectetur vulputate ante sed fringilla. Ut ultricies venenatis mauris.
 
-{% include panels.html panels=site.data.govt_assistance_for_biz_links %}
