@@ -3,11 +3,14 @@
   data:
     - title: Events
       content: |
-        Events eAdvisor link
+        - [e-Adviser for Events](https://eadviser.g2b.sg/events){:target="_blank"}
+          <br>Find out the licences and permits you need to organise an event with our new e-Adviser for Events. 
 
-    - title: PUC
+
+    - title: Premise Use Check
       content: |
-        PUC link
+        - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck){:target="_blank"}
+          <br>Find out the licences and permits you need to organise an event with our new e-Adviser for Events
 
 - accordion:
   letter: a
