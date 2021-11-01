@@ -22,31 +22,6 @@ Most businesses need licences and permits for different business activities. Wit
 
 {% include panels-featurelink.html panels=site.data.rgp002_licences-guides %}
 
-![Event eAdviser](/images/grow/eventorganisers.jpg)
-
-#### For event organisers <span style="background: #E6F2F3; border-radius: 3px; width: 49px; height: 22px; padding: 2px 8px; font-family: 'hknova-regular'; font-weight: 400;font-size: 12px; line-height: 18px; color: #02737D; display: inline-block; vertical-align: middle; margin-left: 8px;">New!</span>
-
-Are you an event organiser organising Sports, MICE, Arts/Culture, and/or Business-to-Consumer (B2C) events such as marathons, conferences, festivals, travel fairs etc?
-
-Find out which licences and permits you need to organise a physical event in Singapore with our new e-Adviser for Events.
-
-<p>
-{% include button.html text="Go to e-Adviser for Events" src="https://eadviser.g2b.sg/events" type="primary" %}
-</p>
-<br>
-
-![Food Services](/images/grow/foodservices.jpg)
-
-#### For new food service business partners
-
-If you are starting a new food service business, find out which licences you need and apply for them with Guided Journey, a step-by-step walkthrough.
-
-<p>
-{% include button.html text="Log In to Guided Journey" src="https://foodservices.gobusiness.gov.sg/licences/foodservices?src=run&grow_licences_fs" type="primary" %}
-</p>
-
----
-
 <a name="renew-amend-licence-anchor"></a>
 
 ### Renew or amend licence
