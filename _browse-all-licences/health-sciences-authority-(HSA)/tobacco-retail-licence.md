@@ -1,7 +1,7 @@
 ---
 title: Tobacco Retail Licence
-permalink: /browse-all-licences/health-sciences-authority-(HSA)/
-third_nav_title: Tobacco Retail Licence
+permalink: /browse-all-licences/health-sciences-authority-(HSA)/Tobacco-Retail-Licence
+third_nav_title: Health Sciences Authority (HSA)
 ---
 
 ## Apply for Tobacco Retail Licence
