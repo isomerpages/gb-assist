@@ -1,5 +1,5 @@
 ---
-title: < Back to e-Services Overview
-permalink: /e-services/top-nav
+title: < Back to Browse All Licences
+permalink: /browse-all-licences/top-nav
 ---
-<meta http-equiv="REFRESH" content="0;url=/e-services/">
+<meta http-equiv="REFRESH" content="0;url=/licences/find-licence-by-agency/">
