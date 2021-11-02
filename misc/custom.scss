@@ -793,11 +793,11 @@ p > img[src*="/images/"] {
   font-weight: 600;
   padding: 12.5px 24px;
   margin-bottom: 0;
-  text-decoration: none;
+  text-decoration: none!important;
   color: white !important;
-  background-color: #037e8a !important;
+  background-color: #037e8a;
   border-radius: 3px;
-  border: 1px solid #037e8a !important;
+  border: 1px solid #037e8a;
   cursor: pointer;
   width: fit-content;
   width: -moz-fit-content;
