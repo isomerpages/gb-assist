@@ -795,9 +795,9 @@ p > img[src*="/images/"] {
   margin-bottom: 0;
   text-decoration: none;
   color: white !important;
-  background-color: #037e8a;
+  background-color: #037e8a !important;
   border-radius: 3px;
-  border: 1px solid #037e8a;
+  border: 1px solid #037e8a !important;
   cursor: pointer;
   width: fit-content;
   width: -moz-fit-content;
