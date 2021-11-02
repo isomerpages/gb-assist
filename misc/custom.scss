@@ -804,23 +804,24 @@ p > img[src*="/images/"] {
   font-size: 18px;
   line-height: 27px;
   
-  &:visited{
-    color: white !important;
-    background-color: #026770 !important;
+/*  &:visited{
+    //color: white !important;
+    background-color: #026770;// !important;
   }
+*/
   &:hover {
-    color: white !important;
-    background-color: #026770 !important;
+    //color: white !important;
+    background-color: #026770; // !important;
   }
-
+/*
   &:active {
-    color: white !important;
-    background-color: #025B63 !important;
+    //color: white !important;
+    background-color: #025B63; //!important;
   }
 
   &:focus {
-    color: white !important;
-    outline: 2px solid #1C8B95 !important;
+    //color: white !important;
+    outline: 2px solid #1C8B95; // !important;
   }
 }
 
