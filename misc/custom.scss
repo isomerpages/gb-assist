@@ -793,11 +793,11 @@ p > img[src*="/images/"] {
   font-weight: 600;
   padding: 12.5px 24px;
   margin-bottom: 0;
-  text-decoration: none!important;
+  text-decoration: none !important;
   color: white !important;
-  background-color: #037e8a;
+  background-color: #037e8a !important;
   border-radius: 3px;
-  border: 1px solid #037e8a;
+  border: 1px solid #037e8a !important;
   cursor: pointer;
   width: fit-content;
   width: -moz-fit-content;
@@ -806,21 +806,21 @@ p > img[src*="/images/"] {
   
   &:visited{
     color: white !important;
-    background-color: #026770;
+    background-color: #026770 !important;
   }
   &:hover {
     color: white !important;
-    background-color: #026770;
+    background-color: #026770 !important;
   }
 
   &:active {
     color: white !important;
-    background-color: #025B63;
+    background-color: #025B63 !important;
   }
 
   &:focus {
     color: white !important;
-    outline: 2px solid #1C8B95;
+    outline: 2px solid #1C8B95 !important;
   }
 }
 
