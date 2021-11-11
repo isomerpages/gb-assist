@@ -804,11 +804,11 @@ p > img[src*="/images/"] {
   font-size: 18px;
   line-height: 27px;
   
-/*  &:visited{
+  //&:visited{
     //color: white !important;
-    background-color: #026770;// !important;
-  }
-*/
+    //background-color: #026770;// !important;
+  //}
+
   &:hover {
     //color: white !important;
     background-color: #026770; // !important;
@@ -823,6 +823,7 @@ p > img[src*="/images/"] {
     //color: white !important;
     outline: 2px solid #1C8B95; // !important;
   }
+*/
 }
 
 table {
