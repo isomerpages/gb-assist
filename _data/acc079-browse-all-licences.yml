@@ -122,14 +122,14 @@
 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-        <a class="btn" href="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1626%3A49446&viewport=241%2C48%2C0.06&scaling=min-zoom&starting-point-node-id=1626%3A49446&hotspot-hints=0&show-proto-sidebar=1&hide-ui=1" target="_blank">AApply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/health-sciences-authority-(hsa)/tobacco-retail-licence)
+        <a class="btn" href="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1626%3A49446&viewport=241%2C48%2C0.06&scaling=min-zoom&starting-point-node-id=1626%3A49446&hotspot-hints=0&show-proto-sidebar=1&hide-ui=1" target="_blank">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/health-sciences-authority-(hsa)/tobacco-retail-licence)
 
         -----
         **Tobacco Retail Licence**
 
         Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
 
-        <a class="btn" href="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1626%3A49446&viewport=241%2C48%2C0.06&scaling=min-zoom&starting-point-node-id=1626%3A49446&hotspot-hints=0&show-proto-sidebar=1&hide-ui=1">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/health-sciences-authority-(hsa)/licence-AA)
+        <a class="btn" href="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1626%3A49446&viewport=241%2C48%2C0.06&scaling=min-zoom&starting-point-node-id=1626%3A49446&hotspot-hints=0&show-proto-sidebar=1&hide-ui=1" target="_blank">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/health-sciences-authority-(hsa)/licence-AA)
 
         -----
 
@@ -511,12 +511,71 @@
   data:
     - title: Urban Redevelopment Authority (URA)
       content: |
-        | **Licence Name** | **Apply on** |
-        | --- | --- |
-        |Apply for Category 3 Works for Conserved Buildings|[URA](https://www.ura.gov.sg/cmrWeb/){:target="_blank"}|
-        |Apply for Planning Permission|[CORENET e-Submission](https://www.corenet-ess.gov.sg/ess/){:target="_blank"}|
-        |Approval for Additions & Alterations to a Conserved Building|[URA](https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS){:target="_blank"}|
-        |Change of Use Approval|[GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=40){:target="_blank"}|
-        |Home Office Scheme (URA)|[GoBusiness Licensing](https://licence1.business.gov.sg/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=41){:target="_blank"}|
-        |Housing Developer's Licence|[URA](https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence){:target="_blank"}|
-        |Signage Proposal for a Conserved Building|[URA](https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage){:target="_blank"}|
+        **Approval for Additions & Alterations to a Conserved Building**
+
+        You will need approval from Urban Redevelopment Authority before you can carry out any Additions & Alterations to your conserved building.
+
+        <a class="btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Development-Control/Planning-Permission/using-CORENET-eSS" target="_blank">Apply on URA</a>&emsp;[View Licence Details](/browse-all-licences/urban-redevelopment-authority-(ura)/approval-for-additions-alterations-to-a-conserved-building)
+
+        -----
+        **Category 3 Works for Conserved Buildings**
+
+        Apply for Category 3 Works for Conserved Buildings if you are installing solar panels without any additional works within Conserved Buildings. Applications for such Category 3 works can be made by owners and contractors.
+
+        <a class="btn" href="https://www.ura.gov.sg/cmrWeb/" target="_blank">Apply on URA</a>&emsp;[View Licence Details](/browse-all-licences/urban-redevelopment-authority-(ura)/category-3-works-for-conserved-buildings)
+
+        -----
+
+        **Change of Use Approval**
+
+        If you want to change the use of a property (e.g. from a shop to a restaurant or from a restaurant to a pub), you may need to apply for planning permission for Change of Use from URA.
+
+        <a class="btn" href="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1626%3A49446&viewport=241%2C48%2C0.06&scaling=min-zoom&starting-point-node-id=1626%3A49446&hotspot-hints=0&show-proto-sidebar=1&hide-ui=1" target="_blank">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/urban-redevelopment-authority-(ura)/change-of-use-approval)
+        
+        -----
+
+        **Home Office Scheme (URA)**
+
+        To set up a Home Office in a private residential property, homeowners must meet the Terms & Conditions of the Home Office Scheme. The business must satisfy the Home Office & Conditions of the Home Office Scheme. The business must satisfy the Home Office Performance Criteria and does not fall under the List of Businesses not permitted under the scheme.
+
+        <a class="btn" href="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1626%3A49446&viewport=241%2C48%2C0.06&scaling=min-zoom&starting-point-node-id=1626%3A49446&hotspot-hints=0&show-proto-sidebar=1&hide-ui=1" target="_blank">Apply on GoBusiness Dashboard</a>&emsp;[View Licence Details](/browse-all-licences/urban-redevelopment-authority-(ura)/home-office-scheme-ura)
+        
+        -----
+
+        **Housing Developer's Licence**
+
+        Developers understanding a housing project with more than 4 units are required to obtain a housing developer's licence from the Controller of Housing before commencing construction works.
+
+        <a class="btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence" target="_blank">Apply on URA</a>&emsp;[View Licence Details](/browse-all-licences/urban-redevelopment-authority-(ura)/housing-developer-s-licence)
+        
+        -----
+
+        **Planning Permission**
+
+        Your Qualified Person has to apply to URA for planning permission through CORENET if your application falls within any of the following scenarios:
+
+        1) If the location of your building is within Urban Design Areas. You may visit URA SPACE to find out if your development is located in these areas by referring to the Control Plans and clicking "Urban Design Element" under the Filter Bar.
+
+        2) If the solar panel is deemed to be elevated (1m from the roof level for landed housing developments, or 1.8m from the rooft level for other developments) and located within one of the following land use zones:
+
+        - Residential
+        - Residential with Commercial at 1st storey
+        - Commercial & Residential
+        - Commercial
+        - Hotel
+        - White
+        - Residential / Institution
+        - Commercial / Institution
+        - Educational Institution
+        - Place of Worship
+        - Civic & Community Institution
+
+        <a class="btn" href="https://www.corenet-ess.gov.sg/ess/" target="_blank">Apply on CORENET e-Submission</a>&emsp;[View Licence Details](/browse-all-licences/urban-redevelopment-authority-(ura)/licence-ZZ)
+        
+        -----
+
+        **Signage Proposal for a Conserved Building**
+
+        You will need approval from Urban Redevelopment Authority if you wish to install business signs on your conserved building.
+
+        <a class="btn" href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" target="_blank">Apply on URA</a>&emsp;[View Licence Details](/browse-all-licences/urban-redevelopment-authority-(ura)/signage-proposal-for-a-conserved-building)
