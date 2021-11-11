@@ -1,0 +1,9 @@
+collections:
+  browse-all-licences:
+    output: true
+    order:
+      - ../back-to-all-licences.md
+      - .keep
+      - licence-AA.md
+      - tobacco-retail-licence.md
+      - licence-ZZ.md
