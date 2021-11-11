@@ -26,17 +26,31 @@ Most businesses need licences and permits for different business activities. Wit
 
 ### Renew or amend licence
 
-Already have a licence? Log in directly to the GoBusiness Dashboard to manage your licences.
+There are two licence management platforms, depending on the issuing government agency.
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1626%3A49446&viewport=241%2C48%2C0.06&scaling=min-zoom&starting-point-node-id=1626%3A49446&hotspot-hints=0&show-proto-sidebar=1&hide-ui=1" type="primary" %}
+**Where is your licence from?**
+ 
+![Others](/images/grow/allotherbizowners.png)
 
-### About GoBusiness Dashboard
+If your licence is from
 
-Apply for licences, renew them, and more with your personal GoBusiness Dashboard.
+| --- | --- |
+|**SFA, NParks and AVS**|[Log In Here](https://licence1.business.gov.sg/licence1/authentication/mainLogin.action?src=run&grow_licences_sfavsnparks){:target="_blank"}|
+|**All other agencies**|[Log In Here](https://licence1.business.gov.sg/web/frontier/home?p_p_id=58&p_p_lifecycle=0&p_p_state=maximized&saveLastPath=false?src=run&grow_licences_allothers){:target="_blank"}|
 
-Find out what you can do with your Dashboard and its features in this [article](/news-and-updates/updates/eAdviser-for-events){:target="_blank"}.
+### New launch: GoBusiness Dashboard
 
-For questions about GoBusiness Licensing, please refer to our [FAQ](/licensing-faqs/){:target="_blank"}.
+GoBusiness Dashboard is 
+
+You can apply for and manage 24 licences from SPF, ...... More licences will be integrated over the next 2 years.
+
+Learn more about what the Dashboard can do for you in [our article introducing the Dashboard and its features](https://www.google.com.sg). Try it and tell us your feedback!
+
+For more questions about GoBusiness Licensing, please refer to our [FAQ](/licensing-faqs/).
+
+<p>
+{% include button.html text="Preview GoBusiness Dashboard" src="https://www.google.com.sg" type="primary" %}
+</p>
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
