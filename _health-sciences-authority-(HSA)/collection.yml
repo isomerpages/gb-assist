@@ -1,5 +1,5 @@
 collections:
-  browse-all-licences:
+  health-sciences-authority-(HSA):
     output: true
     order:
       - back-to-all-licences.md
