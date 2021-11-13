@@ -1,6 +1,6 @@
 ---
 title: Licence AA
-permalink: /browse-all-licences/health-sciences-authority-(HSA)/licence-AA
+permalink: /browse-all-licences-(HSA)/health-sciences-authority-(HSA)/licence-AA
 third_nav_title: Health Sciences Authority (HSA)
 ---
 
