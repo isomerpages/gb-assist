@@ -1,6 +1,6 @@
 ---
 title: Licence ZZ
-permalink: /health-sciences-authority-(hsa)/licence-ZZ
+permalink: /browse-all-licences/health-sciences-authority-(hsa)/licence-ZZ
 third_nav_title: Health Sciences Authority (HSA)
 ---
 

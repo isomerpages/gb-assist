@@ -1,14 +1,15 @@
 ---
-title: Tobacco Retail Licence
-permalink: /health-sciences-authority-(hsa)/Tobacco-Retail-Licence
-third_nav_title: Health Sciences Authority (HSA)
+title: Change of Use Approval
+permalink: /browse-all-licences/urban-redevelopment-authority-(URA)/change-of-use-approval
+third_nav_title: Urban Redevelopment Authority (URA)
 ---
 
-## Apply for Tobacco Retail Licence
+## Apply for Change of Use Approval
 
-Health Sciences Authority (HSA)
+Urban Redevelopment Authority (URA)
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1626%3A49446&viewport=241%2C48%2C0.06&scaling=min-zoom&starting-point-node-id=1626%3A49446&hotspot-hints=0&show-proto-sidebar=1&hide-ui=1" type="primary" %}
+
 
 ### Application Details
 ---
@@ -48,3 +49,6 @@ Nulla leo dui, maximus at nulla at, sollicitudin dapibus arcu. Maecenas tincidun
 * Duis malesuada diam at quam ultricies condimentum. Etiam vitae faucibus nunc. Donec vel rutrum orci. Curabitur auctor a nulla at gravida. Pellentesque in nisl aliquam, aliquam odio a, maximus ex. In ultricies mollis auctor. Suspendisse potenti. Morbi viverra mauris at hendrerit fermentum. Donec in scelerisque urna, ac efficitur augue. Nam sed nunc dignissim, feugiat sapien in, facilisis tortor. Fusce congue massa quis lectus molestie, eu aliquam sapien mollis. Aenean lorem erat, dapibus id ligula quis, luctus sagittis risus. Quisque imperdiet, elit id convallis dapibus, lectus lectus maximus nisl, a suscipit nisi mi sit amet tellus. Cras tincidunt fermentum sollicitudin. Suspendisse risus felis, pharetra sit amet velit eu, sollicitudin sodales velit. Quisque quis justo et ante rhoncus consequat id ut lectus.
 
 * Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Cras purus turpis, rutrum at ligula quis, consequat porta augue. Vestibulum tristique varius faucibus. Fusce quis velit sodales, pretium diam vel, rutrum nulla. Sed ac massa varius, consectetur tellus in, suscipit turpis. Duis felis ex, egestas at libero sit amet, lacinia ullamcorper ipsum. Donec finibus suscipit sapien, aliquet pulvinar tellus molestie ac. Mauris consequat blandit dignissim. Nulla sodales dolor vitae nisl mattis consequat. Vivamus consectetur vulputate ante sed fringilla. Ut ultricies venenatis mauris.
+
+
+

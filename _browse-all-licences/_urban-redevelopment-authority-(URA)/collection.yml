@@ -1,5 +1,5 @@
 collections:
-  browse-all-licences:
+  urban-redevelopment-authority-(URA):
     output: true
     order:
       - back-to-all-licences.md
