@@ -1,0 +1,9 @@
+collections:
+  health-sciences-authority-hsa:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - health-sciences-authority-hsa/licence-AA.md
+      - health-sciences-authority-hsa/tobacco-retail-licence.md
+      - health-sciences-authority-hsa/licence-ZZ.md
+      - urban-redevelopment-authority-ura/change-of-use-approval.md

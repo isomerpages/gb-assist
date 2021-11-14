@@ -1,6 +1,0 @@
-collections:
-  urban-redevelopment-authority-ura:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - change-of-use-approval.md
