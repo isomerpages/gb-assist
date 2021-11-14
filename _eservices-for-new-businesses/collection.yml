@@ -1,5 +1,5 @@
 collections:
-  eservices-for-new-businesses-try:
+  eservices-for-new-businesses:
     output: true
     order:
       - back-to-e-services-overview.md

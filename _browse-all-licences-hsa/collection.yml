@@ -1,8 +1,8 @@
 collections:
-  health-sciences-authority-(HSA):
+  browse-all-licences-hsa:
     output: true
     order:
       - back-to-all-licences.md
-      - health-sciences-authority-(HSA)/licence-AA.md
-      - health-sciences-authority-(HSA)/tobacco-retail-licence.md
-      - health-sciences-authority-(HSA)/licence-ZZ.md
+      - licence-AA.md
+      - tobacco-retail-licence.md
+      - licence-ZZ.md
