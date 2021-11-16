@@ -1,5 +1,5 @@
 collections:
-  browse-all-licences-(ura):
+  browse-all-licences-ura:
     output: true
     order:
       - back-to-all-licences.md
