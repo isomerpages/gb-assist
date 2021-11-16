@@ -691,6 +691,14 @@ img[src*="/images/licences/cp-mini.png"] {
   height: 16px;
 }
 
+img[src*="/images/licences/sp-mini.png"] {
+  display: inline;
+  margin: auto;
+  padding-top: 0;
+  width: 16px;
+  height: 16px;
+}
+
 p > img[src*="/images/"] {
   margin: 32px 0;
 }
