@@ -683,6 +683,13 @@ img[src*="/images/covid/safeentry_logo_inline.png"] {
   width: 240px;
 }
 
+img[src*="/images/licences/cp-tag.png"] {
+  display: inline;
+  margin: auto;
+  width: 20px;
+  height: 5px;
+}
+
 p > img[src*="/images/"] {
   margin: 32px 0;
 }
