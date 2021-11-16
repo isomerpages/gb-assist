@@ -1,6 +1,6 @@
 ---
 title: Change of Use Approval
-permalink: /browse-all-licences-(ura)/urban-redevelopment-authority-(ura)/change-of-use-approval
+permalink: /browse-all-licences/urban-redevelopment-authority-(ura)/change-of-use-approval
 third_nav_title: Urban Redevelopment Authority (URA)
 ---
 
@@ -22,9 +22,9 @@ Urban Redevelopment Authority (URA)
 ### Documents Needed
 
 
-Location Plan (PDF, 324 KB) – For multi-unit developments (e.g. shopping centre, flatted factory), please attach a location plan indicating where your unit is located within the development
+Location Plan (PDF, 324 KB) – For multi-unit developments (e.g. shopping centre, flatted factory), please attach a location plan indicating where your unit is located within the development<br />
 Floor Plan (PDF, 239 KB) – A floor plan showing the proposed layout and usage of the premises
-Owner’s consent – Please obtain the property/unit owners' letter of consent for the proposed change of use. If the premises are leased from the Singapore Land Authority, Housing Development Board or Jurong Town Corporation, please provide their letter of consent as land owner
+Owner’s consent – Please obtain the property/unit owners' letter of consent for the proposed change of use. If the premises are leased from the Singapore Land Authority, Housing Development Board or Jurong Town Corporation, please provide their letter of consent as land owner<br />
 Other supporting documents (if applicable) – These include a cover letter and clearances from other Government agencies (e.g. SCDF, LTA, NEA, PUB) relevant to your proposed use
 
 
