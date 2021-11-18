@@ -167,6 +167,33 @@ layout: skeleton
           "others";
       }
     }
+
+    .grid {
+      display: grid;
+      grid-template-columns: 50% auto;
+      grid-template-areas: 
+        'leftside rightside';
+      column-gap: 20px;
+    }
+
+    .page-leftside {
+      grid-area: leftside;
+    }
+
+    .page-rightside {
+      grid-area: rightside;
+    }
+
+
+    .content {
+      color: #037e8a;
+      background-color: #E6F2F3;
+      font-weight: 600;
+      text-align: center;
+      box-sizing: border-box;
+      height: 100%;
+      padding: 10px;
+    }
   </style>
 
   <div id="main-content" role="main" onclick>
@@ -230,8 +257,16 @@ layout: skeleton
                 </div>
               </div>
             </div>
-            <div class="page-preview-container">
-              <img src="/images/homepage/LoginBannerImage.svg" />
+            <div class="grid">
+              <aside class="page-leftside">
+                <img src="/images/homepage/LoginBannerImage.svg"/>
+              </aside>
+              <main class="page-rightside">
+                <div class="content">
+                  <p>Main</p>
+                </div>
+              </main>
+
             </div>
           </div>
         </div>
