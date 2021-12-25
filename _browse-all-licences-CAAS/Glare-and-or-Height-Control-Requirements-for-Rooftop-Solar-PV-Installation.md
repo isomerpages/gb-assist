@@ -1,0 +1,17 @@
+---
+title: Glare and/or Height Control Requirements for Rooftop Solar PV Installation
+permalink: /browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Glare-and-or-Height-Control-Requirements-for-Rooftop-Solar-PV-Installation
+third_nav_title: Civil Aviation Authority of Singapore (CAAS)
+---
+
+## Apply for Glare and/or Height Control Requirements for Rooftop Solar PV Installation
+
+Civil Aviation Authority of Singapore (CAAS)
+
+Print SPCP Here
+
+
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/documents/13101/3730559/Potential+Hazards+of+Solar+Photovoltaic+Feb+2020/293e8fe0-ceed-4826-9cab-985370eeddd7" type="primary" %}
+
+### Application Details
+

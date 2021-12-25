@@ -1,0 +1,17 @@
+---
+title: Air Operator Certificate
+permalink: /browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Air-Operator-Certificate
+third_nav_title: Civil Aviation Authority of Singapore (CAAS)
+---
+
+## Apply for Air Operator Certificate
+
+Civil Aviation Authority of Singapore (CAAS)
+
+Print SPCP Here
+
+
+{% include button.html text="Apply on CAAS" src="https://www.caas.gov.sg/operations-safety/air-operations/singapore-air-operators/air-operator-certificate" type="primary" %}
+
+### Application Details
+
