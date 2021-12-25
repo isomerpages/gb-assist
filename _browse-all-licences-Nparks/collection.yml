@@ -1,6 +1,0 @@
-collections:
-  browse-all-licences-NParks:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Usage-of-Premises-in-Parks.md

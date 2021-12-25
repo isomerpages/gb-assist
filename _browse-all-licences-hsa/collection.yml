@@ -1,6 +1,8 @@
 collections:
-  browse-all-licences-HSA:
+  browse-all-licences-hsa:
     output: true
     order:
       - back-to-all-licences.md
-      - Tobacco-Retail-Licence.md
+      - licence-AA.md
+      - tobacco-retail-licence.md
+      - licence-ZZ.md

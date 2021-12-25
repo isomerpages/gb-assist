@@ -1,6 +1,0 @@
-collections:
-  browse-all-licences-NAC:
-    output: true
-    order:
-      - back-to-all-licences.md
-      - Safe-Management-Measures-for-the-Arts-and-Culture-Sector.md
