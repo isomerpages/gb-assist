@@ -1,6 +1,6 @@
 ---
 title: Postal Services Operations Licence
-permalink: /browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/
+permalink: /browse-all-licences/Infocomm-Media-Development-Authority-(IMDA)/Postal-Services-Operations-Licence
 third_nav_title: Infocomm Media Development Authority (IMDA)
 ---
 ## Postal Services Operations Licence

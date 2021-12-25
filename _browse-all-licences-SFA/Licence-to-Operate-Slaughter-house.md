@@ -1,6 +1,6 @@
 ---
 title: Licence to Operate Slaughter-house
-permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/
+permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Operate-Slaughter-house
 third_nav_title: Singapore Food Agency (SFA)
 ---
 ## Licence to Operate Slaughter-house

@@ -1,6 +1,6 @@
 ---
 title: Temporary Fair
-permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/
+permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Temporary-Fair
 third_nav_title: Singapore Food Agency (SFA)
 ---
 ## Temporary Fair

@@ -1,6 +1,6 @@
 ---
 title: Registration of Food Storage Warehouses
-permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/
+permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-of-Food-Storage-Warehouses
 third_nav_title: Singapore Food Agency (SFA)
 ---
 ## Registration of Food Storage Warehouses

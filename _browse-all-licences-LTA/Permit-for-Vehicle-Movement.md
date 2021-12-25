@@ -1,6 +1,6 @@
 ---
 title: Permit for Vehicle Movement
-permalink: /browse-all-licences/Land-Transport-Authority-(LTA)/
+permalink: /browse-all-licences/Land-Transport-Authority-(LTA)/Permit-for-Vehicle-Movement
 third_nav_title: Land Transport Authority (LTA)
 ---
 ## Permit for Vehicle Movement

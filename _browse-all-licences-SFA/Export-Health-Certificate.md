@@ -1,6 +1,6 @@
 ---
 title: Export Health Certificate
-permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/
+permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Export-Health-Certificate
 third_nav_title: Singapore Food Agency (SFA)
 ---
 ## Export Health Certificate

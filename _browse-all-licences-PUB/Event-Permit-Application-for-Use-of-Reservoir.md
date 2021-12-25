@@ -1,6 +1,6 @@
 ---
 title: Event Permit Application for Use of Reservoir
-permalink: /browse-all-licences/Public-Utilities-Board-(PUB)/
+permalink: /browse-all-licences/Public-Utilities-Board-(PUB)/Event-Permit-Application-for-Use-of-Reservoir
 third_nav_title: Public Utilities Board (PUB)
 ---
 ## Event Permit Application for Use of Reservoir

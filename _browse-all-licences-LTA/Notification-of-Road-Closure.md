@@ -1,6 +1,6 @@
 ---
 title: Notification of Road Closure
-permalink: /browse-all-licences/Land-Transport-Authority-(LTA)/
+permalink: /browse-all-licences/Land-Transport-Authority-(LTA)/Notification-of-Road-Closure
 third_nav_title: Land Transport Authority (LTA)
 ---
 ## Notification of Road Closure

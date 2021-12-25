@@ -1,6 +1,6 @@
 ---
 title: Private Investigator's Licence (PI)
-permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/
+permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Private-Investigator's-Licence-(PI)
 third_nav_title: Singapore Police Force (SPF)
 ---
 ## Private Investigator's Licence (PI)

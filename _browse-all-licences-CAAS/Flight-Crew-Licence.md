@@ -1,6 +1,6 @@
 ---
 title: Flight Crew Licence
-permalink: /browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/
+permalink: /browse-all-licences/Civil-Aviation-Authority-of-Singapore-(CAAS)/Flight-Crew-Licence
 third_nav_title: Civil Aviation Authority of Singapore (CAAS)
 ---
 ## Flight Crew Licence

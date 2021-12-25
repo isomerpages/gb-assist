@@ -1,6 +1,6 @@
 ---
 title: Veterinary Certificate
-permalink: /browse-all-licences/Singapore-Tourism-Board-(STB)/
+permalink: /browse-all-licences/Singapore-Tourism-Board-(STB)/Veterinary-Certificate
 third_nav_title: Singapore Tourism Board (STB)
 ---
 ## Veterinary Certificate

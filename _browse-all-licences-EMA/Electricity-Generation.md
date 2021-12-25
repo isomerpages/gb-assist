@@ -1,6 +1,6 @@
 ---
 title: Electricity Generation
-permalink: /browse-all-licences/Energy-Market-Authority-(EMA)/
+permalink: /browse-all-licences/Energy-Market-Authority-(EMA)/Electricity-Generation
 third_nav_title: Energy Market Authority (EMA)
 ---
 ## Electricity Generation

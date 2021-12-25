@@ -1,6 +1,6 @@
 ---
 title: Temporary Occupation Licences
-permalink: /browse-all-licences/Singapore-Land-Authority-(SLA)/
+permalink: /browse-all-licences/Singapore-Land-Authority-(SLA)/Temporary-Occupation-Licences
 third_nav_title: Singapore Land Authority (SLA)
 ---
 ## Temporary Occupation Licences
