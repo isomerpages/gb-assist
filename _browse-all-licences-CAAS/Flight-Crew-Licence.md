@@ -10,8 +10,10 @@ Civil Aviation Authority of Singapore (CAAS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on CAAS" src="https://www.caas.gov.sg/personnel-licences-training/flight-crew" type="primary" %}
 
 ### Application Details
+
 <p>For flight crew such as pilots, fly instructors, flight engineers, flight examiners.</p>
 

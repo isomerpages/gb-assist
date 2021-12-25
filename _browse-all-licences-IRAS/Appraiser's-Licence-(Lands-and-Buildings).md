@@ -10,9 +10,11 @@ Inland Revenue Authority of Singapore (IRAS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=230" type="primary" %}
 
 ### Application Details
+
 <p>This application allows you to apply for new licence to appraise lands and buildings in Singapore.</p>
 <hr />
 <p><strong>FAQ</strong></p>
@@ -56,4 +58,31 @@ Print SPCP Here
 <p>Inland Revenue Authority Of Singapore (IRAS).</p>
 <p><strong>19) Where can I search for a list of valid licensed appraisers?</strong></p>
 <p>Yes. Please click&nbsp;<a href="https://licence1.business.gov.sg/feportal/web/frontier/appraisers-enquiry-search">here</a>.</p>
+
+**Additional Information**
+
+<strong>Fee</strong>
+<p>The Appraiser's Licence for Lands and Buildings costs S$125 and is valid till and will expire on 31 Dec of each year.</p>
+
+### Documents Needed
+
+<strong>1. Copy of NRIC / FIN (front and back)</strong>
+<p><strong>2. Copy of Real Estate degree certificate from NUS or its equivalent</strong></p>
+<p><strong>3. Copy of Singapore Institute of Surveyors and Valuers (SISV)’s letter certifying your membership with the Valuation and General Practice council</strong></p>
+<strong>4. A testimonial from a licensed appraiser</strong>
+<p>A testimonial from a licensed appraiser to certify that the applicant can do appraiser work independently and quote the appraiser reports prepared by the applicant. Click <a href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Property/Property_professionals/Appraisers_Valuers/Form-Testimonial%20from%20Licensed%20Appraiser.pdf"><u>here</u> </a>to download template.</p>
+<p><strong>5. A Letter from the company where you will be acting as an appraiser</strong></p>
+<p>A Letter from the company where you will be acting as an appraiser for, verifying that upon the issuance of the licence, you will be acting as an appraiser or valuer of the company. For self-employed appraiser, please indicates your current employment status and your company details.</p>
+<strong>6. Valuation Reports</strong>
+<p>Please upload 3 set of valuation reports which you have worked on as stated in the testimonial.</p>
+<p> </p>
+<p><strong>File format</strong>jpg,jpeg,gif,doc,docx,pdf</p>
+<p><strong>Maximum upload per application</strong>2 MB</p>
+
+### Requirements
+
+<ul>
+<li>Applicant must hold a degree in Real Estate from NUS or its equivalent and have at least 2 years of relevant practical experience under the supervision of a licensed appraiser.</li>
+<li>Applicant must be a Member or Fellow of Singapore Institute of Surveyors and Valuers (SISV). With effect from 1 Jan 2014, an applicant with Probationer membership is not eligible for the application. For SISV membership, refer to <a href="http://www.sisv.org.sg">http://www.sisv.org.sg</a>.</li>
+</ul>
 

@@ -10,9 +10,11 @@ Land Transport Authority (LTA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=103" type="primary" %}
 
 ### Application Details
+
 <p>A Bus Driver&rsquo;s Vocational Licence (BDVL) is needed before a person can drive a bus and a Bus Attendant&rsquo;s Vocational Licence (BAVL) is needed before a person can be a bus attendant on a school bus.</p>
 <p>Vocational licences granted by the LTA ensure that drivers are properly trained. They also bring an improved professional image to the different professions.</p>
 <p><strong>FAQ</strong></p>
@@ -225,4 +227,17 @@ Print SPCP Here
 <li>Original NRIC (Original Passport &ndash; if NRIC is not available);</li>
 </ul>
 <p>&nbsp;</p>
+
+**Additional Information**
+
+<p><strong>Fee<br /></strong>A non-refundable application fee of $40 is payable upon submission of all documents.</p>
+
+### Documents Needed
+
+<p><strong>NRIC / Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation and Company Name &ndash; Front and Back<br /></strong>For Singaporean / SPR: NRIC<br />For Foreigner: Employment Pass / S Pass / Work Permit/ In-principle approval letter by MOM stating Name, FIN, Occupation and Company Name Mandatory to upload upon application for all type of vocational licences.</p>
+<p><strong>Driving Licence (Front and Back)<br /></strong>For Singaporean, SPR and Foreigner.<br />Mandatory to upload upon application for BDVL only.</p>
+<p><strong>Driving Licence (Front and Back)<br /></strong>For Singaporean, SPR and Foreigner.<br />Mandatory to upload upon application for BDVL only.</p>
+<p><strong>Driving Licence (Front and Back)<br /></strong>For Singaporean, SPR and Foreigner.<br />Mandatory to upload upon application for BDVL only.</p>
+<p><strong>Driving Licence (Front and Back)<br /></strong>For Singaporean, SPR and Foreigner.<br />Mandatory to upload upon application for BDVL only.</p>
+<p><strong>Other supporting documents<br /></strong>Letter of Undertaking / Letter from Singapore School Transport Association / Letter from Singapore School and Private Hire Bus Owner Association, etc.</p>
 

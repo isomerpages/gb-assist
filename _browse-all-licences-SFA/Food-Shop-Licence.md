@@ -10,9 +10,11 @@ Singapore Food Agency (SFA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000440" type="primary" %}
 
 ### Application Details
+
 <p>For the operation of a food shop where there is retail sale of food and/or beverage. You will need to apply for a Food Shop Licence if you intend to operate a retail food outlet where food and/or drink are sold wholly by retail. This is a requirement under the Environmental Public Health Act. The purpose of licensing is to ensure cleanliness and food safety in food retail outlets and to prevent food-borne diseases.</p>
 <p>You may refer below on the steps for application of Food Shop Licence.<p>
 <table class="table table-bordered">
@@ -124,4 +126,71 @@ Print SPCP Here
 <p>A:&nbsp; Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing.</p>
 <p>Q:&nbsp;What are the challenges of operating a F &amp; B business?</p>
 <p>A:Please refer to the "Turning Passion into Profit"&nbsp;<a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">guide</a>to understand the challenges faced by the F &amp; B industry and managing your business.</p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>The Food Shop Licence including entertainment outlets (pub, bar, discotheque, night club etc.) costs S$195.00 and is valid for one year.</p>
+
+### Documents Needed
+
+<p><strong>Supporting Documents</strong></p>
+<p><strong>Planning Permission/Change of Use approval</strong></p>
+<p>Approval from URA/HDB for the use of the premises</p>
+<p><strong>A copy of Applicant's NRIC</strong></p>
+<p>A copy of NRIC if application is under Individual</p>
+<p><strong>A copy of ACRA registered Company Business Profile</strong></p>
+<p>A copy of ACRA registered Company Business Profile</p>
+<p><strong>Letter of authorization (if filer option is selected)</strong></p>
+<p>Letter of authorization from applicant for the filer to act on behalf</p>
+<p><strong>Layout plan of the premises</strong></p>
+<p>Layout Plan (to scale)</p>
+<p><strong>Floor plan (location plan)</strong></p>
+<p>Floor plan to indicate the location of premises</p>
+<p><strong>Tenancy Agreement/ Letter of consent</strong></p>
+<p>Tenancy Agreement/ Letter of consent</p>
+<p><strong>Pest Control Contract</strong></p>
+<p>Pest Control Contract</p>
+<p><strong>Cleaning programme/schedule</strong></p>
+<p>Cleaning programme/schedule</p>
+<p><strong>Basic food hygiene certificate/Refresher food hygiene certificate and Work Permit</strong></p>
+<p>Photocopy of food handler's basic food hygiene certificate/refresher food hygiene certificate and Work Permit</p>
+<p><strong>Documentary proof of vehicle ownership</strong></p>
+<p>For food caterer only. (e.g. vehicle registration card)</p>
+<p><strong>FSMS Plan (for premises which are required to implement FSMS)</strong></p>
+<ol type="a">
+<li>Company information/ FSMS team/ Product description</li>
+<li>Flow diagram (with CCPs identified)</li>
+<li>HACCP charts for CCPs which includes:</li>
+<ul>
+<li>Identification of hazards at CCPs</li>
+<li>Control measures and critical limits</li>
+<li>Monitoring procedures and documentation</li>
+<li>Corrective action to be taken</li>
+</ul>
+</ol>
+<p><strong>WSQ Apply Food Safety Management System for Food Service Establishments’ Certificate (Statement of Attainment)</strong></p>
+<p>For premises which are required to implement FSMS</p>
+<p><strong>HACCP Plan (for premises which are already HACCP-certified)</strong></p>
+<ol type="a">
+<li>Company information/ FSMS team/ Product description</li>
+<li>Flow diagram (with CCPs identified)</li>
+<li>HACCP charts for CCPs which includes:</li>
+<ul>
+<li>Identification of hazards at CCPs</li>
+<li>Control measures and critical limits</li>
+<li>Monitoring procedures and documentation</li>
+<li>Corrective action to be taken</li>
+</ul>
+</ol>
+<p><strong>Valid HACCP certificate accepted by SFA</strong></p>
+<p>For premises which are already HACCP-certified Note: Please check with SFA for the valid HACCP certificate accepted by SFA.</p>
+<p><strong>Letter issued by the "WSQ Apply FSMS for Food Service Establishments" course Approved Training Organisations</strong></p>
+<p>This is applicable for applicants for food caterer licences and permission to provide catering as a secondary service licences. This letter indicates that the appointed staff has passed the course theory assessment.</p>
+<p><strong>Others</strong></p>
+<p>Others</p>
+
+### Requirements
+
+Applicant must be ACRA registered company/ business
 

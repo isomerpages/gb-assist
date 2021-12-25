@@ -10,9 +10,11 @@ Public Utilities Board (PUB)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=4" type="primary" %}
 
 ### Application Details
+
 <p>For discharge of trade effluent (any liquid, including particles of matter and other substances in suspension in the liquid, which is the outflow from any trade, business or manufacture or of any works of engineering or building construction) into the public sewer.</p>
 <p><strong>FAQ</strong></p>
 <p><strong><u>1. Do I need to apply for this licence?</u></strong></p>
@@ -52,4 +54,13 @@ Print SPCP Here
 <p>8d Any other matters I should take note or notify PUB?</p>
 <p>Please notify PUB of any changes to the company/factory activities or increase in the volume of trade effluent discharge.</p>
 <p>Please note that the Written Approval may be revoked or suspended if you fail to comply with any provision of the Sewerage and Drainage (Trade Effluent) Regulations or any conditions imposed on the Written Approval.</p>
+
+### Documents Needed
+
+<p><strong>Attach Supporting Documents</strong></p>
+<p>e.g. Laboratory test report, Manufacturing Process Flow diagram (indicating where and how trade effluent is generated), Wastewater Treatment Process Flow Diagram, Licensed Waste Collection documents, MSDS, etc</p>
+
+### Requirements
+
+Applicant must be ACRA registered company/business
 

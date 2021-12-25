@@ -10,9 +10,11 @@ National Environment Agency (NEA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on NEA" src="https://www.mas.gov.sg/regulation/payments/standard-payment-institution-licence" type="primary" %}
 
 ### Application Details
+
 <p>Standard payment institutions are licensed and regulated under the Payment Services Act ("PS Act") to provide payment services below the specified thresholds.</p>
 <p>The thresholds are set out in section 6(5) of the PS Act. In summary, these are:</p>
 <ul>

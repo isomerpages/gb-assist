@@ -10,8 +10,10 @@ Monetary Authority of Singapore (MAS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/Insurance/Types-of-Insurers-in-Singapore" type="primary" %}
 
 ### Application Details
+
 <p>Insurers in Singapore comprise licensed insurers, authorised reinsurers, approved marine, aviation and transit (MAT) insurers and foreign insurers. Insurance brokers in Singapore comprise registered insurance brokers, approved MAT insurance brokers and approved reinsurance brokers.</p>
 

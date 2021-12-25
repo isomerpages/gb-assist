@@ -10,9 +10,11 @@ Building and Construction Authority (BCA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on BCA" src="https://www1.bca.gov.sg/regulatory-info/amusement-rides/amusement-rides-legislation" type="primary" %}
 
 ### Application Details
+
 <p>The Amusement Rides Safety Act (Chapter 6A) defines an amusement ride as any mechanised or power-driven device that carries &nbsp;patrons on a fixed or restricted course, or within a defined area, designed for the primary purpose of giving them amusement, thrills, or excitment, and is available for use by members of the public. This definition will not cover devices that are meant primarily for transport purposes, such as monorails, trams, sky trains and amphibious vehicles.</p>
 <p>In addition, the accompanying Amusement Rides Safety Regulations:</p>
 <ol style="list-style-type: lower-alpha;">

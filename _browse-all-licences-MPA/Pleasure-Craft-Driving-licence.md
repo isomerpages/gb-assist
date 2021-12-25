@@ -10,8 +10,10 @@ Maritime and Port Authority (MPA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on MPA" src="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-pleasure-craft/introduction-to-pleasure-craft-licensing" type="primary" %}
 
 ### Application Details
+
 <p>The Powered Pleasure Driving Licence (PPCDL) is required for driving engine- powered/jet-propelled pleasure craft (with SZ or SZH licence prefixes) of less than 24 metres within the port limits.</p>
 

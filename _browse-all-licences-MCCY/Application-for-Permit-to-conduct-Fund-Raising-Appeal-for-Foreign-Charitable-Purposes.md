@@ -10,9 +10,11 @@ Ministry of Culture, Community and Youth (MCCY)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=232" type="primary" %}
 
 ### Application Details
+
 <p>Any person who wishes to conduct any fund-raising appeal for foreign charitable purposes, must apply for a permit from the Office of the Commissioner of Charities.</p>
 <p>To apply for the permit, the fund-raiser (i.e. an incorporated or unincorporated organisation in Singapore must submit the application at least 30 days before the commencement of the fundraising appeal. You will be asked to submit the following documents during application:</p>
 <ul>
@@ -72,4 +74,18 @@ Print SPCP Here
 <p>If your organisation is a commercial fund raiser or collecting money on behalf of the permit holders, there must be a written agreement between your organisation and the permit holder. The agreement should include:<br />(a) location of appeal, date of appeal and fund-raising appeal method;<br />(b) percentage of proceeds to the charitable institution that is the permit holder;<br />(c) timeframe within which proceeds must be distributed to the charitable institution that is the permit holder; and<br />(d) remuneration of the commercial fund-raiser, commercial participator or person.</p>
 <p><strong>14. Are there any conditions on the use of funds raised for foreign charitable purposes?</strong></p>
 <p>The applicant has to apply at least 80% of the net proceeds of the funds raised within Singapore, unless the Commissioner of Charities in his discretion otherwise allows.</p>
+
+**Additional Information**
+
+<p>For further details, please contact the Office of the Commissioner of Charities at Tel: 6337 6597 or email: <a href="mailto:MCCY_Charities@mccy.gov.sg">MCCY_Charities@mccy.gov.sg</a></p>
+
+### Documents Needed
+
+<p><strong>1. Proof that the beneficiary is a bona fide organisation in its Country/Region;</strong></p>
+<p><strong>2. Letter from the beneficiary acknowledging that fund-raising activity held in its name; and</strong></p>
+<p><strong>3. Governing instrument of the charity or intended beneficiary.</strong></p>
+
+### Requirements
+
+<p>To apply for the permit, the fund-raiser (i.e. an incorporated or unincorporated organisation in Singapore must submit the application at least 30 days before the commencement of the fundraising appeal.</p>
 

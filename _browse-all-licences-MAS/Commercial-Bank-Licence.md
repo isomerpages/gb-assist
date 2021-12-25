@@ -10,8 +10,10 @@ Monetary Authority of Singapore (MAS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx" type="primary" %}
 
 ### Application Details
+
 <p>Setting up commercial banks in Singapore.</p>
 

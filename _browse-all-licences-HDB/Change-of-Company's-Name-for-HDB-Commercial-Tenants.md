@@ -10,9 +10,11 @@ Housing & Development Board (HDB)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on HDB" src="https://services2.hdb.gov.sg/webapp/AA15NOTI/AA15NOTIPPostalCheck" type="primary" %}
 
 ### Application Details
+
 <p>Applicable to tenants who change their company's name without change of :<br />a. business registration number ; and<br />b. business setup (i.e. no change in partners or shareholders or their respective shareholdings)</p>
 <p><strong>FAQ</strong></p>
 <p>Do I need to apply for this licence?<br />Yes, if you have changed your company name with ACRA.&nbsp;</p>

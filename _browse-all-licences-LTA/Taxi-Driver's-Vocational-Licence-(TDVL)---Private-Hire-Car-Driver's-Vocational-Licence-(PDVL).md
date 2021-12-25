@@ -10,9 +10,11 @@ Land Transport Authority (LTA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=101" type="primary" %}
 
 ### Application Details
+
 <p>A Taxi Driver&rsquo;s Vocational Licence (TDVL) is needed before a person can drive a taxi and a Private Hire Car Driver&rsquo;s Vocational Licence (PDVL) is needed before a person can drive a private hire car.</p>
 <p>Vocational licences granted by the LTA ensure that drivers are properly trained. They also bring an improved professional image to the different professions.</p>
 <p><strong>FAQ</strong></p>
@@ -293,4 +295,19 @@ Print SPCP Here
 <li value="31">Why am I issued a temp TDVL/ PDVL and not a card licence?</li>
 </ol>
 <p>The Temporary TDVL/ PDVL allows you to provide chauffeured or taxi services using a taxi/ PHC immediately. Taxi/ PHC drivers will subsequently receive their Vocational Licence Card via registered mail.</p>
+
+**Additional Information**
+
+<p><strong>Fee<br /></strong>A non-refundable application fee of $40 is payable upon submission of all documents.</p>
+
+### Documents Needed
+
+<p><strong>NRIC</strong></p>
+<p>For Singaporean : NRIC<br />Mandatory to upload upon application for all type of vocational licences.</p>
+<p><strong>Passport size photo</strong></p>
+<p>Please provide a recent passport size photograph (400 by 514 pixels (35mm by 45mm)). Photo must be recent with full face, front view with eyes open, ensure the full head from top of hair to the bottom of chin and head must be at the centre, wears a collared shirt, and on white background. Headgear worn in accordance with religious or racial custom is acceptable as long as it does not hide the facial features. Photo in any uniform group is not allowed.<br />Mandatory to upload upon application for all type of vocational licences.</p>
+<p><strong>Education Certificates</strong></p>
+<p>Mandatory to upload upon application for TDVL/PDVL.</p>
+<p><strong>Other Supporting Document</strong></p>
+<p>Other Supporting Document</p>
 

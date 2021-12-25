@@ -10,9 +10,11 @@ Singapore Food Agency (SFA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1901021401000442" type="primary" %}
 
 ### Application Details
+
 <p>For the operation of a supermarket with the sale/preparation of raw food. You will need to apply for a Supermarket Licence if you intend to operate a supermarket with the sale/preparation of raw food. It is a requirement under the Environmental Public Health Act. The purpose of licensing is to ensure cleanliness and food safety in supermarkets and to prevent food-borne diseases.</p>
 <p>You may refer below on the steps for application of Supermarket Licence.</p>
 <table class="table table-bordered">
@@ -122,4 +124,56 @@ Print SPCP Here
 <p>A: You need not apply for a supermarket licence if your proposed food business does not involve the retail sale of food directly to the customer. However, you may need to obtain a food factory licence from the Food Production &amp; Processing Department (FPPD), SFA, for your proposed business.</p>
 <p>Q: Do I need to apply for a food shop licence if I were to prepare and cook food from my home for sale to the public?</p>
 <p>A: Please be informed that under the current regulations, it is an offence to sell home cooked food to the public.</p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<table class="table table-condensed">
+<thead>
+<tr>
+<th>Type</th>
+<th>Fees</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Type">For supermarket with area less than 200 square metres</td>
+<td data-title="Fees">$250.00</td>
+</tr>
+<tr>
+<td data-title="Type">For supermarket with area more than 200 square metres</td>
+<td data-title="Fees">$500.00</td>
+</tr>
+</tbody>
+</table>
+
+### Documents Needed
+
+<p><strong>Supporting Documents</strong></p>
+<p><strong>Planning Permission/Change of Use approval</strong></p>
+<p>Approval from URA/HDB for the use of the premises</p>
+<p><strong>A copy of Applicant's NRIC</strong></p>
+<p>A copy of NRIC if application is under Individual</p>
+<p><strong>A  copy of ACRA registered Company Business Profile</strong></p>
+<p>A copy of ACRA registered Company Business Profile</p>
+<p><strong>Letter of authorization (if filer option is selected)</strong></p>
+<p>Letter of authorization from applicant for the filer to act on behalf</p>
+<p><strong>Layout plan of the premises</strong></p>
+<p>Layout Plan (to scale)</p>
+<p><strong>Floor plan (location plan)</strong></p>
+<p>Floor plan to indicate the location of premises</p>
+<p><strong>Tenancy Agreement/ Letter of consent</strong></p>
+<p>Tenancy Agreement/ Letter of consent</p>
+<p><strong>Pest Control Contract</strong></p>
+<p>Pest Control Contract</p>
+<p><strong>Cleaning programme/schedule</strong></p>
+<p>Cleaning programme/schedule</p>
+<p><strong>Basic food hygiene certificate/Refresher food hygiene certificate and Work Permit</strong></p>
+<p>Photocopy of food handler's basic food hygiene certificate/refresher food hygiene certificate and Work Permit</p>
+<p><strong>Others</strong></p>
+<p>Others</p>
+
+### Requirements
+
+Applicant must be ACRA registered company/ business
 

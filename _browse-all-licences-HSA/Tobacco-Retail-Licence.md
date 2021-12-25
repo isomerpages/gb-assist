@@ -10,9 +10,11 @@ Health Sciences Authority (HSA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56" type="primary" %}
 
 ### Application Details
+
 <p>For the retail of tobacco products</p>
 <p><strong>FAQ</strong></p>
 <p><strong>1. Do I need to apply for this licence?</strong></p>
@@ -74,4 +76,18 @@ Print SPCP Here
 <p>The licensee (with exception of duty-free and specialist tobacconist businesses) must ensure that only one packet of each pack size of each cigarette brand is allowed to be displayed in the tobacco storage unit whenever exposed to customers or members of the public during re-stocking or tobacco sales transactions.</p>
 <p>i) The tobacco licence is non-transferable.</p>
 <p>j) Licensees shall inform the Authority on any changes in the particulars pertaining to the licence not later than 3 days after changes have been effected.</p>
+
+**Additional Information**
+
+<p>New licence valid for 12 months - <strong>$400</strong> per year</p>
+
+### Documents Needed
+
+<p><strong>NRIC of Applicants</strong></p>
+<p><strong>Tenancy Agreement / Documents on Ownership of Property</strong></p>
+<p><strong>SFA Hawker Licence</strong><br />NEA Hawker Licence</p>
+<p><strong>Site plan for outlets located at construction sites</strong></p>
+<p><strong>Letter from construction company allowing the applicant/company to operate their outlet at the construction site</strong><br />For outlets located at Construction Sites</p>
+<p><strong>Authorisation letter (applicants applying on behalf of company)</strong></p>
+<p><strong>GIRO Form</strong><br />GIRO Form for subsequent deductions of licence related fees.</p>
 

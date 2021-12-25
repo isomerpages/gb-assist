@@ -10,9 +10,11 @@ Singapore Tourism Board (URA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on URA" src="https://www.corenet-ess.gov.sg/ess/" type="primary" %}
 
 ### Application Details
+
 <p>Your Qualified Person has to apply to URA for planning permission through CORENET if your application falls within any of the following scenarios:</p>
 <p>&nbsp;1) If the location of your building is within Urban Design Areas. You may visit&nbsp;<a href="https://www.ura.gov.sg/maps" target="_blank" rel="noopener">URA SPACE</a>&nbsp;to find out if your development is located in these areas by referring to the Control Plans and clicking &ldquo;Urban Design Element&rdquo; under the Filter Bar.</p>
 <p>2) If the solar panel is deemed to be elevated (1m from the roof level for landed housing developments, or 1.8m from the roof level for other developments) and located within one of the following land use zones:</p>

@@ -10,9 +10,11 @@ Intellectual Property Office of Singapore (IPOS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on IPOS" src="https://www.ipos.gov.sg/docs/default-source/resources-library/patents/patent-agent-forms-and-fees/form-h.docx" type="primary" %}
 
 ### Application Details
+
 <p>Application for Registration as a Foreign Patent Agent under rule 10B or for Renewal of Registration as a Foreign Patent Agent under Rule 10C of the Patents (Patent Agents) Rules 2001.</p>
 <p><strong>FAQ</strong></p>
 <p><strong><u>1. What requirements do I need to fulfill to be registered as a Foreign Patent Agent?</u></strong></p>

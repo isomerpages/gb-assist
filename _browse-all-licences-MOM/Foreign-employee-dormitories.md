@@ -10,8 +10,10 @@ Ministry of Manpower (MOM)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on MOM" src="http://www.mom.gov.sg/foreign-employee-dormitories" type="primary" %}
 
 ### Application Details
+
 <p>Under the Foreign Employee Dormitories Act, from 1 January 2016, operators of dormitories that can house 1,000 or more foreign employees need to obtain a licence from MOM.</p>
 

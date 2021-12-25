@@ -10,9 +10,11 @@ Hotels Licensing Board (HLB)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3" type="primary" %}
 
 ### Application Details
+
 <p>For premises with 4 or more rooms to carry out the business of providing accommodation as a hotel.</p>
 <p><strong>FAQ</strong></p>
 <p><strong>1) What is the definition of a hotel in the Hotels Act?</strong></p>
@@ -84,4 +86,31 @@ Print SPCP Here
 <p><strong>15) Where can I report any wrong-doings, unlawful conduct or malpractices?</strong></p>
 <p>STB provides the Applicant with a platform to report any wrong-doings, unlawful conduct or malpractices of STB staff that are against the public interest. The details of STB&rsquo;s whistleblowing framework is set out at</p>
 <p><a href="https://www.stb.gov.sg/content/stb/en/about-stb/corporate-governance.html" target="_blank" rel="noopener">https://www.stb.gov.sg/content/stb/en/about-stb/corporate-governance.html</a>.</p>
+
+**Additional Information**
+
+<p>The fees payable for the registration shall be:</p>
+<ul>
+<li>Hotel with 100 rooms or less - $200 per annum</li>
+<li>Hotel with more than 100 rooms and less than 300 rooms - $300 per annum</li>
+<li>Hotel with 300 rooms or more - $400 per annum</li>
+</ul>
+<p>and the licence is at $100 per annum</p>
+
+### Documents Needed
+
+<p><strong>URA Grant of Written Permission</strong></p>
+<p><strong>Temporary Occupation Permit (TOP) / Certificate of Statutory Completion (CSC)</strong></p>
+<p><strong>Temporary Fire Permit (TFP) / Fire Safety Certificate (FSC)</strong></p>
+<p><strong>Curriculum Vitae (CV) of Hotel-Keeper</strong></p>
+<p><strong>Advertisements</strong></p>
+<p><strong>ACRA Business Profile</strong></p>
+<p><strong>Cover Letter on Estimated Commencement Date</strong></p>
+<p><strong>Filer Authorisation Letter</strong></p>
+<p><strong>Other Supporting Documents I</strong></p>
+<p><strong>Other Supporting Documents II</strong></p>
+
+### Requirements
+
+Applicant must be ACRA registered company/business
 

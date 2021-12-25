@@ -10,9 +10,11 @@ Ministry of Home Affairs (MHA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on MHA" src="https://www.ros.mha.gov.sg/" type="primary" %}
 
 ### Application Details
+
 <p>Any club, company, partnership or association of 10 or more persons, whatever its nature or object should seek registration with ROS, unless you are any of the following:</p>
 <ol>
 <li>Any company registered under any written law relating to companies for the time being in force in Singapore</li>

@@ -10,9 +10,11 @@ Intellectual Property Office of Singapore (IPOS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=270" type="primary" %}
 
 ### Application Details
+
 <p>Application for Registration as a Singapore Patent Agent under rule 7(1) of the Patents (Patent Agents) Rules 2001.</p>
 <p><strong>FAQ</strong></p>
 <p><strong><u>1. What requirements do I need to fulfil to be registered as a Patent Agent?</u></strong></p>
@@ -34,4 +36,19 @@ Print SPCP Here
 <p>You may download the documents from IPOS website: <a href="http://www.ipos.gov.sg/resources/patent-agent" target="_blank" rel="noopener">www.ipos.gov.sg/resources/patent-agent</a></p>
 <p><strong><u>6. Who can I contact for further details?</u></strong></p>
 <p>You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a></p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p><p>$150</p>
+
+### Documents Needed
+
+<p><strong>University Degree Certificate and its transcript</strong><br />University Degree Certificate and its transcript/any other supporting documents for academic qualification (if applicable);</p>
+<p><strong>Master of IP and Innovation Management/Graduate Diploma in IP and Innovation Management/ Graduate Certificate in Intellectual Property Law</strong><br />Master of IP and Innovation Management (MIPIM)/Graduate Diploma in IP and Innovation Management (GDIPIM)/Graduate Certificate in Intellectual Property Law (GCIP)/other supporting documents of equivalent qualification (if applicable);</p>
+<p><strong>Singapore Patent Agents Qualifying Examination's result slips</strong><br />Singapore Patent Agents Qualifying Examination's result slip(s)/other supporting documents of equivalent qualification (if applicable);</p>
+<p><strong>Original letter from supervisor for Internship completion</strong></p>
+<p><strong>2 sets of Form B (Certificates of Good Character)</strong><br />2 sets of Form B (Certificates of Good Character)<br />The certificates of good character are to be signed by 2 responsible individuals &ndash;<br />(i) who are not immediately related to the applicant;<br />(ii) who have known the applicant for at least 12 months and have had opportunities to judge his character; and<br />(iii) at least one of whom is resident in Singapore.</p>
+<p><strong>1 set of Form I (Certificate of Good Performance)</strong><br />1 set of Form I (Certificate of Good Performance)<br />Applicable only for individuals registering on the basis of their experience as an Patent Examiner under rule 6(3)</p>
+<p><strong>Supporting documents for practical experiences</strong><br />E.g.<br />- Verification letters of experience and employment by the managing or supervising partner signed in their professional capacity.<br />- List of patent applications prepared and filed in your name or samples of patent documents prepared by you, verified by the managing or supervising partner signed in their professional capacity.</p>
+<p><strong>Others</strong></p>
 

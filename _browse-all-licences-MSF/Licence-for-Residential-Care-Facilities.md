@@ -10,9 +10,11 @@ Ministry of Social and Family Development (MSF)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10063" type="primary" %}
 
 ### Application Details
+
 <p>Operating a residential care facility for children and young persons under 16 years of age or ambulant/semi-ambulant persons aged 60 years and above.</p>
 <p><strong>FAQ</strong></p>
 <p><u><a href="https://licence1.business.gov.sg/feportal/web/frontier/eadvisor?p_p_id=eAdvisor_WAR_foblsportlet&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_eAdvisor_WAR_foblsportlet_action=showSelectedLicences#apply">Applying for a New Licence</a></u>&nbsp;|&nbsp;<u><a href="https://licence1.business.gov.sg/feportal/web/frontier/eadvisor?p_p_id=eAdvisor_WAR_foblsportlet&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_eAdvisor_WAR_foblsportlet_action=showSelectedLicences#amend">Amend Existing Licence</a></u>&nbsp;|&nbsp;<u><a href="https://licence1.business.gov.sg/feportal/web/frontier/eadvisor?p_p_id=eAdvisor_WAR_foblsportlet&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_eAdvisor_WAR_foblsportlet_action=showSelectedLicences#renew">Renew Existing Licence</a></u>&nbsp;|&nbsp;<u><a href="https://licence1.business.gov.sg/feportal/web/frontier/eadvisor?p_p_id=eAdvisor_WAR_foblsportlet&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_eAdvisor_WAR_foblsportlet_action=showSelectedLicences#cancel">Cancel Existing Licence</a></u></p>
@@ -53,4 +55,29 @@ Print SPCP Here
 <p><strong><u>Q10: If I want to cease operation of the Home, what should I do?</u></strong></p>
 <p><strong>A10:</strong>&nbsp;Please email to&nbsp;<a href="mailto:MSF_RHL@msf.gov.sg">MSF_RHL@msf.gov.sg</a>&nbsp;at least 6 months prior to the cessation of operations at the Home.</p>
 <p><a href="https://licence1.business.gov.sg/feportal/web/frontier/eadvisor?p_p_id=eAdvisor_WAR_foblsportlet&amp;p_p_lifecycle=0&amp;p_p_state=normal&amp;p_p_mode=view&amp;p_p_col_id=column-1&amp;p_p_col_count=1&amp;_eAdvisor_WAR_foblsportlet_action=showSelectedLicences#sections">Back to Top</a></p>
+
+**Additional Information**
+
+<p>Licence fee to operate a Children and Young Persons Home &ndash; S$24 (Twenty-Four Dollars) and is valid for up to 2 years.</p>
+<p>Licence fee to operate a Home for the Aged &ndash; S$12 (Twelve Dollars) and is valid for 2 years.</p>
+
+### Documents Needed
+
+<p><strong>Certificate of Registration from Accounting &amp; Corporate Regulatory Authority (ACRA) or Certificate of Registration from Registrar of Societies.</strong></p>
+<p><strong>Title Deed or Tenancy Agreement from HDB or URA</strong></p>
+<p><strong>Floor plan</strong><br />Final endorsed drawn to scale floor plan.</p>
+<p><strong>Fire Safety Certificate from SCDF</strong></p>
+<p><strong>Fire Certificate from SCDF</strong></p>
+<p><strong>Letter of Authorization, for filer submitting application on behalf of applicant</strong></p>
+<p><strong>Temporary Occupation Permit from BCA (applicable to newly constructed building)</strong></p>
+<p><strong>Approval on compliance of building with the Code on Barrier-free Accessibility</strong></p>
+<p><strong>Change of Use from HDB or URA</strong></p>
+<p><strong>Standard Operating Procedures Business Management Dimension</strong></p>
+<p><strong>Standard Operating Procedures Home Management Dimension</strong></p>
+<p><strong>Standard Operating Procedures Staff Management Dimension</strong></p>
+<p><strong>Standard Operating Procedures Case Management Dimension</strong></p>
+<p><strong>Standard Operating Procedures Resident Management Dimension</strong></p>
+<p><strong>Standard Operating Procedures Incident Management Dimension</strong></p>
+<p><strong>Standard Operating Procedures Volunteer Management Dimension</strong></p>
+<p><strong>Standard Operating Procedures Physical Management Dimension</strong></p>
 

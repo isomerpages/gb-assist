@@ -10,9 +10,11 @@ Public Utilities Board (PUB)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=268" type="primary" %}
 
 ### Application Details
+
 <p>Application to be a Licensed Plumber to carry out water service and sanitary plumbing works.</p>
 <p><strong>FAQ</strong></p>
 <p><strong><u>1. Do I need a licence?</u></strong></p>
@@ -30,4 +32,15 @@ Print SPCP Here
 <p>We will inform you of the outcome of your application after 4&nbsp;weeks of closing date of applications.</p>
 <p><strong><u>6. Upon acceptance of my application, what do I need to do?</u></strong></p>
 <p>You will be required to attend a 3 days course which will be conducted by PUB. Upon completion of the course, you are required to sit for a written and oral assessment. Upon passing the assessments, a licence will be issued.</p>
+
+**Additional Information**
+
+<p>The licence fee is $90 and is valid for life.</p>
+
+### Documents Needed
+
+<p><strong>NRIC/Employment Pass/S Pass/ Work Permit</strong></p>
+<p><strong>Builders Certificate in Plumbing &amp; Pipe Fitting</strong></p>
+<p><strong>Colour passport-sized photograph</strong></p>
+<p><strong>Testimonial from supervising LP</strong></p>
 

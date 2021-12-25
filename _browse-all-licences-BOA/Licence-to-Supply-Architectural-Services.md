@@ -10,9 +10,11 @@ Board of Architects (BOA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on BOA" src="https://www.boa.gov.sg/register/application-forms/" type="primary" %}
 
 ### Application Details
+
 <p>For providing architectural services that require submission of plans and certificates to authorities regulating buildings.</p>
 <p><strong>FAQ</strong></p>
 <p>Question:<br />How can I apply to set up an architectural firm?&nbsp;</p>

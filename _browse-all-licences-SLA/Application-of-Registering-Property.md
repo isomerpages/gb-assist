@@ -10,9 +10,11 @@ Singapore Land Authority (SLA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=277" type="primary" %}
 
 ### Application Details
+
 <p>If you wish to purchase Company&rsquo;s Insolvency report, send legal requisitions to relevant government agencies and request for Property Information of to speed up the process of conveyancing transactions.</p>
 <p><strong>FAQ</strong></p>
 <p><strong>1. Company Insolvency Search - Companies Winding Up (CWU), Originating Summons (OS)</strong></p>

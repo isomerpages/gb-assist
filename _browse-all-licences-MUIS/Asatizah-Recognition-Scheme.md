@@ -10,9 +10,11 @@ Majlis Ugama Islam Singapura (MUIS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=235" type="primary" %}
 
 ### Application Details
+
 <p><strong>Description</strong></p>
 <p>For religious teacher/asatizah conducting religious classes or Quranic classes.</p>
 <p><strong>FAQ</strong></p>
@@ -58,4 +60,34 @@ Print SPCP Here
 <p>Asatizah Recognition Board (ARB) will assess every complete application. This may take up to 2 months before the outcome of the application is conveyed to the applicant.</p>
 <p>Applicants may be called for an interview by ARB where necessary to complete the assessment process.</p>
 <p>Applicants who have been successfully registered will receive an ARS Certificate. Other outcomes of assessment including a provisional recognition will be communicated to the applicant officially.</p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>Kindly take note that the $10.00 application fee is waived until further notice.</p>
+
+### Documents Needed
+
+<p><strong>Supporting Documents</strong></p>
+<p><strong>NRIC/PASSPORT/EMPLOYMENT PASS/WORK PERMIT</strong></p>
+<p>NRIC</p>
+<p><strong>Education Transcripts and Certificates</strong></p>
+<p>Please scan the documents. Documents taken as photos will not be accepted.</p>
+<p><strong>Passport-sized Photo</strong></p>
+<p>1. Taken within the last 3 months</p>
+<p>2. Clear and in focus, 35mm wide by 45mm high, without any borders</p>
+<p>3. In colour taken against a plain white background without shadows</p>
+<p>4. Avoid white headgear and plain white clothing (headgear worn in accordance with religious or racial customs is acceptable but must not hide any facial features)</p>
+<p>5. Full face with the upper shoulders visible, facing forward with eyes open</p>
+<p>6. Hair must not cover the eyebrows or the eyes</p>
+<p>7. Even exposure (must not be taken under direct lighting)</p>
+<p>8. Spectacle frames must not cover part of the eyes</p>
+<p>9. Spectacle lenses must not reflect or glare</p>
+<p>10. You must look at the camera with a neutral expression and with mouth closed.</p>
+<p><strong>Testimonial, Education Transcripts and Certificates</strong></p>
+<p>Please scan the documents. Documents taken as photos will not be accepted.</p>
+
+### Requirements
+
+N.A.
 

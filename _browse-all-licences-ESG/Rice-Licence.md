@@ -10,9 +10,11 @@ Enterprise Singapore (ESG)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=38" type="primary" %}
 
 ### Application Details
+
 <p>In Singapore, rice is a controlled item under the Price Control Act (Chapter 244) and the Price Control (Rice) 1990 issued by the Minister of Trade and Industry.</p>
 <p>A licence is required to import (into Singapore or Singapore Free Trade Zone), re-export and carry on wholesale dealings in rice.</p>
 <p>Please visit Rice Website for more information:&nbsp;<a href="https://rice.enterprisesg.gov.sg/" target="_blank" rel="noopener">https://rice.enterprisesg.gov.sg/</a></p>

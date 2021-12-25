@@ -10,9 +10,11 @@ Land Transport Authority (LTA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=104" type="primary" %}
 
 ### Application Details
+
 <p>For the operation of a fare-charging scheduled bus service</p>
 <p><strong>FAQ</strong></p>
 <p><strong><u>BSL APPLICATION - NEW</u></strong></p>
@@ -43,4 +45,50 @@ Print SPCP Here
 <p>&nbsp;</p>
 <p>6) Who can I contact for further details?</p>
 <p>For general licensing enquiries, please contact LTA at<br />Tel : 1800 &ndash; CALL LTA (1800 &ndash; 2255 582) or email to<br /><a href="https://www.lta.gov.sg/feedback/" target="_blank" rel="noopener">https://www.lta.gov.sg/feedback/</a></p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<table class="table table-condensed" border="1">
+<thead>
+<tr>
+<th rowspan="4">Fees</th>
+<th>Fee Details</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-title="Licence Name">Application Fee</td>
+<td>An application fee of $40 is applicable for every successful application for new BSL, renewal of BSL, Amendment of route/operating details and Cancellation (or termination) of BSL.</td>
+</tr>
+<tr>
+<td data-title="Licence Name">Class 2 Bus Service Licence Fee (for new and renewal)</td>
+<td>2019
+<p>$80 for each month (or part of a month) or $900, whichever is the lower</p>
+2020
+<p>$90 for each month (or part of a month) or $1,000, whichever is the lower</p>
+</td>
+</tr>
+<tr>
+<td data-title="Licence Name">Amend &ndash; Fare Amendments</td>
+<td>No Charges</td>
+</tr>
+<tr>
+<td data-title="Licence Name">Amend &ndash; Non Fare Amendments</td>
+<td>Amendment fee of $10</td>
+</tr>
+<tr>
+<td data-title="Licence Name">Security Deposit</td>
+<td>$500 for new Bus Service Licence</td>
+</tr>
+</tbody>
+</table>
+
+### Documents Needed
+
+<p><strong>Route Map<br /></strong>A map clearly showing the proposed route and all stopping places.</p>
+<p><strong>Stopping places (non-bus stop)<br /></strong>Pictures of the stopping place(s) which is/are part of the premises of the developments or along the road(s) i.e. not at a public bus stop.</p>
+<p><strong>Approval for use of private development/ road<br /></strong>Proof of approval from the management/ owner if you intend to set a stopping place within a private development/ along a private road.</p>
+<p><strong>Approval from Ministry of Social and Family Development<br /></strong>If you are applying to operate a bus service to serve any of the Integrated Resorts (IRs) in Singapore, you are required to declare whether you are related to the IRs or are contracted or subsidised by the IRs to operate the proposed bus service. Please also submit the approval from Ministry of Social and Family Development as a supporting document.</p>
+<p><strong>Transfer of Bus Ownership for Scheme B Bus Type<br /></strong>If you are applying Scheme B Bus Type, document on transfer of Bus Ownership is needed as a supporting document.</p>
 

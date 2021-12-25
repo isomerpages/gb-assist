@@ -10,8 +10,10 @@ Ministry of Health (MOH)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on MOH" src="https://elis.moh.gov.sg/elis/index.do?task=home" type="primary" %}
 
 ### Application Details
+
 <p>Hospitals and medical clinics that intend to provide services for TOP are required to apply for status as an approved institution for TOP.</p>
 

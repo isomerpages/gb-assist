@@ -10,9 +10,11 @@ Animal & Veterinary Service (AVS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301030000131" type="primary" %}
 
 ### Application Details
+
 <p><strong>Description</strong></p>
 <p>The Licence to Import/Export/Transship Animals, Birds, Eggs and Biologics may be issued by either Animal &amp; Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is required if you intend to import/export/tranship animals, birds or their products into/out from Singapore. In the case of veterinary biologics, a licence is required for their import/transshipment. Export of veterinary biologics does not require a licence.</p>
 <p><strong>FAQs</strong></p>
@@ -97,4 +99,46 @@ Print SPCP Here
 <p>2) Certificate/Health Certificate</p>
 <p>3) Letter of Undertaking</p>
 <p>4) Others</p>
+
+**Additional Information**
+
+<p><strong>Commercial Birds</strong></p>
+<p>Licence Fees: $62.00</p>
+<p>Express Fees: $124.00</p>
+<p><strong>Biologics / Egg / Product</strong></p>
+<p>Licence Fees: $22.20</p>
+<p>Express Fees: $44.00</p>
+<p><strong>Commercial (Non-Bird) Research & Development</strong></p>
+<p>Licence Fees: $87.00</p>
+<p>Express Fees: $174.00</p>
+<p><strong>Personal</strong></p>
+<p>Licence Fees: $50.00</p>
+<p>Express Fees: $100.00</p>
+
+### Documents Needed
+
+<p><strong>Supporting Documents</strong></p>
+<p><strong>Valid rabies vaccination record/certificate, including details of animal and microchip number (applicable only for Import of Dogs &amp; Cats from Category B)</strong></p>
+<p><strong>Additional rabies vaccination record/certificate after blood sampling date for serology (applicable only for Import Dogs &amp; Cats under Category C1)</strong></p>
+<p><strong>Valid rabies serology test report (applicable only for Import of Dogs &amp; Cats from Category B)</strong></p>
+<p><strong>Documentary proof to show its 4th generation and above from the ancestral stock of Prionailurus bengalensis/Leptailurus serval (mandatory only for Bengal/Savannah cat crosses) (applicable only for Import of Cats from Category A to Category B countries/regions)</strong></p>
+<p><strong>Photo showing clearly the face and body of the dog (mandatory only for mixed/ cross breed) (applicable only for Import of Dogs from Category A to Category B countries/regions)</strong></p>
+<p><strong>Import permit of importing country/region (applicable only for Transhipment of Cats &amp; Dogs)</strong></p>
+<p><strong>Valid Health Certificate from exporting country/region (applicable only for Transhipment of Cats &amp; Dogs)</strong></p>
+<p><strong>Dog Licence</strong></p>
+<p><strong>Treatment certificate</strong></p>
+<p><strong>Health Certificate</strong></p>
+<p><strong>Certificate of Analysis</strong></p>
+<p><strong>Declaration Letter</strong></p>
+<p><strong>Quality Control report</strong></p>
+<p><strong>Production Specifications</strong></p>
+<p><strong>Letter of Undertaking</strong></p>
+<p><strong>Veterinary Certificate</strong></p>
+<p><strong>Certification/Health Certificate</strong></p>
+<p><strong>Others</strong></p>
+
+
+### Requirements
+
+Applicant must be ACRA registered company/ business
 

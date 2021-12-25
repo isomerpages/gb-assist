@@ -10,9 +10,11 @@ Singapore Tourism Board (STB)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on STB" src="https://trust.stb.gov.sg/public/public/ta-application-preamble" type="primary" %}
 
 ### Application Details
+
 <p>There are 2 types of travel agent licences:</p>
 <p><strong>Niche Licence</strong></p>
 <p>Under the Travel Agents Regulations 2017, a Niche licence is a licence that is subject to a condition restricting the licensee granted the licence to supply only tours within Singapore without any right of accommodation. An example of such a tour is a sit-in coach day tour. The Niche licence has minimum financial requirements of $50,000.</p>

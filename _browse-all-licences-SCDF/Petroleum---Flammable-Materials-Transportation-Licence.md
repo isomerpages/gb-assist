@@ -10,9 +10,11 @@ Singapore Civil Defence Force (SCDF)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=17" type="primary" %}
 
 ### Application Details
+
 <p>The Fire Safety Act (FSA) regulates the transportation of petroleum and flammable materials . The petroleum and flammable materials transportation licence is to ensure that the transportation is carried out in a safe manner and that proper fire safety measures / procedures are undertaken by the licensee to ensure safety environment. In general, the FSA requires the transportation vehicle used to be certified, the transportation emergency response plan been approved and the drivers of road vehicles transporting any class of petroleum and flammable materials to hold a valid Hazardous Material Transportation Driver Permit (HTDP) to drive the vehicle. However, you will be exempted from applying a transportation licence if you are transporting petroleum less than:&nbsp;<br />(1) Total of 130kg(gross weight) in not more than 2 cylinders;&nbsp;<br />(2) 20 litres of Class I petroleum;&nbsp;<br />(3) 200 litres of Class II petroleum;&nbsp;<br />(4) 200 litres of Class III petroleum;&nbsp;<br />(5) 10 kg of Solid Flammable Material;&nbsp;<br />(6) 20 litres of Liquid Flammable Material;or&nbsp;<br />(7) 130 kg of Gaseous Flammable Material&nbsp;</p>
 <p>Estimated Response Time if applied online here: 3 working days</p>
 <p><strong>FAQ</strong></p>
@@ -195,4 +197,22 @@ Print SPCP Here
 <p>Fax: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 68481494</p>
 <p><strong>7. What is the application process like?</strong></p>
 <p>You can submit the application form and the supporting documents, if required, via the GoBusiness Licensing. As the applicant, you can either file personally or authorise a representative to apply on your behalf. For offline submission, please indicate the case ID number on your supporting documents before sending to SCDF/CED.</p>
+
+**Additional Information**
+
+<p><strong>The fee will be determined by agency</strong></p>
+
+### Documents Needed
+
+<p><strong>LTA Test Certificate/ Malaysia Puspakom</strong><br />Test certificate issued by Land Transport Authority/ Malaysia Puspakom on the roadworthiness of the vehicle (in certified true copy)</p>
+<p><strong>Certificate of Vehicle Inspection (Mandatory)</strong><br />One certified true (or original) copy of the certificate of inspection in accordance to Regulation of the Fire Safety (Petroleum) Regulations duty endorsed by the supplier.</p>
+<p><strong>Hydrostatic and Radiographic or any equivalent Test Report endorsed by Professional Engineer (For Bulk Tank)</strong><br />One certified true (or original) copy of the following:<br />1. Hydrostatic or any equivalent Test Report<br />2. Radiographic or any equivalent Test Report</p>
+<p><strong>Letter of Authorisation from Supplier(LPG Package)</strong><br />Letter of Authorisation from Supplier(LPG Package)</p>
+<p><strong>Manufacturer&rsquo;s Report (For Bulk Tank)</strong><br />One certified true (or original) copy of Manufacturer&rsquo;s report (with tank design drawings) on the bulk tanker and bulk tank</p>
+<p><strong>Transportation Emergency Response Plan (Mandatory)</strong><br />To submit Transportation Emergency Response Plan(TERP) documents(with Annexes). Consult TERP officer at 68481440 (SCDF_ERP_TERP@scdf.gov.sg) for more information.</p>
+<p><strong>Vehicle Registration Card</strong><br />One certified true copy of the vehicle registration card.</p>
+<p><strong>Astrata Certificate</strong><br />Annual inspection Astrata Certificate for vehicle transporting more than 3 metric tonnes /tube Trailer(net weight)</p>
+<p><strong>Photos of the Vehicles with the Registration number for the Road Tanker, Prime Mover, Trailer and Lorries. (Mandatory)</strong></p>
+<p><strong>Hazardous Transportation Driver's Permit.</strong><br />One certified true copy of valid Hazardous Transportation Driver's Permit</p>
+<p><strong>Letter of authorisation from Owner/Operator (for Filer )</strong><br />A letter of authorisation from Owner or Operator to authorise the filer to apply and obtain the Petroleum and Flammable Materials Transportation Licence on their behalf.</p>
 

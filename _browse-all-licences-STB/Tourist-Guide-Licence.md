@@ -10,9 +10,11 @@ Singapore Tourism Board (STB)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on STB" src="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/tourist-guide-licence.html#TouristGuideLicence" type="primary" %}
 
 ### Application Details
+
 <p>A tourist guide is an individual &nbsp;who personally provides any guiding services to a tourist for remuneration.</p>
 <p><a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.stb.gov.sg%2Fcontent%2Fstb%2Fen%2Fassistance-and-licensing%2Flicensing-overview%2Ftourist-guide-licence.html&amp;data=02%7C01%7Clicences-techsupport%40crimsonlogic.com%7C6792e914fbac4d57bbef08d6d91e4718%7Cc5e1a618b91e426fb6f3429d06158541%7C0%7C0%7C636935121428469468&amp;sdata=oP107coDiNp4JtWYQViPyuQPbr1X5MKUFqZC9IHpKMs%3D&amp;reserved=0" target="_blank" rel="noopener">https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/tourist-guide-licence.html</a></p>
 <p><strong>FAQ</strong></p>

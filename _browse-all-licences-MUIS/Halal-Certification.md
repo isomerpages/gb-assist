@@ -10,9 +10,11 @@ Majlis Ugama Islam Singapura (MUIS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=239" type="primary" %}
 
 ### Application Details
+
 <p><strong>Description</strong></p>
 <p>This application allows you to make a new Halal certification application for your business.</p>
 <p><strong>FAQ</strong></p>
@@ -37,4 +39,74 @@ Print SPCP Here
 <p><a href="https://licence1.business.gov.sg/documents/13101/4170957/Special+Request+Form+v6+%28Updated+Jan+2016%29.pdf/1db01b6a-c361-4ad0-b2a6-825583ea107b">Special Request Form</a></p>
 <p><a href="https://licence1.business.gov.sg/documents/13101/4170957/Waiver+of+Muis+HCC+v5+%28Updated+Dec+2015%29.pdf/b0d09827-abdd-4f98-b002-8d41bc4a59b1">Waiver of Muis HCC</a></p>
 <p><a href="https://licence1.business.gov.sg/documents/13101/4170957/Declaration+of+Meat+or+Poultry+based+Products+v3+%28updated+Dec+2015%29.pdf/13c78604-bc5b-4624-a00e-81b8715a45b0">Declaration of Meat or Poultry based Products</a></p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>The list of fees schedule can be found in the <a href="https://www.muis.gov.sg/Halal/Halal-Certification/Application-Fees" >website</a></p>
+<p><strong>Contact details</strong></p>
+<p>For general Halal certification enquiries, please contact us at:</p>
+<p>i. Tel - (65) 6011 0037.</p>
+<p>ii. Email - info@muis.gov.sg</p>
+
+### Documents Needed
+
+<p><strong>Supporting Documents</strong></p>
+<p><strong>Halal Questionnaire</strong></p>
+<p>Please click here to download the Halal Questionnaire template. Halal Questionnaire is applicable to Medium - Low or Medium - High risk ingredients (raw materials / processing aides / additives).</p>
+<p><strong>Floor plan of premises applying for Halal certification</strong></p>
+<p>Floor plan of premises applying for Halal certification</p>
+<p><strong>Pictures of delivery vehicles</strong></p>
+<p>Pictures of delivery vehicles.</p>
+<p><strong>Ingredients</strong></p>
+<p>Please click <a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of the Ingredients</p>
+<p>Do not add columns, sub-headers or more than one sheet in the excel file</p>
+<p>Do not change the header and sheet name in the excel file</p>
+<p>Do not upload more than one excel file</p>
+<p><strong>List of Product to be Certified</strong></p>
+<p>Please click&nbsp;<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of Product to be Certified</p>
+<p>Do not add columns, sub-headers or more than one sheet in the excel file</p>
+<p>Do not change the header and sheet name in the excel file</p>
+<p>Do not upload more than one excel file</p>
+<p><strong>Pictures of Product labels</strong></p>
+<p>Pictures of Product labels</p>
+<p><strong>List of Product to be stored in location</strong></p>
+<p>Please click&nbsp;<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of Product to be Certified</p>
+<p>Do not add columns, sub-headers or more than one sheet in the excel file</p>
+<p>Do not change the header and sheet name in the excel file</p>
+<p>Do not upload more than one excel file</p>
+<p><strong>List of Product to be shipped</strong></p>
+<p>List of Product to be shipped</p>
+<p><strong>Eating Establishment Menu Upload</strong></p>
+<p>Upload Menu for Eating Establishment. Please click<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of the Menu</p>
+<p>Do not add columns, sub-headers or more than one sheet in the excel file</p>
+<p>Do not change the header and sheet name in the excel file</p>
+<p>Do not upload more than one excel file</p>
+<p><strong>Food Preparation Area Menu upload</strong></p>
+<p>Upload Menu for Food Preparation Area. Please click&nbsp;<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of the Menu</p>
+<p>Do not add columns, sub-headers or more than one sheet in the excel file</p>
+<p>Do not change the header and sheet name in the excel file</p>
+<p>Do not upload more than one excel file</p>
+<p><strong>Packing List</strong></p>
+<p>Upload list of products.</p>
+<p><strong>Veterinary Public Health Certificate (for the export of frozen/processed poultry)</strong></p>
+<p>Upload Veterinary Public Health Certificate (for the export of frozen/processed poultry)</p>
+<p><strong>Halal Slaughtering Certificate (for meat items only)</strong></p>
+<p>Upload Halal Slaughtering Certificate (for meat items only)</p>
+<p><strong>Transport Bill of Lading</strong></p>
+<p>Upload Transport Bill of Lading</p>
+<p><strong>Valid Halal Certificate (MUIS / Recognised Foreign Certifying Bodies)</strong></p>
+<p>Upload Valid Halal Certificate (MUIS / Recognised Foreign Certifying Bodies)</p>
+<p><strong>Endorsement Template (Template provided by Muis as attached)</strong></p>
+<p>Upload Endorsement Template (Template provided by Muis as attached).Please click<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/TEMPLATE+FOR+ENN+SCHEME.pdf/53064614-4146-464f-9c43-17af0ce0f0fc"><u>here</u></a> to download the format of the Template</p>
+<p><strong>Other document</strong></p>
+
+
+### Requirements
+
+Related licences to apply at External Agency
+SFA - Licence to Operate a Coldstore
+SFA - Licence to Operate Slaughter-house
+SFA - Licence to Operate a Food Processing Establishment
+
 

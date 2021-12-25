@@ -10,8 +10,20 @@ Infocomm Media Development Authority (IMDA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10011" type="primary" %}
 
 ### Application Details
+
 <p>For establishing and setting up of radio communication equipment on board aircraft.</p>
+
+**Additional Information**
+
+Licence Fee: $100 for 5 years
+
+### Documents Needed
+
+A copy of the Civil Aviation Authority of Singapore Approval
+
+A copy of the Equipment Information List
 

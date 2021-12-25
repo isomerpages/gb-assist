@@ -10,9 +10,11 @@ Majlis Ugama Islam Singapura (MUIS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=234" type="primary" %}
 
 ### Application Details
+
 <p><strong>Description</strong></p>
 <p>Anyone or any entity who wishes to conduct an Islamic education centre or be an Islamic education provider.</p>
 <p><strong>FAQ</strong></p>
@@ -36,4 +38,18 @@ Print SPCP Here
 <p>IECPs are required to employ only Islamic teachers (Asatizah) or Quranic teachers who are registered under ARS and to ensure that the curriculum, learning materials and teachers employed comply with the ARS Code of Ethics.</p>
 <p><strong><u>6. How long is the application process?</u></strong></p>
 <p>All approval of registration will be made within 2 months if no additional information is required. Existing IECPs (established before 1 January 2017) may continue to run their centres while registration is being processed. New IECPs will need to seek Muis’ approval before publicising their courses and taking in students. The period of registration validity is 3 years.</p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>N.A.</p>
+
+### Documents Needed
+
+<p><strong>Supporting Documents</strong></p>
+<p>No supporting document required for online application submission. Agencies may contact applicant if any supporting documents are needed subsequently.</p>
+
+### Requirements
+
+N.A.
 

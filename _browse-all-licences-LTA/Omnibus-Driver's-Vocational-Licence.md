@@ -10,9 +10,11 @@ Land Transport Authority (LTA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=100" type="primary" %}
 
 ### Application Details
+
 <p>Apply for this licence to be an omnibus driver. The licence is valid only while the holder is an omnibus driver with a public transport operator.</p>
 <p><strong>FAQ</strong></p>
 <p><strong><u>ODVL APPLICATION</u></strong></p>
@@ -149,4 +151,28 @@ Print SPCP Here
 <li>Payment of $10.70 is payable.</li>
 </ul>
 <p>Please approach the Reception Counter at Level 1 for assistance. You will need to make a payment of $10 (excluding GST) for the replacement of the licence.</p>
+
+**Additional Information**
+
+<p><strong>Fee<br /></strong>A non-refundable application fee of $40 is payable upon submission of all documents.</p>
+
+### Documents Needed
+
+<p><strong>NRIC &ndash; Front and Back</strong></p>
+<p>For Singaporean / SPR: NRIC<br />Mandatory to upload upon application for all type of vocational licences.</p>
+<p><strong>Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be &rdquo;Bus Driver&rdquo;), Expiry date and Company Name &ndash; Front and Back</strong></p>
+<p>For Foreigner: Employment Pass / S Pass / Work Permit / In-principle approval letter by MOM stating Name, FIN, Occupation (must be &rdquo;Bus Driver&rdquo;), Expiry date and Company Name<br />Mandatory to upload upon application for all type of vocational licences.</p>
+<p><strong>Passport size photo</strong></p>
+<p>Please provide a recent passport size photograph (400 by 514 pixels (35mm by 45mm)). Photo must be recent with full face, front view with eyes open, ensure the full head from top of hair to the bottom of chin and head must be at the centre, wears a collared shirt, and on white background. Headgear worn in accordance with religious or racial custom is acceptable as long as it does not hide the facial features. Photo in any uniform group is not allowed.<br />Mandatory to upload upon application for all type of vocational licences.</p>
+<p><strong>Medical Records</strong></p>
+<p>Mandatory to upload before approval to go for course for all vocational licences.</p>
+<p><strong>Employment letter (Singaporean, SPR and Foreigners)</strong></p>
+<p>Mandatory to upload for Singaporean, SPR and Foreigners applying ODVL.</p>
+<p><strong>Letter of Undertaking</strong></p>
+<p>ODVL applicants have to sign to agree to go for training prior to our approval. If the ODVL application were to be rejected, the applicants will have to note that the training fee paid is non-refundable.</p>
+<p><strong>Other Supporting Documents</strong></p>
+
+### Requirements
+
+Applicant must be ACRA registered company/business
 

@@ -10,9 +10,11 @@ Ministry of Manpower (MOM)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=55" type="primary" %}
 
 ### Application Details
+
 <p>Note: Before you apply for this licence, please ensure that you have registered your business or company with ACRA.&nbsp;</p>
 <p>You must have at least one of the following business activities in your company&rsquo;s ACRA profile:&nbsp;<br />- 78103 (maid agencies)<br />- 78104 (employment agency - exclude maid agencies)<br />- 78105 (executive search)&nbsp;</p>
 <p>A Comprehensive licence allows you to place all types of workers without a salary cap. If you are only placing workers earning more than S$4,500 per month, you can apply for a Select licence. Please note that if you intend to apply for a Select Licence, you cannot register 78103(Maid Agencies) as one of your business activities.</p>
@@ -85,4 +87,23 @@ Print SPCP Here
 <p>Our Operating Hours</p>
 <p>(Mon to Fri except public holidays)- 8:00am to 5:30pm</p>
 <p>Alternatively, you may also visit the MOM website at&nbsp;<a href="https://www.mom.gov.sg/employment-agencies" target="_blank" rel="noopener">https://www.mom.gov.sg/employment-agencies</a>&nbsp;for more information.</p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>There is a&nbsp;S$400&nbsp;upfront payment for licence application. Once your application is approved, you will need to make an additional payment of&nbsp;S$100&nbsp;for licence issuance.</p>
+
+### Documents Needed
+
+<p><strong>ACRA Business Profile</strong></p>
+<p>ACRA Business Profile (Name of the Directors must exactly match the name on their identification documents.)</p>
+<p><strong>Approval letter from URA/HDB (applicable if you are operating from home)</strong></p>
+<p>Approval letter from URA/HDB (applicable if you are operating from home)</p>
+<p><strong>Identification</strong></p>
+<p>Please provide copies of NRIC/EP/PEP for ALL ACRA registered Directors and/or valid passports of foreign Directors based overseas.</p>
+<p>&nbsp;</p>
+
+### Requirements
+
+Applicant must be ACRA registered company/business
 

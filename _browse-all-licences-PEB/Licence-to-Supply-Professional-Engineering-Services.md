@@ -10,8 +10,10 @@ Professional Engineers Board (PEB)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on PEB" src="https://www.peb.gov.sg/lc_commonqueries.aspx" type="primary" %}
 
 ### Application Details
+
 <p>The Professional Engineers Act provides for professional engineers to team up with allied professionals to form multi-discipline corporations and partnerships to supply professional engineering services in Singapore. The details on multi-discipline and corporate practices are contained in Part VI of the Professional Engineers Act, and Part IV of the Professional Engineers Rules.</p>
 

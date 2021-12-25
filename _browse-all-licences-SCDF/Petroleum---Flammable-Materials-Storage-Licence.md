@@ -10,9 +10,11 @@ Singapore Civil Defence Force (SCDF)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=22" type="primary" %}
 
 ### Application Details
+
 <p>The Fire Safety Act (FSA) regulates the storage of petroleum and flammable materials. A licence is required for storage of highly flammable petroleum and flammable materials products with a flash point below 93 degree celsius. The regulatory control will ensure that proper fire safety measures and procedures are&nbsp;undertaken by the licencee for the storage of petroleum and flammable materials in the premises and within the compound to ensure safe environment. A storage licence is not required if the storage is within the exemption quantity. Please see Frequently Asked Questions Section for details.&nbsp;</p>
 <p>Estimated Respond Time if applied online here: 7 working days&nbsp;</p>
 <p><strong>FAQ</strong></p>
@@ -306,4 +308,25 @@ Print SPCP Here
 <p>You may wish to refer to SS532 if you do not store flammable materials in larger quantity such as in tank or drums. For storage quantity below the `Minor Storage' and meeting the requirements specified in SS532, You could proceed straight to apply for storage licence without plan approval. That is you do not need to appoint QP to do plan submission and RI to conduct inspection.</p>
 <p>If you wish to store larger quantity of flammable materials than the `Minor Storage', you could store them in the approved fire safety cabinets as recommended in SS532. You need only to engage a QP to ensure that the storage complied with the SS532 requirements and lodge a plan with the SCDF. You could proceed straight to apply for storage licence without a Fire Safety Certificate; that is appointment of RI is not required.</p>
 <p>You could come to SCDF for a walk-in consultation to clarify issue pertaining to Minor Storage and storage in fire safety cabinets or any other matters pertaining to fire safety requirements on storage of flammable materials free of charge. To assist SCDF Fiety Consultants, you are advised to bring with you a copy of your building's layout plan and the list of flammable materials and storage quantity.</p>
+
+**Additional Information**
+
+<p><strong>The fee will be determined by agency</strong></p>
+
+### Documents Needed
+
+<p><strong>Approved plan (Mandatory)</strong><br />One certified true copy (or original approved plan) showing the location of the premises and proposed storage area</p>
+<p><strong>Temporary Fire Permit / Fire Safety Certificate issued by other government agency</strong><br />One certified true (or original) copy of Temporary Fire Permit or Fire Safety Certificate of the premise if it is issued by other government agencies (e.g. JTC, HDB or LTA)</p>
+<p><br /><strong>Documents for Bulk Tanks and Major Piped Installations</strong><br />Manufacturer's reports on designed code of tank<br />PE endorsed Hydrostatic and Radiographic or any equivalent for both test report for tanks on site<br />PE endorsed Pressure test report for piping and fittings for bulk tanks to the points of consumptions -</p>
+<p><strong>Professional Engineer's Certification documents for the Piped LPG system</strong><br />Certification of supervision of piped gas system<br />Certification of equipment installed for LPG system<br />Pressure test report for the piping and fittings from the LPG installation to the point of consumption</p>
+<p><strong>Letter of Undertaking on Safe Handling of LPG Installation</strong><br />Letter of Undertaking on Safe Handling of LPG installation.</p>
+<p><strong>LPG Check List</strong><br />One certified true (or original) copy of LPG Checklist.</p>
+<p><strong>Emergency Response Plan (Mandatory)</strong><br />To submit the ERP documents (with Annexes). Consult ERP officers at SCDF_ERP_TERP@scdf.gov.sg for more information.</p>
+<p><strong>Approval Letter</strong><br />To submit the approval letter from URA and LTA for the proposed storage area of the LPG manifold system</p>
+<p><strong>Letter of Undertaking from LPG Supplier / Dealer</strong><br />Letter of Undertaking on Safe Handling of LPG installation.</p>
+<p><strong>Letter of authorisation from Owner/Operator(for Filer )</strong><br />A letter of authorisation from Owner or Operator to authorise the filer to apply and obtain the Petroleum and Flammable Materials Storage Licence on their behalf.</p>
+
+### Requirements
+
+Applicant must be ACRA registered company/business
 

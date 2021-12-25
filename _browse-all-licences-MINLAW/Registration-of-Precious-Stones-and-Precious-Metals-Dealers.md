@@ -10,9 +10,11 @@ Ministry of Law (MINLAW)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=273" type="primary" %}
 
 ### Application Details
+
 <p>For businesses that conduct regulated dealing (in precious stones, precious metals, precious products or asset-backed tokens) or as an intermediary for regulated dealing.</p>
 <p>Before applying: Please ensure that you have the requsite information/ documents. More information on requsite information/ documents are available at&nbsp;<a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</p>
 <p><strong>FAQ</strong></p>
@@ -55,4 +57,23 @@ Print SPCP Here
 </table>
 <p>3. Who can I contact for more details?</p>
 <p>You can get more information on regulated dealers on Minlaw website at&nbsp;<a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<p><strong>Application Fee</strong>&nbsp;- Applicants must pay an application fee of&nbsp;<strong>$120</strong>, payable upfront upon submission of new application. The application fee is non-refundable.</p>
+<p><strong>Registration Fee</strong>&nbsp;- Registration fees for new applicants and renewal applications where the&nbsp;<u>net price</u>&nbsp;of every precious stone, precious metal, precious product or asset-backed token that is&nbsp;<u>or is to be</u>&nbsp;sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year.</p>
+
+### Documents Needed
+
+<p>1. Please provide the NRIC/FIN/Passport of the person holding an analogous position involved in the management of the applicant and the outlet manager/ person in-charge of the outlet (if applicable)<br /><br />2. For foreigners / foreign business entities, please provide the FIN/Passport of the following persons:<br />- The applicant<br />- Substantial shareholder<br />- Director<br />- Manager<br />- Partner<br />- Company Secretary<br />- Other person holding an analogous position involved in the management of the applicant<br />- Employee managing the applicant's business of regulated dealing or business as an intermediary.</p>
+<p>Please name your file in the following manner:<br />NRIC/FIN/PASSPORT NUMBER.pdf</p>
+<p><strong>Foreign Business Registry Records</strong></p>
+<p>Only applicable for foreign business entities</p>
+<p><strong>Others</strong></p>
+<p>Any other documents</p>
+
+### Requirements
+
+Applicant must be ACRA registered company/business
 

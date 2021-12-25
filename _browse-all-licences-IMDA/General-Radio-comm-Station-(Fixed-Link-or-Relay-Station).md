@@ -10,8 +10,24 @@ Infocomm Media Development Authority (IMDA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10060" type="primary" %}
 
 ### Application Details
+
 <p>For establishing and operating a radio communication equipment as a fixed or relay microwave station.</p>
+
+**Additional Information**
+
+<p>Licence fee: $100 per annum per station</p>
+<p>Frequency fee: Depending on the bandwidth of the frequencies</p>
+<p>Application &amp; Processing fee: Depending on the bandwidth of the frequencies</p>
+
+### Documents Needed
+
+Justification
+
+### Requirements
+
+Applicant must be ACRA registered company/business
 

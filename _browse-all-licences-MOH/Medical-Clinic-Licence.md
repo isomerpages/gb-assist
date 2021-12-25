@@ -10,9 +10,11 @@ Ministry of Health (MOH)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on MOH" src="https://elis.moh.gov.sg/elis/index.do?task=home" type="primary" %}
 
 ### Application Details
+
 <p>For using the premises by a medical practitioner or any other person</p>
 <ol>
 <li>for the diagnosis or treatment of persons suffering from, or believed to be suffering from, any disease, injury or disability of mind or body; or</li>

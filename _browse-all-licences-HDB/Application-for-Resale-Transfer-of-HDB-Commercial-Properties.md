@@ -10,9 +10,11 @@ Housing & Development Board (HDB)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10" type="primary" %}
 
 ### Application Details
+
 <p>HDB commercial premises can now lodge / or apply for their resale / transfer depending on the nature of each request.</p>
 <p><strong>FAQ</strong></p>
 <p>1) Do I need to apply for this application?</p>
@@ -199,5 +201,62 @@ Print SPCP Here
 </ol>
 <ol>
 <li value="3">If I submitted an application wrongly or the application is subsequently aborted, can I request for a refund of the admin fee?<br />No, all admin fees paid are not refundable.</li>
+</ol>
+
+### Documents Needed
+
+<p><strong>For Lodgement</strong></p>
+<ol type="i">
+<li>
+<p>3rd Party Filer Authorisation Letter (if represented by solicitors)</p>
+</li>
+<li>
+<p>Declaration Undertaking for Waiver of Inspection</p>
+</li>
+</ol>
+<p><strong>For Mortgagee Sale</strong></p>
+<ol type="i">
+<li>
+<p>3rd Party Filer Authorisation Letter (if represented by solicitors)</p>
+</li>
+<li>
+<p>Power of Attorney</p>
+</li>
+<li>
+<p>Letter of Undertaking</p>
+</li>
+</ol>
+<p><strong>For Transferors/ Transferees who are individual persons</strong></p>
+<ol type="i">
+<li>
+<p>3rd Party Filer Authorisation Letter (if represented by solicitors)</p>
+</li>
+<li>
+<p>Copy of All Transferors' and Transferees' NRIC</p>
+</li>
+</ol>
+<p><strong>For Transferors/ Transferees who are individual persons</strong></p>
+<ol type="i">
+<li>
+<p>3rd Party Filer Authorisation Letter (if represented by solicitors)</p>
+</li>
+<li>
+<p>Copy of All Transferors' and Transferees' NRIC</p>
+</li>
+</ol>
+<p><strong>Transferors/ Transferees who is/are a Company</strong></p>
+<ol type="i">
+<li>
+<p>The Transferors' and the transferees' Company's Resolution/ Directors' Resolution authorizing the solicitor to submit the on-line application.</p>
+</li>
+<li>
+<p>A copy of the Company's Resolution/Directors' Resolution authorising the representative to execute ALL documents related to the resale/transfer</p>
+</li>
+<li>
+<p>Copy of NRIC of authorised representative as stated in the Company's Resolutions/Directors' Resolution</p>
+</li>
+<li>
+<p>An up-to-date printout from the Accounting Corporate Regulatory Authority (ACRA), listing all the existing shareholders.</p>
+</li>
 </ol>
 

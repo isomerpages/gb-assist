@@ -10,8 +10,10 @@ Ministry of Health (MOH)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on MOH" src="https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories" type="primary" %}
 
 ### Application Details
+
 <p>Clinical X-Ray Laboratory</p>
 

@@ -10,9 +10,11 @@ Monetary Authority of Singapore (MAS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval" type="primary" %}
 
 ### Application Details
+
 <p>Overseas insurers in designated countries may apply for approval to provide direct marine, aviation and transit (MAT) insurance in Singapore.</p>
 <p>Approved MAT insurers:</p>
 <ul>

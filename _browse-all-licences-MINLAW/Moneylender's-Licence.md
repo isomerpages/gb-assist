@@ -10,9 +10,11 @@ Ministry of Law (MINLAW)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=18" type="primary" %}
 
 ### Application Details
+
 <p><strong>Update:</strong></p>
 <p>The Registry of Moneylenders has temporarily suspended the grant of any new moneylending licences. For more details, please refer to the webpage:&nbsp;<a href="https://rom.mlaw.gov.sg/information-for-moneylenders" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders</a></p>
 <hr />
@@ -22,4 +24,19 @@ Print SPCP Here
 <p><strong>FAQ</strong></p>
 <p>1. Who can I contact for further details?</p>
 <p>You may refer to the webpage at&nbsp;<a href="https://rom.mlaw.gov.sg/information-for-moneylenders/" target="_blank" rel="noopener">https://rom.mlaw.gov.sg/information-for-moneylenders/</a>&nbsp;for more information.</p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>Application Fee: $600<br />Licence Fee: $1500<br />Security Deposit: $20000</p>
+
+### Documents Needed
+
+<p><strong>Documentary Evidence of Funds</strong></p>
+<p>Documentary evidence on the availability and the sources of funds for the moneylending business, i.e. how are the funds accumulated (e.g. copies of bank statements, IR8A for the past years, income slips etc.)</p>
+<p><strong>Education Qualification and Certificates for Qualified Manager(s)</strong></p>
+<p>Proof of educational qualifications for the test-qualified manager</p>
+<p><strong>Front and back NRICs of all Person(s) and Annex</strong></p>
+<p>Scanned copies of the NRICs (both front and back of NRICs) of all persons to be involved in the moneylending business and a duly-filled copy of the&nbsp;<a href="https://www.mlaw.gov.sg/content/dam/minlaw/rom/assets/documents/EDC%20ANNEX_ROM%20logo_26032015.pdf" target="ML3">Annex</a></p>
+<p>&nbsp;</p>
 

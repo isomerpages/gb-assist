@@ -10,8 +10,10 @@ Civil Aviation Authority of Singapore (CAAS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on CAAS" src="https://www.caas.gov.sg/operations-safety/aircraft/permit-to-fly" type="primary" %}
 
 ### Application Details
+
 <p>A permit to fly may be issued for the purpose of:<br>a.Relocating the aircraft to a base where repairs, modification or maintenance are to be performed.<br>b.Delivering or exporting the aircraft.<br>c.Evacuating the aircraft from an area of impending danger, or in cases of force majeure.<br>d.Flying aircraft that does not have a valid Certificate of Airworthiness in Singapore airspace for such purposes as flight test, post-maintenance functional flight check, aircraft handling flights,etc.</p>
 

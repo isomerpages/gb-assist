@@ -10,9 +10,11 @@ Civil Aviation Authority of Singapore (CAAS)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=287" type="primary" %}
 
 ### Application Details
+
 <p>Some aerial activities can potentially pose a hazard to air navigation, either due to the close proximity between an object in the air and an overflying aircraft, or an object may cause an obstruction along the flight path. As such, prior clearance needs to be sought from CAAS before interested parties carry out such activities. By accessing this page, applicants would be able to apply for the following aerial activities:</p>
 <ul>
 <li>Release of Balloons</li>
@@ -31,4 +33,9 @@ Print SPCP Here
 <p>&nbsp;</p>
 <p>3. What would happen if I do not apply for the required permit?</p>
 <p>It is an offence to conduct an aerial activity without obtaining the required permit. Anyone convicted of such an offence may be fined up to $20,000. Repeat offenders may be fined up to $40,000, and/or imprisoned for up to 15 months.</p>
+
+### Documents Needed
+
+<p><strong>Any other supporting documents</strong></p>
+<p>Any additional details of activity to be conducted</p>
 

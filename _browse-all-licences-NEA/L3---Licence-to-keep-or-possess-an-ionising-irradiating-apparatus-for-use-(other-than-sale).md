@@ -10,8 +10,26 @@ National Environment Agency (NEA)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=181" type="primary" %}
 
 ### Application Details
+
 <p>This licence is required for applicants intending to buy, purchase, keep, store or possess for use an ionising radiation irradiating apparatus.</p>
+
+**Additional Information**
+
+Fee
+$155 per annum
+
+### Documents Needed
+
+Irradiating Apparatus Information
+Floor plan / Site layout
+Radiation Protection Plan
+Other supporting documents
+
+### Requirements
+
+Applicant must be ACRA registered company/ business
 

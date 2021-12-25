@@ -10,9 +10,11 @@ Enterprise Singapore (ESG)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=39" type="primary" %}
 
 ### Application Details
+
 <p>For dealing in, treating and storing of natural rubber.</p>
 <p><strong>FAQ</strong></p>
 <p>1. Do I need to apply for this licence?</p>

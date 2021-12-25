@@ -10,9 +10,11 @@ Ministry of Law (MINLAW)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=274" type="primary" %}
 
 ### Application Details
+
 <p>Application to hold an insolvency practitioner&rsquo;s licence (new) to undertake insolvency or debt restructuring work in Singapore.</p>
 <p><strong>FAQ</strong></p>
 <p>1.What are the criteria to hold an insolvency practitioner's licence?</p>
@@ -36,4 +38,18 @@ Print SPCP Here
 <p>&nbsp;</p>
 <p>6. Who can I contact for further details?</p>
 <p>You may contact the Licensing Officer via the following modes:<br />a.&nbsp;<a href="https://eservices.mlaw.gov.sg/enquiry/" target="_blank" rel="noopener">Contact Us @ OneMinLaw</a><br />b. Fax to 6325 1417<br />c. Mail to 45 Maxwell Road, #07-11. The URA Centre (East Wing), Singapore 069118</p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>Application fee&nbsp;<u><em>(strictly non-refundable)</em></u>&nbsp;of $650.00</p>
+
+### Documents Needed
+
+<p><strong>Curriculum Vitae<br /></strong>Curriculum Vitae</p>
+<p><strong>Professional Accreditations<br /></strong>Documentary proof evidencing that you are a qualified Accountant or Solicitor.</p>
+<p><strong>Professional Membership(s)<br /></strong>Documentary proof evidencing your membership in any local/foreign professional bodies</p>
+<p><strong>Relevant Work Experience<br /></strong>Other documentary proof evidencing your work experiences to be eligible for the grant or renewal of a licence. For e.g. Court Orders, Resolutions, approved liquidator's licence with ACRA etc.</p>
+<p><strong>Details of Declaration(s)<br /></strong>Documents relating to declaration(s) which you have stated &ldquo;Yes" under the declaration page</p>
+<p><strong>Others<br /></strong>Any other documents which you wish to provide</p>
 

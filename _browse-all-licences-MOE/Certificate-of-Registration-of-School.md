@@ -10,9 +10,11 @@ Ministry of Education (MOE)
 
 Print SPCP Here
 
+
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37" type="primary" %}
 
 ### Application Details
+
 <p>Schools in the following categories should NOT use this system to apply to register a new school.</p>
 <ol>
 <li>PEIs offering education leading to the award of a diploma or degree, or full-time post-secondary education leading to the award of a certificate;</li>
@@ -42,4 +44,17 @@ Print SPCP Here
 <p>&nbsp;</p>
 <p>6. Who can I contact for further details?</p>
 <p>You may refer&nbsp;<a href="http://www.moe.gov.sg/education/private-schools/" target="_blank" rel="noopener">http://www.moe.gov.sg/education/private-schools/</a>&nbsp;for more information about Private Schools.<br /><br />For further assistance, please contact our Customer Service Executives at 6872-2220, or e-mail us at&nbsp;<a href="mailto:moe_pss@moe.gov.sg">moe_pss@moe.gov.sg</a>.<br /><br />You could also write to us at:<br />Private Schools Section<br />Ministry of Education<br />1, North Buona Vista Drive,<br />Level15, MOE Building<br />Singapore 138675</p>
+
+**Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>$420 (inclusive of GST)</p>
+
+### Documents Needed
+
+No supporting document required for online application submission. Agencies may contact applicant if any supporting documents are needed subsequently.
+
+### Requirements
+
+Applicant must be ACRA registered company/business
 
