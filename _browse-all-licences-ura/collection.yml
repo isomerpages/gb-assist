@@ -3,4 +3,4 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Change-of-Use-Approval.md
+      - change-of-use-approval.md
