@@ -15,9 +15,20 @@ Print SPCP Here
 
 ### Application Details
 
+<p>This licence is required for applicants intending to manufacture, possess for sale, sell, supply, distribute or deal with an ionising radiation irradiating apparatus.</p>
+
 **Additional Information**
+
+Fee
+$210 per year
 
 ### Documents Needed
 
+Irradiating Apparatus Information
+HSA Medical Device Registration
+Other supporting documents
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

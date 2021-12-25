@@ -15,3 +15,8 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Developers undertaking a housing project with more than four units are required to obtain a housing developer's licence from the Controller of Housing before commencing construction works.</p>
+<p><strong>FAQ</strong></p>
+<p>1. Where can I get more information?</p>
+<p>You can get more information at this link below:<br /><a href="https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence" target="_blank" rel="noopener">https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence</a></p>
+

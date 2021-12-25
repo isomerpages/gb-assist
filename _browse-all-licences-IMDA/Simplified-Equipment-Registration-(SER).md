@@ -15,9 +15,31 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Equipment registration under the Simplified Equipment Registration (SER) Scheme is for equipment suppliers who wish to register Mobile Terminals (LTE/3G/GMPCS) or Broadband Access Equipment (ADSL, Cable Modem and CCHN).</p>
+
 **Additional Information**
+
+$100 or $50 for family series fee
 
 ### Documents Needed
 
+Product Brochure
+
+Photographs of Equipment (Front, Rear, Sides, Top, Bottom)
+
+Photo of Product Label
+
+Certificate of Conformity
+
+Supplier's Declaration of Conformity
+
+User Manual
+
+Others
+
+Others
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

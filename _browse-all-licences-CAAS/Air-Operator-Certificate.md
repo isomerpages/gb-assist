@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Any organisation whose principal place of business is in Singapore and which intends to operate aircraft for the purpose of public transport shall hold an Air Operator Certificate (AOC).</p>
+

@@ -15,9 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>The ONLS Licence is for a service that propagates, promotes, or discusses political or religious issues relating to Singapore on the World Wide Web through the Internet, and which met the reach and content criteria.</p>
+
 **Additional Information**
+
+N.A.
 
 ### Documents Needed
 
+Business Profile Report
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

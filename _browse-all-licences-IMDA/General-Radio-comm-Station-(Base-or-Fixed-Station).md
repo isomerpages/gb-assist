@@ -15,9 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For establishing and operating of radio communication equipment as a base/fixed station in an airport area.</p>
+
 **Additional Information**
+
+Licence fee : $100 per annum per station
 
 ### Documents Needed
 
+Approval
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

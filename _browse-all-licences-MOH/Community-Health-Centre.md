@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Community Health Centre is a facility that provides auxiliary services* (such as diabetic eye/foot screening, dietary counselling, blood glucose monitoring, etc.) to support the General Practitioners to better manage their patients with chronic medical conditions.</p>
+

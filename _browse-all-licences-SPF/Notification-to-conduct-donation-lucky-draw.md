@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For conducting donation/lucky draw.</p>
+

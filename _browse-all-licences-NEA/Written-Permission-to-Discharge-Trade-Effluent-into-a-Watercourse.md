@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For factories to apply for a written permission to discharge trade effluent into a watercourse.</p>
+

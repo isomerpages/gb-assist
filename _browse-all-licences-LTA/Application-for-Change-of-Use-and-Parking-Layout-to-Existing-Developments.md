@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Submission to obtain approval/clearance for proposed Change of Use proposal, Regularisation of existing parking provision Addition/Alteration of existing parking spaces and places.</p>
+

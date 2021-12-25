@@ -15,7 +15,15 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For performing or carrying out personally installation or internal telecommunication wiring works.</p>
+
 **Additional Information**
 
+Licence Fee: $30
+
 ### Documents Needed
+
+A copy of the certificate showing that you are qualified to perform wiring works (see Annex 1 of the Guidelines to Application for Telecommunication Wiring Licence)
+
+Supporting documents to support the Application
 

@@ -15,9 +15,22 @@ Print SPCP Here
 
 ### Application Details
 
+<p>This licence is required for applicants intending to manufacture, possess for sale, sell, supply, distribute or deal with a non-ionising radiation irradiating apparatus.</p>
+
 **Additional Information**
+
+Fee
+$210 per annum
 
 ### Documents Needed
 
+Apparatus information
+ACRA certificate or Printout
+Certificate: US-FDA / Australia-TGA / Japan-MHLW / Health Canada / CE-(93/42/EEC)
+HSA registration / authorisation
+Others
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

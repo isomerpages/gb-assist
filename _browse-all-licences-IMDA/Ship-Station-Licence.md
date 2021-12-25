@@ -15,7 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>The Ship Station Licence is issued for the operation of the radio-communication equipment installed on-board ships registered in Singapore.</p>
+
 **Additional Information**
 
+$100 for 5 years for each trip station
+
 ### Documents Needed
+
+Certificate of Registry or Harbour/Pleasure Craft Licence
+
+Letter from Singtel on the assignment of maritime mobile service identity (MMSI) number
+
+Other supporting document
 

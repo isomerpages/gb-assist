@@ -15,7 +15,20 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For the application of Road Closure Permit, Event Organisers can request for a road and/or lane closure to conduct an event on the road. All requests for road closure will be assessed on a case-by-case basis.</p>
+
 **Additional Information**
 
+Member of public may contact Traffic Police at :
+Tel : +65 6547 0000
+Email : tp_roadclosurepermit@spf.gov.sg
+
 ### Documents Needed
+
+Applicant is required to submit the following documents when submitting the applications:
+
+Event Data Sheet
+Stakeholders Engagement List
+Road Closure Schematic Plan
+Agencies' supported letter
 

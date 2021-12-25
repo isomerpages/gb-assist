@@ -15,9 +15,21 @@ Print SPCP Here
 
 ### Application Details
 
+<p>This licence is required for applicants intending to buy, purchase, keep, store or possess for use radioactive materials or devices containing radioactive materials.</p>
+
 **Additional Information**
+
+Fee
+$155 a year
 
 ### Documents Needed
 
+Radioactive Materials Information
+Floor Plan / Site Layout
+Radiation Protection Plan
+Other Supporting Documents
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

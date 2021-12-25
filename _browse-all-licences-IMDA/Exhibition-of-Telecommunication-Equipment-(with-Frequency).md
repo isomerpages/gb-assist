@@ -15,7 +15,13 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For operate radio frequency during an exhibition on a short term basis.</p>
+
 **Additional Information**
 
+N.A.
+
 ### Documents Needed
+
+Approval from Building owner if any
 

@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>SLA rents out vacant State lands and buildings through Temporary Occupation Licences (TOLs) and Tenancy Agreements (TAs). TOLs are generally for a short fixed term or can be on a monthly or yearly renewable basis. TAs are for fixed terms, up to a maximum of three years per term.</p>
+

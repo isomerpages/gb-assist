@@ -15,9 +15,19 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For performing telecommunication wiring works.</p>
+
 **Additional Information**
+
+Licence Fee: $100
 
 ### Documents Needed
 
+Documentary Evidence to show proof of employment with the applicant
+
+Letter of Authentication for Third Party
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

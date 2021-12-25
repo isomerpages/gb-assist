@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>All foreigners who intend to work in Singapore must have a valid pass (commonly known as a work visa) before they start work. If you are engaging foreigners to work in Singapore, you must ensure that they hold a valid pass. Find out which pass is suitable, if they are eligible and how to apply.</p>
+

@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Stallholder in hawker centres.</p>
+

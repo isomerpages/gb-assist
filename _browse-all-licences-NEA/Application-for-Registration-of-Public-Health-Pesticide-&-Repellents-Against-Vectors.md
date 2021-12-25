@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>All Public Health Pesticide/Repellent Products intended for use against the five vectors (namely mosquitos, flies, cockroaches, rodents and rat fleas) have to be registered prior to local sales in Singapore under the Control of Vectors and Pesticides Act.</p>
+

@@ -15,5 +15,9 @@ Print SPCP Here
 
 ### Application Details
 
+<p>To use any premises in the parks for an event, you need approval from NParks.</p>
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

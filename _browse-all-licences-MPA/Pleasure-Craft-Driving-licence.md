@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>The Powered Pleasure Driving Licence (PPCDL) is required for driving engine- powered/jet-propelled pleasure craft (with SZ or SZH licence prefixes) of less than 24 metres within the port limits.</p>
+

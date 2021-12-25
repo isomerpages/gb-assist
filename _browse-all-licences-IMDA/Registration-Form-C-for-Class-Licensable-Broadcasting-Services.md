@@ -15,7 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For the provision of a website/s with political or religious content.</p>
+
 **Additional Information**
 
+There is no fee.
+
 ### Documents Needed
+
+Memorandum of Association / Constitution
+
+Articles of Association
+
+Form C1 and Annexure to Form C1/Form C1 and Annexes A and B to Form C1
 

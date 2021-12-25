@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For providing lodging, treatment and care of persons who require medical treatment or who are suffering from any disease.</p>
+

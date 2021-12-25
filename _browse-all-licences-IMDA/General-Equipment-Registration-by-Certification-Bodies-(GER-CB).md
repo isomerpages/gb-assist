@@ -15,7 +15,53 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Registration under General Equipment Registration by Certification Bodies is applicable only to authorised CB applicant under MRA Phase II for IMDA recognised Certification Bodies.</p>
+
 **Additional Information**
 
+$100 or $50 for family series fee
+
 ### Documents Needed
+
+Certificate issued by recognised CB
+
+General Information
+
+Photographs of Equipment (Front, Rear, Sides, Top, Bottom)
+
+Photo of Product Label
+
+Cybersecurity Labelling Scheme - Conformance Checklist
+
+Login Credentials Management
+
+Device Setup & Administration
+
+Firmware Updates
+
+Wireless Access Protection
+
+Data Protection
+
+Validation of Data Inputs
+
+Vulnerability Reporting
+
+Others
+
+Others
+
+Others
+
+Others
+
+Others
+
+Others
+
+Others
+
+Others
+
+Others
 

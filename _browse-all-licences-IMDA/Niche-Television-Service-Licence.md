@@ -15,9 +15,21 @@ Print SPCP Here
 
 ### Application Details
 
+<p>The Niche Television Service Licence is for service providers targeting specific niche market segments.</p>
+
 **Additional Information**
+
+Depending on the specific type of licence applied for, IMDA will advise you on the relevant licence fee payable.
 
 ### Documents Needed
 
+Business Profile Report
+
+Description of Television Service/Business Proposal
+
+CV of Key Management Personnel
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

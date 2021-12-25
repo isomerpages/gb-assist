@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+Under the Guns, Explosives And Weapons Control Act, an Approval is required for the Licensed Fireworks Company to conduct a Fireworks Event. 
+

@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>A person/owner who intends to erect any temporary/makeshift structure is required to apply for a Temporary Building Permit. The application must reach BCA 3 weeks before the construction of the temporary building.</p>
+

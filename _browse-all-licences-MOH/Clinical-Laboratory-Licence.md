@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For the examination of the human body, or any matter derived from the human body. This licence is not needed if the premises are a) maintained by Government or National University of Singapore. b) forms part of the premises of a licensed private hospital.</p>
+

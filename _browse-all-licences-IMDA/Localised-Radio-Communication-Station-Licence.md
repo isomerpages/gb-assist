@@ -15,7 +15,13 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For the operation of remote control devices, local area paging devices, transceivers (CB walkie talkies), telemetry or alarm systems or both, wireless data or voice systems (e.g wireless LAN) and any other radio-communication equipment as may be authorised by the Info-communications Media Development Authority (IMDA).</p>
+
 **Additional Information**
 
+Licence Fee: to be determined
+
 ### Documents Needed
+
+Supporting Documents
 

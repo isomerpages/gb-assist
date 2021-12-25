@@ -15,9 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For operating a press in Singapore to print documents such as pamphlets, maps, charts, newspapers and magazines but not invoices, name cards, letter heads, etc.</p>
+
 **Additional Information**
+
+N.A.
 
 ### Documents Needed
 
+Letter from Chief Inspector of Factories
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

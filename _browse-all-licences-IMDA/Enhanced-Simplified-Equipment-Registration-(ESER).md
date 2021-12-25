@@ -15,9 +15,33 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Equipment registration under the Enhanced Simplified Equipment Registration (ESER) Scheme is for equipment suppliers who wish to register short range/low power devices (SRD/LPD) and complex multi-line equipment</p>
+
 **Additional Information**
+
+N.A. (free-of-charge)
 
 ### Documents Needed
 
+Product Brochure with Technical Data
+
+Cybersecurity Labelling Scheme - Conformance Checklist
+
+Login Credentials Management
+
+Device Setup & Administration
+
+Firmware Updates
+
+Wireless Access Protection
+
+Data Protection
+
+Validation of Data Inputs
+
+Vulnerability Reporting
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

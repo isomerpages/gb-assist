@@ -15,7 +15,23 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For operating a public aquatic facility.</p>
+
 **Additional Information**
 
+Fee
+The Swimming Pool Licence costs $200.00 and is valid for one year
+
 ### Documents Needed
+
+BCA Temporary Occupation Permit (TOP) and/or Approval for Addition and Alteration Work
+Planning approval from relevant agency for change of use and/or addition and alteration work (if applicable)
+Sectional plan of each Aquatic Facility
+Water Quality Management Plan
+BCA Approved Building Plan where the aquatic facility is located
+Aquatic Facility Format for each Aquatic Facility
+Schematic Diagram of Aquatic Facility
+Pumps and filters catalogue
+Bacteriological and chemical water sampling results
+Others
 

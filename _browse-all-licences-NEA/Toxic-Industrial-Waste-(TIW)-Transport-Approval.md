@@ -15,9 +15,22 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Approval to transport toxic industrial waste in an amount exceeding quantities prescribed in the Environmental Public Health (Toxic Industrial Waste) Regulations</p>
+
 **Additional Information**
+
+Fee
+N.A.
 
 ### Documents Needed
 
+Declaration Form
+Tank Certificate from certified 3rd-party testing body
+Hazard Warning Panels and Labels for Vehicles/Tankers
+Container Labels
+Hazmat Transport Driver Permit (HTDP)
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

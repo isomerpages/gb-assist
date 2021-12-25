@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Maintenance, Repair and Overhaul (MRO) organisation to carry out inspection, repair, testing and/or maintenance work on aircraft and aircraft components.</p>
+

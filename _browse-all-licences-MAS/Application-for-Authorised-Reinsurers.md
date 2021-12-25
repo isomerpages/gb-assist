@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Overseas insurers may apply for authorisation to carry on life and/or general reinsurance business in Singapore.</p>
+

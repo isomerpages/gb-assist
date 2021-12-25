@@ -15,7 +15,15 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For operating and possession of radio communication equipment which does not fall under any licence category.</p>
+
 **Additional Information**
 
+<p>Licence fee: $50 per annum per station</p>
+<p>Frequency fee: Depending on the bandwidth of the frequencies</p>
+<p>Application &amp; Processing fee: Depending on the bandwidth of the frequencies</p>
+
 ### Documents Needed
+
+Justification
 

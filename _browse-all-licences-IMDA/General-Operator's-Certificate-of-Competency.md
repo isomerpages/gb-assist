@@ -15,7 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For applying of GMDSS GOC Certificate to operate all the sub-systems and equipment of GMDSS on a Singapore registered vessel.</p>
+
 **Additional Information**
 
+N.A
+
 ### Documents Needed
+
+MPA / Fitness Medical Certificate
+
+Certificate of Examination or Endorsed MPA Form
+
+Passport-size Photograph
 

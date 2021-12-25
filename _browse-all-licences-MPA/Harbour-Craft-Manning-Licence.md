@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>All personnel operating harbour craft must possess a valid harbour craft manning licence.</p>
+

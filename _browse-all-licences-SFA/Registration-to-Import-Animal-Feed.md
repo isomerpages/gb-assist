@@ -15,9 +15,19 @@ Print SPCP Here
 
 ### Application Details
 
+<p>The Registration to Import Animal Feed may be issued by either Animal &amp; Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This registration is issued to importers to import animal feed.</p>
+<p><strong>FAQs</strong></p>
+<p>Not available!</p>
+
 **Additional Information**
+
+N.A.
 
 ### Documents Needed
 
+N.A.
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

@@ -15,9 +15,19 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For collecting solid waste/refuse commercially.</p>
+
 **Additional Information**
+
+Fee
+Licence fee - $195.00 per year
 
 ### Documents Needed
 
+Vehicle Log Card(s)
+Photographs of Equipment and Vehicles
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

@@ -15,9 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For establishing and setting up of a network using radio communication equipment utilising the multi-channel radio equipment.</p>
+
 **Additional Information**
+
+Licence fee: Network fee $100 and frequency fee is $16.05 (with GST)
 
 ### Documents Needed
 
+Supporting document to support the New Application
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

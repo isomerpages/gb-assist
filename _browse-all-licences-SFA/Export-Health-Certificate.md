@@ -15,9 +15,26 @@ Print SPCP Here
 
 ### Application Details
 
+<p>The Export Health Certificate is issued to traders, to certify a food consignment as fit for human consumption, and meeting safety standards or other required criteria to facilitate the export of this food consignment. This certificate is only issued for food consignments manufactured or processed or packed in a food processing establishment licensed by Singapore Food Agency.</p>
+<p><strong>FAQs</strong></p>
+<p>1. Where can I get the FAQ for Export Health Certificate for Food Products?</p>
+<p>You can get the FAQ on this link: SFA FAQ website at</p>
+<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+
 **Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>Licence Fee:$20.00</p>
 
 ### Documents Needed
 
+<p><strong>Supporting Documents</strong></p>
+<p><strong>Product Details</strong></p>
+<p><strong>Lab Results</strong></p>
+<p><strong>Others</strong></p>
+<p>Additional Supporting Documents</p>
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

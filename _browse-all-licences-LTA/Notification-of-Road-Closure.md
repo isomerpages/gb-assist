@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Effective from 1 Nov 2010, it is mandatory for the Land Transport Authority (LTA) to be notified of any works on any roads pursuant to Section 115 of the Road Traffic Act.</p>
+

@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>You will need this permit to hold various types of trade fair.</p>
+

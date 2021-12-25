@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>All bunker surveying companies in Singapore must be accredited by the Singapore Accreditation Council (SAC).</p>
+

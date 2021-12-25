@@ -15,9 +15,27 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For maintaining and operating an international TV broadcasting service for the purpose of transmitting programmes to other Countries/Regions through the lease of transponder(s) on satellites and / or fibre.</p>
+
 **Additional Information**
+
+The fee will be determined by agency
 
 ### Documents Needed
 
+Estimated market size and share for each target market
+
+List of shareholders holding more than 5% shares
+
+Program Code or Standards
+
+Programme Schedules
+
+Satellite Coverage
+
+Sample Reel
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

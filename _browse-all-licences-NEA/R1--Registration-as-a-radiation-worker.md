@@ -15,7 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>This licence is required for applicants intending to perform or carry out radiation work involving ionising radiation irradiating apparatus or radioactive materials.</p>
+
 **Additional Information**
 
+Fee
+$105 a year
+
 ### Documents Needed
+
+Medical Certificate Form
+Relevant Qualifications
+AHPC registration
+Other supporting documents
 

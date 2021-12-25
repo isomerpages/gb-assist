@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>All qualified ATCOs shall be in possession of a valid air traffic controller licence before they can provide any air traffic service. A person shall not provide an air traffic control service unless he holds an air traffic control licence with a valid rating and a current medical certificate.</p>
+

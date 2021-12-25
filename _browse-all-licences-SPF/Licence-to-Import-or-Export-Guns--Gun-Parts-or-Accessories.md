@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+Under the Guns, Explosives And Weapons Control Act, a Licence to Import or Export is required for the import or export of any Guns, Explosives, Explosive Precursors, Weapons or Noxious Substances. 
+

@@ -15,3 +15,11 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Overseas insurers in designated countries may apply for approval to provide direct marine, aviation and transit (MAT) insurance in Singapore.</p>
+<p>Approved MAT insurers:</p>
+<ul>
+<li>Do not write insurance business, other than the collection or receipt of premiums in relation to MAT insurance business.</li>
+<li>Do not have a physical presence in Singapore, and provide insurance services from overseas to persons in Singapore.</li>
+<li>Are subject to limited oversight by MAS as compared to licensed insurers. For example, they are not required to set up and maintain separate insurance funds for policies taken out by persons in Singapore or comply with solvency margin requirements.</li>
+</ul>
+

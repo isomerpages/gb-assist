@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+Under the Guns, Explosives And Weapons Control Act, a Licence to Transport is required for the transport of any Guns, Explosives or Explosive Precursors. 
+

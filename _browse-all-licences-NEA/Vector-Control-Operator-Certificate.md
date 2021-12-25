@@ -15,9 +15,18 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For the application and registration of Vector Control Operator Certificate.</p>
+
 **Additional Information**
+
+Fee
+S$90.00
 
 ### Documents Needed
 
+Supporting Documents
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

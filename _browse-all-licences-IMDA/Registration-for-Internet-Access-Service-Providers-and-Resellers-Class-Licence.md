@@ -15,9 +15,21 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For providing internet access services to all or part of the public (includes any single building, institution, residential or commercial complex but does not include provision to a person's own employees for use within the person's firm or corporation).</p>
+
 **Additional Information**
+
+The fee will be determined by agency
 
 ### Documents Needed
 
+Fees/Rates Charges
+
+Programming Guidelines/Acceptable Use Policy
+
+Schematic of the Delivery System
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

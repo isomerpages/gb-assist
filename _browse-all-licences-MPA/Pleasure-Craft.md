@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Pleasure craft means any craft which is intended for use within the port exclusively for sport or pleasure purposes, but does not include any craft which is used to carry passengers on sightseeing tours within the port for which each such passenger is charged a separate and distinct fare. All pleasure craft to be used in Singapore port waters must be licensed.</p>
+

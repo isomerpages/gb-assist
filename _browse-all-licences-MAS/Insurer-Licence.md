@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Insurers in Singapore comprise licensed insurers, authorised reinsurers, approved marine, aviation and transit (MAT) insurers and foreign insurers. Insurance brokers in Singapore comprise registered insurance brokers, approved MAT insurance brokers and approved reinsurance brokers.</p>
+

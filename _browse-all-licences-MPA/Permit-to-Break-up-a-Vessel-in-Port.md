@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Vessels that need to be broken up in port require written permission from the Port Master.</p>
+

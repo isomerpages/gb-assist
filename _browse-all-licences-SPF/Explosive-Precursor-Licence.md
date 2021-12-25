@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+Under the Guns, Explosives And Weapons Control Act, a licence is required for the Possession, Control, Supply, Manufacture or Storage of Explosive Precursors 
+

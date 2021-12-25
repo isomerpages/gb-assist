@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Under the Foreign Employee Dormitories Act, from 1 January 2016, operators of dormitories that can house 1,000 or more foreign employees need to obtain a licence from MOM.</p>
+

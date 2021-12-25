@@ -15,9 +15,39 @@ Print SPCP Here
 
 ### Application Details
 
+<p>To apply for Nationwide TV Licence(s)</p>
+
 **Additional Information**
+
+<p>Please refer to the IMDA website for more&nbsp;<a href="https://www.imda.gov.sg/regulations-licensing-and-consultations/licensing/licences/licence-for-the-provision-of-broadcasting-services/free-to-air-nationwide-television-service-licence" target="_blank" rel="noopener">information</a></p>
 
 ### Documents Needed
 
+Shareholding Structure
+
+Articles of Memorandum
+
+Business Activities
+
+Organisational Structure
+
+Business Plan
+
+Financial Statements
+
+Programme Positioning
+
+Viewership Details
+
+Programming Guidelines
+
+Channel Grid
+
+Technical Specification
+
+Strategic Partnership
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

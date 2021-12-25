@@ -15,7 +15,14 @@ Print SPCP Here
 
 ### Application Details
 
+<p>A licence for a company to withdraw and move explosives for Rock Blasting Operations or for pyrotechnics display.</p>
+
 **Additional Information**
 
+Contact Details: Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg
+Fee: $22 for a period of not more than 30 days / per consignment
+
 ### Requirements
+
+Applicant must have Licence to Deal in Explosives before applying for Licence to Remove Explosive.
 

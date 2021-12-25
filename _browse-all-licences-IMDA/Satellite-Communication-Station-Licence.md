@@ -15,9 +15,29 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For transmitting and/or receiving messages or data by means of satellite communications.</p>
+
 **Additional Information**
+
+Licence Fee: to be determined
 
 ### Documents Needed
 
+The attachment should contain a Earth Station System Block Diagram and Description.
+
+Please provide the equipment Rack Diagram with Panel Layout showing functional units – Transmitter, receiver, up/down converter, module/demodulator, monitor and control, baseband(audio/video) data interface, power supply and others (to specify).
+
+The attachment should contain the following:
+a. Horizontal Elevation of Earth Station
+b. Antenna Radiation Diagram (Copolar and Crosspolar)
+c. Transmitter/Receiver RF Filter Attenuation
+
+This attachment refers to the General Description of the Functional Units.
+
+This attachment is for any supporting documents required to be submitted.
+
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

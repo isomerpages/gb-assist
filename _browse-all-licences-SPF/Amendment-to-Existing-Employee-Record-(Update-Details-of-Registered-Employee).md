@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+Under the Guns, Explosives And Weapons Control Act, an approval is required for any employee employed by a Licensed company to handle any Guns or  Explosives. 
+

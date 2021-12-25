@@ -15,7 +15,13 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For operation of radio frequency on a temporary basis.</p>
+
 **Additional Information**
 
+N.A.
+
 ### Documents Needed
+
+Approval from Building owner if any
 

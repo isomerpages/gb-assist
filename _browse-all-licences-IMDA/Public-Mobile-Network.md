@@ -15,9 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For establishing and providing telecommunication services to public using multiple high power base or fixed or repeater stations.</p>
+
 **Additional Information**
+
+Licence fee: to be determined
 
 ### Documents Needed
 
+Purpose of proposed network and supporting documents
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Your Qualified Person (QP) has to consult CAAS on glare and/or height control if your building is located within the civil aviation zone.</p>
+

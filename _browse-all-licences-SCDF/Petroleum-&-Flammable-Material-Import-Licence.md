@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Any person who wishes to import petroleum or flammable materials is required to obtain an import license from SCDF.</p>
+

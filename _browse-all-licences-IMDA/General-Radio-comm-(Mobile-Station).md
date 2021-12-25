@@ -15,9 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For establishing and operating of radio communication equipment in an airport area.</p>
+
 **Additional Information**
+
+Licence fees to be determined
 
 ### Documents Needed
 
+CAAS Approval
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

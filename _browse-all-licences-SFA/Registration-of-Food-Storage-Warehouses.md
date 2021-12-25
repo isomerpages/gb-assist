@@ -15,9 +15,21 @@ Print SPCP Here
 
 ### Application Details
 
+<p>In Singapore, all food storage warehouse must be licensed by the Singapore Food Agency before they are permitted to carry out any storage for wholesale distribution.</p>
+<p><strong>FAQs</strong></p>
+<p>1. Where can I get the FAQ for Registration for Food Storage Warehouse?</p>
+<p>You can get the FAQ on this link: SFA FAQ website at</p>
+<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+
 **Additional Information**
+
+N.A.
 
 ### Documents Needed
 
+N.A.
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

@@ -15,9 +15,27 @@ Print SPCP Here
 
 ### Application Details
 
+<p><strong>Description</strong></p>
+<p>The Licence to Import or Export Ornamental Fish is issued by Animal &amp; Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
+<p><strong>FAQs</strong></p>
+<p>1.Where can I get the FAQ for Health Certificate for Export of Ornamental Fish?</p>
+<p>You can get the FAQ on this link: AVS FAQ website at</p>
+<p><a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a></p>
+
 **Additional Information**
+
+<p><strong>Fee:</strong></p>
+<p>Licence Fee: $16.80</p>
+<p>Express Fee(Include GST):$33.60</p>
 
 ### Documents Needed
 
+<p><strong>Supporting Documents</strong></p>
+<p><strong>Any Supporting Documents</strong></p>
+<p><strong>Documents for Watermarking</strong></p>
+<p>For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.</p>
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

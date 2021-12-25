@@ -15,7 +15,16 @@ Print SPCP Here
 
 ### Application Details
 
+<p>This licence is required if you intend to use, handle, transport or supervise the use of radioactive materials or devices containing radioactive materials.</p>
+
 **Additional Information**
 
+Fee
+$145 a year
+
 ### Documents Needed
+
+Medical Certificate Form
+Relevant Qualifications
+Other Supporting Documents
 

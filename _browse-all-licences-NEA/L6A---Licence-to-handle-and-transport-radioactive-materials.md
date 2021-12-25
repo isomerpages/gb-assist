@@ -15,9 +15,19 @@ Print SPCP Here
 
 ### Application Details
 
+<p>This licence is required for applicants intending to handle and transport radioactive materials.</p>
+
 **Additional Information**
+
+Fee
+$145 a year
 
 ### Documents Needed
 
+Radiation Protection Plan
+Other Supporting Documents
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

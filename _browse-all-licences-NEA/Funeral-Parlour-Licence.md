@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>To operate a funeral parlour with embalming facilities and crematoria.</p>
+

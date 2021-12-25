@@ -15,7 +15,16 @@ Print SPCP Here
 
 ### Application Details
 
+<p>This licence is required for applicants intending to use, operate, energise or supervise the use of ionising radiation irradiating apparatus</p>
+
 **Additional Information**
 
+Fee
+$145 a year
+
 ### Documents Needed
+
+Medical Certificate Form
+Relevant Qualifications
+Other Supporting Documents
 

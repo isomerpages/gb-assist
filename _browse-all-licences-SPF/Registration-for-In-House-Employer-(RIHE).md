@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>An "In-house Employer" means any individual authorised by his/her company in employing a licensed security officer to perform the job functions of a security officer at their own premises.</p>
+

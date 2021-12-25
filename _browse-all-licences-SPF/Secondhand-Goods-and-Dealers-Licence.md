@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Dealers who deal in the secondhand goods listed in the Schedule are required to register with Police before commencing operations. The registration will be based on the location where the dealing in secondhand goods takes place. If the business operations comprise several branches or Uniform Resource Locator (URLs for Internet dealing) or different points of dealing in secondhand goods (for itinerant businesses), each branch, URL or point of dealing will require a separate registration.</p>
+

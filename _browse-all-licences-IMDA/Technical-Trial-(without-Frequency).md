@@ -15,7 +15,13 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For establishing and conduct a proof of concept without using radio frequency on a short term basis.</p>
+
 **Additional Information**
 
+N.A.
+
 ### Documents Needed
+
+Approval from Building owner if any
 

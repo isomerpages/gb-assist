@@ -15,3 +15,19 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Your Qualified Person (QP) has to apply for approval of structural and building plans to BCA through CORENET if the proposed works involve any of the following:</p>
+<ol style="list-style-type: lower-alpha;">
+<li>structural strengthening*;</li>
+<li>any plinth, platform or other base erected for the purpose of supporting the solar panels that exceed a height of 2.5m;</li>
+<li>the solar panels also function as a roof shelter, covering an area that exceeds 10 square metres; or</li>
+<li>any other new building works, as defined under the Building Control Act.</li>
+</ol>
+<p><em>*Certain building works are exempted from plan submission. It is advisable to consult a Professional Engineer (PE) for Civil and Structural works to ascertain the need for structural strengthening works.</em></p>
+<p>In the above circumstances, your QP would need to submit detailed&nbsp;structural plans and structural design calculations, as well as&nbsp;building plans&nbsp;(if applicable). Please also note that lightning protection &ndash; as required for under the SS555:2018 Code of Practice for Protection Against Lightning &ndash; for the solar modules and associated control panels must be duly complied with.</p>
+<p>BCA will generally respond via CORENET within 7 to 14 working days of any submission.</p>
+<p>You are advised to also refer to&nbsp;<a href="https://www.corenet.gov.sg/media/2018160/circular_10aug2016.pdf" target="_blank" rel="noopener noreferrer">BCA&rsquo;s circular</a>&nbsp;on safety requirements when adding solar panels to building rooftops and the&nbsp;<a href="https://www.corenet.gov.sg/media/2033038/joint-advisory-note-on-solar-photovoltaic-installations-on-rooftops-of-buildings_final_240117.pdf" target="_blank" rel="noopener noreferrer">Advisory Note</a>&nbsp;on Best Practices for Installing Solar Panels on Building Rooftops.</p>
+<p>For enquiries or clarifications on submission requirements, please email BCA at&nbsp;<a href="mailto:bca_enquiry@bca.gov.sg">bca_enquiry@bca.gov.sg</a>.</p>
+<p><strong>BCA Green Mark Scheme</strong></p>
+<p>BCA Green Mark is a green building rating system to evaluate a building for its environmental impact and performance.</p>
+<p>It provides a comprehensive framework for assessing the overall environmental performance of new and existing buildings to promote sustainable design, construction and operations practices in buildings. The BCA Green Mark Scheme also encourages the adoption of renewable energy sources, including solar power.</p>
+

@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Hospitals and medical clinics that intend to provide services for TOP are required to apply for status as an approved institution for TOP.</p>
+

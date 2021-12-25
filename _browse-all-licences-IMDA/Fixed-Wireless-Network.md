@@ -15,9 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For establishing and providing Fixed Wireless Network (such as use of multiple high power base or fixed station within a cluster).</p>
+
 **Additional Information**
+
+Licence fee: to be determined
 
 ### Documents Needed
 
+Purpose of proposed network and supporting documents
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

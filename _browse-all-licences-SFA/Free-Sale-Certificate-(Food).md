@@ -15,9 +15,24 @@ Print SPCP Here
 
 ### Application Details
 
+<p>The Free Sale Certificate (Food) allows exporters to get Singapore Food Agency endorsement for their<br>- Meat and Fish products intended for export.<br>- Locally processed meat and fish products intended for export<br>- Processed food products intended for export</p>
+<p><strong>FAQs</strong></p>
+<p>1. Where can I get the FAQ for Free Sale Certificate for Food Products?</p>
+<p>You can get the FAQ on this link: SFA FAQ website at</p>
+<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+
 **Additional Information**
+
+<p><strong>Fee</strong></p>
+<p>Licence Fee:$16.80 per certificate</p>
 
 ### Documents Needed
 
+<p><strong>Supporting Documents</strong></p>
+<p><strong>Product Details</strong></p>
+<p><strong>Others</strong></p>
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

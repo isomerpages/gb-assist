@@ -15,9 +15,29 @@ Print SPCP Here
 
 ### Application Details
 
+<p><strong>Description</strong></p>
+<p>The Licence for Pet Shop is issued by Animal &amp; Veterinary Service to use a premise to keep or display pets for sale.</p>
+<p><strong>FAQs</strong></p>
+<p>1.Where can I get the FAQ for Licence for Pet Shop?</p>
+<p>You can get the FAQ on this link: AVS FAQ website at;<a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a></p>
+
 **Additional Information**
+
+<p><strong>Fee:</strong></p>
+<p>Admin Fees: $94.50</p>
+<p>Licence Fees:$126.00</p>
 
 ### Documents Needed
 
+<p><strong>Supporting Documents</strong></p>
+<p><strong>NRIC</strong></p>
+<p><strong>Approval from URA/HDB</strong></p>
+<p><strong>Layout plan</strong></p>
+<p><strong>Lease / Tenancy agreement</strong></p>
+<p><strong>Medisave Statement</strong></p>
+<p><strong>Others</strong></p>
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

@@ -15,7 +15,13 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For displaying of telecommunication equipment during an exhibition on a short term basis.</p>
+
 **Additional Information**
 
+N.A.
+
 ### Documents Needed
+
+Approval from Building owner if any
 

@@ -15,7 +15,14 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Companies who have fumigators licensed by NEA to carry out fumigation by means of Hydrogen Cyanide, Methyl Bromide and/or Hydrogen Phosphide.</p>
+
 **Additional Information**
 
+Fee
+$45
+
 ### Documents Needed
+
+Fumigation Supporting Doc (If Applicable)
 

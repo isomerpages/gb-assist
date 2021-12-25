@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>To raise the overall standards and professionalism of the cleaning industry through better employment practices and productivity initiatives, together with a new accreditation requirement on progressive wages.</p>
+

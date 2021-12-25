@@ -15,9 +15,21 @@ Print SPCP Here
 
 ### Application Details
 
+<p>The Licence to Import Poultry is issued to importers by Singapore Food Agency to import Broiler Chickens and Broiler Ducks.</p>
+<p><strong>FAQs</strong></p>
+<p>1. Where can I get the FAQ for Licence to Import Domestic Birds?</p>
+<p>You can get the FAQ on this link: SFA FAQ website</p>
+<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+
 **Additional Information**
+
+N.A.
 
 ### Documents Needed
 
+N.A.
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>The displaying of vertical banners on the lamp posts within Public Street is only allowed for national events, major festivals (E.g. National Day, Christmas Day, Hari Raya Puasa, Deepavali, Chinese New Year etc.) and events supported or organised by a relevant government agency.</p>
+

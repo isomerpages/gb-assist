@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+Under the Guns, Explosives And Weapons Control Act, an Approval is required for a Company licensed to Conduct Blasting to Carry out a Blasting Project using explosives. 
+

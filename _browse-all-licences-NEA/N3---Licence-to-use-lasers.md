@@ -15,7 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>This licence is required for applicants intending to perform or carry out work involving the use of laser apparatus.</p>
+
 **Additional Information**
 
+Fee
+$105 per annum
+
 ### Documents Needed
+
+Medical eye-examination certificate for laser user licence applicant
+Certificate on Laser Safety Courses
+Certificate on Training in using Medical laser
+Others
 

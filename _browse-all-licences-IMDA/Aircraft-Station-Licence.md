@@ -15,7 +15,15 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For establishing and setting up of radio communication equipment on board aircraft.</p>
+
 **Additional Information**
 
+Licence Fee: $100 for 5 years
+
 ### Documents Needed
+
+A copy of the Civil Aviation Authority of Singapore Approval
+
+A copy of the Equipment Information List
 

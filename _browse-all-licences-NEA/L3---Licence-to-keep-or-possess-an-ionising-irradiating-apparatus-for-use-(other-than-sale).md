@@ -15,9 +15,21 @@ Print SPCP Here
 
 ### Application Details
 
+<p>This licence is required for applicants intending to buy, purchase, keep, store or possess for use an ionising radiation irradiating apparatus.</p>
+
 **Additional Information**
+
+Fee
+$155 per annum
 
 ### Documents Needed
 
+Irradiating Apparatus Information
+Floor plan / Site layout
+Radiation Protection Plan
+Other supporting documents
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 

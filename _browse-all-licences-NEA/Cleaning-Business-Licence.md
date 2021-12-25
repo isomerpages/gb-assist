@@ -15,3 +15,5 @@ Print SPCP Here
 
 ### Application Details
 
+<p>Businesses offering general cleaning services at premises or any public places will need to be licensed.</p>
+

@@ -15,9 +15,17 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For conducting research and development activities, testing, experiments or demonstrations in radio communications/radio communications equipment.</p>
+
 **Additional Information**
+
+Licence Fee: to be determined
 
 ### Documents Needed
 
+Purpose of Application
+
 ### Requirements
+
+Applicant must be ACRA registered company/business
 

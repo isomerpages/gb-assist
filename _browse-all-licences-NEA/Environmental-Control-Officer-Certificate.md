@@ -15,7 +15,22 @@ Print SPCP Here
 
 ### Application Details
 
+<p>For the application of Environmental Control Officer Certificate of Registration.</p>
+
 **Additional Information**
 
+Fee
+$120.00
+
 ### Documents Needed
+
+Front and back copies of NRIC/Employment Pass/ S Pass / Work Permit
+Environmental Control Officer (Specified Construction Sites) (ECO(SCS)) Course Certificate
+Highest Educational Qualifications/WPLN Certificates
+Testimonials from Previous Employers/Letter of Appointments
+Passport Size Photo
+Additional Training Course/Seminar Certificate
+Environmental Control Officer (Specified Premises) [ECO(SP)] Course Certificate
+Environmental Control Coordinator (ECC) Course Certificate
+ECO Foundation Module Course Certificate
 
