@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Veterinary-Certificate.md
+      - Clinical-Laboratory-Licence.md
       - Clinical-X-Ray-Laboratory-Licence.md
       - Community-Health-Centre.md
       - Dental-Clinic-Licence.md

@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Veterinary-Certificate.md
+      - Company-Registration-(CR).md
       - Permit-Administration-and-Control-System(PATROL).md

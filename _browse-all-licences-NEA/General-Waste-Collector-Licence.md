@@ -3,4 +3,11 @@ title: General Waste Collector Licence
 permalink: /browse-all-licences/National-Environment-Agency-(NEA)/General-Waste-Collector-Licence
 third_nav_title: National Environment Agency (NEA)
 ---
-## General Waste Collector Licence
+
+## Apply for General Waste Collector Licence
+
+National Environment Agency (NEA)
+
+Print SPCP Here
+
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=57" type="primary" %}

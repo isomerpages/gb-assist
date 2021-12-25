@@ -3,4 +3,11 @@ title: Termination of Security Clearance for Special Worker (Remove Existing Emp
 permalink: /browse-all-licences/Singapore-Police-Force-(SPF)/Termination-of-Security-Clearance-for-Special-Worker-(Remove-Existing-Employee)
 third_nav_title: Singapore Police Force (SPF)
 ---
-## Termination of Security Clearance for Special Worker (Remove Existing Employee)
+
+## Apply for Termination of Security Clearance for Special Worker (Remove Existing Employee)
+
+Singapore Police Force (SPF)
+
+Print SPCP Here
+
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/" type="primary" %}

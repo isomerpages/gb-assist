@@ -3,4 +3,11 @@ title: Commercial Bank Licence
 permalink: /browse-all-licences/Monetary-Authority-of-Singapore-(MAS)/Commercial-Bank-Licence
 third_nav_title: Monetary Authority of Singapore (MAS)
 ---
-## Commercial Bank Licence
+
+## Apply for Commercial Bank Licence
+
+Monetary Authority of Singapore (MAS)
+
+Print SPCP Here
+
+{% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/Regulations-and-Financial-Stability/Regulations-Guidance-and-Licensing/Commercial-Banks.aspx" type="primary" %}

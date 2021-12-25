@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Veterinary-Certificate.md
+      - Air-Operator-Certificate.md
       - Air-Traffic-Controller-Licence.md
       - Aircraft-Maintenance-Engineer.md
       - Aircraft-Maintenance-Organisation.md

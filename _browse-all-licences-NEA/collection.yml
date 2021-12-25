@@ -3,10 +3,8 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Veterinary-Certificate.md
-      - Hazardous-Substances-(HS)-Licence.md
-      - Hazardous-Substances-(HS)-Transport-Approval.md
       - Application-for-Registration-of-Public-Health-Pesticide-&-Repellents-Against-Vectors.md
+      - Aquatic-Facility-Licence.md
       - Cleaning-Business-Licence.md
       - Enhanced-Clean-Mark-Accreditation-Scheme.md
       - Environmental-Control-Officer-Certificate.md
@@ -15,7 +13,10 @@ collections:
       - Funeral-Parlour-Licence.md
       - General-Waste-Collector-Licence.md
       - General-Waste-Disposal-Facility-Licence.md
+      - Hawker-Stall-Licence.md
+      - Hazardous-Substances-(HS)-Licence.md
       - Hazardous-Substances-(HS)-Permit.md
+      - Hazardous-Substances-(HS)-Transport-Approval.md
       - L1---Licence-to-manufacture--possess-for-sale-or-deal-in-ionising-irradiating-apparatus.md
       - L2---Licence-to-manufacture--possess-for-sale-or-deal-in-radioactive-materials.md
       - L3---Licence-to-keep-or-possess-an-ionising-irradiating-apparatus-for-use-(other-than-sale).md
@@ -29,9 +30,8 @@ collections:
       - N2---Licence-to-keep-or-possess-for-use-non-ionising-irradiating-apparatus.md
       - N3---Licence-to-use-lasers.md
       - N4A-B---Licence-to-import-or-export-a-consignment-of-non-ionising-irradiating-apparatus.md
-      - Standard-Payment-Institution-Licence.md
       - R1--Registration-as-a-radiation-worker.md
-      - Aquatic-Facility-Licence.md
+      - Standard-Payment-Institution-Licence.md
       - Toxic-Industrial-Waste-(TIW)-Collector's-Licence.md
       - Toxic-Industrial-Waste-(TIW)-Transport-Approval.md
       - Vector-Control-Operator-Certificate.md

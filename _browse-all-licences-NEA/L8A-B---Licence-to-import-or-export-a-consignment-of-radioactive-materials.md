@@ -3,4 +3,11 @@ title: L8A/B - Licence to import or export a consignment of radioactive material
 permalink: /browse-all-licences/National-Environment-Agency-(NEA)/L8A-B---Licence-to-import-or-export-a-consignment-of-radioactive-materials
 third_nav_title: National Environment Agency (NEA)
 ---
-## L8A/B - Licence to import or export a consignment of radioactive materials
+
+## Apply for L8A/B - Licence to import or export a consignment of radioactive materials
+
+National Environment Agency (NEA)
+
+Print SPCP Here
+
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=186" type="primary" %}
