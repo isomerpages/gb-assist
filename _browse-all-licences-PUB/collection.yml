@@ -3,4 +3,6 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Change-of-Use-Approval.md
+      - Veterinary-Certificate.md
+      - Written-Approval-for-the-Discharge-of-Trade-Effluent-Into-the-Public-Sewer.md
+      - Event-Permit-Application-for-Use-of-Reservoir.md

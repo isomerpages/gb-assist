@@ -1,0 +1,10 @@
+collections:
+  browse-all-licences-NPARK:
+    output: true
+    order:
+      - back-to-all-licences.md
+      - Veterinary-Certificate.md
+      - Phytosanitary-Certification.md
+      - CITES-Permit.md
+      - Pre-signed-CITES-Permit.md
+      - Pre-signed-non-CITES-Certificate.md

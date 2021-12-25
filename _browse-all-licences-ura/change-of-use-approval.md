@@ -1,6 +1,0 @@
----
-title: Change of Use Approval
-permalink: /browse-all-licences/urban-redevelopment-authority-(ura)/change-of-use-approval
-third_nav_title: Urban Redevelopment Authority (URA)
----
-## Change of Use Approval

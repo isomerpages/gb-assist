@@ -3,4 +3,7 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Change-of-Use-Approval.md
+      - Veterinary-Certificate.md
+      - Electricity-Generation.md
+      - Electricity-Retailer.md
+      - Electricity-Wholesaler.md

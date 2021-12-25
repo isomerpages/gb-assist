@@ -1,6 +1,10 @@
 collections:
-  browse-all-licences-MinLaw:
+  browse-all-licences-MINLAW:
     output: true
     order:
       - back-to-all-licences.md
-      - Change-of-Use-Approval.md
+      - Veterinary-Certificate.md
+      - Insolvency-Practitioner-Licence-(IP).md
+      - Moneylender's-Licence.md
+      - Pawnbroker's-Licence.md
+      - Registration-of-Precious-Stones-and-Precious-Metals-Dealers.md

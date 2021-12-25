@@ -3,4 +3,7 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Change-of-Use-Approval.md
+      - Veterinary-Certificate.md
+      - Amusement-Rides-Permit.md
+      - Structural-and-Building-Plans-Requirements-for-Rooftop-Solar-PV-Installation.md
+      - Permit-to-Erect-Temporary-Building.md
