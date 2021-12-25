@@ -1,6 +1,6 @@
 ---
 title: Ticket Payment Service Licence (TPSL)
-permalink: /browse-all-licences/Public-Transport-Council-(PTC)/Ticket-Payment-Service-Licence--TPSL-
+permalink: /browse-all-licences/Public-Transport-Council-(PTC)/Ticket-Payment-Service-Licence-(TPSL)
 third_nav_title: Public Transport Council (PTC)
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Patent Agent Form A (Registration as a Singapore Patent Agent)
-permalink: /browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-A--Registration-as-a-Singapore-Patent-Agent-
+permalink: /browse-all-licences/Intellectual-Property-Office-of-Singapore-(IPOS)/Patent-Agent-Form-A-(Registration-as-a-Singapore-Patent-Agent)
 third_nav_title: Intellectual Property Office of Singapore (IPOS)
 ---
 

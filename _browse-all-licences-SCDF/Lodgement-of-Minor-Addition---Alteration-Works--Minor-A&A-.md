@@ -1,6 +1,6 @@
 ---
 title: Lodgement of Minor Addition / Alteration Works (Minor A&A)
-permalink: /browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Lodgement-of-Minor-Addition---Alteration-Works--Minor-A&A-
+permalink: /browse-all-licences/Singapore-Civil-Defence-Force-(SCDF)/Lodgement-of-Minor-Addition---Alteration-Works-(Minor-A&A)
 third_nav_title: Singapore Civil Defence Force (SCDF)
 ---
 

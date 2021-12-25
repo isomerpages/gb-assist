@@ -1,6 +1,6 @@
 ---
 title: Free Sale Certificate (Vaccine)
-permalink: /browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate--Vaccine-
+permalink: /browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Free-Sale-Certificate-(Vaccine)
 third_nav_title: Animal & Veterinary Service (AVS)
 ---
 

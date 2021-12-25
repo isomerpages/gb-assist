@@ -1,6 +1,6 @@
 ---
 title: Company Registration (CR)
-permalink: /browse-all-licences/Central-Narcotics-Bureau-(CNB)/Company-Registration--CR-
+permalink: /browse-all-licences/Central-Narcotics-Bureau-(CNB)/Company-Registration-(CR)
 third_nav_title: Central Narcotics Bureau (CNB)
 ---
 

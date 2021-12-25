@@ -1,6 +1,6 @@
 ---
 title: Non-Renewable Temporary Occupation Licence (NRTOL)
-permalink: /browse-all-licences/Singapore-Tourism-Board-(STB)/Non-Renewable-Temporary-Occupation-Licence--NRTOL-
+permalink: /browse-all-licences/Singapore-Tourism-Board-(STB)/Non-Renewable-Temporary-Occupation-Licence-(NRTOL)
 third_nav_title: Singapore Tourism Board (STB)
 ---
 

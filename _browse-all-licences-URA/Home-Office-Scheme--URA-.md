@@ -1,6 +1,6 @@
 ---
 title: Home Office Scheme (URA)
-permalink: /browse-all-licences/Urban-Redevelopment-Authority-(URA)/Home-Office-Scheme--URA-
+permalink: /browse-all-licences/Urban-Redevelopment-Authority-(URA)/Home-Office-Scheme-(URA)
 third_nav_title: Urban Redevelopment Authority (URA)
 ---
 
