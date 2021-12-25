@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - back-to-all-licences.md
-      - Company-Registration-(CR).md
-      - Permit-Administration-and-Control-System(PATROL).md
+      - Company-Registration--CR-.md
+      - Permit-Administration-and-Control-System-PATROL-.md
