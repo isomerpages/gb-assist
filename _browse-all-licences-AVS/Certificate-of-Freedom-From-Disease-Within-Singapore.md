@@ -15,6 +15,12 @@ Print SPCP Here
 
 ### Application Details
 
+<p><strong>Description</strong></p>
+<p>A Certificate of Freedom from Disease within Singapore from Animal &amp; Veterinary Service will be required if the country/region to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export.</p>
+<p><strong>FAQs</strong></p>
+<p>1.Where can I get the FAQ for Certificate for Freedom from Diseases?</p>
+<p>You can get the FAQ on this link: Animal & Veterinary Service FAQ website at <a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a></p>
+
 **Additional Information**
 
 <p><strong>Fee:</strong></p>
@@ -22,5 +28,9 @@ Print SPCP Here
 
 ### Documents Needed
 
+<p>No supporting document required.</p>
+
 ### Requirements
+
+Applicant must be ACRA registered company/ business
 
