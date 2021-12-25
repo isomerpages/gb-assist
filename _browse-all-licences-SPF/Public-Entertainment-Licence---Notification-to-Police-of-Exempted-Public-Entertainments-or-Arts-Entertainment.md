@@ -23,7 +23,7 @@ Town Council Agreement Letter
 Letter from Town Council
 
 Constituency Letter
-Constituency Letter if the event is ‘Constituency Event’
+Constituency Letter if the event is ‘Constituency Event'
 
 
 

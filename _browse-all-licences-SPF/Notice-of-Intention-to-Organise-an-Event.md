@@ -23,7 +23,7 @@ Brief Programme of Event
 Please provide the brief programme and synopsis of the event.
 
 Access control and verification plans
-Please provide the plans for guest’s verification and access control into the event venue.
+Please provide the plans for guest's verification and access control into the event venue.
 
 Crowd Control Plans
 Please provide the deployment plans of:

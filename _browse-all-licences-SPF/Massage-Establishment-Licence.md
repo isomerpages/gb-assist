@@ -26,7 +26,7 @@ Letter of Approval from HDB
 Approval letter from HDB for Outlet/ Premise to provide massage treatments or other related.
 
 URA Planning Permission
-Permission granted for Outlet/ Premise Change of Use to ‘Health Centre’ by URA
+Permission granted for Outlet/ Premise Change of Use to ‘Health Centre' by URA
 
 List of renovation/ asset with receipts and invoices (applicable to Provisional Cat I licence application only)
 A list of the renovation/asset invested together with the respective documentary proof ie receipts/ invoices (to meet the requirement of having a capital investment of at least $50,000 in renovation/asset)

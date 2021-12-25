@@ -169,7 +169,7 @@ Print SPCP Here
 <li>Corrective action to be taken</li>
 </ul>
 </ol>
-<p><strong>WSQ Apply Food Safety Management System for Food Service Establishments’ Certificate (Statement of Attainment)</strong></p>
+<p><strong>WSQ Apply Food Safety Management System for Food Service Establishments' Certificate (Statement of Attainment)</strong></p>
 <p>For premises which are required to implement FSMS</p>
 <p><strong>HACCP Plan (for premises which are already HACCP-certified)</strong></p>
 <ol type="a">

@@ -37,7 +37,7 @@ Print SPCP Here
 <p><strong><u>5. Are IECPs require to employ teacher registered under ARS?</u></strong></p>
 <p>IECPs are required to employ only Islamic teachers (Asatizah) or Quranic teachers who are registered under ARS and to ensure that the curriculum, learning materials and teachers employed comply with the ARS Code of Ethics.</p>
 <p><strong><u>6. How long is the application process?</u></strong></p>
-<p>All approval of registration will be made within 2 months if no additional information is required. Existing IECPs (established before 1 January 2017) may continue to run their centres while registration is being processed. New IECPs will need to seek Muis’ approval before publicising their courses and taking in students. The period of registration validity is 3 years.</p>
+<p>All approval of registration will be made within 2 months if no additional information is required. Existing IECPs (established before 1 January 2017) may continue to run their centres while registration is being processed. New IECPs will need to seek Muis' approval before publicising their courses and taking in students. The period of registration validity is 3 years.</p>
 
 **Additional Information**
 

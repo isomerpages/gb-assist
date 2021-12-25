@@ -28,7 +28,7 @@ Print SPCP Here
 
 <p><strong>Supporting Documents</strong></p>
 <p><strong>Site owner</strong></p>
-<p>A copy of the site owner’s approval letter.</p>
+<p>A copy of the site owner's approval letter.</p>
 <p><strong>National Parks Board</strong></p>
 <p>A copy of approval letter for use of grass verge/ roadside tables.</p>
 <p><strong>Fire Safety & Shelter Department, SCDF</strong></p>

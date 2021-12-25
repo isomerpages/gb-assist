@@ -51,9 +51,9 @@ Print SPCP Here
 <p><strong>Letter of employment/endorsement</strong></p>
 <p>Letter of employment/ endorsement from veterinary practice in Singapore, stating approximate starting date</p>
 <p><strong>Passport Size Photo</strong></p>
-<p>Soft copy of the applicant’s passport size photo</p>
-<p><strong>Supervisor’s Letter of Endorsement</strong></p>
-<p>Scanned copy of Supervisor’s Letter of Endorsement</p>
+<p>Soft copy of the applicant's passport size photo</p>
+<p><strong>Supervisor's Letter of Endorsement</strong></p>
+<p>Scanned copy of Supervisor's Letter of Endorsement</p>
 <p><strong>Others</strong></p>
 <p>Scanned copy of other miscellaneous documents</p>
 

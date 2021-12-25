@@ -68,7 +68,7 @@ Print SPCP Here
 
 <strong>1. Copy of NRIC / FIN (front and back)</strong>
 <p><strong>2. Copy of Real Estate degree certificate from NUS or its equivalent</strong></p>
-<p><strong>3. Copy of Singapore Institute of Surveyors and Valuers (SISV)’s letter certifying your membership with the Valuation and General Practice council</strong></p>
+<p><strong>3. Copy of Singapore Institute of Surveyors and Valuers (SISV)'s letter certifying your membership with the Valuation and General Practice council</strong></p>
 <strong>4. A testimonial from a licensed appraiser</strong>
 <p>A testimonial from a licensed appraiser to certify that the applicant can do appraiser work independently and quote the appraiser reports prepared by the applicant. Click <a href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Property/Property_professionals/Appraisers_Valuers/Form-Testimonial%20from%20Licensed%20Appraiser.pdf"><u>here</u> </a>to download template.</p>
 <p><strong>5. A Letter from the company where you will be acting as an appraiser</strong></p>
