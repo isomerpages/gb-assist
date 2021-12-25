@@ -17,6 +17,9 @@ Print SPCP Here
 
 **Additional Information**
 
+<p><strong>Fee:</strong></p>
+<p>Licence Fee: $12.60</p>
+
 ### Documents Needed
 
 ### Requirements
