@@ -11,3 +11,7 @@ Ministry of Health (MOH)
 Print SPCP Here
 
 {% include button.html text="Apply on MOH" src="https://elis.moh.gov.sg/elis/index.do?task=home" type="primary" %}
+
+### Application Details
+<p>Community Health Centre is a facility that provides auxiliary services* (such as diabetic eye/foot screening, dietary counselling, blood glucose monitoring, etc.) to support the General Practitioners to better manage their patients with chronic medical conditions.</p>
+

@@ -11,3 +11,7 @@ National Environment Agency (NEA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=172" type="primary" %}
+
+### Application Details
+<p>Any person who wishes to import, use, storage and supply of hazardous substances controlled under the Environmental Protection And Management Act.</p>
+

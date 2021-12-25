@@ -11,3 +11,7 @@ Ministry of Social and Family Development (MSF)
 Print SPCP Here
 
 {% include button.html text="Apply on MSF" src="https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx" type="primary" %}
+
+### Application Details
+<p>For dating agencies providing dating services.</p>
+

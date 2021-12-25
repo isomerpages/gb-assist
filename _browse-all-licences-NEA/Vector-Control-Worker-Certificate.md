@@ -11,3 +11,7 @@ National Environment Agency (NEA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=164" type="primary" %}
+
+### Application Details
+<p>Employees of Vector Control Operators would have to be licensed as Vector Control Technicians or Vector Control Workers to conduct any vector control activity.</p>
+

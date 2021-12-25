@@ -11,3 +11,7 @@ Monetary Authority of Singapore (MAS)
 Print SPCP Here
 
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/Insurance/For-Insurers-Setting-up-a-Representative-Office" type="primary" %}
+
+### Application Details
+<p>Direct insurers and reinsurers need to apply for approval if they wish to set up a representative office in Singapore.&nbsp;Representative offices are not allowed to carry on or solicit insurance business in Singapore and can only carry on activities approved by MAS.</p>
+

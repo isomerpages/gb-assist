@@ -11,3 +11,7 @@ Ministry of Culture, Community and Youth (MCCY)
 Print SPCP Here
 
 {% include button.html text="Apply on MCCY" src="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#" type="primary" %}
+
+### Application Details
+<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#">here</a> for more details.</p>
+

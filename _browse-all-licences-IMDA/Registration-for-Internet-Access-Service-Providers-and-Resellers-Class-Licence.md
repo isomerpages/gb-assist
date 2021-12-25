@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=12" type="primary" %}
+
+### Application Details
+<p>For providing internet access services to all or part of the public (includes any single building, institution, residential or commercial complex but does not include provision to a person's own employees for use within the person's firm or corporation).</p>
+

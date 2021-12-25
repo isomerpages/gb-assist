@@ -11,3 +11,7 @@ Civil Aviation Authority of Singapore (CAAS)
 Print SPCP Here
 
 {% include button.html text="Apply on CAAS" src="https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul" type="primary" %}
+
+### Application Details
+<p>Maintenance, Repair and Overhaul (MRO) organisation to carry out inspection, repair, testing and/or maintenance work on aircraft and aircraft components.</p>
+

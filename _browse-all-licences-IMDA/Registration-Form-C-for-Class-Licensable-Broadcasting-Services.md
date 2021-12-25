@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10066" type="primary" %}
+
+### Application Details
+<p>For the provision of a website/s with political or religious content.</p>
+

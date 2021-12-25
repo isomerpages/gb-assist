@@ -11,3 +11,7 @@ National Environment Agency (NEA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=191" type="primary" %}
+
+### Application Details
+<p>This licence is required for applicants intending to perform or carry out radiation work involving ionising radiation irradiating apparatus or radioactive materials.</p>
+

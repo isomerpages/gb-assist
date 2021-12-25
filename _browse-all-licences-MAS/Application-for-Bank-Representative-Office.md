@@ -11,3 +11,7 @@ Monetary Authority of Singapore (MAS)
 Print SPCP Here
 
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/Banking/set-up-bank-representative-office" type="primary" %}
+
+### Application Details
+<p>Bank representative offices are registered under section 13A of the Banking Act (Cap. 19).<br>A bank representative office may carry out liaison work, market research or feasibility studies, but is not allowed to transact any business in Singapore. The registration of a bank representative office does not imply that the applicant will qualify for a banking licence in future.</p>
+

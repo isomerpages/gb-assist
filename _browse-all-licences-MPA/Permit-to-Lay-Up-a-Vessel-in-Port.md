@@ -11,3 +11,7 @@ Maritime and Port Authority (MPA)
 Print SPCP Here
 
 {% include button.html text="Apply on MPA" src="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/laying-up-of-a-vessel-in-port" type="primary" %}
+
+### Application Details
+<p>Vessels that need to be laid up in port require written permission from the Port Master.</p>
+

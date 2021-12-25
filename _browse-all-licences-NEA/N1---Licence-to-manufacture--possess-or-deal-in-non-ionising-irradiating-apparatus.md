@@ -11,3 +11,7 @@ National Environment Agency (NEA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=187" type="primary" %}
+
+### Application Details
+<p>This licence is required for applicants intending to manufacture, possess for sale, sell, supply, distribute or deal with a non-ionising radiation irradiating apparatus.</p>
+

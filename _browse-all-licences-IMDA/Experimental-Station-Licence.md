@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=27" type="primary" %}
+
+### Application Details
+<p>For conducting research and development activities, testing, experiments or demonstrations in radio communications/radio communications equipment.</p>
+

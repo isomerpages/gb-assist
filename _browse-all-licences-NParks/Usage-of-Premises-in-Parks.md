@@ -11,3 +11,7 @@ National Parks Board (NParks)
 Print SPCP Here
 
 {% include button.html text="Apply on NParks" src="https://www2.nparks.gov.sg/vbs/" type="primary" %}
+
+### Application Details
+<p>To use any premises in the parks for an event, you need approval from NParks.</p>
+

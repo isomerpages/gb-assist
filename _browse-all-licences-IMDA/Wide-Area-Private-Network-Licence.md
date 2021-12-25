@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=34" type="primary" %}
+
+### Application Details
+<p>For establishing and providing Wide Area Private Network services (such as use of walkie talkie services within a non-localised area).</p>
+

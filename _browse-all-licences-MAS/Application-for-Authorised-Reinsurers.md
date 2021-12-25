@@ -11,3 +11,7 @@ Monetary Authority of Singapore (MAS)
 Print SPCP Here
 
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation" type="primary" %}
+
+### Application Details
+<p>Overseas insurers may apply for authorisation to carry on life and/or general reinsurance business in Singapore.</p>
+

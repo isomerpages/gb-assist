@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=25" type="primary" %}
+
+### Application Details
+<p>For the manufacture, import, hire, sale, offer or possession for sale of any approved (by way of registration) telecommunication equipment or equipment set out in the First Schedule of the Telecommunication (Dealers) Regulations (the "Regulations").</p>
+

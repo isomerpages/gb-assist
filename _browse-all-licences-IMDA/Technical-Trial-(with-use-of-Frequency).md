@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10072" type="primary" %}
+
+### Application Details
+<p>For establishing and conduct a proof of concept using radio frequency on a short term basis.</p>
+

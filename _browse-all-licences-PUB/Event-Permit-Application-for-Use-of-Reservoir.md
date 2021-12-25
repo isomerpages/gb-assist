@@ -11,3 +11,4 @@ Public Utilities Board (PUB)
 Print SPCP Here
 
 {% include button.html text="Apply on PUB" src="https://www.pub.gov.sg/marinabarrage/Documents/Event_Permit_Application_Form.docx" type="primary" %}
+

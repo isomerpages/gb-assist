@@ -11,3 +11,9 @@ Maritime and Port Authority (MPA)
 Print SPCP Here
 
 {% include button.html text="Apply on MPA" src="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/launching-of-a-new-vessel-in-port" type="primary" %}
+
+### Application Details
+<p>Vessels more than 15 metres long require written permission from the Port Master before they can be launched in port.</p>
+<p>Regulation 52 of the Maritime and Port Authority of Singapore (Port) Regulations states:</p>
+<p>&ldquo;No person shall cause or permit a newly constructed vessel of more than 15 metres in length to be launched, or to be placed into the waters of the port, without the prior written permission of the Port Master under such conditions as the Port Master may impose.&rdquo;</p>
+

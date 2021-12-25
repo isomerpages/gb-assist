@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10058" type="primary" %}
+
+### Application Details
+<p>For establishing and operating of radio communication equipment as a base/fixed station in an airport area.</p>
+

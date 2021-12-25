@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10018" type="primary" %}
+
+### Application Details
+<p>For performing or carrying out personally installation or internal telecommunication wiring works.</p>
+

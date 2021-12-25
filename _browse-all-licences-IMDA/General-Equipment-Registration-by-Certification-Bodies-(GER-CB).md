@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10081" type="primary" %}
+
+### Application Details
+<p>Registration under General Equipment Registration by Certification Bodies is applicable only to authorised CB applicant under MRA Phase II for IMDA recognised Certification Bodies.</p>
+

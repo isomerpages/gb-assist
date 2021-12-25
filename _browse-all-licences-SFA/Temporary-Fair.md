@@ -11,3 +11,7 @@ Singapore Food Agency (SFA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1905101601000342" type="primary" %}
+
+### Application Details
+<p>You will need this permit to hold various types of trade fair.</p>
+

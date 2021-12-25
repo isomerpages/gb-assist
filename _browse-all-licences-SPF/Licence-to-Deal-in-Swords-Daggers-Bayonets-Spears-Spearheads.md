@@ -11,3 +11,7 @@ Singapore Police Force (SPF)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=249" type="primary" %}
+
+### Application Details
+<p>A licence for company to Deal in Swords, Daggers, Bayonets, Spear and Spearheads. "Deal in" includes repair, sell, keep or expose for sale.</p>
+

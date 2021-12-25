@@ -11,3 +11,8 @@ Housing & Development Board (HDB)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=20" type="primary" %}
+
+### Application Details
+<p>HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property.</p>
+<p>Only the flat owner(s) or other authorised persons approved by HDB to stay in the flat (i.e. authorised occupier/ tenant who rents a flat directly from HDB) are allowed to apply for the Home Office Scheme (HOS). &nbsp;The business must comply with the criteria and conditions of use for Home Office Scheme. For more details, please click <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-business/home-office-scheme/guidelines%20Link%20to%20Living%20Quarters%20of%20HDB%20Commercial">here</a> for HDB Residential Flats and <a href="https://www.hdb.gov.sg/cs/infoweb/business/commercial/managing-your-unit/change-of-use/use-of-shop-living-quarters">here</a> for Living Quarters of HDB Commercial Properties.</p>
+

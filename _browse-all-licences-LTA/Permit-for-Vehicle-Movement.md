@@ -11,3 +11,7 @@ Land Transport Authority (LTA)
 Print SPCP Here
 
 {% include button.html text="Apply on LTA" src="https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx" type="primary" %}
+
+### Application Details
+<p>Effective from 1 Nov 2010, the administration of vehicles which exceed the width and length requirements is transferred from Traffic Police to Land Transport Authority (LTA). This will be managed by LTA through LTA.PROMPT, together with the notification regime for overweight vehicles.</p>
+

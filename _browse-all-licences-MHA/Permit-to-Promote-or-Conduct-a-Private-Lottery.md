@@ -11,3 +11,7 @@ Ministry of Home Affairs (MHA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=279" type="primary" %}
+
+### Application Details
+<p>Under the Private Lotteries Act, a Private Lottery Permit is required for the promotion or conduct of any private lottery, which includes fruit machines, lucky draw and tombola.</p>
+

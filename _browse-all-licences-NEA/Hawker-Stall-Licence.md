@@ -11,3 +11,7 @@ National Environment Agency (NEA)
 Print SPCP Here
 
 {% include button.html text="Apply on NEA" src="https://www.nea.gov.sg/our-services/hawker-management/overview" type="primary" %}
+
+### Application Details
+<p>Stallholder in hawker centres.</p>
+

@@ -11,3 +11,7 @@ Maritime and Port Authority (MPA)
 Print SPCP Here
 
 {% include button.html text="Apply on MPA" src="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/licensing-of-harbour-craft/applying-or-renewing-the-port-limit-manning-licence" type="primary" %}
+
+### Application Details
+<p>All personnel operating harbour craft must possess a valid harbour craft manning licence.</p>
+

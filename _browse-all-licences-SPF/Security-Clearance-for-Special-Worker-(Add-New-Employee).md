@@ -11,3 +11,7 @@ Singapore Police Force (SPF)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/" type="primary" %}
+
+### Application Details
+Under the Guns, Explosives And Weapons Control Act, an approval is required for any employee employed by a Licensed company to handle any Guns or  Explosives. 
+

@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=15" type="primary" %}
+
+### Application Details
+<p>For distributing films (including videotapes, VCDs and DVDs but excluding cinematograph films).<br>For exhibiting films (including cinematograph films, videotapes, VCDs and DVDs) that are classified R21, M18 and NC16.</p>
+

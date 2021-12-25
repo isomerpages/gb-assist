@@ -11,3 +11,7 @@ Ministry of Health (MOH)
 Print SPCP Here
 
 {% include button.html text="Apply on MOH" src="https://elis.moh.gov.sg/elis/index.do?task=home" type="primary" %}
+
+### Application Details
+<p>For nursing persons suffering or convalescing from any sickness, injury or infirmity.</p>
+

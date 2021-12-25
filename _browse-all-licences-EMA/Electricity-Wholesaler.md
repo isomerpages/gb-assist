@@ -11,3 +11,32 @@ Energy Market Authority (EMA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=282" type="primary" %}
+
+### Application Details
+<p>Required for trading in wholesale electricity market through electricity generated or load reduction</p>
+<p><u>Wholesaler Generation</u></p>
+<p>A company is required to hold a Electricity Wholesaler Licence issued by the EMA if it generates electricity by means of one or more generating units of 1 MW or more but less than 10 MW and the generating unit(s) is connected to the power grid.</p>
+<p>For generating unit(s) of less than 1 MW that wish to be paid for the electricity it exports to the power grid, the generating unit(s) must be registered with the Energy Market Company and may have to compete to secure dispatch in the National Electricity Market of Singapore. If the aggregate capacity of the generating units owned by the company in a single location exceeds 10 MW in total, these generating units will have to bid in the electricity market to secure dispatch.&nbsp;</p>
+<p><u>Demand Side Participation ("DSP")</u><br />A consumer can participate in the wholesale electricity market through reducing their load during times of high wholesale electricity price or system supply shortage under the&nbsp;<u>Demand Response Programme ("DRP")</u>&nbsp;and&nbsp;<u>Interruptible Load Scheme ("ILS")</u></p>
+<p>A company is required to hold a Electricity Wholesaler Licence issued by EMA if it wishes to offer either individual load facility or aggregated load facilities of multiple contestable consumers within the same specific zone to be reduced.</p>
+<p></p>
+<p><strong>FAQ</strong></p>
+<p><strong>For Wholesaler Generation</strong></p>
+<p><u><strong>1) Do I need to apply for this licence?</strong></u></p>
+<p>You need to apply for an Electricity Wholesaler Licence to trade electricity in a wholesale electricity market operated by the Market Company if the generating unit:</p>
+<p>(a) Has a nameplate capacity of 1MW or more but less than 10MW; and</p>
+<p>(b) Is going to be connected to the electricity transmission system.</p>
+<p>For more information on intermittent generation sources and the criteria above, please refer to EMA's website (<a href="https://www.ema.gov.sg/Renewable_Energy.aspx" target="_blank" rel="noopener">https://www.ema.gov.sg/Renewable_Energy.aspx</a>).&nbsp;&nbsp;</p>
+
+<p><u><strong>2) Does the licence guarantee a registration to the Market Company?</strong></u></p>
+<p>The issuance of a licence does not guarantee registration by the Market Company for participation in the Wholesale Electricity Market in Singapore.</p>
+<p><u><strong>3) Are there any regulations for the licensee to to comply to?</strong></u></p>
+<p>The Licensee shall be subject to and shall comply with any codes of practice and standards of performance issued or approved under Section 16 of the Electricity Act that apply to the Licensee.</p>
+<p class="heading"><strong>For Demand Side Participation</strong></p>
+<p><u><strong>1) Do I need to apply for this licence?</strong></u></p>
+<p>Any person who wishes to engage in the following:</p>
+<p>(a) Demand response service in the wholesale electricity market; and/or</p>
+<p>(b) Interruptible load service in the wholesale electricity market</p>
+<p>will have to apply for an Electricity Wholesaler Licence unless he already holds a retail electricity licence.</p>
+<p>Besides applying for the above electricity licence(s), he will also need to register with the Energy Market Company (EMC) under the Market Rules.</p>
+

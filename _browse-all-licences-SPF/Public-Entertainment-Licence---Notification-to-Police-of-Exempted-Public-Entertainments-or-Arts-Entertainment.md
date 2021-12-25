@@ -11,3 +11,7 @@ Singapore Police Force (SPF)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=52" type="primary" %}
+
+### Application Details
+<p>Licence is not required for the listed public entertainments or arts entertainment activities provided that the organiser adheres to the exemption conditions. Otherwise, organiser is to apply for the appropriate public entertainment or arts entertainment licence.</p>
+

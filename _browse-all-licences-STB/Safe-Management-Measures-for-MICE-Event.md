@@ -11,3 +11,4 @@ Singapore Tourism Board (STB)
 Print SPCP Here
 
 {% include button.html text="Apply on STB" src="https://www.stb.gov.sg/content/stb/en/home-pages/advisory-for-MICE.html" type="primary" %}
+

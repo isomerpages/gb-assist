@@ -11,3 +11,7 @@ Singapore Police Force (SPF)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=259" type="primary" %}
+
+### Application Details
+<p>A licence for a company to withdraw and move explosives for Rock Blasting Operations or for pyrotechnics display.</p>
+

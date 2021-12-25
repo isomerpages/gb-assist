@@ -11,3 +11,7 @@ Singapore Police Force (SPF)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=265" type="primary" %}
+
+### Application Details
+<p>For the application of Road Closure Permit, Event Organisers can request for a road and/or lane closure to conduct an event on the road. All requests for road closure will be assessed on a case-by-case basis.</p>
+

@@ -11,3 +11,7 @@ Infocomm Media Development Authority (IMDA)
 Print SPCP Here
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33" type="primary" %}
+
+### Application Details
+<p>For transmitting and/or receiving messages or data by means of satellite communications.</p>
+
