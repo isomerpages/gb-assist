@@ -1,5 +1,5 @@
 collections:
-  browse-all-licences-URA:
+  browse-all-licences-SCDF:
     output: true
     order:
       - back-to-all-licences.md
