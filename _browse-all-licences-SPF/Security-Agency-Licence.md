@@ -27,7 +27,7 @@ Business Profile Documents
 Company Documents (Business Plan, Latest Business Profile , Confirmation Letter for Business Name Search) Latest Business Profile (within 7 Days from the date of generation and date of application submission)
 
 Individual Profile Documents
-Personal Identification Documents ( Copy of NRIC for Singaporean and Singaporean PR, Copy of Employment Pass for FIN holder, Copy of Passport for Foreigner and Copy of Malaysian IC for Malaysian) Documents of Experience (Curriculum Vitae including Employment details, Education Certificate and Training details) WSQ – NSRS Assessment Result Slip from WDA People Profile from ACRA
+Personal Identification Documents ( Copy of NRIC for Singaporean and Singaporean PR, Copy of Employment Pass for FIN holder, Copy of Passport for Foreigner and Copy of Malaysian IC for Malaysian) Documents of Experience (Curriculum Vitae including Employment details, Education Certificate and Training details) WSQ - NSRS Assessment Result Slip from WDA People Profile from ACRA
 
 Others
 Statutory declaration made before the Commissioner of Oath for the foreign directors holding Employment Pass Certificate of no criminal conviction from Country/Region of origin for director who is not stationed in Singapore Original undertaking letter for the foreign director that they are not involved or engaged themselves in private investigation work or activity in Singapore (Applicable for PIA Licence Only)

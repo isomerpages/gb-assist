@@ -25,7 +25,7 @@ With effect from 1 April 2021, the Hazardous Substances Permit costs $160.00 and
 ### Documents Needed
 
 Industrial Allocation Approval
-No-Objectionù Letter from the owner of premises or supplier
+No-Objection Letter from the owner of premises or supplier
 Emergency Response Plan
 ACRA Business Profile
 NRIC or Employment Pass

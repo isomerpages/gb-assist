@@ -40,9 +40,9 @@ a) a Singaporean or Permanent Resident of Singapore
 b) at least 21 years old at the time of application
 
 c) must be the following business stakeholders as registered with the Accounting and Corporate Regulatory Authority (ACRA)
-i) A Director – for companies
-ii) A Partner – for partnerships, limited partnerships (LP) and limited liability partnerships (LLP)
-iii) The Sole Proprietor – for sole proprietorships
+i) A Director - for companies
+ii) A Partner - for partnerships, limited partnerships (LP) and limited liability partnerships (LLP)
+iii) The Sole Proprietor - for sole proprietorships
 
 d) The applicant, directors / partners and staff who will be directly involved in the handling of explosives must fulfil the following criteria:
 i) be fit and proper person e.g free from criminal record; and

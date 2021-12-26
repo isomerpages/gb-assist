@@ -25,7 +25,7 @@ Licence Fee: to be determined
 
 The attachment should contain a Earth Station System Block Diagram and Description.
 
-Please provide the equipment Rack Diagram with Panel Layout showing functional units – Transmitter, receiver, up/down converter, module/demodulator, monitor and control, baseband(audio/video) data interface, power supply and others (to specify).
+Please provide the equipment Rack Diagram with Panel Layout showing functional units - Transmitter, receiver, up/down converter, module/demodulator, monitor and control, baseband(audio/video) data interface, power supply and others (to specify).
 
 The attachment should contain the following:
 a. Horizontal Elevation of Earth Station

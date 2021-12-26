@@ -35,9 +35,9 @@ The applicant must be;
 a) a Singaporean or Permanent Resident of Singapore
 b) at least 21 years old at the time of application
 c) must be the following business stakeholders as registered with the Accounting and Corporate Regulatory Authority (ACRA)
-i) A Director – for companies
-ii) A Partner – for partnerships, limited partnerships (LP) and limited liability partnerships (LLP)
-iii) The Sole Proprietor – for sole proprietorships
+i) A Director - for companies
+ii) A Partner - for partnerships, limited partnerships (LP) and limited liability partnerships (LLP)
+iii) The Sole Proprietor - for sole proprietorships
 
 Applicant must ensure that they have appropriate and secure facilities for the storage of explosive licence. Explosives must be stored in an approved magazine. Do contact the Police Licensing and Regulatory Department on advice pertaining to the setting up of the storage facilities before applying.
 
