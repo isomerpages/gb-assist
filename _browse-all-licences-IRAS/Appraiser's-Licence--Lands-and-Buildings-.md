@@ -26,7 +26,7 @@ Print SPCP Here
 <p><strong>3) Is the licence issued to the individual and/or company?</strong></p>
 <p>The Appraiser's Licence is issued to an individual only.</p>
 <p><strong>4) What are the documents required for new licence application?</strong></p>
-<p>a) Copy of NRIC / FIN (front and back).<br />b) Copy of Real Estate degree certificate from NUS or its equivalent.<br />c) Copy of Singapore Institute of Surveyors and Valuers (SISV)&rsquo;s letter certifying your membership with the Valuation and General Practice council.<br />d) A Letter from the company where you will be acting as an appraiser for. For self-employed appraiser, please indicate your current employment status and your company details.<br />e) A testimonial from a licensed appraiser whom you have worked under his/her supervision and cite 3 key appraisers report prepared by you with supporting details.</p>
+<p>a) Copy of NRIC / FIN (front and back).<br />b) Copy of Real Estate degree certificate from NUS or its equivalent.<br />c) Copy of Singapore Institute of Surveyors and Valuers (SISV)'s letter certifying your membership with the Valuation and General Practice council.<br />d) A Letter from the company where you will be acting as an appraiser for. For self-employed appraiser, please indicate your current employment status and your company details.<br />e) A testimonial from a licensed appraiser whom you have worked under his/her supervision and cite 3 key appraisers report prepared by you with supporting details.</p>
 <p><strong>5) I have difficulty navigating through the application process, what should I do?</strong></p>
 <p>Please call GoBusiness Licensing helpdesk at 6774 1430 during support hours for assistance.</p>
 <p><strong>6) I am an existing licence holder, what do I have to do now?</strong></p>
@@ -70,12 +70,12 @@ Print SPCP Here
 <p><strong>2. Copy of Real Estate degree certificate from NUS or its equivalent</strong></p>
 <p><strong>3. Copy of Singapore Institute of Surveyors and Valuers (SISV)'s letter certifying your membership with the Valuation and General Practice council</strong></p>
 <strong>4. A testimonial from a licensed appraiser</strong>
-<p>A testimonial from a licensed appraiser to certify that the applicant can do appraiser work independently and quote the appraiser reports prepared by the applicant. Click <a href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Property/Property_professionals/Appraisers_Valuers/Form-Testimonial%20from%20Licensed%20Appraiser.pdf"><u>here</u> </a>to download template.</p>
+<p>A testimonial from a licensed appraiser to certify that the applicant can do appraiser work independently and quote the appraiser reports prepared by the applicant. Click <a href="https://www.iras.gov.sg/irashome/uploadedFiles/IRASHome/Property/Property_professionals/Appraisers_Valuers/Form-Testimonial%20from%20Licensed%20Appraiser.pdf"><u>here</u> </a>to download template.</p>
 <p><strong>5. A Letter from the company where you will be acting as an appraiser</strong></p>
 <p>A Letter from the company where you will be acting as an appraiser for, verifying that upon the issuance of the licence, you will be acting as an appraiser or valuer of the company. For self-employed appraiser, please indicates your current employment status and your company details.</p>
 <strong>6. Valuation Reports</strong>
 <p>Please upload 3 set of valuation reports which you have worked on as stated in the testimonial.</p>
-<p> </p>
+<p> </p>
 <p><strong>File format</strong>jpg,jpeg,gif,doc,docx,pdf</p>
 <p><strong>Maximum upload per application</strong>2 MB</p>
 

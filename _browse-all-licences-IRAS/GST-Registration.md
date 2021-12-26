@@ -23,9 +23,9 @@ Print SPCP Here
 
 ### Documents Needed
 
-<p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration">here</a> for more details.</p>
+<p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration">here</a> for more details.</p>
 
 ### Requirements
 
-<p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration">here</a> for more details.</p>
+<p>Click <a href="https://www.iras.gov.sg/taxes/goods-services-tax-(gst)/gst-registration-deregistration/applying-for-gst-registration">here</a> for more details.</p>
 

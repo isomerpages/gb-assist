@@ -15,11 +15,11 @@ Print SPCP Here
 
 ### Application Details
 
-<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#">here</a> for more details.</p>
+<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#">here</a> for more details.</p>
 
 ### Documents Needed
 
-<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Criteria-for-Registration-as-Charity.aspx#">here</a> for more details.</p>
+<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Criteria-for-Registration-as-Charity.aspx#">here</a> for more details.</p>
 
 ### Requirements
 
