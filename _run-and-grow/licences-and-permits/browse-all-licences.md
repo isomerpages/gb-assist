@@ -12,6 +12,10 @@ Select a government agency to see its licences and apply for them.
 
 {% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="a" %}
 
+## B
+
+{% include letter-accordion.html accordions=site.data.acc079-browse-all-licences letter="b" %}
+
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>
 <script src="/jquery/resize-tables.js"></script>
