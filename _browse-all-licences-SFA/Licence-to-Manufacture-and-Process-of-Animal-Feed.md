@@ -14,7 +14,7 @@ Print md SPCP Here CORPPASS
 
 ### Application Details
 
-<p>The Licence to Manufacture and Process of Animal Feed may be issued by either Animal 7 Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is issued for the manufacture and processing of animal feed in Singapore including pet treats like dog biscuits, pastries or confectionary items for sale at retail outlets.</p>
+<p>The Licence to Manufacture and Process of Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is issued for the manufacture and processing of animal feed in Singapore including pet treats like dog biscuits, pastries or confectionary items for sale at retail outlets.</p>
 <p><strong>FAQs</strong></p>
 <div>1.What is the validity of the licence?</div>
 <p>1 year</p>

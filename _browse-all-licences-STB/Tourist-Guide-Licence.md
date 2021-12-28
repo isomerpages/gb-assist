@@ -31,7 +31,7 @@ Print md SPCP Here BOTH
 <li>Submit 1 recent coloured passport size photograph. (needs to be updated)</li>
 <li>No outstanding Medisave liabilities or have arranged for instalment payment.</li>
 <li>Valid Work Pass only required for Work Pass Holders.</li>
-<li>Medical report only required for tourist guides age 65 7 above.</li>
+<li>Medical report only required for tourist guides age 65 & above.</li>
 </ol>
 <p>To submit via<a href="https://trust.stb.gov.sg/">TRUST</a>before licence expires.</p>
 <p></p>

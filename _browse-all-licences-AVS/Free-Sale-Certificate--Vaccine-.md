@@ -15,10 +15,10 @@ Print md SPCP Here CORPPASS
 ### Application Details
 
 <p><strong>Description</strong></p>
-<p>The Free Sale Certificate for Vaccine allows exporters to get Animal 7 Veterinary Service endorsement for their vaccine intended for export.</p>
+<p>The Free Sale Certificate for Vaccine allows exporters to get Animal & Veterinary Service endorsement for their vaccine intended for export.</p>
 <p><strong>FAQs</strong></p>
 <p>1.Where can I get the FAQ for Free Sale Certificate for Animal (Veterinary) vaccines?</p>
-<p>You can get the FAQ on this link: Animal 7 Veterinary Service FAQ website;<a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a></p>
+<p>You can get the FAQ on this link: Animal & Veterinary Service FAQ website;<a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a></p>
 
 **Additional Information**
 

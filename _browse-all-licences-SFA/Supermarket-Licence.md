@@ -106,7 +106,7 @@ Print md SPCP Here BOTH
 <p>Q: I operate a pub/ discotheque and intend to have a drink counter selling alcoholic drinks. Do I need to apply for a licence?</p>
 <p>A: Yes. You will need to apply for a food shop licence if you intend to operate a drink or snack counter in your premises.</p>
 <p>Q: I am a foreigner with a valid employment pass issued by MOM. Can I apply for the licence in my name?</p>
-<p>A: No. You will have to form a company that is registered with the Accounting 7 Corporate Regulatory Authority (ACRA) (formerly Registry of Companies and Business (RCB)) and apply for the licence in the company's name.</p>
+<p>A: No. You will have to form a company that is registered with the Accounting & Corporate Regulatory Authority (ACRA) (formerly Registry of Companies and Business (RCB)) and apply for the licence in the company's name.</p>
 <p>Q: Can I update, renew or terminate my food shop licence through GoBusiness Licensing?</p>
 <p>A: Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing by going to<a href="https://licence1.business.gov.sg/">https://licence1.business.gov.sg</a>.</p>
 <p>Q: Where can I obtain information on the general design of a food retail outlet?</p>
@@ -120,7 +120,7 @@ Print md SPCP Here BOTH
 <p>Q: I have taken over an existing food shop but I am unable to contact the previous licensee to surrender/cancel his licence for the same premises. How do I apply for the licence in this instance?</p>
 <p>A: You can still submit your application together with all the supporting documents to us. However, for such cases, we will need to write to the previous licensee to confirm whether he is still operating the business at the said premises. If the previous licensee indicates that he is no longer operating the said premises or did not response, then we can proceed to process your application. The processing time for such cases will take about 2 weeks.</p>
 <p>Q: I intend to set up a food premises that make food items (eg. buns, breads, nasi lemak, otah etc) for supply to other food shops and food stalls. Do I need to apply for a food shop licence?</p>
-<p>A: You need not apply for a supermarket licence if your proposed food business does not involve the retail sale of food directly to the customer. However, you may need to obtain a food factory licence from the Food Production 7 Processing Department (FPPD), SFA, for your proposed business.</p>
+<p>A: You need not apply for a supermarket licence if your proposed food business does not involve the retail sale of food directly to the customer. However, you may need to obtain a food factory licence from the Food Production & Processing Department (FPPD), SFA, for your proposed business.</p>
 <p>Q: Do I need to apply for a food shop licence if I were to prepare and cook food from my home for sale to the public?</p>
 <p>A: Please be informed that under the current regulations, it is an offence to sell home cooked food to the public.</p>
 

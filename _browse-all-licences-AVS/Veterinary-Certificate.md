@@ -15,7 +15,7 @@ Print md SPCP Here BOTH
 ### Application Details
 
 <p><strong>Description</strong></p>
-<p>The Veterinary Certificate may be issued by either Animal 7 Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for certification of health and/or testing of the animals for diseases required by the destination country/region.</p>
+<p>The Veterinary Certificate may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for certification of health and/or testing of the animals for diseases required by the destination country/region.</p>
 <p><strong>FAQs</strong></p>
 <p>1.Where can I get the FAQ for Veterinary Certificate?</p>
 <p>You can get the FAQ on this link: AVS FAQ website<a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a></p>

@@ -46,7 +46,7 @@ Print md SPCP Here CORPPASS
 <p>4. What other approvals do I need to obtain?</p>
 <p>If you are operating your Employment Agency from a residential premises, you will need to obtain the necessary approvals from the HDB (for public housing premises) or the URA (for private housing premises).</p>
 <p><br />5. How soon can my application be processed?</p>
-<p>A completed application with valid ACRA registration will be processed within 7 working days.</p>
+<p>A completed application with valid ACRA registration will be processed within & working days.</p>
 <p></p>
 <p>6. How much does this licence cost and how long is it valid?</p>
 <p>There is a S$400 upfront payment for licence application. Once your application is approved, you will need to make an additional payment of S$100 for licence issuance. The licence is valid for three years from date of issuance.</p>
@@ -59,7 +59,7 @@ Print md SPCP Here CORPPASS
 <p>Other EA personnel performing EA work as specified in the EA Act are required to pass the relevant CEI (Basic) test.</p>
 <p></p>
 <p>b. How do I register to attend the Certificate of Employment Intermediaries (CEI) Course?</p>
-<p>The CEI (Basic) and CEI (KAH) courses are conducted by Absolute Kinetics Consultancy Pte Ltd, Grace Management 7 Consultancy Services Pte Ltd and Singapore Polytechnic. EA personnel may choose from any of the course provider and may register with them directly. For further information of the course, please visit the<a href="http://www.mom.gov.sg/foreign-manpower/employment-agencies/Pages/CEI.aspx">CEI website</a>.</p>
+<p>The CEI (Basic) and CEI (KAH) courses are conducted by Absolute Kinetics Consultancy Pte Ltd, Grace Management & Consultancy Services Pte Ltd and Singapore Polytechnic. EA personnel may choose from any of the course provider and may register with them directly. For further information of the course, please visit the<a href="http://www.mom.gov.sg/foreign-manpower/employment-agencies/Pages/CEI.aspx">CEI website</a>.</p>
 <p>The CEI Test Administrator for both the CEI (Basic) and CEI (KAH) is the NTUC LearningHub Pte Ltd. EA personnel sitting for the test must register directly with the Test Administrator.</p>
 <p></p>
 <p><u>Declaration of Affiliation</u></p>

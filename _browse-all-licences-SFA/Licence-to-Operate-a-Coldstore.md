@@ -14,7 +14,7 @@ Print md SPCP Here CORPPASS
 
 ### Application Details
 
-<p>In Singapore, all cold stores for meat 7 seafood products must be licensed by the Singapore Food Agency before they are permitted to carry out any storage for wholesale distribution.</p>
+<p>In Singapore, all cold stores for meat & seafood products must be licensed by the Singapore Food Agency before they are permitted to carry out any storage for wholesale distribution.</p>
 <p><strong>FAQs</strong></p>
 <p>1. Where can I get the FAQ for Licence to Operate a Coldstore?</p>
 <p>You can get the FAQ on this link: SFA FAQ website at</p>

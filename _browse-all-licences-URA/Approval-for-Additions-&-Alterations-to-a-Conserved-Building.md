@@ -14,7 +14,7 @@ Print md SPCP Here BOTH
 
 ### Application Details
 
-<p>You will need approval from Urban Redevelopment Authority before you can carry out any Additions 7 Alterations to your conserved building.</p>
+<p>You will need approval from Urban Redevelopment Authority before you can carry out any Additions & Alterations to your conserved building.</p>
 <p><strong>FAQ</strong></p>
 <p>1. Where can I get more information?</p>
 <p>You can get more information at this link below:<br /><a href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Additions-Alterations" target="_blank" rel="noopener">https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Additions-Alterations</a></p>

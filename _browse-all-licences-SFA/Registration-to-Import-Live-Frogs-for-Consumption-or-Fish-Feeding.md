@@ -14,7 +14,7 @@ Print md SPCP Here CORPPASS
 
 ### Application Details
 
-<p>The Registration to Import Live Frogs for Human Consumption or Ornamental Fish Feeding may be issued by either Animal 7 Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This registration is issued to importers to import live frogs.</p>
+<p>The Registration to Import Live Frogs for Human Consumption or Ornamental Fish Feeding may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This registration is issued to importers to import live frogs.</p>
 <p><strong>FAQs</strong></p>
 <p>Not available!</p>
 

@@ -20,7 +20,7 @@ Print md SPCP Here BOTH
 <p>Yes, you need to obtain HDB's written consent for the Resale / Transfer of Commercial Properties if you own an HDB shop and wish to dispose it in the open market or would like to transfer your share of the property to another person(s).</p>
 <p>Online application must be submitted by the transferors' solicitors who have to ensure that all particulars given are true and correct with the authorisation of the transferors and transferees. The transferors and transfereesmust also jointly and severally agree to the Terms and Conditions for Resale / Transfer of an HDB shop. Should the parties agree upon it, the transferees' solicitor may also submit the online application and the necessary authorisation.</p>
 <p>2) What conditions do I need to fulfill?</p>
-<p>You may<a href="https://www.hdb.gov.sg/-/media/doc/PLG/terms-and-conditions-resale.pdf">click here</a>for the Terms 7 Conditions for Resale / Transfer of Commercial Properties to read more. You may also download a copy of the Resale / Transfer Terms and Conditions for your reference.</p>
+<p>You may<a href="https://www.hdb.gov.sg/-/media/doc/PLG/terms-and-conditions-resale.pdf">click here</a>for the Terms & Conditions for Resale / Transfer of Commercial Properties to read more. You may also download a copy of the Resale / Transfer Terms and Conditions for your reference.</p>
 <p>3) What supporting documents do I need to submit?</p>
 <ol>
 <li>Photocopies of sellers and buyers' NRICs</li>
@@ -29,7 +29,7 @@ Print md SPCP Here BOTH
 <li value="2">Letter from the transferors' or transferees' solicitor (who is submitting the on-line application) confirming he / she is acting on behalf of the transferors / transferees as per Clause 6 of the Resale / Transfer Terms and Conditions</li>
 </ol>
 <ol>
-<li value="3">Latest Business Registration Record from Accounting 7 Corporate Regulatory Authority (ACRA) (For Pte Ltd Co)</li>
+<li value="3">Latest Business Registration Record from Accounting & Corporate Regulatory Authority (ACRA) (For Pte Ltd Co)</li>
 </ol>
 <ol>
 <li value="4">Company's Resolution (For Pte Ltd Co)</li>
@@ -110,7 +110,7 @@ Print md SPCP Here BOTH
 </tr>
 <tr>
 <td>
-<p>Proposed trade involving change of use 7 need further evaluation (eg. Market produce shop, Supermarket)</p>
+<p>Proposed trade involving change of use & need further evaluation (eg. Market produce shop, Supermarket)</p>
 </td>
 </tr>
 <tr>
@@ -171,17 +171,17 @@ Print md SPCP Here BOTH
 <p></p>
 <p>6) Who can I contact for further details?</p>
 <p>You may call our hotline @ 1800-8663073 or submit your enquiry via<a href="http://www.hdb.gov.sg/efeedback">HDB Feedback Form</a>. You may also write in to:</p>
-<p>Properties 7 Land Group<br />Housing 7 Development Board<br />480 Lor 6 Toa Payoh<br />Atrium 3rd Storey HDB Hub<br />Singapore 310480</p>
+<p>Properties & Land Group<br />Housing & Development Board<br />480 Lor 6 Toa Payoh<br />Atrium 3rd Storey HDB Hub<br />Singapore 310480</p>
 <p>7) What is the application process like?</p>
 <p><strong>Steps to apply for Resale / Transfer of HDB Commercial Properties</strong></p>
 <ol>
-<li>Check the validity of HDB premises address 7 whether the Lease has been issued.</li>
-<li>Read the terms 7 conditions for the application.</li>
+<li>Check the validity of HDB premises address & whether the Lease has been issued.</li>
+<li>Read the terms & conditions for the application.</li>
 <li>Key in the premises details, transferors / transferees particulars and the details of resale / transfer.</li>
 <li>Indicate choice of request for inspection or waiver of inspection (where applicable).</li>
 <li>Submit requisite payment for the application.</li>
 <li>Print the application form, receipt and acknowledgement letter (for lodgement cases). For application cases, HDB will revert to applicant within 14 working days from the completion of the inspection and receipt of all supporting documents.</li>
-<li>Upon completion to forward a certified true copy of the Transfer Instrument (Lease issued), Agreement for Lease 7 Deed of Assignment (Lease not been issued) to HDB for updating.</li>
+<li>Upon completion to forward a certified true copy of the Transfer Instrument (Lease issued), Agreement for Lease & Deed of Assignment (Lease not been issued) to HDB for updating.</li>
 </ol>
 <p>8) Where do I get the 3rd Party Authorisation Form?</p>
 <p>The 3rd Party Authorisation Form is to be drafted by the filer. The required content for the form is summarised and displayed when the filer checks the declaration box in the application.</p>

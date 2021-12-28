@@ -23,7 +23,7 @@ Print md SPCP Here BOTH
 <p></p>
 <p>2) What conditions do I need to fulfill?</p>
 <p>The criteria for approval are as follows:</p>
-<p>(i) Eligibility of Applicant.<br />Only the following can apply for a licence:<br /> (a) Singaporean or Permanent Resident for an individual (for Scheme B licences)<br /> (b) Company registered with the Accounting 7 Corporate Regulatory Authority (ACRA)<br /> (c) Association/ Society registered with Registrar of Societies Application by a firm registered as a Business with ACRA (formerly RCB) cannot be accepted. The sole proprietor or active partner must apply for a licence in his name</p>
+<p>(i) Eligibility of Applicant.<br />Only the following can apply for a licence:<br /> (a) Singaporean or Permanent Resident for an individual (for Scheme B licences)<br /> (b) Company registered with the Accounting & Corporate Regulatory Authority (ACRA)<br /> (c) Association/ Society registered with Registrar of Societies Application by a firm registered as a Business with ACRA (formerly RCB) cannot be accepted. The sole proprietor or active partner must apply for a licence in his name</p>
 <p>(ii) Compliance with the bus service guidelines.<br />For details on the type of bus services, please refer to<a href="https://www.lta.gov.sg/content/ltaweb/en/public-transport/buses/licensing-of-buses.html" target="_blank" rel="noopener">https://www.lta.gov.sg/content/ltaweb/en/public-transport/buses/licensing-of-buses.html</a></p>
 <p>(iv) Submission of relevant supporting documents</p>
 <p></p>

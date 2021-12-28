@@ -47,7 +47,7 @@ Print md SPCP Here CORPPASS
 <p>8a What should I do if my company/ factory ceases its operation?</p>
 <p>Please inform PUB in writing (to the emails stated in Q6 above). Your Written Approval will be revoked and any deposit paid (applicable to those paying monthly trade effluent fees) will be refunded after the deduction of any outstanding bills.</p>
 <p>8b What should I do if my company/ factory has shifted to the new location or has changed its status (like change from Partnership/ sole-proprietor ship to limited private company)?</p>
-<p>Please inform PUB in writing (to the emails stated in Q6 above) together with an updated business registration certificate from the Accounting 7 Corporate Regulatory Authority (ACRA). You will need to apply for a new Written Approval for the new premises.</p>
+<p>Please inform PUB in writing (to the emails stated in Q6 above) together with an updated business registration certificate from the Accounting & Corporate Regulatory Authority (ACRA). You will need to apply for a new Written Approval for the new premises.</p>
 <p>8c What should I do if my company/ factory has changed its name?</p>
 <p>Please inform PUB in writing (to the email stated in Q6 above) together with an updated business registration certificate from ACRA. We will inform you of the change of your company's name in the Written Approval. A new Written Approval is not necessary.</p>
 <p>8d Any other matters I should take note or notify PUB?</p>

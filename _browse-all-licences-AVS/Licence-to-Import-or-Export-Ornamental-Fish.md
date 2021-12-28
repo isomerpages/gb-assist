@@ -15,9 +15,9 @@ Print md SPCP Here CORPPASS
 ### Application Details
 
 <p><strong>Description</strong></p>
-<p>The Licence to Import or Export Ornamental Fish is issued by Animal 7 Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
+<p>The Licence to Import or Export Ornamental Fish is issued by Animal & Veterinary Service to traders who wishes to import, export or transship ornamental fish.</p>
 <p><strong>FAQs</strong></p>
-<p>1.Where can I get the FAQ for Licence for Import 7 Export of Ornamental Fish?</p>
+<p>1.Where can I get the FAQ for Licence for Import & Export of Ornamental Fish?</p>
 <p>You can get the FAQ on this link: AVS FAQ website <a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a></p>
 
 **Additional Information**

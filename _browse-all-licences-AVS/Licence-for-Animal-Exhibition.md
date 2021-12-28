@@ -15,7 +15,7 @@ Print md SPCP Here BOTH
 ### Application Details
 
 <p><strong>Description</strong></p>
-<p>The Licence for Animal Exhibition is issued by Animal 7 Veterinary Service to use a premise for animal display, exhibition, performance or distribution.</p>
+<p>The Licence for Animal Exhibition is issued by Animal & Veterinary Service to use a premise for animal display, exhibition, performance or distribution.</p>
 <p><strong>FAQs</strong></p>
 <p>1.Where can I get the FAQ for Licence for Animal Exhibition?</p>
 <p>You can get the FAQ on this link: AVS FAQ website at</p>

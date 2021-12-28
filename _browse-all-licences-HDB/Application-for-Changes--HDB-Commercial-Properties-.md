@@ -21,7 +21,7 @@ Print md SPCP Here BOTH
 <p>For Change of Company Name (with no change in UEN and no change of partners / shareholders or shareholding), you may<a href="https://services2.hdb.gov.sg/webapp/AA15NOTI/AA15NOTIPAppl.jsp" target="_blank" rel="noopener">click here</a>to submit an update form to HDB.</p>
 <p>HDB Commercial Owners may submit this application if they are renting out their living quarters to new occupants from 1 May 18.</p>
 <p>2) What conditions do I need to fulfill?</p>
-<p>Please<a href="http://www.hdb.gov.sg/cs/infoweb/application-for-tenancy-change-of-hdb-commercial-properties/terms-and-conditions" target="_blank" rel="noopener">click here</a>to read the Terms 7 Conditions for Application for Changes (HDB Commercial Properties).</p>
+<p>Please<a href="http://www.hdb.gov.sg/cs/infoweb/application-for-tenancy-change-of-hdb-commercial-properties/terms-and-conditions" target="_blank" rel="noopener">click here</a>to read the Terms & Conditions for Application for Changes (HDB Commercial Properties).</p>
 <p>3) How soon can my application be processed?</p>
 <p>The processing time frame is within 1 to 14 days upon HDB's verification of the information as declared in the online application and receipt ofsupporting documents.</p>
 <p>4) How much is the application fee?</p>
@@ -42,11 +42,11 @@ Print md SPCP Here BOTH
 <p>Assignment</p>
 </td>
 <td>
-<p>a) Copy of NRIC of Sole-Proprietor/Partner/authorised representative for Pte Ltd Co (Assignor 7 Assignee)</p>
+<p>a) Copy of NRIC of Sole-Proprietor/Partner/authorised representative for Pte Ltd Co (Assignor & Assignee)</p>
 <p></p>
-<p>b) Updated Copy of ACRA business registration printout (Assignor 7 Assignee)</p>
-<p><br />c) For Pte Ltd, Company's/Director's Resolution (Assignor 7 Assignee) and Memorandum/Articles of Association (Assignee)</p>
-<p><br />d) For Societies, a List of Authorised Office Bearer(s) (Assignor 7 Assignee) and Constitution (Assignee)</p>
+<p>b) Updated Copy of ACRA business registration printout (Assignor & Assignee)</p>
+<p><br />c) For Pte Ltd, Company's/Director's Resolution (Assignor & Assignee) and Memorandum/Articles of Association (Assignee)</p>
+<p><br />d) For Societies, a List of Authorised Office Bearer(s) (Assignor & Assignee) and Constitution (Assignee)</p>
 <p><br />e) For Assignee who is taking over the premises and will continue to rent out to the current (sub)tenant, both the Assignee and the (sub)tenantare to give a written confirmation regarding the continuation of their rentalat the premises.</p>
 <p><br />f) Assignee's confirmation that they are aware they will not be allowed to assign the premises in future.</p>
 <p><br />g)For premises let out with specific trade conditions e.g. no sale of liquor, no change of trade/use etc, the assignee must provide written consent to comply.</p>
@@ -57,10 +57,10 @@ Print md SPCP Here BOTH
 <p>Change Mode of Business/Transfer to Next-of-Kin/Transfer to Holding or Subsidiary Co</p>
 </td>
 <td>
-<p>a) Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Existing 7 Proposed Tenant)</p>
+<p>a) Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Existing & Proposed Tenant)</p>
 <p></p>
-<p>b) Copy of up-to-date ACRA business registration printout (Existing 7 Proposed Tenant)</p>
-<p><br />c) For Pte Ltd, Company's/Director's Resolution (Existing 7 Proposed Tenant) and Memorandum/Articles of Association (Proposed Tenant)</p>
+<p>b) Copy of up-to-date ACRA business registration printout (Existing & Proposed Tenant)</p>
+<p><br />c) For Pte Ltd, Company's/Director's Resolution (Existing & Proposed Tenant) and Memorandum/Articles of Association (Proposed Tenant)</p>
 <p><br />d) Copy of Marriage Certificate/Birth Certificate (Existing or Proposed Tenant who are Next-of-Kins)</p>
 <p><br />e) For premises let out with specific trade conditions e.g. no sale of liquor, no change of trade/use etc, the assignee must provide written consent to comply.</p>
 </td>
@@ -96,7 +96,7 @@ Print md SPCP Here BOTH
 <p></p>
 </td>
 <td>
-<p>a) Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Tenant 7 (Sub)Tenant)</p>
+<p>a) Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Tenant & (Sub)Tenant)</p>
 <p><br />b) Copy of up-to-date ACRA business registration printout [Tenant and (Sub)Tenant]<br /></p>
 <p>c) For Pte Ltd, Company's/ Director's Resolution (Tenant)</p>
 <p><br />d) Layout Plan (with dimensions and highlighting the area to be rented out)and details of proposed operation.</p>
@@ -108,7 +108,7 @@ Print md SPCP Here BOTH
 <p><strong><em>Note : Please note that the above list is non-exhaustive, HDB may request for additional supporting documents for processing of the application.</em></strong></p>
 <p>6) Who can I contact for further details?</p>
 <p>You may call HDB Commercial Hotline at 1800-8663073 or submit your enquiry via<a href="http://www.hdb.gov.sg/efeedback" target="_blank" rel="noopener">HDB Feedback Form</a>. You may also write in to :</p>
-<p>Properties 7 Land Group<br />Housing 7 Development Board<br />480 Lor 6 Toa Payoh<br />Atrium 3rd Storey HDB Hub<br />Singapore 310480</p>
+<p>Properties & Land Group<br />Housing & Development Board<br />480 Lor 6 Toa Payoh<br />Atrium 3rd Storey HDB Hub<br />Singapore 310480</p>
 <p>7a) Who is the applicant or 3rd party filer?</p>
 <p>The applicant is the existing tenant or proposed tenant (For assignment / transfer applications only). 3rd party filer refers to other parties apart from the existing or proposed tenant e.g. an agent, acting solicitor or proposed (Sub)Tenant, 3rd party filer should provide an authorisation letter from the existing or proposed tenant as a supporting document. For assignment application, authorisation letter from the assignee is also required for 3rd party filer.</p>
 <p>7b) Where do I get the 3rd Party Authorisation Letter?</p>
@@ -123,19 +123,19 @@ Print md SPCP Here BOTH
 <p><strong>All types of applications / existing owners</strong><br />Authorisation Letter fromall existing tenants/existing owners(i.e. the sole proprietor, all partners, authorized Company Representative or Authorised Office Bearer) andall proposed tenants (if any)stating that the filer/applicant is authorized to submit the online application on their behalf. Please also state the details of the type of application (e.g. Change Mode of Business/Change of Partners/Transfer to Next-of-Kin) in the Letter of Authorisation.</p>
 <p><strong>Assignment</strong></p>
 <ol type="">
-<li>Copy of NRIC of Sole-Proprietor/Partner/authorised representative for Pte Ltd Co (Assignor 7 Assignee)</li>
-<li>Updated Copy of ACRA business registration printout (Assignor 7 Assignee)</li>
-<li>For Pte Ltd, Company's/Director's Resolution (Assignor 7 Assignee) and Memorandum/Articles of Association (Assignee)</li>
-<li>For Societies, a List of Authorised Office Bearer(s) (Assignor 7 Assignee) and Constitution (Assignee)</li>
+<li>Copy of NRIC of Sole-Proprietor/Partner/authorised representative for Pte Ltd Co (Assignor & Assignee)</li>
+<li>Updated Copy of ACRA business registration printout (Assignor & Assignee)</li>
+<li>For Pte Ltd, Company's/Director's Resolution (Assignor & Assignee) and Memorandum/Articles of Association (Assignee)</li>
+<li>For Societies, a List of Authorised Office Bearer(s) (Assignor & Assignee) and Constitution (Assignee)</li>
 <li>For Assignee who is taking over the premises and will continue to rent out to the current (sub)tenant, both the Assignee and the (sub)tenant are to give a written confirmation regarding the continuation of their rental at the premises.</li>
 <li>Assignee's confirmation that they are aware they will not be allowed to assign the premises in future.</li>
 <li>For premises let out with specific trade conditions e.g. no sale of liquor, no change of trade/use etc, the assignee must provide written consent to comply.</li>
 </ol>
 <p><strong>Change Mode of Business/Transfer to Next-of-Kin/Transfer to Holding or Subsidiary Co</strong></p>
 <ol type="">
-<li>Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Existing 7 Proposed Tenant)</li>
-<li>Copy of up-to-date ACRA business registration printout (Existing 7 Proposed Tenant)</li>
-<li>For Pte Ltd, Company's/Director's Resolution (Existing 7 Proposed Tenant) and Memorandum/Articles of Association (Proposed Tenant)</li>
+<li>Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Existing & Proposed Tenant)</li>
+<li>Copy of up-to-date ACRA business registration printout (Existing & Proposed Tenant)</li>
+<li>For Pte Ltd, Company's/Director's Resolution (Existing & Proposed Tenant) and Memorandum/Articles of Association (Proposed Tenant)</li>
 <li>Copy of Marriage Certificate/Birth Certificate (Existing or Proposed Tenant who are Next-of-Kins)</li>
 <li>For premises let out with specific trade conditions e.g. no sale of liquor, no change of trade/use etc, the assignee must provide written consent to comply.</li>
 </ol>
@@ -147,7 +147,7 @@ Print md SPCP Here BOTH
 </ol>
 <p><strong>Renting Out of Living Quarters for residential use - New Application / Change of (Sub)Tenant</strong></p>
 <ol type="">
-<li>Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Tenant/Owner 7 (Sub)Tenant)</li>
+<li>Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Tenant/Owner & (Sub)Tenant)</li>
 <li>Copy of up-to-date ACRA business registration printout (Tenant/Owner). If (Sub)Tenant is a Company, please also submit a copy of its up-to-date ACRA business registration printout.</li>
 <li>For Pte Ltd, Company's/Director's Resolution (Tenant/Owner)</li>
 <li>Copy of (Sub)Tenants'/Occupiers' Work Permits*/Employment Pass/S Pass/Student Pass/Dependant's Pass with validity of at least 6 months. (to be produced upon request by HDB).</li>
@@ -155,8 +155,8 @@ Print md SPCP Here BOTH
 <p>* Work Permit Holders from Construction, Manufacturing , Marine and Process sectors must be Malaysians.</p>
 <p><strong>Renting Out Part of Trading Area - New Application / Change of (Sub)Tenant</strong></p>
 <ol type="">
-<li>Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Tenant 7 (Sub)Tenant)</li>
-<li>Copy of up-to-date ACRA business registration printout (Tenant 7 (Sub)Tenant)</li>
+<li>Copy of NRIC of Sole-Proprietor/Partner/ authorised representative for Pte Ltd Co (Tenant & (Sub)Tenant)</li>
+<li>Copy of up-to-date ACRA business registration printout (Tenant & (Sub)Tenant)</li>
 <li>For Pte Ltd, Company's/ Director's Resolution (Tenant)</li>
 <li>Layout Plan (with dimensions and highlighting the area to be rented out) and details of proposed operation</li>
 </ol>

@@ -22,7 +22,7 @@ Print md SPCP Here CORPPASS
 
 <p><strong>Process Hazard Analysis</strong></p>
 <p>Process Hazard Analysis is only applicable for renewable registration ie. For : i. Bulk Storage (of Toxic or Flammable Liquid) Terminal; ii. Petrochemical Plant or Oil Refinery; or iii. Synthetic Polymer or Chemical Plant.</p>
-<p><strong>Workplace Safety 7 Health Management System (SHMS) Audit / Internal Review Documents</strong></p>
+<p><strong>Workplace Safety & Health Management System (SHMS) Audit / Internal Review Documents</strong></p>
 <p>(SHMS) Audit / Internal Review Documents is applicable for all factories except for those under the Factory Notification Scheme. If not submitted during application, documents is to be submitted within 2 month after issue of Certificate of Registration.</p>
 <p><strong>Major Hazard Installation (MHI) Assessment form</strong></p>
 <p>MHI assessment form is only applicable for registration of MHI. ie. Any premises processing, manufacturing or bulk storage of one or more dangerous substances specified in the First Schedule of<a href="http://statutes.agc.gov.sg/aol/search/display/view.w3p;page=0;query=CompId%3Ad0a5a91e-1319-499a-8fda-e401fae9663a;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FyearResults.w3p%3BpNum%3D5%3Btype%3DslGaz%3Byear%3D2017" target="_new"><u>WSH (MHI) Regulations</u></a>and meets the conditions specified under the Second Schedule of<a href="http://statutes.agc.gov.sg/aol/search/display/view.w3p;page=0;query=CompId%3Ad0a5a91e-1319-499a-8fda-e401fae9663a;rec=0;resUrl=http%3A%2F%2Fstatutes.agc.gov.sg%2Faol%2Fbrowse%2FyearResults.w3p%3BpNum%3D5%3Btype%3DslGaz%3Byear%3D2017" target="_new"><u>WSH (MHI) Regulations</u></a>.</p>

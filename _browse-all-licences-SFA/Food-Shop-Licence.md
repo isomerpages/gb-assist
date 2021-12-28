@@ -124,7 +124,7 @@ Print md SPCP Here BOTH
 <p>Q: Can I update, renew or terminate my food shop licence through GoBusiness Licensing?</p>
 <p>A: Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing.</p>
 <p>Q:What are the challenges of operating a F 7 B business?</p>
-<p>A:Please refer to the "Turning Passion into Profit"<a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">guide</a>to understand the challenges faced by the F 7 B industry and managing your business.</p>
+<p>A:Please refer to the "Turning Passion into Profit"<a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">guide</a>to understand the challenges faced by the F & B industry and managing your business.</p>
 
 **Additional Information**
 
