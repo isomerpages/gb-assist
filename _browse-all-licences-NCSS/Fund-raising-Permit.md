@@ -8,8 +8,7 @@ third_nav_title: National Council of Social Service (NCSS)
 
 National Council of Social Service (NCSS)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on NCSS" src="https://www.ncss.gov.sg/GatewayPages/Social-Service-Organisations/Funding,-Schemes-and-Common-Services/Benefit-Schemes/Fund-Raising-Permit" type="primary" %}
 

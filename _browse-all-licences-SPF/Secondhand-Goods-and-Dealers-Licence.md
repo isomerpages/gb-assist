@@ -8,8 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on SPF" src="https://www.police.gov.sg/e-Services/Police-Licences/Secondhand-Goods-Dealers-Licence" type="primary" %}
 

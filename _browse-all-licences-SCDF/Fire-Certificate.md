@@ -8,8 +8,7 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on SCDF" src="https://www.scdf.gov.sg/home/fire-safety/permits-and-certifications/fire-certificate" type="primary" %}
 

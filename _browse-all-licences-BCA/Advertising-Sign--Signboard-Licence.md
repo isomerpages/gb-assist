@@ -8,8 +8,7 @@ third_nav_title: Building and Construction Authority (BCA)
 
 Building and Construction Authority (BCA)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on BCA" src="https://eservices.bca.gov.sg/advertisementlicence" type="primary" %}
 

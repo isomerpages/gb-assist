@@ -8,8 +8,7 @@ third_nav_title: Ministry of Education (MOE)
 
 Ministry of Education (MOE)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=37" type="primary" %}
 

@@ -8,8 +8,7 @@ third_nav_title: Land Transport Authority (LTA)
 
 Land Transport Authority (LTA)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on LTA" src="https://prompt.lta.gov.sg/WebUIPWAS/Login.aspx" type="primary" %}
 

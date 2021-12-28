@@ -8,8 +8,7 @@ third_nav_title: Urban Redevelopment Authority (URA)
 
 Urban Redevelopment Authority (URA)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on URA" src="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" type="primary" %}
 

@@ -8,8 +8,7 @@ third_nav_title: Ministry of Manpower (MOM)
 
 Ministry of Manpower (MOM)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=54" type="primary" %}
 

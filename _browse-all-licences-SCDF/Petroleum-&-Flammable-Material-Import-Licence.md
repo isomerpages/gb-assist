@@ -8,8 +8,7 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on SCDF" src="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=FMIBAPP" type="primary" %}
 

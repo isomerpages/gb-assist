@@ -8,8 +8,7 @@ third_nav_title: Majlis Ugama Islam Singapura (NAC)
 
 Majlis Ugama Islam Singapura (NAC)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on NAC" src="https://www.nac.gov.sg/whatwedo/support/sustaining-the-arts-during-covid-19/Safe-Management-Measures-for-the-Arts-and-Culture-Sector.html" type="primary" %}
 

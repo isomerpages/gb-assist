@@ -8,8 +8,7 @@ third_nav_title: Singapore Tourism Board (STB)
 
 Singapore Tourism Board (STB)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on STB" src="https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/licensing-overview/tourist-guide-licence.html#TouristGuideLicence" type="primary" %}
 

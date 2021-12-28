@@ -8,8 +8,7 @@ third_nav_title: Economic Development Board (EDB)
 
 Economic Development Board (EDB)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on EDB" src="https://sso.agc.gov.sg/Act/MODA2004" type="primary" %}
 

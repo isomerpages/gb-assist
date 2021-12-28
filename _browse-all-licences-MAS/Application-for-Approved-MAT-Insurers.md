@@ -8,8 +8,7 @@ third_nav_title: Monetary Authority of Singapore (MAS)
 
 Monetary Authority of Singapore (MAS)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/Insurance/Approved-MAT-Insurer-Apply-for-Approval" type="primary" %}
 

@@ -8,8 +8,7 @@ third_nav_title: Inland Revenue Authority of Singapore (IRAS)
 
 Inland Revenue Authority of Singapore (IRAS)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on IRAS" src="https://mytax.iras.gov.sg/ESVWeb/default.aspx" type="primary" %}
 

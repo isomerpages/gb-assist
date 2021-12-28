@@ -8,8 +8,7 @@ third_nav_title: Land Transport Authority (LTA)
 
 Land Transport Authority (LTA)
 
-Print SPCP Here
-
+Print md SPCP Here SINGPASS
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=101" type="primary" %}
 

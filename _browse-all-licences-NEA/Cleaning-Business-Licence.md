@@ -8,8 +8,7 @@ third_nav_title: National Environment Agency (NEA)
 
 National Environment Agency (NEA)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on NEA" src="https://www.nea.gov.sg/our-services/public-cleanliness/cleaning-industry/cleaning-business-licence" type="primary" %}
 

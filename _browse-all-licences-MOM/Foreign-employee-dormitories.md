@@ -8,8 +8,7 @@ third_nav_title: Ministry of Manpower (MOM)
 
 Ministry of Manpower (MOM)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on MOM" src="http://www.mom.gov.sg/foreign-employee-dormitories" type="primary" %}
 

@@ -8,8 +8,7 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on SPF" src="https://www.police.gov.sg/Advisories/Donation-Draw-and-Lucky-Draw" type="primary" %}
 

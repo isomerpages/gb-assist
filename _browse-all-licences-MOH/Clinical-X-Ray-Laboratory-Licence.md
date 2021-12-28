@@ -8,8 +8,7 @@ third_nav_title: Ministry of Health (MOH)
 
 Ministry of Health (MOH)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on MOH" src="https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories" type="primary" %}
 

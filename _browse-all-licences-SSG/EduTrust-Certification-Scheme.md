@@ -8,8 +8,7 @@ third_nav_title: SkillsFuture Singapore (SSG)
 
 SkillsFuture Singapore (SSG)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=36" type="primary" %}
 

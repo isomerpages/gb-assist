@@ -8,8 +8,7 @@ third_nav_title: Ministry of Culture, Community and Youth (MCCY)
 
 Ministry of Culture, Community and Youth (MCCY)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on MCCY" src="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#" type="primary" %}
 

@@ -8,8 +8,7 @@ third_nav_title: Intellectual Property Office of Singapore (IPOS)
 
 Intellectual Property Office of Singapore (IPOS)
 
-Print SPCP Here
-
+Print md SPCP Here SINGPASS
 
 {% include button.html text="Apply on IPOS" src="https://www.ipos.gov.sg/docs/default-source/resources-library/patents/patent-agent-forms-and-fees/form-h.docx" type="primary" %}
 

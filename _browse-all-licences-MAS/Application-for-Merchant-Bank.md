@@ -8,8 +8,7 @@ third_nav_title: Monetary Authority of Singapore (MAS)
 
 Monetary Authority of Singapore (MAS)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/Banking/Licensing-and-Authorisation-for-Banking-Business" type="primary" %}
 

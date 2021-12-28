@@ -8,8 +8,7 @@ third_nav_title: Hotels Licensing Board (HLB)
 
 Hotels Licensing Board (HLB)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=3" type="primary" %}
 

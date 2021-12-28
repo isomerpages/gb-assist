@@ -8,8 +8,7 @@ third_nav_title: Board of Architects (BOA)
 
 Board of Architects (BOA)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on BOA" src="https://www.boa.gov.sg/register/application-forms/" type="primary" %}
 

@@ -8,8 +8,7 @@ third_nav_title: Health Sciences Authority (HSA)
 
 Health Sciences Authority (HSA)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=56" type="primary" %}
 

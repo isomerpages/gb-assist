@@ -8,8 +8,7 @@ third_nav_title: Council for Estate Agencies (CEA)
 
 Council for Estate Agencies (CEA)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on CEA" src="http://www.cea.gov.sg/" type="primary" %}
 

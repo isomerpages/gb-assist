@@ -8,8 +8,7 @@ third_nav_title: Land Transport Authority (LTA)
 
 Land Transport Authority (LTA)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on LTA" src="https://www.lta.gov.sg/content/dam/ltaweb/corp/Industry/files/COP-Appendices/Submission_Guide_and_Technical_Requirements_09122020.pdf" type="primary" %}
 

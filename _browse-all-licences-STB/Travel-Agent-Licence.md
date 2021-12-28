@@ -8,8 +8,7 @@ third_nav_title: Singapore Tourism Board (STB)
 
 Singapore Tourism Board (STB)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on STB" src="https://trust.stb.gov.sg/public/public/ta-application-preamble" type="primary" %}
 

@@ -8,8 +8,7 @@ third_nav_title: Ministry of Social and Family Development (MSF)
 
 Ministry of Social and Family Development (MSF)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on MSF" src="https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx" type="primary" %}
 

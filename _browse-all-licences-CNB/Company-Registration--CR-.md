@@ -8,8 +8,7 @@ third_nav_title: Central Narcotics Bureau (CNB)
 
 Central Narcotics Bureau (CNB)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=272" type="primary" %}
 

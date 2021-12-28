@@ -8,8 +8,7 @@ third_nav_title: Civil Aviation Authority of Singapore (CAAS)
 
 Civil Aviation Authority of Singapore (CAAS)
 
-Print SPCP Here
-
+Print md SPCP Here CORPPASS
 
 {% include button.html text="Apply on CAAS" src="https://www.caas.gov.sg/operations-safety/aircraft/maintenance-repair-overhaul" type="primary" %}
 

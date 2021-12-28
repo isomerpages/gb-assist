@@ -8,8 +8,7 @@ third_nav_title: Singapore Land Authority (SLA)
 
 Singapore Land Authority (SLA)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on SLA" src="https://app1.sla.gov.sg/TOL/Account/Login?ReturnUrl=%2ftol%2f" type="primary" %}
 

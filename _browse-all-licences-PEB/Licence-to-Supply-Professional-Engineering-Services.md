@@ -8,8 +8,7 @@ third_nav_title: Professional Engineers Board (PEB)
 
 Professional Engineers Board (PEB)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on PEB" src="https://www.peb.gov.sg/lc_commonqueries.aspx" type="primary" %}
 

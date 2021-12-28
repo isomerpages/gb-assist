@@ -8,8 +8,7 @@ third_nav_title: National Parks Board (NParks)
 
 National Parks Board (NParks)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on NParks" src="https://www2.nparks.gov.sg/vbs/" type="primary" %}
 

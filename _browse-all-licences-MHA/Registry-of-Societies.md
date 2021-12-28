@@ -8,8 +8,7 @@ third_nav_title: Ministry of Home Affairs (MHA)
 
 Ministry of Home Affairs (MHA)
 
-Print SPCP Here
-
+Print md SPCP Here SINGPASS
 
 {% include button.html text="Apply on MHA" src="https://www.ros.mha.gov.sg/" type="primary" %}
 

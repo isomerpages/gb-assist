@@ -8,8 +8,7 @@ third_nav_title: National Environment Agency (NEA)
 
 National Environment Agency (NEA)
 
-Print SPCP Here
-
+Print md SPCP Here BOTH
 
 {% include button.html text="Apply on NEA" src="https://www.nea.gov.sg/our-services/hawker-management/overview" type="primary" %}
 
