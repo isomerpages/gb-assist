@@ -39,7 +39,7 @@ Print md SPCP Here CORPPASS
 <p>Scanned copy of letter of approvals</p>
 <p><strong>Fire Safety and Shelter Dept (if not HDB premise)</strong></p>
 <p>Scanned copy of letter of approvals</p>
-<p><strong>LTA (if more than 150m&sup2;)</strong></p>
+<p><strong>LTA (if more than 150 square meter)</strong></p>
 <p>Scanned copy of letter of approvals</p>
 <p><strong>Others</strong></p>
 <p>Scanned copy of other Miscellaneous documents</p>

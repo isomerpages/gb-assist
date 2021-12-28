@@ -52,11 +52,11 @@ Print md SPCP Here CORPPASS
 </tr>
 </tbody>
 </table>
-<p><strong>&nbsp;</strong>Each licence is valid for one year from the date of issue.</p>
+<p><strong></strong>Each licence is valid for one year from the date of issue.</p>
 <p>6. Who can I contact for further details?</p>
-<p>For more information on rubber licence, please contact:<br /><strong>Tel:</strong> (65) 6898 1800<br />Please reach out to us at&nbsp;<a href="https://go.gov.sg/helloesg" target="_blank" rel="noopener">go.gov.sg/helloesg</a>.</p>
+<p>For more information on rubber licence, please contact:<br /><strong>Tel:</strong> (65) 6898 1800<br />Please reach out to us at<a href="https://go.gov.sg/helloesg" target="_blank" rel="noopener">go.gov.sg/helloesg</a>.</p>
 <p>7. What is the application process like?</p>
 <p>You can submit the application form and the supporting documents, if required, via GoBusiness Licensing. As the applicant, you can either file personally or authorise a representative to apply on your behalf. Once payment is made, applicant will be notified status of their application within 3 working days.</p>
 <p>8. Other frequently asked questions?</p>
-<p>Q1. Can a company apply for more than one licence?<br />Yes. The licence to deal in, treat and store rubber is compulsory for all rubber traders. Applicant who is involved in other activities such as manufacturing, packing and shipping or rubber would be required to apply for the respective licences.<br /><br />Q2. What is the definition of rubber in this context?<br />&ldquo;Rubber&rdquo; means marketable rubber prepared from the leaves, bark or latex of any rubber plant, but does not include any manufactured article made wholly or partly of rubber.</p>
+<p>Q1. Can a company apply for more than one licence?<br />Yes. The licence to deal in, treat and store rubber is compulsory for all rubber traders. Applicant who is involved in other activities such as manufacturing, packing and shipping or rubber would be required to apply for the respective licences.<br /><br />Q2. What is the definition of rubber in this context?<br />"Rubber" means marketable rubber prepared from the leaves, bark or latex of any rubber plant, but does not include any manufactured article made wholly or partly of rubber.</p>
 

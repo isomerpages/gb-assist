@@ -14,7 +14,7 @@ Print md SPCP Here CORPPASS
 
 ### Application Details
 
-<p>The Free Sale Certificate for Animal Feed may be issued by either Animal &amp; Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for this animal feed products intended for export.</p>
+<p>The Free Sale Certificate for Animal Feed may be issued by either Animal 7 Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for this animal feed products intended for export.</p>
 <p><strong>FAQs</strong></p>
 <p>1. Where can I get the FAQ for Free Sale Certificate for Animal Feed?</p>
 <p>You can get the FAQ on this link: SFA FAQ website at</p>

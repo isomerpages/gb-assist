@@ -15,7 +15,7 @@ Print md SPCP Here CORPPASS
 ### Application Details
 
 <p>Required for the importation, transportation or retailing of natural gas via gas pipeline network</p>
-<p>A licence is required for parties intending to import natural gas into Singapore, or who plan to ship or retail natural gas&nbsp;and town gas.</p>
+<p>A licence is required for parties intending to import natural gas into Singapore, or who plan to ship or retail natural gasand town gas.</p>
 <p><u>Gas Shipper</u></p>
 <p>Gas shippers enter into a contract with the gas transporter to convey gas through the gas pipeline network.</p>
 <p><u>Gas Retailer</u></p>
@@ -46,7 +46,7 @@ Print md SPCP Here CORPPASS
 <p>Audited past profit and loss statements, balance sheets and cash flow statements of the Applicant or the significant shareholders for the last 2 full financial years or since incorporation if less than 2 years and credit statement or credit rating, including any history of bankruptcy or financial distress.<br /><br />For new applications: Newly incorporated companies which could not provide any audited statements, balance sheets, cash flow statements and credit statement may alternatively submit a 5-year projected financial statements, critical assumptions on the financial projection, proposed capital structure and an expense breakdown.</p>
 <p><strong>Description of the business plan, including but not limited to the proposed sources of natural gas and customers</strong></p>
 <p><strong>Proposed annual maximum import quantities, in bbtu, for each year of planned import (For Importers Only)</strong></p>
-<p><strong>Certified true copy of the applicant&rsquo;s gas sale agreements/gas contracts with its gas suppliers or other supporting documents, including but not limited to quantities of Piped Natural Gas or Liquefied Natural Gas available, or which are anticipated to be available, for import (For Importers Only)</strong></p>
+<p><strong>Certified true copy of the applicant's gas sale agreements/gas contracts with its gas suppliers or other supporting documents, including but not limited to quantities of Piped Natural Gas or Liquefied Natural Gas available, or which are anticipated to be available, for import (For Importers Only)</strong></p>
 <p><strong>Anticipated annual quantities for retail, for each year of planned retail purposes (For Retailers Only)</strong></p>
 <p><strong>Amount of firm capacity rights issued by PowerGas to a Gas Shipper Licensee to ship gas for the applicant (For Retailers Only)</strong></p>
 <p><strong>Organisation chart including resume and curriculum vitae (CV) of key appointment holders</strong></p>

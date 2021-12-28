@@ -63,14 +63,14 @@ Print md SPCP Here BOTH
 <p>Do not change the header and sheet name in the excel file</p>
 <p>Do not upload more than one excel file</p>
 <p><strong>List of Product to be Certified</strong></p>
-<p>Please click&nbsp;<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of Product to be Certified</p>
+<p>Please click<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of Product to be Certified</p>
 <p>Do not add columns, sub-headers or more than one sheet in the excel file</p>
 <p>Do not change the header and sheet name in the excel file</p>
 <p>Do not upload more than one excel file</p>
 <p><strong>Pictures of Product labels</strong></p>
 <p>Pictures of Product labels</p>
 <p><strong>List of Product to be stored in location</strong></p>
-<p>Please click&nbsp;<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of Product to be Certified</p>
+<p>Please click<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of Product to be Certified</p>
 <p>Do not add columns, sub-headers or more than one sheet in the excel file</p>
 <p>Do not change the header and sheet name in the excel file</p>
 <p>Do not upload more than one excel file</p>
@@ -82,7 +82,7 @@ Print md SPCP Here BOTH
 <p>Do not change the header and sheet name in the excel file</p>
 <p>Do not upload more than one excel file</p>
 <p><strong>Food Preparation Area Menu upload</strong></p>
-<p>Upload Menu for Food Preparation Area. Please click&nbsp;<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of the Menu</p>
+<p>Upload Menu for Food Preparation Area. Please click<a href="https://licence1.business.gov.sg/feportal/documents/13101/1286083/Import_Items.xls/83bfc8ce-0a72-4ef0-a0a7-5c78ad04b72f"><u>here</u></a> to download the format of the Menu</p>
 <p>Do not add columns, sub-headers or more than one sheet in the excel file</p>
 <p>Do not change the header and sheet name in the excel file</p>
 <p>Do not upload more than one excel file</p>

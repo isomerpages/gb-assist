@@ -20,7 +20,7 @@ Print md SPCP Here SINGPASS
 <p><strong><u>1. What constitutes Islamic teaching?</u></strong></p>
 <p>Islamic teaching refers to the provision of Islamic instruction in any subject or field in an IECP to one or more persons who are not his or her family member or members. A "family member" here refers to one's spouse, children, parents, in-laws, siblings, or any other individual who is related by blood or marriage and is living in the same household as the person.</p>
 <p><strong><u>2. Who does ARS apply to?</u></strong></p>
-<p>ARS applies to everyone teaching Islam in Singapore. This includes Singapore residents, Permanent Residents as well as those on Employment Pass for religious teaching and persons on Long-Term Visit Pass from the Immigration &amp; Checkpoints Authority (ICA).</p>
+<p>ARS applies to everyone teaching Islam in Singapore. This includes Singapore residents, Permanent Residents as well as those on Employment Pass for religious teaching and persons on Long-Term Visit Pass from the Immigration 7 Checkpoints Authority (ICA).</p>
 <p>ARS is not applicable to foreign religious speakers as they are regulated under a different permit scheme known as the Miscellaneous Work Pass (MWP) issued by the Ministry of Manpower (MOM). Local sponsors of such religious speakers should ensure that the speakers possess formal religious qualifications before applying for the MWP.</p>
 <p><strong><u>3. What are the requirements to qualify for ARS?</u></strong></p>
 <p>Every application will be considered on the following basis:</p>

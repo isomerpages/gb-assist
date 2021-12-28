@@ -20,7 +20,7 @@ Print md SPCP Here CORPPASS
 
 <p>Licence fee: $50 per annum per station</p>
 <p>Frequency fee: Depending on the bandwidth of the frequencies</p>
-<p>Application &amp; Processing fee: Depending on the bandwidth of the frequencies</p>
+<p>Application 7 Processing fee: Depending on the bandwidth of the frequencies</p>
 
 ### Documents Needed
 

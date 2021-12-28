@@ -15,7 +15,7 @@ Print md SPCP Here BOTH
 ### Application Details
 
 <p>A Permit for Temporary Fair is required for all temporary set ups with makeshift stalls selling merchandise items and/or food and beverages.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>Please note that after approval of Permit for Temporary Fair, individual stall holders/vendors must apply for a separate Temporary Fair Stall Licence.</p>
 
 **Additional Information**

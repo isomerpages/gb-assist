@@ -56,7 +56,7 @@ Print md SPCP Here SINGPASS
 <p><strong>18) Who is the agency in-charge of administering Appraiser Licence?</strong></p>
 <p>Inland Revenue Authority Of Singapore (IRAS).</p>
 <p><strong>19) Where can I search for a list of valid licensed appraisers?</strong></p>
-<p>Yes. Please click&nbsp;<a href="https://licence1.business.gov.sg/feportal/web/frontier/appraisers-enquiry-search">here</a>.</p>
+<p>Yes. Please click<a href="https://licence1.business.gov.sg/feportal/web/frontier/appraisers-enquiry-search">here</a>.</p>
 
 **Additional Information**
 

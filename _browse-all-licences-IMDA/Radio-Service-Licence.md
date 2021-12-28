@@ -18,7 +18,7 @@ Print md SPCP Here CORPPASS
 
 **Additional Information**
 
-<p>Please refer to the IMDA website for more&nbsp;<a href="https://www.imda.gov.sg/regulations-licensing-and-consultations/licensing/licences/licence-for-the-provision-of-broadcasting-services/free-to-air-nationwide-radio-service-licence" target="_blank" rel="noopener">information</p>
+<p>Please refer to the IMDA website for more<a href="https://www.imda.gov.sg/regulations-licensing-and-consultations/licensing/licences/licence-for-the-provision-of-broadcasting-services/free-to-air-nationwide-radio-service-licence" target="_blank" rel="noopener">information</p>
 
 ### Documents Needed
 

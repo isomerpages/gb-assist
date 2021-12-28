@@ -28,21 +28,21 @@ Print md SPCP Here CORPPASS
 <p>Estimated Processing Time if applied online here: 14 working days</p>
 <p><strong>FAQ</strong></p>
 <p>1. Do I need to apply for this licence?</p>
-<p>You are required to register with the Ministry of Education (MOE) if you are operating a private school. Based on the Education Act (Chapter 87) section 21, &ldquo;no school shall be carried out unless it is registered &rdquo;.<br /><br />A school is defined as a place where 10 or more persons are being or are habitually taught whether in one or more classes.</p>
-<p>&nbsp;</p>
+<p>You are required to register with the Ministry of Education (MOE) if you are operating a private school. Based on the Education Act (Chapter 87) section 21, "no school shall be carried out unless it is registered ".<br /><br />A school is defined as a place where 10 or more persons are being or are habitually taught whether in one or more classes.</p>
+<p></p>
 <p>2. What conditions do I need to fulfil?</p>
-<p>For a private school application, you must be a company or business or limited liability partnership (LLP) that is registered with the Accounting and Corporate Regulatory Authority (ACRA) formerly known as the Registry of Companies and Businesses (RCB). You are also required to have obtained fire safety clearance from the Fire Safety &amp; Shelter Department (FSSD) or from the Housing &amp; Development Board (HDB) for your proposed school premises. You are to apply for the Written Permission for Change-of-Use of the premises to &ldquo;school&rdquo; use from the Urban Redevelopment Authority (URA), if applicable. Please refer to the MOE's website at&nbsp;<a href="http://www.moe.gov.sg/education/private-schools/" target="_blank" rel="noopener">http://www.moe.gov.sg/education/private-schools/</a>&nbsp;for more information on the required documents for the application.</p>
+<p>For a private school application, you must be a company or business or limited liability partnership (LLP) that is registered with the Accounting and Corporate Regulatory Authority (ACRA) formerly known as the Registry of Companies and Businesses (RCB). You are also required to have obtained fire safety clearance from the Fire Safety 7 Shelter Department (FSSD) or from the Housing 7 Development Board (HDB) for your proposed school premises. You are to apply for the Written Permission for Change-of-Use of the premises to "school" use from the Urban Redevelopment Authority (URA), if applicable. Please refer to the MOE's website at<a href="http://www.moe.gov.sg/education/private-schools/" target="_blank" rel="noopener">http://www.moe.gov.sg/education/private-schools/</a>for more information on the required documents for the application.</p>
 <p><br />3. What supporting documents do I need to submit?</p>
-<p>You&nbsp;need not&nbsp;submit any documents on-line through this website. However, you are required to submit supporting documents in hardcopy to MOE Private Schools Section (by mail/ hand-deliver to MOE mailroom) after the online application in GoBusiness Licensing. More information on the required documents can be found at&nbsp;<a href="http://www.moe.gov.sg/education/private-schools/" target="_blank" rel="noopener">http://www.moe.gov.sg/education/private-schools/</a>. MOE Private Schools Section will contact you after receiving and assessing the documents.</p>
-<p>&nbsp;</p>
+<p>Youneed notsubmit any documents on-line through this website. However, you are required to submit supporting documents in hardcopy to MOE Private Schools Section (by mail/ hand-deliver to MOE mailroom) after the online application in GoBusiness Licensing. More information on the required documents can be found at<a href="http://www.moe.gov.sg/education/private-schools/" target="_blank" rel="noopener">http://www.moe.gov.sg/education/private-schools/</a>. MOE Private Schools Section will contact you after receiving and assessing the documents.</p>
+<p></p>
 <p>4. How soon can my application be processed?</p>
 <p>Our service standard to complete the registration of school is 14 working days after the last correct required document is received. Any incomplete or incorrect submission may result in delayed processing.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>5. How much does this licence cost and how long is it valid?</p>
 <p>Upon approval, successful applicant will be required to make a once-off payment per transaction online in GoBusiness Licensing an amount of $420 (inclusive of GST). There is no need for renewal of the Certificate of Registration of School, but private schools would need to update information on teachers, courses, school name, school address when necessary.</p>
-<p>&nbsp;</p>
+<p></p>
 <p>6. Who can I contact for further details?</p>
-<p>You may refer&nbsp;<a href="http://www.moe.gov.sg/education/private-schools/" target="_blank" rel="noopener">http://www.moe.gov.sg/education/private-schools/</a>&nbsp;for more information about Private Schools.<br /><br />For further assistance, please contact our Customer Service Executives at 6872-2220, or e-mail us at&nbsp;<a href="mailto:moe_pss@moe.gov.sg">moe_pss@moe.gov.sg</a>.<br /><br />You could also write to us at:<br />Private Schools Section<br />Ministry of Education<br />1, North Buona Vista Drive,<br />Level15, MOE Building<br />Singapore 138675</p>
+<p>You may refer<a href="http://www.moe.gov.sg/education/private-schools/" target="_blank" rel="noopener">http://www.moe.gov.sg/education/private-schools/</a>for more information about Private Schools.<br /><br />For further assistance, please contact our Customer Service Executives at 6872-2220, or e-mail us at<a href="mailto:moe_pss@moe.gov.sg">moe_pss@moe.gov.sg</a>.<br /><br />You could also write to us at:<br />Private Schools Section<br />Ministry of Education<br />1, North Buona Vista Drive,<br />Level15, MOE Building<br />Singapore 138675</p>
 
 **Additional Information**
 

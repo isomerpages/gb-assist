@@ -14,7 +14,7 @@ Print md SPCP Here BOTH
 
 ### Application Details
 
-<p>Under the Liquor Control (Supply and Consumption) Act 2015, any supply of liquor in Singapore will require a liquor licence issued by the Licensing Officer. &ldquo;Liquor&rdquo; is defined as a beverage and or substance, containing more than 0.5% ethanol by mass or volume.</p>
+<p>Under the Liquor Control (Supply and Consumption) Act 2015, any supply of liquor in Singapore will require a liquor licence issued by the Licensing Officer. "Liquor" is defined as a beverage and or substance, containing more than 0.5% ethanol by mass or volume.</p>
 
 ### Documents Needed
 

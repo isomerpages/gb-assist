@@ -14,13 +14,13 @@ Print md SPCP Here CORPPASS
 
 ### Application Details
 
-<p>The Licence to Manufacture and Process of Animal Feed may be issued by either Animal &amp; Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is issued for the manufacture and processing of animal feed in Singapore including pet treats like dog biscuits, pastries or confectionary items for sale at retail outlets.</p>
+<p>The Licence to Manufacture and Process of Animal Feed may be issued by either Animal 7 Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This licence is issued for the manufacture and processing of animal feed in Singapore including pet treats like dog biscuits, pastries or confectionary items for sale at retail outlets.</p>
 <p><strong>FAQs</strong></p>
 <div>1.What is the validity of the licence?</div>
 <p>1 year</p>
 <div>2.Do I require a licence to prepare homemade pet food?</div>
 <p>No. SFA does not licence the preparation or production of homemade pet food from HDB or private residential premises.</p>
-<p>For more information on operating small-scale home business, please refer to URA&rsquo;s and HDB&rsquo;s guidelines.</p>
+<p>For more information on operating small-scale home business, please refer to URA's and HDB's guidelines.</p>
 <div>3.Do you require a licence to storage and warehousing of animal feed?</div>
 <p>No. SFA does not licence storage and warehousing of Animal Feed.</p>
 <div>4.Does the site requires to be inspected for fresh applicants and subsequent renewal?</div>

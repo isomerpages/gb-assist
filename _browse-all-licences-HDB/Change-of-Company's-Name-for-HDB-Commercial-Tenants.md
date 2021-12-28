@@ -16,9 +16,9 @@ Print md SPCP Here CORPPASS
 
 <p>Applicable to tenants who change their company's name without change of :<br />a. business registration number ; and<br />b. business setup (i.e. no change in partners or shareholders or their respective shareholdings)</p>
 <p><strong>FAQ</strong></p>
-<p>Do I need to apply for this licence?<br />Yes, if you have changed your company name with ACRA.&nbsp;</p>
-<p>What conditions do I need to fulfill?&nbsp;<br />(a) No change in business registration number (i.e. no change in RCB No)&nbsp;<br />(b) No change in business setup (i.e. no change in partners or shareholders or their respective shareholdings).</p>
-<p>What supporting documents do I need to submit?<br />Up-to-date business registration record from ACRA showing the new name.&nbsp;</p>
+<p>Do I need to apply for this licence?<br />Yes, if you have changed your company name with ACRA.</p>
+<p>What conditions do I need to fulfill?<br />(a) No change in business registration number (i.e. no change in RCB No)<br />(b) No change in business setup (i.e. no change in partners or shareholders or their respective shareholdings).</p>
+<p>What supporting documents do I need to submit?<br />Up-to-date business registration record from ACRA showing the new name.</p>
 <p>How soon can my application be processed?<br />Within 1 business day (in 24 hours).</p>
 <p>How much does this licence cost and how long is it valid?<br />No administrative fee is payable.</p>
 <p>Who can I contact for further details?<br />HDB Commercial Toll-free Enquiry Hotline at 1800-8663073</p>

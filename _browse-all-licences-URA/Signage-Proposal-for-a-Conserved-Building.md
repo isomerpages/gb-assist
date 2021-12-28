@@ -16,5 +16,5 @@ Print md SPCP Here BOTH
 
 <p>You will need approval from Urban Redevelopment Authority if you wish to install business signs on your conserved building.</p><p><strong>FAQ</strong></p>
 <p>1. Where can I get more information?</p>
-<p>You can get more information at this link below:&nbsp;<a href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" target="_blank" rel="noopener">https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage</a></p>
+<p>You can get more information at this link below:<a href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" target="_blank" rel="noopener">https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage</a></p>
 

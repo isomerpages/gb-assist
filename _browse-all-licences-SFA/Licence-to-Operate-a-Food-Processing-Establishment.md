@@ -40,15 +40,15 @@ Print md SPCP Here CORPPASS
 <td data-title="Fees">$840.00</td>
 </tr>
 <tr>
-<td data-title="Type">Other Processed Food Small (total floor area &lt; 200m<sup>2</sup>)</td>
+<td data-title="Type">Other Processed Food Small (total floor area < 200m<sup>2</sup>)</td>
 <td data-title="Fees">$180.00</td>
 </tr>
 <tr>
-<td data-title="Type">Other Processed Food Medium (total floor area &gt;= 200m<sup>2</sup>&nbsp;and &lt; 750m<sup>2</sup>)</td>
+<td data-title="Type">Other Processed Food Medium (total floor area >= 200m<sup>2</sup>and < 750m<sup>2</sup>)</td>
 <td data-title="Fees">$360.00</td>
 </tr>
 <tr>
-<td data-title="Type">Other Processed Food Large (total floor area &gt;= 750m<sup>2</sup>)</td>
+<td data-title="Type">Other Processed Food Large (total floor area >= 750m<sup>2</sup>)</td>
 <td data-title="Fees">$600.00</td>
 </tr>
 </tbody>

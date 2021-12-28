@@ -87,15 +87,15 @@ Singapore 229469</p>
 <p><strong>Certificate of Statutory Completion (CSC) / Temporary Occupation Permit (TOP)</strong></p>
 <p>Applicants must ensure that the proposed premises for an ECDC is safe for occupancy. A CSC or equivalent may only be retrieved by the owner of the property. For newly erected buildings, a TOP will suffice for submission but the CSC will need to be submitted as soon as it is obtained.</p>
 <p><strong>Approval for Change of Use</strong></p>
-<p>For HDB and SLA properties, the tenancy agreement signed with HDB or SLA will suffice. For privately owned HDB properties, a &ldquo;Change of Trade&rdquo; letter will have to be obtained from HDB. For all other types of properties, the &ldquo;Change of Use&rdquo; or &ldquo;Grant of Written Permission&rdquo; will have to be obtained from URA.</p>
+<p>For HDB and SLA properties, the tenancy agreement signed with HDB or SLA will suffice. For privately owned HDB properties, a "Change of Trade" letter will have to be obtained from HDB. For all other types of properties, the "Change of Use" or "Grant of Written Permission" will have to be obtained from URA.</p>
 <p><strong>Floor Plan</strong></p>
 <p>The layout of the drawn-to-scale floor plan must match the actual physical premises. Floor plans must be QP-certified and accompanied by a breakdown of the floor areas.</p>
 <p><strong>Declaration of Offences or Warnings</strong></p>
 <p>Declaration of Offences or Warnings</p>
 <p><strong>Declaration of Financial Capacity</strong></p>
 <p>Declaration of Financial Capacity</p>
-<p><strong>Parents&rsquo; Handbook</strong></p>
-<p>Parents&rsquo; Handbook</p>
+<p><strong>Parents' Handbook</strong></p>
+<p>Parents' Handbook</p>
 
 ### Requirements
 

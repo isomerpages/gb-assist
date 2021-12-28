@@ -35,8 +35,8 @@ Print md SPCP Here CORPPASS
 </ul>
 </td>
 <td>
-<p>Initial Fee:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; None</p>
-<p>Annual Fee: &nbsp;&nbsp; 0.4% AGTO, subject to a minimum &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; of S$150,000 per year</p>
+<p>Initial Fee: None</p>
+<p>Annual Fee:  0.4% AGTO, subject to a minimum  of S$150,000 per year</p>
 </td>
 </tr>
 <tr>
@@ -46,8 +46,8 @@ Print md SPCP Here CORPPASS
 </ul>
 </td>
 <td>
-<p>Initial Fee: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; None</p>
-<p>Annual Fee:&nbsp;&nbsp;&nbsp; 0.4% AGTO, subject to minimum, &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; of S$4,000 per year</p>
+<p>Initial Fee:  None</p>
+<p>Annual Fee: 0.4% AGTO, subject to minimum,  of S$4,000 per year</p>
 </td>
 </tr>
 </tbody>
