@@ -18,9 +18,9 @@ Print md SPCP Here CORPPASS
 <p>This licence is required for applicants intending to generate electricity from generating unit(s) and to trade in wholesale electricity market operated by the Market Company.</p>
 <p><strong>FAQ</strong></p>
 <p><strong><u>1. Do I need to apply for this licence?</u></strong></p>
-<p>You do not need to apply for an Electricity Licence for Generation Licensee to generate electricity if you fall into the following categories:&nbsp;</p>
+<p>You do not need to apply for an Electricity Licence for Generation Licensee to generate electricity if you fall into the following categories:</p>
 <p>(a) The generating units are used solely to provide backup power in the event of interruption of electricity supply from the transmission system, and are not connected to and not operated in parallel with the transmission system (standby generators); or</p>
-<p>(b) The nameplate capacity of the generating unit is less than 10 MW. However, please note that for generating units with a nameplate capacity of 1 MW or more but less than 10 MW which are connected to the transmission system, you will need to register as a market participant with the Market Company in accordance with the Market Rules and apply for an Electricity Wholesaler Licence.&nbsp;</p>
+<p>(b) The nameplate capacity of the generating unit is less than 10 MW. However, please note that for generating units with a nameplate capacity of 1 MW or more but less than 10 MW which are connected to the transmission system, you will need to register as a market participant with the Market Company in accordance with the Market Rules and apply for an Electricity Wholesaler Licence.</p>
 <p><strong><u>2. Does the licence guarantee a registration to the Market Company?</u></strong></p>
 <p>The issuance of a licence does not guarantee registration by the Market Company for participation in the Wholesale Electricity Market in Singapore.</p>
 <p><strong><u>3. Are there any regulations for the licensee to comply to?</u></strong></p>

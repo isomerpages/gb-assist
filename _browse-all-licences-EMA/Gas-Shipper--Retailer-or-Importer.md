@@ -15,7 +15,7 @@ Print md SPCP Here CORPPASS
 ### Application Details
 
 <p>Required for the importation, transportation or retailing of natural gas via gas pipeline network</p>
-<p>A licence is required for parties intending to import natural gas into Singapore, or who plan to ship or retail natural gas&nbsp;and town gas.</p>
+<p>A licence is required for parties intending to import natural gas into Singapore, or who plan to ship or retail natural gasand town gas.</p>
 <p><u>Gas Shipper</u></p>
 <p>Gas shippers enter into a contract with the gas transporter to convey gas through the gas pipeline network.</p>
 <p><u>Gas Retailer</u></p>

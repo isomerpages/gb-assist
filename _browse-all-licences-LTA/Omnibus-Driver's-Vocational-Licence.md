@@ -28,7 +28,7 @@ Print md SPCP Here CORPPASS
 <li>Tower Transit Singapore (TTS)</li>
 </ul>
 <p>3. What are the criteria for me to apply for an ODVL?</p>
-<p>a. To be&nbsp;eligible to apply for an ODVL, you should:</p>
+<p>a. To beeligible to apply for an ODVL, you should:</p>
 <ol>
 <li>As Singaporean,
 <ul>
@@ -64,7 +64,7 @@ Print md SPCP Here CORPPASS
 <p>5. How do I withdraw my application?</p>
 <p>Applicants who wish to withdraw their ODVL application will have to approach the PTO. PTO will then inform LTA to cancel the application. However, the application fee of $40 is non-refundable.</p>
 <p>6. Where can I go for the medical check-up for the purpose of my ODVL application?</p>
-<p>You may go to any registered medical clinic to have your chest x-ray and medical examinations done for the purpose of your ODVL application.<br />You will be required to use LTA&rsquo;s medical examination form at&nbsp;<a target="" rel="">https://www.onemotoring.com.sg/content/dam/onemotoring/Forms/VL_Medical_Form.pdf</a>.</p>
+<p>You may go to any registered medical clinic to have your chest x-ray and medical examinations done for the purpose of your ODVL application.<br />You will be required to use LTA&rsquo;s medical examination form at<a target="" rel="">https://www.onemotoring.com.sg/content/dam/onemotoring/Forms/VL_Medical_Form.pdf</a>.</p>
 <p>7. What is the statutory age limit for an ODVL holder?</p>
 <p>With effect from 1 January 2016, the upper age limit for heavy vehicle drivers (i.e. Class 4/4A and 5) has been extended to 75 years old. With the revision, heavy vehicle drivers aged between 70 to 74 years old, can retain their licences if they pass an annual enhanced medical examination and proficiency driving test. Hence, these drivers can continue to drive Class 4/4A buses provided they pass the above requirements from the Traffic Police.</p>
 <p>It is also subjected to the employment with PTO.</p>
@@ -100,7 +100,7 @@ Print md SPCP Here CORPPASS
 <li>Applicant is currently undergoing an investigation</li>
 </ul>
 <p>In general, those who have committed serious offences will be barred for life. For less serious offences, applications will be barred from consideration for a VL for a certain period after the date of conviction.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>ODVL COURSE</u></strong></p>
 <p>12. How do I register and when will the ODVL course commence?</p>
 <p>Public Transport Operators (PTOs) will register, arrange and update applicants on available course date upon submitting the online application.</p>
@@ -108,7 +108,7 @@ Print md SPCP Here CORPPASS
 <p>The Singapore Bus Academy(SGBA) conducts training for the ODVL Course. Those who wish to find out more about the ODVL Course can either call SGBA at 6474 0606 or email at (LTA_SGBA@lta.gov.sg). ODVL Course is held at Devan Nair Institute for Employment and Employability.</p>
 <p>Details of the training provider:<br />Singapore Bus Academy (SGBA)<br />Devan Nair Institute for Employment and Employability<br />80 Jurong East Street 21, Level 2<br />Singapore 609607<br />Tel: 64740606</p>
 <p>14. How long is the duration for the ODVL course?</p>
-<p>ODVL course takes 5 days&nbsp;to complete (inclusive of 2 hour written test)</p>
+<p>ODVL course takes 5 daysto complete (inclusive of 2 hour written test)</p>
 <p>Modules for ODVL course:</p>
 <ul>
 <li>Overview of Public Transport Industry</li>
@@ -135,7 +135,7 @@ Print md SPCP Here CORPPASS
 <p>Yes.</p>
 <p>20. Is ODVL course available in Chinese?</p>
 <p>Yes, ODVL course is available in both English and Chinese.</p>
-<p>&nbsp;</p>
+<p></p>
 <p><strong><u>ODVL ISSUANCE</u></strong></p>
 <p>21. How will I be notified on the issuance of my ODVL?</p>
 <p>PTO will submit all relevant documents to LTA after applicants passed from SGBA training course and issued with Class 4A Driving Licence by Traffic Police for the issuance of their ODVL.</p>

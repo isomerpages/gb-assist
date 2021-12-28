@@ -48,7 +48,7 @@ Print md SPCP Here BOTH
 <li>For applicants not on GIRO, you may start your business after you have made payment via AXS or GoBusiness.</li>
 </ul>
 <p>SFA will post out the hardcopy licences within 7 working days upon successful payment.</p>
-<p>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at&nbsp;<a href="https://csp.sfa.gov.sg/feedback">https://csp.sfa.gov.sg/feedback</a>&nbsp;to request for a replacement copy.</p>
+<p>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at<a href="https://csp.sfa.gov.sg/feedback">https://csp.sfa.gov.sg/feedback</a>to request for a replacement copy.</p>
 </td>
 <td>
 <p>5 working days if application is complete and in order</p>
@@ -68,7 +68,7 @@ Print md SPCP Here BOTH
 <p>Upon receipt of the IPA, you may proceed with the renovation. Please refer to the IPA for the licensing requirements that you will need to comply with. You may also refer to<a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sfa.gov.sg%2Ffood-retail%2Flicensing-permits&amp;data=04%7C01%7Cshuyaowang%40crimsonlogic.com%7C91ce509df52746335e3508d89c1a09f5%7Cc5e1a618b91e426fb6f3429d06158541%7C0%7C0%7C637430982943248738%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=ErebeDykTlwVWAUTzEpIRON7rpqhYlmVFcHlJMUEryM%3D&amp;reserved=0">Licensing Requirements</a>on SFA website.</p>
 <p>To avoid delays, you must prepare the documents stated in the IPA and upload them in GoBusiness. The documents include URA&rsquo;s Change of Use or HDB&rsquo;s approval, tenancy agreement, cleaning program and pest control contract. It is also important that you plan the renovation and equipment set up schedule ahead of time so as to minimise the time taken for renovation.</p>
 <p>3.<strong>When is the earliest I can book a pre-licensing inspection for my food shop? How can I book an inspection?</strong></p>
-<p>Refer to Step 2. Please book the pre-licensing inspection<strong>at least 7 days in advance.</strong>&nbsp;You can log a request via<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>for the pre-licensing inspection. Please provide the relevant information (premises address, application number/licence number, name and contact number) in your request. SFA will confirmed your pre-licensing inspection date within 2 working days.</p>
+<p>Refer to Step 2. Please book the pre-licensing inspection<strong>at least 7 days in advance.</strong>You can log a request via<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>for the pre-licensing inspection. Please provide the relevant information (premises address, application number/licence number, name and contact number) in your request. SFA will confirmed your pre-licensing inspection date within 2 working days.</p>
 <p>4.<strong>What will be inspected during the pre-licensing inspection?</strong></p>
 <p>During the inspection, SFA will verify if the setup of the premises is in accordance to the layout plan submitted and whether all the items listed in the IPA have been complied with. For example, SFA will check if exhaust is fitted with an air-cleaner, floor trap for the discharge of wastewater to sewer, adequate washing facilities, storage facilities and etc. At the end of the pre-licensing inspection, the officer will issue you with an inspection report.</p>
 <p>If there are no outstanding issues, the officer will recommend the application for approval.</p>
@@ -119,7 +119,7 @@ Print md SPCP Here BOTH
 <div>3.<strong>When can I commence business? Do I need to wait for the hardcopy licence before I start operations? What do I do if I do not receive the hardcopy licence?</strong></div>
 <p>Refer to Step 2 on when you may commence business.</p>
 <p>SFA will post out the hardcopy licences within 7 working days upon successful payment.</p>
-<p>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at&nbsp;<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>to request for a replacement copy.</p>
+<p>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>to request for a replacement copy.</p>
 <div>4.<strong>How much does this licence cost and how long is it valid?</strong></div>
 <p>The Food Stall Licence costs S$32.00 and is valid for one year except for those foodstalls in primary, secondary and junior college school canteens. Licensees are given the option to pay $64.00 for a food stall licence that is valid for two years.</p>
 <p>Please note that no refund of fees will be allowed once payment has been made.</p>
@@ -132,9 +132,9 @@ Print md SPCP Here BOTH
 <p>Q: I am a foreigner with a valid employment pass issued by MOM. Can I apply for the licence in my name?</p>
 <p>A: No. You will have to form a company that is registered with the Accounting &amp; Corporate Regulatory Authority (ACRA) (formerly Registry of Companies and Business (RCB)) and apply for the licence in the company&rsquo;s name.</p>
 <p>Q: Can I update, renew or terminate my food shop licence through GoBusiness Licensing?</p>
-<p>A: Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing&nbsp;by going to<a href="http://licence1.business.gov.sg/">licence1.business.gov.sg</a>.</p>
+<p>A: Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensingby going to<a href="http://licence1.business.gov.sg/">licence1.business.gov.sg</a>.</p>
 <p>Q: Where can I obtain information on the general design of a food retail outlet?</p>
-<p>A: You may refer to the Licensing Requirements at&nbsp;<a href="https://www.sfa.gov.sg/">https://www.sfa.gov.sg</a></p>
+<p>A: You may refer to the Licensing Requirements at<a href="https://www.sfa.gov.sg/">https://www.sfa.gov.sg</a></p>
 <p>Q: What is the consequence if I am unable to comply with some of the hygiene requirements?</p>
 <p>A: If you are unable to comply with any of our hygiene requirements, you will not be issued with the licence.</p>
 <p>Q: What will be the consequences if I provide false information in my application for a licence?</p>

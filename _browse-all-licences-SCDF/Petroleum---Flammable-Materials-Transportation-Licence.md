@@ -14,7 +14,7 @@ Print md SPCP Here BOTH
 
 ### Application Details
 
-<p>The Fire Safety Act (FSA) regulates the transportation of petroleum and flammable materials . The petroleum and flammable materials transportation licence is to ensure that the transportation is carried out in a safe manner and that proper fire safety measures / procedures are undertaken by the licensee to ensure safety environment. In general, the FSA requires the transportation vehicle used to be certified, the transportation emergency response plan been approved and the drivers of road vehicles transporting any class of petroleum and flammable materials to hold a valid Hazardous Material Transportation Driver Permit (HTDP) to drive the vehicle. However, you will be exempted from applying a transportation licence if you are transporting petroleum less than:&nbsp;<br />(1) Total of 130kg(gross weight) in not more than 2 cylinders;&nbsp;<br />(2) 20 litres of Class I petroleum;&nbsp;<br />(3) 200 litres of Class II petroleum;&nbsp;<br />(4) 200 litres of Class III petroleum;&nbsp;<br />(5) 10 kg of Solid Flammable Material;&nbsp;<br />(6) 20 litres of Liquid Flammable Material;or&nbsp;<br />(7) 130 kg of Gaseous Flammable Material&nbsp;</p>
+<p>The Fire Safety Act (FSA) regulates the transportation of petroleum and flammable materials . The petroleum and flammable materials transportation licence is to ensure that the transportation is carried out in a safe manner and that proper fire safety measures / procedures are undertaken by the licensee to ensure safety environment. In general, the FSA requires the transportation vehicle used to be certified, the transportation emergency response plan been approved and the drivers of road vehicles transporting any class of petroleum and flammable materials to hold a valid Hazardous Material Transportation Driver Permit (HTDP) to drive the vehicle. However, you will be exempted from applying a transportation licence if you are transporting petroleum less than:<br />(1) Total of 130kg(gross weight) in not more than 2 cylinders;<br />(2) 20 litres of Class I petroleum;<br />(3) 200 litres of Class II petroleum;<br />(4) 200 litres of Class III petroleum;<br />(5) 10 kg of Solid Flammable Material;<br />(6) 20 litres of Liquid Flammable Material;or<br />(7) 130 kg of Gaseous Flammable Material</p>
 <p>Estimated Response Time if applied online here: 3 working days</p>
 <p><strong>FAQ</strong></p>
 <p><strong>1. Do I need to apply for this licence?</strong></p>
@@ -23,11 +23,11 @@ Print md SPCP Here BOTH
 <p>Class "O" Petroleum - a total of 130 kg (gross weight) in not more than 2 cylinders.</p>
 <p>Class I Petroleum - 20 litres on vehicle constructed to carry goods provided that it does not have roof covering.</p>
 <p>Class II Petroleum - 200 litres on vehicle constructed to carry goods provided that it does not have roof covering.</p>
-<p>Class III Petroleum - 200 litres on vehicle constructed to carry goods provided that it does not have roof covering.&nbsp;</p>
-<p>Solid Flammable Material- 10 kg.&nbsp;</p>
-<p>Liquid Flammable Material- 20 litres.&nbsp;</p>
+<p>Class III Petroleum - 200 litres on vehicle constructed to carry goods provided that it does not have roof covering.</p>
+<p>Solid Flammable Material- 10 kg.</p>
+<p>Liquid Flammable Material- 20 litres.</p>
 <p>Gaseous Flammable Material- a total of 130 kilograms by weight of gas in not more than 2 cylinders</p>
-<p>For further details and the definition of the terms used, you can visit the&nbsp;<a href="https://www.scdf.gov.sg/home/fire-safety/petroleum-and-flammable-material-licences/information-of-p-fm-transport-licence" target="_blank" rel="noopener">SCDF website</a></p>
+<p>For further details and the definition of the terms used, you can visit the<a href="https://www.scdf.gov.sg/home/fire-safety/petroleum-and-flammable-material-licences/information-of-p-fm-transport-licence" target="_blank" rel="noopener">SCDF website</a></p>
 <p><strong>2. What conditions do I need to fulfil?</strong></p>
 <ul>
 <li>The owner of the vehicle shall ensure that the transportation of Petroleum / Flammable Materials is carried out in accordance with the Fire Safety (Petroleum &amp; Flammable Materials) Regulations and any other conditions that the Commissioner SCDF considers necessary in the interests of public safety.</li>
@@ -66,7 +66,7 @@ Print md SPCP Here BOTH
 <p>Your application will be processed within 3 working days if documents submitted are in order. The Petroleum / Flammable Materials Transportation licence will be issued upon payment made.</p>
 <p><strong>5. How much does this licence cost and how long is it valid?</strong></p>
 <p>The Petroleum / Flammable Materials transportation licence fee is $105/- and is valid for 12 months (or $210/- for 24 months).</p>
-<p>Applicant can make on-line payment through the GoBusiness Licensing or&nbsp;<a href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=EPAYMENT" target="_blank" rel="noopener">SCDF Eservices</a>.</p>
+<p>Applicant can make on-line payment through the GoBusiness Licensing or<a href="https://eservices1.scdf.gov.sg/fisops/SCDF-ESERVICES.action?app=EPAYMENT" target="_blank" rel="noopener">SCDF Eservices</a>.</p>
 <p>Alternatively, you may choose to make off-line payment at HQ SCDF's counter via NETS, Cash card or Credit Card (cash &amp; cheque payment are unacceptable). For information on GIRO scheme or clarification on payment matters, you may wish to contact SCDF Finance Department at 68481623 / 68481618.</p>
 <p><strong>6. Who can I contact for further details?</strong></p>
 <p>For further clarification, you may contact Licensing Officers at the following contact nos. :</p>
@@ -193,7 +193,7 @@ Print md SPCP Here BOTH
 </div>
 </div>
 <p>Central Tel line: 68481472</p>
-<p>Fax: &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 68481494</p>
+<p>Fax:  68481494</p>
 <p><strong>7. What is the application process like?</strong></p>
 <p>You can submit the application form and the supporting documents, if required, via the GoBusiness Licensing. As the applicant, you can either file personally or authorise a representative to apply on your behalf. For offline submission, please indicate the case ID number on your supporting documents before sending to SCDF/CED.</p>
 

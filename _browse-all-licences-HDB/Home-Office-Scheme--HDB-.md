@@ -15,7 +15,7 @@ Print md SPCP Here BOTH
 ### Application Details
 
 <p>HDB's Home Office Scheme is applicable for HDB residential flats and living quarters of the HDB commercial property.</p>
-<p>Only the flat owner(s) or other authorised persons approved by HDB to stay in the flat (i.e. authorised occupier/ tenant who rents a flat directly from HDB) are allowed to apply for the Home Office Scheme (HOS). &nbsp;The business must comply with the criteria and conditions of use for Home Office Scheme. For more details, please click <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-business/home-office-scheme/guidelines%20Link%20to%20Living%20Quarters%20of%20HDB%20Commercial">here</a> for HDB Residential Flats and <a href="https://www.hdb.gov.sg/cs/infoweb/business/commercial/managing-your-unit/change-of-use/use-of-shop-living-quarters">here</a> for Living Quarters of HDB Commercial Properties.</p>
+<p>Only the flat owner(s) or other authorised persons approved by HDB to stay in the flat (i.e. authorised occupier/ tenant who rents a flat directly from HDB) are allowed to apply for the Home Office Scheme (HOS). The business must comply with the criteria and conditions of use for Home Office Scheme. For more details, please click <a href="https://www.hdb.gov.sg/cs/infoweb/residential/living-in-an-hdb-flat/home-business/home-office-scheme/guidelines%20Link%20to%20Living%20Quarters%20of%20HDB%20Commercial">here</a> for HDB Residential Flats and <a href="https://www.hdb.gov.sg/cs/infoweb/business/commercial/managing-your-unit/change-of-use/use-of-shop-living-quarters">here</a> for Living Quarters of HDB Commercial Properties.</p>
 
 **Additional Information**
 
@@ -23,5 +23,5 @@ Print md SPCP Here BOTH
 
 ### Documents Needed
 
-<p><strong>Authorisation Letter<br /></strong>(Authorisation Letter from all existing tenants/owners (i.e. the sole proprietor, all partners, authorized Company Representative or Authorised Office Bearer) and all proposed tenants (if any) stating that the filer/applicant is authorized to submit the online application on their behalf. &nbsp;Please also state the details of the type of application (e.g. Renting Out etc) in the Letter of Authorisation.)</p>
+<p><strong>Authorisation Letter<br /></strong>(Authorisation Letter from all existing tenants/owners (i.e. the sole proprietor, all partners, authorized Company Representative or Authorised Office Bearer) and all proposed tenants (if any) stating that the filer/applicant is authorized to submit the online application on their behalf. Please also state the details of the type of application (e.g. Renting Out etc) in the Letter of Authorisation.)</p>
 

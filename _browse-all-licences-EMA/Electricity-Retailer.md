@@ -26,8 +26,8 @@ Print md SPCP Here CORPPASS
 <p>The issuance of a licence does not guarantee your registration as a market participant by the Market Company</p>
 <p><u><strong>2) Are there any requirements to be met?</strong></u></p>
 <p>Please note the following two requirements to be met by each retailer after being issued an Electricity Retailer Licence before it can commence retailing electricity:</p>
-<p><u>Requirement 1:</u>&nbsp;Pass the Market Trial conducted by SP Group. For more information, please refer to the Open Electricity Market&rsquo;s website (<a href="https://www.openelectricitymarket.sg/" target="_blank" rel="noopener">www.openelectricitymarket.sg</a>); and</p>
-<p><u>Requirement 2:</u>&nbsp;Satisfy EMA&rsquo;s requirements for participation in the Open Electricity Market. For more information, please email EMA_MDSD@ema.gov.sg.</p>
+<p><u>Requirement 1:</u>Pass the Market Trial conducted by SP Group. For more information, please refer to the Open Electricity Market&rsquo;s website (<a href="https://www.openelectricitymarket.sg/" target="_blank" rel="noopener">www.openelectricitymarket.sg</a>); and</p>
+<p><u>Requirement 2:</u>Satisfy EMA&rsquo;s requirements for participation in the Open Electricity Market. For more information, please email EMA_MDSD@ema.gov.sg.</p>
 <p>Retailers who only meet Requirement 1 (i.e., passed the Market Trial conducted by SP Group) can only retail electricity to business consumers with an average monthly consumption of at least 2MWh.</p>
 <p>Retailers must meet both requirements before they can start retailing electricity to (i) business consumers with an average monthly consumption of less than 2MWh, and (ii) all residential consumers.</p>
 
