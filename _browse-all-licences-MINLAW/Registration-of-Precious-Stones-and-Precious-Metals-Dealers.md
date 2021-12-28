@@ -15,15 +15,15 @@ Print md SPCP Here CORPPASS
 ### Application Details
 
 <p>For businesses that conduct regulated dealing (in precious stones, precious metals, precious products or asset-backed tokens) or as an intermediary for regulated dealing.</p>
-<p>Before applying: Please ensure that you have the requsite information/ documents. More information on requsite information/ documents are available at<a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</p>
+<p>Before applying: Please ensure that you have the requsite information/ documents. More information on requsite information/ documents are available at&nbsp;<a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</p>
 <p><strong>FAQ</strong></p>
 <p>1. Who needs to register?</p>
 <p>The regulatory regime covers persons who are regulated dealers* i.e. persons who carry on a business of &ldquo;regulated dealing*&rdquo;, or carry on business as an intermediary for &ldquo;regulated dealing&rdquo;.</p>
 <p>*Examples of &ldquo;regulated dealers&rdquo; who carry on a business of &ldquo;regulated dealing&rdquo; include jewellers, bullion traders, jewellery wholesalers, jewellery retailers and secondhand goods dealers. Examples of &ldquo;regulated dealers&rdquo; who carry on business as intermediaries for &ldquo;regulated dealing&rdquo; include auction houses and trading platforms. Pawnbrokers will be excluded, as they are already subject to AML/CFT measures under the Pawnbrokers Act.</p>
 <p>Under section 6 of the Precious Stones and Precious Metals (Prevention of Money Laundering and Terrorism Financing) Act, you are a regulated dealer if you (a) manufacture, import, sell, offer for sale, possess for sale, or purchase for the purpose of resale any precious stone, precious metal or precious product (PSM); (b) sell or redeem any token, certificate or other instrument backed by one or more PSMs that entitles the holder to the PSM or part of it; or (c) act as an intermediary for (a) or (b).</p>
 <p>2. What fees do I need to pay?</p>
-<p>Application Fee- Applicants must pay an application fee of$120, payable upfront upon submission of new application. The application fee is non-refundable.</p>
-<p>Registration Fee- Registration fees for new applicants and renewal applications where thenet priceof every precious stone, precious metal, precious product or asset-backed token that isor is to besold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year. See table below for schedule.</p>
+<p>Application Fee&nbsp;- Applicants must pay an application fee of&nbsp;$120, payable upfront upon submission of new application. The application fee is non-refundable.</p>
+<p>Registration Fee&nbsp;- Registration fees for new applicants and renewal applications where the&nbsp;net price&nbsp;of every precious stone, precious metal, precious product or asset-backed token that is&nbsp;or is to be&nbsp;sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year. See table below for schedule.</p>
 <table class="infoTable">
 <tbody>
 <tr>
@@ -55,13 +55,13 @@ Print md SPCP Here CORPPASS
 </tbody>
 </table>
 <p>3. Who can I contact for more details?</p>
-<p>You can get more information on regulated dealers on Minlaw website at<a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</p>
+<p>You can get more information on regulated dealers on Minlaw website at&nbsp;<a href="https://acd.mlaw.gov.sg/" target="_blank" rel="noopener">https://acd.mlaw.gov.sg</a>.</p>
 
 **Additional Information**
 
 <p><strong>Fee</strong></p>
-<p><strong>Application Fee</strong>- Applicants must pay an application fee of<strong>$120</strong>, payable upfront upon submission of new application. The application fee is non-refundable.</p>
-<p><strong>Registration Fee</strong>- Registration fees for new applicants and renewal applications where the<u>net price</u>of every precious stone, precious metal, precious product or asset-backed token that is<u>or is to be</u>sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year.</p>
+<p><strong>Application Fee</strong>&nbsp;- Applicants must pay an application fee of&nbsp;<strong>$120</strong>, payable upfront upon submission of new application. The application fee is non-refundable.</p>
+<p><strong>Registration Fee</strong>&nbsp;- Registration fees for new applicants and renewal applications where the&nbsp;<u>net price</u>&nbsp;of every precious stone, precious metal, precious product or asset-backed token that is&nbsp;<u>or is to be</u>&nbsp;sold by the registered dealer is less than $2,000 apiece, will be $250 per outlet per year. Otherwise, it will be $350 per outlet per year.</p>
 
 ### Documents Needed
 

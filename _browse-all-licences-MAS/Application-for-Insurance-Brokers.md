@@ -14,5 +14,5 @@ Print md SPCP Here BOTH
 
 ### Application Details
 
-<p>Insurance brokers are registered under section 35X of the Insurance Act (Cap. 142). A person who wishes to conduct insurance broking activities may be registered as a direct insurance broker, general reinsurance broker or life reinsurance broker. Insurance brokers act on behalf of clients and assist clients to arrange insurance contracts relating to general insurance business, general reinsurance business or life reinsurance business.</p>
+<p>Insurance brokers are registered under section 35X of the Insurance Act (Cap. 142). A person who wishes to conduct insurance broking activities may be registered as a direct insurance broker, general reinsurance broker or life reinsurance broker. &nbsp;Insurance brokers act on behalf of clients and assist clients to arrange insurance contracts relating to general insurance business, general reinsurance business or life reinsurance business.</p>
 

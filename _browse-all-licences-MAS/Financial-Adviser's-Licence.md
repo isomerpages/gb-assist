@@ -14,5 +14,5 @@ Print md SPCP Here BOTH
 
 ### Application Details
 
-<p>Financial advisers are licensed under section 6 of the Financial Advisers Act (Cap. 110) to provide any or all of the financial advisory services specified in the Second Schedule to the Financial Advisory Services. Currently, these services include advising others on investment products, advising others by issuing research reports concerning investment products, marketing of collective investment schemes and arranging life policies.</p>
+<p>Financial advisers are licensed under section 6 of the Financial Advisers Act (Cap. 110) to provide any or all of the financial advisory services specified in the Second Schedule to the Financial Advisory Services. Currently, these services include advising others on investment products, &nbsp;advising others by issuing research reports concerning investment products, marketing of collective investment schemes and arranging life policies.</p>
 

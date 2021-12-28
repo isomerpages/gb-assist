@@ -28,7 +28,7 @@ Print md SPCP Here BOTH
 <td>
 <p><strong>Submit complete application in GoBusiness</strong></p>
 <ul>
-<li>For complete application with layout plan, SFA will issue the In-Principle Approval (IPA) via email and GoBusiness portal at<a href="https://www.gobusiness.gov.sg/licences">https://www.gobusiness.gov.sg/licences</a> under "submitted documents" tab of your application. With the IPA, applicants may proceed with the renovation.</li>
+<li>For complete application with layout plan, SFA will issue the In-Principle Approval (IPA) via email and GoBusiness portal at&nbsp;<a href="https://www.gobusiness.gov.sg/licences">https://www.gobusiness.gov.sg/licences</a> under "submitted documents" tab of your application. With the IPA, applicants may proceed with the renovation.</li>
 <li>To avoid delays, please prepare the documents stated in the IPA and upload them in GoBusiness portal at<a href="https://www.gobusiness.gov.sg/licences">https://www.gobusiness.gov.sg/licences</a> under "submitted documents" tab of your application.</li>
 <li>Incomplete application will be rejected.</li>
 </ul>
@@ -82,7 +82,7 @@ Print md SPCP Here BOTH
 <p>Upon receipt of the IPA, you may proceed with the renovation. Please refer to the IPA for the licensing requirements that you will need to comply with. You may also refer to<a href="https://apc01.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.sfa.gov.sg%2Ffood-retail%2Flicensing-permits&amp;data=04%7C01%7Cshuyaowang%40crimsonlogic.com%7C91ce509df52746335e3508d89c1a09f5%7Cc5e1a618b91e426fb6f3429d06158541%7C0%7C0%7C637430982943248738%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&amp;sdata=ErebeDykTlwVWAUTzEpIRON7rpqhYlmVFcHlJMUEryM%3D&amp;reserved=0">Licensing Requirements</a>on SFA website.</p>
 <p>To avoid delays, you must prepare the documents stated in the IPA and upload them in GoBusiness. The documents include URA&rsquo;s Change of Use or HDB&rsquo;s approval, tenancy agreement, cleaning program and pest control contract. It is also important that you plan the renovation and equipment set up schedule ahead of time so as to minimise the time taken for renovation.</p>
 <p>3.<strong>When is the earliest I can book a pre-licensing inspection for my food shop? How can I book an inspection?</strong></p>
-<p>Refer to Step 2. Please book the pre-licensing inspection<strong>at least 7 days in advance.</strong>You can log a request via<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>for the pre-licensing inspection. Please provide the relevant information (premises address, application number/licence number, name and contact number) in your request. SFA will confirmed your pre-licensing inspection date within 2 working days.</p>
+<p>Refer to Step 2. Please book the pre-licensing inspection<strong>at least 7 days in advance.</strong>&nbsp;You can log a request via&nbsp;<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>for the pre-licensing inspection. Please provide the relevant information (premises address, application number/licence number, name and contact number) in your request. SFA will confirmed your pre-licensing inspection date within 2 working days.</p>
 <p>4.<strong>What will be inspected during the pre-licensing inspection?</strong></p>
 <p>During the inspection, SFA will verify if the setup of the premises is in accordance to the layout plan submitted and whether all the items listed in the IPA have been complied with. For example, SFA will check if exhaust is fitted with an air-cleaner, floor trap for the discharge of wastewater to sewer, adequate washing facilities, storage facilities and etc. At the end of the pre-licensing inspection, the officer will issue you with an inspection report.</p>
 <p>If there are no outstanding issues, the officer will recommend the application for approval.</p>
@@ -95,12 +95,12 @@ Print md SPCP Here BOTH
 <p>7.<strong>When can I commence business? Do I need to wait for the hardcopy licence before I start operations? What do I do if I do not receive the hardcopy licence?</strong></p>
 <p>Refer to Step 3 on when you may commence business.</p>
 <p>SFA will post out the hardcopy licences within 7 working days upon successful payment.</p>
-<p>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>to request for a replacement copy.</p>
+<p>You should receive the hardcopy licence via post within 2 weeks after successful payment. If you do not receive the hardcopy licence after 2 weeks, please write in to SFA at&nbsp;<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>to request for a replacement copy.</p>
 <p>8.<strong>How much does this licence cost and how long is it valid?</strong></p>
 <p>The Food Shop Licence including entertainment outlets (pub, bar, discotheque, night club etc) costs S$195.00 and is valid for one year.</p>
 <p>Please note no refund of fees will be allowed once payment has been made.</p>
 <p>9.<strong>Who can I contact for further details?</strong></p>
-<p>For general enquiries or enquiries regarding your application status, please submit your enquiry and GoBusiness Licensing application ID through SFA online feedback form at<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>.</p>
+<p>For general enquiries or enquiries regarding your application status, please submit your enquiry and GoBusiness Licensing application ID through SFA online feedback form at&nbsp;<a href="https://www.sfa.gov.sg/feedback">https://www.sfa.gov.sg/feedback</a>.</p>
 <p>If you have not submitted your licence application, you may do so online via GoBusiness Licensing. You may also renew or cancel your licence via this platform.</p>
 <p>10.<strong>Other frequently asked questions?</strong></p>
 <p>Q: I am a foreigner with a valid employment pass issued by MOM. Can I apply for the licence in my name?</p>
@@ -122,9 +122,9 @@ Print md SPCP Here BOTH
 <p>Q: Do I need to apply for a food shop licence if I were to prepare and cook food from my home for sale to the public?</p>
 <p>A: Please be informed that under the current regulations, it is an offence to sell home cooked food to the public.</p>
 <p>Q: Can I update, renew or terminate my food shop licence through GoBusiness Licensing?</p>
-<p>A: Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing.</p>
-<p>Q:What are the challenges of operating a F &amp; B business?</p>
-<p>A:Please refer to the "Turning Passion into Profit"<a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">guide</a>to understand the challenges faced by the F &amp; B industry and managing your business.</p>
+<p>A:&nbsp; Yes. You may update, renew and terminate your foodshop licence through GoBusiness Licensing.</p>
+<p>Q:&nbsp;What are the challenges of operating a F &amp; B business?</p>
+<p>A:Please refer to the "Turning Passion into Profit"&nbsp;<a href="https://spring.enterprisesg.gov.sg/Resources/Documents/Guidebook_Turning_Passion_into_Profits.pdf">guide</a>to understand the challenges faced by the F &amp; B industry and managing your business.</p>
 
 **Additional Information**
 

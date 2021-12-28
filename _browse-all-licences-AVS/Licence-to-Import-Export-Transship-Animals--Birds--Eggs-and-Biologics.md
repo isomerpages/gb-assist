@@ -56,7 +56,7 @@ Print md SPCP Here BOTH
 <p>12.Supporting documents required for Licence to Export Small Mammals?</p>
 <p>*No supporting documents required.</p>
 <p>13.Supporting documents required for Licence to Import Small Mammals?</p>
-<p>1) Proof of Ownership for the last 6 months<u>OR</u></p>
+<p>1) Proof of Ownership for the last 6 months&nbsp;<u>OR</u></p>
 <p>2) Quarantine Reservation Code (QRC)</p>
 <p>14.Supporting documents required for Licence to Export Birds?</p>
 <p>1) CITES Export Permit (issued by NParks)</p>
@@ -81,8 +81,8 @@ Print md SPCP Here BOTH
 <p>2) Quality Control Report</p>
 <p>3) Others</p>
 <p>21.Supporting documents required for Licence to Transship Cats &amp; Dogs?</p>
-<p>1) Importing Country/Region's Import Licence<u>OR</u></p>
-<p>2) Valid Veterinary Certificate<u>OR</u></p>
+<p>1) Importing Country/Region's Import Licence&nbsp;<u>OR</u></p>
+<p>2) Valid Veterinary Certificate&nbsp;<u>OR</u></p>
 <p>3) Valid rabies vaccination record/certificate, including details of animal and microchip number</p>
 <p>22.Supporting documents required for Licence to Transship Vaccines?</p>
 <p>1) Products Specifications</p>
