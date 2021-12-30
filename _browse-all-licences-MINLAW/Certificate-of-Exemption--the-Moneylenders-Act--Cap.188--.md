@@ -1,6 +1,6 @@
 ---
 title: Certificate of Exemption (the Moneylenders Act (Cap.188))
-permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap.188))
+permalink: /browse-all-licences/Ministry-of-Law-(MINLAW)/Certificate-of-Exemption-(the-Moneylenders-Act-(Cap188))
 third_nav_title: Ministry of Law (MINLAW)
 ---
 
