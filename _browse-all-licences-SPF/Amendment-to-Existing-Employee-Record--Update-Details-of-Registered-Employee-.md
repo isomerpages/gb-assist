@@ -10,7 +10,7 @@ Singapore Police Force (SPF)
 
 Print md SPCP Here CORPPASS
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/" type="primary" %}
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard-staging.l1t.molb.gov.sg/task-details/8a78783a-c908-476f-9c3a-c7994e022020" type="primary" %}
 
 ### Application Details
 
