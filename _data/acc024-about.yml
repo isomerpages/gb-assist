@@ -46,7 +46,7 @@
 
     - title: Which browser should I use to view GoBusiness?
       content: |
-        GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or contact us for help here.
+        GoBusiness is best viewed with the latest versions of Chrome, Safari, Microsoft Edge and Firefox. Please ensure your pop-up blocker is disabled to access all features. If you are facing any technical difficulties, try restarting your Internet browser or [contact us for help here](/contact-us/).
 
 - accordion:
   letter: c
