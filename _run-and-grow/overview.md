@@ -29,7 +29,7 @@ Additional support programmes are also available:
 Want help navigating all the available schemes? Use our e-Adviser for Government Assistance to see what support schemes your company is eligible for:
 
 {% include button.html text="Go to e-Adviser for Government Assistance" src="
-https://gaeadviser.gobusiness.gov.sg/?src=about_govassist
+https://eadviser.gobusiness.gov.sg/govassist/?src=about_govassist
 " type="primary" %}
 
 ---
