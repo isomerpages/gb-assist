@@ -4,6 +4,10 @@ const customTables = [
     columns: ["32%", "auto"],
   },
   {
+    path: "/contact-us/",
+    columns: ["32%", "auto"],
+  }, 
+  {
     path: "/start-a-business/open-a-corporate-bank-account-b/",
     columns: ["32%", "auto"],
   },
