@@ -8,7 +8,8 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
-Print md SPCP Here CORPPASS
+|--|--|
+|image|<strong>For Business Users Only</strong><br>This licence is only for business users with a registered Unique Entity Number (UEN).|
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000328" type="primary" %}
 
