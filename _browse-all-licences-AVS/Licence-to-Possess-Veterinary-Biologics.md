@@ -8,7 +8,9 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
-Print md SPCP Here CORPPASS
+
+{% include spcp-text.html type="cp" %}
+
 
 {% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1705221400000002" type="primary" %}
 
