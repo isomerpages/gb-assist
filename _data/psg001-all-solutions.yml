@@ -4,11 +4,9 @@
     - title: Advanced Manufacturing
       content: |
         - blah blah
-        <br>
 
     - title: Banks
       content: |
-        <br>
         **IT Solutions**
         - haha
         - lala
@@ -23,7 +21,6 @@
   data:
     - title: Human Resources Solutions
       content: |
-        <br>
         **IT Solutions**
         - haha
         - lala
@@ -32,7 +29,6 @@
         **Consultancy**
         - a
         - b
-        <br>
 
     - title: ERP
       content: |
@@ -44,4 +40,3 @@
         **Consultancy**
         - a
         - b
-        <br>
