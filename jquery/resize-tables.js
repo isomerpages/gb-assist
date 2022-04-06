@@ -31,10 +31,6 @@ const customTables = [
     path: "/licensing-faqs/food-stall-licence/",
     columns: ["12%", "70%", "auto"],
   },
-  {
-    path: "/productivity-solutions-grant/",
-    columns: ["20%", "auto"]
-  }
 ];
 
 $(document).ready(function () {

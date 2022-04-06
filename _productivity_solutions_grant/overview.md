@@ -11,7 +11,7 @@ The Productivity Solutions Grant (PSG) was launched on April 2018 to assist busi
 
 PSG supports the adoption of pre-scoped IT solutions, equipment and consultancy services that improves productivity, aligned to the industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). 
 
-{% include panels-overview.html panels=site.data.ov004-grow_psg %}
+{% include panels-overview.html spanels=site.data.ov004-grow_psg %}
 
 ----
 
@@ -42,4 +42,3 @@ PSG supports the adoption of pre-scoped IT solutions, equipment and consultancy 
 ### Be a PSG vendor
 If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"} to find out more.
 
-<script src="/jquery/resize-tables.js"></script>
