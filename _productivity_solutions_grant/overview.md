@@ -5,8 +5,6 @@ permalink: /productivity-solutions-grant/
 
 ## Productivity Solutions Grant
 
-![PSG Overview](/images/grow/psg/overview_psg_banner.png)
-
 The Productivity Solutions Grant (PSG) was launched on April 2018 to assist businesses in their transformation journey. 
 
 PSG supports the adoption of pre-scoped IT solutions, equipment and consultancy services that improves productivity, aligned to the industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). 
