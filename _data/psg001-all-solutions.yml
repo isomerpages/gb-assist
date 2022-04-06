@@ -4,11 +4,9 @@
     - title: Advanced Manufacturing
       content: |
         - blah blah
-        <br>
 
     - title: Banks
       content: |
-      <br>
         **IT Solutions**
         - haha
         - lala
@@ -16,32 +14,21 @@
 
         **Consultancy**
         - a
-        - b    
+        - b
 
 - accordion:
   letter: b
   data:
     - title: Human Resources Solutions
       content: |
-      <br>
-        **IT Solutions**
-        - haha
-        - lala
-        - blah blah
-
-        **Consultancy**
         - a
         - b
-      <br>
+        - c
+        - d
 
     - title: ERP
       content: |
-        **IT Solutions**
-        - haha
-        - lala
-        - blah blah
-
-        **Consultancy**
-        - a
-        - b
-      <br>
+        - 1
+        - 2
+        - 3
+        - 4
