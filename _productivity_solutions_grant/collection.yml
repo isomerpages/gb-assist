@@ -3,5 +3,40 @@ collections:
     output: true
     order:
       - overview.md
-      - all-psg-solutions.md
+      - business-software-solutions/.keep
+      - business-software-solutions/solution-types.md
+      - business-software-solutions/001-sms-am-im-crm.md
+      - business-software-solutions/002-sms-am-im.md
+      - business-software-solutions/003-sms-am-crm.md
+      - business-software-solutions/004-sms-am.md
+      - business-software-solutions/005-sms-im.md
+      - business-software-solutions/006-sms-crm.md
+      - business-software-solutions/007-crm.md
+      - business-software-solutions/008-im.md
+      - human-resources-solutions.md
+      - e-commerce.md
+      - cyber-security.md
+      - fleet-n-document-management.md
+      - sector-specific-solutions/.keep
+      - sector-specific-solutions/advanced-manufacturing.md
+      - sector-specific-solutions/banks.md
+      - sector-specific-solutions/building-construction.md
+      - sector-specific-solutions/cleaning.md
+      - sector-specific-solutions/early-childhood.md
+      - sector-specific-solutions/engineering-services.md
+      - sector-specific-solutions/estate-agency.md
+      - sector-specific-solutions/food.md
+      - sector-specific-solutions/food-manufacturing.md
+      - sector-specific-solutions/food-services.md
+      - sector-specific-solutions/healthcare.md
+      - sector-specific-solutions/legal.md
+      - sector-specific-solutions/logistics.md
+      - sector-specific-solutions/marine-offshore.md
+      - sector-specific-solutions/pest-management.md
+      - sector-specific-solutions/precision-engineering.md
+      - sector-specific-solutions/retail.md
+      - sector-specific-solutions/security.md
+      - sector-specific-solutions/travel-agents.md
+      - sector-specific-solutions/waste-management.md
+      - sector-specific-solutions/wholesale-trade.md
       - faq.md
