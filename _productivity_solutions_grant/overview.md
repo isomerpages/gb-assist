@@ -34,7 +34,7 @@ PSG supports the adoption of pre-scoped IT solutions, equipment and consultancy 
 | **Sector-specific solutions** | Sector-specific solutions are eligible for companies within the respective sectors only. These solutions are specially curated by sector lead agencies, aligned to industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). |
 | **Generic solutions** | Generic solutions are for all companies, across business sectors and industries. Solutions are intended to improve companies' productivity in managing general business functions and processes. |
 
-{% include button.html text="View All Solutions" src="all-psg-solutions.md" type="primary" %}
+{% include button.html text="View All Solutions" src="" type="primary" %}
 
 
 <a name="be-psg-vendor"></a>
