@@ -9,11 +9,6 @@
         - Manufacturing Quality Management
         - Real-time Production Scheduling and Job Tracking
         - Product and Manufacturing Process Configuration
-        - Equipment Monitoring and Manufacturing Data Collection
-        - Manufacturing Quality Management
-        - Product and Manufacturing Process Configuration
-        - Equipment Monitoring and Manufacturing Data Collection
-        - Manufacturing Quality Management
         
         **Equipment**
         - General Advanced Manufacturing Equipment
@@ -29,31 +24,11 @@
         - e-Permit-to-work (e-PTW)
         - FM Workflow Automation
         - Quantity Surveying and Valuation
-        - e-Permit-to-work (e-PTW)
-        - FM Workflow Automation
         - Coordination Tools and Collaboration Platform
-        - e-Permit-to-work (e-PTW)
         - 3D Modelling, Immersive Visualisation & Analysis
-        - Coordination Tools and Collaboration Platform
-        - FM Workflow Automation
         - Intelligent National Productivity and Quality Specification (iNPQS)
-        - FM Workflow Automation
-        - Coordination Tools and Collaboration Platform
-        - FM Workflow Automation
-        - Quantity Surveying and Valuation
         - Integrated and Smart Worksite Monitoring and Inspection
-        - FM Workflow Automation
-        - Coordination Tools and Collaboration Platform
-        - FM Workflow Automation
-        - 3D Modelling, Immersive Visualisation & Analysis
         - Digital Wearables for Workers' Health and Safety
-        - 3D Modelling, Immersive Visualisation & Analysis
-        - Digital Wearables for Workers' Health and Safety
-        - 3D Modelling, Immersive Visualisation & Analysis
-        - Integrated and Smart Worksite Monitoring and Inspection
-        - FM Workflow Automation
-        - 3D Modelling, Immersive Visualisation & Analysis
-        - FM Workflow Automation
     - title: Cyber Security (Generic)
       content: |
         
@@ -67,10 +42,7 @@
         - Pre-School Management System
         - E-enrolment Form
         - Pre-School Management System and e-Enrolment Forms for Preschools
-        - E-enrolment Form
         - Data Analytics for Centre Operations
-        - E-enrolment Form
-        - Pre-School Management System and e-Enrolment Forms for Preschools
     - title: Engineering Services
       content: |
         
@@ -78,7 +50,6 @@
         - Workforce Management
         - Project Management System
         - 3-in-1 ERP solution
-        - Workforce Management
         
         **Equipment**
         - General Engineering Services Equipment
@@ -88,14 +59,11 @@
         **IT Solution**
         - Document Management for Estate Agents
         - Document Management and Transaction Records Submission for Estate Agents
-        - Document Management for Estate Agents
         
         **Equipment**
         - Food
         
         **Equipment**
-        - Food Manufacturing
-        - General Food Manufacturing Equipment
         - Food Manufacturing
         - General Food Manufacturing Equipment
     - title: Food Services
@@ -104,26 +72,12 @@
         **IT Solution**
         - Digital/ Online Ordering and Payment and Online Food Delivery
         - Digital/ Online Ordering and Payment (Part 1)
-        - Digital/ Online Ordering and Payment and Online Food Delivery
-        - Digital/ Online Ordering and Payment (Part 1)
         - B2B Marketplace/E-Procurement System
-        - Digital/ Online Ordering and Payment (Part 2)
-        - Digital/ Online Ordering and Payment and Online Food Delivery
         - Digital/ Online Ordering and Payment (Part 2)
         - Digital/ Online Ordering and Payment, Online Food Delivery and Data Mining and Analytics
         - E-Loyalty / Customer Relationship Management
-        - Digital/ Online Ordering and Payment (Part 2)
         - Automated Reservation
-        - Digital/ Online Ordering and Payment and Online Food Delivery
         - Queue Management
-        - Digital/ Online Ordering and Payment (Part 2)
-        - Digital/ Online Ordering and Payment and Online Food Delivery
-        - B2B Marketplace/E-Procurement System
-        - Digital/ Online Ordering and Payment (Part 2)
-        - Digital/ Online Ordering and Payment and Online Food Delivery
-        - Digital/ Online Ordering and Payment, Online Food Delivery and Data Mining and Analytics
-        - B2B Marketplace/E-Procurement System
-        - Automated Reservation
         
         **Equipment**
         - General Food Services Equipment
@@ -141,10 +95,6 @@
         **IT Solution**
         - Networked Trade Platform Value Added Services
         - E-Freight Management
-        - Transport Management
-        - E-Freight Management
-        - Transport Management
-        - Warehouse Management
         - Transport Management
         - Warehouse Management
         
@@ -170,31 +120,15 @@
         **IT Solution**
         - Enhanced Retail Management System (Part 1)
         - Enhanced Retail Management System (Part 2)
-        - Enhanced Retail Management System (Part 1)
-        - Enhanced Retail Management System (Part 2)
-        - Enhanced Retail Management System (Part 1)
-        - Enhanced Retail Management System (Part 2)
-        - Enhanced Retail Management and Inventory Management
-        - Enhanced Retail Management System (Part 2)
-        - Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
         - Enhanced Retail Management and Inventory Management
         - Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
-        - Enhanced Retail Management and Inventory Management
-        - Enhanced Retail Management System (Part 2)
         - Retail Analytics
-        - Enhanced Retail Management System (Part 2)
-        - Enhanced Retail Management System (Part 1)
-        - Enhanced Retail Management System (Part 2)
-        - Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
-        - Enhanced Retail Management and Inventory Management
     - title: Security
       content: |
         
         **IT Solution**
         - Surveillance and Analytics
         - Automated Visitor Management
-        - Mobile-Enabled Patrol and Incident Management
-        - Surveillance and Analytics
         - Mobile-Enabled Patrol and Incident Management
     - title: Travel Agents
       content: |
@@ -208,19 +142,9 @@
         - Sales Management
         - Distribution Management System
         - Workforce Management
-        - Sales Management
         - Enterprise Resource Planning (ERP) Software for Wholesale
         - Inventory Management System
         - Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
-        - Sales Management
-        - Enterprise Resource Planning (ERP) Software for Wholesale
-        - Sales Management
-        - Distribution Management System
-        - Inventory Management System
-        - Sales Management
-        - Commercial Anti-Money Laundering (ML)/Countering the Financing of Terrorism (TF) Screening
-        - Workforce Management
-        - Enterprise Resource Planning (ERP) Software for Wholesale
         
         **Equipment**
         - General Wholesale Trade Equipment
@@ -233,26 +157,7 @@
         **IT Solution**
         - Human Resource Management System (HRMS) (Part 2)
         - Human Resource Management System (HRMS) (Part 1)
-        - Human Resource Management System (HRMS) (Part 2)
         - Human Resource E-scheduling System
-        - Human Resource Management System (HRMS) (Part 2)
-        - Human Resource E-scheduling System
-        - Human Resource Management System (HRMS) (Part 2)
-        - Human Resource E-scheduling System
-        - Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
-        - Human Resource E-scheduling System
-        - Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
-        - Human Resource Management System (HRMS) (Part 2)
-        - Human Resource E-scheduling System
-        - Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
-        - Human Resource Management System (HRMS) (Part 2)
-        - Human Resource E-scheduling System
-        - Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
-        - Human Resource E-scheduling System
-        - Human Resource Management System (HRMS) (Part 2)
-        - Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
-        - Human Resource Management System (HRMS) (Part 1)
-        - Human Resource Management System (HRMS) (Part 2)
         - Human Resource Shared Services (HRSS) Needs Analysis + HR Administrative Support & Payroll Processing via a HRMS
     - title: Enterprise Resource Planning (ERP) and Standalone solutions
       content: |
@@ -261,126 +166,20 @@
         - Accounting Management and Sales Management System (Part 1)
         - Accounting Management, Inventory Management and Sales Management System (Part 1)
         - Accounting Management and Sales Management System (Part 3)
-        - Accounting Management, Inventory Management and Sales Management System (Part 1)
         - Customer Relationship Management (CRM)
         - Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
-        - Accounting Management, Inventory Management and Sales Management System (Part 1)
         - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Accounting Management, Inventory Management and Sales Management System (Part 1)
-        - Inventory Management and Sales Management System
-        - Customer Relationship Management (CRM)
         - Customer Relationship Management (CRM) and Sales Management System
-        - Accounting Management and Sales Management System (Part 1)
-        - Inventory Management and Sales Management System
-        - Accounting Management, Inventory Management and Sales Management System (Part 1)
-        - Customer Relationship Management (CRM)
-        - Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
         - Accounting Management, Inventory Management and Sales Management System (Part 2)
         - Accounting Management, Customer Relationship Management (CRM) and Sales Management System
-        - Accounting Management, Inventory Management and Sales Management System (Part 1)
-        - Accounting Management, Inventory Management and Sales Management System (Part 2)
         - Inventory Management System
-        - Inventory Management and Sales Management System
-        - Inventory Management System
-        - Accounting Management, Inventory Management and Sales Management System (Part 2)
-        - Accounting Management, Customer Relationship Management (CRM) and Sales Management System
-        - Accounting Management, Inventory Management and Sales Management System (Part 2)
-        - Accounting Management and Sales Management System (Part 1)
-        - Inventory Management and Sales Management System
-        - Accounting Management, Inventory Management and Sales Management System (Part 2)
-        - Accounting Management and Sales Management System (Part 1)
-        - Accounting Management, Inventory Management and Sales Management System (Part 2)
-        - Accounting Management and Sales Management System (Part 3)
-        - Inventory Management and Sales Management System
-        - Accounting Management and Sales Management System (Part 1)
-        - Inventory Management and Sales Management System
-        - Accounting Management and Sales Management System (Part 1)
-        - Accounting Management, Inventory Management and Sales Management System (Part 2)
         - Accounting Management and Sales Management System (Part 2)
-        - Customer Relationship Management (CRM)
-        - Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Accounting Management and Sales Management System (Part 2)
-        - Customer Relationship Management (CRM)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Customer Relationship Management (CRM)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Accounting Management and Sales Management System (Part 2)
-        - Customer Relationship Management (CRM)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Customer Relationship Management (CRM)
-        - Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
-        - Accounting Management and Sales Management System (Part 2)
-        - Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
-        - Customer Relationship Management (CRM) and Sales Management System
-        - Accounting Management, Inventory Management and Sales Management System (Part 2)
-        - Customer Relationship Management (CRM)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Accounting Management and Sales Management System (Part 3)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
-        - Accounting Management and Sales Management System (Part 3)
-        - Accounting Management and Sales Management System (Part 1)
-        - Accounting Management and Sales Management System (Part 3)
-        - Customer Relationship Management (CRM)
-        - Accounting Management and Sales Management System (Part 3)
-        - Accounting Management, Inventory Management and Sales Management System (Part 2)
-        - Inventory Management System
-        - Customer Relationship Management (CRM)
-        - Accounting Management and Sales Management System (Part 3)
-        - Customer Relationship Management (CRM) and Sales Management System
-        - Accounting Management and Sales Management System (Part 3)
-        - Customer Relationship Management (CRM) and Sales Management System
-        - Customer Relationship Management (CRM)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Accounting Management and Sales Management System (Part 3)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Accounting Management and Sales Management System (Part 3)
-        - Customer Relationship Management (CRM)
-        - Accounting Management and Sales Management System (Part 3)
-        - Customer Relationship Management (CRM) and Sales Management System
-        - Accounting Management and Sales Management System (Part 3)
-        - Inventory Management and Sales Management System
-        - Accounting Management and Sales Management System (Part 3)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Customer Relationship Management (CRM)
-        - Accounting Management and Sales Management System (Part 3)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Customer Relationship Management (CRM)
-        - Inventory Management and Sales Management System
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Accounting Management, Customer Relationship Management (CRM), Inventory Management and Sales Management System
-        - Accounting Management and Sales Management System (Part 3)
-        - Inventory Management and Sales Management System
-        - Accounting Management and Sales Management System (Part 3)
-        - Inventory Management System
-        - Inventory Management and Sales Management System
-        - Accounting Management and Sales Management System (Part 3)
-        - Accounting Management, Inventory Management and Sales Management System (Part 3)
-        - Inventory Management System
-        - Accounting Management and Sales Management System (Part 3)
-        - Inventory Management System
-        - Accounting Management and Sales Management System (Part 3)
-        - Accounting Management and Sales Management System (Part 1)
-        - Accounting Management and Sales Management System (Part 3)
-        - Inventory Management System
-        - Inventory Management and Sales Management System
-        - Customer Relationship Management (CRM)
-        - Customer Relationship Management (CRM) and Sales Management System
-        - Accounting Management, Customer Relationship Management (CRM) and Sales Management System
     - title: Fleet Safety and Fleet Management System
       content: |
         
         **IT Solution**
         - Fleet Management System
         - Fleet Safety Management System
-        - Fleet Management System
-        - Fleet Safety Management System
-        - Fleet Management System
-        - Fleet Safety Management System
-        - Fleet Management System
-        - Fleet Safety Management System
-        - Fleet Management System
     - title: Document Management and Mobile Access System
       content: |
         
@@ -403,23 +202,3 @@
         - Managed Detection and Response
         - EndPoint Protection Platform
         - Unified Threat Management
-        - EndPoint Protection Platform
-        - Unified Threat Management
-        - Managed Detection and Response
-        - EndPoint Protection Platform
-        - Unified Threat Management
-        - Managed Detection and Response
-        - Unified Threat Management
-        - EndPoint Protection Platform
-        - Unified Threat Management
-        - EndPoint Protection Platform
-        - Unified Threat Management
-        - EndPoint Protection Platform
-        - Unified Threat Management
-        - EndPoint Protection Platform
-        - Unified Threat Management
-        - EndPoint Protection Platform
-        - Unified Threat Management
-        - Managed Detection and Response
-        - Unified Threat Management
-        - EndPoint Protection Platform
