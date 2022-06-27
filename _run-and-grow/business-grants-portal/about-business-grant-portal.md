@@ -61,7 +61,7 @@ You will be notified of your application results via email. Log into BGP to acce
 
 Once you have accepted your Letter of Offer, you will be notified on your claim due date for your grant via email. Log into BGP to file your claim before the claim due date and your approved claim will be credited to your company's bank account. 
  
- {% include news-and-updates.html %}
+ {% include news-and-updates-bgp.html %}
 
 ---
 
