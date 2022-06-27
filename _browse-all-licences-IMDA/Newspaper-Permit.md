@@ -8,31 +8,25 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here BOTH
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=13" type="primary" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=13" type="primary" %}
-
-### Application Details
+<H3>Application Details</H3>
 
 <p>For publishing or printing a local periodical; selling or distributing a Malaysian periodical; and selling or distributing an offshore newspaper (300 copies or more).</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-N.A.
+<p><strong>Fees</strong><br />N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Bank Guarantee and Special Conditions
-
-Kementerian Dalam Negeri (KDN) Permit
-
-Letter of Authorisation
-
-Mock-up or sample copy of proposed newspaper
-
-Permit Agent Form - Malaysian Newspaper
-
-Scanned copy of the Foreign Identification Number (FIN) document and passport
-
-Two copies each of three recent issues of your newspaper
+<ul>
+ <li><strong>Bank Guarantee and Special Conditions</strong></li>
+ <li><strong>Kementerian Dalam Negeri (KDN) Permit</strong></li>
+ <li><strong>Letter of Authorisation</strong></li>
+ <li><strong>Mock-up or sample copy of proposed newspaper</strong></li>
+ <li><strong>Permit Agent Form - Malaysian Newspaper</strong></li>
+ <li><strong>Scanned copy of the Foreign Identification Number (FIN) document and passport</strong></li>
+ <li><strong>Two copies each of three recent issues of your newspaper</strong></li>
+ </ul>
 

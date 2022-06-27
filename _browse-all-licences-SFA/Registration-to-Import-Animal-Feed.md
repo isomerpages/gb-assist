@@ -4,29 +4,30 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Registration-to-Impo
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Registration to Import Animal Feed (to be merged into Food and Feed Trading Licence)
+## Apply for Registration to Import Animal Feed
 
 Singapore Food Agency (SFA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1310161601000052" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=1310161601000052" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Registration to Import Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This registration is issued to importers to import animal feed.</p>
-<p><strong>FAQs</strong></p>
-<p>Not available!</p>
+ <h3>FAQs</h3>
+ <p>Not available!</p>
 
-**Additional Information**
-
-N.A.
-
-### Documents Needed
+<strong>Additional Information</strong>
 
 N.A.
 
-### Requirements
+<H3>Documents Needed</H3>
 
-Applicant must be ACRA registered company/ business
+N.A.
+
+<H3>Requirements</H3>
+
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

@@ -8,21 +8,33 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-Print md SPCP Here BOTH
+{% include button.html text="Apply on GoBusiness Dashboard" src="https://dashboard.gobusiness.gov.sg/task-details/6fcfc4e9-64a3-49bf-bc76-eb825200b846" type="primary" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=23" type="primary" %}
-
-### Application Details
+<H3>Application Details</H3>
 
 <p>Under Fire Safety Action Section 30, a Temporary Change of Use approval is required to erect necessary structures for exhibitions, promotions, trade fairs, carnivals or stage shows.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p>Application Fee: $80</p>
+<p><strong>Fees</strong><br>
+Application Fee: $60
+</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-<p><strong>Layout Plans</strong><br />Layout plans to be endorsed by landowner/building management.</p>
-<p><strong>Land owner's approval letter</strong></p>
-<p><strong>Photo of the Venue/Location</strong></p>
+<ul>
+<li><strong>Layout Plans</strong><br />Layout plans to be endorsed by landowner/building management.<br>
+File format: pdf,doc,docx,tif,jpg<br>
+Maximum upload per application: 2 MB
+</li>
+<li><strong>Land owner's approval letter</strong><br>
+File format: pdf,doc,docx,tif,jpg<br>
+Maximum upload per application: 2 MB
+</li>
+<li><strong>Photo of the Venue/Location</strong><br>
+File format: pdf,doc,docx,tif,jpg<br>
+Maximum upload per application: 2 MB
+</li>
+</ul>
+
 

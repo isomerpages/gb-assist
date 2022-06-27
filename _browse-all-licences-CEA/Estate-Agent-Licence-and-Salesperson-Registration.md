@@ -8,14 +8,13 @@ third_nav_title: Council for Estate Agencies (CEA)
 
 Council for Estate Agencies (CEA)
 
-Print md SPCP Here BOTH
-
 {% include button.html text="Apply on CEA" src="http://www.cea.gov.sg/" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>To conduct estate agency work such as marketing, buying, selling and/or leasing properties for third parties.</p>
-<p><strong>FAQ</strong></p>
-<p>Question:<br />Where can I get the FAQ for Estate Agent Licence and Salesperson Registration?</p>
-<p>Answer:<br />You can get the FAQ on this link: <a href="https://va.ecitizen.gov.sg/cfp/customerPages/cea/explorefaq.aspx">CEA (ecitizen.gov.sg)</a></p>
+ <h3>FAQ</h3>
+ <ol>
+ <li><strong>Where can I get the FAQ for Estate Agent Licence and Salesperson Registration?</strong><br />You can get the FAQ at <a href="https://va.ecitizen.gov.sg/cfp/customerPages/cea/explorefaq.aspx" target="_blank" rel="noopener">CEA (ecitizen.gov.sg)</a></li>
+ </ol>
 

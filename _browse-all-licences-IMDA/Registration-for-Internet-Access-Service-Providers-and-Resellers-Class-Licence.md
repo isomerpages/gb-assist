@@ -8,27 +8,27 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=12" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=12" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For providing internet access services to all or part of the public (includes any single building, institution, residential or commercial complex but does not include provision to a person's own employees for use within the person's firm or corporation).</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-The fee will be determined by agency
+<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Fees/Rates Charges
+<ul>
+ <li><strong>Fees/Rates Charges</strong></li>
+ <li><strong>Programming Guidelines/Acceptable Use Policy</strong></li>
+ <li><strong>Schematic of the Delivery System</strong></li>
+ </ul>
 
-Programming Guidelines/Acceptable Use Policy
-
-Schematic of the Delivery System
-
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

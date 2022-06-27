@@ -8,53 +8,33 @@ third_nav_title: Singapore Food Agency (SFA)
 
 Singapore Food Agency (SFA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201306030000332" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>In Singapore, all slaughter-houses must be licensed by the Singapore Food Agency before they are permitted to carry out any food processing or storage for wholesale distribution.</p>
-<p><strong>FAQs</strong></p>
-<p>1. Where can I get the FAQ for Export Health Certificate for Licence to Operate a Slaughterhouse?</p>
-<p>You can get the FAQ on this link: SFA FAQ website at</p>
-<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+ <h3>FAQs</h3>
+ <ol>
+ <li><strong>Where can I get the FAQ for Licence to Operate a Slaughterhouse?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
+ </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p><strong>Fee</strong></p>
-<table class="table table-condensed">
-<thead>
-<tr>
-<th>Type</th>
-<th>Admin Fees</th>
-<th>Licence Fees</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td data-title="Type">Livestock</td>
-<td data-title="Admin Fees">$157.50</td>
-<td data-title="Licence Fees">$4000.00</td>
-</tr>
-<tr>
-<td data-title="Type">Poultry</td>
-<td data-title="Admin Fees">$157.50</td>
-<td data-title="Licence Fees">$1575.00</td>
-</tr>
-</tbody>
-</table>
+<p><strong>Fees</strong><br><span style="text-decoration: underline;">Livestock</span><br />Admin fees: $157.50<br />Licence fees: $4000.00<br><span style="text-decoration: underline;">Poultry</span><br />Admin fees: $157.50<br />Licence fees: $1575.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-<p><strong>Supporting Documents</strong></p>
-<p><strong>Architectural Layout Plan</strong></p>
-<p><strong>Particulars of Products</strong></p>
-<p><strong>Process Flow Chart</strong></p>
-<p><strong>Others</strong></p>
+<ul>
+ <li><strong>Architectural Layout Plan</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Particulars of Products<br /></strong>File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Process Flow Chart</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+ </ul>
 
+<H3>Requirements</H3>
 
-### Requirements
-
-Applicant must be ACRA registered company/ business
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

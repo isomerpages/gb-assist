@@ -8,27 +8,27 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=15" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=15" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For distributing films (including videotapes, VCDs and DVDs but excluding cinematograph films).<br>For exhibiting films (including cinematograph films, videotapes, VCDs and DVDs) that are classified R21, M18 and NC16.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-The fee will be determined by agency
+<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Age-Compliant Measures
+<ul>
+ <li><strong>Age-Compliant Measures</strong></li>
+ <li><strong>Business Proposition</strong></li>
+ <li><strong>Location Maps</strong></li>
+ </ul>
 
-Business Proposition
-
-Location Maps
-
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

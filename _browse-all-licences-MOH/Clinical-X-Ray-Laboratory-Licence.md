@@ -8,11 +8,11 @@ third_nav_title: Ministry of Health (MOH)
 
 Ministry of Health (MOH)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
 {% include button.html text="Apply on MOH" src="https://www.moh.gov.sg/licensing-and-regulation/information-for-laboratories" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Clinical X-Ray Laboratory</p>
 

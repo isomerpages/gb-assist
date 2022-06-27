@@ -8,41 +8,33 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=248" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=248" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>A licence for a company to Repair arms.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-Contact Details: Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg
-Fee: $405 for 2 years or part thereof
+<p><strong>Fees</strong><br> Fees: $405 for 2 years or part thereof</p> <p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. <a href="tel:6835 0000">6835 0000</a> or email: <a href="mailto:spf_licensing_feedback@spf.gov.sg">spf_licensing_feedback@spf.gov.sg</a></p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Supporting documents to be submitted include, but not limited to:
+<p>Supporting documents to be submitted include, but not limited to:</p>
+<ul>
+<li>catalogue and brochure of arms</li>
+<li>training records and certifications of staff handling repair of arms</li>
+<li>safety and security plan for repair, transportation and storage of arms (where applicable)</li>
+</ul>
 
-a) catalogue and brochure of arms
-b) training records and certifications of staff handling repair of arms
-c) safety and security plan for repair, transportation and storage of arms (where applicable)
+<H3>Requirements</H3>
 
-### Requirements
+<p>The applicant must be;</p>
+a) a Singaporean or Permanent Resident of Singapore<br>
+b) at least 21 years old at the time of application<br>
+c) must be the following business stakeholders as registered with the Accounting and Corporate Regulatory Authority (ACRA)<br />i) A Director - for companies<br />ii) A Partner - for partnerships, limited partnerships (LP) and limited liability partnerships (LLP)<br />iii) The Sole Proprietor - for sole proprietorships<br>
+d) The applicant, directors / partners and staff who will be directly involved in the handling of arms must fulfil the following criteria:<br />i) be fit and proper person e.g free from criminal record; and<br />ii) have the relevant experience and training in handling of arms</p>
 
-The applicant must be;
-
-a) a Singaporean or Permanent Resident of Singapore
-
-b) at least 21 years old at the time of application
-
-c) must be the following business stakeholders as registered with the Accounting and Corporate Regulatory Authority (ACRA)
-i) A Director - for companies
-ii) A Partner - for partnerships, limited partnerships (LP) and limited liability partnerships (LLP)
-iii) The Sole Proprietor - for sole proprietorships
-
-d) The applicant, directors / partners and staff who will be directly involved in the handling of arms must fulfil the following criteria:
-i) be fit and proper person e.g free from criminal record; and
-ii) have the relevant experience and training in handling and repair of arms
 

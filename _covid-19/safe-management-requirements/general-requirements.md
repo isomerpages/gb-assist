@@ -10,16 +10,12 @@ To ensure a safe working environment, businesses are required to abide by the [n
 
 All businesses should take note of the following:
 
-- From 19 August 2021, temperature screening and symptom checks are no longer required at workplaces.
+- All employees can now return to the workplace. Employees returning to the workplace are encouraged to self-test when they feel unwell or had recent contact with an infected person.
 
-- Employers must ensure that no more than 50% of employees who are able to work from home are at the workplace at any point in time, regardless of their vaccination status.
+- For employees (and contractors and vendors) who are physically onsite at the workplace, mask wearing is required indoor except when (i) persons are not interacting with others and (ii) not in customer-facing areas where interaction is likely to happen. While this concession will provide some flexibility for employees as more return to the workplace, everyone is advised to exercise social responsibility and maintain an appropriate safe distance from others while unmasked.
 
-- Employers should continue to stagger start times of employees who need to return to the workplace and implement flexible working hours.
-
-- Social gatherings at the workplace will not be allowed. Employees should have their meal breaks at the workplace individually.
-
-- From 8 September 2021, if an employee tests positive for COVID-19 and was at the workplace on any of the past 7 days, the employer must implement a snap 14-day work-from-home regime for all employees who are able to do so.
+- Employers and employees can refer to the [Updated Advisory on COVID-19 Vaccination at the Workplace](https://www.mom.gov.sg/covid-19/advisory-on-covid-19-vaccination-in-employment-settings){:target="_blank"}{:rel="noopener"} for more details on work arrangements for unvaccinated employees. Employers may check their company's vaccination rate through [The Workforce Vaccination Checker](https://go.gov.sg/percentvaccinated){:target="_blank"}{:rel="noopener"} (Corppass login required).
 
 - Any applicable sector-specific requirements
 
-![SMR](/images/covid/smradvice.jpg 'SMR')
+![SMR](/images/covid/Updates to SMM infographic-Apr 2022_v3-01.png)

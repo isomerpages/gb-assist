@@ -8,39 +8,33 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10077" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10077" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Equipment registration under the Enhanced Simplified Equipment Registration (ESER) Scheme is for equipment suppliers who wish to register short range/low power devices (SRD/LPD) and complex multi-line equipment</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-N.A. (free-of-charge)
+<p><strong>Fees</strong><br />N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Product Brochure with Technical Data
+<ul>
+ <li><strong>Product Brochure with Technical Data</strong></li>
+ <li><strong>Cybersecurity Labelling Scheme - Conformance Checklist</strong></li>
+ <li><strong>Login Credentials Management</strong></li>
+ <li><strong>Device Setup & Administration</strong></li>
+ <li><strong>Firmware Updates</strong></li>
+ <li><strong>Wireless Access Protection</strong></li>
+ <li><strong>Data Protection</strong></li>
+ <li><strong>Validation of Data Inputs</strong></li>
+ <li><strong>Vulnerability Reporting</strong></li>
+ </ul>
 
-Cybersecurity Labelling Scheme - Conformance Checklist
-
-Login Credentials Management
-
-Device Setup & Administration
-
-Firmware Updates
-
-Wireless Access Protection
-
-Data Protection
-
-Validation of Data Inputs
-
-Vulnerability Reporting
-
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

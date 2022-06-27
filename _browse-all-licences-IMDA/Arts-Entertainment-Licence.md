@@ -8,30 +8,24 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here BOTH
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=6" type="primary" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=6" type="primary" %}
-
-### Application Details
+<H3>Application Details</H3>
 
 <p>For carrying out any form of public entertainment concerning the arts, viz. plays, musical performances, dance performances, exhibitions, variety shows and pop/ rock concerts. The Arts Entertainment Licence has to be collected from IMDA before the start of the the performance or event.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-The fee will be determined by agency
+<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
+<H3>Documents Needed</H3>
 
-### Documents Needed
-
-Art Exhibitions
-
-Multi-disciplinary Arts Entertainment
-
-Improv Performances
-
-Plays, Play-Reading and Poetry Recital
-
-Pop/Rock Concerts and Variety Shows
-
-Unscripted Performances e.g. Dance, Performance Art, Stand-up Comedy, Forum Theatre
+<ul>
+ <li><strong>Art Exhibitions</strong></li>
+ <li><strong>Multi-disciplinary Arts Entertainment</strong></li>
+ <li><strong>Improv Performances</strong></li>
+ <li><strong>Plays, Play-Reading and Poetry Recital</strong></li>
+ <li><strong>Pop/Rock Concerts and Variety Shows</strong></li>
+ <li><strong>Unscripted Performances e.g. Dance, Performance Art, Stand-up Comedy, Forum Theatre</strong></li>
+ </ul>
 

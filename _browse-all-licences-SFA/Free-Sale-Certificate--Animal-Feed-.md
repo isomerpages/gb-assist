@@ -8,37 +8,33 @@ third_nav_title: Singapore Food Agency (SFA)
 
 Singapore Food Agency (SFA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000327" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000327" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Free Sale Certificate for Animal Feed may be issued by either Animal & Veterinary Service, a cluster of National Parks Board or Singapore Food Agency. This certificate allows exporters to get endorsement for this animal feed products intended for export.</p>
-<p><strong>FAQs</strong></p>
-<p>1. Where can I get the FAQ for Free Sale Certificate for Animal Feed?</p>
-<p>You can get the FAQ on this link: SFA FAQ website at</p>
-<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+ <h3>FAQs</h3>
+ <ol>
+ <li><strong>Where can I get the FAQ for Free Sale Certificate for Animal Feed?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
+ </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p><strong>Fee</strong></p>
-<p>Licence Fee:$21.00</p>
-<p>Express Fee (Category Based): $21.00</p>
+<p><strong>Fee<br /></strong>Licence Fee: $21.00<br />Express Fee (Category Based): $21.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-<p><strong>Supporting Documents</strong></p>
-<p><strong>Product Details</strong></p>
-<p>For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.</p>
-<p><strong>Certificate of Analysis</strong></p>
-<p><strong>Letter of Declaration</strong></p>
-<p>For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.</p>
-<p><strong>Others</strong></p>
-<p>For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.</p>
+<ul>
+ <li><strong>Product Details</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Certificate of Analysis<br /></strong>File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 5MB<br /><br /></li>
+ <li><strong>Letter of Declaration</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Others</strong><br />For watermark supporting document, please ensure the content in the document is embedded within A4 size and kept within the default margin.<br />File format: BMP,DOCX,GIF,JPEG,JPG,PDF,PNG,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+ </ul>
 
+<H3>Requirements</H3>
 
-### Requirements
-
-Applicant must be ACRA registered company/ business
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

@@ -3,14 +3,14 @@
   data:
     - title: Events
       content: |
-        - [e-Adviser for Events](https://eadviser.g2b.sg/events){:target="_blank"}
+        - [e-Adviser for Events](https://eadviser.gobusiness.gov.sg/events){:target="_blank"}
           <br>Find out the licences and permits you need to organise an event with our new e-Adviser for Events.<br><br>
 
 
     - title: Premise Use Check
       content: |
         - [e-Adviser for Premises Use](https://eadviser.gobusiness.gov.sg/premisesusecheck){:target="_blank"}
-          <br>Find out the licences and permits you need to organise an event with our new e-Adviser for Events.<br><br>
+          <br>Check if a property is approved for your intended use with our e-Adviser for Premises Use.<br><br>
 
 - accordion:
   letter: a
@@ -116,6 +116,18 @@
 
         - [Buy/store/possess ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/buystorepossessionisingradiationirradiatingapparatus){:target="_blank"}
 
+        - [Non-Residential Consumer buying electricity at tariff and installing solar PV](https://eadviser.gobusiness.gov.sg/nonresidentialconsumerbuyingelectricityinstallingsolarpv){:target="_blank"}
+
+        - [Non-Residential Consumer buying electricity at retail price and installing solar PV of < 1 MWac](https://eadviser.gobusiness.gov.sg/nrcbuyelectricityinstallsolarpvless1mwac){:target="_blank"}
+
+        - [Non-Residential Consumer buying electricity at retail price and installing solar PV of >= 1 MWac](https://eadviser.gobusiness.gov.sg/nrcbuyelectricityinstallsolarpvmore1mwac){:target="_blank"}
+
+        - [Residential Consumer buying electricity at tariff and installing solar PV](https://eadviser.gobusiness.gov.sg/residentialconsumerbuyingelectricityinstallingsolarpv){:target="_blank"}
+
+        - [Residential Consumer buying electricity at retail price and installing solar PV of < 1 MWac](https://eadviser.gobusiness.gov.sg/residentialconsumerbuyingelectricityinstallingsolarpvless1mwac){:target="_blank"}
+
+        - [Residential Consumer buying electricity at retail price and installing solar PV of >= 1 MWac](https://eadviser.gobusiness.gov.sg/residentialconsumerbuyingelectricityinstallingsolarpvmore1mwac){:target="_blank"}
+
         - [Setting up business to generate, retail, transmit electricity](https://eadviser.gobusiness.gov.sg/settingupbusinesstogenerateretailtransmitelectricity){:target="_blank"}
 
         - [Setting up business to import, ship or retail gas](https://eadviser.gobusiness.gov.sg/settingupbusinesstoimportshiporretailgas){:target="_blank"}
@@ -123,6 +135,7 @@
         - [Store petroleum and flammable materials](https://eadviser.gobusiness.gov.sg/storepetroleumandflammablematerials){:target="_blank"}
 
         - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
+        
 
     - title: Environmental Services
       content: |
@@ -222,8 +235,6 @@
 
         - [Setting up hawker stall](https://eadviser.gobusiness.gov.sg/settinguphawkerstall){:target="_blank"}
 
-        - [Setting up mobile food wagon / food truck](https://eadviser.gobusiness.gov.sg/settingupmobilefoodwagonfoodtruck){:target="_blank"}
-
         - [Setting up pet shop or café](https://eadviser.gobusiness.gov.sg/settinguppetshoporcafe){:target="_blank"}
 
         - [Setting up restaurant, cafe](https://eadviser.gobusiness.gov.sg/settinguprestaurantcafe){:target="_blank"}
@@ -272,6 +283,17 @@
         - [Use/supervise usage of ionising radiation irradiating apparatus](https://eadviser.gobusiness.gov.sg/usesuperviseusageofionisingradiationirradiatingapparatus){:target="_blank"}
 
 - accordion:
+  letter: i
+  data:
+    - title: IT
+      content: |
+        Explore licences you may require with the e-Advisers:
+
+        - [Providing Penetration Testing Service](https://eadviser.gobusiness.gov.sg/providingpenetrationtestingservice){:target="_blank"}
+
+        - [Providing Managed SOC Monitoring Service](https://eadviser.gobusiness.gov.sg/providingmanagedsocmonitoringservice){:target="_blank"}
+
+- accordion:
   letter: l
   data:
     - title: Land Transport
@@ -282,7 +304,7 @@
 
         - [Bus driver](https://eadviser.gobusiness.gov.sg/busdriver){:target="_blank"}
 
-        - [Issuing vocational licence(vl)](https://eadviser.gobusiness.gov.sg/issuingvocationallicence){:target="_blank"}
+        - [Issuing vocational licence(VL)](https://eadviser.gobusiness.gov.sg/issuingvocationallicence){:target="_blank"}
 
         - [Operating a bus service](https://eadviser.gobusiness.gov.sg/operatingabusservice){:target="_blank"}
 
@@ -351,7 +373,7 @@
 
         - [Manufacture/possess/sell/distribute/deal in irradiating apparatus](https://eadviser.gobusiness.gov.sg/manufacturepossessselldistributedealinirradiatingapparatus){:target="_blank"}
 
-        - [Manufacturing and processing](https://eadviser.gobusiness.gov.sg/manufacturingandprocessing){:target="_blank"}
+        - [Manufacturing and processing of animal feed](https://eadviser.gobusiness.gov.sg/manufacturingandprocessing){:target="_blank"}
 
         - [Manufacturing explosives](https://eadviser.gobusiness.gov.sg/manufacturingexplosives){:target="_blank"}
 
@@ -587,7 +609,7 @@
         - [Event/exhibition/roadshow with entertainment activity to the public](https://eadviser.gobusiness.gov.sg/eventexhibitionroadshowwithentertainmentactivitytothepublic){:target="_blank"}
 
         - [Holding a public event](https://eadviser.gobusiness.gov.sg/holdingapublicevent){:target="_blank"}
-
+        
         - [Holding an event or public talk](https://eadviser.gobusiness.gov.sg/holdinganeventorpublictalk){:target="_blank"}
 
         - [Operating a public swimming pool](https://eadviser.gobusiness.gov.sg/operatingapublicswimmingpool){:target="_blank"}

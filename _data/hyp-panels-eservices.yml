@@ -7,7 +7,6 @@ panels:
         href: /e-services/biz-registration-matters/
       - text: Essential business regulations
         href: /e-services/essential-biz-regulations/
-    info-text: View our <a class="panel-content-links underline" href="/start-a-business/choose-a-business-structure/">Start-up Guide</a> for step by step guidance on starting a business
   - title: Accounting and Finance
     image: /images/accounting.svg
     alt: accounting
@@ -56,9 +55,3 @@ panels:
         href: /e-services/trade-marks-and-ip/
       - text: Training and accreditation
         href: /e-services/training-and-accreditation/
-  - title: Test Page
-    image: /images/growth.svg
-    alt: Test Page
-    links:
-      - text: Food Delivery
-        href: /e-Services/food-delivery-vendor-guide/

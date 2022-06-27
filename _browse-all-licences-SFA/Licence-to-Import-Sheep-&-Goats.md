@@ -4,31 +4,32 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-to-Import-Sh
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Licence to Import Sheep & Goats (tp be merged into Food and Feed Trading Licence)
+## Apply for Licence to Import Sheep & Goats
 
 Singapore Food Agency (SFA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000326" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201305290000326" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Licence to Import Sheep and Goats is issued to importers by Singapore Food Agency to import Sheep and Goats.</p>
-<p><strong>FAQs</strong></p>
-<p>1. Where can I get the FAQ for Licence to Import Sheep and Goats?</p>
-<p>You can get the FAQ on this link: SFA FAQ website</p>
-<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+ <h3>FAQs</h3>
+ <ol>
+ <li><strong>Where can I get the FAQ for Licence to Import Sheep & Goats</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
+ </ol>
 
-**Additional Information**
-
-N.A.
-
-### Documents Needed
+<strong>Additional Information</strong>
 
 N.A.
 
-### Requirements
+<H3>Documents Needed</H3>
 
-Applicant must be ACRA registered company/ business
+N.A.
+
+<H3>Requirements</H3>
+
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

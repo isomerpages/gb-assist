@@ -8,59 +8,33 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here SINGPASS
+{% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10081" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10081" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Registration under General Equipment Registration by Certification Bodies is applicable only to authorised CB applicant under MRA Phase II for IMDA recognised Certification Bodies.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-$100 or $50 for family series fee
+<p><strong>Family Series Fee</strong><br />$100.00 or $50.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Certificate issued by recognised CB
-
-General Information
-
-Photographs of Equipment (Front, Rear, Sides, Top, Bottom)
-
-Photo of Product Label
-
-Cybersecurity Labelling Scheme - Conformance Checklist
-
-Login Credentials Management
-
-Device Setup & Administration
-
-Firmware Updates
-
-Wireless Access Protection
-
-Data Protection
-
-Validation of Data Inputs
-
-Vulnerability Reporting
-
-Others
-
-Others
-
-Others
-
-Others
-
-Others
-
-Others
-
-Others
-
-Others
-
-Others
+<ul>
+ <li><strong>Certificate issued by recognised CB</strong></li>
+ <li><strong>General Information</strong></li>
+ <li><strong>Photographs of Equipment (Front, Rear, Sides, Top, Bottom)</strong></li>
+ <li><strong>Photo of Product Label</strong></li>
+ <li><strong>Cybersecurity Labelling Scheme - Conformance Checklist</strong></li>
+ <li><strong>Login Credentials Management</strong></li>
+ <li><strong>Device Setup & Administration</strong></li>
+ <li><strong>Firmware Updates</strong></li>
+ <li><strong>Wireless Access Protection</strong></li>
+ <li><strong>Data Protection</strong></li>
+ <li><strong>Validation of Data Inputs</strong></li>
+ <li><strong>Vulnerability Reporting</strong></li>
+ <li><strong>Others</strong></li>
+ </ul>
 

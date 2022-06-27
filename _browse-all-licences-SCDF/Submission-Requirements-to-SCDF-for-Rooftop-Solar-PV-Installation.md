@@ -8,11 +8,9 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-Print md SPCP Here BOTH
-
 {% include button.html text="Apply on SCDF" src="https://corenet.gov.sg/general/e-info.aspx" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Your Qualified Person has to apply to SCDF for fire safety approval through CORENET. SCDF's approval has to be sought for either:</p>
 <p>a. <a href="https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval" target="_blank" rel="noopener">Plan approval</a>; or</p>

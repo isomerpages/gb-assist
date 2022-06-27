@@ -8,7 +8,7 @@ third_nav_title: Public Utilities Board (PUB)
 
 Public Utilities Board (PUB)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
 {% include button.html text="Apply on PUB" src="https://www.pub.gov.sg/marinabarrage/Documents/Event_Permit_Application_Form.docx" type="primary" %}
 

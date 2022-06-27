@@ -1,8 +1,41 @@
 // Add your notification into "notifications" and separate them with a comma. Ensure that they are in double quotes.
 
 const custom_notifications = [
-  "<b>[Announcement]</b> There will be a change in our Helpdesk contact information. Please go to our <a href='https://www.gobusiness.gov.sg/contact-us/'>Contact Us</a> page for the new contact details from 1 July 2021.",
-  "<b>[Announcement]</b> Please note that from 11 April 2021, you will be required to login to government digital services for businesses (G2B) using Singpass instead of Corppass. For more information, visit <a href='https://go.gov.sg/corporate-login'>go.gov.sg/corporate-login</a>",
+  //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness Licensing, Guided Journey for Food Services and Start a Business e-Adviser will experience intermittent delays from 25 Oct 2021, 9am to 27 Oct 2021 6pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing, e-Advisers, Guided Journeys and Business Grants will be unavailable on 22 Apr 2022 from 10pm to 4pm due to scheduled maintenance. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> e-Advisers for Business Structure and Starting a Business will be unavailable due to scheduled maintenance on 8 Sep 2021 from 6pm to 8pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Dashboard's payment services will be unavailable due to scheduled maintenance on 25 May 2022 from 2.30pm to 6pm. All other services on GoBusiness will remain available. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Guided Journey for Food Services and Covid Services will be unavailable due to scheduled maintenance from 26 May 2022 7pm to 27 May 2022 6am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance from 27 May 2022 from 12am to 5am. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Information from ACRA and MyInfo for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on 1 May 2022 from 12am to 8am. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Business Grant Portal will be undergoing scheduled maintenance on 8 April 2022 from 6:00 PM to 9:00 PM. We apologise for any inconvenience.",
+
+
+  //[**LICENCEONE DOWNTIME**]
+  "<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable due to an urgent maintenance from 27 Jun 2022 10pm to 28 Jun 2022 6am. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing will be unavailable on the dates below due to scheduled maintenance. Guided Journey for Food Services will remain available. We apologise for the inconvenience caused.<br>(1) From 24 Jun 2022 10pm to 25 Jun 2022 6am<br>(2) From 25 Jun 2022 10pm to 26 Jun 2022 6am<br>(3) From 26 Jun 2022 8pm to 27 Jun 2022 6am<br>(4) From 27 Jun 2022 10pm to 28 Jun 2022 6am",
+
+  //[**ACRA DOWNTIME**]
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable due to scheduled maintenance from 25 Jun 2022 6pm to 26 Jun 2022 2am. We apologise for the inconvenience caused."
+  //"<b>[Attention: System Maintenance]</b> Name reservation application and business registration for Sole Proprietorship/Partnership will be unavailable on dates below due to scheduled maintenance. We apologise for the inconvenience caused.<br>(1) 30 Apr 2022 from 2am to 8am<br>(2) 7 May 2022 from 12am to 3am",  
+  
+  //[**APEX**]
+  //"<b>[Attention: System Maintenance]</b> GoBusiness will be unavailable during the upcoming scheduled maintenance on 19 Jun 2022 from 12am to 8am. We apologise for the inconvenience caused.",
+
+  //[**LICENSING AGENCY DOWNTIME**]
+  //"<b>[Attention: System Maintenance]</b> GoBusiness Licensing, e-Advisers and Guided Journeys will be unavailable due to scheduled maintenance till 5 October 2021 12pm. We apologise for the inconvenience caused.",
+  //"<b>[Attention: System Maintenance]</b> Information from ACRA for GoBusiness and Business Grants will be unavailable due to scheduled maintenance on from 4 Jun 2022 2pm to 5 Jun 2022 12am. We apologise for the inconvenience caused."
+  
+  //[**SPF DOWNTIME**]
+  //"<b>[Attention: System Maintenance]</b> Application, amendment & renewing of Singapore Police Force (SPF) licences will be unavailable during the upcoming scheduled maintenance on 29 Mar 2022 from 6.30pm to 7pm. <b>All other licences in Guided Journey for Food Services will remain available.</b> We apologise for the inconvenience caused.",
+
+  //[**ADHOC**]
+  //IPOS DOWNTIME
+  //"<b>[Attention: System Maintenance]</b> The business name search feature of e-Adviser for Starting a Business is under maintanence. All other features will remain available and you may still use the e-Adviser. We apologise for the inconvenience caused.",
+
+  //[**GCC Migration**]
+  "<b>[Attention: System Maintenance]</b> Guided Journey and eAdvisers will be unavailable due to scheduled maintenance from 30 Jun 2022 7pm to 1 Jul 2022 6am. All other services on GoBusiness will remain available.  We apologise for the inconvenience caused."
+
 ];
 
 // Do not edit the following code
@@ -14,7 +47,6 @@ $(document).ready(function () {
     "padding-top: 0 !important"
   );
   $(".masthead-container").attr("style", "position: relative");
-  $(".masthead-container>section").attr("style", "height: 28px !important");
   $(".bp-container>div").attr("style", "margin-top: 0; margin-bottom: 0");
   $(".bp-container>div>div").attr("style", "padding: 0");
   $(".masthead-container").prepend(custom_notificationContainer);
@@ -23,7 +55,7 @@ $(document).ready(function () {
     let notification = `<div class="notification-container">
           <h6 class="x">${m}</h6>
           <div class="control notif" style="background-color: #037e8a;">
-            <a id="cancel-notification" class="button has-text-white">
+            <a id="cancel-notification" class="button has-text-white" href="#">
               <span class="delete sgds-icon sgds-icon-cross is-size-4"></span>
             </a>
           </div>

@@ -4,34 +4,34 @@ permalink: /browse-all-licences/Singapore-Food-Agency-(SFA)/Licence-for-Import-T
 third_nav_title: Singapore Food Agency (SFA)
 ---
 
-## Apply for Licence for Import/Transhipment of Fresh Fruits and Vegetables (to be merged into Food and Feed Trading Licence)
+## Apply for Licence for Import/Transhipment of Fresh Fruits and Vegetables
 
 Singapore Food Agency (SFA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301080000175" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
-<p>Licence for Import/Transhipment of Fresh Fruits and Vegetables is required if Traders involved in the import/transshipment of fresh fruits and vegetables.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF Medisave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
-<p><strong>FAQs</strong></p>
-<p>1. Where can I get the FAQ for Licence for Import and Transhipment of Fresh Fruits and Vegetables?</p>
-<p>You can get the FAQ on this link: SFA FAQ website</p>
-<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+<p>LICENSE FOR IMPORT/TRANSSHIPMENT OF FRESH FRUITS AND VEGETABLES is required if Traders involved in the import/transshipment of fresh fruits and vegetables.<br /><br />Licence Pre-requisites :<br />1.Top Up CPF Medisave.<br />2.Activate UEN with Singapore Customs.<br />3.Submit original GIRO form.</p>
+ <h3>FAQs</h3>
+ <ol>
+ <li><strong>Where can I get the FAQ for Licence for Import and Transhipment of Fresh Fruits and Vegetables?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
+ </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p><strong>Fee</strong></p>
-<p>Licence Fee:$378.00</p>
-<p>Express Fee:$756.00</p>
+<p><strong>Fee<br /></strong>Licence Fee: $378.00<br />Express Fee: $756.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-<p><strong>Supporting Documents</strong></p>
-<p><strong>Any supporting document</strong></p>
+<ul>
+ <li><strong>Any supporting document</strong><br />File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+ </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
-Applicant must be ACRA registered company/ business
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

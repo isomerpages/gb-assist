@@ -8,54 +8,31 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10076" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10076" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Application is for equipment suppliers to apply for Confirmation of Conformity (COFC) for telecommunication equipment under which no approval for sale is required (exempted equipment).</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p>COFC - Self-Declaration ($100)</p>
-<p><br />COFC - Evaluated by IMDA ($350)</p>
+<p><strong>COFC Fee</strong><br />Self-Declaration: $100.00<br />Evaluated by IMDA: $350.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Product Brochure
+<ul>
+ <li><strong>Product Brochure</strong></li>
+ <li><strong>Photographs of Equipment (Front, Rear, Sides, Top, Bottom)</strong></li>
+ <li><strong>Photo of Product Label</strong></li>
+ <li><strong>Test Reports</strong></li>
+ <li><strong>User Manual</strong></li>
+ <li><strong>Supplier's Declaration of Conformity</strong></li>
+ <li><strong>Others</strong></li>
+ </ul>
 
-Photographs of Equipment (Front, Rear, Sides, Top, Bottom)
-
-Photo of Product Label
-
-Test Reports
-
-Test Reports
-
-User Manual
-
-Supplier's Declaration of Conformity
-
-Test Reports
-
-Others
-
-Others
-
-Others
-
-Others
-
-Others
-
-Others
-
-Others
-
-Others
-
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

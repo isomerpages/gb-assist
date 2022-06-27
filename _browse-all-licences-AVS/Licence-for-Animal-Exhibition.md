@@ -8,54 +8,51 @@ third_nav_title: Animal & Veterinary Service (AVS)
 
 Animal & Veterinary Service (AVS)
 
-Print md SPCP Here BOTH
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000150" type="primary" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000150" type="primary" %}
+<H3>Application Details</H3>
 
-### Application Details
-
-<p><strong>Description</strong></p>
 <p>The Licence for Animal Exhibition is issued by Animal & Veterinary Service to use a premise for animal display, exhibition, performance or distribution.</p>
-<p><strong>FAQs</strong></p>
-<p>1.Where can I get the FAQ for Licence for Animal Exhibition?</p>
-<p>You can get the FAQ on this link: AVS FAQ website at</p>
-<p><a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a></p>
+ <h3>FAQs</h3>
+ <ol>
+ <li><strong>Where can I get the FAQ for Licence for Animal Exhibition?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/animals/animal-related-businesses/animal-exhibitions/general-information" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/animals/animal-related-businesses/animal-exhibitions/general-information</a></li>
+ </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p><strong>Fee:</strong></p>
-<p>Admin Fees: $94.50</p>
-<p>Licence Fees:$126.00</p>
+<p><strong>Fee:</strong><br>Admin Fee: $94.50<br>Licence Fee:$126.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-<p><strong>Supporting Documents</strong></p>
-<p><strong>NRIC</strong></p>
-<p><strong>Proposal/Program schedule</strong></p>
-<p><strong>Layout plan</strong></p>
-<p><strong>Premises/ site management approval</strong></p>
-<p><strong>ACRA (UEN)</strong></p>
-<p><strong>URA/HDB</strong></p>
-<p><strong>SLA</strong></p>
-<p><strong>NEA</strong></p>
-<p><strong>Town Council</strong></p>
-<p><strong>Letter of approval from premise management/ landlord (HDB/URA)</strong></p>
-<p><strong>Program schedule</strong></p>
-<p><strong>The source of animals</strong></p>
-<p><strong>Importation documents</strong></p>
-<p><strong>Declaration for re-export details(if any)</strong></p>
-<p><strong>Details of plans for the animals after the exhibition (e.g Destruction of bees, slaughter of poultry.)</strong></p>
-<p><strong>Clearance from NEA under Cattle Act</strong></p>
-<p><strong>Clearance from LTA</strong></p>
-<p><strong>Clearance from Traffic Police</strong></p>
-<p><strong>Clearance from SLA</strong></p>
-<p><strong>Emergency plan (if any)</strong></p>
-<p><strong>Route of procession</strong></p>
-<p><strong>Event details including emergency plans, race track construction plans, before & after competition plans, holding area, etc.</strong></p>
-<p><strong>Details of all animals to be adopted (ie. Breed, gender, microchip number, current location being kept)</strong></p>
-<p><strong>Others</strong></p>
+<ul>
+ <li><strong>NRIC</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Proposal/Program schedule</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Layout plan</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Premises/ site management approval</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>ACRA (UEN)</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>URA / HDB</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>SLA</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>NEA</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Town Council</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Letter of approval from premise management/ landlord (HDB/URA)</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Program schedule</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>The source of animals</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Importation documents</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Declaration for re-export details(if any)</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Details of plans for the animals after the exhibition (e.g Destruction of bees, slaughter of poultry.)</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Clearance from NEA under Cattle Act</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Clearance from LTA</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Clearance from Traffic Police</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Clearance from SLA</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Emergency plan (if any)</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Route of procession</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Event details including emergency plans, race track construction plans, before & after competition plans, holding area, etc.</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Details of all animals to be adopted (ie. Breed, gender, microchip number, current location being kept)</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<br /><br /></li>
+ <li><strong>Others</strong><br />File Format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+ </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
-Applicant must be ACRA registered company/ business
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

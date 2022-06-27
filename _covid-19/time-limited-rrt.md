@@ -1,50 +1,40 @@
 ---
-title: Time Limited RRT for Workplaces
+title: Time-Limited 8-Weeks Testing for Workplaces
 permalink: /timelimitedrrt/
 ---
-## Time-Limited 8-weeks Rostered Routine Testing (RRT) for workplaces
+## Time-Limited 8-weeks Weekly Testing for workplaces
 
-As part of the national effort to step up regular testing, firms with employees that work onsite and <b>are not already subject to mandatory RRT</b>, will be eligible to voluntarily apply for 8 Antigen Rapid Test (ART) kits per onsite employee for weekly testing of their staff over a two-month period. With these kits, firms are to initiate weekly testing for their onsite staff. These tests can be administered by the individuals themselves at home, or at the work premises. 
+<b>Please note that the application for Round 2 of the Time-Limited 8-Weeks Testing (Jan’21) has closed.</b> Firms who have applied and received their ART kits are to commence weekly testing, and are reminded to <b>submit the ART results declaration</b> at the end of each month’s testing cycle (i.e. twice across the 8-weeks period) to the Government via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}.
 
-### Eligibility Criteria
-
-* Staff should not be on any mandatory Polymerase Chain Reaction (PCR) or Fast and Easy Testing (FET) RRT
-
-    * If there are some staff on mandatory RRT, the company should exclude them from their request for ART kits
-
-* Staff should physically return to office, worksite or any off-site premises at least once a week, for work purposes (i.e. does not work from home full-time)
-
-    * Include full-time and part-time employees, regular vendors/contractors, students on long-term (at least 2 months) placement or internship
+Note: The cessation of mandatory Rostered Routine Testing (RRT) for higher-risk workplaces as announced in the 24 Mar MTF Press Release <b>does not</b> apply to the time-limited 8-weeks weekly testing at workplaces i.e. companies who applied and received kits under this Round 2 of time-limited kits distribution should continue weekly testing of eligible employees and report their test results to the Government until all the test kits received are fully utilised.
 
 ### Compliance & Results Declaration
 
-Firms that apply for the ART kits are required to have processes in place to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. <b>These processes will be audited by the government for compliance.</b>  
+Firms that have applied for and received the ART kits are expected to commence weekly testing, and comply by the following:
 
-Firms that apply for the ART kits are also required to submit their ART results declaration at the end of each month’s testing cycle (i.e. twice across the two-month period) to the government via this link: [https://go.gov.sg/time-limited-rrt-art-results-declaration](https://go.gov.sg/time-limited-rrt-art-results-declaration){:target="_blank"}{:rel="noopener"} 
-  
-The Government shall have the right to claw back the cost of any test kits should any of the information submitted in the application form or results declaration form are found to be untrue, or if any of non-compliance to the testing requirements are found.
+- **Only applied for test kits on behalf of employees who meet the eligibility criteria** (i.e. fully vaccinated, work onsite, and not under mandatory Rostered Routine Testing (RRT) regime). 
 
-### Application
+- **Submit their ART results declaration at the end of each month’s testing cycle** (i.e. twice across the 8-weeks period) to the Government via this link: [https://go.gov.sg/round-2-tlrrt-results-submissions](https://go.gov.sg/round-2-tlrrt-results-submissions){:target="_blank"}{:rel="noopener"}
 
-Firms with employees that meet the eligibility criteria may apply for ART kits via this link: [https://go.gov.sg/time-limited-rrt-art-kits-application](https://go.gov.sg/time-limited-rrt-art-kits-application){:target="_blank"}{:rel="noopener"} 
- 
-The application period is from 16 Sep – 13 Oct 2021. Corporate entity login (Corppass) is required for this application form. Please only submit one application form per company UEN. Multiple or inaccurate submissions will be voided and processing will be further delayed.
+- **Have processes in place** to ensure that tests are conducted properly every week for all onsite employees, test results are recorded, and appropriate follow-up protocols are adhered to. Firms should retain relevant proof of such records and processes until end-June 2022, and to produce this proof when audited by the government. 
 
-Successful applicants will be informed of their delivery within 20 working days from application. Please commence weekly testing with immediate effect, upon receipt of the ART kits. 
 
-For queries about your application, please contact:
+The Government shall have the right to claw back the cost of any test kits should there be any late submissions of results, or if any of the information submitted in the application form or results declaration form are found to be untrue, or if any non-compliance to the testing requirements is found.
 
-* Enterprise Singapore (ESG) at [https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="_blank"}{:rel="noopener"} or [+65 6898 1800](tel:+6568981800) (Monday to Friday, 8:30am to 5:30pm, closed on Public Holidays)
 
-* Health Promotion Board (HPB) at [+65 6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm, closed on Public Holidays)
+### Frequently Asked Questions (FAQs)
 
-### More information about ART
-Learn more about how to perform a self-test using ART and what to do if tested positive:
+Please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces-round2){:target="_blank"}{:rel="noopener"} (updated on 28 Mar 2022) for more information on application process for Round 2 of Time-Limited Kits Distribution.
+
+### More information about ART<sup>*</sup>
+Learn more about how to perform a self-test using ART:
 
 |-|-|
-|Resources|[https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
-|Self-test instructions|[https://artbuddy.healthpixel.co/](https://artbuddy.healthpixel.co/){:target="_blank"}{:rel="noopener"}|
+|Self-test instructions | [SD Biosensor](https://go.gov.sg/sd-biosensor){:target="_blank"}{:rel="noopener"} |
+|More resources | [https://www.moh.gov.sg/covid-19/selftestart](https://www.moh.gov.sg/covid-19/selftestart){:target="_blank"}{:rel="noopener"}|
 
-### Frequently Asked Questions (FAQ)
+<sup>*</sup> Only SD Biosensor kits are distributed under Round 2 of Time-Limited RRT.
 
-For general queries, please refer to the [FAQs](/covid-19-faqs/time-limited-rrt-for-workplaces) for more information.
+For further queries about Time-Limited 8-Weeks Testing, please contact:
+- Health Promotion Board (HPB) at [testingops@hpb.gov.sg](mailto:testingops@hpb.gov.sg){:target="_blank"}, or [6876 5830](tel:+6568765830) (Monday to Friday, 8am to 5pm; Saturday, 8am to 1pm; closed on Public Holidays). 
+- Enterprise Singapore (ESG) at [https://go.gov.sg/helloesg](https://go.gov.sg/helloesg){:target="_blank"}{:rel="noopener"} or 6898 1800 (Monday to Friday, 8:30am to 5:30pm, closed on Public Holidays)

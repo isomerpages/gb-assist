@@ -8,19 +8,17 @@ third_nav_title: Ministry of Culture, Community and Youth (MCCY)
 
 Ministry of Culture, Community and Youth (MCCY)
 
-Print md SPCP Here BOTH
-
 {% include button.html text="Apply on MCCY" src="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
-<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#">here</a> for more details.</p>
+<p>Learn more about registering as a Charity <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Before-You-Begin.aspx#" target="_blank" rel="noopener">here</a>.</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Criteria-for-Registration-as-Charity.aspx#">here</a> for more details.</p>
+<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Criteria-for-Registration-as-Charity.aspx#" target="_blank" rel="noopener">here</a> for more details.</p>
 
-### Requirements
+<H3>Requirements</H3>
 
-<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Criteria-for-Registration-as-Charity.aspx#">here</a> for more details.</p>
+<p>Click <a href="https://www.charities.gov.sg/Pages/Charities-and-IPCs/Register-as-a-Charity/Criteria-for-Registration-as-Charity.aspx#" target="_blank" rel="noopener">here</a> for more details.</p>
 

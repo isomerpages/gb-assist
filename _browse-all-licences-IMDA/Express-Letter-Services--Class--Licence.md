@@ -8,24 +8,25 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10013" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10013" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For receiving, collecting, sending, dispatching and delivering local express letters or international express letters or both.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-Licence Fee: $200
+<p><strong>Fee</strong><br />Licence Fee: $200.00</p>
 
+<H3>Documents Needed</H3>
 
-### Documents Needed
+<ul>
+ <li><strong>A copy of the price list for the letter which is below 500 grams.</strong></li>
+ </ul>
 
-A copy of the price list for the letter which is below 500 grams.
-
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

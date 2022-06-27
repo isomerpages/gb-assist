@@ -8,11 +8,11 @@ third_nav_title: National Environment Agency (NEA)
 
 National Environment Agency (NEA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
 {% include button.html text="Apply on NEA" src="https://www.nea.gov.sg/our-services/pollution-control/water-quality/allowable-limits-for-trade-effluent-discharge-to-watercourse-or-controlled-watercourse" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For factories to apply for a written permission to discharge trade effluent into a watercourse.</p>
 

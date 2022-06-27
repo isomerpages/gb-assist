@@ -8,11 +8,9 @@ third_nav_title: Singapore Civil Defence Force (SCDF)
 
 Singapore Civil Defence Force (SCDF)
 
-Print md SPCP Here BOTH
-
 {% include button.html text="Apply on SCDF" src="https://www.scdf.gov.sg/home/fire-safety/plans-and-consultations/plan-approval" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Any person who wishes to commence or carry out any proposed fire safety works in any building shall apply in accordance with the Regulations made under the Fire Safety Act to the Fire Safety and Shelter Department (FSSD) for approval of the plans of the fire safety works. Such plans shall be prepared and submitted by Qualified Persons (QPs) who are registered architects or professional engineers.</p>
 

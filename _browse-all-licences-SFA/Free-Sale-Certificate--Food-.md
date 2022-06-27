@@ -8,30 +8,32 @@ third_nav_title: Singapore Food Agency (SFA)
 
 Singapore Food Agency (SFA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000166" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000166" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
-<p>The Free Sale Certificate (Food) allows exporters to get Singapore Food Agency endorsement for their<br>- Meat and Fish products intended for export.<br>- Locally processed meat and fish products intended for export<br>- Processed food products intended for export</p>
-<p><strong>FAQs</strong></p>
-<p>1. Where can I get the FAQ for Free Sale Certificate for Food Products?</p>
-<p>You can get the FAQ on this link: SFA FAQ website at</p>
-<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+<p>The Free Sale Certificate (Food) allows exporters to get Singapore Food Agency endorsement for their<br />- Meat and Fish products intended for export.<br />- Locally processed meat and fish products intended for export<br />- Processed food products intended for export</p>
+<h3>FAQs</h3>
+<ol>
+<li><strong>Where can I get the FAQ for Free Sale Certificate (Food)?</strong><br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
+</ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p><strong>Fee</strong></p>
-<p>Licence Fee:$16.80 per certificate</p>
+<p><strong>Fee</strong><br>
+ Licence Fee:$16.80 per certificate<br></p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-<p><strong>Supporting Documents</strong></p>
-<p><strong>Product Details</strong></p>
-<p><strong>Others</strong></p>
+<ul>
+ <li><strong>Product Details</strong><br />File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+ <li><strong>Others<br /></strong>File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<strong><br /></strong></li>
+ </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
-Applicant must be ACRA registered company/ business
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

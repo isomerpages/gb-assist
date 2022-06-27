@@ -8,14 +8,15 @@ third_nav_title: Urban Redevelopment Authority (URA)
 
 Urban Redevelopment Authority (URA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
 {% include button.html text="Apply on URA" src="https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Developers undertaking a housing project with more than four units are required to obtain a housing developer's licence from the Controller of Housing before commencing construction works.</p>
-<p><strong>FAQ</strong></p>
-<p>1. Where can I get more information?</p>
-<p>You can get more information at this link below:<br /><a href="https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence" target="_blank" rel="noopener">https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence</a></p>
+ <h3>FAQ</h3>
+ <ol>
+ <li><strong>Where can I get more information?<br /></strong>You can get more information at <a href="https://www.ura.gov.sg/Corporate/Guidelines/Developers/Housing-Developers/Housing-Developers/Apply-housing-developer-licence" target="_blank" rel="noopener">Apply for a housing developer's licence</a>.</li>
+ </ol>
 

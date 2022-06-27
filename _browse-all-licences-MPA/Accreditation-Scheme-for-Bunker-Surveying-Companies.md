@@ -8,11 +8,11 @@ third_nav_title: Maritime and Port Authority (MPA)
 
 Maritime and Port Authority (MPA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg/web/portal/home/port-of-singapore/services/bunkering/bunkering-licence-application-guidelines/licensing-of-bunker-surveying-companies" type="primary" %}
+{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg/port-marine-ops/marine-services/bunkering/bunkering-licence-application-guidelines" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>All bunker surveying companies in Singapore must be accredited by the Singapore Accreditation Council (SAC).</p>
 

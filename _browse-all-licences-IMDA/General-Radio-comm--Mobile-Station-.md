@@ -8,23 +8,25 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10014" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10014" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For establishing and operating of radio communication equipment in an airport area.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-Licence fees to be determined
+<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-CAAS Approval
+<ul>
+ <li><strong>CAAS Approval</strong></li>
+ </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

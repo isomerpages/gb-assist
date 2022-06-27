@@ -8,11 +8,11 @@ third_nav_title: Land Transport Authority (LTA)
 
 Land Transport Authority (LTA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on LTA" src="https://www.lta.gov.sg/content/ltaweb/en/industry-matters/development-and-building-and-construction-and-utility-works/street-proposals.html" type="primary" %}
+{% include button.html text="Apply on LTA" src="https://prompt.lta.gov.sg/WebUIPWAS/Home/FaqInfo?faqType=Works" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>An application has to be submitted to the Authority for permission to carry out works on public streets after the necessary pre-consultation approvals have been obtained from the relevant authorities or agencies.</p>
 

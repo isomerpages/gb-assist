@@ -8,32 +8,33 @@ third_nav_title: Singapore Food Agency (SFA)
 
 Singapore Food Agency (SFA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000159" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301070000159" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Export Health Certificate is issued to traders, to certify a food consignment as fit for human consumption, and meeting safety standards or other required criteria to facilitate the export of this food consignment. This certificate is only issued for food consignments manufactured or processed or packed in a food processing establishment licensed by Singapore Food Agency.</p>
-<p><strong>FAQs</strong></p>
-<p>1. Where can I get the FAQ for Export Health Certificate for Food Products?</p>
-<p>You can get the FAQ on this link: SFA FAQ website at</p>
-<p><a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></p>
+ <h3>FAQs</h3>
+ <ol>
+ <li><strong>Where can I get the FAQ for Export Health Certificate?</strong> <br />You can get the FAQ on this link: SFA FAQ website <a href="https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx" target="_blank" rel="noopener">https://www.ifaq.gov.sg/sfa/apps/fcd_faqmain.aspx</a></li>
+ </ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p><strong>Fee</strong></p>
-<p>Licence Fee:$20.00</p>
+<p><strong>Fee</strong><br>
+ Licence Fee:$20.00<br></p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-<p><strong>Supporting Documents</strong></p>
-<p><strong>Product Details</strong></p>
-<p><strong>Lab Results</strong></p>
-<p><strong>Others</strong></p>
-<p>Additional Supporting Documents</p>
+<ul>
+ <li><strong>Product Details</strong><br />File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+ <li><strong>Lab Results<br /></strong>File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB<strong><br /></strong></li>
+ <li><strong>Others</strong><br />Additional Supporting Documents<br />File format: DOC,DOCX,GIF,JPG,PDF,PPT,PPTX,XLS,XLSX<br />Maximum upload per application: 2MB</li>
+ </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
-Applicant must be ACRA registered company/ business
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

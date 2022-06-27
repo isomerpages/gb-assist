@@ -8,11 +8,11 @@ third_nav_title: Licences and Permits
 
 Most businesses need licences and permits for different business activities. With GoBusiness, you can find out which ones you need, before applying for and managing them.
 
-{% include panels-single.html spanels=site.data.anr002-licence-overview %}
+{% include panels-overview.html spanels=site.data.ov002-licence %}
 
 ----
 
-<a name="apply-new-licence-anchor"></a>
+<a name="new-licence"></a>
 
 ### Apply for new licence
 
@@ -22,21 +22,29 @@ Most businesses need licences and permits for different business activities. Wit
 
 {% include panels-featurelink.html panels=site.data.rgp002_licences-guides %}
 
-<a name="renew-amend-licence-anchor"></a>
+----
+
+<a name="renew-amend-licence"></a>
 
 ### Renew or amend licence
 
-Already have a licence? Log in directly to the GoBusiness Dashboard to manage your licences.
+As we're still in the process of moving all licences over to GoBusiness Dashboard, you may have to log in to either GoBusiness Dashboard or GoBusiness Licensing to renew/amend them.
 
-{% include button.html text="Login to GoBusiness Dashboard" src="https://www.figma.com/proto/06jRSeGhv8uWhaCewiAYRd/DB-UT-Prototype-(2021-May)?page-id=1623%3A47705&node-id=1674%3A57680&viewport=348%2C48%2C0.13&scaling=min-zoom&starting-point-node-id=1674%3A57680&show-proto-sidebar=1&hotspot-hints=0&hide-ui=1" type="primary" %}
+The directory below will help you find out which platform to log in to.
 
-### About GoBusiness Dashboard
+{% include panels-featurelink.html panels=site.data.rgp003_licences-ar %}
 
-Apply for licences, renew them, and more with your personal GoBusiness Dashboard.
+----
 
-Find out what you can do with your Dashboard and its features in this [article](/news-and-updates/updates/eAdviser-for-events){:target="_blank"}.
+<a name="submit-returns"></a>
 
-For questions about GoBusiness Licensing, please refer to our [FAQ](/licensing-faqs/){:target="_blank"}.
+### Submit returns
+
+Returns are additional information you may need to submit for certain licences. Here is a [list of licences that require submission of returns](/licences/submit-returns/).
+
+After you apply, the relevant government agencies will advise you on submitting returns. For enquiries, you can [contact the licensing agency](/contact-us/agencies/) directly.
+
+{% include panels-featurelink.html panels=site.data.rgp004_licences-sr %}
 
 <script src="/jquery/jquery.min.js"></script>
 <script src="/jquery/bp-menu-new-tab.js"></script>

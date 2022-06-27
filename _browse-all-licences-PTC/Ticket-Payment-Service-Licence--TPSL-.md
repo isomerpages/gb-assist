@@ -8,27 +8,37 @@ third_nav_title: Public Transport Council (PTC)
 
 Public Transport Council (PTC)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=267" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=267" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For the provision of the ticket payment services in the transit area</p>
-<p><strong>FAQ</strong></p>
-<p>1. Do I need to apply for this licence?</p>
-<p>You will need to apply for a Ticket Payment Service Licence if you wish to provide ticket payment services in the transit area.</p>
-<p>2. What supporting documents do I need to submit?</p>
-<p>Please enquire directly with Public Transport Council at Tel: (65) 6354 9020. For further assistance, please email us at<a href="mailto:ptc_office@ptc.gov.sg">ptc_office@ptc.gov.sg</a>.</p>
-<p>3. Who can I contact for further details?</p>
-<p>For general licensing enquiries, please contact the Public Transport Council at Tel: (65) 6354 9020. For further assistance, please email us at<a href="mailto:ptc_office@ptc.gov.sg">ptc_office@ptc.gov.sg</a>.</p>
+ <H3>FAQ</H3>
+ <ul>
+ <li><Strong>Do I need to apply for this licence?</Strong><br>
+ You will need to apply for a Ticket Payment Service Licence if you wish to provide ticket payment services in the transit area.</li>
+ <li><Strong>What supporting documents do I need to submit?</Strong><br>
+ Please enquire directly with Public Transport Council at Tel: (65) 6354 9020. For further assistance, please email us at <a href="mailto:ptc_office@ptc.gov.sg">ptc_office@ptc.gov.sg</a>.</li>
+ <li><Strong>Who can I contact for further details?</Strong><br>
+ For general licensing enquiries, please contact the Public Transport Council at Tel: (65) 6354 9020. For further assistance, please email us at <a href="mailto:ptc_office@ptc.gov.sg">ptc_office@ptc.gov.sg</a>.</li>
+ </ul>
 
-### Documents Needed
+<strong>Additional Information</strong>
 
-<p>Proposal for licence</p>
-<p>Other supporting documents</p>
+<p><strong>Fees</strong><br>
+ This is prescribed in the PTC Ticket Payment Service Regulations.</p>
 
-### Requirements
+<H3>Documents Needed</H3>
 
-Applicant must be ACRA registered company/business
+<ul>
+ <li><strong>Proposal for licence</strong></li>
+ <li><strong>Other supporting documents</strong></li>
+ <p><Strong>File format</Strong>: doc, docx, pdf, xls, xlsx<br>
+ <Strong>Maximum upload per application</Strong>: 10 MB</ul>
+
+<H3>Requirements</H3>
+
+<p>Applicant must be ACRA-registered business entity.</p>
 

@@ -8,23 +8,23 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here SINGPASS
+{% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10074" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10074" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For applying of GMDSS GOC Certificate to operate all the sub-systems and equipment of GMDSS on a Singapore registered vessel.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-N.A
+<p><strong>Fees</strong><br />N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-MPA / Fitness Medical Certificate
-
-Certificate of Examination or Endorsed MPA Form
-
-Passport-size Photograph
+<ul>
+ <li><strong>MPA / Fitness Medical Certificate</strong></li>
+ <li><strong>Certificate of Examination or Endorsed MPA Form</strong></li>
+ <li><strong>Passport-size Photograph</strong></li>
+ </ul>
 

@@ -8,29 +8,23 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here SINGPASS
+{% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10075" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10075" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For applying of GMDSS ROC Certificate to operate all the sub-systems and equipment of GMDSS on a Singapore registered vessel.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p>The certificate fees:</p>
-<p>1) For an examination for a Restricted Operator's Certificate of Competency - $70</p>
-<p>2) For the issue of a certificate of competency - $10</p>
-<p>3) For the issue of a duplicate certificate of competency - $5</p>
-<p>4) For the revalidation of a certificate of competency - $10</p>
-<p>5) For the issue of a certificate of endorsement - $18</p>
-<p>6) For the issue of a duplicate certificate of endorsement - $18</p>
+<p><strong>The Certificate Fees</strong><br />For an examination for a Restricted Operator's Certificate of Competency: $70.00<br />For the issue of a certificate of competency: $10.00<br />For the issue of a duplicate certificate of competency: $5.00<br />For the revalidation of a certificate of competency: $10.00<br />For the issue of a certificate of endorsement: $18.00<br />For the issue of a duplicate certificate of endorsement: $18.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-MPA / Fitness Medical Certificate
-
-Certificate of Examination or Endorsed MPA Form
-
-Passport-size Photograph
+<ul>
+ <li><strong>MPA / Fitness Medical Certificate</strong></li>
+ <li><strong>Certificate of Examination or Endorsed MPA Form</strong></li>
+ <li><strong>Passport-size Photograph</strong></li>
+ </ul>
 

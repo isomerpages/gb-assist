@@ -8,11 +8,9 @@ third_nav_title: Monetary Authority of Singapore (MAS)
 
 Monetary Authority of Singapore (MAS)
 
-Print md SPCP Here BOTH
-
 {% include button.html text="Apply on MAS" src="https://www.mas.gov.sg/regulation/Insurance/Authorised-Reinsurer-Apply-for-Authorisation" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Overseas insurers may apply for authorisation to carry on life and/or general reinsurance business in Singapore.</p>
 

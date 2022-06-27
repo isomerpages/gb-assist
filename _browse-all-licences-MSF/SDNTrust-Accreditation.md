@@ -8,11 +8,11 @@ third_nav_title: Ministry of Social and Family Development (MSF)
 
 Ministry of Social and Family Development (MSF)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
 {% include button.html text="Apply on MSF" src="https://www.sdn.sg/fordatingindustry/Pages/SDNTrustAccreditationFramework.aspx" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For dating agencies providing dating services.</p>
 

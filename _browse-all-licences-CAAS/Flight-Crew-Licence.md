@@ -8,11 +8,9 @@ third_nav_title: Civil Aviation Authority of Singapore (CAAS)
 
 Civil Aviation Authority of Singapore (CAAS)
 
-Print md SPCP Here BOTH
-
 {% include button.html text="Apply on CAAS" src="https://www.caas.gov.sg/personnel-licences-training/flight-crew" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
-<p>For flight crew such as pilots, fly instructors, flight engineers, flight examiners.</p>
+<p>A flight crew licence is required before you can operate as a pilot of a Singapore-registered aircraft. Various categories of such licences, and their associated ratings, determine the type of aircraft and flights that you can operate in Singapore.</p>
 

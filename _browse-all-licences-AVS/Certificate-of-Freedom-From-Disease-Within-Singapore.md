@@ -2,35 +2,32 @@
 title: Certificate of Freedom From Disease Within Singapore
 permalink: /browse-all-licences/Animal-&-Veterinary-Service-(AVS)/Certificate-of-Freedom-From-Disease-Within-Singapore
 third_nav_title: Animal & Veterinary Service (AVS)
-breadcrumb: 
 ---
 
 ## Apply for Certificate of Freedom From Disease Within Singapore
 
 Animal & Veterinary Service (AVS)
 
-Print md SPCP Here BOTH
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136" type="primary" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/licence1/neweadvisor/showSelectedLicence.action?redirection=true&selectedLicenceIds=201301040000136" type="primary" %}
+<H3>Application Details</H3>
 
-### Application Details
+<p>A Certificate of Freedom from Disease within Singapore from Animal and Veterinary Service will be required if the country/region to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export.</p>
+ <h3>FAQs</h3>
+ <ol>
+ <li><strong>Where can I get the FAQ for Certificate for Freedom from Diseases?</strong><br />You can get the FAQ on this link: Animal and Veterinary Service FAQ website <a href="https://www.nparks.gov.sg/avs/" target="_blank" rel="noopener">https://www.nparks.gov.sg/avs/</a></li>
+ </ol>
 
-<p><strong>Description</strong></p>
-<p>A Certificate of Freedom from Disease within Singapore from Animal & Veterinary Service will be required if the country/region to which you intend to export animal/bird products requires certification that Singapore is free from specific animal disease(s) of concern, to facilitate the export.</p>
-<p><strong>FAQs</strong></p>
-<p>1.Where can I get the FAQ for Certificate for Freedom from Diseases?</p>
-<p>You can get the FAQ on this link: Animal & Veterinary Service FAQ website at <a href="https://www.avs.gov.sg/faq">https://www.avs.gov.sg/faq</a></p>
+<strong>Additional Information</strong>
 
-**Additional Information**
+<p><strong>Fee<br /></strong>Licence Fee: $12.60 </p>
 
-<p><strong>Fee:</strong></p>
-<p>Licence Fee: $12.60</p>
-
-### Documents Needed
+<H3>Documents Needed</H3>
 
 <p>No supporting document required.</p>
 
-### Requirements
+<H3>Requirements</H3>
 
-Applicant must be ACRA registered company/ business
+<p>Prerequisite Licence(s)</p>
+ <p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

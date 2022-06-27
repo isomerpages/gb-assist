@@ -8,45 +8,36 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10064" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10064" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>To apply for Nationwide TV Licence(s)</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-<p>Please refer to the IMDA website for more<a href="https://www.imda.gov.sg/regulations-licensing-and-consultations/licensing/licences/licence-for-the-provision-of-broadcasting-services/free-to-air-nationwide-television-service-licence" target="_blank" rel="noopener">information</a></p>
+<p><strong>Fees<br /></strong>Please refer to the <a href="https://www.imda.gov.sg/regulations-and-licensing-listing/free-to-air-nationwide-television-service-licence" target="_blank" rel="noopener">IMDA website</a> for more information.<strong><br /></strong></p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Shareholding Structure
+<ul>
+ <li><strong>Shareholding Structure</strong></li>
+ <li><strong>Articles of Memorandum</strong></li>
+ <li><strong>Business Activities</strong></li>
+ <li><strong>Organisational Structure</strong></li>
+ <li><strong>Business Plan</strong></li>
+ <li><strong>Financial Statements</strong></li>
+ <li><strong>Programme Positioning</strong></li>
+ <li><strong>Viewership Details</strong></li>
+ <li><strong>Programming Guidelines</strong></li>
+ <li><strong>Channel Grid</strong></li>
+ <li><strong>Technical Specification</strong></li>
+ <li><strong>Strategic Partnership</strong></li>
+ </ul>
 
-Articles of Memorandum
-
-Business Activities
-
-Organisational Structure
-
-Business Plan
-
-Financial Statements
-
-Programme Positioning
-
-Viewership Details
-
-Programming Guidelines
-
-Channel Grid
-
-Technical Specification
-
-Strategic Partnership
-
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

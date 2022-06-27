@@ -8,25 +8,34 @@ third_nav_title: Central Narcotics Bureau (CNB)
 
 Central Narcotics Bureau (CNB)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=271" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>PATROL is to provide a One-Stop e-Service to allow Traders to perform all transactions pertaining to permit declarations and to align to Government's direction to move towards Electronic Services.</p>
+<h3>FAQ</h3>
+<ol>
+<li><strong>Can individual or foreign company apply for a CNB permit?</strong><br />Only local entity with UEN can register the company with CNB.<br /><br /></li>
+<li><strong>Who can apply for a CNB permit?</strong><br />Only authorise staffs from the company and registered with CNB can access PATROL to apply.<br /><br /></li>
+<li><strong>What is the validity of the permit?</strong><br />It is on a per consignment basis.</li>
+</ol>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-N.A.
+<p><strong>Fees</strong><br />N/A</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Invoice
-Trade Documents
-Licence Document
+<ul>
+<li><strong>Invoice</strong></li>
+<li><strong>Trade Documents</strong></li>
+<li><strong>Licence Document</strong> <br />This document is mandatory if you select "Licence from Importing Country/Region ?" is Yes.</li>
+</ul>
 
-### Requirements
+<H3>Requirements</H3>
 
-Applicant must be ACRA registered company/ business
+<p><strong>Related licences to apply at External Agency</strong></p>
+<p>ACRA - <a href="https://www.acra.gov.sg/Home/" target="_blank" rel="noopener">Registration for Companies / Business</a></p>
 

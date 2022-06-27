@@ -8,11 +8,11 @@ third_nav_title: Maritime and Port Authority (MPA)
 
 Maritime and Port Authority (MPA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on MPA" src="http://www.mpa.gov.sg/web/portal/home/port-of-singapore/craft-licensing-and-port-clearance/launching-laying-up-breaking-up-of-vessel/laying-up-of-a-vessel-in-port" type="primary" %}
+{% include button.html text="Apply on MPA" src="https://www.mpa.gov.sg/port-marine-ops/harbourcraft-and-pleasure-craft-regulations/launching-laying-up-breaking-up-a-vessel" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Vessels that need to be laid up in port require written permission from the Port Master.</p>
 

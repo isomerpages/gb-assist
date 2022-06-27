@@ -16,9 +16,9 @@ accordion:
 
   - title: How much is the application fee?
     content: |
-      Fees can be found on the Muis [website](https://www.muis.gov.sg/-/media/Files/Halal/Documents/Fees-Revision---WEF-1-Feb-2018.pdf){:target="_blank"}.
+      Fees can be found on the Muis [website](https://www.muis.gov.sg/-/media/Files/Halal/Documents/Fees-Revision---WEF-1-Feb-2018.pdf){:target="_blank"}{:rel="noopener"}.
 
-  - title: Halal Certification	How soon can my application be processed?
+  - title: How soon can my application be processed?
     content: |
       The average processing time for Eating Establishment Scheme and/or Food Preparation Area Scheme will take around 8 - 10 weeks, subject to the applicant's prompt responses / action to further requests for information.
 
@@ -26,4 +26,4 @@ accordion:
     content: |
       For further assistance, please contact:
       Tel: (65) 6812 6060
-      Email: [mes_3.0@muis.gov.sg](mailto:mes_3.0@muis.gov.sg)
+      Email: [info@muis.gov.sg](mailto:info@muis.gov.sg)

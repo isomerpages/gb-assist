@@ -1,9 +1,7 @@
 accordion:
   - title: Can I submit my grant claim through the Business Grants Portal?
     content: |
-      You can submit claims for the Productivity Solutions Grant (PSG), Market Readiness Assistance (MRA) and the Business Improvement Fund (BIF) in the Business Grants Portal.
-
-      For the Enterprise Development Grant (EDG), you can submit your claims through the [ESG Portal](https://grantportal.enterprisesg.gov.sg/spring/pages/login.aspx){:target="_blank"}.
+      You can submit claims for the Business Improvement Fund (BIF), Enterprise Development Grant (EDG), Market Readiness Assistance (MRA) and the Productivity Solutions Grant (PSG) in the Business Grants Portal.
 
   - title: How can I extend the claim due date?
     content: |
@@ -30,8 +28,8 @@ accordion:
       If you don't have a GIRO account, you will need to print and complete the GIRO form relevant to your processing agency. You will need to get your bank to verify the completed form. Once verified, mail the original verified form to the agency's finance department.
 
       Here are the links to the processing agencies' GIRO forms:
-      - [Enterprise Singapore](/images/grow/ESG_GIRO_FORM.pdf){:target="_blank"}
-      - [National Environmental Agency](/images/grow/NEA_GIRO_FORM_2018_v1.0.pdf){:target="_blank"}
+      - [Enterprise Singapore](https://go.gov.sg/esggiroform){:target="_blank"}{:rel="noopener"}
+      - [National Environmental Agency](/images/grow/NEA-GIRO-FORM-2021-v3.0.pdf){:target="_blank"}
       - [National Parks Board](/images/grow/NPARKS_GIRO_FORM_2018_v1.0.pdf){:target="_blank"}
       - [Building and Construction Authority](/images/grow/BCA_GIRO_FORM_2017_v1.0.pdf){:target="_blank"}
       - [Singapore Tourism Board](/images/grow/STB_GIRO_FORM_2018_v1.0.pdf){:target="_blank"}

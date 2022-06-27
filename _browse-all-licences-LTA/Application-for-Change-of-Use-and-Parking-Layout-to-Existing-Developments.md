@@ -8,11 +8,11 @@ third_nav_title: Land Transport Authority (LTA)
 
 Land Transport Authority (LTA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on LTA" src="http://www.lta.gov.sg/content/ltaweb/en/industry-matters/development-and-building-and-construction-and-utility-works/vehicle-parking.html" type="primary" %}
+{% include button.html text="Apply on LTA" src="https://www.lta.gov.sg/content/ltagov/en/industry_innovations/industry_matters/development_construction_resources/vehicle-parking-proposals/codes_forms_and_epayment_services.html" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
-<p>Submission to obtain approval/clearance for proposed Change of Use proposal, Regularisation of existing parking provision Addition/Alteration of existing parking spaces and places.</p>
+<p>Submission to obtain approval/clearance for Change of Use proposals and proposed Addition/Alteration of existing parking places and lots.</p>
 

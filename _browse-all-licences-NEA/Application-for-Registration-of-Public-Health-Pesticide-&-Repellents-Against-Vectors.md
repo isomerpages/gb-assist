@@ -8,11 +8,11 @@ third_nav_title: National Environment Agency (NEA)
 
 National Environment Agency (NEA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
 {% include button.html text="Apply on NEA" src="https://www.nea.gov.sg/our-services/pest-control/registration-of-control-of-public-health-pesticides-and-repellents-against-vectors" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>All Public Health Pesticide/Repellent Products intended for use against the five vectors (namely mosquitos, flies, cockroaches, rodents and rat fleas) have to be registered prior to local sales in Singapore under the Control of Vectors and Pesticides Act.</p>
 

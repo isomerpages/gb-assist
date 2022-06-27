@@ -23,6 +23,7 @@ Currently on BGP, you can apply for:
 - [Productivity Solutions Grant](/productivity-solutions-grant/){:target="_blank"}
 - [Agri-Food Cluster Transformation Fund](https://www.sfa.gov.sg/food-farming/funding-schemes/act-fund){:target="_blank"}
 - [Electric Vehicle Common Charger Grant](https://www.lta.gov.sg/content/ltagov/en/industry_innovations/technologies/electric_vehicles/ev_common_charger_grant.html){:target="_blank"}
+- [Experience Step-Up Fund](https://www.stb.gov.sg/content/stb/en/assistance-and-licensing/grants-overview/experience-step-up-fund-esf.html){:target="_blank"}
 
 You may use the e-Adviser for Government Assistance to view suitable grants for your business needs.
 
@@ -46,7 +47,7 @@ Fill in your company profile. Please take note that your ACRA profile will be po
 
 #### 4. Fill in your application
 
-Once submitted, your application will be sent to the relevant agency for processing. The agency’s contact details will be shown on the “Grant Actions” page.
+Once submitted, your application will be sent to the relevant agency for processing. The agency's contact details will be shown on the “Grant Actions” page.
 
 #### 5. Monitoring your application
 
@@ -54,11 +55,11 @@ Monitor your application on the “My Grants” page. An email will be sent to y
 
 #### 6. Accept your Letter of Offer
 
-You will be notified of your application results via email. Log into BGP to accept your Letter of Offer. Please take note that only your company’s Acceptor in Corppass can accept the Letter of Offer.
+You will be notified of your application results via email. Log into BGP to accept your Letter of Offer. Please take note that only your company's Acceptor in Corppass can accept the Letter of Offer.
 
 #### 7. Submit your claim
 
-Once you have accepted your Letter of Offer, you will be notified on your claim due date for your grant via email. Log into BGP to file your claim before the claim due date and your approved claim will be credited to your company’s bank account. 
+Once you have accepted your Letter of Offer, you will be notified on your claim due date for your grant via email. Log into BGP to file your claim before the claim due date and your approved claim will be credited to your company's bank account. 
 
 ---
 

@@ -8,26 +8,32 @@ third_nav_title: Intellectual Property Office of Singapore (IPOS)
 
 Intellectual Property Office of Singapore (IPOS)
 
-Print md SPCP Here SINGPASS
+{% include spcp-text.html type="sp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=269" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=269" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Application for a Practising Certificate under rule 9(1) of the Patents (Patent Agents) Rules 2001.</p>
-<p><strong>FAQ</strong></p>
+<h3>FAQ</h3>
+<ol>
+<li><strong>Why is the Professional Indemnity Insurance required?</strong><br>
+The Professional Indemnity insurance is needed for patent agents to provide protection against liability or gives liability coverage in any case of misjudgement.</li>
+<li><strong>Who can I contact for further details?</strong><br>
+You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a></li>
+</ol>
 
-<p><strong><u>1. Why is the Professional Indemnity Insurance required?</u></strong></p>
-<p>The Professional Indemnity insurance is needed for patent agents to provide protection against liability or gives liability coverage in any case of misjudgement.</p>
-<p><strong><u>2. Who can I contact for further details?</u></strong></p>
-<p>You may email to <a href="mailto:ipos_pau@ipos.gov.sg">ipos_pau@ipos.gov.sg</a></p>
+<strong>Additional Information</strong>
 
-**Additional Information**
+<p><strong>Fees</strong><br />
+New licence valid for 12 months - <strong>$400</strong> per year</p>
 
-<p><strong>Fee</strong></p><p>$150</p>
+<H3>Documents Needed</H3>
 
-### Documents Needed
-
-<p><strong>Professional Indemnity Insurance</strong></p>
-<p>Indemnity insurance is needed for patent agents to provide protection against liability or gives liability coverage in any case of misjudgement.</p>
+<ul>
+<li><strong>Professional Indemnity Insurance</strong></li>
+<li>Indemnity insurance is needed for patent agents to provide protection against liability or gives liability coverage in any case of misjudgement.
+<br>File format: PDF, jpg, jpeg, png, bmp
+<br>Maximum upload per application: 2 MB</li>
+</ul>
 

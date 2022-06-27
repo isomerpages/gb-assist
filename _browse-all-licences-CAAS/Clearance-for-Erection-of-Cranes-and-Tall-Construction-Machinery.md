@@ -8,23 +8,29 @@ third_nav_title: Civil Aviation Authority of Singapore (CAAS)
 
 Civil Aviation Authority of Singapore (CAAS)
 
-Print md SPCP Here BOTH
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=289" type="primary" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=289" type="primary" %}
-
-### Application Details
+<H3>Application Details</H3>
 
 <p>Development of buildings, use of tall construction machineries such as cranes can potentially affect safety of air navigation either due to the close proximity between the structure and an overflying aircraft, or the structure may cause an obstruction along the flight path. As such, prior clearance needs to be sought from CAAS before interests parties carry out the erection of cranes and tall construction machineries.</p>
-<p><strong>FAQ</strong></p>
-<p>1. When do I need to apply for a clearance?</p>
-<p>A clearance is required when the erection of cranes and tall construction machinery is conducted beyond stipulated limits<sup>1</sup>. You can visit our online map at<a href="https://appserver1.caas.gov.sg/CAAS-AERIAL/jsp/enquiry_obstacle/index.jsp" target="_blank" rel="noopener">https://appserver1.caas.gov.sg/CAAS-AERIAL/jsp/enquiry_obstacle/index.jsp</a>to check the stipulated limits<sup>1</sup>based on the location selected.</p>
-<p><sup>1</sup>- or "safe limits" / "risk limits"</p>
-<p></p>
-<p>2. How do I apply for a clearance?</p>
-<p>The submission of application for a clearance is free of charge, and can be done through our online form. Please allow for 7 working days for our processing of your application. In addition to CAAS, you are required to consult and obtain the necessary clearance from the Republic of Singapore Air Force (RSAF).</p>
+ <h3>FAQ</h3>
+ <ol>
+ <li><strong>When do I need to apply for a clearance?</strong><br />A clearance is required when the erection of cranes and tall construction machinery is conducted beyond stipulated limits<sup>1</sup>. You can visit our online map at <a href="https://www.caas.gov.sg/operations-safety/airspace/obstacles-height-control" target="_blank" rel="noopener">https://www.caas.gov.sg/operations-safety/airspace/obstacles-height-control</a> to check the stipulated limits<sup>1 </sup>based on the location selected.<br /><sup>1</sup>- or "safe limits" / "risk limits"<br /></li>
+ <li>
+ <p><strong>How do I apply for a clearance?</strong><br />The submission of application for a clearance is free of charge, and can be done through our online form. Please allow for 7 working days for our processing of your application. In addition to CAAS, you are required to consult and obtain the necessary clearance from the Republic of Singapore Air Force (RSAF).</p>
+ </li>
+ </ol>
 
-### Documents Needed
+<strong>Additional Information</strong>
 
-<p><strong>Building Elevation Plan</strong></p>
-<p>Details of Building Elevation Plan</p>
+<p><strong>Fees</strong><br />
+ N/A</p>
+
+<H3>Documents Needed</H3>
+
+<ul>
+ <li><strong>Building Elevation Plan</strong><br>Details of Building Elevation Plan<br>
+File format: jpg, png, pdf<br>
+Maximum upload per application: 2 MB</li>
+ </ul>
 

@@ -8,40 +8,38 @@ third_nav_title: Singapore Police Force (SPF)
 
 Singapore Police Force (SPF)
 
-Print md SPCP Here BOTH
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=258" type="primary" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=258" type="primary" %}
-
-### Application Details
+<H3>Application Details</H3>
 
 <p>A licence for Export of Explosives or for a company or individual to Import Explosives.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-Contact Details: Police Licensing and Regulatory Department, Tel No. 6835 0000 or email spf_licensing_feedback@spf.gov.sg
-Fee: $22 for a period of not more than 30 days / per consignment
+<p><strong>Fees</strong><br> Fee: $22 for a period of not more than 30 days / per consignment</p> <p><strong>Contact details</strong><br>Police Licensing and Regulatory Department, Tel No. <a href="tel:6835 0000">6835 0000</a> or email: <a href="mailto:spf_licensing_feedback@spf.gov.sg">spf_licensing_feedback@spf.gov.sg</a></p>
 
-### Documents Needed
 
-For Export:
-The applicant is required to submit the following documents to the Licensing Officer within 5 working days from the date of submission of the application:
+<H3>Documents Needed</H3>
 
-(a) a catalogue or brochure or Safety Datasheet showing the type of explosives to be Exported;
-(b) for Export of explosives, the Purchase Order and End User Certificate (EUC) from the company / government agency where the explosives are to be exported to;
-(c) Import permit/licence from the country of the final destination;
-(d) Bill of Lading or Airway Bill; and
-(e) Invoice from the supplier.
+<p>For Export:<br />The applicant is required to submit the following documents to the Licensing Officer within 5 working days from the date of submission of the application:</p>
+<ul>
+<li>a catalogue or brochure or Safety Datasheet showing the type of explosives to be Exported;</li>
+<li>for Export of explosives, the Purchase Order and End User Certificate (EUC) from the company / government agency where the explosives are to be exported to;</li>
+<li>Import permit/licence from the country of the final destination;</li>
+<li>Bill of Lading or Airway Bill; and</li>
+<li>Invoice from the supplier.</li>
+</ul>
 
-For Import:
-The applicant is required to submit the following documents to the Licensing Officer within 5 working days from the date of submission of the application:
+<p>For Import:<br />The applicant is required to submit the following documents to the Licensing Officer within 5 working days from the date of submission of the application:</p>
+<ul>
+<li>a catalogue or brochure or Safety Datasheet showing the type of explosives to be imported;</li>
+<li>for import explosives, the Purchase Order or End User Certificate (EUC);</li>
+<li>EUC and Import permit/licence from the country of origin;</li>
+<li>Bill of Lading or Airway Bill; and</li>
+<li>Invoice from the supplier.</li>
+</ul>
 
-(a) a catalogue or brochure or Safety Datasheet showing the type of explosives to be imported;
-(b) for import explosives, the Purchase Order or End User Certificate (EUC);
-(c) EUC and Import permit/licence from the country of origin;
-(d) Bill of Lading or Airway Bill; and
-(e) Invoice from the supplier.
+<H3>Requirements</H3>
 
-### Requirements
-
-The applicant must hold a Licence to Deal in Explosives before he can apply for a Licence to Import or Export Explosives.
+<p>The applicant must hold a Licence to Deal in Explosives before he can apply for a Licence to Import or Export Explosives.</p>
 

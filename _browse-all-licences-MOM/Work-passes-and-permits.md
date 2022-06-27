@@ -8,11 +8,11 @@ third_nav_title: Ministry of Manpower (MOM)
 
 Ministry of Manpower (MOM)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
 {% include button.html text="Apply on MOM" src="http://www.mom.gov.sg/passes-and-permits" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>All foreigners who intend to work in Singapore must have a valid pass (commonly known as a work visa) before they start work. If you are engaging foreigners to work in Singapore, you must ensure that they hold a valid pass. Find out which pass is suitable, if they are eligible and how to apply.</p>
 

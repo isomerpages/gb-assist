@@ -8,23 +8,25 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=27" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=27" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For conducting research and development activities, testing, experiments or demonstrations in radio communications/radio communications equipment.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-Licence Fee: to be determined
+<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Purpose of Application
+<ul>
+ <li><strong>Purpose of Application</strong></li>
+ </ul>
 
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

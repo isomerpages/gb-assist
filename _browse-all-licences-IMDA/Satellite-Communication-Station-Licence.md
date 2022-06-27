@@ -8,35 +8,29 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=33" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For transmitting and/or receiving messages or data by means of satellite communications.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-Licence Fee: to be determined
+<p><strong>Fee</strong><br />Licence Fee: To be determined</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-The attachment should contain a Earth Station System Block Diagram and Description.
+<ul>
+ <li><strong>The attachment should contain a Earth Station System Block Diagram and Description.</strong></li>
+ <li><strong>Please provide the equipment Rack Diagram with Panel Layout showing functional units - Transmitter, receiver, up/down converter, module/demodulator, monitor and control, baseband(audio/video) data interface, power supply and others (to specify).</strong></li>
+ <li><strong>The attachment should contain the following:</strong><br /><strong>a. Horizontal Elevation of Earth Station</strong><br /><strong>b. Antenna Radiation Diagram (Copolar and Crosspolar)</strong><br /><strong>c. Transmitter/Receiver RF Filter Attenuation</strong></li>
+ <li><strong>This attachment refers to the General Description of the Functional Units.</strong></li>
+ <li><strong>This attachment is for any supporting documents required to be submitted.</strong></li>
+ </ul>
 
-Please provide the equipment Rack Diagram with Panel Layout showing functional units - Transmitter, receiver, up/down converter, module/demodulator, monitor and control, baseband(audio/video) data interface, power supply and others (to specify).
-
-The attachment should contain the following:
-a. Horizontal Elevation of Earth Station
-b. Antenna Radiation Diagram (Copolar and Crosspolar)
-c. Transmitter/Receiver RF Filter Attenuation
-
-This attachment refers to the General Description of the Functional Units.
-
-This attachment is for any supporting documents required to be submitted.
-
-
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

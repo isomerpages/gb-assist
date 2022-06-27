@@ -8,13 +8,13 @@ third_nav_title: Urban Redevelopment Authority (URA)
 
 Urban Redevelopment Authority (URA)
 
-Print md SPCP Here BOTH
-
 {% include button.html text="Apply on URA" src="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
-<p>You will need approval from Urban Redevelopment Authority if you wish to install business signs on your conserved building.</p><p><strong>FAQ</strong></p>
-<p>1. Where can I get more information?</p>
-<p>You can get more information at this link below:<a href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" target="_blank" rel="noopener">https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage</a></p>
+<p>You will need approval from Urban Redevelopment Authority if you wish to install business signs on your conserved building.</p>
+ <h3>FAQ</h3>
+ <ol>
+ <li><strong>Where can I get more information?</strong><br>You can get more information at <a href="https://www.ura.gov.sg/Corporate/Guidelines/Conservation/Signage" target="_blank" rel="noopener">Signage Guidelines</a>.</li>
+ </ol>
 

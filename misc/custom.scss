@@ -258,7 +258,7 @@ $desktop: 960px + (2 * $gap) !default;
   box-shadow: none !important;
 
   .bp-masthead {
-    height: 40px !important;
+
 
     @media screen and (max-width: 1023px) {
       a {
@@ -396,6 +396,7 @@ $desktop: 960px + (2 * $gap) !default;
     a {
       font-family: hknova-semibold;
       font-weight: 600;
+      text-transform: none !important;
     }
     .sub-link {
       font-family: hknova-regular;
@@ -562,14 +563,6 @@ h4 {
   line-height: 30px;
   color: #313840;
 }
-//contact us sub header
-h5 {
-  font-family: hknova-semibold;
-  font-size: 19px;
-  //font-weight: $semi-bold;
-  line-height: 30px;
-  color: #037E8A !important;
-}
 
 p {
   font-family: hknova-regular;
@@ -651,6 +644,12 @@ img[src*="/images/budget2021/budget2021.png"] {
   width: 100px;
   height: auto;
 }
+img[src*="/images/budget2022/budget2022.png"] {
+  display: inline;
+  margin: auto;
+  width: 100px;
+  height: auto;
+}
 
 img[src*="/images/budget2021/budget_enhanced.png"] {
   display: inline;
@@ -719,6 +718,13 @@ img[src*="/images/licences/cp.png"] {
 
 p > img[src*="/images/"] {
   margin: 32px 0;
+}
+
+p > img[src*="/images/blog/"] {
+  margin: 32px 0 0 0;
+}
+p > img[src*="/images/blog/content/"] {
+  width: 800px;
 }
 
 .news-content {
@@ -837,27 +843,10 @@ p > img[src*="/images/"] {
   width: -moz-fit-content;
   font-size: 18px;
   line-height: 27px;
-  
-  //&:visited{
-    //color: white !important;
-    //background-color: #026770;// !important;
-  //}
 
   &:hover {
-    //color: white !important;
-    background-color: #026770; // !important;
+    background-color: #026770; 
   }
-/*
-  &:active {
-    //color: white !important;
-    background-color: #025B63; //!important;
-  }
-
-  &:focus {
-    //color: white !important;
-    outline: 2px solid #1C8B95; // !important;
-  }
-*/
 }
 
 table {
@@ -897,11 +886,72 @@ hr {
   height: 1px;
 }
 
-img[alt=DBS]{ width: 82px; align: left;}
-img[alt=OCBC]{ width: 120px; align: left; }
-img[alt=UOB]{ width: 120px; align: left; } 
+// Chatbot
+div#webchat-container {
+  font-family: 'hknova-regular';
+}
 
-.banner-text-layout > .is-text > b {
-  font-family: hknova-semibold;
-  font-weight: $semi-bold;
+// General Paragraphs
+div#webchat-container > div > div > div:nth-child(2) div,
+div#webchat-container > div > div > div:nth-child(2) p
+{
+  font-family: 'hknova-regular';
+  font-size: 14px;
+  line-height: 1.25rem;
+}
+
+// List styles
+div#webchat-container ul {
+  list-style-type: disc;
+  list-style-position: outside;
+
+  li {
+    font-family: 'hknova-regular';
+    font-size: 14px;
+    line-height: 1.25rem;
+  }
+}
+
+// Chatbot responses
+div#webchat-container > div > div > div:nth-child(2) > div > div {
+  font-family: unset;
+  font-size: 20px;
+  line-height: 35px;
+} 
+
+// User's responses
+div#webchat-container div[direction="row-reverse"] > div > div > span {
+  font-family: 'hknova-regular';
+  font-size: 14px;
+  line-height: 1.25rem;
+}
+
+// Card and titles
+div#webchat-container .kxXLiI, 
+div#webchat-container .duZRnn, 
+div#webchat-container .liDYoY {
+  font-family: 'hknova-semibold' !important;
+  font-size: 14px !important;
+  line-height: 1.25rem !important;
+}
+
+// Card button
+div#webchat-container button.sc-cSHVUG {
+  background-color: #fafdfd;
+}
+
+// Chatbot frame title
+.sc-iwsKbI.jHlcrJ > div {
+  position: relative;
+
+  p {
+    position: relative;
+    &.sc-gZMcBi.kIqhcI {
+      top: 6px;
+    }
+    &.sc-gqjmRU.dyvkkp {
+      bottom: 6px;
+    }
+  }
+  
 }

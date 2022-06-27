@@ -1,9 +1,9 @@
 ---
-title: Workplace Safe Management Measures
+title: Resumption of business activities and safe management measures
 permalink: /covid-19-faqs/workplace-safe-management-measures
 ---
 
-### Workplace Safe Management Measures
+### Safe management measures at the workplace after Circuit Breaker period [UPDATED ON 22 APR 2022] 
 
 {% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="a" %}
 
@@ -11,21 +11,14 @@ permalink: /covid-19-faqs/workplace-safe-management-measures
 
 {% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="b" %}
 
-#### Managing COVID-19 Cases at the workplace
-
-{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="c" %}
-
 #### Take care of the workplace
 
 {% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="d" %}
 
-#### Take care of workers who become unwell at the workplace
-
-{% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="e" %}
-
 #### Implement a system of Safe Management Measures
 
 {% include letter-accordion.html accordions=site.data.acc099-workplace-smm letter="f" %}
+
 
 [Back to Covid-19 Overview](/covid/)
 

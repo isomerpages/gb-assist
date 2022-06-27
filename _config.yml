@@ -43,8 +43,8 @@ paginate: 12
 remote_theme: isomerpages/isomerpages-template@next-gen
 safe: false
 description: test test
-staging: https://gb-assist-staging.netlify.app/
-prod: https://gb-assist-staging.netlify.app/
+staging: https://govtech-gobusiness-main-staging.netlify.app/
+prod: https://govtech-gobusiness-main-prod.netlify.app/
 plugins:
   - jekyll-feed
   - jekyll-assets

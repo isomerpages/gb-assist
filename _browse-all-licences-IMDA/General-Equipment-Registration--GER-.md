@@ -8,58 +8,41 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10080" type="primary" %}
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10080" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>Equipment registration under the General Equipment Registration (GER) Scheme is mandatory for equipment suppliers who wish to register Mobile/IoT Base Station/Repeater System, Landmobile radio/walkie-talkie, TV White Space devices, UWB, DSRC, IoT Base Station, RFID > 500 mW, etc.</p>
 <p>GER scheme is also optional for equipment categories that falls under SER/ESER scheme where applicant may opt for IMDA to evaluate the test reports instead of self-declaration. However this will be subject to registration fees under GER scheme.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-$350/$500 or $50 for family series fee
+<p><strong>Family Series Fee</strong><br />$350.00/$500.00 or $50.00</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Product Brochure
+<ul>
+ <li><strong>Product Brochure</strong></li>
+ <li><strong>Photographs of Equipment (Front, Rear, Sides, Top, Bottom)</strong></li>
+ <li><strong>Photo of Product Label</strong></li>
+ <li><strong>Test Reports</strong></li>
+ <li><strong>Test Reports</strong></li>
+ <li><strong>User Manual</strong></li>
+ <li><strong>Supplier's Declaration of Conformity</strong></li>
+ <li><strong>Test Reports</strong></li>
+ <li><strong>Cybersecurity Labelling Scheme - Conformance Checklist</strong></li>
+ <li><strong>Login Credentials Management</strong></li>
+ <li><strong>Device Setup & Administration</strong></li>
+ <li><strong>Firmware Updates</strong></li>
+ <li><strong>Wireless Access Protection</strong></li>
+ <li><strong>Data Protection</strong></li>
+ <li><strong>Vulnerability Reporting</strong></li>
+ <li><strong>Others</strong></li>
+ </ul>
 
-Photographs of Equipment (Front, Rear, Sides, Top, Bottom)
-
-Photo of Product Label
-
-Test Reports
-
-Test Reports
-
-User Manual
-
-Supplier's Declaration of Conformity
-
-Test Reports
-
-Cybersecurity Labelling Scheme - Conformance Checklist
-
-Login Credentials Management
-
-Device Setup & Administration
-
-Firmware Updates
-
-Wireless Access Protection
-
-Data Protection
-
-Vulnerability Reporting
-
-Others
-
-Others
-
-Others
-
-### Requirements
+<H3>Requirements</H3>
 
 Applicant must be ACRA registered company/business
 

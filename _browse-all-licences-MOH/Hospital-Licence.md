@@ -8,11 +8,11 @@ third_nav_title: Ministry of Health (MOH)
 
 Ministry of Health (MOH)
 
-Print md SPCP Here CORPPASS
+{% include spcp-text.html type="cp" %}
 
 {% include button.html text="Apply on MOH" src="https://elis.moh.gov.sg/elis/index.do?task=home" type="primary" %}
 
-### Application Details
+<H3>Application Details</H3>
 
 <p>For providing lodging, treatment and care of persons who require medical treatment or who are suffering from any disease.</p>
 

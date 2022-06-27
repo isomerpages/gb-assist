@@ -8,23 +8,21 @@ third_nav_title: Infocomm Media Development Authority (IMDA)
 
 Infocomm Media Development Authority (IMDA)
 
-Print md SPCP Here BOTH
+{% include button.html text="Apply on GoBusiness Licensing" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10015" type="primary" %}
 
-{% include button.html text="Apply on GoBusiness Dashboard" src="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?redirection=true&selectedLicenceIds=10015" type="primary" %}
-
-### Application Details
+<H3>Application Details</H3>
 
 <p>The Ship Station Licence is issued for the operation of the radio-communication equipment installed on-board ships registered in Singapore.</p>
 
-**Additional Information**
+<strong>Additional Information</strong>
 
-$100 for 5 years for each trip station
+<p><strong>Fee</strong><br />Licence Fee: $100.00 for 5 years for each trip station</p>
 
-### Documents Needed
+<H3>Documents Needed</H3>
 
-Certificate of Registry or Harbour/Pleasure Craft Licence
-
-Letter from Singtel on the assignment of maritime mobile service identity (MMSI) number
-
-Other supporting document
+<ul>
+ <li><strong>Certificate of Registry or Harbour/Pleasure Craft Licence</strong></li>
+ <li><strong>Letter from Singtel on the assignment of maritime mobile service identity (MMSI) number</strong></li>
+ <li><strong>Other supporting document</strong></li>
+ </ul>
 
