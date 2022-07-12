@@ -21,3 +21,4 @@ Select a category to see its relevant solutions. Companies across all business s
 {% include letter-accordion.html accordions=site.data.psg001-all-solutions letter="b" %}
 
 #### Consultancy
+{% include letter-accordion.html accordions=site.data.psg001-all-solutions letter="c" %}
