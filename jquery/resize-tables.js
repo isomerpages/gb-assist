@@ -41,7 +41,7 @@ const customTables = [
   },
   {
     path: "/browse-all-solutions*",
-    columns: ["auto", "30%"]
+    columns: ["50%", "50%"]
   },
   {
     path: "/productivity-solutions-grant/solutionrepo/*",
