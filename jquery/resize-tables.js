@@ -40,6 +40,10 @@ const customTables = [
     columns: ["20%", "auto"]
   },
   {
+    path: "/browse-all-solutions*",
+    columns: ["auto", "30%"]
+  },
+  {
     path: "/productivity-solutions-grant/solutionrepo/*",
     columns: ["10%", "auto", "20%", "10%", "10%"]
   }
