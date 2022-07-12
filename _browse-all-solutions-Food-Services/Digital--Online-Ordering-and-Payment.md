@@ -14,9 +14,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution431' target='_blank'>Getz F&B Integrated Instore and Online Transformation Version 2</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution511' target='_blank'>NinjaOS</a><br>
-- <a href='/productivity-solutions-grant/solutionrepo/solution830' target='_blank'>Ellie Integrated System Version 2</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution976' target='_blank'>Kiosk  & BYOD</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution981' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution991' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0</a><br>
@@ -39,3 +36,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2994' target='_blank'>EPOINT Version 9</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3030' target='_blank'>SGDATAPOS Digital Ordering</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution3034' target='_blank'>AppsPOS Bring Your Own Device (BYOD) Solution Version 5.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3098' target='_blank'>WhyQ VendorOS Version 13.0</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution3104' target='_blank'>FirstCom Online Food Ordering & Payment System</a><br>
+
+{% include banner-psg-survey.html %}
