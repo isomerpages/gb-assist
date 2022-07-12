@@ -22,6 +22,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>SmartWeb V3 Version V3</a><br>
+<table>
+<tr>
+<th><b>Solutions Name</b></th>
+<th><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>SmartWeb V3 Version V3</a><br></td>
+<td>TabSquare Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

@@ -14,6 +14,15 @@ This solution is supported by Building and Construction Authority (BCA).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution1754' target='_blank'>iCoreSpec</a><br>
+<table>
+<tr>
+<th><b>Solutions Name</b></th>
+<th><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1754' target='_blank'>iCoreSpec</a><br></td>
+<td>iNPQS Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}

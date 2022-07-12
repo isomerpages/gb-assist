@@ -14,6 +14,15 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
-- <a href='/productivity-solutions-grant/solutionrepo/solution2339' target='_blank'>Synergix Process Construction and Maintenance</a><br>
+<table>
+<tr>
+<th><b>Solutions Name</b></th>
+<th><b>Vendor</b></th>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2339' target='_blank'>Synergix Process Construction and Maintenance</a><br></td>
+<td>Synergix Technologies Pte Ltd</td>
+</tr>
+</table>
 
 {% include banner-psg-survey.html %}
