@@ -15,5 +15,3 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution2522' target='_blank'>3D Intraoral Scanner</a><br>
-
-{% include banner-psg-survey.html %}

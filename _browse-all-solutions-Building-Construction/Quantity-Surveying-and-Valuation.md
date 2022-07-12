@@ -16,5 +16,3 @@ This solution is supported by Building and Construction Authority (BCA).
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution437' target='_blank'>Cubicost Digital 5D BIM Cost Management Solution Version 3</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2292' target='_blank'>INNOCOM - ASSEMBLE</a><br>
-
-{% include banner-psg-survey.html %}

@@ -16,5 +16,3 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1900' target='_blank'>arc.lite and arc.ops - Process Configuration (arc.link Module)</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2705' target='_blank'>Teamcenter Version 13</a><br>
-
-{% include banner-psg-survey.html %}

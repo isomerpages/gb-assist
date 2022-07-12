@@ -16,5 +16,3 @@ This solution is supported by Building and Construction Authority (BCA).
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution2409' target='_blank'>NovaVision Remote Assist Version 1.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2479' target='_blank'>Smart Glasses - InnoGlas</a><br>
-
-{% include banner-psg-survey.html %}

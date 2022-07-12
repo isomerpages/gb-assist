@@ -14,6 +14,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 ## Pre-Approved Solutions
 
+- <a href='/productivity-solutions-grant/solutionrepo/solution110' target='_blank'>Advocado Cloud Loyalty CRM Software</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution250' target='_blank'>BonaForce</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution464' target='_blank'>Hubspot CRM, Sales, Marketing and CMS (Content Management System) Hub</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1079' target='_blank'>OdooCRM </a><br>
@@ -29,5 +30,3 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution2645' target='_blank'>Flavor Customer Relationship Management System Version 1</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2710' target='_blank'>WEB360 Version 2.0.0</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2871' target='_blank'>Eber Smart Members Solution</a><br>
-
-{% include banner-psg-survey.html %}

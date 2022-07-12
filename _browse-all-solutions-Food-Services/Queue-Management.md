@@ -15,5 +15,3 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 ## Pre-Approved Solutions
 
 - <a href='/productivity-solutions-grant/solutionrepo/solution1691' target='_blank'>ChopeQueues</a><br>
-
-{% include banner-psg-survey.html %}
