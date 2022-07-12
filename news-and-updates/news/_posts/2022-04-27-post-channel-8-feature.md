@@ -3,6 +3,8 @@ layout: post
 title: 'Channel 8 News: How GoBusiness supported businesses in their transformation'
 permalink: /news-and-updates/news/ch8-feature
 published: true
+preview: |
+  Channel 8 News featured GoBusiness in its Morning Express programme on 27 April 2022. The 7-minute feature showcased how the GoBusiness platform streamlines business processes through the experience of two businesses - Ann Huat & Company and Zyrup Media.
 image: /images/news/News_Media Feature.jpg
 ---
 

@@ -20,6 +20,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 - <a href='/productivity-solutions-grant/solutionrepo/solution1856' target='_blank'>NetSuite</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution1995' target='_blank'>SAP Business One Version 10</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2045' target='_blank'>EQUIP Version 10</a><br>
+- <a href='/productivity-solutions-grant/solutionrepo/solution2751' target='_blank'>Microsoft Dynamics 365 Business Central Version Cloud</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2879' target='_blank'>SAP BUSINESS ONE</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2899' target='_blank'>AM8ZE ERP: VISTA</a><br>
 - <a href='/productivity-solutions-grant/solutionrepo/solution2958' target='_blank'>SAP Business One SQL & HANA Version 10.0</a><br>
+
+{% include banner-psg-survey.html %}
