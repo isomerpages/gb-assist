@@ -16,8 +16,8 @@ This solution is supported by Building and Construction Authority (BCA).
 
 <table>
 <tr>
-<th><b>Solutions Name</b></th>
-<th><b>Vendor</b></th>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1024' target='_blank'>Autodesk BIM 360</a><br></td>

@@ -16,8 +16,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 <table>
 <tr>
-<th><b>Solutions Name</b></th>
-<th><b>Vendor</b></th>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1673' target='_blank'>RetailNext In-Store Analytics Version 1</a><br></td>

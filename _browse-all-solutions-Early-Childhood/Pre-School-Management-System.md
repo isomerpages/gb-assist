@@ -16,8 +16,8 @@ This solution is supported by Early Child Development Agency (ECDA).
 
 <table>
 <tr>
-<th><b>Solutions Name</b></th>
-<th><b>Vendor</b></th>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2432' target='_blank'>Qoqolo School Management System Version 4</a><br></td>

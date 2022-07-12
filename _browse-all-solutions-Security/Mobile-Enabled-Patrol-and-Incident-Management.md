@@ -27,8 +27,8 @@ When adopting the solutions under this sub-category, you might wish to think abo
 
 <table>
 <tr>
-<th><b>Solutions Name</b></th>
-<th><b>Vendor</b></th>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2558' target='_blank'>AdeptForms Security Operational Management Version 2</a><br></td>

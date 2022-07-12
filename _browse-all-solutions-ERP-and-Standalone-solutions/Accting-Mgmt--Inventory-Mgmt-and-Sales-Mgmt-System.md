@@ -16,8 +16,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 <table>
 <tr>
-<th><b>Solutions Name</b></th>
-<th><b>Vendor</b></th>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution657' target='_blank'>OCi Sales & Accounting Management System (SAM) Version 11 </a><br></td>

@@ -16,8 +16,8 @@ This solution is supported by Monetary Authority of Singapore (MAS).
 
 <table>
 <tr>
-<th><b>Solutions Name</b></th>
-<th><b>Vendor</b></th>
+<th style='width: auto;'><b>Solutions Name</b></th>
+<th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1476' target='_blank'>AxiomSL MAS 610 SaaS version 4</a><br></td>
