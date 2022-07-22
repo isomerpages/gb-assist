@@ -33,7 +33,7 @@ After registering for your business, you’ll receive a set of suggestions on wh
 ### 2. For new and established businesses: Apply for licences
 
 ![GoBusiness Dashboard find a licence](/images/blog/content/Dashboard 2.jpg)
-###### Easily find, apply and keep track of licences you require all in one place 
+<figcaption>Easily find, apply and keep track of licences you require all in one place</figcaption>
 
 Gone are the days of accessing multiple Singapore government agency websites to find and apply for different licences. Now, businesses can also easily access and apply for over 200 business licences across sectors on the Dashboard! 
 
