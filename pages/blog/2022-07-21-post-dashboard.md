@@ -22,7 +22,7 @@ A platform designed for all businesses, anyone can make the most out of the GoBu
 ### 1. For new business owners: Register your business
 
 ![GoBusiness Dashboard overview](/images/blog/content/Dashboard 1.jpg)
-<figcaption>Register for your new business easily on the Dashboard, where every step is guided</figcaption>
+<figcaption>Register for your new business easily on the Dashboard, where every step is guided.</figcaption>
 
 New entrepreneurs looking to start a business with a sole proprietorship or partnership business structure can easily register your business through the [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login){:target="_blank"}{:rel="noopener"}. Simply log in, and scroll down to the ‘Register a new Sole Proprietorship/Partnership’ section. 
 
@@ -33,19 +33,19 @@ After registering for your business, you’ll receive a set of suggestions on wh
 ### 2. For new and established businesses: Apply for licences
 
 ![GoBusiness Dashboard find a licence](/images/blog/content/Dashboard 2.jpg)
-<figcaption>Easily find, apply and keep track of licences you require all in one place</figcaption>
+<figcaption>Easily find, apply and keep track of licences you require all in one place.</figcaption>
 
 Gone are the days of accessing multiple Singapore government agency websites to find and apply for different licences. Now, businesses can also easily access and apply for over 200 business licences across sectors on the Dashboard! 
 
 All you need to do is select the ‘Find Licence’ button at the top of your Dashboard overview, and you’ll be directed to a list of all relevant licences, sorted in alphabetical order based on the government agency responsible.
 
 ![GoBusiness Dashboard all licences](/images/blog/content/Dashboard 3.jpg)
-<figcaption>An example of the licences available under the Singapore Civil Defence Force</figcaption>
+<figcaption>An example of the licences available under the Singapore Civil Defence Force.</figcaption>
 
 Click on ‘View Details’ to find out more about each licence. An ‘Apply’ button will be available for licences that can be applied directly via the Dashboard. Upon clicking on ‘Apply’, you can find all the information and documents you will need to complete the application presented to you. This includes any relevant fees, frequently asked questions, as well as any prerequisite licences you would otherwise need.
 
 ![business licence application](/images/blog/content/Dashboard 4.jpg)
-<figcaption>An example of the information provided if someone is looking to apply for a Hawker Stall Licence.<figcaption>
+<figcaption>An example of the information provided if someone is looking to apply for a Hawker Stall Licence.</figcaption>
 
 Businesses can also keep track of all their licence applications on the Dashboard. The task overview allows you to easily keep track of pending applications, and informs you when there is action required on your part.
 
