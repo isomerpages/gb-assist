@@ -63,7 +63,7 @@ Take the guesswork out of running a business with the Dashboard’s ability to p
 
 For example, the Dashboard may recommend government grants you are eligible for, provide advice on how to optimise your business structure for new entrepreneurs, or take you through the application for Halal Certification and Food Shop Licences if you are in the F&B sector. If you are looking for government assistance, you can also access the e-Adviser for Government Assistance via the dashboard to identify and apply for suitable support schemes for your specific business needs.
 
-### 4. A platform for businesses, by businesses]
+### 4. A platform for businesses, by businesses
 
 ![GoBusiness dashboard feedback](/images/blog/content/Dashboard 7.jpg)-----
 <figcaption>You’ll be able to submit your feedback on the Dashboard features via the Dashboard banner.</figcaption>
