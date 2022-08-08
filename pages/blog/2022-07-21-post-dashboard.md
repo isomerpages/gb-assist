@@ -2,7 +2,7 @@
 layout: gobusiness-blog-post
 title: Start and manage your business on the GoBusiness Dashboard
 permalink: /gobusiness-blog/dashboard
-ags: GoBusiness How-to
+tags: GoBusiness How-to
 pillar: GoBusiness How-to
 crumbs: gobusiness-how-to
 description: 'Register your business, apply for licences, and discover government grants – all that and more on the GoBusiness Dashboard! This guide will show you how.' 
