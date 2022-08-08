@@ -103,4 +103,12 @@
   image: /images/blog/Dashboard Thumbnail.jpg
   alt: GoBusiness Dashboard Register a business
   date: 2022-07-21
+- tag: Business Tips & Tricks
+  title: Five ways to transform your business with Singpass
+  body: Find out how Singpass can help speed up eKYC for your business, and more!
+  link: /gobusiness-blog/singpass
+  image: /images/blog/Singpass Thumbnail.jpg
+  alt: Singpass APIs
+  date: 2022-08-12
+
   

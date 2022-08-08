@@ -8,7 +8,7 @@ crumbs: business-tips-and-tricks
 description: 'Use Singpass’ suite of services to transform your business by saving time and money for you and your customers.' 
 ---
 
-![GoBusiness Dashboard Register a business](/images/blog/content/Singpass Feature.jpg)
+![Singpass APIs](/images/blog/content/Singpass Feature.jpg)
 <figcaption>Singpass’ Application Programming Interfaces (APIs) enable businesses to streamline digital processes, from online authentication to digital signing and biometrics</figcaption>
 
 Looking to digitalise your services and operations to improve efficiency? Singpass’ suite of services may be just what you need – from user registration to identity verification, [Singpass’ Application Programming Interfaces (APIs)](https://api.singpass.gov.sg/){:target="_blank"}{:rel="noopener"} can be integrated with your businesses’ systems to create a trusted digital ecosystem and transform your business. 
@@ -93,6 +93,12 @@ Simply follow the instructions below to enjoy this feature.
 
 Keen to find out more? Check out the [full list of Singpass APIs](https://api.singpass.gov.sg/){:target="_blank"}{:rel="noopener"}, and make digital transactions easier for your business! 
 
+
+<p>
+<div class="bp-youtube">
+  <iframe title="Testing Video" src="https://www.youtube.com/embed/xJ5D8FuUjaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+</div>
+</p>
 
 ###### This article is accurate as at 12 Aug 2022
 
