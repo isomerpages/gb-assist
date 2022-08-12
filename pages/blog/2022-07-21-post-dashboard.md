@@ -9,7 +9,7 @@ description: 'Register your business, apply for licences, and discover governmen
 ---
 
 ![GoBusiness Dashboard Register a business](/images/blog/content/Dashboard Feature.jpg)
-<figcaption>The GoBusiness dashboard puts all your business transactions with the Government in one place.</figcaption>
+<figcaption>The GoBusiness dashboard puts your business transactions with the Government in one place.</figcaption>
 
 Starting and running a successful business is a tough enough endeavour without needing to worry about the nitty-gritty. From having to register your business to applying for the numerous licences applicable, many businesses end up getting bogged down by the details.
 
@@ -49,7 +49,7 @@ Click on ‘View Details’ to find out more about each licence. An ‘Apply’ 
 
 Businesses can also keep track of all their licence applications on the Dashboard. The task overview allows you to easily keep track of pending applications, and informs you when there is action required on your part.
 
-For example, you can amend, renew or cancel existing licences with just a few simple clicks. The Dashboard will ensure you always have an eye on which stage of application your licence is at, and prompt you to renew your licences when they are close to expiry, so you no longer need to worry about missed deadlines! 
+For example, you can amend, renew or cancel existing licences with just a few simple clicks. The Dashboard will ensure you always have an eye on which stage of application your licence is at, and prompt you to renew your licences via an email notification when they are close to expiry, so you no longer need to worry about missed deadlines! 
 
 ![GoBusiness Dashboard personalised recommendation](/images/blog/content/Dashboard 5.jpg)
 <figcaption>The first thing you see upon logging in to the GoBusiness Dashboard is an overview of all pending tasks.</figcaption>
