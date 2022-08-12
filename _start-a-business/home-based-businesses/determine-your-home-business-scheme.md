@@ -112,7 +112,7 @@ A non-exhaustive list of business activities not permitted for home businesses:
 
 The conditions of use are mandatory and must be followed. You may refer to the respective statutory boards’ websites for further information regarding the schemes – for public housing (i.e. HDB flats), please refer to [HDB’s website](https://www.hdb.gov.sg/residential/living-in-an-hdb-flat/home-business){:target="_blank"}{:rel="noopener"}; for private residential properties, please refer to [Urban Redevelopment Authority (URA)’s website](https://www.ura.gov.sg/Corporate/Guidelines/Home-Business){:target="_blank"}{:rel="noopener"}.
 
-For further clarification regarding the home-based business or home office schemes, you may [contact HDB](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} for public housing or [URA](https://www.ura.gov.sg/feedbackWeb/contactus_feedback.jsp){:target="_blank"}{:rel="noopener"} for private residential properties.
+For further clarification regarding the home-based business or home office schemes, you may [contact HDB](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} for public housing or [URA](https://www.ura.gov.sg/feedbackWeb/){:target="_blank"}{:rel="noopener"} for private residential properties.
 
 <hr>
 
