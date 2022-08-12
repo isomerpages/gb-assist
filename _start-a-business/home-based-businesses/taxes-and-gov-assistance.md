@@ -1,6 +1,6 @@
 ---
 title: Learn about taxes and government assistance
-permalink: /start-a-business/home-based-businesses/taxes-and-gov-assistance/
+permalink: /home-based-businesses/taxes-and-gov-assistance/
 third_nav_title: Home-Based Businesses
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Take your business further
-permalink: /start-a-business/home-based-businesses/create-a-corppass-account/
+permalink: /home-based-businesses/take-your-biz-further/
 third_nav_title: Home-Based Businesses
 ---
 

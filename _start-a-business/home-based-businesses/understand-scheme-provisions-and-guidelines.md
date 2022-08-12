@@ -1,6 +1,6 @@
 ---
 title: 'Understand scheme’s provisions and guidelines'
-permalink: /start-a-business/home-based-businesses/understand-scheme-provisions-and-guidelines/
+permalink: /home-based-businesses/understand-scheme-provisions-and-guidelines/
 third_nav_title: Home-Based Businesses
 ---
 
