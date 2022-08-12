@@ -66,7 +66,7 @@ Do note that Housing Development Board (HDB) flats and private residential prope
 
 Now that you know whether to register the business, here are 6 key steps to guide you:
 
-{% include panels.html panels=site.data.startbiz_links %}
+{% include panels-featurelink.html panels=site.data.startbiz_links %}
 
 After you've taken these steps, find out what you can do next to continue running and growing your business with these [next steps](/start-a-business/hire-employees/?src=startup_guide).
 
