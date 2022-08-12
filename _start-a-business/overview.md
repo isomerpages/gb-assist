@@ -21,8 +21,7 @@ GoBusiness Start-up Guide will walk you through the questions above and more.
 <a name="getting_started"></a>
 ### Getting started
 
-
-![Start Overview](/images/start/StartSJ_Overview_Main.jpg)
+![Getting Started](/images/start/StartSJ_Overview_Main.jpg)
 
 If you're starting a business in Singapore, the first question to consider is whether you need to register it.
 
@@ -37,7 +36,7 @@ Do note that if you add descriptive words to your name (eg: Flowers by Tan Mei L
 <a name="business-reg-benefits"></a>
 ### Benefits of registering a business
 
-![Start Benefits](/images/start/StartSJ_Overview_RegisteringBenefits.jpg)
+![Benefits of Registering a Business](/images/start/StartSJ_Overview_RegisteringBenefits.jpg)
 
 There are several benefits of registering a business with ACRA. Here are some of them:
 
@@ -53,6 +52,8 @@ Limited liability does not apply to a sole proprietorship or partnership.
 <hr>
 <a name="small-scale-home-biz"></a>
 ### Carrying out a small-scale business from home
+
+![Small-Scale Business from Home](/images/start/StartSJ_Overview_HBB.jpg)
 
 If you are thinking of starting a small-scale business from home, here’s a step-by-step guide to help you.
 
