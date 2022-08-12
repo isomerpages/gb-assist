@@ -25,6 +25,23 @@ A non-exhaustive list of business classification is provided below.
 
 A non-exhaustive list of small-scale business activities that fall under this scheme:
 
+- Food businesses such as baking on a small scale
+
+- Hairdressing, facial and beauty (excluding massage), manicure, or pedicure services
+
+- Private tuition for not more than 3 students at a time
+
+- Sewing services
+
+- Work as a freelance artist, journalist, photographer or writer
+
+<hr>
+
+<a name="home-office-scheme"></a>
+### Home Office Scheme
+
+A non-exhaustive list of small-scale office activities that fall under this scheme:
+
 - Accountancy services
 
 - Architectural services
