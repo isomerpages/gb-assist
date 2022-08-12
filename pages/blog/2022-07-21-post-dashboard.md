@@ -56,7 +56,7 @@ For example, you can amend, renew or cancel existing licences with just a few si
 
 ### 3. For growing businesses: Get personalised recommendations
 
-![GoBusiness Dashboard personalised recommendation](/images/blog/content/Dashboard 6.jpg)-----
+![GoBusiness Dashboard personalised recommendation](/images/blog/content/Dashboard 6.jpg)
 <figcaption>The Dashboard takes into account your business’ unique profile and provides tailored recommendations designed to help you through your business journey.</figcaption>
 
 Take the guesswork out of running a business with the Dashboard’s ability to provide you with recommendations on what’s next. Based on your Singpass login and registered Unique Entity Number (UEN),  the Dashboard will determine which sector your business falls under, and tailor the recommendations accordingly. 
@@ -65,7 +65,7 @@ For example, the Dashboard may recommend government grants you are eligible for,
 
 ### 4. A platform for businesses, by businesses
 
-![GoBusiness dashboard feedback](/images/blog/content/Dashboard 7.jpg)-----
+![GoBusiness dashboard feedback](/images/blog/content/Dashboard 7.jpg)
 <figcaption>You’ll be able to submit your feedback on the Dashboard features via the Dashboard banner.</figcaption>
 
 The Dashboard is a constant work in progress, and you can play a part in making it better. Simply leave your feedback and suggestions, and help the GoBusiness team design a Dashboard that will best benefit you and your fellow businesses. You can even [sign up for GoBusiness’ user experience research](https://go.gov.sg/joinresearch/?src=blog){:target="_blank"}{:rel="noopener"} to help shape the future of the platform! 
