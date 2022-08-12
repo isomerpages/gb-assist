@@ -3,6 +3,12 @@ collections:
     output: true
     order:
       - overview.md
+      - home-based-businesses/.keep
+      - home-based-businesses/determine-home-business-scheme.md
+      - home-based-businesses/understand-scheme-provisions-and-guidelines.md
+      - home-based-businesses/industry-specific-guidelines.md
+      - home-based-businesses/taxes-and-gov-assistance.md
+      - home-based-businesses/take-your-biz-further.md
       - key-steps-to-start/.keep
       - key-steps-to-start/choose-a-business-structure.md
       - key-steps-to-start/choose-a-business-address.md

@@ -17,7 +17,7 @@ GoBusiness Start-up Guide will walk you through the questions above and more.
 
 {% include panels-overview.html spanels=site.data.ov001-start %}
 
----
+<hr>
 <a name="getting_started"></a>
 ### Getting started
 
