@@ -1,7 +1,7 @@
 ---
 title: Learn about taxes and government assistance
 permalink: /home-based-businesses/taxes-and-gov-assistance/
-third_nav_title: Home-Based Businesses 
+third_nav_title: Home-Based Businesses
 ---
 
 ## Step 4: Learn about taxes and government assistance
