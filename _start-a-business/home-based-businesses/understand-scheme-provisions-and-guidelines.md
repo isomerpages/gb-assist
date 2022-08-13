@@ -1,7 +1,7 @@
 ---
 title: 'Understand scheme’s provisions and guidelines'
 permalink: /home-based-businesses/understand-scheme-provisions-and-guidelines/
-third_nav_title: Home-Based Businesses
+third_nav_title: Home-Based Businesses 
 ---
 
 ## Step 2: Understand scheme’s provisions and guidelines

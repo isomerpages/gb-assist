@@ -1,7 +1,7 @@
 ---
 title: Determine your home business scheme
 permalink: /home-based-businesses/determine-your-home-business-scheme/
-third_nav_title: Home-Based Businesses
+third_nav_title: Home-Based Businesses 
 ---
 
 ## Step 1: Determine your home business scheme

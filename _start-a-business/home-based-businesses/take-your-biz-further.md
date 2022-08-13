@@ -1,7 +1,7 @@
 ---
 title: Take your business further
 permalink: /home-based-businesses/take-your-biz-further/
-third_nav_title: Home-Based Businesses
+third_nav_title: Home-Based Businesses 
 ---
 
 ## Step 5: Take your business further
