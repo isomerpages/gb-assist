@@ -17,7 +17,7 @@ Now that you have a better understanding of the regulations for your industry, t
 
 You may choose to hire employees under the Home Office Scheme.
 
-Under the CPF Act, as an employer, you’re required to pay CPF contributions for your employees who are Singapore Citizens or Singapore Permanent Residents and who are earning total wages of more than $50 per month. Use this [guide by CPF]() to work out the amount of CPF contributions you need to pay.
+Under the CPF Act, as an employer, you’re required to pay CPF contributions for your employees who are Singapore Citizens or Singapore Permanent Residents and who are earning total wages of more than $50 per month. Use this [guide by CPF](){:target="_blank"}{:rel="noopener"} to work out the amount of CPF contributions you need to pay.
 
 <hr>
 
@@ -28,19 +28,19 @@ If your home business is non-registered or registered as a sole proprietorship, 
 
 If your business is registered under the Companies Act or any law in force in Singapore, the profits of your company will be taxed under corporate tax. 
 
-You may refer to more detailed guidelines by IRAS for [taxation matters]().
+You may refer to more detailed guidelines by IRAS for [taxation matters](){:target="_blank"}{:rel="noopener"}.
 
 <hr>
 
 <a name="gov_grants_n_assistance"></a>
 ### Government Grants and Assistance
 
-From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness can help you find the government assistance you need. Find out with [e-Adviser for Government Assistance](), a free online tool to help you select the relevant assistance schemes for your business.
+From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness can help you find the government assistance you need. Find out with [e-Adviser for Government Assistance](){:target="_blank"}{:rel="noopener"}, a free online tool to help you select the relevant assistance schemes for your business.
 
 Below are some government support schemes that you may find useful. This list is not exhaustive and serves as a guide.
 
-- [NTUC/e2i - SEP Training Support Scheme]()<br>For Self-Employed Persons (SEPs) to receive training allowance when they attend and complete courses under SkillsFuture series and approved sector-specific training programmes.
+- [NTUC/e2i - SEP Training Support Scheme](){:target="_blank"}{:rel="noopener"}<br>For Self-Employed Persons (SEPs) to receive training allowance when they attend and complete courses under SkillsFuture series and approved sector-specific training programmes.
 
-- [Workfare WIS Self Employed]()<br>WIS encourages eligible workers to work and build up their CPF savings for their retirement, housing and healthcare needs, by supplementing their income and retirement savings through cash payments and CPF contributions.
+- [Workfare WIS Self Employed](){:target="_blank"}{:rel="noopener"}<br>WIS encourages eligible workers to work and build up their CPF savings for their retirement, housing and healthcare needs, by supplementing their income and retirement savings through cash payments and CPF contributions.
 
-- [Productivity Solutions Grant (PSG)]()<br>The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity.
+- [Productivity Solutions Grant (PSG)](){:target="_blank"}{:rel="noopener"}<br>The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity.
