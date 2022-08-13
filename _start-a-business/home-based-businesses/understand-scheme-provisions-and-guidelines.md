@@ -12,6 +12,7 @@ Once you have determined which scheme your home business falls under, you need t
 
 <hr>
 
+<a name="home_based_biz_scheme_guidelines"></a>
 ### Guidelines for Home-Based Business Scheme
 
 <b>Licence required?<b>
@@ -54,6 +55,7 @@ Once you have determined which scheme your home business falls under, you need t
 
 <hr>
 
+<a name="home_office_scheme_guidelines"></a>
 ### Guidelines for Home Office Scheme
 
 <b>Licence required?<b>
@@ -102,6 +104,7 @@ Once you have determined which scheme your home business falls under, you need t
 
 <hr>
 
+<a name="covid-19-advisory"></a>
 ### Covid-19 advisory
 
 <b>Advisory note for home-based businesses during the Covid-19 period</b>
