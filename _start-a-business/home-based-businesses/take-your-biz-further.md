@@ -35,11 +35,11 @@ You can convert your existing partnership to an LLP if the partners of the exist
 
 To convert your business or company into an LLP:
 
-    1. Log in to [BizFile+](){:target="_blank"}{:rel="noopener"} using your Corppass. 
+1. Log in to [BizFile+](){:target="_blank"}{:rel="noopener"} using your Corppass. 
 
-    2. Under ‘File eServices’, click on ‘Limited Liability Partnership’, then click on ‘Make changes’.
+2. Under ‘File eServices’, click on ‘Limited Liability Partnership’, then click on ‘Make changes’.
 
-    3. Select ‘Conversion of Business to LLP’ or ‘Conversion of Company to LLP’. This transaction costs $40.
+3. Select ‘Conversion of Business to LLP’ or ‘Conversion of Company to LLP’. This transaction costs $40.
 
 Upon conversion, the status of your existing partnership or company will be updated to “Converted to LLP” and the date of conversion will be the date of registration of the new LLP. A new registration number will then be issued to the new LLP.
 
@@ -67,13 +67,13 @@ Upon setting up your office at a commercial premises, more than two employees ca
 
 Opening a retail outlet to sell items directly to consumers requires more administrative work than operating a small-scale home business. You can read more under [Key Steps to Start a Business]().
 
-    1. First, incorporate your business with ACRA. You can get step-by-step guidance via [e-Adviser for Starting a Business](){:target="_blank"}{:rel="noopener"}.
+1. First, incorporate your business with ACRA. You can get step-by-step guidance via [e-Adviser for Starting a Business](){:target="_blank"}{:rel="noopener"}.
 
-    2. Second, get land use approval for premises. Use the [e-Adviser for Premise Use Check](){:target="_blank"}{:rel="noopener"} to check if a property is approved for your intended use.
+2. Second, get land use approval for premises. Use the [e-Adviser for Premise Use Check](){:target="_blank"}{:rel="noopener"} to check if a property is approved for your intended use.
 
-    3. Third, apply for relevant licenses depending on the nature of products offered. You can find relevant licences via [e-Advisers for Licences](){:target="_blank"}{:rel="noopener"}. For food service business owners, check out the [Food Services Licence Guided Journey](){:target="_blank"}{:rel="noopener"}.
+3. Third, apply for relevant licenses depending on the nature of products offered. You can find relevant licences via [e-Advisers for Licences](){:target="_blank"}{:rel="noopener"}. For food service business owners, check out the [Food Services Licence Guided Journey](){:target="_blank"}{:rel="noopener"}.
 
-    3. Fourth, hire employees.
+3. Fourth, hire employees.
 
 <hr>
 
