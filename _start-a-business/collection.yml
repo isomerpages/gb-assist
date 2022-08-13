@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - overview.md
-      - home-based-businesses/determine-home-business-scheme.md
+      - home-based-businesses/determine-your-home-business-scheme.md
       - home-based-businesses/understand-scheme-provisions-and-guidelines.md
       - home-based-businesses/industry-specific-guidelines.md
       - home-based-businesses/taxes-and-gov-assistance.md
