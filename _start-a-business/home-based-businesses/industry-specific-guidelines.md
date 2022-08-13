@@ -6,64 +6,51 @@ third_nav_title: Home-Based Businesses
 
 ## Step 3: Find out industry-specific guidelines
 
-![Reserve Biz Name](/images/start/StartSJ_ReserveName.jpg)
+Your business activities must comply with the rules and regulations of relevant authorities before commencement. This list is not exhaustive and serves as a guide.
 
-Decide on a name for your business and use our e-Adviser for Starting a Business to:
+To search for the licenses and approvals that may be required for the business, visit the [GoBusiness Licensing Portal](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"}.
 
-- Check if there are similar business names, and if it's available as a domain name or a username on Facebook/Instagram/YouTube/Twitter.
-- Create a Guided Journey to get your business started, step by step, and find out if additional approvals are needed.
+{% include panels-overview.html spanels=site.data.ov001-start-hbb03 %}
 
-You can also check if there are similar trade marks [on the IP2SG portal](https://ip2sg.ipos.gov.sg/RPS/WP/CM/TradeMarkSimilarSearch.aspx){:target="_blank"}{:rel="noopener"}.
+<hr>
 
-If you have decided on a business name for your Sole Proprietorship/Partnership, you may reserve the name on GoBusiness via this e-Adviser.
-{% include button.html text="Go to e-Adviser for Starting a Business" src="https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname" type="primary" %}
+<a name="hbb_bakeries_guidelines"></a>
+### For Home Bakeries
 
-Avoid names which are:
+Singapore Food Agency (SFA) is the statutory board that oversees food safety and security in Singapore. Persons who handle and prepare food are encouraged to attend the [Basic Food Hygiene Course/WSQ Food Safety Course Level 1](https://www.sfa.gov.sg/docs/default-source/covid/sfa-good-food-hygiene-tips-for-residents-preparing-food-under-hdb-ura-guidelines.pdf){:target="_blank"}{:rel="noopener"}.
 
-- Identical to another business' name
-- Undesirable (eg: vulgar, obscene or offensive)
-- Prohibited (e.g: Temasek)
+<hr>
 
-You may submit an appeal if your name application has been rejected and/or you have a valid reason to use the name which is identical or prohibited. You will need to upload the supporting documents to support your name appeal.
+<a name="hbb_insur_fin_services_guidelines"></a>
+### For Insurance / Financial Services
 
-To improve your chances of a successful application, read the [ACRA business name guidelines](https://www.acra.gov.sg/docs/default-source/default-document-library/how-to-guides/lodging-complaints/acra's-policy-statement-on-the-treatment-of-business-names-and-name-complaints.pdf){:target="_blank"}{:rel="noopener"} for more details.
+Financial advisers are licensed and regulated by the Monetary Authority of Singapore (MAS) under the [Financial Advisers Act (FAA)](){:target="_blank"}{:rel="noopener"}. MAS provides [guidelines on what constitutes the provision of financial advisory service](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-provision-of-financial-advisory-service){:target="_blank"}{:rel="noopener"} under the Financial Advisers Act, and sets out the licensing, financial and business [conduct requirements](https://www.mas.gov.sg/regulation/regulations/financial-advisers-regulations){:target="_blank"}{:rel="noopener"} for financial advisers.
 
-### Review of applications by Referral Authorities
+Any public offering of securities through the web is subject to the rules set out in the [Companies Act](https://sso.agc.gov.sg/Act/CoA1967){:target="_blank"}{:rel="noopener"} and must adhere to the [Guidelines on Offer of Securities](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-electronic-offers-of-securities-securities-based-derivatives-contracts-or-units-in-cis){:target="_blank"}{:rel="noopener"} made through the Internet.
 
-Certain names or business activities require approval from the relevant government agencies (Referral Authorities). For example, names containing 'hospital', 'clinic', 'surgery', 'healthcare' will require approval from the Ministry of Health. In such cases, the application may take between 14 days to 60 days.
+<hr>
 
-You can find the [list of Referral Authorities here](https://www.acra.gov.sg/how-to-guides/before-you-start/referral-authorities){:target="_blank"}{:rel="noopener"}.
+<a name="hbb_tech_or_knowledge_intensive_coy_guidelines"></a>
+### For Technology-based/Knowledge-Intensive Companies
 
-### Singapore Standard Industrial Classification (SSIC)
+Intellectual Property Office of Singapore (IPOS) is a statutory board that advises on and administers intellectual property laws, promotes IP awareness, and provides the infrastructure to facilitate the development of IP in Singapore.
 
-**What is SSIC and why do i need it for my business?**
+It is recommended that you file a [patent application](){:target="_blank"}{:rel="noopener"} on the invention before it comes public. As the major asset of a tech start-up is its IP, neglecting this step may damage your future profitability.
 
-The Singapore Standard Industrial Classification (SSIC) is the national standard to classify the business activities of firms. It is a code assigned to classify your business activities carried out in Singapore. These codes are used for service delivery by government agencies and in the compilation and analysis of industry statistics for policy and business planning purposes. Each SSIC category comprises a 5-digit code and description of the business activity.
+<hr>
 
-When reserving your business name, you will need to provide the SSIC code(s) that best describes your business activities. To find out your SSIC code, use our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=startbiz_reservename){:target="_blank"}{:rel="noopener"}. Find the [complete list of the SSIC codes here](https://www.singstat.gov.sg/-/media/files/standards_and_classifications/industrial_classification/ssic2020report.pdf){:target="_blank"}{:rel="noopener"}.
+<a name="hbb_trading_coy_guidelines"></a>
+### For Trading Companies
 
-### How to reserve your business name
+Singapore Customs is a government agency under the Ministry of Finance. After registering with ACRA to obtain your Unique Entity Number (UEN), you have to activate your [Customs Account](){:target="_blank"}{:rel="noopener"}. 
 
-You can reserve your desired name for up to 120 days before registering your business. The name will be released after the reservation period.
+You also have to apply for Customs Permit and Inter-Bank Giro, furnish your security and authorise your Declaring Agent. The full steps can be found on [Quick Guide for New Traders and Registration Services](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/overview){:target="_blank"}{:rel="noopener"}.
 
-There are three ways to reserve your business name:
+<hr>
 
-**For Sole Proprietorship/Partnership:**
+<a name="hbb_real_estate_coy_guidelines"></a>
+### For Real Estate Companies
 
-1. [Register directly through GoBusiness](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reserve){:target="_blank"}{:rel="noopener"};
+The Council for Estate Agencies (CEA) is the statutory board that regulates and develops the real estate agency industry in Singapore. Prior to commencing estate agency work in Singapore, you are required to apply for the [Estate Agent Licence](https://www.cea.gov.sg/professionals/estate-agents-licensing-matters/apply-for-estate-agent-licence){:target="_blank"}{:rel="noopener"}.
 
-    i. Log in using your Singpass
-
-    ii. Use the e-Adviser for Starting a Business to create a Guided Journey
-
-    iii. Apply for business name online
-
-**For all types of business structures:**
-
-1. [Register directly through BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"} , or
-
-2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
-
-The pre-requisites, information and supporting documents needed for the application to reserve the business name will vary, depending on the business structure type. Click on the respective business structure to find out more.
-
-{% include accordion.html accordions=site.data.acc085-reserve-your-business-name.accordion %}
+If you are engaging employees, you also have to register them with the CEA.
