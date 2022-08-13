@@ -1,7 +1,7 @@
 ---
 title: Find out industry-specific guidelines
 permalink: /home-based-businesses/industry-specific-guidelines/
-third_nav_title: Home-Based Businesses 
+third_nav_title: Home-Based Businesses
 ---
 
 ## Step 3: Find out industry-specific guidelines
