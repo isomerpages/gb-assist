@@ -6,36 +6,41 @@ third_nav_title: Home-Based Businesses
 
 ## Step 4: Learn about taxes and government assistance
 
-![Register Biz](/images/start/StartSJ_RegisterBusiness.jpg)
+Now that you have a better understanding of the regulations for your industry, the next thing to find out is which tax requirements apply to your business, as well as the government assistance schemes and grants that are relevant.
 
-### How to register a business
+{% include panels-overview.html spanels=site.data.ov001-start-hbb04 %}
 
-Registering a business involves two transactions: applying for a business name followed by business registration. Go to [Step 3](/start-a-business/reserve-your-business-name/) (Reserve your business name) to find out how to apply for a business name.
-Once the name has been approved, you can proceed with business registration.
+<hr>
 
+<a name="employee_cpf_contributions"></a>
+### Employee CPF Contributions
 
-There are three ways to register your business:
+You may choose to hire employees under the Home Office Scheme.
 
-**For Sole Proprietorship/Partnership:**
+Under the CPF Act, as an employer, you’re required to pay CPF contributions for your employees who are Singapore Citizens or Singapore Permanent Residents and who are earning total wages of more than $50 per month. Use this [guide by CPF]() to work out the amount of CPF contributions you need to pay.
 
-1. [Register directly through GoBusiness](https://dashboard.gobusiness.gov.sg/login?src=startbiz_reg){:target="_blank"}{:rel="noopener"};
+<hr>
 
-    i. Log in using your Singpass
+<a name="taxation"></a>
+### Taxation
 
-    ii. Use Guided Journey to continue with the next step to register your Sole Proprietorship/Partnership
+If your home business is non-registered or registered as a sole proprietorship,  partnership, or limited liability partnership, your income must be declared as personal tax under “Business Income”.
 
-**For all types of business structures:**
+If your business is registered under the Companies Act or any law in force in Singapore, the profits of your company will be taxed under corporate tax. 
 
-1. [Register directly through BizFile+](https://www.bizfile.gov.sg/ngbbizfileinternet/faces/oracle/webcenter/portalapp/pages/BizfileHomepage.jspx#/){:target="_blank"}{:rel="noopener"}; or
+You may refer to more detailed guidelines by IRAS for [taxation matters]().
 
-2. Engage a registered filing agent (e.g: law firm, accounting firm or corporate secretarial firm) to submit an online application on your behalf.
+<hr>
 
-The pre-requisites, information and supporting documents needed for the application to register the business will vary, depending on the business structure type. Click on the respective business structure to find out more.
+<a name="gov_grants_n_assistance"></a>
+### Government Grants and Assistance
 
-{% include accordion.html accordions=site.data.acc084-register-your-business.accordion %}
+From funding support to references and programs for building capabilities, skills and knowledge, GoBusiness can help you find the government assistance you need. Find out with [e-Adviser for Government Assistance](), a free online tool to help you select the relevant assistance schemes for your business.
 
-### Unique Entity Number (UEN) and Business Profile
+Below are some government support schemes that you may find useful. This list is not exhaustive and serves as a guide.
 
-Upon successful registration of your new business, your business will be issued a [Unique Entity Number (UEN)](https://www.uen.gov.sg/ueninternet/faces/pages/admin/aboutUEN.jspx){:target="_blank"}{:rel="noopener"}. The UEN is your business' unique identification number that will be used in all transactions with government agencies.
+- [NTUC/e2i - SEP Training Support Scheme]()<br>For Self-Employed Persons (SEPs) to receive training allowance when they attend and complete courses under SkillsFuture series and approved sector-specific training programmes.
 
-A [free copy of Business Profile](https://www.acra.gov.sg/about-bizfile/updates-and-announcements/provision-of-free-business-profiles){:target="_blank"}{:rel="noopener"} for your business will be emailed to the person filing the application.
+- [Workfare WIS Self Employed]()<br>WIS encourages eligible workers to work and build up their CPF savings for their retirement, housing and healthcare needs, by supplementing their income and retirement savings through cash payments and CPF contributions.
+
+- [Productivity Solutions Grant (PSG)]()<br>The Productivity Solutions Grant (PSG) supports businesses in the adoption of IT solutions or equipment that improve productivity.
