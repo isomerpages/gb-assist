@@ -4,6 +4,10 @@ permalink: /start-a-business/faqs/
 third_nav_title: FAQ
 ---
 
-### About starting a business
+### General
 
-{% include accordion.html accordions=site.data.acc082-faq.accordion %}
+{% include letter-accordion.html accordions=site.data.acc082a-ssj-faq letter="a" %}
+
+### Business Registration
+
+{% include letter-accordion.html accordions=site.data.acc082a-ssj-faq letter="b" %}
