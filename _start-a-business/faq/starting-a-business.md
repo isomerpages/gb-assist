@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Starting a Business
 permalink: /start-a-business/faqs/
 ---
 

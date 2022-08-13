@@ -1,5 +1,5 @@
 ---
-title: FAQ
+title: Home-based Businesses
 permalink: /start-a-business/faqs/home-based-businesses
 ---
 
