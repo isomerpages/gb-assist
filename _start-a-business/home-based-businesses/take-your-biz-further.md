@@ -35,7 +35,7 @@ You can convert your existing partnership to an LLP if the partners of the exist
 
 To convert your business or company into an LLP:
 
-1. Log in to [BizFile+](){:target="_blank"}{:rel="noopener"} using your Corppass. 
+1. Log in to [BizFile+](www.bizfile.gov.sg){:target="_blank"}{:rel="noopener"} using your Corppass. 
 
 2. Under ‘File eServices’, click on ‘Limited Liability Partnership’, then click on ‘Make changes’.
 
@@ -52,9 +52,14 @@ Applicants are strongly advised to read the Second and Third Schedules of the [L
 
 <b>For businesses currently under the Home Office Scheme:</b>
 
-You must update your company’s information on [BizFile+](){:target="_blank"}{:rel="noopener"} and [HDB via e-feedback form](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} if there are any changes in your office address. You can update your registered office address by filing a “Change in Company Information including Appointment/Cessation of Company Officers/Auditors” in Bizfile+.
+You must update your business information on [BizFile+](www.bizfile.gov.sg){:target="_blank"}{:rel="noopener"} and to [HDB via e-feedback form](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} if there are any changes in your business address or your registered office address. You can do this on BizFile+ via:
 
-There is no fee payable for notifying ACRA and HDB. Any updates to ACRA must be done within 14 days from the effective date of change under the [Companies Act](){:target="_blank"}{:rel="noopener"}.
+- For Company: "Change in Company Information including Appointment/Cessation of Company Officers/Auditors"
+- For Sole Proprietorship or Partnership: "Change in business information and appointments of business owners and authorised representatives"
+- For Limited Liability Pertnership: "Change in LLP information including appointment/cessation of partner/manager"
+- For Limited Partnership: "Change in Business Information and Appointments/Cessation of Partners or Managers for Limited Partnerships"
+
+There is no fee payable for notifying ACRA and HDB on the change in principal place of business/office address. Such updates to ACRA must be done within 14 days from the effective date of change.
 
 Upon setting up your office at a commercial premises, more than two employees can physically work at your office premises.
 
