@@ -24,7 +24,7 @@ Singapore Food Agency (SFA) is the statutory board that oversees food safety and
 <a name="hbb_insur_fin_services_guidelines"></a>
 ### For Insurance / Financial Services
 
-Financial advisers are licensed and regulated by the Monetary Authority of Singapore (MAS) under the [Financial Advisers Act (FAA)](){:target="_blank"}{:rel="noopener"}. MAS provides [guidelines on what constitutes the provision of financial advisory service](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-provision-of-financial-advisory-service){:target="_blank"}{:rel="noopener"} under the Financial Advisers Act, and sets out the licensing, financial and business [conduct requirements](https://www.mas.gov.sg/regulation/regulations/financial-advisers-regulations){:target="_blank"}{:rel="noopener"} for financial advisers.
+Financial advisers are licensed and regulated by the Monetary Authority of Singapore (MAS) under the [Financial Advisers Act (FAA)](https://www.mas.gov.sg/regulation/acts/financial-advisers-act){:target="_blank"}{:rel="noopener"}. MAS provides [guidelines on what constitutes the provision of financial advisory service](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-provision-of-financial-advisory-service){:target="_blank"}{:rel="noopener"} under the Financial Advisers Act, and sets out the licensing, financial and business [conduct requirements](https://www.mas.gov.sg/regulation/regulations/financial-advisers-regulations){:target="_blank"}{:rel="noopener"} for financial advisers.
 
 Any public offering of securities through the web is subject to the rules set out in the [Companies Act](https://sso.agc.gov.sg/Act/CoA1967){:target="_blank"}{:rel="noopener"} and must adhere to the [Guidelines on Offer of Securities](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-electronic-offers-of-securities-securities-based-derivatives-contracts-or-units-in-cis){:target="_blank"}{:rel="noopener"} made through the Internet.
 
@@ -35,14 +35,14 @@ Any public offering of securities through the web is subject to the rules set ou
 
 Intellectual Property Office of Singapore (IPOS) is a statutory board that advises on and administers intellectual property laws, promotes IP awareness, and provides the infrastructure to facilitate the development of IP in Singapore.
 
-It is recommended that you file a [patent application](){:target="_blank"}{:rel="noopener"} on the invention before it comes public. As the major asset of a tech start-up is its IP, neglecting this step may damage your future profitability.
+It is recommended that you file a [patent application](https://www.ipos.gov.sg/about-ip/patents){:target="_blank"}{:rel="noopener"} on the invention before it comes public. As the major asset of a tech start-up is its IP, neglecting this step may damage your future profitability.
 
 <hr>
 
 <a name="hbb_trading_coy_guidelines"></a>
 ### For Trading Companies
 
-Singapore Customs is a government agency under the Ministry of Finance. After registering with ACRA to obtain your Unique Entity Number (UEN), you have to activate your [Customs Account](){:target="_blank"}{:rel="noopener"}. 
+Singapore Customs is a government agency under the Ministry of Finance. After registering with ACRA to obtain your Unique Entity Number (UEN), you have to activate your [Customs Account](https://www.tradenet.gov.sg/TN41EFORM/tds/sp/splogin.do?action=init_acct){:target="_blank"}{:rel="noopener"}. 
 
 You also have to apply for Customs Permit and Inter-Bank Giro, furnish your security and authorise your Declaring Agent. The full steps can be found on [Quick Guide for New Traders and Registration Services](https://www.customs.gov.sg/businesses/new-traders-and-registration-services/overview){:target="_blank"}{:rel="noopener"}.
 
