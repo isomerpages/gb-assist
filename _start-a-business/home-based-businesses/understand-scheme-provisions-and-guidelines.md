@@ -21,7 +21,7 @@ Once you have determined which scheme your home business falls under, you need t
 
 <b>Business Registration</b>
 
-- For more information, visit our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname){:target="_blank"}{:rel="noopener"} and [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=start_bizstructure){:target="_blank"}{:rel="noopener"}. 
+- For more information, visit our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=hbb){:target="_blank"}{:rel="noopener"} and [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=hbb){:target="_blank"}{:rel="noopener"}. 
 
 <b>Business Activities</b>
 
@@ -66,7 +66,7 @@ Once you have determined which scheme your home business falls under, you need t
 
 <b>Business Registration</b>
 
-- For more information, visit our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=start_reserve_bizname){:target="_blank"}{:rel="noopener"} and [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=start_bizstructure){:target="_blank"}{:rel="noopener"}. 
+- For more information, visit our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=hbb){:target="_blank"}{:rel="noopener"} and [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=hbb){:target="_blank"}{:rel="noopener"}. 
 
 <b>Business Activities</b>
 
