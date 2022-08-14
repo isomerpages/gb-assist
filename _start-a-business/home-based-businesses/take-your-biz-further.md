@@ -35,7 +35,7 @@ You can convert your existing partnership to an LLP if the partners of the exist
 
 To convert your business or company into an LLP:
 
-1. Log in to [BizFile+](www.bizfile.gov.sg){:target="_blank"}{:rel="noopener"} using your Corppass. 
+1. Log in to [BizFile+](https://www.bizfile.gov.sg){:target="_blank"}{:rel="noopener"} using your Corppass. 
 
 2. Under ‘File eServices’, click on ‘Limited Liability Partnership’, then click on ‘Make changes’.
 
