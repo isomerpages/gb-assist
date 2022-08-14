@@ -4,6 +4,18 @@ permalink: /start-a-business/faqs/home-based-businesses
 third_nav_title: FAQ
 ---
 
-### About starting a business
+### General
 
-{% include accordion.html accordions=site.data.acc082b-hbb-faq.accordion %}
+{% include letter-accordion.html accordions=site.data.acc082b-hbb-faq letter="a" %}
+
+### Food/bakery
+
+{% include letter-accordion.html accordions=site.data.acc082b-hbb-faq letter="b" %}
+
+### E-Commerce
+
+{% include letter-accordion.html accordions=site.data.acc082b-hbb-faq letter="c" %}
+
+### Home Office
+
+{% include letter-accordion.html accordions=site.data.acc082b-hbb-faq letter="d" %}
