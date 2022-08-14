@@ -52,7 +52,7 @@ Applicants are strongly advised to read the Second and Third Schedules of the [L
 
 <b>For businesses currently under the Home Office Scheme:</b>
 
-You must update your business information on [BizFile+](www.bizfile.gov.sg){:target="_blank"}{:rel="noopener"} and to [HDB via e-feedback form](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} if there are any changes in your business address or your registered office address. You can do this on BizFile+ via:
+You must update your business information on [BizFile+](https://www.bizfile.gov.sg){:target="_blank"}{:rel="noopener"} and to [HDB via e-feedback form](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} if there are any changes in your business address or your registered office address. You can do this on BizFile+ via:
 
 - For Company: "Change in Company Information including Appointment/Cessation of Company Officers/Auditors"
 - For Sole Proprietorship or Partnership: "Change in business information and appointments of business owners and authorised representatives"
