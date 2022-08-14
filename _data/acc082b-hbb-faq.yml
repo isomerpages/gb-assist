@@ -32,20 +32,20 @@
       content: |
         You can consider booking SFA-endorsed co-working kitchens to scale your operations. With their facilities, you can sell your products at food fairs.
   
-  - accordion:
-    letter: c
-    data:
-      - title: Can I sell my items on eCommerce platforms if they decide to promote my product?
-        content: |
-          Yes.
-      
-      - title: Can I engage the services of delivery vendors/agents to deliver my parcels?
-        content: |
-          Yes, so long as the business remains small scale and the business activities  do not adversely affect your neighbours' living environment or cause any nuisance.
+- accordion:
+  letter: c
+  data:
+    - title: Can I sell my items on eCommerce platforms if they decide to promote my product?
+      content: |
+        Yes.
+    
+    - title: Can I engage the services of delivery vendors/agents to deliver my parcels?
+      content: |
+        Yes, so long as the business remains small scale and the business activities  do not adversely affect your neighbours' living environment or cause any nuisance.
 
-  - accordion:
-    letter: d
-    data:
-      - title: I want to offer formal services from home but wish to keep my home address private. What can I do?
-        content: |
-          You can consider getting a virtual office. Having a virtual office gives businesses a physical address and office-related services without the overhead of a long lease and administrative staff. You may use this as your registered office address, all while working from home. 
+- accordion:
+  letter: d
+  data:
+    - title: I want to offer formal services from home but wish to keep my home address private. What can I do?
+      content: |
+        You can consider getting a virtual office. Having a virtual office gives businesses a physical address and office-related services without the overhead of a long lease and administrative staff. You may use this as your registered office address, all while working from home. 
