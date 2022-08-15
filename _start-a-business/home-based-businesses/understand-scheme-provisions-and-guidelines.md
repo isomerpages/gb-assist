@@ -35,8 +35,6 @@ Once you have determined which scheme your home business falls under, you need t
 
 - No large-scale storage or frequent loading and unloading of goods, especially for bulky items or use of the residential premises as a distribution centre.
 
-- For home office, the business should not be on the list of non-permitted business activities under the Home Office scheme.
-
 <b>Engaging Employees</b>
 
 - Not allowed.
