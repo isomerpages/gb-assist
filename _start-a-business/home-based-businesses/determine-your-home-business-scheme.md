@@ -121,5 +121,5 @@ For further clarification regarding the home-based business or home office schem
 
 If you are thinking of running a small-scale business from home, use this e-Adviser to find out the next steps to set it up.
 
-{% include button.html text="Go to e-Adviser for Home-Based Business" src="https://eadviser.gobusiness.gov.sg/hbb?src=start_hbb_step1" type="primary" %}
+{% include button.html text="Go to e-Adviser for Home-Based Business" src="https://eadviser.gobusiness.gov.sg/homebasedbusinesses?src=start_hbb_step1" type="primary" %}
 
