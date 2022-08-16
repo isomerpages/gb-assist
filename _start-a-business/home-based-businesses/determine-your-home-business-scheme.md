@@ -10,9 +10,9 @@ There are two existing schemes for home businesses: Home-Based Business Scheme a
 
 Generally, you should select the scheme depending on your business activities. 
 
-- <b>Home-Based Business Scheme:</b> Small-scale businesses like bakeries and hairdressing, without any non-resident employee
+- <strong>Home-Based Business Scheme:</strong> Small-scale businesses like bakeries and hairdressing, without any non-resident employee
 
-- <b>Home Office Scheme:</b> Small scale offices running administrative functions, like accountancy and consultancy services, with up to two non-resident employees 
+- <strong>Home Office Scheme:</strong> Small scale offices running administrative functions, like accountancy and consultancy services, with up to two non-resident employees 
 
 A non-exhaustive list of business classification is provided below.
 

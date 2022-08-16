@@ -17,9 +17,9 @@ Congrats on your successful business. Now that you are thinking of expanding ope
 
 In the beginning, home-based businesses are often incorporated as a sole proprietorship or partnership since it is operated on a small scale by the business owner(s) who are fully liable for the company’s finances.
 
-As you expand, you may consider [different business structures](/start-a-business/choose-a-business-structure/?src=hbb){:target="_blank"}{:rel="noopener"}.
+As you expand, you may consider [different business structures](/start-a-business/choose-a-business-structure/?src=hbb).
 
-<b>From sole proprietorship or partnership to a company</b>
+<strong>From sole proprietorship or partnership to a company</strong>
 
 The law currently does not provide for the conversion of a sole proprietorship or partnership into a company. You can, however, terminate the business and incorporate a new company.
 
@@ -29,7 +29,7 @@ Then you may need to (i) transfer any business assets and existing contracts ove
 
 If your business is GST registered, you must apply to cancel your GST registration with IRAS.
 
-<b>From Partnership or Company to LLP</b>
+<strong>From Partnership or Company to LLP</strong>
 
 You can convert your existing partnership to an LLP if the partners of the existing partnership will be the partners of the new LLP. Similarly, you can convert an existing company to an LLP if all shareholders are going to be the partners of the new LLP, and the company has no outstanding debts.
 
@@ -50,16 +50,16 @@ Applicants are strongly advised to read the Second and Third Schedules of the [L
 <a name="moving_into_external_office"></a>
 ### Moving into an external office
 
-<b>For businesses currently under the Home Office Scheme:</b>
+<strong>For businesses currently under the Home Office Scheme:</strong>
 
 You must update your business information on [BizFile+](https://www.bizfile.gov.sg){:target="_blank"}{:rel="noopener"} and to [HDB via e-feedback form](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} if there are any changes in your business address or your registered office address. You can do this on BizFile+ via:
 
-- For Company: "Change in Company Information including Appointment/Cessation of Company Officers/Auditors"
+- For Company: "Change in Company Information including Appointment / Cessation of Company Officers / Auditors"
 - For Sole Proprietorship or Partnership: "Change in business information and appointments of business owners and authorised representatives"
-- For Limited Liability Pertnership: "Change in LLP information including appointment/cessation of partner/manager"
-- For Limited Partnership: "Change in Business Information and Appointments/Cessation of Partners or Managers for Limited Partnerships"
+- For Limited Liability Pertnership: "Change in LLP information including appointment/cessation of partner / manager"
+- For Limited Partnership: "Change in Business Information and Appointments / Cessation of Partners or Managers for Limited Partnerships"
 
-There is no fee payable for notifying ACRA and HDB on the change in principal place of business/office address. Such updates to ACRA must be done within 14 days from the effective date of change.
+There is no fee payable for notifying ACRA and HDB on the change in principal place of business / office address. Such updates to ACRA must be done within 14 days from the effective date of change.
 
 Upon setting up your office at a commercial premises, more than two employees can physically work at your office premises.
 
@@ -68,7 +68,7 @@ Upon setting up your office at a commercial premises, more than two employees ca
 <a name="opening_physical_shop"></a>
 ### Opening a physical shop
 
-<b>For businesses currently under the Home-Based Business Scheme:</b>
+<strong>For businesses currently under the Home-Based Business Scheme:</strong>
 
 Opening a retail outlet to sell items directly to consumers requires more administrative work than operating a small-scale home business. You can read more under [Key Steps to Start a Business](/start-a-business/choose-a-business-structure/?src=hbb).
 

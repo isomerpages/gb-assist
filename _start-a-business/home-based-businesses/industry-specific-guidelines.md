@@ -31,7 +31,7 @@ Any public offering of securities through the web is subject to the rules set ou
 <hr>
 
 <a name="hbb_tech_or_knowledge_intensive_coy_guidelines"></a>
-### For Technology-based/Knowledge-Intensive Companies
+### For Technology-based / Knowledge-Intensive Companies
 
 Intellectual Property Office of Singapore (IPOS) is a statutory board that advises on and administers intellectual property laws, promotes IP awareness, and provides the infrastructure to facilitate the development of IP in Singapore.
 
