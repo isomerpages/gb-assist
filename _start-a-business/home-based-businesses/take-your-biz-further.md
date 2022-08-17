@@ -54,10 +54,10 @@ Applicants are strongly advised to read the Second and Third Schedules of the [L
 
 You must update your business information on [BizFile+](https://www.bizfile.gov.sg){:target="_blank"}{:rel="noopener"} and to [HDB via e-feedback form](https://hdb.gov.sg/efeedback){:target="_blank"}{:rel="noopener"} if there are any changes in your business address or your registered office address. You can do this on BizFile+ via:
 
-- For Company: "Change in Company Information including Appointment / Cessation of Company Officers / Auditors"
-- For Sole Proprietorship or Partnership: "Change in business information and appointments of business owners and authorised representatives"
-- For Limited Liability Pertnership: "Change in LLP information including appointment/cessation of partner / manager"
-- For Limited Partnership: "Change in Business Information and Appointments / Cessation of Partners or Managers for Limited Partnerships"
+- <strong>For Company:</strong> "Change in Company Information including Appointment / Cessation of Company Officers / Auditors"
+- <strong>For Sole Proprietorship or Partnership:</strong> "Change in business information and appointments of business owners and authorised representatives"
+- <strong>For Limited Liability Pertnership:</strong> "Change in LLP information including appointment/cessation of partner / manager"
+- <strong>For Limited Partnership:</strong> "Change in Business Information and Appointments / Cessation of Partners or Managers for Limited Partnerships"
 
 There is no fee payable for notifying ACRA and HDB on the change in principal place of business / office address. Such updates to ACRA must be done within 14 days from the effective date of change.
 
