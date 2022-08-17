@@ -85,4 +85,4 @@ Opening a retail outlet to sell items directly to consumers requires more admini
 <a name="additional_help_for_expansion"></a>
 ### Additional help for expansion
 
-Discover suitable grants to grow your business on the [Business Grants Portal](https://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"}.
+Discover suitable grants to grow your business on the [Business Grants Portal](/business-grants-portal/).
