@@ -1,0 +1,39 @@
+- title: About GoBusiness Dashboard
+  url: /licences/find-licence-by-sector/?src=run&grow_licences_fs
+  text: View 5 questions
+
+- title: Account access
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: View 6 questions
+  
+- title: Apply new licence
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: View 5 questions
+
+- title: Find approved licences
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: View 6 questions
+
+- title: Submit returns
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: View 1 question
+
+- title: Payment
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: View 8 questions
+
+- title: Post-application
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: View 3 questions
+
+- title: 'Third-Party: On Behalf Application (Individual Users)'
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: View 8 questions
+
+- title: 'Third-Party: On Behalf Application (Business Users)'
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: View 7 questions
+
+- title: Contact Helpdesk
+  url: /licences/find-licence-by-agency/?src=run&grow_licences_fs
+  text: View Contact Us page
