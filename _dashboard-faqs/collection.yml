@@ -10,5 +10,6 @@ collections:
       - 06-submit-returns.md
       - 07-payment.md
       - 08-post-application.md
-      - 09-third-party.md
+      - 09-third-party-bizuser.md
+      - 09-third-party-individualuser.md
       - 10-contact-helpdesk.md
