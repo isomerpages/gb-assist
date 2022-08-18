@@ -2,8 +2,8 @@ collections:
   dashboard-faqs:
     output: true
     order:
+      - about.md
       - general/.keep
-      - general/about.md
       - general/getting-started.md
       - general/application.md
       - licences/.keep
