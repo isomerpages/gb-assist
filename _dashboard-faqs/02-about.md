@@ -1,7 +1,7 @@
 ---
-title: Getting started
-permalink: /dashboard-faqs/getting-started/
-third_nav_title: General
+title: About GoBusiness Dashboard
+permalink: /dashboard-faqs/about/
+
 ---
 
 ### Account Access

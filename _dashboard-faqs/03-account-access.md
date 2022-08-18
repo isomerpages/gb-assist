@@ -1,7 +1,6 @@
 ---
-title: Application
-permalink: /dashboard-faqs/application/
-third_nav_title: General
+title: Account access
+permalink: /dashboard-faqs/access/
 ---
 
 ### GoBusiness Dashboard

@@ -1,7 +1,6 @@
 ---
-title: On Behalf Application (Business Users)
-permalink: /dashboard-faqs/business-users/
-third_nav_title: Third-Party
+title: Third Party
+permalink: /dashboard-faqs/third-party/
 ---
 
 ### For Applicant

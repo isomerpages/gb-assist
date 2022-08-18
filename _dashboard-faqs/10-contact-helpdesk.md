@@ -1,7 +1,6 @@
 ---
-title: On Behalf Application (Individual Users)
-permalink: /dashboard-faqs/individual-users/
-third_nav_title: Third-Party
+title: Contact Helpdesk
+permalink: /dashboard-faqs/contact-helpdesk/
 ---
 
 ### General

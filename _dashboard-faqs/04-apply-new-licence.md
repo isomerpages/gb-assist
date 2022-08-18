@@ -1,7 +1,6 @@
 ---
-title: Application for Change of Trade (HDB Commercial Properties)
-permalink: /dashboard-faqs/licences/
-third_nav_title: Licences
+title: Apply new licence
+permalink: /dashboard-faqs/apply-new-licences/
 ---
 
 ### Licences

@@ -1,7 +1,6 @@
 ---
-title: Change of Use Approval
-permalink: /dashboard-faqs/change-of-use-approval/
-third_nav_title: Licences
+title: Find approved licences
+permalink: /dashboard-faqs/find-approved-licences/
 ---
 
 ### Change of Use Approval

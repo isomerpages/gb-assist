@@ -1,7 +1,6 @@
 ---
-title: Food Shop Licence
-permalink: /dashboard-faqs/food-shop-licence/
-third_nav_title: Licences
+title: Submit returns
+permalink: /dashboard-faqs/submit-returns/
 ---
 
 ### Food Shop Licence

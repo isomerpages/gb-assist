@@ -2,25 +2,13 @@ collections:
   dashboard-faqs:
     output: true
     order:
-      - about.md
-      - general/.keep
-      - general/getting-started.md
-      - general/application.md
-      - licences/.keep
-      - licences/application-for-change-of-trade-hdb-commercial-properties.md
-      - licences/change-of-use-approval.md
-      - licences/food-shop-licence.md
-      - licences/food-stall-licence.md
-      - licences/halal-certfication.md
-      - licences/liquor-licence.md
-      - licences/liquor-licence-extension-of-operating-hours.md
-      - licences/petroleum-flammable-materials-storage-licence.md
-      - licences/public-entertainment-licence.md
-      - licences/tobacco-retail-licence.md
-      - payment/.keep
-      - payment/payment.md
-      - post-application/.keep
-      - post-application/post-application.md
-      - third-party/.keep
-      - third-party/individual-users.md
-      - third-party/business-users.md
+      - 01-hub.md
+      - 02-about.md
+      - 03-account-access.md
+      - 04-apply-new-licence.md
+      - 05-find-approved-licences.md
+      - 06-submit-returns.md
+      - 07-payment.md
+      - 08-post-application.md
+      - 09-third-party.md
+      - 10-contact-helpdesk.md
