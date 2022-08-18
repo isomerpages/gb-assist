@@ -1,6 +1,6 @@
 ---
 title: Account access
-permalink: /dashboard-faqs/access/
+permalink: /dashboard-faqs/account-access/
 ---
 
 ### GoBusiness Dashboard

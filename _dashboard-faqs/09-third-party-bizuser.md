@@ -1,6 +1,6 @@
 ---
-title: Third Party
-permalink: /dashboard-faqs/third-party/
+title: 'Third-Party: On Behalf Application (Individual Users)'
+permalink: /dashboard-faqs/third-party-bizuser/
 ---
 
 ### For Applicant
