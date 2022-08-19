@@ -3,17 +3,17 @@
   data:
     - title: Someone has applied for a licence on my behalf. Where can I find it?
       content: |
-        If the application has not been approved yet, you can find it on your dashboard under "[My Tasks](https://dashboard.gobusiness.gov.sg/mytasks?src=business_user_faq){:target="_blank"}{:rel="noopener"}". 
+        If the application has not been approved yet, you can find it on your dashboard under [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_biz_thirdparty). 
 
-        If it's been approved, you can find the licence under "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=business_user_faq){:target="_blank"}{:rel="noopener"}".
+        If it's been approved, you can find the licence under [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_biz_thirdparty).
 
     - title: Can I withdraw an application submitted on my behalf?
       content: |
-        Yes, you can. Log in to GoBusiness Dashboard and click on "[My Tasks](https://dashboard.gobusiness.gov.sg/mytasks?src=business_user_faq){:target="_blank"}{:rel="noopener"}". If you see a "..." icon in the row with your application, click on it and select "Withdraw".
+        Yes, you can. Log in to GoBusiness Dashboard and click on [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_biz_thirdparty). If you see a Select Action button in the row with your application, click on it and select ""Withdraw"".
 
-        If you see the "View" button, click on it. You will be directed to GoBusiness Licensing, where you can withdraw the application.
+        If you see the "Manage via GoBusiness Licensing" button, click on it. You will be directed to GoBusiness Licensing, where you can withdraw the application.
 
-        ![Screenshot of withdraw an application](/images/FAQ/Tasks-Withdraw.png)
+        ![Screenshot of withdraw an application](/images/FAQ/db/Withdraw.jpg)
 
 - accordion:
   letter: b
@@ -32,9 +32,9 @@
 
         Step 2: Select your client's UEN on the profile selection page.
 
-        If the application has not been approved yet, you can find it on your dashboard under "[My Tasks](https://dashboard.gobusiness.gov.sg/mytasks?src=business_user_faq){:target="_blank"}{:rel="noopener"}". 
+        If the application has not been approved yet, you can find it on your dashboard under [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_biz_thirdparty). 
 
-        If it's been approved, you can find the licence under "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=business_user_faq){:target="_blank"}{:rel="noopener"}".
+        If it's been approved, you can find the licence under [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_biz_thirdparty).
 
     - title: Can a Business User apply for or manage a licence on behalf of an Individual User?
       content: |
@@ -48,14 +48,12 @@
 
         Step 2: Select your client's UEN on the profile selection page.
 
-        Step 3: Click on "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=business_user_faq){:target="_blank"}{:rel="noopener"}"
+        Step 3: Click on [My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_biz_thirdparty).
 
-        If you see a "..." icon in the row with your application, click on it and select the desired action.
+        If you see a Select Action button in the row with your application, click on it and select the desired action.
 
         If you see the "Renew/Manage via GoBusiness Licensing" button, click on it. You will be directed to GoBusiness Licensing, where you can amend, renew or cancel the licence.
 
-        ![Screenshot of amend existing licence](/images/FAQ/licence-amend.png)
-
     - title: How do I switch to a different client's account?
       content: |
-        Go to "My Account" and select the "Switch Profile" button.
+        Go to the GoBusiness Dashboard homepage and select the Switch Profile button.
