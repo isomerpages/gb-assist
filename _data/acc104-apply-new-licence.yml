@@ -1,40 +1,60 @@
 accordion:
-  - title: What is the Application for Change of Trade (HDB Commercial Properties) for?
+  - title: How do I apply for a licence?
     content: |
-      The Application for Change of Trade is for HDB Commercial Tenants who wish to change their existing trade or include a new trade relating to sale of food & beverage in their rental HDB Commercial Properties.
+      Step 1: Log in to GoBusiness Dashboard and choose Licence -> [Apply Licence](https://dashboard.gobusiness.gov.sg/add-tasks?src=applynewlicdb_faq) from the top menu bar.
 
-  - title: Who can I contact for further details?
+      Step 2: Select the licence you wish to apply for and you will be redirected to the application form (for licences available on GoBusiness) or respective government website (for licences that are not available on GoBusiness yet)
+
+      Step 3: Fill in the information required.
+
+      Step 4: Declare information to be accurate and submit.
+      
+      You will find your application under In Progress on your GoBusiness Dashboard.
+
+  - title: How do I withdraw an application?
     content: |
-      You may call HDB Commercial Hotline at 1800-8663073 or submit your enquiry via <a href="http://www.hdb.gov.sg/efeedback" target="blank">HDB Feedback Form</a>.
+      Step 1: Click on the [Processing section](https://dashboard.gobusiness.gov.sg/mytasks/processing?src=applynewlicdb_faq) on your GoBusiness Dashboard.
 
-      You may also write in to:
+      Step 2: Search for the application you want to withdraw.
 
-      Properties & Land Group
-      Housing & Development Board
-      480 Lor 6 Toa Payoh
-      Atrium 3rd Storey HDB Hub
-      Singapore 310480
+      Step 3: Click on the "..." button and select Withdraw.
 
-  - title: What supporting documents do I need to submit?
+      For licences that are still on LicenceOne, please log in to LicenceOne and amend it there.
+
+      ![Screenshot of withdraw an application](/images/FAQ/db/Tasks-Withdraw.png)
+
+  - title: How do I amend an existing licence?
     content: |
-      1. Proposed Layout Plan (mandatory for Restaurant and Family Restaurant)
-      2. Details of Proposed operation (mandatory for Restaurant, Family Restaurant and Sale of Takeaway Food and Beverage)
-      3. Trade Description
+      Step 1: Log in to GoBusiness Dashboard
 
-  - title: How much is the application fee?
+      Step 2: Go to "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=applynewlicdb_faq)"
+
+      If you see a "..." icon in the row with your application, click on it and select ""Amend"".
+
+      If you see the "Manage via GoBusiness Licensing" button, click on it. You will be directed to GoBusiness Licensing, where you can amend the application.
+
+      ![Screenshot of amend existing licence](/images/FAQ/db/Licence-Amend.png)
+
+  - title: How do I renew an existing licence?
     content: |
-      A non-refundable administrative fee of $107 or $214 (inclusive of GST) shall be payable depending on the type of application.
+      Step 1: Log in to GoBusiness Dashboard
 
-  - title: What conditions do I need to fulfill?
+      Step 2: Go to "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=applynewlicdb_faq)"
+
+      If you see a "..." icon in the row with your application, click on it and select the desired action.
+
+      If you see the "Renew via GoBusiness Licensing" button, click on it. You will be directed to GoBusiness Licensing, where you can amend, renew, withdraw or cancel the licence.
+
+      ![Screenshot of renew existing licence](/images/FAQ/db/Licence-Renew.png)
+
+  - title: How do I cancel an existing licence?
     content: |
-      Please read the <a href="https://www.hdb.gov.sg/cs/infoweb/terms-and-conditions/terms-and-conditions-for-application-for-change-of-trade-(hdb-commercial-properties)" target="blank">Terms and Conditions</a> for Application for Change of Trade (HDB Commercial Properties) and <a href="https://www.hdb.gov.sg/cs/infoweb/application-for-tenancy-change-of-hdb-commercial-properties/terms-and-conditions" target="blank">Terms and Conditions</a> for Application for Changes (HDB Commercial Properties).
+      Step 1: Log in to GoBusiness Dashboard
+      
+      Step 2: Go to "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=applynewlicdb_faq)"
 
-  - title: How soon can my application be processed?
-    content: |
-      Processing takes 1 to 14 days upon HDB's verification of the information as declared in the online application and receipt of all supporting documents/information.
+      If you see a ""..."" icon in the row with your application, click on it and select the desired action.
 
-  - title: Do I need to submit this application?
-    content: |
-      You need to apply for Change of Trade if you are a HDB Commercial Tenant and you wish to change your existing trade or include a new trade relating to sale of food & beverage.
+      If you see the ""Manage via GoBusiness Licensing"" button, click on it. You will be directed to GoBusiness Licensing, where you can amend, renew, withdraw or cancel the licence.
 
-      For HDB Commercial Tenants who wish to change their existing trade or include a new trade together with other tenancy changes (e.g. change of business mode, change of partners, transfer or assignment of tenancy, renting out part of trading area or living quarters), they are to submit an online <a href="https://licence1.business.gov.sg/feportal/web/frontier/eAdvisor?agencyCode=HDB" target="blank">Application for Changes (HDB Commercial Properties)</a>.
+      ![Screenshot of amend existing licence](/images/FAQ/db/Licence-Amend.png)

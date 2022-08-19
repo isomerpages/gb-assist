@@ -3,7 +3,7 @@ title: Apply new licence
 permalink: /dashboard-faqs/apply-new-licences/
 ---
 
-### Licences
+### Apply new licence
 
 {% include accordion.html accordions=site.data.acc104-apply-new-licence.accordion %}
 
