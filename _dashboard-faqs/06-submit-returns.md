@@ -3,7 +3,7 @@ title: Submit returns
 permalink: /dashboard-faqs/submit-returns/
 ---
 
-### Food Shop Licence
+### Submit returns
 
 {% include accordion.html accordions=site.data.acc106-submit-returns.accordion %}
 
