@@ -3,7 +3,7 @@ title: Find approved licences
 permalink: /dashboard-faqs/find-approved-licences/
 ---
 
-### Change of Use Approval
+### Find approved licences
 
 {% include accordion.html accordions=site.data.acc105-find-approved-licences.accordion %}
 
