@@ -5,7 +5,7 @@ permalink: /dashboard-faqs/submit-returns/
 
 ### Food Shop Licence
 
-{% include accordion.html accordions=site.data.acc029-food-shop-licence.accordion %}
+{% include accordion.html accordions=site.data.acc106-submit-returns.accordion %}
 
 [Back to Licences Overview](/licences/)
 

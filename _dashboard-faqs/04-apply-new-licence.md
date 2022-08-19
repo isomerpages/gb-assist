@@ -5,6 +5,6 @@ permalink: /dashboard-faqs/apply-new-licences/
 
 ### Licences
 
-{% include accordion.html accordions=site.data.acc027-application-for-change-of-trade-hdb-commercial-properties.accordion %}
+{% include accordion.html accordions=site.data.acc104-apply-new-licence.accordion %}
 
 [Back to Licences Overview](/licences/)
