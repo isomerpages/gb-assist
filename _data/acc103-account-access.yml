@@ -1,161 +1,39 @@
 - accordion:
   letter: a
   data:
-    - title: How do I apply for a licence?
+    - title: How do I log in to GoBusiness Dashboard?
       content: |
-        Step 1: Login to GoBusiness Dashboard and Click "[Find Licence](https://dashboard.gobusiness.gov.sg/add-tasks){:target="_blank"}{:rel="noopener"}".
-        
-        Step 2: Select the licence you wish to apply and you will be redirected to the application form (for migrated licences) or respective government website (for licences that have not been migrated) 
+        Step 1: Click on the Log In button at the top right hand corner of the screen.
 
-        Step 3: Fill in the information required.
+        Step 2: Log in as an Individual User or Business User.
 
-        Step 4: Declare information to be accurate and submit.
+        Step 3: Sign in with your Singpass account to access the GoBusiness Dashboard.
 
-        You will find your application under In Progress on your GoBusiness Dashboard.
-
-    - title: How do I withdraw an application?
+    - title: Can I use GoBusiness Dashboard if I do not have a Singpass account?
       content: |
-        Step 1: Click on the 'Processing' section on your GoBusiness Dashboard.
+        No, you need a Singpass account to log in to your GoBusiness Dashboard. You can apply for a Singpass account on [Singpass' website](https://www.singpass.gov.sg/){:target="_blank"}{:rel="noopener"}.
 
-        Step 2: Search for the application you want to withdraw.
-
-        Step 3: Click on the '...' button and select Withdraw.
-
-        For licences that are still on LicenceOne, please log in to LicenceOne and amend it there.
-
-        ![Screenshot of withdraw an application](/images/FAQ/Tasks-Withdraw.png)
-
-    - title: How do I amend an existing licence?
+    - title: Should I log in as an Individual User or Business User?
       content: |
-        Step 1: Log in to GoBusiness Dashboard
+        Log in as an Individual User if you are:
 
-        Step 2: Go to "My Licences"
+        - registering a new company/entity
+        - trading under your NRIC registered name
+        - trading under an entity without a registered UEN
+        - applying for a Corppass Admin account
 
-        If you see a "..." icon in the row with your application, click on it and select "Amend".
+        Log in as a Business User if you are trading on behalf of a UEN-registered company.
 
-        If you see the "<b>Manage via GoBusiness Licensing</b>" button, click on it. You will be directed to GoBusiness Licensing, where you can amend the application.
-
-        ![Screenshot of amend existing licence](/images/FAQ/licence-amend.png)
-
-    - title: How do I renew an existing licence?
+    - title: Why can't I log in as a Business User?
       content: |
-        Step 1: Log in to GoBusiness Dashboard
+        To log in as a Business User, your company's Corppass Administrator or Sub-Administrator will need to assign you digital service access to GoBusiness. You can find out how to do that on the [Corppass website](https://www.corppass.gov.sg/cpauth/login/homepage?URL=%2F&TAM_OP=login){:target="_blank"}{:rel="noopener"}.
 
-        Step 2: Go to "My Licences"
+        Please note that from 11 April 2021, you will be required to log in to government digital services for businesses using Singpass instead of Corppass. For more information,  visit [go.gov.sg/corporate-login](http://go.gov.sg/corporate-login){:target="_blank"}{:rel="noopener"}.
 
-        If you see a "..." icon in the row with your application, click on it and select the desired action.
-
-        If you see the "<b>Renew via GoBusiness Licensing</b>" button, click on it. You will be directed to GoBusiness Licensing, where you can amend, renew, withdraw or cancel the licence.
-
-        ![Screenshot of renew existing licence](/images/FAQ/licence-renew.png)
-
-    - title: How do I cancel an existing licence?
+    - title: How do I log out?
       content: |
-        Step 1: Log in to GoBusiness Dashboard
+        Click on the icon at the top right corner of your screen and select Log Out. Do note that you will be automatically logged out after 20 minutes of inactivity.
 
-        Step 2: Go to "My Licences"
-
-        If you see a "..." icon in the row with your application, click on it and select the desired action.
-
-        If you see the "Manage via GoBusiness Licensing" button, click on it. You will be directed to GoBusiness Licensing, where you can amend, renew, withdraw or cancel the licence.
-
-        ![Screenshot of amend existing licence](/images/FAQ/licence-amend.png)
-
-- accordion:
-  letter: b
-  data:
-    - title: Which licences and permits can I apply for here?
+    - title: Why did I get logged out of GoBusiness?
       content: |
-        You can refer to this full list of [licences and permits](/licences/find-licence-by-agency/?src=licences_faq) available on GoBusiness, or add them directly on [GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/addtask??src=licences_faq){:target="_blank"}{:rel="noopener"}.
-
-    - title: What is an Application Journey?
-      content: |
-        An Application Journey shows the correct order to apply for your licences in order to start running your business. It is customized based on your business concept.
-
-    - title: Why can't I apply for some of the licences in my Application Journey?
-      content: |
-        Some licences are required before you can apply for others. Based on this sequence, the Application Journey shows you the correct order in which to apply for them and tells you which licences you will need before applying for the next one.
-
-        Licences indicated in grey require you to obtain another licence first before you can proceed.
-
-    - title: What does 'licence dependency' mean?
-      content: |
-        Some licences are required before you can apply for others. Based on this, the Guided Journey feature maps out the correct order to apply for them and shows you which licences you will need before applying for the next one.
-
-        For example:
-
-        SFA's Food Shop Licence and SPF's Public Entertainment Licence and Liquor Licence are dependent on landowner's permission (i.e. URA, HDB, Private, SLA, JTC etc)
-
-        Halal Certification is dependent on Food Shop Licence approval.
-
-    - title: Why are some licences incompatible?
-      content: |
-        Some licences are mutually exclusive and cannot be applied for together. Here is a list of incompatible licences:
-
-        Halal Certification is mutually exclusive to Liquor Licence and Tobacco Licence.
-        The Liquor Licence and Public Entertainment Licence may not be compatible with certain food shop types (e.g. Canteen)
-
-    - title: What is a Food Shop type?
-      content: |
-        The Singapore Food Agency (SFA) classifies food & beverage businesses according to their business concept.
-
-        Here is a [list of all Food Shop types](https://go.gov.sg/food-shop-types/?src=licences_faq){:target="_blank"}.
-
-    - title: How do I know which Food Shop type my business falls under?
-      content: |
-        Here is a [list of all Food Shop types](/images/grow/FoodShopTypeMapping.pdf?src=licences_faq){:target="_blank"} and their descriptions.
-
-        If you are not sure, simply use our Guided Journey feature and answer a series of questions about your business to find out which Food Shop type it falls under.
-
-    - title: What falls under 'Others' in Food Shop Type?
-      content: |
-        Out of the Food Shop types recommended for you, you are advised to select the option that best describes your business concept. If none of the options apply, you may select 'Others'.
-
-    - title: Why can't I select more than one Food Shop type?
-      content: |
-        Each business location is only allowed to have one Food Shop type.
-
-    - title: What does 'Premises' mean?
-      content: |
-        'Premises' refers to the food shop you would like to obtain licences for.
-
-    - title: Do I enter the name of my shop or the name of my registered business under 'Premises Name'?
-      content: |
-        You will need to enter the name of your shop under 'Premises Name'. This means the name you plan to display on your shopfront.
-
-    - title: My business address does not have a level and/or unit number. What should I do?
-      content: |
-        If your business address does not have a level and/or unit number, please enter '00' under 'Level' and 'Unit Number' to proceed.
-
-    - title: I accidentally added new premises, how can I delete the draft application/premises?
-      content: |
-        [Login to GoBusiness Guided Journey](https://foodservices.gobusiness.gov.sg/licences/foodservices?src=licences_faq){:target="_blank"}{:rel="noopener"}. Click on the premises you would like to delete. If the premises can be deleted, the “Remove” button will appear beside the “Premises Details” section title. Click on the “Remove” button to start the process of deletion.
-
-        Premises can only be deleted if they contain draft application(s).
-
-        Note: Deleted premises as well as their draft applications are not recoverable.
-
-    - title: What does 'adjacent unit' mean?
-      content: |
-        Adjacent units are multiple units next to each other. This applies to businesses occupying multiple units. If your business occupies multiple levels without a connecting staircase within your premises, you will need to apply for individual licences for each level.
-
-    - title: How do I find out the supporting documents I need for each licence?
-      content: |
-        Clicking on each licence in your Application Journey will show a list of supporting documents required. You can also refer to a full list of supporting documents on the 'Required Documents for your Licences' sidebar, located on the right side of your Application Journey.
-
-    - title: Why are some supporting documents under 'Submit Now' and others are under 'Submit For Later'?
-      content: |
-        Documents under Submit Now will need to be uploaded once you submit your application, as they are required to start processing it.
-
-        Documents under Submit Later will only be needed at a later stage, and can be submitted in future. However, you can choose to upload them together with your application.
-        
-    - title: How and when do I submit the supporting documents under 'Submit For Later'?
-      content: |
-        An officer from the respective government agency will be in touch to request for the documents.
-
-    - title: How do I check on the status of my application?
-      content: |
-        All application status updates will be sent to the e-mail address provided in the application form.
-
-        You can also check on each licence's current status on your Application Journey.
-
+        For security reasons, the system automatically logs you out if you are inactive for 20 minutes. 
