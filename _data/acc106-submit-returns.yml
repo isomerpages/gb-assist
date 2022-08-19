@@ -1,13 +1,13 @@
 accordion:
   - title: Which licences will I need to submit returns for?
     content: |
-      You can check the [Submit Returns page](https://dashboard.gobusiness.gov.sg/mylicences/submitReturns?src=submitreturnsdb_faq) to see which licences require it.
+      You can check the [Submit Returns page](https://dashboard.gobusiness.gov.sg/mylicences/submitReturns?src=faq_db_submitreturns) to see which licences require it.
 
       Contact the relevant licensing agency for more information about submitting returns.
 
   - title: How do I submit my returns for my licences?
     content: |
-      Click on [Submit Returns](https://dashboard.gobusiness.gov.sg/mylicences/submitReturns?src=submitreturnsdb_faq) on the GoBusiness Dashboard, and you will be directed to GoBusiness Licensing to submit your returns.
+      Click on [Submit Returns](https://dashboard.gobusiness.gov.sg/mylicences/submitReturns?src=faq_db_submitreturns) on the GoBusiness Dashboard, and you will be directed to GoBusiness Licensing to submit your returns.
 
   - title: I've just submitted a return, where can I find it on GoBusiness Dashboard?
     content: |

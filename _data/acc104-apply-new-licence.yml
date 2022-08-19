@@ -1,7 +1,7 @@
 accordion:
   - title: How do I apply for a licence?
     content: |
-      Step 1: Log in to GoBusiness Dashboard and choose Licence -> [Apply Licence](https://dashboard.gobusiness.gov.sg/add-tasks?src=applynewlicdb_faq) from the top menu bar.
+      Step 1: Log in to GoBusiness Dashboard and choose Licence -> [Apply Licence](https://dashboard.gobusiness.gov.sg/add-tasks?src=faq_db_applynewlic) from the top menu bar.
 
       Step 2: Select the licence you wish to apply for and you will be redirected to the application form (for licences available on GoBusiness) or respective government website (for licences that are not available on GoBusiness yet)
 
@@ -13,7 +13,7 @@ accordion:
 
   - title: How do I withdraw an application?
     content: |
-      Step 1: Click on the [Processing section](https://dashboard.gobusiness.gov.sg/mytasks/processing?src=applynewlicdb_faq) on your GoBusiness Dashboard.
+      Step 1: Click on the [Processing section](https://dashboard.gobusiness.gov.sg/mytasks/processing?src=faq_db_applynewlic) on your GoBusiness Dashboard.
 
       Step 2: Search for the application you want to withdraw.
 
@@ -27,7 +27,7 @@ accordion:
     content: |
       Step 1: Log in to GoBusiness Dashboard
 
-      Step 2: Go to "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=applynewlicdb_faq)"
+      Step 2: Go to "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_applynewlic)"
 
       If you see a "..." icon in the row with your application, click on it and select ""Amend"".
 
@@ -39,7 +39,7 @@ accordion:
     content: |
       Step 1: Log in to GoBusiness Dashboard
 
-      Step 2: Go to "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=applynewlicdb_faq)"
+      Step 2: Go to "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_applynewlic)"
 
       If you see a "..." icon in the row with your application, click on it and select the desired action.
 
@@ -51,7 +51,7 @@ accordion:
     content: |
       Step 1: Log in to GoBusiness Dashboard
       
-      Step 2: Go to "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=applynewlicdb_faq)"
+      Step 2: Go to "[My Licences](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_applynewlic)"
 
       If you see a ""..."" icon in the row with your application, click on it and select the desired action.
 
