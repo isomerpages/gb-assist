@@ -11,6 +11,3 @@ third_nav_title: Third Party
 ### For Third Party Filer
 
 {% include letter-accordion.html accordions=site.data.acc108b-business-users letter="b" %}
-
-
-[Back to Licences Overview](/licences/)
