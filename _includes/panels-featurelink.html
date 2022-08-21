@@ -101,8 +101,9 @@
         {% if panel.tel or panel.email or panel.url %}
         <div class="panel-links-container">
             {% if panel.tel %}
+            <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-                <hr style="width:100%;text-align:left;margin:0">
+
                 {% assign tels = panel.tel | split: ',' %}
                 {% for tel in tels %}
                 <a class="panel-link" href="tel:{{ tel }}">{{ tel }}</a>
@@ -110,8 +111,8 @@
             </div>
             {% endif %}
             {% if panel.email %}
+            <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-                <hr style="width:100%;text-align:left;margin:0">
                 {% assign emails = panel.email | split: ',' %}
                 {% for email in emails %}
                 <a class="panel-link" href="mailto:{{ email }}">{{ email }}</a>
@@ -119,8 +120,8 @@
             </div>
             {% endif %}
             {% if panel.url %}
+            <hr style="width:100%;text-align:left;margin:0">
             <div class="panel-links-group">
-                <hr style="width:100%;text-align:left;margin:0">
                 {% assign urls = panel.url | split: ',' %}
                 {% for url in urls %}
                 <a class="panel-link"
