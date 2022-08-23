@@ -21,7 +21,7 @@ accordion:
     content: |
       Log in to your GoBusiness Dashboard and [find the licence you want to print](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_findapprovedlic). 
 
-      Click on the Download button to get the licence.
+      If you see a Select Action button in the row with your licence, click on it and select Download.
 
       If you do not see the button, click on the following links to locate your licence, if your licence is issued by [Singapore Food Agency (SFA), Animal & Veterinary Service (AVS) or NParks](https://licence1.business.gov.sg/licence1/authentication/showLogin.action){:target="_blank"}{:rel="noopener"}, or [other agencies](https://licence1.business.gov.sg/feportal/web/frontier/home){:target="_blank"}{:rel="noopener"}. After finding your licence, click on the Print icon beside it.
 
