@@ -19,7 +19,7 @@ accordion:
 
   - title: How do I print my licence?
     content: |
-      [Log in to your GoBusiness Dashboard](https://dashboard.gobusiness.gov.sg/login?src=faq_db_findapprovedlic) and find the licence you want to print. 
+      Log in to your GoBusiness Dashboard and [find the licence you want to print](https://dashboard.gobusiness.gov.sg/mylicences?src=faq_db_findapprovedlic). 
 
       Click on the Download button to get the licence.
 
