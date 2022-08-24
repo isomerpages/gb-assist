@@ -15,13 +15,14 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 ----
 
-<a name="eeg-eligibility"></a>
+<a name='eeg-eligibility'></a>
 
 ### EEG eligibility
 
 {% include accordion.html accordions=site.data.acc039b-eeg-overview.accordion %}
 
 **Note:**
+
 - From 1 Sep 2022 to 31 Mar 2023, companies will be able to submit applications for the purchase of energy efficient equipment through the Business Grants Portal (BGP).
 
 - Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
@@ -30,28 +31,30 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 ----
 
-<a name="type-of-eeg-soln"></a>
+<a name='type-of-eeg-soln'></a>
 
 ### Types of EE Equipment
 
 The following equipment categories are supported under the EEG:
 
-- [Air-Conditioner](/energy-efficiency-grant/air-conditioner)
+- [Air-Conditioner](/energy-efficiency-grant/Air-Conditioner)
 
-- Clothes Dryer
+- [Clothes Dryer](/energy-efficiency-grant/Clothes-Dryer)
 
-- Cooking Hob
+- [Cooking Hob](/energy-efficiency-grant/Cooking-Hob)
 
-- LED Lighting
+- [LED Lighting](/energy-efficiency-grant/LED-Lighting)
 
-- Refrigerator
+- [Refrigerator](/energy-efficiency-grant/Refrigerator)
 
-- Water Heater
+- [Water Heater](/energy-efficiency-grant/Water-Heater)
 
 ----
 
-<a name="eeg-faq"></a>
+<a name='eeg-faq'></a>
 
 ### FAQ
-Have more questions? Refer to the [FAQ for EEG](){:target="_blank"}{:rel="noopener"}. 
+
+Have more questions? Refer to the [FAQ for EEG](){:target='_blank'}{:rel='noopener'}.
+
 
