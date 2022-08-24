@@ -1,5 +1,5 @@
 ---
-title: General
+title: Energy Efficency Grant
 permalink: /business-grants-portal-faq/eeg/
 ---
 
