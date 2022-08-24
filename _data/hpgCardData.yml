@@ -55,8 +55,11 @@
   target_2: _blank
   href_3: '/productivity-solutions-grant/?src=home_quicklinks'
   text_3: Productivity Solutions Grant
-  is_new_3: true
-  href_4: '/business-grants-portal/?src=home_quicklinks'
-  text_4: Business Grants Portal
+  is_new_3: false
+  href_4: '/energy-efficiency-grant/?src=home_quicklinks'
+  text_4: Energy Efficiency Grant
+  is_new_4: true
+  href_5: '/business-grants-portal/?src=home_quicklinks'
+  text_5: Business Grants Portal
   cta_href: '/gov-assist/?src=home_quicklinks'
   cta_text: All GovAssist schemes
