@@ -3,42 +3,53 @@ title: Overview
 permalink: /energy-efficiency-grant/
 ---
 
-## Productivity Solutions Grant
+## Energy Efficiency Grant (EEG)
 
-![Productivity Solutions Grant Overview](/images/grow/psg/psg_overview_banner.jpg)
+The Energy Efficiency Grant (EEG) was launched September 2022 and aims to help businesses within the Food Services, Food Manufacturing or Retail sectors to cope with rising energy costs, through co-funding investments in more energy efficient equipment.
 
-The Productivity Solutions Grant (PSG) was launched on April 2018 to help businesses enhance their processes with technology. 
+![Energy Efficiency Grant Overview](/images/grow/eeg/eeg_overview_banner.jpg)
 
-It provides financial support for business owners to adopt pre-scoped IT solutions, equipment and consultancy services to improve productivity. These solutions are aligned to the industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). 
-
-{% include panels-overview.html spanels=site.data.ov004-grow-psg %}
+{% include panels-overview.html spanels=site.data.ov005-grow-eeg %}
 
 ----
 
-<a name="psg-eligibility"></a>
+<a name="eeg-eligibility"></a>
 
-### PSG eligibility
+### EEG eligibility
 
-{% include accordion.html accordions=site.data.acc039a-psg-overview.accordion %}
+{% include accordion.html accordions=site.data.acc039b-eeg-overview.accordion %}
 
 **Note:**
-- From 1 April 2022 onwards, the maximum support level will be up to 70%. For eligible pre-scoped solutions, enhanced support level of up to 80% will be extended from 1 April 2022 to 31 March 2023 for Food Services and Retail sectors. Please refer to the [FAQ](/productivity-solutions-grant/faq/) for more details on the eligible solutions.
+- From 1 Sep 2022 to 31 Mar 2023, companies will be able to submit applications for the purchase of energy efficient equipment through the Business Grants Portal (BGP).
 
-- This listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share the Corppass with their vendors to carry out submission of any grant application or claims
+- Companies will have up to 1 year from the time an application is approved to purchase and install the equipment and submit claims for reimbursement. Once an application has been submitted, companies may choose to proceed to purchase the equipment before the application outcome. However, companies will not be able to claim subsequently if the application is unsuccessful.
 
-<a name="type-of-psg-soln"></a>
+- This pre-approved energy efficient equipment listing is not to be taken as a form of endorsement or recommendation by the participating government agencies. Companies are reminded to carry out due diligence when engaging vendors, and not to share their Corppass with the vendors to carry out submission of any grant applications or claims.
 
-### Types of PSG solutions
+----
 
-|-|-|
-| **Sector-specific solutions** | Sector-specific solutions are eligible for companies within the respective sectors only. These solutions are specially curated by sector lead agencies, aligned to industry roadmaps such as the Industry Transformation Maps (ITMs) and Industry Digital Plans (IDPs). |
-| **Generic solutions** | Generic solutions are for all companies, across business sectors and industries. Solutions are intended to improve companies' productivity in managing general business functions and processes. |
+<a name="type-of-eeg-soln"></a>
 
-{% include button.html text="View All Solutions" src="/productivity-solutions-grant/all-psg-solutions/" target="_self" %}
+### Types of EE Equipment
 
-<a name="be-psg-vendor"></a>
+The following equipment categories are supported under the EEG:
 
-### Be a PSG vendor
-If you’d like to become a pre-qualified vendor for PSG IT solutions, click [here](https://www.imda.gov.sg/icmvendors){:target="_blank"} to find out more.
+- Air-Conditioner
 
-<script src="/jquery/resize-tables.js"></script>
+- Clothes Dryer
+
+- Cooking Hob
+
+- LED Lighting
+
+- Refrigerator
+
+- Water Heater
+
+----
+
+<a name="eeg-faq"></a>
+
+### FAQ
+Have more questions? Refer the [/energy-efficiency-grant/faq/](){:target="_blank"}{:rel="noopener"}. 
+
