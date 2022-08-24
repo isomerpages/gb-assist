@@ -55,6 +55,6 @@ The following equipment categories are supported under the EEG:
 
 ### FAQ
 
-Have more questions? Refer to the [FAQ for EEG](){:target='_blank'}{:rel='noopener'}.
+Have more questions? Refer to the [FAQ for EEG](/business-grants-portal-faq/eeg/){:target='_blank'}{:rel='noopener'}.
 
 
