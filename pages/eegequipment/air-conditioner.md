@@ -42,7 +42,9 @@ Cost of equipment capped at $37,500 per unit
 ### Support Level and Conditions
 
 Up to 70% for SMEs, N.A. for non-SMEs.
+
 Only for businesses within the Food Services, Food Manufacturing, or Retail sectors.
+
 Funded and administered by Enterprise Singapore (EnterpriseSG). For more information, please refer to [insert EEG website url]
 
 <script src="/jquery/resize-tables.js"></script>

@@ -36,7 +36,7 @@ It provides financial support for SMEs to adopt pre-approved energy efficient eq
 
 The following equipment categories are supported under the EEG:
 
-- Air-Conditioner
+- [Air-Conditioner](/energy-efficiency-grant/air-conditioner)
 
 - Clothes Dryer
 
