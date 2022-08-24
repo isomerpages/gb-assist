@@ -1,6 +1,6 @@
 ---
 title: 'Cooking Hob'
-permalink: /energy-efficiency-grant/Cooking-Hob
+permalink: /energy-efficiency-grant/solutionrepo/Cooking-Hob
 ---
 
 ## Cooking Hob

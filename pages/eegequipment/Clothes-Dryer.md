@@ -1,6 +1,6 @@
 ---
 title: 'Clothes Dryer'
-permalink: /energy-efficiency-grant/Clothes-Dryer
+permalink: /energy-efficiency-grant/solutionrepo/Clothes-Dryer
 ---
 
 ## Clothes Dryer
