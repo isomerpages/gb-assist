@@ -1,5 +1,5 @@
 collections:
-  energy-efficiency-grant:
+  energy_efficiency_grant:
     output: true
     order:
       - overview.md
