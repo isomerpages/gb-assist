@@ -5,6 +5,6 @@ permalink: /business-grants-portal-faq/eeg/
 
 ### General
 
-test
+{% include accordion.html accordions=site.data.acc012a-eeg.accordion %}
 
 [Back to Business Grants Portal Overview](/business-grants-portal/)
