@@ -21,7 +21,45 @@
 
     - title: What is supported under the EEG?
       content: |
-        Equipment and IT solutions are refreshed regularly, depending on vendors' contracts with PSG participating agencies.
+        Support will be provided for following energy-efficient equipment with the following technical requirements:
+
+        **LED lighting:**
+        
+        - LED self-ballasted lamps
+        
+        - Direct LED replacements for compact fluorescent lamps (CFL) or linear fluorescent lamps (LFL)
+        
+        - LED tube and strip lights
+        
+        - LED circular tube
+        
+        **Air-conditioner:**
+
+        - Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) ≤ 750 for split unit models (up to 10kW cooling capacity)
+        
+        - Minimum 3-ticks and using refrigerant with GWP ≤ 750 (if available) for split unit models (above 10kW cooling capacity)
+        
+        - Minimum 3-ticks and using refrigerant with GWP ≤ 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+        
+        **Refrigerator:**
+        
+        - Household refrigerator: Minimum 3-ticks and using refrigerant with GWP ≤ 15
+        
+        - Commercial refrigerator: Inverter technology
+        
+        **Cooking hob:**
+        
+        - Induction technology
+        
+        **Water heater:**
+        
+        - Heat pump technology 
+        
+        **Clothes dryer:**
+        
+        - Heat pump technology
+        
+        The grant support provided will be up to 70% of qualifying costs, capped at S$30,000 per company per year.
 
     - title: Will the Government consider expanding the types of equipment categories supported, to other equipment such as ovens or dishwashers?
       content: |
