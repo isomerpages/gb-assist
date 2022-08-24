@@ -7,4 +7,4 @@ permalink: /business-grants-portal-faq/eeg/
 
 {% include accordion.html accordions=site.data.acc012a-eeg %}
 
-[Back to Business Grants Portal Overview](/business-grants-portal/)Hmm.. 
+[Back to Business Grants Portal Overview](/business-grants-portal/)
