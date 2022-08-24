@@ -1,6 +1,6 @@
 ---
 title: Overview
-permalink: /energy_efficiency-grant/
+permalink: /energy-efficiency-grant/
 ---
 
 ## Productivity Solutions Grant

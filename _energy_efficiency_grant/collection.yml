@@ -1,7 +1,6 @@
 collections:
-  productivity_solutions_grant:
+  energy-efficiency-grant:
     output: true
     order:
       - overview.md
-      - all-psg-solutions.md
       - faq.md
