@@ -7,7 +7,12 @@ permalink: /energy-efficiency-grant/solutionrepo/Air-Conditioner
 
 ### Technical Requirements
 
-- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) <= 750 for split unit models (up to 10kW cooling capacity)<br>- Minimum 3-ticks and using refrigerant with GWP <= 750 (if available) for split unit models (above 10kW cooling capacity)<br>- Minimum 3-ticks and using refrigerant with GWP <= 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+- Minimum 5-ticks and using refrigerant with Global Warming Potential (GWP) <= 750 for split unit models (up to 10kW cooling capacity)
+
+- Minimum 3-ticks and using refrigerant with GWP <= 750 (if available) for split unit models (above 10kW cooling capacity)
+
+- Minimum 3-ticks and using refrigerant with GWP <= 750 (when available) for 3-phase variable refrigerant flow (VRF) models
+
 
 ### Pre-Approved Equipment Brands and Models
 

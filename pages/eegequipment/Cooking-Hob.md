@@ -9,6 +9,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Cooking-Hob
 
 Induction technology
 
+
 ### Pre-Approved Equipment Brands and Models
 
 <table>

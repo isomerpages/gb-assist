@@ -9,6 +9,7 @@ permalink: /energy-efficiency-grant/solutionrepo/Clothes-Dryer
 
 Heat pump technology
 
+
 ### Pre-Approved Equipment Brands and Models
 
 <table>

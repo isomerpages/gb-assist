@@ -7,7 +7,14 @@ permalink: /energy-efficiency-grant/solutionrepo/LED-Lighting
 
 ### Technical Requirements
 
-- LED self-ballasted lamps<br>- Direct LED replacements for compact fluorescent lamps (CFL) or linear fluorescent lamps (LFL)<br>- LED tube and strip lights<br>- LED circular tube
+- LED self-ballasted lamps
+
+- Direct LED replacements for compact fluorescent lamps (CFL) or linear fluorescent lamps (LFL)
+
+- LED tube and strip lights
+
+- LED circular tube
+
 
 ### Pre-Approved Equipment Brands and Models
 
