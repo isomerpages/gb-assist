@@ -61,6 +61,4 @@
 
     - title: There's been an application / amendment / renewal / cancellation for a licence that I was not aware of. What should I do?
       content: |
-        Log in to GoBusiness Dashboard and go to [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_ind_thirdparty). Click on the View button to see the user who made this transaction.
-
-        If you notice any suspicious activity, contact us immediately.
+        Log in to GoBusiness Dashboard and go to [My Submissions](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_db_ind_thirdparty). Click on Select Action -> View to see the user who made this transaction.

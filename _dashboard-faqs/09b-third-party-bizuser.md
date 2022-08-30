@@ -1,5 +1,5 @@
 ---
-title: 'Third-Party: On Behalf Application (Business Users)'
+title: 'Third-Party: On Behalf of Application (Business Users)'
 permalink: /dashboard-faqs/third-party-bizuser/
 third_nav_title: Third Party
 ---
