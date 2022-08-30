@@ -21,7 +21,7 @@ Once you have determined which scheme your home business falls under, you need t
 
 <strong>Business Registration</strong>
 
-- For more information, visit our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=hbb){:target="_blank"}{:rel="noopener"} and [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=hbb){:target="_blank"}{:rel="noopener"}. 
+- For more information, visit [Start-up Guide](/start-a-business/?src=hbb). 
 
 <strong>Business Activities</strong>
 
@@ -64,7 +64,7 @@ Once you have determined which scheme your home business falls under, you need t
 
 <strong>Business Registration</strong>
 
-- For more information, visit our [e-Adviser for Starting a Business](https://eadviser.gobusiness.gov.sg/startabusiness?src=hbb){:target="_blank"}{:rel="noopener"} and [e-Adviser for Business Structure](https://eadviser.gobusiness.gov.sg/businessstructure?src=hbb){:target="_blank"}{:rel="noopener"}. 
+- For more information, visit [Start-up Guide](/start-a-business/?src=hbb). 
 
 <strong>Business Activities</strong>
 
