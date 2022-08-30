@@ -14,10 +14,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-ABSS Premier, formerly known as MYOB, includes Accounting features to help SMEs process sales and purchases, track receivable, payables GL, inventory, banking & GST, and reporting to help businesses perform daily operations and access accurate reporting with ease. It also supports multi-currencies, project & departmental costing, multi-warehouses.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Apscom_Desensitised_Annex_3__Part_4.pdf'  target='_blank' rel='noopener'>Package D (3-Users) Full Package with Remote Access</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Apscom_Desensitised_Annex_3__Part_5.pdf'  target='_blank' rel='noopener'>Package E (5-Users) Full Package with Remote Access</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019502253'  target='_blank' rel='noopener'>1. Apply Knowledge of Accounting-Related Concepts</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021003748'  target='_blank' rel='noopener'>2. Mathematics for Data Analytics</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2016500598'  target='_blank' rel='noopener'>3. Develop and Establish Financial Budget and Plans</a><br>

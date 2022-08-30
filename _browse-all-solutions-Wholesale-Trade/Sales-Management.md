@@ -14,12 +14,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simplify the daily operations of wholesalers. It can help to increase productivity and reduce operating cost by reducing manual efforts and human errors. It gives real time Information through Integrated application. Businesses can manage their Sales, Purchases, Inventory, and Reports. It will provide easy user interface with easy navigation and allow businesses to monitor and optimize every interaction.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Winapp_Desensitised_Annex_3__Part_1.pdf'  target='_blank' rel='noopener'>Package (1 Device)</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Winapp_Desensitised_Annex_3__Part_2.pdf'  target='_blank' rel='noopener'>Package (2 Devices)</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Winapp_Desensitised_Annex_3__Part_3.pdf'  target='_blank' rel='noopener'>Package (3 Devices)</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Winapp_Desensitised_Annex_3__Part_4.pdf'  target='_blank' rel='noopener'>Package (5 Devices)</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020513121'  target='_blank' rel='noopener'>1. Sales Target Management</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2013500351'  target='_blank' rel='noopener'>2. Manage Budgeting and Forecasting Processes for the Business Unit</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020501649'  target='_blank' rel='noopener'>3. Effective Digital Marketing and Sales</a><br>
@@ -58,6 +54,10 @@ Winapp EzySalesOrder V 3.0(Web & Mobile)is a solution specially designed to simp
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3202' target='_blank'>KEEPITAL Sales Management Business Solution Version 3</a><br></td>
 <td>Keep Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3338' target='_blank'>EzySalesOrder Version 3.0</a><br></td>
+<td>WINAPP SOLUTIONS PTE LTD</td>
 </tr>
 </table>
 

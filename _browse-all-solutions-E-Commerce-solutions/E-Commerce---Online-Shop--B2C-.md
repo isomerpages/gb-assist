@@ -12,14 +12,6 @@ Up to 70% (80% for Retail sector)  for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
-**Recommended courses**
-
-Extend your business online and generate higher sales revenue with Corsiva Lab's scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
-
-<a href='https://www.gobusiness.gov.sg/images/psg/Corsiva_Desensitised_Annex_3_Part_1.pdf'  target='_blank' rel='noopener'>Express E-Commerce Website Development Package</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Corsiva_Desensitised_Annex_3_Part_2.pdf'  target='_blank' rel='noopener'>Customized E-Commerce Website Development Package</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Corsiva_Desensitised_Annex_3_Part_3.pdf'  target='_blank' rel='noopener'>Customized E-Commerce Website with CRM & 2 Marketplace Integration</a><br>
-
 ## Pre-Approved Solutions
 
 <table>
@@ -142,6 +134,10 @@ Extend your business online and generate higher sales revenue with Corsiva Lab's
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3253' target='_blank'>Shopcada Ecommerce</a><br></td>
 <td>Webcada Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3327' target='_blank'>Corsiva Lab E-Commerce Website Development</a><br></td>
+<td>Corsiva Lab Pte Ltd</td>
 </tr>
 </table>
 

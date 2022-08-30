@@ -14,13 +14,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, customer ordering and payment, and sales and analytics reports. Additional modules include procurement and inventory management, central kitchen management and catering capabilities.
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_1.pdf'  target='_blank' rel='noopener'>Package A [Automate] - (QR Ordering Lite + KDS + Analytics)</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_2.pdf'  target='_blank' rel='noopener'>Package C [Complete] - (3x Digital Ordering + KDS + Analytics)</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_3.pdf'  target='_blank' rel='noopener'>Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_4.pdf'  target='_blank' rel='noopener'>Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</a><br>
-<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_5.pdf'  target='_blank' rel='noopener'>Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020001685'  target='_blank' rel='noopener'>1. Customer Experience Innovation (SF-Supervisor)</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505494'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
 <a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020000427'  target='_blank' rel='noopener'>3. Adapt to Change - Digitalization for Hawkers</a><br>
@@ -131,6 +126,10 @@ LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, c
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3292' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
 <td>Getz Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3333' target='_blank'>LFSuite</a><br></td>
+<td>LEVELFIVE SOLUTIONS PTE. LTD.</td>
 </tr>
 </table>
 
