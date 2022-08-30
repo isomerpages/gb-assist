@@ -14,13 +14,11 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 **Recommended courses**
 
-When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+Extend your business online and generate higher sales revenue with Corsiva Lab's scalable E-Commerce solutions. With your own digital platform, you can allow your customers to purchase 24/7, widen your reach with a global audience and even retain and attract customers with unique data insights. Our in-house team leverages on WordPress WooCommerce technology, a platform that allows you to easily manage the E-Commerce Website on a day to day basis without having any programming knowledge.
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Content-Creation-Marketing'  target='_blank' rel='noopener'>1. Content Creation and Marketing</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Social-Commerce-Fundamentals-Synchronous-eLearning'  target='_blank' rel='noopener'>2a. Social Commerce Fundamentals</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Social-Commerce-Fundamentals-Synchronous-eLearning'  target='_blank' rel='noopener'>2b. Social Commerce Fundamentals</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Start-Online-Business-Alibaba-Entrepreneur-Startup-Program-13-2'  target='_blank' rel='noopener'>3a. Start an Online Business (Alibaba Entrepreneur Startup Program 1/3)</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Start-Online-Business-Alibaba-Entrepreneur-Startup-Program-13-2'  target='_blank' rel='noopener'>3b. Start an Online Business (Alibaba Entrepreneur Startup Program 1/3)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Corsiva_Desensitised_Annex_3_Part_1.pdf'  target='_blank' rel='noopener'>Express E-Commerce Website Development Package</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Corsiva_Desensitised_Annex_3_Part_2.pdf'  target='_blank' rel='noopener'>Customized E-Commerce Website Development Package</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Corsiva_Desensitised_Annex_3_Part_3.pdf'  target='_blank' rel='noopener'>Customized E-Commerce Website with CRM & 2 Marketplace Integration</a><br>
 
 ## Pre-Approved Solutions
 
@@ -28,30 +26,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution307' target='_blank'>Corsiva Lab - E-Commerce Website Development Version 1.0 </a><br></td>
-<td>Corsiva Lab Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution467' target='_blank'>Advanced Ecommerce Solution by I Concept Version 1.0 </a><br></td>
-<td>I Concept Innovation Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution709' target='_blank'>PixelCommerce Version 5.2.5</a><br></td>
-<td>PIXEL MECHANICS PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution783' target='_blank'>Shopmatic</a><br></td>
-<td>Shopmatic Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution931' target='_blank'>Shopcada Ecommerce and POS</a><br></td>
-<td>Webcada Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1088' target='_blank'>Ecommerce Web Development</a><br></td>
-<td>Firstcom Solutions Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1243' target='_blank'>Magento and Woo Commerce Solutions for Retail</a><br></td>
@@ -80,10 +54,6 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2014' target='_blank'>Alpha eCommerce Booster Version Premium</a><br></td>
 <td>ALPHABET SIX MARKETING SINGAPORE</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2050' target='_blank'>DODOCA INTEGRATED MOBILE MARKETING & PRODUCTIVITY SOLUTION (DIMMPS) VERSION 3</a><br></td>
-<td>DODOCA INFORMATION TECHNOLOGY (S) PTE LTD</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2092' target='_blank'>eCommerce Masterplan Version 1.0</a><br></td>
@@ -164,6 +134,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3116' target='_blank'>FirstCom Ecommerce Web Development</a><br></td>
 <td>Firstcom Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3122' target='_blank'>E-Commerce MPD Package Version 2.0</a><br></td>
+<td>MediaPlus Digital Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3253' target='_blank'>Shopcada Ecommerce</a><br></td>
+<td>Webcada Pte. Ltd.</td>
 </tr>
 </table>
 

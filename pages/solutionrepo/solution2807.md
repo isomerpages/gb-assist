@@ -9,7 +9,7 @@ permalink: /productivity-solutions-grant/solutionrepo/solution2807
 
 **Description**
 
-Cleverly's Digital Marketing package is created to help businesses create brand awareness in the online world. What makes digital marketing unique and reliable is that it is tailored according to the business's needs and goals. With in depth analysis and proper implementation of SEO, SEM and social media marketing, Cleverly strives to make online marketing a breeze for businesses. Cleverly's aim is to guide companies to grow via online branding and sales.
+[The maximum application quota for this solution is reached currently. You may wish to apply for this solution in the future.] Cleverly's Digital Marketing package is created to help businesses create brand awareness in the online world. What makes digital marketing unique and reliable is that it is tailored according to the business's needs and goals. With in depth analysis and proper implementation of SEO, SEM and social media marketing, Cleverly strives to make online marketing a breeze for businesses. Cleverly's aim is to guide companies to grow via online branding and sales.
 
 ## Solution Packages Option(s)
 
@@ -50,7 +50,7 @@ Cleverly's Digital Marketing package is created to help businesses create brand 
 
 ## Vendor Information
 
- URL: https://cleverly.sg/psg-digital-marketing-sem-seo-sm-grant/<br>Contact 8866 3438<br>Email hello@cleverly.sg
+ Company Name: Cleverly SG Pte. Ltd.<br>URL: https://cleverly.sg/psg-digital-marketing-sem-seo-sm-grant/<br>Contact 8866 3438<br>Email hello@cleverly.sg
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

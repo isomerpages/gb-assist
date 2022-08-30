@@ -53,11 +53,11 @@ Xero is a cloud-based accounting software that connects people with the right nu
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: WWW.SMARTCURSORS.COM <br><br>Contact Hotline: 63365500 <br><br>Contact Email: CONTACT@SMARTCURSORS.COM <br><br>
+ Company Name: SMARTCURSORS PTE. LTD.<br>Web URL: WWW.SMARTCURSORS.COM <br><br>Contact Hotline: 63365500 <br><br>Contact Email: CONTACT@SMARTCURSORS.COM <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

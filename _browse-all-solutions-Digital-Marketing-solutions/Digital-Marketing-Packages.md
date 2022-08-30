@@ -12,6 +12,14 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
+
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505701'  target='_blank' rel='noopener'>1. E-Commerce Campaign Management (ICDL Digital Marketing) </a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504918'  target='_blank' rel='noopener'>2. WSQ - Developing Integrated Digital Marketing Strategy</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020501668'  target='_blank' rel='noopener'>3. Digital Marketing - Search Engine Marketing (Synchronous Learning)</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
@@ -24,7 +32,7 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Corsiva Lab Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2470' target='_blank'>DM Impossible Marketing Digital Marketing Packages</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2470' target='_blank'>DM Digital Marketing - Google SEO | SEM | PPC | SMA | Content Marketing</a><br></td>
 <td>Impossible Marketing Services Pte Ltd</td>
 </tr>
 <tr>
@@ -78,6 +86,14 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3069' target='_blank'>DM Ice Cube Predictable Leads Generation Program</a><br></td>
 <td>Ice Cube Marketing Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3283' target='_blank'>DM W360 Digital Power Pack Version 1.0</a><br></td>
+<td>W360 Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3317' target='_blank'>DM TAM Digital Marketing Packages</a><br></td>
+<td>The Assets Management Pte Ltd</td>
 </tr>
 </table>
 

@@ -60,11 +60,11 @@ The unique thing about iDee InfoCom as a solution provider is our ability to und
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: WWW.IDEE.SG <br><br>Contact Hotline: 62936461 <br><br>Contact Email: INFO@IDEE.SG <br><br>
+ Company Name: IDEE INFOCOM PTE LTD<br>Web URL: WWW.IDEE.SG <br><br>Contact Hotline: 62936461 <br><br>Contact Email: INFO@IDEE.SG <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

@@ -16,12 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digitalisation-Transformation-Transportation-Management'  target='_blank' rel='noopener'>1. Digitalisation and Transformation of Transportation Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Perform-Delivery-Operations-2'  target='_blank' rel='noopener'>2. WSQ Perform Delivery Operations</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Transport-Operations-2'  target='_blank' rel='noopener'>3. Transport Operations</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Digitalisation-Transformation-Transportation-Management'  target='_blank' rel='noopener'>1. Digitalisation and Transformation of Transportation Management</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/WSQ-Perform-Delivery-Operations-2'  target='_blank' rel='noopener'>2. WSQ Perform Delivery Operations</a><br>
-<a href='https://courses.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/Transport-Operations-2'  target='_blank' rel='noopener'>3. Transport Operations</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020503728'  target='_blank' rel='noopener'>1. Apply Workplace Safety and Health in Logistics and Transportation</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020513528'  target='_blank' rel='noopener'>2. Digitalisation and Transformation of Transportation Management </a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504063'  target='_blank' rel='noopener'>3. Transport Operations</a><br>
 
 ## Pre-Approved Solutions
 
@@ -45,6 +42,14 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2617' target='_blank'>School Bus Management System Version SBMS.V2</a><br></td>
 <td>SSTA Technology Development Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3186' target='_blank'>Advanced Human Hazard Avoidance & Alert Systems Version 01</a><br></td>
+<td>Solaris CES Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3226' target='_blank'>Proximity Sensor Safety Solution Version 4</a><br></td>
+<td>NettBox Pte Ltd</td>
 </tr>
 </table>
 

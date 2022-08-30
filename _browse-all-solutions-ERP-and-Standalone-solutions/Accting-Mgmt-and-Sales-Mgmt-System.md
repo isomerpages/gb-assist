@@ -12,28 +12,22 @@ Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+ABSS Premier, formerly known as MYOB, includes Accounting features to help SMEs process sales and purchases, track receivable, payables GL, inventory, banking & GST, and reporting to help businesses perform daily operations and access accurate reporting with ease. It also supports multi-currencies, project & departmental costing, multi-warehouses.
+
+<a href='https://www.gobusiness.gov.sg/images/psg/Apscom_Desensitised_Annex_3__Part_4.pdf'  target='_blank' rel='noopener'>Package D (3-Users) Full Package with Remote Access</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Apscom_Desensitised_Annex_3__Part_5.pdf'  target='_blank' rel='noopener'>Package E (5-Users) Full Package with Remote Access</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019502253'  target='_blank' rel='noopener'>1. Apply Knowledge of Accounting-Related Concepts</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021003748'  target='_blank' rel='noopener'>2. Mathematics for Data Analytics</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2016500598'  target='_blank' rel='noopener'>3. Develop and Establish Financial Budget and Plans</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
 <tr>
 <th style='width: auto;'><b>Solutions Name</b></th>
 <th style='width: 30%;'><b>Vendor</b></th>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution59' target='_blank'>Intuit Quickbooks Online Full Transformation Package</a><br></td>
-<td>Acc Pro (Singapore) Pte. Ltd.</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1009' target='_blank'>Quickbooks Online - Aba QuickBooks Online Accounting Solution</a><br></td>
-<td>Abundant Accounting Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1011' target='_blank'>Quickbooks Online - QuickBooks Online Accounting Solution </a><br></td>
-<td>Abundant Accounting Pte Ltd </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1074' target='_blank'>AGERE - Xero Cloud Accounting Software </a><br></td>
-<td>Agere Accounting & Advisory Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1157' target='_blank'>Xero Cloud Accounting Software</a><br></td>
@@ -102,10 +96,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2236' target='_blank'>QuickBooks Online</a><br></td>
 <td>Tisch Global Private Limited</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2245' target='_blank'>Xero Cloud Accounting Version 10.5</a><br></td>
-<td>Advante Consulting Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2312' target='_blank'>XERO</a><br></td>
@@ -200,10 +190,6 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>EBOS SG PTE. LTD.</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2861' target='_blank'>Synergix E1 Sales & Accounting</a><br></td>
-<td>Synergix Technologies Pte Ltd</td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2943' target='_blank'>Counto DIY Version 1</a><br></td>
 <td>Xion.AI Pte Ltd</td>
 </tr>
@@ -222,6 +208,54 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3117' target='_blank'>Moneyworks Version 9</a><br></td>
 <td>Ostendo Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3125' target='_blank'>AutoCount Accounting</a><br></td>
+<td>Autocount (S) Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3148' target='_blank'>Intuit Quickbooks Online Full Transformation Packages</a><br></td>
+<td>Acc Pro (Singapore) Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3164' target='_blank'>ABSS(MYOB) Premier</a><br></td>
+<td>E-Click Solutions</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3181' target='_blank'>CFOsg XERO Cloud Accounting</a><br></td>
+<td>Cloud Accounting & Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3216' target='_blank'>AutoCount Accounting Software Version 2.0</a><br></td>
+<td>Ingenious Business Software Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3255' target='_blank'>ABSS Premier Software V23</a><br></td>
+<td>361 Degree Consultancy Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3260' target='_blank'>Everyday Corporate Xero Cloud Accounting Software</a><br></td>
+<td>Everyday Corporate Pte. Ltd.</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3269' target='_blank'>ASURIX</a><br></td>
+<td>NET SOLUTIONS PTE LTD</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3273' target='_blank'>Psoft Accounting Systems Version 7</a><br></td>
+<td>Psoft Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3294' target='_blank'>Synergix E1 Sales & Accounting</a><br></td>
+<td>Synergix Technologies Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3307' target='_blank'>ABSS Premier - Accounting and Sales Management System Version 23</a><br></td>
+<td>01 Business Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3322' target='_blank'>ABSS Premier Version 23</a><br></td>
+<td>Apscom Solutions Pte Ltd</td>
 </tr>
 </table>
 

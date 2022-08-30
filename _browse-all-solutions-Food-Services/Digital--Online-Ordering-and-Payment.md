@@ -12,6 +12,19 @@ Up to 80% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
+**Recommended courses**
+
+LFSuite is a cloud-hybrid POS that includes digital ordering, waiter ordering, customer ordering and payment, and sales and analytics reports. Additional modules include procurement and inventory management, central kitchen management and catering capabilities.
+
+<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_1.pdf'  target='_blank' rel='noopener'>Package A [Automate] - (QR Ordering Lite + KDS + Analytics)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_2.pdf'  target='_blank' rel='noopener'>Package C [Complete] - (3x Digital Ordering + KDS + Analytics)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_3.pdf'  target='_blank' rel='noopener'>Package E [Elaborate] - (3x Digital Ordering + KDS + QR Ordering + Analytics)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_4.pdf'  target='_blank' rel='noopener'>Package I [Inventory] - (Inventory + KDS + QR Ordering + Analytics)</a><br>
+<a href='https://www.gobusiness.gov.sg/images/psg/Levelfive_Desensitised_Annex_3_Part_5.pdf'  target='_blank' rel='noopener'>Package S [Self-Order] - (Kiosk + KDS + QR Ordering + Analytics)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020001685'  target='_blank' rel='noopener'>1. Customer Experience Innovation (SF-Supervisor)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505494'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020000427'  target='_blank' rel='noopener'>3. Adapt to Change - Digitalization for Hawkers</a><br>
+
 ## Pre-Approved Solutions
 
 <table>
@@ -20,24 +33,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution976' target='_blank'>Kiosk  & BYOD</a><br></td>
-<td>Aigens Technology (Singapore) Pte. Ltd. </td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution981' target='_blank'>AZ DIGITAL ORDERING SOLUTION Version 1.0</a><br></td>
-<td>AZ DIGITAL PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution991' target='_blank'>iCHEF Integrated Digital Ordering POS Version V 2.0</a><br></td>
-<td>iCHEF SG PTE LTD</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution996' target='_blank'>Dining Butler system </a><br></td>
-<td>Singapore Dining Butler Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1139' target='_blank'>LFSuite Version 6.0</a><br></td>
-<td>LEVELFIVE SOLUTIONS PTE LTD</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1193' target='_blank'>SmartWeb V3 Version V3</a><br></td>
+<td>TabSquare Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1299' target='_blank'>ACE e-commerce solution</a><br></td>
@@ -48,6 +45,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>EISOL Pte Ltd</td>
 </tr>
 <tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1564' target='_blank'>iMakan</a><br></td>
+<td>Megasafe Technology Pte Ltd</td>
+</tr>
+<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1795' target='_blank'>Revel Systems Version 2</a><br></td>
 <td>Revel Systems Holdings Pte Ltd</td>
 </tr>
@@ -56,8 +57,8 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <td>Yumstone Esolutions Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1958' target='_blank'>FoodZaps Version 4.0</a><br></td>
-<td>FoodZaps Technology Pte Ltd</td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2030' target='_blank'>WarelyPOS Version 1.1</a><br></td>
+<td>Plus 65 Marketing Pte Ltd</td>
 </tr>
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution2063' target='_blank'>Revel Systems</a><br></td>
@@ -114,6 +115,22 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3104' target='_blank'>FirstCom Online Food Ordering & Payment System</a><br></td>
 <td>Firstcom Solutions Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3134' target='_blank'>Qashier Digital Ordering Version 2022.01</a><br></td>
+<td>Qashier Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3231' target='_blank'>Ellie Integrated System Version 2</a><br></td>
+<td>Supply Ellie Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3264' target='_blank'>FoodZaps</a><br></td>
+<td>FoodZaps Technology Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3292' target='_blank'>Getz F&B Omni Channel Solution Version 2</a><br></td>
+<td>Getz Group Pte Ltd</td>
 </tr>
 </table>
 

@@ -60,11 +60,11 @@ Xero is an online accounting software for small businesses that lets you share a
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://361dc.com/xero-cloud-accounting/ <br><br>Contact Hotline: 65157906 <br><br>Contact Email: enquiry@361dc.com <br><br>
+ Company Name: 361 Degree Consultancy Pte Ltd<br>Web URL: https://361dc.com/xero-cloud-accounting/ <br><br>Contact Hotline: 65157906 <br><br>Contact Email: enquiry@361dc.com <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

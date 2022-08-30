@@ -46,11 +46,11 @@ Eber Smart Member Solution is a smart member system that comes with comprehensiv
 
 ## Mode and Schedule of Payment
 
- - Subscription or Leasing
+ - Subscription / Leasing
 
 ## Vendor Information
 
- Web URL: https://eber.co <br><br>Contact Hotline: 31590888 <br><br>Contact Email: hello@eber.co <br><br>
+ Company Name: Eber Pte Ltd<br>Web URL: https://eber.co <br><br>Contact Hotline: 31590888 <br><br>Contact Email: hello@eber.co <br><br>
 
 Interested companies can get a quotation from the pre-approved vendor, before applying for the PSG through the <a href='https://www.businessgrants.gov.sg/' target='_blank' rel='noopener'>Business Grant Portal (BGP)</a>.
 

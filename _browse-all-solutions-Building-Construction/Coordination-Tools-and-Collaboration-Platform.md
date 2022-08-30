@@ -20,14 +20,6 @@ This solution is supported by Building and Construction Authority (BCA).
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1024' target='_blank'>Autodesk BIM 360</a><br></td>
-<td>BIMAGE Consulting Pte Ltd</td>
-</tr>
-<tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1584' target='_blank'>INNOCOM - BIM COLLABORATE PRO ( FORMERLY BIM 360 DESIGN )</a><br></td>
-<td>INNOCOM TECHNOLOGIES PTE LTD </td>
-</tr>
-<tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution1886' target='_blank'>GS BIM collaboration Platform Version 1</a><br></td>
 <td>Graphisoft Asia Ltd</td>
 </tr>

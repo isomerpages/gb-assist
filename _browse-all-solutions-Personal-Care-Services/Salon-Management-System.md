@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Personal-Care-Services/Salon-Management-System
 
 **Support Level and Conditions**
 
-Up to 70 for SMEs, N.A. for non-SMEs
+Up to 70% for SMEs, N.A. for non-SMEs
 
 This solution is supported by Enterprise Singapore (EnterpriseSG).
 
@@ -34,6 +34,10 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 <tr>
 <td><a href='/productivity-solutions-grant/solutionrepo/solution3039' target='_blank'>RavenPOS Personal Wellness Management System Version 12</a><br></td>
 <td>Nspire Group Pte Ltd</td>
+</tr>
+<tr>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3250' target='_blank'>Qashier Smart POS for Beauty Version 2022.01</a><br></td>
+<td>Qashier Pte Ltd</td>
 </tr>
 </table>
 
