@@ -23,7 +23,7 @@ Verify is a trusted resource for businesses, and is currently being used at [Sin
 
 <p>
 <div class="bp-youtube">
-  <iframe title="Singpass API Explainers Series on Verify" src="https://youtu.be/MCVzIu7bacM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+  <iframe title="Singpass API Explainers Series on Verify" src="https://youtu.be/MCVzIu7bacM" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
 </div>
 </p>
 
