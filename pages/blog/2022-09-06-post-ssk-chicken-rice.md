@@ -77,7 +77,7 @@ Learn more about Sin Swee Kee Chicken Rice and its business journey from Eliss i
 
 <p>
 <div class="bp-youtube">
-  <iframe title="Let’s Go Lah! - Sin Swee Kee Chicken Rice" src="https://youtu.be/ijWKCzO6dIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+  <iframe title="Let’s Go Lah! - Sin Swee Kee Chicken Rice" src="https://www.youtube.com/embed/ijWKCzO6dIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
 </div>
 </p>
 
