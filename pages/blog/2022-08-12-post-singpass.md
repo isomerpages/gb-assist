@@ -22,7 +22,9 @@ With in-person activities and visits ramping up again, you can use [Verify](http
 Verify is a trusted resource for businesses, and is currently being used at [SingHealth polyclinics](https://polyclinic.singhealth.com.sg/){:target="_blank"}{:rel="noopener"} for registering new patients, as well as for donor tax exemption registrations on the [GivePlease](https://www.givepls.com/){:target="_blank"}{:rel="noopener"} platform. It can be especially handy for real estate companies, telecommunications providers and financial institutions, or even services or businesses that require age verification.
 
 <p>
-  <iframe title="Singpass API Explainers Series on Verify" src="https://www.youtube.com/embed/MCVzIu7bacM" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+<div class="bp-youtube">
+  <iframe title="Singpass API Explainers Series on Verify" src="https://www.youtube.com/embed/MCVzIu7bacM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+</div>
 </p>
 
 ### 2. Speed up your eKYC with less form filling and higher data quality
@@ -51,7 +53,7 @@ Login also saves your business time and money otherwise needed to maintain and o
 
 <p>
 <div class="bp-youtube">
-  <iframe title="Singpass Login – Safe and seamless access to digital services via Singpass" src="https://www.youtube.com/embed/L8erxLUh9dQ" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+  <iframe title="Singpass Login – Safe and seamless access to digital services via Singpass" src="https://www.youtube.com/embed/L8erxLUh9dQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
 </div>
 </p>
 
@@ -67,7 +69,7 @@ Identiface can also be layered upon your business’s existing authentication pr
 
 <p>
 <div class="bp-youtube">
-  <iframe title=" Singpass Identiface – Secure biometrics authentication for higher identity assurance" src="https://www.youtube.com/embed/5naDqp_pzy8" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+  <iframe title=" Singpass Identiface – Secure biometrics authentication for higher identity assurance" src="https://www.youtube.com/embed/5naDqp_pzy8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
 </div>
 </p>
 
