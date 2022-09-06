@@ -50,7 +50,7 @@ Another challenge is the staff’s unfamiliarity with tech, which made it diffic
 Finally, the eatery was not on any social media platforms prior to COVID-19. This meant that they needed to find a way to stand out and attract customers amidst the stiff competition in the digital space. This is where Eliss, who is responsible for marketing the business, had to get creative with their offerings and digital content. 
 
 ![Sing Swee Kee Chicken Rice Instagram](/images/blog/content/SSK 3.png)
-<figcaption>Sing Swee Kee Chicken Rice transited from a business with no online presence to one with thousands of followers on Instagram, and with beautifully styled content that promotes the restaurant’s unique product offerings (Source: [Sing Swee Kee’s Instagram](https://www.instagram.com/singsweekee.sg/){:target="_blank"}{:rel="noopener"})</figcaption>
+<figcaption>Sing Swee Kee Chicken Rice transited from a business with no online presence to one with thousands of followers on Instagram, and with beautifully styled content that promotes the restaurant’s unique product offerings (Source: <a href="https://www.instagram.com/singsweekee.sg/" target="_blank" rel="noopener">Sing Swee Kee’s Instagram</a></figcaption>
 
 Beyond just chicken rice, Eliss started to introduce other products that would introduce a wider selection and draw more customers. One example is the chicken collagen broth. “That was quite a hit,” Eliss says. It also helped that the broth was much easier to deliver than ready meals. 
 
