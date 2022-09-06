@@ -1,7 +1,7 @@
 ---
 layout: gobusiness-blog-post
 title: Five ways to transform your business with Singpass
-permalink: /gobusiness-blog/greatresignation
+permalink: /gobusiness-blog/singpass
 tags: Business Tips & Tricks
 pillar: Business Tips & Tricks
 crumbs: business-tips-and-tricks
@@ -23,7 +23,7 @@ Verify is a trusted resource for businesses, and is currently being used at [Sin
 
 <p>
 <div class="bp-youtube">
-  <iframe title="Singpass API Explainers Series on Verify" src="https://youtu.be/MCVzIu7bacM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+  <iframe title="Singpass API Explainers Series on Verify" src="https://www.youtube.com/embed/MCVzIu7bacM" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
@@ -41,7 +41,7 @@ Applying for loans? Use Myinfo business to open a corporate utility account or e
 
 <p>
 <div class="bp-youtube">
-  <iframe title="Singpass API Explainers Series on MyInfo" src="https://youtu.be/NGj3XXU-HgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe title="Singpass Myinfo – eKYC and form-filling made easier" src="https://www.youtube.com/embed/NGj3XXU-HgE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
@@ -53,7 +53,7 @@ Login also saves your business time and money otherwise needed to maintain and o
 
 <p>
 <div class="bp-youtube">
-  <iframe title="Singpass API Explainers Series on Login" src="https://youtu.be/L8erxLUh9dQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe title="Singpass Login – Safe and seamless access to digital services via Singpass" src="https://www.youtube.com/embed/L8erxLUh9dQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
@@ -69,7 +69,7 @@ Identiface can also be layered upon your business’s existing authentication pr
 
 <p>
 <div class="bp-youtube">
-  <iframe title="Singpass API Explainers Series on Identiface" src="https://youtu.be/5naDqp_pzy8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
+  <iframe title=" Singpass Identiface – Secure biometrics authentication for higher identity assurance" src="https://www.youtube.com/embed/5naDqp_pzy8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
 </div>
 </p>
 
@@ -93,6 +93,7 @@ Simply follow the instructions below to enjoy this feature.
 
 Keen to find out more? Check out the [full list of Singpass APIs](https://api.singpass.gov.sg/){:target="_blank"}{:rel="noopener"}, and make digital transactions easier for your business! 
 
+testing
 
 <p>
 <div class="bp-youtube">
@@ -100,5 +101,5 @@ Keen to find out more? Check out the [full list of Singpass APIs](https://api.si
 </div>
 </p>
 
-###### This article is accurate as at 12 Aug 2022
+###### This article is accurate as at 10 Sep 2022
 
