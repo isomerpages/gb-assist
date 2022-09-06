@@ -93,13 +93,5 @@ Simply follow the instructions below to enjoy this feature.
 
 Keen to find out more? Check out the [full list of Singpass APIs](https://api.singpass.gov.sg/){:target="_blank"}{:rel="noopener"}, and make digital transactions easier for your business! 
 
-testing
-
-<p>
-<div class="bp-youtube">
-  <iframe title="Testing Video" src="https://www.youtube.com/embed/xJ5D8FuUjaw" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen>  </iframe>
-</div>
-</p>
-
 ###### This article is accurate as at 10 Sep 2022
 
