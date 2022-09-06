@@ -39,7 +39,7 @@ Applying for loans? Use Myinfo business to open a corporate utility account or e
 
 <p>
 <div class="bp-youtube">
-  <iframe title="Singpass Myinfo – eKYC and form-filling made easier" src="https://www.youtube.com/embed/NGj3XXU-HgE" width="560" height="315" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
+  <iframe title="Singpass Myinfo – eKYC and form-filling made easier" src="https://www.youtube.com/embed/NGj3XXU-HgE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>  </iframe>
 </div>
 </p>
 
