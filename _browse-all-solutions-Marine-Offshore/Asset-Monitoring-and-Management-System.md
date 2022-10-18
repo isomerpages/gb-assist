@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021004789'  target='_blank' rel='noopener'>1. Asset Transformation Strategy</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019501400'  target='_blank' rel='noopener'>2. Apply Geometric Dimensioning & Tolerancing at Intermediate Level</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2018502883'  target='_blank' rel='noopener'>3. Effective Project Documentation</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021004789'  target='_blank' rel='noopener'>1. Asset Transformation Strategy</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019501400'  target='_blank' rel='noopener'>2. Apply Geometric Dimensioning & Tolerancing at Intermediate Level</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2018502883'  target='_blank' rel='noopener'>3. Effective Project Documentation</a><br>
 
 ## Pre-Approved Solutions
 
@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2729' target='_blank'>InfoMaster ERP Software - Asset Monitoring and Management</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2740' target='_blank'>InfoMaster ERP Software - Asset Monitoring and Management</a><br></td>
 <td>Integrated Software Engineering Pte Ltd</td>
 </tr>
 </table>

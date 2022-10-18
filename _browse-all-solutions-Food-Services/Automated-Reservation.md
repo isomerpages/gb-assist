@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020504194'  target='_blank' rel='noopener'>1. Digital Transformation - Emerging Technology Synthesis</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505494'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020501584'  target='_blank' rel='noopener'>3. Practical Approach to Cloud Computing</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020504194'  target='_blank' rel='noopener'>1. Digital Transformation - Emerging Technology Synthesis</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020505494'  target='_blank' rel='noopener'>2. Digital Customer Experience Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020501584'  target='_blank' rel='noopener'>3. Practical Approach to Cloud Computing</a><br>
 
 ## Pre-Approved Solutions
 
@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1558' target='_blank'>ChopeBook</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1581' target='_blank'>ChopeBook</a><br></td>
 <td>The Chope Group Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3170' target='_blank'>Weeloy Reservation System & Table Management Suite</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3171' target='_blank'>Weeloy Reservation System & Table Management Suite</a><br></td>
 <td>Weeloy Pte Ltd</td>
 </tr>
 </table>

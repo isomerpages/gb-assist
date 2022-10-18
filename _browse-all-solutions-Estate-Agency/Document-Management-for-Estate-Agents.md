@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021004604'  target='_blank' rel='noopener'>1. Knowledge Management</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2015500446'  target='_blank' rel='noopener'>2. Implement Good Documentation Practices</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020505798'  target='_blank' rel='noopener'>3. WSQ Effective Digital Asset and File Management - Level 2</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021004604'  target='_blank' rel='noopener'>1. Knowledge Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2015500446'  target='_blank' rel='noopener'>2. Implement Good Documentation Practices</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020505798'  target='_blank' rel='noopener'>3. WSQ Effective Digital Asset and File Management - Level 2</a><br>
 
 ## Pre-Approved Solutions
 
@@ -28,11 +28,11 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1818' target='_blank'>Redoc Version 1.0</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution1841' target='_blank'>Redoc Version 1.0</a><br></td>
 <td>Real Estate Doc Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2189' target='_blank'>RealtyPromote Version 3.2</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2211' target='_blank'>RealtyPromote Version 3.2</a><br></td>
 <td>CommercePromote Pte Ltd</td>
 </tr>
 </table>

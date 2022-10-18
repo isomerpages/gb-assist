@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019503651'  target='_blank' rel='noopener'>1. Warehouse Performance Measurement</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020513668'  target='_blank' rel='noopener'>2. Perform Inventory and Stock Control Operations</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2020513122'  target='_blank' rel='noopener'>3. Perform Warehouse Management</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019503651'  target='_blank' rel='noopener'>1. Warehouse Performance Measurement</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020513668'  target='_blank' rel='noopener'>2. Perform Inventory and Stock Control Operations</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2020513122'  target='_blank' rel='noopener'>3. Perform Warehouse Management</a><br>
 
 ## Pre-Approved Solutions
 
@@ -28,15 +28,15 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2350' target='_blank'>Simplr Warehouse Management Version 6</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2367' target='_blank'>Simplr Warehouse Management Version 6</a><br></td>
 <td>SIMPLR SOLUTIONS PTE LTD</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution2693' target='_blank'>Gurusoft Logistics Management System Version 11</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2704' target='_blank'>Gurusoft Logistics Management System Version 11</a><br></td>
 <td>Gurusoft Pte Ltd</td>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution3169' target='_blank'>iLOGON (iWMS)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution3170' target='_blank'>iLOGON (iWMS)</a><br></td>
 <td>KEYfields Pte Ltd</td>
 </tr>
 </table>

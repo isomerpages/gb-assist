@@ -16,9 +16,9 @@ This solution is supported by Enterprise Singapore (EnterpriseSG).
 
 When adopting the solutions under this sub-category, you might wish to think about how to invest in developing the right skillsets to complement the new solution for better performance. Here are three SSG-approved courses to start with:
 
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2021005398'  target='_blank' rel='noopener'>1. Manpower Planning (Monitor and Review Security Operations)</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2015502181'  target='_blank' rel='noopener'>2. Higher Nitec in Security System Integration</a><br>
-<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail/?CoursesReferenceNumber=TGS-2019504429'  target='_blank' rel='noopener'>3. Access Control Management (Plan and Implement Security Systems)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2021005398'  target='_blank' rel='noopener'>1. Manpower Planning (Monitor and Review Security Operations)</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2015502181'  target='_blank' rel='noopener'>2. Higher Nitec in Security System Integration</a><br>
+<a href='https://sfec.enterprisejobskills.gov.sg/Course_Internet/CourseDetail.aspx?CoursesReferenceNumber=TGS-2019504429'  target='_blank' rel='noopener'>3. Access Control Management (Plan and Implement Security Systems)</a><br>
 
 ## Pre-Approved Solutions
 
@@ -28,7 +28,7 @@ When adopting the solutions under this sub-category, you might wish to think abo
 <th style='width: 30%;'><b>Vendor</b></th>
 </tr>
 <tr>
-<td><a href='/productivity-solutions-grant/solutionrepo/solution1987' target='_blank'>I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS)</a><br></td>
+<td><a href='/productivity-solutions-grant/solutionrepo/solution2010' target='_blank'>I-Man Facility Sprinter (IFS) Integrated Guarding Services & Solution (IGSS)</a><br></td>
 <td>Concorde Security Pte Ltd</td>
 </tr>
 </table>
