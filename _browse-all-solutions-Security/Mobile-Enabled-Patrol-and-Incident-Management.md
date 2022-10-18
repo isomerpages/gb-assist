@@ -8,7 +8,7 @@ permalink: /browse-all-solutions-Security/Mobile-Enabled-Patrol-and-Incident-Man
 
 **Description**
 
-Only 1
+Solution is only supported one-time per SME
 
 **Support Level and Conditions**
 
