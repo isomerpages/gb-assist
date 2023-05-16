@@ -1,0 +1,10 @@
+collections:
+  browse-all-solutions-Food-Services:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - Digital--Online-Ordering-and-Payment.md
+      - Automated-Reservation.md
+      - Queue-Management.md
+      - B2B-Marketplace-E-Procurement-System.md
+      - General-Food-Services-Equipment.md

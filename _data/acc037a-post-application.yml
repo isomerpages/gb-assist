@@ -1,0 +1,12 @@
+accordion:
+  - title: What does it mean if my application is overdue?
+    content: |
+      This means that your application has expired and you will need to start a new application again.
+
+  - title: I've successfully made payment, and the status of my application is now "Submitted". What does that mean?
+    content: |
+      This means that your application has been received by the relevant government agency, and it will start processing soon. You will receive updates on your application via email.
+
+  - title: I've just submitted an application. How do I keep track of it?
+    content: |
+      You can log in to the GoBusiness Dashboard and keep track of your application status in the [My Submission](https://dashboard.gobusiness.gov.sg/mytasks?src=faq_licence_postapp) section.

@@ -1,0 +1,9 @@
+collections:
+  browse-all-solutions-Logistics:
+    output: true
+    order:
+      - back-to-all-psg-solutions.md
+      - E-Freight-Management.md
+      - Transport-Management.md
+      - Warehouse-Management.md
+      - General-Logistics-Equipment.md

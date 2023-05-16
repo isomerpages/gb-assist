@@ -1,0 +1,224 @@
+- accordion:
+  letter: a
+  data:
+    - title: Who does the requirements apply to?
+      content: |
+        All businesses allowed to operate are required to have implemented Safe Management Measures.
+
+    - title: Are the requirements mandatory, and what enforcement actions will MOM take against businesses that do not implement Safe Management Measures?
+      content: |
+        MOM and sector agencies will take calibrated enforcement actions based on the areas of non-compliance found. Failure to comply with Safe Management Measures is punishable with a fine of up to $10,000 or imprisonment of up to 6 months or both. Repeated non-compliance is punishable with a fine of up to $20,000 or imprisonment of up to 12 months, or both.
+
+    - title: Who is empowered to enforce the requirements and how can I verify the identity of enforcement officers inspecting my workplace?
+      content: |
+        Enforcement action may be taken by any inspector who is appointed under section 7 of the Workplace Safety and Health Act. You may request for the inspector to show his or her certificate of appointment. 
+
+    - title: Where can I find more guidance on implementing Safe Management Measures in the workplace?
+      content: |
+        You may refer to [Annex B of the Safe Management Measures requirements](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"}{:rel="noopener"}, Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities, for an overview of the requirements that must be fulfilled prior to resuming business activities at the workplace.
+
+        Unionised companies are also encouraged to engage their unions on such arrangements.
+
+    - title: Is it compulsory to fill in and maintain the checklist provided in Annex B?
+      content: |
+        [Annex B - Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"}{:rel="noopener"} sets out the requirements needed for employers to resume operations. Employers are not required to fill out the checklist, but must ensure that the documents listed in the checklist (or equivalent) are available upon request by officials.
+
+        When inspected by any government agency, businesses must be prepared to show that they have fulfilled the requirements listed.
+
+    - title: Are there specific Safe Management Measures for each sector (e.g. F&B, retail)?
+      content: |
+        The requirements on Safe Management Measures at the workplace released by MOM is for general workplace settings. For specific workplace settings or sector requirements, please refer to [guidelines issued by the respective sector agencies](https://www.gobusiness.gov.sg/safemanagement/sector).
+
+    - title: We have received two advisories, one from MOM and another from the sector agency. Which one do we follow?
+      content: |
+        The advisory on Safe Management Measures and the accompanying checklist issued by MOM are for general workplace settings. Where there may be sector-specific considerations, companies should also refer to the sector-specific advisories issued, over and above MOM's advisory.
+
+    - title: My employees do not have a specific workplace as they are deployed to client's site to provide goods and services. How can I implement Safe Management Measures?
+      content: |
+        All employers must implement Safe Management Measures at their workplaces for all employees and contractors. 
+
+        Companies that have employees deployed to other sites should ensure that their employees comply with the Safe Management Measures put in place at these sites. In fact, some of the Safe Management Measures can be implemented by employers regardless of where employees are deployed, such as health monitoring.
+
+    - title: What should I do if my employer refuses to implement Safe Management Measures in the workplace?
+      content: |
+        If you notice any breach of Safe Management Measures or poor practices at the workplace, you can [report it to MOM](https://www.mom.gov.sg/report-WSH-issues){:target="_blank"}{:rel="noopener"}.
+
+        MOM will treat each report seriously and will keep your identity strictly confidential.
+
+    - title: Can my employees continue to dine in staff canteens? 
+      content: |
+        Yes. As this is a mask-off setting, safe distancing is encouraged. 
+
+- accordion:
+  letter: b
+  data:
+    - title: Should my employees be masked at all times? What if my worker has medical condition?
+      content: |
+        Every individual should put on a mask at all times when indoors, except when:
+
+        a) not interacting in person with another individual present in that area and employees are not in customer-facing areas where interaction is likely to happen; 
+        
+        b) eating, drinking or consuming medication; 
+        
+        c) engaging in strenuous physical exercise; or
+        
+        d) other equipment must be worn during the course of work (e.g. motorcycle helmets). 
+        
+        However, if the individual has severe medical conditions, he may wear a face shield in lieu of a mask.
+        
+        Mask wearing in outdoor settings, e.g. worksites that are not sheltered is optional.
+
+    - title: Are there any available resources to help my business review work processes to enable employees to work-from-home?
+      content: |
+        Yes, the Infocomm Media Development Authority (IMDA) provides a list of [digital solutions and resources](https://www.imda.gov.sg/bizgodigital){:target="_blank"}{:rel="noopener"} that aims to make business continuity essential more accessible to businesses.
+
+        Eligible businesses can also apply for the [Productivity Solutions Grant (PSG)](https://www.businessgrants.gov.sg/){:target="_blank"}{:rel="noopener"} to support business transformation and put in place flexible work arrangements to minimise spread of COVID-19 (e.g. work-from-home, staggered hours).
+
+    - title: Are employees and visitors required to wear a mask at all times at the workplace?
+      content: |
+        For general office workplaces that are indoors, employers must ensure that employees and visitors wear a mask at all times at the workplace, except when:
+        
+        a) not interacting in person with another individual present in that area and employees are not in customer-facing areas where interaction is likely to happen; 
+        
+        b) eating, drinking or consuming medication; 
+        
+        c) engaging in strenuous physical exercise; or
+        
+        d) other equipment must be worn during the course of work (e.g. motorcycle helmets). 
+        
+        Notwithstanding the above, employees are encouraged to exercise social responsibility and maintain an appropriate safe distance from others when unmasking.
+        
+        Mask-wearing in outdoor setting, e.g. worksites that are not sheltered is optional. 
+
+    - title: What are considered physical interactions settings that still require individuals to put on masks?
+      content: |
+        Settings with physical interactions may include meetings where participants are engaged in conversations. 
+
+    - title: Can employees seated apart at meetings be unmasked?
+      content: |
+        No. Employees are likely to be engaged in conversations during meetings. Therefore, they are likely to be interacting in person with another individual, even though they may be seated apart. Hence, they are required to wear mask.
+
+    - title: Do my employees have to wear a mask when they are not attending to customers in customer-facing areas in the workplace?
+      content: |
+        Yes. Employees have to wear a mask in customer-facing areas as these are areas where interaction is likely to happen. Beyond the operating hours when customers are not expected to enter the area, mask wearing can be made optional. 
+      
+        Some examples of customer-facing areas include reception area, showrooms, building lobby, etc. 
+
+    - title: Can employers impose mask-wearing rules beyond prevailing requirements in their workplaces?
+      content: |
+        Yes. Employers can impose mask-wearing rules above and beyond existing requirements with consideration to workplace safety and health and operational needs.
+
+        Conversely, employees may also choose to continue wearing masks if they prefer or feel uncomfortable being unmasked while working indoors.
+
+    - title: What forms of personal protective equipment should my employees use? Can employees wear other forms of PPEs (e.g. face shields) instead of surgical masks?
+      content: |
+        A mask that closely and completely covers the nose and mouth (i.e. without leaving a gap between the mask and the face) should be worn in indoor settings while at the workplace, except when:
+
+        a) not interacting in person with another individual present in that area and employees are not in customer-facing areas where interaction is likely to happen; 
+        
+        b) eating, drinking or consuming medication; 
+        
+        c) engaging in strenuous physical exercise; or
+        
+        d) other equipment must be worn during the course of work (e.g. motorcycle helmets). 
+        
+        The following specific groups of persons may use a face shield, in place of masks:
+        
+        1. Children 12 years and below, who may have difficulty wearing and keeping face masks on for a prolonged period of time; 
+        
+        2. Persons who have health conditions that may result in breathing or other medical difficulties when a mask is worn for a prolonged period of time; and
+        
+        3. Persons who are speaking to a group in a classroom or lecture-style setting, where they largely remain at the spot from which they are speaking, and are able to maintain a safe distance away from any other persons. 
+
+        A face shield has to be must be worn properly so that it covers the entire face, from the forehead to below the chin, wrapping around the sides of the face.
+        
+        Plastic spit guards predominantly cover the mouth and are not considered as masks. Face coverings such as neck gaiters, bandannas, scarves or handkerchiefs are not considered as masks.
+        
+        If the risk of encountering an infectious person is high (e.g. personnel has sustained contact with many other individuals throughout the course of their work), then surgical masks and other relevant PPEs should be used instead.
+
+    - title: Can my employees use employer-provided recreational facilities which are not located at the workplace?
+      content: |
+        Access to standalone recreational facilities which are located away from employees' workplaces will depend on the re-opening plans for relevant permitted enterprises. These facilities will also be subject to stricter safe management measures. When visiting such facilities, employees will still have to comply with the relevant safe management measures in place for that setting.
+    
+    - title: Can I be unmasked while giving a speech during a work-related event?
+      content: |
+        Yes. You must deliver the speech from a fixed position that is at least 1 metre away from the audience.
+    
+    - title: What settings are considered indoors?
+      content: |
+        All buildings and places with clearly defined entrances/exits are considered indoor places (e.g. office building). Areas with open access are generally considered outdoors (e.g. office courtyard). 
+
+        Mask-wearing is required in indoor settings, and optional in outdoor settings.
+    
+    - title: Can I organise social gatherings at the workplace?
+      content: |
+        Yes.
+        
+- accordion:
+  letter: d
+  data:
+    - title: How frequently should I clean my workplace, i.e. what is considered regular cleaning?
+      content: |
+        As the recommended frequency and intensity may differ by sector, businesses should refer to the sanitation and hygiene advisories disseminated by the National Environmental Agency (NEA) [here](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines){:target="_blank"}{:rel="noopener"}.
+
+- accordion:
+  letter: f
+  data:
+    - title: What should be included in my monitoring plan?
+      content: |
+        The monitoring plan should at minimum, include details on the steps taken to ensure the requirements are communicated and adhered to, and how any anomalies or non-compliance will be identified. The plan should also highlight risk mitigation strategies and proposed steps to remedy and document any non-compliance found.
+
+        You may refer to [Annex B](https://www.mom.gov.sg/-/media/mom/documents/covid-19/annex-b-checklist-of-safe-management-measures.pdf){:target="_blank"}{:rel="noopener"} of the Safe Management Measures requirements, Checklist of Safe Management Measures at the Workplace for Resumption of Business Activities, for guidance on what should be included in the monitoring plan.
+
+    - title: Who can we appoint as a Safe Management Officer?
+      content: |
+        Companies should appoint someone capable of carrying out the duties stated in MOM's requirements for workplace Safe Management Measures within the organisation as the designated Safe Management Officer(s) (SMOs). For unionised companies, union leaders or Workplace Safety and Health officers could be appointed as SMOs. 
+
+        Companies should ensure that SMOs are provided with sufficient resources and guidance to carry out their duties effectively.
+
+        SMOs can be part-time appointments.
+
+    - title: How do I ensure that my employees adhere to Safe Management Measures?
+      content: |
+        Employers are responsible for ensuring that Safe Management Measures are in place, communicated and explained to employees prior to resuming work.
+
+    - title: What should I take into consideration when engaging employees on returning to the workplace?
+      content: |
+        You are encouraged to have a transparent and open discussion with employees on the work arrangements, taking into consideration factors such as: 
+        
+        - Business needs and nature of work, i.e. task requires employees to be physically in office
+        - Readiness of workforce, e.g. infrastructure, IT support, onboarding of new hires, etc.
+        - Implications on remuneration package, e.g. savings from office space rental, transport allowances, etc. 
+        - Sensitivity towards certain groups of employees, i.e. older and more vulnerable employees, employees identified by MOH as not suitable to receive the COVID-19 vaccine, employees with caregiving needs
+
+        Having a clear set of guidelines or workplace policies on the work arrangements would help prevent misunderstandings or disputes. 
+        
+        You may wish to refer to TAFEP's telecommuting guide for more details on implementing a sustainable telecommuting arrangement or to approach TAFEP on work-life programmes that can be implemented at the workplace. 
+
+    - title: Do I need to conduct a deep cleaning of my workplace premises?
+      content: |
+        No. Common spaces include entrances, lifts lobbies, meeting rooms, pantries as well as shared machinery and equipment should be cleaned in accordance with [NEA's advisory](https://www.nea.gov.sg/our-services/public-cleanliness/environmental-cleaning-guidelines/guidelines){:target="_blank"}{:rel="noopener"}. You are not required to enlist a cleaning contractor. 
+
+    - title: One of my workers is infected with COVID-19, and I want to conduct ART for employees who might have been in contact. What type of interactions should count?
+      content: |
+        You should make an assessment based on your workplace setting. For instance, those whom the infected worker had meals with, or those who were at a long meeting with them, may be at risk of infection. You may wish to conduct ART to ensure that they are safe and reduce transmission risk.
+
+        It is important that employers and employees remain socially responsible to lower the risk of transmission at the workplace so as to prevent potential disruption to their operations if more workers are infected.
+
+    - title: Do I need to maintain 1m safe distance during a business meeting?
+      content: |
+        Safe distancing will no longer be required between individuals or between groups.
+
+    - title: Vaccination-Differentiated SMMs (VDS), has been lifted in most settings. Which settings are the exception and do employees working in such settings need to be vaccinated? 
+      content: |
+        VDS has been lifted in most settings <b>except</b>:
+
+        - Events with >500 participants at any one time.
+        
+        - Nightlife establishments where dancing among patrons is one of the intended activities.
+        
+        - Food and beverage (F&B) establishments, including restaurants, coffee shops and hawker centres.
+        
+        Employees in these settings are generally exempted from VDS requirements if they are present at these premises to work.
+
+
